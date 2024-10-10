@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202410102200",
+        "date": "20241011",
+        "url": "https://www.bing.com/th?id=OHR.CelticColours_ES-ES5079462677_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.CelticColours_ES-ES5079462677",
+        "copyright": "Tierras Altas de la Isla del Cabo Bretón, Nueva Escocia, Canadá (© Cavan Images/Alamy)",
+        "copyrightKeyword": "Isla del Cabo Breton Nueva Escocia Canada",
+        "hsh": "a8c080ed4b4b3e08521b914dd796c52e",
+        "description": "Hoy celebramos la magia del otoño y las tradiciones celtas que cobran vida en el Festival Internacional de Colores Celtas que arranca hoy en la Isla del Cabo Bretón, Nueva Escocia, Canadá. Este evento cultural, único en su género, rinde homenaje a los colonos escoceses e irlandeses del siglo XIX, cuyas costumbres siguen vivas en la isla gracias a su aislamiento del mundo moderno. Durante nueve días, el festival se fusiona con el glorioso paisaje otoñal, donde los vibrantes tonos rojos y amarillos pintan sus bosques. La música celta, el baile, el arte y las degustaciones de especialidades culinarias locales son algunas de las actividades que ofrece el festival."
+    },
+    {
         "fullstartdate": "202410092200",
         "date": "20241010",
         "url": "https://www.bing.com/th?id=OHR.SoranoItaly_ES-ES4580008999_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.EuropaMoon_ES-ES3412713189",
         "copyright": "Europa, la luna helada de Júpiter (© NASA/JPL-Caltech/SETI Institute)",
         "copyrightKeyword": "Semana Mundial del Espacio",
-        "hsh": "6f3414d86fe0b1408ba4c0fae9fdc586",
-        "description": "¡Embárcate en un viaje estelar! En esta Semana Mundial del Espacio, con el tema \"Espacio y cambio climático\", reflexionaremos sobre la importancia del seguimiento satelital para comprender las dinámicas del clima y cómo la investigación espacial influye en nuestra vida cotidiana aquí en la Tierra. Más allá de desvelar los misterios del universo, la exploración espacial ha sido clave para impulsar avances en campos como la medicina, las fuentes de energía y las técnicas agrícolas."
-    },
-    {
-        "fullstartdate": "202410022200",
-        "date": "20241003",
-        "url": "https://www.bing.com/th?id=OHR.TajMahalReflection_ES-ES8913986837_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.TajMahalReflection_ES-ES8913986837",
-        "copyright": "Taj Mahal, Agra, Uttar Pradesh, India (© Tanarch/Getty Images)",
-        "copyrightKeyword": "Taj Mahal",
-        "hsh": "9855c9f2fe6f3f23c4651bb29fe3e17e"
+        "hsh": "6f3414d86fe0b1408ba4c0fae9fdc586"
     }
 ]
