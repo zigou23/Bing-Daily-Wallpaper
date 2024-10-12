@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202410122200",
+        "date": "20241013",
+        "url": "https://www.bing.com/th?id=OHR.AlcazarSeville_IT-IT0712843452_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AlcazarSeville_IT-IT0712843452",
+        "copyright": "Patio de las Doncellas, Alcázar di Siviglia, Spagna (© Danny Lehman/Getty Images)",
+        "copyrightKeyword": "Alcázar di Siviglia Spagna",
+        "hsh": "63473875eacec2eb125d284b0fe0cb33",
+        "description": "Passeggiate tra i sussurri del passato al Real Alcázar di Siviglia, in Spagna, una fortezza avvolta dalla bellezza, dove il tempo si è fermato, racchiudendo in sé le voci di epoche lontane. Nata come baluardo musulmano, questa meraviglia si è evoluta in una tela dove cristiani e arabi hanno tessuto insieme il filo dorato dell'arte Mudéjar. Il Patio de las Doncellas vi stupirà con la sua incantevole simmetria e le acque calme che riflettono archi e colonne, narrando storie di convivenza e rispetto."
+    },
+    {
         "fullstartdate": "202410112200",
         "date": "20241012",
         "url": "https://www.bing.com/th?id=OHR.QuebecDuck_IT-IT4692189372_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ValleAostaGranParadiso_IT-IT5881740566",
         "copyright": "Paesaggio autunnale, Parco Nazionale del Gran Paradiso, Italia (© Ondrej Prosicky/Alamy Stock Photo)",
         "copyrightKeyword": "Parco Nazionale del Gran Paradiso",
-        "hsh": "ccd4579b374cb6b5949afd28f275d939",
-        "description": "Immergetevi nel cuore della Valle d'Aosta, dove i contorni montuosi del Parco Nazionale del Gran Paradiso abbracciano la vallata come una madre accoglie i suoi figli. Come potete ammirare, qui l'autunno è uno spettacolo di colori: i verdi si trasformano in arancioni e rossi. Ma non è solo un piacere per lo sguardo. La Valle d’Aosta si anima ogni anno durante la “Festa delle Mele”, un evento che celebra il frutto simbolo di questi monti. Mentre l’occhio si perde tra i riflessi dorati delle foglie, la bocca assapora la dolcezza croccante delle mele, fondendo vista e gusto in un’armonia perfetta."
-    },
-    {
-        "fullstartdate": "202410042200",
-        "date": "20241005",
-        "url": "https://www.bing.com/th?id=OHR.ElephantTeacher_IT-IT9988351261_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ElephantTeacher_IT-IT9988351261",
-        "copyright": "Elefanti africani nel Parco Nazionale dello Tsavo Est, Kenya (© Neil Bowman/Minden Pictures)",
-        "copyrightKeyword": "Giornata mondiale degli insegnanti",
-        "hsh": "41feaee229d0b6ba40f096f132893c31"
+        "hsh": "ccd4579b374cb6b5949afd28f275d939"
     }
 ]
