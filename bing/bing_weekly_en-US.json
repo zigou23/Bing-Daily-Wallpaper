@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202410170700",
+        "date": "20241018",
+        "url": "https://www.bing.com/th?id=OHR.MarsDunes_EN-US3465209450_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MarsDunes_EN-US3465209450",
+        "copyright": "Frost-covered dunes on the surface of Mars (© NASA/JPL-Caltech/UArizona)",
+        "copyrightKeyword": "Mars planet",
+        "hsh": "1a48f3b55c6353063656e4a13ecb132a",
+        "description": "Mars, the fourth planet from the sun, is often referred to as the 'Red Planet' due to its rusty hue from the iron oxide-rich soil dust. The planet is dotted with frosty dunes, largely located in the high latitudes of the northern plains. Mars' atmosphere is composed of nearly 96% carbon dioxide, which is why carbon ice forms on the surface. These dunes showcase the dynamic interaction between Mars' thin atmosphere, its surface, and seasonal temperature changes."
+    },
+    {
         "fullstartdate": "202410160700",
         "date": "20241017",
         "url": "https://www.bing.com/th?id=OHR.FossilsDorset_EN-US9782204825_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.KochiaJapan_EN-US9866955641",
         "copyright": "Kochia, Ibaraki prefecture, Japan (© DigiPub/Getty Images)",
         "copyrightKeyword": "Kochia herb",
-        "hsh": "1b748f60fa8208250caf36ada5aa4b76",
-        "description": "This fiery tumbleweed is kochia, which transforms landscapes when it takes on hues of red, orange, and pink in the fall. In the spring and summer, this annual herb resembles a fluffy green ball. Native to parts of Europe and Asia, kochia, also known as 'summer cypress,' is now widespread throughout the world. But it has a special place in Japan's Hitachi Seaside Park, seen in today's image, where around 30,000–40,000 kochia bushes are planted each year. These ornamental plants create a surreal landscape for visitors to wander through and also hold significance in Japanese culture. Historically, they have been dried to create brooms. However, not all parts of the kochia are destined to sweep the Earth—some are used for food. The plant's nuts, 'tonburi,' often called 'field caviar,' are a prized garnish."
-    },
-    {
-        "fullstartdate": "202410090700",
-        "date": "20241010",
-        "url": "https://www.bing.com/th?id=OHR.AspensColorado_EN-US9105602602_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AspensColorado_EN-US9105602602",
-        "copyright": "Aspens in the White River National Forest, Colorado (© Jason Hatfield/Tandem Stills + Motion)",
-        "copyrightKeyword": "Aspen tree",
-        "hsh": "450613e87d79a49ce9ede25b58f1ce97"
+        "hsh": "1b748f60fa8208250caf36ada5aa4b76"
     }
 ]
