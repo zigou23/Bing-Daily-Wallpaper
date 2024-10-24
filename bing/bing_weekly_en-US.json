@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202410240700",
+        "date": "20241025",
+        "url": "https://www.bing.com/th?id=OHR.BodieCalifornia_EN-US3185568116_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BodieCalifornia_EN-US3185568116",
+        "copyright": "Bodie State Historic Park, Mono County, California (© Julien McRoberts/Tetra Images, LLC/Alamy)",
+        "copyrightKeyword": "Bodie State Historic Park",
+        "hsh": "116124d1c3d2c56e90c4047654de37e8",
+        "description": "In the ghostly silence of Bodie, California, it feels like time stands still. This mining camp became a booming gold rush town in the 1870s, after a cave-in revealed a rich vein of gold. Bodie was named after W.S. Bodey, a prospector who died in a blizzard before seeing the town's rise. When large deposits were found there, it grew to nearly 10,000 residents, with saloons, dance halls, and breweries lining its streets. But as the gold ran dry, so did the town's fortunes. The mines closed, the population dwindled, and by 1915, the place was abandoned. Bodie's streets are now empty, its wooden buildings frozen in decay."
+    },
+    {
         "fullstartdate": "202410230700",
         "date": "20241024",
         "url": "https://www.bing.com/th?id=OHR.MadameSherriCastle_EN-US3066456106_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MarsDunes_EN-US3465209450",
         "copyright": "Frost-covered dunes on the surface of Mars (© NASA/JPL-Caltech/UArizona)",
         "copyrightKeyword": "Mars planet",
-        "hsh": "1a48f3b55c6353063656e4a13ecb132a",
-        "description": "Mars, the fourth planet from the sun, is often referred to as the 'Red Planet' due to its rusty hue from the iron oxide-rich soil dust. The planet is dotted with frosty dunes, largely located in the high latitudes of the northern plains. Mars' atmosphere is composed of nearly 96% carbon dioxide, which is why carbon ice forms on the surface. These dunes showcase the dynamic interaction between Mars' thin atmosphere, its surface, and seasonal temperature changes."
-    },
-    {
-        "fullstartdate": "202410160700",
-        "date": "20241017",
-        "url": "https://www.bing.com/th?id=OHR.FossilsDorset_EN-US9782204825_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FossilsDorset_EN-US9782204825",
-        "copyright": "Fossils of belemnites and ammonites, Jurassic Coast, Dorset, England (© Nature Picture Library/Alamy)",
-        "copyrightKeyword": "National Fossil Day",
-        "hsh": "b4b6e0b9fc909be0fdc81cc674e4ec58"
+        "hsh": "1a48f3b55c6353063656e4a13ecb132a"
     }
 ]

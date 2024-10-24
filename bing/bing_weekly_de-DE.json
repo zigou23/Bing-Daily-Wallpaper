@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202410242200",
+        "date": "20241025",
+        "url": "https://www.bing.com/th?id=OHR.MontBlancMassif_DE-DE0416304565_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MontBlancMassif_DE-DE0416304565",
+        "copyright": "Mont Blanc in Chamonix, Frankreich (© Simon Schöpf/Getty Images)",
+        "copyrightKeyword": "Mont Blanc",
+        "hsh": "1a52d760bed3329d6fbccf7d1faa6caf",
+        "description": "Wir hoffen, Sie sind schwindelfrei! Heute befinden wir uns auf dem Mont Blanc, dem höchsten Gipfel der Alpen mit einer beeindruckenden Höhe von 4.808 Metern. Diese majestätische Berglandschaft zieht jedes Jahr zahlreiche Touristen und Bergsteiger an, die das Abenteuer und die atemberaubende Aussicht genießen möchten. Umgeben von imposanten Gletschern und schroffen Felsformationen ist der Mont Blanc Teil einer massiven Gebirgskette, die sich über die Grenzen Frankreichs, Italiens und der Schweiz erstreckt."
+    },
+    {
         "fullstartdate": "202410232200",
         "date": "20241024",
         "url": "https://www.bing.com/th?id=OHR.HumboldtUniversityLibrary_DE-DE9129729075_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.CentralParkAutumn_DE-DE9416328448",
         "copyright": "Herbst im Central Park, Manhattan, New York City, USA (© mapman/Shutterstock)",
         "copyrightKeyword": "Central Park im Herbst",
-        "hsh": "caca905967ef241483f0d09671ea5f93",
-        "description": "Heute laden wir Sie zu einem Spaziergang entlang der berühmten Promenade „The Mall“ im herbstlichen Central Park in New York City, USA, ein. Diese von prächtigen Ulmen gesäumte Allee auf unserem heutigen Bild führt durch das Herz des Parks und ist besonders im Herbst ein Ort der Ruhe und Schönheit. Die herbstlichen Farben schaffen eine romantische Atmosphäre, die auch in vielen Filmen verewigt wurde. So drehte der deutsche Regisseur Wim Wenders Teile seines Films Der Himmel über Berlin in diesem Park, in dem die melancholische Stimmung des Herbstes perfekt eingefangen wird."
-    },
-    {
-        "fullstartdate": "202410162200",
-        "date": "20241017",
-        "url": "https://www.bing.com/th?id=OHR.KochiaJapan_DE-DE4546575583_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.KochiaJapan_DE-DE4546575583",
-        "copyright": "Sommerzypressen, Präfektur Ibaraki, Japan (© DigiPub/Getty Images)",
-        "copyrightKeyword": "Sommerzypresse ",
-        "hsh": "def70ed1fabfa0018f232b821fbdb31b"
+        "hsh": "caca905967ef241483f0d09671ea5f93"
     }
 ]

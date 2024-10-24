@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202410240400",
+        "date": "20241025",
+        "url": "https://www.bing.com/th?id=OHR.BodieCalifornia_FR-CA3435010642_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BodieCalifornia_FR-CA3435010642",
+        "copyright": "Bodie State Historic Park, Mono County, Californie, États-Unis (© Julien McRoberts/Tetra Images, LLC/Alamy)",
+        "copyrightKeyword": "Bodie State Historic Park, états-unis",
+        "hsh": "00d62d0cb285f1edc043953c9acb66b0",
+        "description": "Bodie, située en Californie, est l'une des villes fantômes les plus célèbres des États-Unis. Fondée en 1859, elle a connu son apogée à la fin des années 1800 lors de la Ruée vers l'or. À son sommet, la ville comptait près de 10 000 habitants, attirés par l'espoir de trouver des richesses. Cependant, comme beaucoup de villes minières, Bodie a rapidement décliné lorsque les gisements d'or ont commencé à s'épuiser."
+    },
+    {
         "fullstartdate": "202410230400",
         "date": "20241024",
         "url": "https://www.bing.com/th?id=OHR.MadameSherriCastle_FR-CA3233145393_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.KochiaJapan_FR-CA6883202795",
         "copyright": "Plante kochia, préfecture d'Ibaraki, Japon (© DigiPub/Getty Images)",
         "copyrightKeyword": "Kochia herb",
-        "hsh": "387eeba2835680fa9cb9207e2f2fe6fd",
-        "description": "Laissez-vous envoûter par le spectacle saisissant du kochia, une plante qui se métamorphose à l’automne, enflammant les paysages de rouges et d’oranges éclatants. Originaire d’Europe et d’Asie, le kochia a trouvé une nouvelle demeure au Japon, où il illumine le Parc Hitachi Seaside avec près de 40 000 buissons, transformant le parc en un tableau vivant. Outre sa beauté, cette plante surprend : ses fruits, surnommés « caviar des champs », apportent une touche gourmande et unique en cuisine. Un vrai délice à découvrir!"
-    },
-    {
-        "fullstartdate": "202410160400",
-        "date": "20241017",
-        "url": "https://www.bing.com/th?id=OHR.FossilsDorset_FR-CA6496298387_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FossilsDorset_FR-CA6496298387",
-        "copyright": "Fossiles de bélemnites et d'ammonites, côte jurassique, Dorset, Royaume-Uni (© Nature Picture Library/Alamy)",
-        "copyrightKeyword": "fossile",
-        "hsh": "8a875da455f4bc50eab03122ea89b847"
+        "hsh": "387eeba2835680fa9cb9207e2f2fe6fd"
     }
 ]
