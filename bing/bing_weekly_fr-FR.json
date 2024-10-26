@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202410262300",
+        "date": "20241027",
+        "url": "https://www.bing.com/th?id=OHR.PolarBearHug_FR-FR4269390170_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PolarBearHug_FR-FR4269390170",
+        "copyright": "Ourse polaire avec son ourson, Churchill, Manitoba, Canada (© Design Pics/plainpicture)",
+        "copyrightKeyword": "Polar bear",
+        "hsh": "4e771c8c3fb8583bbced3bce6652bb47",
+        "description": "Saviez-vous que l'ours polaire est le plus grand carnivore terrestre ? Le Canada célèbre la Semaine de l’ours polaire pour mettre en lumière cet animal emblématique et menacé. Créée pour sensibiliser aux défis auxquels ils font face, cette semaine encourage des actions concrètes pour protéger leur habitat naturel. Chaque année, elle coïncide avec le rassemblement des ours à Churchill, surnommée « Capitale mondiale de l'ours polaire », où ces majestueux prédateurs attendent impatiemment que la baie d'Hudson gèle pour commencer leur chasse aux phoques, leur repas préféré."
+    },
+    {
         "fullstartdate": "202410252200",
         "date": "20241026",
         "url": "https://www.bing.com/th?id=OHR.DaylightOrsay_FR-FR6504936679_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.NuitsChampagne_FR-FR1213854382",
         "copyright": "Vignobles de Champagne, parc naturel régional de la Montagne de Reims, Verzenay (© Philippe Turpin/Getty Images)",
         "copyrightKeyword": "Les Nuits de Champagne",
-        "hsh": "8e09689ba30c910f5345cce5ef86cc96",
-        "description": "Au cœur de la région Champagne, le parc naturel régional de la Montagne de Reims se dévoile comme un trésor inestimable, où la nature et la culture s’entrelacent harmonieusement. Imaginez des forêts denses, des collines verdoyantes et des vignobles en terrasses, offrant un panorama à couper le souffle. Chaque année, le festival des Nuits de Champagne, qui se déroule à Troyes depuis 1988, attire des milliers d’amateurs de musique. Cette célébration de la chanson francophone est une invitation à l’évasion."
-    },
-    {
-        "fullstartdate": "202410182200",
-        "date": "20241019",
-        "url": "https://www.bing.com/th?id=OHR.DenderaTemple_FR-FR5972566058_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DenderaTemple_FR-FR5972566058",
-        "copyright": "Temple d'Hathor, complexe du temple de Dendera, Qena, Égypte (© Nick Brundle Photography/Getty Images)",
-        "copyrightKeyword": "Temple d'Hathor",
-        "hsh": "80b64a99ca8be11ea0741a9926b3f208"
+        "hsh": "8e09689ba30c910f5345cce5ef86cc96"
     }
 ]
