@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202410290000",
+        "date": "20241030",
+        "url": "https://www.bing.com/th?id=OHR.GreatOwl_EN-GB3714691619_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GreatOwl_EN-GB3714691619",
+        "copyright": "Great horned owl (© Mark Newman/Getty Images)",
+        "copyrightKeyword": "Great horned owl",
+        "hsh": "aefcdd5132ffbeb846e9d7a1f7186129",
+        "description": "The Halloween season is upon us, so let's meet one of the holiday's icons: the great horned owl. With its keen vision, eerie vocalisations and silent flight, this owl has historically been revered and feared. In folklore and mythology, owls were considered symbols of wisdom and omens of death. On Samhain, the Celtic precursor to Halloween, the owl was believed to be the kin of roaming spirits."
+    },
+    {
         "fullstartdate": "202410280000",
         "date": "20241029",
         "url": "https://www.bing.com/th?id=OHR.PumpkinMist_EN-GB3442164474_1920x1080.jpg",
@@ -56,8 +66,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MadameSherriCastle_EN-GB1499930962",
         "copyright": "Madame Sherri Forest and the remnant of an old castle, New Hampshire, USA (© yggdrasill/Shutterstock)",
         "copyrightKeyword": "New Hampshire",
-        "hsh": "f2877a7b2588b229c2a1c0ca83976ac2",
-        "description": "Madame Sherri Forest in Chesterfield in New Hampshire, United States, is a captivating destination steeped in history and natural beauty. It was once the site of an extravagant house built in the 1930s by Madame Antoinette Sherri, a flamboyant 1920s costume designer known for her lavish parties. Madame Sherri's dramatic arrivals in town, often in a chauffeur-driven Packard, draped in furs, became the talk of the locals. As her fortune declined, her 'castle' fell into disrepair and was vandalised. In 1959, she returned to find her property in ruins and never came back. A fire destroyed the house in 1963, leaving behind only the stone foundation, an iconic staircase and a large fireplace leading to a lone chimney."
+        "hsh": "f2877a7b2588b229c2a1c0ca83976ac2"
     },
     {
         "fullstartdate": "202410212300",
@@ -67,14 +76,5 @@
         "copyright": "Palazzo Zuccari, Rome, Italy (© Photon-Photos/Getty Images)",
         "copyrightKeyword": "Rome",
         "hsh": "3a6273e96f007f486ee0d007937381cc"
-    },
-    {
-        "fullstartdate": "202410202300",
-        "date": "20241021",
-        "url": "https://www.bing.com/th?id=OHR.AutumnCypress_EN-GB0750643734_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AutumnCypress_EN-GB0750643734",
-        "copyright": "Cypress trees in George L Smith State Park, Georgia, USA (© Chris Moore/TANDEM Stills + Motion)",
-        "copyrightKeyword": "George L Smith State Park",
-        "hsh": "00cf83617ce22cad1bd61d3ad9238478"
     }
 ]
