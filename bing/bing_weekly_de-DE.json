@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202410302300",
+        "date": "20241031",
+        "url": "https://www.bing.com/th?id=OHR.GargoyleParis_DE-DE9566321250_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GargoyleParis_DE-DE9566321250",
+        "copyright": "Chimäre von Notre-Dame de Paris, Frankreich (© scaliger/Getty Images)",
+        "copyrightKeyword": "Halloween",
+        "hsh": "d3ef0cdbb9447ade8eeb28cb9fab2524",
+        "description": "Kürbisse leuchten, Gespenster schweben, Halloween ist da! Doch woher kommt dieser Brauch eigentlich? Der Name ist eine Umformung von „The Eve of All Hallows”. Zu Deutsch: Der Abend vor Allerheiligen – dem katholischen Feiertag am 1. November. Durch sprachliche Faulheit wurde All Hallows’Eve zu Hallows Even und schließlich zu Hallowe’en.  Außerdem wurde am 1. November ursprünglich ein keltisches Fest namens Samhain gefeiert, das das Ende des Sommers und den Beginn des Winters  markiert. Es wurde geglaubt, dass in dieser Nacht die Grenze zwischen den Welten der Lebenden und der Toten verschwimmt, weshalb Geister und Seelen umherwandern."
+    },
+    {
         "fullstartdate": "202410292300",
         "date": "20241030",
         "url": "https://www.bing.com/th?id=OHR.HauntedEdinburgh_DE-DE5335021616_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.HumboldtUniversityLibrary_DE-DE9129729075",
         "copyright": "Die Bibliothek der Humboldt-Universität in Berlin (© Hemis/Alamy Stock Photo)",
         "copyrightKeyword": "Tag der Bibliotheken",
-        "hsh": "fd38dc22e74227d0af0db51d2e5b1327",
-        "description": "Willkommen zum Tag der Bibliotheken, der jedes Jahr am 24. Oktober gefeiert wird! Dieser besondere Tag würdigt die Bedeutung von Bibliotheken als Orte des Wissens, der Bildung und des kulturellen Austauschs. Bibliotheken bieten nicht nur Zugang zu einer Fülle von Büchern und digitalen Medien, sondern sind auch Treffpunkte für Menschen, die ihre Liebe zum Lernen teilen."
-    },
-    {
-        "fullstartdate": "202410222200",
-        "date": "20241023",
-        "url": "https://www.bing.com/th?id=OHR.MadameSherriCastle_DE-DE5744863677_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MadameSherriCastle_DE-DE5744863677",
-        "copyright": "Madame Sherri Forest und die Überreste einer alten Burg, New Hampshire, USA (© yggdrasill/Shutterstock)",
-        "copyrightKeyword": "New Hampshire",
-        "hsh": "e4d46554044da7a905acba7cefc322e9"
+        "hsh": "fd38dc22e74227d0af0db51d2e5b1327"
     }
 ]

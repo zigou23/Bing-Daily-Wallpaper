@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202410300000",
+        "date": "20241031",
+        "url": "https://www.bing.com/th?id=OHR.HauntedEdinburgh_EN-GB3981139829_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.HauntedEdinburgh_EN-GB3981139829",
+        "copyright": "View of Edinburgh Castle from a churchyard in Scotland (© Chris Dorney/Alamy Stock Photo)",
+        "copyrightKeyword": "Edinburgh Castle Scotland",
+        "hsh": "66d8a0faa3b1083e86a981b997cdff44",
+        "description": "If you're looking for a Halloween destination that combines history with a hefty dose of hauntings, Edinburgh Castle is the place to be. Positioned high on an extinct volcano, these fortress walls have seen wars, royal births, executions and plenty of other drama since the 11th century. But what really sets it apart is its reputation as one of Scotland's most haunted spots. It's no surprise that with more than 1,000 years of history, some have reported ghost sightings."
+    },
+    {
         "fullstartdate": "202410290000",
         "date": "20241030",
         "url": "https://www.bing.com/th?id=OHR.GreatOwl_EN-GB3714691619_1920x1080.jpg",
@@ -56,8 +66,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BodieCalifornia_EN-GB1752364687",
         "copyright": "Bodie State Historic Park, Mono County, California, USA (© Julien McRoberts/Tetra Images, LLC/Alamy Stock Photo)",
         "copyrightKeyword": "Bodie State Historic Park",
-        "hsh": "49095c0d60971271bfe352798604feb3",
-        "description": "In the ghostly silence of Bodie in California, United States, it feels like time stands still. This once-booming gold rush town was established in 1860. Bodie was named after WS Bodey, a prospector who discovered gold but tragically died in a blizzard before seeing the town's rise. When large deposits of gold were found there, it grew to nearly 10,000 residents, with saloons, dance halls and breweries lining its streets. But as the gold ran dry, so did the town's fortunes. The mines closed, the population dwindled, and by 1915, the place was abandoned. Bodie's streets are now empty, its wooden buildings frozen in decay."
+        "hsh": "49095c0d60971271bfe352798604feb3"
     },
     {
         "fullstartdate": "202410222300",
@@ -67,14 +76,5 @@
         "copyright": "Madame Sherri Forest and the remnant of an old castle, New Hampshire, USA (© yggdrasill/Shutterstock)",
         "copyrightKeyword": "New Hampshire",
         "hsh": "f2877a7b2588b229c2a1c0ca83976ac2"
-    },
-    {
-        "fullstartdate": "202410212300",
-        "date": "20241022",
-        "url": "https://www.bing.com/th?id=OHR.MonsterDoor_EN-GB1067723555_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MonsterDoor_EN-GB1067723555",
-        "copyright": "Palazzo Zuccari, Rome, Italy (© Photon-Photos/Getty Images)",
-        "copyrightKeyword": "Rome",
-        "hsh": "3a6273e96f007f486ee0d007937381cc"
     }
 ]
