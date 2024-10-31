@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202410310000",
+        "date": "20241101",
+        "url": "https://www.bing.com/th?id=OHR.GargoyleParis_EN-GB4271245524_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GargoyleParis_EN-GB4271245524",
+        "copyright": "Chimera of Notre-Dame de Paris, France (© scaliger/Getty Images)",
+        "copyrightKeyword": "Halloween",
+        "hsh": "6daa05cfd7584ccf5bba29a4c09f4ed9",
+        "description": "Do you sometimes get spooked? If you do, that means you have a healthy sense of fun and fear. And what better day of the year than Halloween to indulge in all things scary? The holiday we know today traces its roots to ancient traditions, including the Celts' Samhain, the Romans' Feralia and medieval Christian observances. Today, costumed people mingle in the streets, not unlike their ancestors who donned animal skins to divine the future or celebrate saints and martyrs."
+    },
+    {
         "fullstartdate": "202410300000",
         "date": "20241031",
         "url": "https://www.bing.com/th?id=OHR.HauntedEdinburgh_EN-GB3981139829_1920x1080.jpg",
@@ -56,8 +66,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MontBlancMassif_EN-GB2071333210",
         "copyright": "Mont Blanc in Chamonix, France (© Simon Schöpf/Getty Images)",
         "copyrightKeyword": "Frankenstein novel",
-        "hsh": "d5c5ea979c18d218b2c094f3b3dd1aa5",
-        "description": "Picture yourself at the highest peak in the Alps, where the air is crisp and the views are breathtaking. The towering presence of Mont Blanc, seen in this image, has left an indelible mark on literature, most notably on Mary Shelley's 'Frankenstein.' The last Friday of October is Frankenstein Friday, honouring Shelley's literary genius and the fascinating creature born from her imagination. 'Frankenstein' was conceived during a ghost story challenge. In 1816, an 18-year-old Shelley, along with fellow writers Percy Bysshe Shelley, John Polidori and Lord Byron, spent a stormy summer in Switzerland. There, she penned the tale of Victor Frankenstein and the Creature. A pivotal scene in the novel takes place on a glacier near Mont Blanc, where Victor is confronted by his monstrous creation. This setting, with its surreal beauty and treacherous terrain, perfectly captures a sense of awe and terror."
+        "hsh": "d5c5ea979c18d218b2c094f3b3dd1aa5"
     },
     {
         "fullstartdate": "202410232300",
@@ -67,14 +76,5 @@
         "copyright": "Bodie State Historic Park, Mono County, California, USA (© Julien McRoberts/Tetra Images, LLC/Alamy Stock Photo)",
         "copyrightKeyword": "Bodie State Historic Park",
         "hsh": "49095c0d60971271bfe352798604feb3"
-    },
-    {
-        "fullstartdate": "202410222300",
-        "date": "20241023",
-        "url": "https://www.bing.com/th?id=OHR.MadameSherriCastle_EN-GB1499930962_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MadameSherriCastle_EN-GB1499930962",
-        "copyright": "Madame Sherri Forest and the remnant of an old castle, New Hampshire, USA (© yggdrasill/Shutterstock)",
-        "copyrightKeyword": "New Hampshire",
-        "hsh": "f2877a7b2588b229c2a1c0ca83976ac2"
     }
 ]

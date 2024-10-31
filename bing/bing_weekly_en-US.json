@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202410310700",
+        "date": "20241101",
+        "url": "https://www.bing.com/th?id=OHR.GargoyleParis_EN-US4049828558_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GargoyleParis_EN-US4049828558",
+        "copyright": "Chimera of Notre-Dame de Paris, France (© scaliger/Getty Images)",
+        "copyrightKeyword": "Halloween",
+        "hsh": "24132802d4e3d9986075804c30942768",
+        "description": "Do you sometimes get spooked? If you do, that means you have a healthy sense of fun and fear. And what better day of the year than Halloween to indulge in all things scary? The holiday we know today traces its roots to ancient traditions, including the Celts' Samhain, the Romans' Feralia, and medieval Christian observances. Today, costumed people mingle in the streets, not unlike their ancestors who donned animal skins to divine the future or celebrate saints and martyrs."
+    },
+    {
         "fullstartdate": "202410300700",
         "date": "20241031",
         "url": "https://www.bing.com/th?id=OHR.HauntedEdinburgh_EN-US3906244993_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BodieCalifornia_EN-US3185568116",
         "copyright": "Bodie State Historic Park, Mono County, California (© Julien McRoberts/Tetra Images, LLC/Alamy)",
         "copyrightKeyword": "Bodie State Historic Park",
-        "hsh": "116124d1c3d2c56e90c4047654de37e8",
-        "description": "In the ghostly silence of Bodie, California, it feels like time stands still. This mining camp became a booming gold rush town in the 1870s, after a cave-in revealed a rich vein of gold. Bodie was named after W.S. Bodey, a prospector who died in a blizzard before seeing the town's rise. When large deposits were found there, it grew to nearly 10,000 residents, with saloons, dance halls, and breweries lining its streets. But as the gold ran dry, so did the town's fortunes. The mines closed, the population dwindled, and by 1915, the place was abandoned. Bodie's streets are now empty, its wooden buildings frozen in decay."
-    },
-    {
-        "fullstartdate": "202410230700",
-        "date": "20241024",
-        "url": "https://www.bing.com/th?id=OHR.MadameSherriCastle_EN-US3066456106_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MadameSherriCastle_EN-US3066456106",
-        "copyright": "Madame Sherri Forest and the ruins of an old castle, New Hampshire (© yggdrasill/Shutterstock)",
-        "copyrightKeyword": "New Hampshire",
-        "hsh": "e03f425984563ea51e6f7092e949ee56"
+        "hsh": "116124d1c3d2c56e90c4047654de37e8"
     }
 ]

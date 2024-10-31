@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202410312300",
+        "date": "20241101",
+        "url": "https://www.bing.com/th?id=OHR.VineyardsBlackForestFall_DE-DE2832375252_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.VineyardsBlackForestFall_DE-DE2832375252",
+        "copyright": "Luftaufnahme von Weinbergen im Herbst, Varnhalt, Schwarzwald, Baden-Württemberg (© Sabine Gerold/Amazing Aerial Agency)",
+        "copyrightKeyword": "Varnhalt Badische Weinstraße",
+        "hsh": "223398c96f51558d05a5cc5f3e9753cf",
+        "description": "Die Badische Weinstraße ist eine malerische Route, die sich über 500 Kilometer entlang des Schwarzwaldes erstreckt und Sie zu den schönsten Weinbaugebieten Deutschlands führt. Auf unserem heutigen Bild befinden wir uns in Varnhalt, einem charmanten Weinort, der zu Baden-Baden gehört. Eine Besonderheit der Region ist das Weingut Nägelsförsterhof, das bereits seit 1588 besteht. Hier werden vor allem erstklassige Rieslingweine angebaut, die für ihre herausragende Qualität bekannt sind."
+    },
+    {
         "fullstartdate": "202410302300",
         "date": "20241031",
         "url": "https://www.bing.com/th?id=OHR.GargoyleParis_DE-DE9566321250_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MontBlancMassif_DE-DE0416304565",
         "copyright": "Mont Blanc in Chamonix, Frankreich (© Simon Schöpf/Getty Images)",
         "copyrightKeyword": "Mont Blanc",
-        "hsh": "1a52d760bed3329d6fbccf7d1faa6caf",
-        "description": "Wir hoffen, Sie sind schwindelfrei! Heute befinden wir uns auf dem Mont Blanc, dem höchsten Gipfel der Alpen mit einer beeindruckenden Höhe von 4.808 Metern. Diese majestätische Berglandschaft zieht jedes Jahr zahlreiche Touristen und Bergsteiger an, die das Abenteuer und die atemberaubende Aussicht genießen möchten. Umgeben von imposanten Gletschern und schroffen Felsformationen ist der Mont Blanc Teil einer massiven Gebirgskette, die sich über die Grenzen Frankreichs, Italiens und der Schweiz erstreckt."
-    },
-    {
-        "fullstartdate": "202410232200",
-        "date": "20241024",
-        "url": "https://www.bing.com/th?id=OHR.HumboldtUniversityLibrary_DE-DE9129729075_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.HumboldtUniversityLibrary_DE-DE9129729075",
-        "copyright": "Die Bibliothek der Humboldt-Universität in Berlin (© Hemis/Alamy Stock Photo)",
-        "copyrightKeyword": "Tag der Bibliotheken",
-        "hsh": "fd38dc22e74227d0af0db51d2e5b1327"
+        "hsh": "1a52d760bed3329d6fbccf7d1faa6caf"
     }
 ]
