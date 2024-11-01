@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202411010000",
+        "date": "20241102",
+        "url": "https://www.bing.com/th?id=OHR.VineyardsBlackForestFall_EN-GB0455898190_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.VineyardsBlackForestFall_EN-GB0455898190",
+        "copyright": "Aerial view of vineyards in autumn, Varnhalt, Black Forest, Germany (© Sabine Gerold/Amazing Aerial Agency)",
+        "copyrightKeyword": "Varnhalt",
+        "hsh": "9638d3c4ad3582837425d26bed94b67e",
+        "description": "The Badische Weinstraße is a picturesque route that stretches over 300 miles along the Black Forest, leading you through some of Germany's most beautiful wine-growing regions. In today's image, we find ourselves in Varnhalt, a charming wine village that is part of Baden-Baden. One of the region's highlights is the Nägelsförsterhof winery, which has been in operation since 1588. This vineyard is well-known for producing Riesling wines, renowned for their exceptional quality."
+    },
+    {
         "fullstartdate": "202410310000",
         "date": "20241101",
         "url": "https://www.bing.com/th?id=OHR.GargoyleParis_EN-GB4271245524_1920x1080.jpg",
@@ -56,8 +66,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.GhostForest_EN-GB6546865643",
         "copyright": "Gespensterwald, Nienhagen, Mecklenburg-West Pomerania, Germany (© mauritius images GmbH/Alamy Stock Photo)",
         "copyrightKeyword": "Nienhagen Mecklenburg Western Pomerania",
-        "hsh": "f607db91f20b9f5cbf581495302905cc",
-        "description": "In the coastal region of Mecklenburg-West Pomerania in Germany lies the Gespensterwald, which means 'Ghost Forest,' seen in today's image. This spine-tingling forest covers about 445 acres (180 hectares), with its gnarled beech, hornbeam, ash and oak trees twisting toward the sky. The salty sea air from the Baltic Sea and the moist climate contribute to the trees' distorted shapes, giving rise to the forest's haunted moniker. Visitors experience light-hearted brushes with the supernatural, such as the crunch of dead leaves, a friendly spirit waving hello from afar or a mischievous ghost peeking from behind a tree. The strategic lighting, which casts ghostly shadows, along with the sculptures and decorations placed along the path, are elements that enhance the forest's ghostly aura throughout the year."
+        "hsh": "f607db91f20b9f5cbf581495302905cc"
     },
     {
         "fullstartdate": "202410242300",
@@ -67,14 +76,5 @@
         "copyright": "Mont Blanc in Chamonix, France (© Simon Schöpf/Getty Images)",
         "copyrightKeyword": "Frankenstein novel",
         "hsh": "d5c5ea979c18d218b2c094f3b3dd1aa5"
-    },
-    {
-        "fullstartdate": "202410232300",
-        "date": "20241024",
-        "url": "https://www.bing.com/th?id=OHR.BodieCalifornia_EN-GB1752364687_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BodieCalifornia_EN-GB1752364687",
-        "copyright": "Bodie State Historic Park, Mono County, California, USA (© Julien McRoberts/Tetra Images, LLC/Alamy Stock Photo)",
-        "copyrightKeyword": "Bodie State Historic Park",
-        "hsh": "49095c0d60971271bfe352798604feb3"
     }
 ]

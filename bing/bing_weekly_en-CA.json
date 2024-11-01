@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202411010400",
+        "date": "20241102",
+        "url": "https://www.bing.com/th?id=OHR.VineyardsBlackForestFall_EN-CA1623253128_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.VineyardsBlackForestFall_EN-CA1623253128",
+        "copyright": "Aerial view of vineyards, Varnhalt, Black Forest, Germany (© Sabine Gerold/Amazing Aerial Agency)",
+        "copyrightKeyword": "Varnhalt",
+        "hsh": "949e521d5000380c767dd4252159352f",
+        "description": "The Badische Weinstraße is a picturesque route that stretches over 500 kilometres along the Black Forest, leading you through some of Germany's most beautiful wine-growing regions. In today's image, we find ourselves in Varnhalt, a charming wine village that is part of Baden-Baden. One of the region's highlights is the Nägelsförsterhof winery, which has been in operation since 1588. This vineyard is well-known for producing Riesling wines, renowned for their exceptional quality."
+    },
+    {
         "fullstartdate": "202410310400",
         "date": "20241101",
         "url": "https://www.bing.com/th?id=OHR.GargoyleParis_EN-CA6806508662_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MontBlancMassif_EN-CA4972012680",
         "copyright": "Mont Blanc in Chamonix, France (© Simon Schöpf/Getty Images)",
         "copyrightKeyword": "Frankenstein novel",
-        "hsh": "93f371c007318220bc241ebb6be6bf99",
-        "description": "Picture yourself at the highest peak in the Alps, where the air is crisp and the views are breathtaking. The towering presence of Mont Blanc, seen in this image, has left an indelible mark on literature, most notably on Mary Shelley's 'Frankenstein.' The last Friday of October is Frankenstein Friday, honouring Shelley's literary genius and the fascinating creature born from her imagination. 'Frankenstein' was conceived during a ghost story challenge. In 1816, an 18-year-old Shelley, along with fellow writers Percy Bysshe Shelley, John Polidori and Lord Byron, spent a stormy summer in Switzerland. There, she penned the tale of Victor Frankenstein and the Creature. A pivotal scene in the novel takes place on a glacier near Mont Blanc, where Victor is confronted by his monstrous creation. This setting, with its surreal beauty and treacherous terrain, perfectly captures a sense of awe and terror."
-    },
-    {
-        "fullstartdate": "202410240400",
-        "date": "20241025",
-        "url": "https://www.bing.com/th?id=OHR.BodieCalifornia_EN-CA4900321008_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BodieCalifornia_EN-CA4900321008",
-        "copyright": "Bodie State Historic Park, Mono County, California, USA (© Julien McRoberts/Tetra Images, LLC/Alamy Stock Photo)",
-        "copyrightKeyword": "Bodie State Historic Park",
-        "hsh": "9214378cb7549d257f2c6ff7f4779f43"
+        "hsh": "93f371c007318220bc241ebb6be6bf99"
     }
 ]
