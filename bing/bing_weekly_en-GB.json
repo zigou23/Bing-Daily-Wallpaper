@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202411020000",
+        "date": "20241103",
+        "url": "https://www.bing.com/th?id=OHR.BisonYellowstone_EN-GB0992143325_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BisonYellowstone_EN-GB0992143325",
+        "copyright": "American bison in Yellowstone National Park, Wyoming, USA (© Ian Shive/TANDEM Stills + Motion)",
+        "copyrightKeyword": "American bison",
+        "hsh": "65cf387fb1158caf80f10b2d0e8740fc",
+        "description": "Once upon a time, in the boundless grasslands of North America, there roamed creatures of great strength and majesty—the American bison. These animals were a key part of life for many Native American tribes, providing food, clothing and tools. Their population dwindled perilously low in the late 1800s, falling from as many as 60 million to fewer than 1,000 due to excessive hunting and disease. Enter a group of conservationists, ranchers and Native Americans who stepped in to save the species. Now, over 500,000 bison roam again, many in protected areas like Yellowstone National Park in Wyoming, featured in today's image."
+    },
+    {
         "fullstartdate": "202411010000",
         "date": "20241102",
         "url": "https://www.bing.com/th?id=OHR.VineyardsBlackForestFall_EN-GB0455898190_1920x1080.jpg",
@@ -56,8 +66,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DSTEnds2024_EN-GB1274642468",
         "copyright": "The Balmoral Clocktower, Edinburgh (© Puthipong Worasaran/Moment/Getty Images)",
         "copyrightKeyword": "British Summer Time ends",
-        "hsh": "59cd43b770f613305f2b56689f8206bc",
-        "description": "Time is of the essence today: the last Sunday of October marks the end of British Summer Time. At 2 AM this morning, the clocks fell back one hour, meaning there was an extra hour of sleep. While the idea of summer time was mentioned in 1784 by American inventor Benjamin Franklin, the first serious proposal for changing the clocks in the United Kingdom came from British builder William Willett in 1907. He valued having more daylight and felt so strongly about this that he published a pamphlet called 'The Waste of Daylight. Over time, many countries adopted the practice to give people more daylight in the evenings during the summer months."
+        "hsh": "59cd43b770f613305f2b56689f8206bc"
     },
     {
         "fullstartdate": "202410252300",
@@ -67,14 +76,5 @@
         "copyright": "Gespensterwald, Nienhagen, Mecklenburg-West Pomerania, Germany (© mauritius images GmbH/Alamy Stock Photo)",
         "copyrightKeyword": "Nienhagen Mecklenburg Western Pomerania",
         "hsh": "f607db91f20b9f5cbf581495302905cc"
-    },
-    {
-        "fullstartdate": "202410242300",
-        "date": "20241025",
-        "url": "https://www.bing.com/th?id=OHR.MontBlancMassif_EN-GB2071333210_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MontBlancMassif_EN-GB2071333210",
-        "copyright": "Mont Blanc in Chamonix, France (© Simon Schöpf/Getty Images)",
-        "copyrightKeyword": "Frankenstein novel",
-        "hsh": "d5c5ea979c18d218b2c094f3b3dd1aa5"
     }
 ]
