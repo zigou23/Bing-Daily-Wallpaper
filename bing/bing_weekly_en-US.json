@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202411050800",
+        "date": "20241106",
+        "url": "https://www.bing.com/th?id=OHR.DCSunrise_EN-US2459275186_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.DCSunrise_EN-US2459275186",
+        "copyright": "Autumn sunrise over the National Mall, Washington, DC (© WLDavies/iStock/Getty Images Plus)",
+        "copyrightKeyword": "national mall",
+        "hsh": "60b9de1c1409b6a7b95a640673b61d02",
+        "description": "It's time to get out and vote! In 1845, Congress designated the first Tuesday after the first Monday in November as the day Americans vote for most federal offices. Prior to this, states held elections on a date of their choosing within about a month of early December, which created issues with early and late elections. For convenience and to save money, many elections for state and local offices are also held on Election Day."
+    },
+    {
         "fullstartdate": "202411040800",
         "date": "20241105",
         "url": "https://www.bing.com/th?id=OHR.CumbriaAutumn_EN-US4102686749_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.GreatOwl_EN-US3778222109",
         "copyright": "Great horned owl (© Mark Newman/Getty Images)",
         "copyrightKeyword": "Great horned owl",
-        "hsh": "39a83f810bcec30fef01491f3573ca3b",
-        "description": "The Halloween season is upon us, so let's meet one of the holiday's icons: the great horned owl. With its keen vision, eerie vocalizations, and silent flight, this owl has historically been revered and feared. In folklore and mythology, owls were considered symbols of wisdom and omens of death. On Samhain, the Celtic precursor to Halloween, the owl was believed to be the kin of roaming spirits."
-    },
-    {
-        "fullstartdate": "202410280700",
-        "date": "20241029",
-        "url": "https://www.bing.com/th?id=OHR.PumpkinMist_EN-US3686565863_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PumpkinMist_EN-US3686565863",
-        "copyright": "Pumpkin field, Victoria, British Columbia, Canada (© Shaun Cunningham/Alamy)",
-        "copyrightKeyword": "Pumpkin",
-        "hsh": "4a14b003c29669b71ea03b0e4db92665"
+        "hsh": "39a83f810bcec30fef01491f3573ca3b"
     }
 ]
