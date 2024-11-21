@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202411212300",
+        "date": "20241122",
+        "url": "https://www.bing.com/th?id=OHR.ZafraCastle_DE-DE3961546434_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ZafraCastle_DE-DE3961546434",
+        "copyright": "Burg Zafra, Provinz Guadalajara, Spanien (© Eduard Gene/Getty Images)",
+        "copyrightKeyword": "Gemeinde Zafra",
+        "hsh": "cb638d51c7ec16447afcd8aa561584af",
+        "description": "Hoch auf einem Sandsteinfelsen in der Sierra de Calderons in Spanien thront die Burg von Zafra. Als die christlichen Königreiche Nordspaniens im 12. Jahrhundert die Region von ihren maurischen Verteidigern eroberten, errichteten sie diese Burg auf den Überresten einer älteren Festung, um das Grenzland zwischen den beiden Mächten zu verteidigen. Im Laufe der Jahre hat die Burg nicht nur die Angriffe und Plünderungen verschiedener Banditenbanden überstanden, sondern war auch Zeuge bedeutender historischer Ereignisse wie die Reconquista. Zudem bot die Burg im 20. Jahrhundert während des Spanischen Bürgerkriegs Zuflucht und wurde als strategischer Aussichtspunkt genutzt."
+    },
+    {
         "fullstartdate": "202411202300",
         "date": "20241121",
         "url": "https://www.bing.com/th?id=OHR.LionCubs_DE-DE4457487465_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.YiPengLanterns_DE-DE2623141634",
         "copyright": "Yi Peng-Laternenfest, Chiang Mai, Thailand (© tampatra/Getty Images)",
         "copyrightKeyword": "Chiang Mai Thailand",
-        "hsh": "456ca4e278055d82c2ce4f97ae3e4c31",
-        "description": "Heute Abend erstrahlt Chiang Mai, die zweitgrößte Stadt Thailands, in einem Meer aus leuchtenden Laternen. Das Lichterfest, das am Vollmond des zweiten Monats des Lanna-Mondkalenders gefeiert wird, markiert symbolisch den Beginn neuer Anfänge. Ein beeindruckendes Schauspiel ist das gleichzeitige Aufsteigen von Papierlaternen, die den Nachthimmel in ein goldenes Lichtermeer tauchen. Einheimische und Besucher aus aller Welt versammeln sich, um ihre Laternen an Tempeln und Palästen aufsteigen zu lassen. Dabei schicken sie ihre Wünsche in den Himmel und hoffen auf Glück und Segen für das kommende Jahr."
-    },
-    {
-        "fullstartdate": "202411132300",
-        "date": "20241114",
-        "url": "https://www.bing.com/th?id=OHR.ManarolaItaly_DE-DE4688511663_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ManarolaItaly_DE-DE4688511663",
-        "copyright": "Manarola, Nationalpark Cinque Terre, Ligurien, Italien (© John_Silver/Shutterstock)",
-        "copyrightKeyword": "Manarola",
-        "hsh": "02db998861749cb534f9ae42654df0a6"
+        "hsh": "456ca4e278055d82c2ce4f97ae3e4c31"
     }
 ]
