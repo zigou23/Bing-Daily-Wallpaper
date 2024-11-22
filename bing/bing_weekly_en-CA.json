@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202411220500",
+        "date": "20241123",
+        "url": "https://www.bing.com/th?id=OHR.ZafraCastle_EN-CA3608705054_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ZafraCastle_EN-CA3608705054",
+        "copyright": "Castle of Zafra, Guadalajara province, Spain (© Eduard Gene/Getty Images)",
+        "copyrightKeyword": "Castle of Zafra Guadalajara",
+        "hsh": "64766617fbbfbc1421fc74ec5e638629",
+        "description": "Perched atop a sandstone outcrop high in the Sierra de Caldereros stands the Castle of Zafra. When the Christian kingdoms of northern Spain took the region from its Moorish defenders in the 12th century, they built this castle on the site of an older fortress to defend the borderland between the two powers. Over the years, it withstood countless battles of the Reconquista—the military campaigns waged by Christian kingdoms against Muslim rule in Spain—as well as in the Castilian Civil War of the 14th century."
+    },
+    {
         "fullstartdate": "202411210500",
         "date": "20241122",
         "url": "https://www.bing.com/th?id=OHR.AspenTrees_EN-CA3238986123_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.YiPengLanterns_EN-CA5878267253",
         "copyright": "Yi Peng lantern festival, Chiang Mai, Thailand (© tampatra/Getty Images)",
         "copyrightKeyword": "Chiang Mai Thailand",
-        "hsh": "cc71b3107ed87459e5ff650598ffb359",
-        "description": "As twilight descends today, Chiang Mai, Thailand's second-largest city, will come alive with thousands of glowing lanterns for Yi Peng. Held on the full moon of the second month of the Lanna lunar calendar—a calendar that dates back to the medieval Lanna Kingdom of Northern Thailand—this celebration signifies the removal of negativity and the embrace of new beginnings. The highlight of the festival is the release of 'khom loi' or 'khom loy'—floating paper lanterns—into the night sky, creating a beautiful sight as the heavens fill with a sea of warm, golden lights. Locals and visitors gather around temples and palaces to send their wishes skyward, hoping for good fortune in the year to come."
-    },
-    {
-        "fullstartdate": "202411140500",
-        "date": "20241115",
-        "url": "https://www.bing.com/th?id=OHR.ManarolaItaly_EN-CA5208658549_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ManarolaItaly_EN-CA5208658549",
-        "copyright": "Manarola, Cinque Terre National Park, Liguria, Italy (© John_Silver/Shutterstock)",
-        "copyrightKeyword": "Manarola",
-        "hsh": "8a95dba2dab6008cb69f8bcd35f3c31e"
+        "hsh": "cc71b3107ed87459e5ff650598ffb359"
     }
 ]

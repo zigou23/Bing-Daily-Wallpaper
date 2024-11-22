@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202411222300",
+        "date": "20241123",
+        "url": "https://www.bing.com/th?id=OHR.FibonacciAloe_ES-ES2796098950_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FibonacciAloe_ES-ES2796098950",
+        "copyright": "Aloe espiral, Isla Canguro, Australia (© Michael Melford/Alamy)",
+        "copyrightKeyword": "sucesion de fibonacci",
+        "hsh": "68fcc7e3fbfba8598d624cf4e2f45afe",
+        "description": "El Día de Fibonacci, una ocasión en la que matemáticos y científicos rinden homenaje a uno de los grandes: Leonardo Bonacci, más conocido como Fibonacci. Este matemático medieval es famoso por popularizar el sistema numeral hindú-arábigo, que utiliza el cero, los puntos decimales y diez dígitos, reemplazando el pesado sistema de números romanos. Pero, su mayor reconocimiento proviene de su famosa secuencia de números: 0, 1, 1, 2, 3, 5, 8... Sumando los dos primeros números, se obtiene el tercero; sumando los dos números anteriores, se obtiene el siguiente, y así sucesivamente. Dejando de lado el cero, los primeros cuatro números de la secuencia coinciden con la fecha de hoy: 23/11."
+    },
+    {
         "fullstartdate": "202411212300",
         "date": "20241122",
         "url": "https://www.bing.com/th?id=OHR.ZafraCastle_ES-ES2585214053_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.FlamencoDay2024_ES-ES0805815742",
         "copyright": "Baile flamenco en Sevilla, Andalucía, España (© Hemis/Alamy Stock Photo)",
         "copyrightKeyword": "Dia del Flamenco historia",
-        "hsh": "ae4ca4f4705dbf687c1b9be1d0808191",
-        "description": "¡Hoy celebramos con entusiasmo el Día del Flamenco! Una fecha que conmemora el reconocimiento de la UNESCO, que en 2010 declaró este arte Patrimonio de la Humanidad. Nacido en Andalucía y transmitido desde el siglo XV, el flamenco combina el cante, el toque y el baile en una experiencia cargada de pasión y emoción."
-    },
-    {
-        "fullstartdate": "202411142300",
-        "date": "20241115",
-        "url": "https://www.bing.com/th?id=OHR.YiPengLanterns_ES-ES0717973586_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.YiPengLanterns_ES-ES0717973586",
-        "copyright": "Festival de los faroles de Yi Peng, Chiang Mai, Tailandia (© tampatra/Getty Images)",
-        "copyrightKeyword": "Chiang Mai historia",
-        "hsh": "50ab64c43181c59471221ed04c81ccf1"
+        "hsh": "ae4ca4f4705dbf687c1b9be1d0808191"
     }
 ]
