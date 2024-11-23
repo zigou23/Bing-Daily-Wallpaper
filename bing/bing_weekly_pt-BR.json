@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202411230300",
+        "date": "20241124",
+        "url": "https://www.bing.com/th?id=OHR.FibonacciAloe_PT-BR0422432793_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FibonacciAloe_PT-BR0422432793",
+        "copyright": "Babosa-espiral, Ilha dos Cangurus, Austrália (© Michael Melford/Alamy)",
+        "copyrightKeyword": "sequência de Fibonacci",
+        "hsh": "df9735a29dec641ba857bab3fd8cd2a0",
+        "description": "Feliz Dia de Fibonacci! Hoje, vamos celebrar a genialidade do matemático que deu nome à famosa sequência numérica. À primeira vista, ela parece simples: cada número é a soma dos dois anteriores, começando com 0, 1, 1, 2, 3, 5 e 8. Mas essa sequência é muito mais do que uma curiosidade matemática; ela é a chave da proporção áurea, o símbolo de uma harmonia visual perfeita. Um mestre em captar esse encanto, o renomado arquiteto brasileiro Oscar Niemeyer incorporou a relação de Fibonacci em seus projetos, como no Congresso Nacional em Brasília, criando designs harmoniosos e visualmente impactantes."
+    },
+    {
         "fullstartdate": "202411220300",
         "date": "20241123",
         "url": "https://www.bing.com/th?id=OHR.ZafraCastle_PT-BR0233064740_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.FrieslandNetherlands_PT-BR8090828736",
         "copyright": "Costa do Mar Frísio, perto de Moddergat, Friesland, Países Baixos (© Ron ter Burg/Minden Pictures)",
         "copyrightKeyword": "Mar Frísio",
-        "hsh": "a9697218c329fdcbd25e6e2976ee7db4",
-        "description": "Já imaginou caminhar pelo fundo do mar? No Mar Frísio, isso é possível! Esse Patrimônio Mundial da UNESCO se estende entre Países Baixos, Alemanha e Dinamarca e revela amplas planícies de lama durante a maré baixa. Essa transformação lembra muito as inundações sazonais do Pantanal brasileiro, onde o ciclo das águas cria cenários dinâmicos entre mar e terra. Os dois ambientes abrigam uma biodiversidade espetacular e são refúgios importantes para aves em sua rota migratória, além de serem dois grandes queridinhos do turismo ecológico."
-    },
-    {
-        "fullstartdate": "202411150300",
-        "date": "20241116",
-        "url": "https://www.bing.com/th?id=OHR.RepublicaBR_PT-BR7751607802_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.RepublicaBR_PT-BR7751607802",
-        "copyright": "Palácio da Ilha Fiscal e Pão de Açúcar, Rio de Janeiro (© Rolf Richardson/Alamy Stock Photo)",
-        "copyrightKeyword": "Palácio da ilha fiscal",
-        "hsh": "e8795b1a72cd236bab2608e25aca2fcc"
+        "hsh": "a9697218c329fdcbd25e6e2976ee7db4"
     }
 ]

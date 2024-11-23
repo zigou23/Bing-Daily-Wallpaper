@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202411232300",
+        "date": "20241124",
+        "url": "https://www.bing.com/th?id=OHR.SonomaCoast_DE-DE6907667505_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SonomaCoast_DE-DE6907667505",
+        "copyright": "Sonoma Coast State Park, Kalifornien, USA (© Rachid Dahnoun/Tandem Stills + Motion)",
+        "copyrightKeyword": "Sonoma County Kalifornien",
+        "hsh": "7bd5ec0caf0b9e027b6b9ac08ec20d20",
+        "description": "Willkommen im Sonoma Coast State Park, Kalifornien, USA. Dieser bietet mit seinen Sandstränden, natürlichen Felsbögen und einsamen Buchten ein malerisches Plätzchen. Er erstreckt sich über fast 30 Kilometer der nordkalifornischen Küste zwischen Jenner und Bodega Bay. Sind Sie ein Naturliebhaber? Biologen und Geologen kommen hier voll auf ihre Kosten. Sie können atemberaubende Tiere wie Robben, Seelöwen und Wale beobachten, aber auch Birdwatching betreiben. Wer sich für Geschichte interessiert, findet Felsformationen mit Spuren von Mammuts, die hier vor 40.000 Jahren lebten."
+    },
+    {
         "fullstartdate": "202411222300",
         "date": "20241123",
         "url": "https://www.bing.com/th?id=OHR.FibonacciAloe_DE-DE3602004497_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.RedStag_DE-DE2144943138",
         "copyright": "Rothirsch im Caledonian Forest, Glen Affric, Schottische Highlands (© Terry Whittaker/Alamy)",
         "copyrightKeyword": "Rothirsch",
-        "hsh": "3b3745f221215b0bc4270d55a41a1622",
-        "description": "Auf dem heutigen Bild ist ein beeindruckender Rothirsch zu sehen, dessen majestätische Erscheinung und prächtiges Geweih in den uralten Wäldern von Glen Affric, einem der schönsten Täler der schottischen Highlands, eingefangen wurde. Der Rothirsch ist in ganz Europa, Asien und Teilen Nordafrikas verbreitet. In Deutschland ist der Rothirsch die größte Hirschart und kommt mit Ausnahme der Stadtstaaten Berlin und Bremen in fast allen Bundesländern vor. Er ist ein wichtiger Bestandteil der heimischen Wälder, wie zum Beispiel im Bayerischen Wald oder in der Eifel.  Von den Höhlenmalereien in ganz Europa bis zur mittelalterlichen Jagdtradition hat der Rothirsch schon immer einen besonderen Platz in der menschlichen Vorstellung eingenommen. In vielen Teilen der Welt steht sein Bild für den wilden, freien Geist der Natur."
-    },
-    {
-        "fullstartdate": "202411152300",
-        "date": "20241116",
-        "url": "https://www.bing.com/th?id=OHR.FrieslandNetherlands_DE-DE2101104356_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FrieslandNetherlands_DE-DE2101104356",
-        "copyright": "Wattenmeerküste bei Moddergat, Friesland, Niederlande (© Ron ter Burg/Minden Pictures)",
-        "copyrightKeyword": "Wattenmeer",
-        "hsh": "16f76c9efa7fdddc3ef75e73712985c5"
+        "hsh": "3b3745f221215b0bc4270d55a41a1622"
     }
 ]
