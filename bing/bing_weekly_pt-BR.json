@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202411240300",
+        "date": "20241125",
+        "url": "https://www.bing.com/th?id=OHR.SonomaCoast_PT-BR0576687853_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SonomaCoast_PT-BR0576687853",
+        "copyright": "Parque Estatal da Costa de Sonoma, Califórnia, EUA (© Rachid Dahnoun/Tandem Stills + Motion)",
+        "copyrightKeyword": " Costa de Sonoma na Califórnia",
+        "hsh": "9f6c833f232d24e545a64bdfabc3c6d5",
+        "description": "Na imagem de hoje, contemplamos o Parque Estatal da Costa de Sonoma, um verdadeiro tesouro californiano que se estende por 27 quilômetros de praias deslumbrantes, arcos de pedra e enseadas tranquilas. Aqui é possível avistar focas, leões-marinhos e aves raras em seu habitat natural. E tem mais: para os apaixonados por história, o parque abriga rochas que guardam vestígios da passagem de mamutes há 40 mil anos, criando uma conexão incrível com o passado pré-histórico."
+    },
+    {
         "fullstartdate": "202411230300",
         "date": "20241124",
         "url": "https://www.bing.com/th?id=OHR.FibonacciAloe_PT-BR0422432793_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.RedStag_PT-BR8362159412",
         "copyright": "Veado-vermelho na Floresta Caledoniana, Glen Affric, Terras Altas da Escócia (© Terry Whittaker/Alamy)",
         "copyrightKeyword": "veado-vermelho",
-        "hsh": "db5fa5d8b795c47d3c9d30ffde402dbb",
-        "description": "Com sua aparência marcante e chifres majestosos, o veado-vermelho domina os lagos escuros e as montanhas enevoadas da reserva nacional de Glen Affric, na Escócia, vista na imagem de hoje. Símbolo da vida selvagem há milênios, ele figura em antigas pinturas rupestres e tradições de caça medieval, contribuindo também para o equilíbrio ecológico das florestas. Cercado de simbolismo, o imponente animal é central em lendas e mitologias celtas, onde representa força, proteção e espiritualidade, sendo considerado sagrado em rituais ancestrais."
-    },
-    {
-        "fullstartdate": "202411160300",
-        "date": "20241117",
-        "url": "https://www.bing.com/th?id=OHR.FrieslandNetherlands_PT-BR8090828736_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FrieslandNetherlands_PT-BR8090828736",
-        "copyright": "Costa do Mar Frísio, perto de Moddergat, Friesland, Países Baixos (© Ron ter Burg/Minden Pictures)",
-        "copyrightKeyword": "Mar Frísio",
-        "hsh": "a9697218c329fdcbd25e6e2976ee7db4"
+        "hsh": "db5fa5d8b795c47d3c9d30ffde402dbb"
     }
 ]
