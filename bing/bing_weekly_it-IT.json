@@ -1,12 +1,22 @@
 [
     {
+        "fullstartdate": "202411292300",
+        "date": "20241130",
+        "url": "https://www.bing.com/th?id=OHR.KilchurnAutumn_IT-IT2035726634_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.KilchurnAutumn_IT-IT2035726634",
+        "copyright": "Castello di Kilchurn, Loch Awe, Argyll e Bute, Scozia (© Tom Mackie/plainpicture)",
+        "copyrightKeyword": "Castello di Kilchurn, Scozia",
+        "hsh": "2723032a1aa3ae6c7bf3d032e2e821de",
+        "description": "Benvenuti al castello di Kilchurn, situato sulle rive del Loch Awe, in Scozia. Oggi, 30 novembre, si celebra Sant'Andrea e suoneranno le cornamuse! È un'occasione perfetta per immergersi nelle tradizioni e nella cultura scozzesi, magari indossando il kilt tradizionale? Sapevate che la bandiera scozzese, una delle più antiche al mondo, presenta la croce di Sant'Andrea come suo simbolo distintivo? Sant'Andrea, pescatore e apostolo di Gesù, è il patrono di diverse città e comuni italiani, come Amalfi, in provincia di Salerno in Campania, dove, fino al 1208, erano custodite le sue reliquie."
+    },
+    {
         "fullstartdate": "202411282300",
         "date": "20241129",
         "url": "https://www.bing.com/th?id=OHR.MtStMichel_IT-IT5961115578_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.MtStMichel_IT-IT5961115578",
         "copyright": "Mont Saint-Michel, Normandia, Francia (© Captain Skyhigh/Getty Images)",
         "copyrightKeyword": "Mont Saint-Michel isolotto tidale, Normandia, Francia",
-        "hsh": "bdf25f12ced581c351fe9a5de5470a41",
+        "hsh": "642d2f843b94d957428c91653bb62bad",
         "description": "Benvenuti a Mont Saint-Michel, una vera perla della Normandia, in Francia. La storia di questa \"meraviglia dell'Occidente\" risale all'VIII secolo, quando, secondo la leggenda, l'arcangelo Michele apparve al vescovo di Avranches, incitandolo a costruire un santuario su quella roccia. Uno degli aspetti più suggestivi di Mont Saint-Michel è l’acqua della Manica che lo circonda e le sue spettacolari maree. Quando la marea è bassa, è possibile passeggiare sulle distese sabbiose e raggiungere l'isola a piedi. Tuttavia, quando la marea sale, il mare circonda il monte, trasformandolo nuovamente in un'isola accessibile solo attraverso un ponte."
     },
     {
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.FibonacciAloe_IT-IT7618166733",
         "copyright": "Aloe a spirale, Kangaroo Island, Australia (© Michael Melford/Alamy)",
         "copyrightKeyword": "Leonardo Fibonacci",
-        "hsh": "9f568e041795e7b563c8ebbf38edbe15",
-        "description": "In occasione del “Fibonacci Day”, matematici e scienziati celebrano Leonardo Bonacci, detto il Fibonacci, matematico pisano che, durante l’epoca del Medioevo, diffuse il sistema numerico indo-arabo, che utilizza lo zero, i punti decimali e dieci numeri, in contrasto con il ponderoso sistema numerico romano. Divenne famoso per la sua sequenza di numeri: 0, 1, 1, 2, 3, 5, 8, e così via. Sommando i primi due numeri si ottiene il terzo, e sommando i due numeri precedenti si ottiene il numero successivo, e proseguendo in questo modo. Se si ignorano i numeri con lo zero, i primi quattro numeri corrispondono alla data odierna, 23/11."
-    },
-    {
-        "fullstartdate": "202411212300",
-        "date": "20241122",
-        "url": "https://www.bing.com/th?id=OHR.ZafraCastle_IT-IT7473974060_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ZafraCastle_IT-IT7473974060",
-        "copyright": "Castello di Zafra, provincia di Guadalajara, Spagna (© Eduard Gene/Getty Images)",
-        "copyrightKeyword": "Castello di Zafra, Spagna",
-        "hsh": "2d6bc2d837953853b93b7c519b764512"
+        "hsh": "9f568e041795e7b563c8ebbf38edbe15"
     }
 ]

@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202411292300",
+        "date": "20241130",
+        "url": "https://www.bing.com/th?id=OHR.KilchurnAutumn_DE-DE0282904512_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.KilchurnAutumn_DE-DE0282904512",
+        "copyright": "Kilchurn Castle spiegelt sich im Loch Awe, Argyll und Bute, Schottland (© Tom Mackie/plainpicture)",
+        "copyrightKeyword": "Kilchurn Castle Loch Awe",
+        "hsh": "2aea3a26a3a1c3ab997a8d59b8609571",
+        "description": "Eingebettet in die atemberaubende Landschaft der schottischen Highlands liegt Kilchurn Castle, das auf dem heutigen Bild zu sehen ist. Am Ufer von Loch Awe, dem drittgrößten Süßwassersee Schottlands, gelegen, bietet er eine atemberaubende Kulisse aus sanften Hügeln und zerklüfteten Bergen, die sich in seinem klaren Wasser spiegeln. Kilchurn Castle wurde im 15. Jahrhundert von Sir Colin Campbell erbaut und diente einst als mächtige Festung des Campbell-Clans. Heute zeugen die Überreste von einer bewegten Vergangenheit und laden Besucher ein, in die mittelalterliche Geschichte Schottlands einzutauchen."
+    },
+    {
         "fullstartdate": "202411282300",
         "date": "20241129",
         "url": "https://www.bing.com/th?id=OHR.MtStMichel_DE-DE3578803710_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.FibonacciAloe_DE-DE3602004497",
         "copyright": "Spiralförmige Aloe, Kangaroo Island, Australien (© Michael Melford/Alamy)",
         "copyrightKeyword": "Leonardo Fibonacci",
-        "hsh": "2cd15da21c0e7d4d4c5374b591689f6a",
-        "description": "Wussten Sie, dass heute Fibonacci-Tag ist? Kennen Sie Leonardo Bonacci, auch bekannt als Fibonacci? Der italienische Mathematiker aus Pisa ist vor allem für seine berühmte Zahlenfolge bekannt: 0, 1, 1, 2, 3, 5, 8... Zählt man die ersten beiden Zahlen zusammen, erhält man die dritte und so weiter. Lässt man die Null weg, ergeben die ersten vier Zahlen das heutige Datum, den 23. November."
-    },
-    {
-        "fullstartdate": "202411212300",
-        "date": "20241122",
-        "url": "https://www.bing.com/th?id=OHR.ZafraCastle_DE-DE3961546434_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ZafraCastle_DE-DE3961546434",
-        "copyright": "Burg Zafra, Provinz Guadalajara, Spanien (© Eduard Gene/Getty Images)",
-        "copyrightKeyword": "Gemeinde Zafra",
-        "hsh": "cb638d51c7ec16447afcd8aa561584af"
+        "hsh": "2cd15da21c0e7d4d4c5374b591689f6a"
     }
 ]

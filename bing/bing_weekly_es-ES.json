@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202411292300",
+        "date": "20241130",
+        "url": "https://www.bing.com/th?id=OHR.KilchurnAutumn_ES-ES3399855267_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.KilchurnAutumn_ES-ES3399855267",
+        "copyright": "Reflejo del castillo de Kilchurn en Loch Awe, Argyll y Bute, Escocia (© Tom Mackie/plainpicture)",
+        "copyrightKeyword": "Andrzejki San Andres",
+        "hsh": "734f827c3b7a44106e1fe7efac22dd8c",
+        "description": "El Día Nacional de Escocia se celebra hoy en honor a San Andrés, patrón del país y de otras naciones como Grecia, Rumanía y Ucrania. Aunque el apóstol nunca llegó a Escocia, su figura es fundamental en la identidad escocesa y está presente en la icónica bandera de Saltire, que representa la cruz en la que fue martirizado."
+    },
+    {
         "fullstartdate": "202411282300",
         "date": "20241129",
         "url": "https://www.bing.com/th?id=OHR.MtStMichel_ES-ES3063344602_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.FibonacciAloe_ES-ES2796098950",
         "copyright": "Aloe espiral, Isla Canguro, Australia (© Michael Melford/Alamy)",
         "copyrightKeyword": "sucesion de fibonacci",
-        "hsh": "68fcc7e3fbfba8598d624cf4e2f45afe",
-        "description": "El Día de Fibonacci, una ocasión en la que matemáticos y científicos rinden homenaje a uno de los grandes: Leonardo Bonacci, más conocido como Fibonacci. Este matemático medieval es famoso por popularizar el sistema numeral hindú-arábigo, que utiliza el cero, los puntos decimales y diez dígitos, reemplazando el pesado sistema de números romanos. Pero, su mayor reconocimiento proviene de su famosa secuencia de números: 0, 1, 1, 2, 3, 5, 8... Sumando los dos primeros números, se obtiene el tercero; sumando los dos números anteriores, se obtiene el siguiente, y así sucesivamente. Dejando de lado el cero, los primeros cuatro números de la secuencia coinciden con la fecha de hoy: 23/11."
-    },
-    {
-        "fullstartdate": "202411212300",
-        "date": "20241122",
-        "url": "https://www.bing.com/th?id=OHR.ZafraCastle_ES-ES2585214053_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ZafraCastle_ES-ES2585214053",
-        "copyright": "Castillo de Zafra, Provincia de Guadalajara (© Eduard Gene/Getty Images)",
-        "copyrightKeyword": "castillo de zafra guadalajara",
-        "hsh": "b73fe8944ea99e6c547ed6871643fa49"
+        "hsh": "68fcc7e3fbfba8598d624cf4e2f45afe"
     }
 ]
