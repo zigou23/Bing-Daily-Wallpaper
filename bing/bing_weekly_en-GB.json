@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202412010000",
+        "date": "20241202",
+        "url": "https://www.bing.com/th?id=OHR.IcebergsAntarctica_EN-GB9447266279_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.IcebergsAntarctica_EN-GB9447266279",
+        "copyright": "Icebergs, Antarctica (© Art Wolfe/DanitaDelimont.com)",
+        "copyrightKeyword": "Antarctica Day",
+        "hsh": "cbba2036ec94e5880b8bccafe8f3befb",
+        "description": "Today, Antarctica Day shines a spotlight on one of the world's most remarkable international agreements—the Antarctic Treaty. Signed in 1959 by 12 nations, this treaty designated the entire continent as a demilitarised zone, with a special focus on promoting scientific research and collaboration. This day honours the spirit of global cooperation, reminding us of the collective responsibility to protect the planet's last great wilderness."
+    },
+    {
         "fullstartdate": "202411300000",
         "date": "20241201",
         "url": "https://www.bing.com/th?id=OHR.KilchurnAutumn_EN-GB9210745671_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SonomaCoast_EN-GB8716025465",
         "copyright": "Sonoma Coast State Park, California, USA (© Rachid Dahnoun/Tandem Stills + Motion)",
         "copyrightKeyword": "Sonoma Coast State Park",
-        "hsh": "1fd8bdf861fe97e012bea98c04fbc694",
-        "description": "Sonoma Coast State Park in the United States offers a picturesque retreat with its sandy beaches, natural arches and secluded coves. Established in 1934, the park encompasses 17 miles of Northern California coastline between Jenner and Bodega Bay. Wildlife enthusiasts can spot seals, sea lions, whales and a variety of birds like towhees, warblers, finches, sparrows and orioles. History buffs will enjoy exploring the sea stack formation marked with rubbing marks believed to have been made by mammoths that roamed the area 40,000 years ago. The park is also home to historical sites like Bodega Head, where Russians built a fort in the early 1800s."
-    },
-    {
-        "fullstartdate": "202411230000",
-        "date": "20241124",
-        "url": "https://www.bing.com/th?id=OHR.FibonacciAloe_EN-GB8183049694_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FibonacciAloe_EN-GB8183049694",
-        "copyright": "Spiral aloe, Kangaroo Island, Australia (© Michael Melford/Alamy)",
-        "copyrightKeyword": "Fibonacci Day",
-        "hsh": "2b2b08b9c061ff95d22662201333036b"
+        "hsh": "1fd8bdf861fe97e012bea98c04fbc694"
     }
 ]
