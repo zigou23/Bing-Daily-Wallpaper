@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202412060800",
+        "date": "20241207",
+        "url": "https://www.bing.com/th?id=OHR.HelsinkiDusk_EN-US7738977648_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.HelsinkiDusk_EN-US7738977648",
+        "copyright": "Old Town in Helsinki, Finland (© Oleksiy Mark/Shutterstock)",
+        "copyrightKeyword": "Finnish Independence Day",
+        "hsh": "e792f198690afadd7f2b7506a1468cff",
+        "description": "Happy Independence Day, Finland! On this day in 1917, the Nordic nation declared its independence from Russia. Finland had been a grand duchy of the Russian Empire since 1809, and it was part of the Swedish Empire for the previous 600 years. However, during the Russian revolutions of 1917, Finnish nationalists saw their chance to establish an independent nation. After several months of negotiations, Finland declared independence on December 6."
+    },
+    {
         "fullstartdate": "202412050800",
         "date": "20241206",
         "url": "https://www.bing.com/th?id=OHR.MonoTufa_EN-US7607210506_1920x1080.jpg",
@@ -16,7 +26,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.RhinosKenya_EN-US7514650014",
         "copyright": "Male white rhinoceroses, Lake Nakuru, Kenya (© Ingo Arndt/Minden Pictures)",
         "copyrightKeyword": "White Rhinoceros",
-        "hsh": "e2ddc2beb1e4d8ea74933839844bd4fd",
+        "hsh": "f1c5612a7fd1bff142c0b8cc96b23fe9",
         "description": "It's Wildlife Conservation Day—an important reminder to celebrate and defend our planet's incredible biodiversity. Many species face extinction, including African forest elephants, Cross River gorillas, and Yangtze finless porpoises. Since its launch in 2012, this special day has highlighted illegal wildlife trade and other threats that animals face. It also draws attention to the need for stronger long-term solutions."
     },
     {
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MtStMichel_EN-US6641012356",
         "copyright": "Mont-Saint-Michel, Normandy, France (© Captain Skyhigh/Getty Images)",
         "copyrightKeyword": "Mont Saint Michel France",
-        "hsh": "6d23526d2588856c12a177693540b5db",
-        "description": "A tidal marvel and a slice of medieval life all rolled into one rocky outcrop—welcome to Mont-Saint-Michel in Normandy, northern France. The story of this 'Wonder of the West' goes back to the early 8th century, when Archangel Michael was said to have appeared to the bishop of Avranches in a vision. The divine message was clear: build a sanctuary on this rock. Taking this angelic advice seriously, the bishop laid the foundations of what would eventually become the abbey that dominates the island today. Over the centuries, this UNESCO World Heritage Site grew in size and reputation, attracting monks, pilgrims, and invaders alike."
-    },
-    {
-        "fullstartdate": "202411280800",
-        "date": "20241129",
-        "url": "https://www.bing.com/th?id=OHR.TomTurkeys_EN-US6212893518_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.TomTurkeys_EN-US6212893518",
-        "copyright": "Wild turkeys, New York (© John Cancalosi/Alamy)",
-        "copyrightKeyword": "Thanksgiving",
-        "hsh": "604dd83d7548854d31372971d6495cb0"
+        "hsh": "6d23526d2588856c12a177693540b5db"
     }
 ]

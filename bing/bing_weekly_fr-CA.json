@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202412060500",
+        "date": "20241207",
+        "url": "https://www.bing.com/th?id=OHR.HelsinkiDusk_FR-CA2777107787_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.HelsinkiDusk_FR-CA2777107787",
+        "copyright": "Vieille ville d'Helsinki, Finlande (© Oleksiy Mark/Shutterstock)",
+        "copyrightKeyword": "helsinki",
+        "hsh": "e2601d3b95f2f194fcfccd1fe54f2032",
+        "description": "Le 6 décembre, Helsinki fête l’indépendance de la Finlande, obtenue en 1917 après des siècles de domination suédoise puis russe. La journée débute par la levée du drapeau finlandais sur la colline de Tähtitorninmäki, un moment solennel suivi par des processions aux flambeaux. Les fenêtres des maisons s’illuminent de deux bougies bleu et blanc, un symbole de nationalisme remontant au 19e siècle. Dans la vieille ville d’Helsinki, chaque ruelle raconte l’histoire finlandaise. La soirée s’achève par le gala national «Linnan juhlat», diffusé dans tout le pays et rassemblant des millions de téléspectateurs."
+    },
+    {
         "fullstartdate": "202412050500",
         "date": "20241206",
         "url": "https://www.bing.com/th?id=OHR.MonoTufa_FR-CA2264462783_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MtStMichel_FR-CA3710121218",
         "copyright": "Mont Saint-Michel, Normandie (© Captain Skyhigh/Getty Images)",
         "copyrightKeyword": "le mont saint michel",
-        "hsh": "d8a366926e4ebbabc0eac48d43e07f11",
-        "description": "Le Mont-Saint-Michel fascine depuis des siècles. Classée au patrimoine mondial de l’UNESCO depuis 1979, l’abbaye, fondée au XIe siècle, a traversé les siècles, marquée par la conquête anglaise de la Normandie et la guerre de Cent Ans. Ses ruelles pavées, bordées de maisons à colombages, nous plongent dans une autre époque."
-    },
-    {
-        "fullstartdate": "202411280500",
-        "date": "20241129",
-        "url": "https://www.bing.com/th?id=OHR.AssiniboineTS_FR-CA9587536433_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AssiniboineTS_FR-CA9587536433",
-        "copyright": "Tempête au coucher du soleil, parc provincial du mont Assiniboine, Colombie-Britannique (© Jeff Lewis/TANDEM Stills + Motion)",
-        "copyrightKeyword": "parc provincial du mont Assiniboine, Colombie britannique",
-        "hsh": "f36d82bcac38aaad31cbfec50949eb6a"
+        "hsh": "d8a366926e4ebbabc0eac48d43e07f11"
     }
 ]

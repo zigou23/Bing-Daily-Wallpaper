@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202412060500",
+        "date": "20241207",
+        "url": "https://www.bing.com/th?id=OHR.HelsinkiDusk_EN-CA1340856865_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.HelsinkiDusk_EN-CA1340856865",
+        "copyright": "Old Town in Helsinki, Finland (© Oleksiy Mark/Shutterstock)",
+        "copyrightKeyword": "Finnish Independence Day",
+        "hsh": "83642fab9a0d60cef63ea49e0b9fff2b",
+        "description": "Happy Independence Day, Finland! On this day in 1917, the Nordic nation declared its independence from Russia. Finland had been a grand duchy of the Russian Empire since 1809, and it was part of the Swedish Empire for the previous 600 years. However, during the Russian revolutions of 1917, Finnish nationalists saw their chance to establish an independent nation. After several months of negotiations, Finland declared independence on December 6."
+    },
+    {
         "fullstartdate": "202412050500",
         "date": "20241206",
         "url": "https://www.bing.com/th?id=OHR.MonoTufa_EN-CA0552920922_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MtStMichel_EN-CA3538100784",
         "copyright": "Mont-Saint-Michel, Normandy, France (© Captain Skyhigh/Getty Images)",
         "copyrightKeyword": "Mont Saint Michel France",
-        "hsh": "387243092ea958fcf4671f89996d9c8f",
-        "description": "A tidal marvel and a slice of medieval life all rolled into one rocky outcrop—welcome to Mont-Saint-Michel in Normandy, northern France. The story of this 'Wonder of the West' goes back to the early 8th century, when Archangel Michael was said to have appeared to the bishop of Avranches in a vision. The divine message was clear: build a sanctuary on this rock. Taking this angelic advice seriously, the bishop laid the foundations of what would eventually become the abbey that dominates the island today. Over the centuries, this UNESCO World Heritage Site grew in size and reputation, attracting monks, pilgrims and invaders alike."
-    },
-    {
-        "fullstartdate": "202411280500",
-        "date": "20241129",
-        "url": "https://www.bing.com/th?id=OHR.AssiniboineTS_EN-CA8487090970_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AssiniboineTS_EN-CA8487090970",
-        "copyright": "Clearing storm at sunset, Mount Assiniboine Provincial Park, Canada (© Jeff Lewis/TANDEM Stills + Motion)",
-        "copyrightKeyword": "Mount Assiniboine Provincial Park",
-        "hsh": "6e185796b724d5e88bddc47d3d88a61b"
+        "hsh": "387243092ea958fcf4671f89996d9c8f"
     }
 ]
