@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202412070500",
+        "date": "20241208",
+        "url": "https://www.bing.com/th?id=OHR.TorontoWinterSkyline_FR-CA4116512200_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TorontoWinterSkyline_FR-CA4116512200",
+        "copyright": "Lac Ontario en hiver, Toronto (© Brendan Riley/Shutterstock)",
+        "copyrightKeyword": "Lac Ontario, Toronto",
+        "hsh": "369e31259086e3d9db8d94c100a1a758",
+        "description": "Aujourd’hui, cap sur les magnifiques Grands Lacs – Supérieur, Michigan, Ontario, Huron et Érié – véritables merveilles naturelles entre le Canada et les États-Unis ! Ensemble, ils renferment 21 % des réserves d'eau douce de surface au monde. Le lac Ontario, le plus petit de cette « famille », se situe entre la province d'Ontario et l'État de New York. C'est un lac historique, nommé en 1641, et dont les rives ont vu passer trappeurs et soldats au XVIIIe siècle, lors des guerres qui ont façonné l’Amérique. Aujourd’hui, les forts Niagara et Henry se dressent encore en mémoire de ces temps passés."
+    },
+    {
         "fullstartdate": "202412060500",
         "date": "20241207",
         "url": "https://www.bing.com/th?id=OHR.HelsinkiDusk_FR-CA2777107787_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.KilchurnAutumn_FR-CA4166920204",
         "copyright": "Reflet du château de Kilchurn à Loch Awe, Argyll et Bute, Écosse (© Tom Mackie/plainpicture)",
         "copyrightKeyword": "Saint Andrews Day",
-        "hsh": "6e3c3cb5956c1412313c89bb9f54b0f3",
-        "description": "Aujourd'hui, l'Écosse célèbre sa Fête nationale, et quel meilleur hommage à son héritage que l'image majestueuse du château de Kilchurn, qui se reflète sur le Loch Awe. Ce château, construit par le clan Campbell au XVe siècle, incarne l'esprit écossais, résistant et empreint de mystères. Le lac, calme comme un miroir, reflète chaque pierre et chaque ombre, rendant hommage aux récits des batailles qui ont façonné cette terre."
-    },
-    {
-        "fullstartdate": "202411290500",
-        "date": "20241130",
-        "url": "https://www.bing.com/th?id=OHR.MtStMichel_FR-CA3710121218_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MtStMichel_FR-CA3710121218",
-        "copyright": "Mont Saint-Michel, Normandie (© Captain Skyhigh/Getty Images)",
-        "copyrightKeyword": "le mont saint michel",
-        "hsh": "d8a366926e4ebbabc0eac48d43e07f11"
+        "hsh": "6e3c3cb5956c1412313c89bb9f54b0f3"
     }
 ]
