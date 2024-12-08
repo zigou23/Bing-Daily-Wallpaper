@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202412080500",
+        "date": "20241209",
+        "url": "https://www.bing.com/th?id=OHR.ReopeningNotreDame_FR-CA5489836690_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ReopeningNotreDame_FR-CA5489836690",
+        "copyright": "Cathédral Notre-Dame de Paris (© Julien Fromentin/Getty Images)",
+        "copyrightKeyword": "Notre Dame de Paris",
+        "hsh": "9bf4f5ffa1942141dddb2f22fd4f3cc6",
+        "description": "Après plusieurs années de restauration et un dévouement sans faille, Notre-Dame de Paris ouvre à nouveau ses portes, suscitant une émotion intense et partagée. L’incendie de 2019 appartient désormais au passé et cette cathédrale, véritable symbole de Paris, retrouve sa splendeur d’antan. En franchissant son parvis, ce n’est pas seulement un monument que l’on visite : c’est un lieu où l’histoire se dévoile, où chaque pierre et chaque vitrail murmurent les récits d’un passé qui continue de vibrer au cœur de la ville."
+    },
+    {
         "fullstartdate": "202412070500",
         "date": "20241208",
         "url": "https://www.bing.com/th?id=OHR.TorontoWinterSkyline_FR-CA4116512200_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.IcebergsAntarctica_FR-CA4528106191",
         "copyright": "Icebergs, Antarctique (© Art Wolfe/DanitaDelimont.com)",
         "copyrightKeyword": "jour de l'Antarctique",
-        "hsh": "99cb7838c3d135ff44f5cdb00a52ef7d",
-        "description": "Chaque premier décembre, la Journée de l’Antarctique met en lumière la biodiversité unique de ce continent fascinant. C'est l'occasion idéale de sensibiliser le public à l'importance du Traité sur l’Antarctique, crucial pour la conservation de ce continent en tant que zone dédiée à la recherche scientifique et à la paix, à l'abri des conflits politiques et commerciaux ; signé initialement par douze pays, dont la France, les États-Unis, le Royaume-Uni et l'Union soviétique (aujourd'hui la Russie), ce traité compte aujourd’hui 57 parties contractantes."
-    },
-    {
-        "fullstartdate": "202411300500",
-        "date": "20241201",
-        "url": "https://www.bing.com/th?id=OHR.KilchurnAutumn_FR-CA4166920204_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.KilchurnAutumn_FR-CA4166920204",
-        "copyright": "Reflet du château de Kilchurn à Loch Awe, Argyll et Bute, Écosse (© Tom Mackie/plainpicture)",
-        "copyrightKeyword": "Saint Andrews Day",
-        "hsh": "6e3c3cb5956c1412313c89bb9f54b0f3"
+        "hsh": "99cb7838c3d135ff44f5cdb00a52ef7d"
     }
 ]
