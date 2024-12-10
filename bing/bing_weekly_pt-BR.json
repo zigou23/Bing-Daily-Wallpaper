@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202412100300",
+        "date": "20241211",
+        "url": "https://www.bing.com/th?id=OHR.CornwallSnow_PT-BR2427033237_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.CornwallSnow_PT-BR2427033237",
+        "copyright": "Caminho da Costa da Cornualha coberto de neve, Land's End, Cornualha, Inglaterra (© Josef FitzGerald-Patrick/Getty Images)",
+        "copyrightKeyword": "Penn an Wlas Cornualha",
+        "hsh": "0a193370ce100fd7a60dbbec1f4b74eb",
+        "description": "Land's End, o cenário da imagem de hoje, é o ponto mais sudoeste da Grã-Bretanha e o destino ideal para quem busca uma história rica e vistas estonteantes. Com seu clima ameno e natureza preservada, esse pedaço da Cornualha era conhecido pelos gregos antigos e está presente nos contos lendários do rei Artur. Enquanto isso, o Brasil tem seu próprio \"fim da terra\" no Monte Caburaí, em Roraima, o ponto mais setentrional do país."
+    },
+    {
         "fullstartdate": "202412090300",
         "date": "20241210",
         "url": "https://www.bing.com/th?id=OHR.GuanacosChile_PT-BR1925841456_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.JaipurFort_PT-BR6821987206",
         "copyright": "Sattais Katcheri, Forte de Amber, Rajastão, Índia (© Yury Taranik/Shutterstock)",
         "copyrightKeyword": "Forte de Amber",
-        "hsh": "ec220bd55d99edab32c7a115b66c2d37",
-        "description": "Passeando pelas ruas de Jaipur, na Índia, não faltam palácios grandiosos e fortalezas imponentes. Ainda assim, o Forte de Amber, abrigo das Sattais Katcheri (ou “corte das 27 colunas”), se destaca. Visto na imagem de hoje, o forte foi construído em 1592 e serviu como residência dos marajás, governantes da região. Sua arquitetura única e seu famoso show noturno de luz e som trazem à tona sua rica história. Não à toa, o forte é um patrimônio mundial da humanidade reconhecido pela UNESCO, e é uma das maiores expressões da cultura e da realeza indiana."
-    },
-    {
-        "fullstartdate": "202412020300",
-        "date": "20241203",
-        "url": "https://www.bing.com/th?id=OHR.DiadoSamba_PT-BR6499916889_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DiadoSamba_PT-BR6499916889",
-        "copyright": "Wilson Dias da Costa Neto como Rei Momo durante o Carnaval de 2016 no Rio de Janeiro (© Leo Correa/AP Photo)",
-        "copyrightKeyword": "Gêneros do Samba",
-        "hsh": "47590be3c95d34c40dff60400e709c30"
+        "hsh": "ec220bd55d99edab32c7a115b66c2d37"
     }
 ]

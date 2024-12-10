@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202412102300",
+        "date": "20241211",
+        "url": "https://www.bing.com/th?id=OHR.DolomitesSky_ES-ES7667848541_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.DolomitesSky_ES-ES7667848541",
+        "copyright": "Las Tres Cimas de Lavaredo, Italia (© Daniel Maran/Getty Images)",
+        "copyrightKeyword": "Las Tres Cimas de Lavaredo",
+        "hsh": "b7f23f54c7c18b33fb214d700cadb74a",
+        "description": "Hoy conmemoramos el Día Internacional de las Montañas, un momento para reflexionar sobre la importancia de estos gigantes naturales. Un ejemplo icónico son las Tres Cimas de Lavaredo, en las Dolomitas de Sexten, al noreste de Italia, que vemos en la imagen de hoy. Estas tres cimas —Cima Grande, Cima Ovest y Cima Piccola— son conocidas en todo el mundo y forman parte del Patrimonio de la Humanidad de la UNESCO. Durante la Primera Guerra Mundial, estas montañas fueron parte del frente de batalla, dejando vestigios históricos en forma de trincheras y túneles."
+    },
+    {
         "fullstartdate": "202412092300",
         "date": "20241210",
         "url": "https://www.bing.com/th?id=OHR.CovadongaWinter_ES-ES7227856759_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.RhinosKenya_ES-ES5145114880",
         "copyright": "Rinocerontes blancos machos, Lago Nakuru, Kenia (© Ingo Arndt/Minden Pictures)",
         "copyrightKeyword": "Rinocerontes blancos",
-        "hsh": "667668ae53cae16c2ebf6260714dc228",
-        "description": "La travesía del rinoceronte blanco, protagonista de la imagen de hoy, resalta la urgente necesidad de conservar a las especies en peligro. Existen dos subespecies: el rinoceronte blanco del sur, especie casi amenazada, y el rinoceronte blanco del norte, críticamente en peligro. A finales del siglo XIX, la caza furtiva puso al rinoceronte blanco del sur al borde de la extinción, pero gracias a décadas de esfuerzo sus poblaciones han aumentado. Sin embargo, el rinoceronte blanco del norte enfrenta una situación aún más desesperada, con solo dos ejemplares vivos, una madre y su hija, protegidas en la Reserva Ol Pejeta en Kenia."
-    },
-    {
-        "fullstartdate": "202412022300",
-        "date": "20241203",
-        "url": "https://www.bing.com/th?id=OHR.JaipurFort_ES-ES4985021277_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.JaipurFort_ES-ES4985021277",
-        "copyright": "Sattais Katcheri (patio de los 27 pilares), Fuerte Amber, Rajastán, India (© Yury Taranik/Shutterstock)",
-        "copyrightKeyword": "Fuerte Amber",
-        "hsh": "b53d7b5747635e40e6c3d43eaec70bd5"
+        "hsh": "667668ae53cae16c2ebf6260714dc228"
     }
 ]
