@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202412130000",
+        "date": "20241214",
+        "url": "https://www.bing.com/th?id=OHR.ChristmasBudapest_EN-GB5094460199_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ChristmasBudapest_EN-GB5094460199",
+        "copyright": "Christmas market, St Stephen's Basilica, Budapest, Hungary (© Calin Stan/Shutterstock)",
+        "copyrightKeyword": "St Stephens Basilica Budapest",
+        "hsh": "c77e7fc3a6ab3650cd2daba39042163d",
+        "description": "As the holiday season kicks off, St Stephen's Basilica becomes the dazzling centrepiece of one of Budapest's iconic Christmas markets. The fair buzzes with holiday spirit, offering a mix of Hungarian craft, festive décor and local delicacies, capturing the essence of a traditional Christmas. The Advent Feast—an event held in the weeks leading up to Christmas and part of Hungary's holiday traditions—invites guests to savour dishes like chimney cakes, stuffed cabbage and goulash soup, while the scent of mulled wine and roasted chestnuts fills the air. A highlight for many is the 3D light show projected onto the basilica's facade, a modern touch that brings this historic structure to life."
+    },
+    {
         "fullstartdate": "202412120000",
         "date": "20241213",
         "url": "https://www.bing.com/th?id=OHR.WildPoinsettia_EN-GB5028659817_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.HelsinkiDusk_EN-GB3167240327",
         "copyright": "Old Town in Helsinki, Finland (© Oleksiy Mark/Shutterstock)",
         "copyrightKeyword": "Finnish Independence Day",
-        "hsh": "139b74867d61ea832ddbef233f02746c",
-        "description": "Happy Independence Day, Finland! On this day in 1917, the Nordic nation declared its independence from Russia. Finland had been a grand duchy of the Russian Empire since 1809, and it was part of the Swedish Empire for the previous 600 years. However, during the Russian revolutions of 1917, Finnish nationalists saw their chance to establish an independent nation. After several months of negotiations, Finland declared independence on December 6."
-    },
-    {
-        "fullstartdate": "202412050000",
-        "date": "20241206",
-        "url": "https://www.bing.com/th?id=OHR.MonoTufa_EN-GB2751110672_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MonoTufa_EN-GB2751110672",
-        "copyright": "Tufa formation on Mono Lake, California, USA (© Susanna Patras/TANDEM Stills + Motion)",
-        "copyrightKeyword": "Mono Lake California",
-        "hsh": "42dd8f7c69e343ca5866f03e3857d460"
+        "hsh": "139b74867d61ea832ddbef233f02746c"
     }
 ]
