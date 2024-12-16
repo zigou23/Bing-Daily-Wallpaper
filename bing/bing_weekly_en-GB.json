@@ -1,12 +1,22 @@
 [
     {
+        "fullstartdate": "202412160000",
+        "date": "20241217",
+        "url": "https://www.bing.com/th?id=OHR.SalzburgSnow_EN-GB5350086810_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SalzburgSnow_EN-GB5350086810",
+        "copyright": "Salzburg, Austria (© bluejayphoto/Getty Images)",
+        "copyrightKeyword": "Salzburg",
+        "hsh": "69e283e9c6c87df734a9860fe07126a1",
+        "description": "Today, we're in the Austrian city of Salzburg, a place that never goes out of style. The Advent season here creates a magical atmosphere, making it a truly unforgettable time to visit this city. Twinkling decorations bring the place to life, and the cosy scents of warm chestnuts, mulled wine and freshly baked cookies mingle in the air. During this time, Salzburger Christkindlmarkt, a world-famous traditional Advent market, is hosted here. Seen on the hill in today's image is the Hohensalzburg Fortress, home to the popular Fortress Advent market, brimming with holiday cheer."
+    },
+    {
         "fullstartdate": "202412150000",
         "date": "20241216",
         "url": "https://www.bing.com/th?id=OHR.MisurinaLake_EN-GB5184581408_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.MisurinaLake_EN-GB5184581408",
         "copyright": "Lake Misurina, Dolomites, Italy (© Marco Bottigelli/Getty Images)",
         "copyrightKeyword": "Lake Misurina Italy",
-        "hsh": "23bf9b6cfac5c12845cd875004c8141d",
+        "hsh": "9fa4d2556510a1a5b5cc200f36651fdb",
         "description": "You might have heard of a pool of tears, but have you ever heard of a lake of tears? Well, legend has it that Lake Misurina, pictured here, in Italy's Dolomites, was born from the sorrow of a giant named Sorapis. At more than 1,700 metres above sea level, it is the largest natural lake in the Cadore region, with its perimeter stretching more than 1.5 miles. The area around the lake is known for its beneficial climate, especially for those with respiratory conditions. Its crystal-clear waters and surrounding hotels provide a perfect getaway for up to 500 visitors. The lake played a role in the 1956 Winter Olympics, where it hosted speed skating events on natural ice, and it has even been immortalised in a pop song by singer Claudio Baglioni. With astounding views, mythical roots and activities for every season, this lake may well be the Dolomites' most alluring reflection."
     },
     {
@@ -16,7 +26,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.NorthernHawkOwl_EN-GB5538150484",
         "copyright": "Northern hawk-owl, Canada (© pchoui/Getty Images)",
         "copyrightKeyword": "Northern hawk owl",
-        "hsh": "fd6be964793390f35080302b5889f511",
+        "hsh": "f889e15a07ecce6b5f8276226ace3cc7",
         "description": "For 125 years, bird enthusiasts across the Western Hemisphere have turned the holiday season into a festive, feathered affair with the Christmas Bird Count. Founded by ornithologist Frank Chapman as an eco-friendly twist on holiday hunting parties, this annual event replaced shotguns with binoculars. Since then, it has become one of the world's longest-running citizen science projects. Every year from December 14 to January 5, volunteers of all ages and birding skill levels come together to survey designated areas called 'circles.' Each circle has a 15-mile diameter and participants count every bird they see or hear within it. The result is a colossal snapshot of bird diversity, with data collected from over 2,500 locations each season. It's a serious effort to track changes in bird populations, providing valuable data for scientists working to protect vulnerable species."
     },
     {
@@ -26,7 +36,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ChristmasBudapest_EN-GB5094460199",
         "copyright": "Christmas market, St Stephen's Basilica, Budapest, Hungary (© Calin Stan/Shutterstock)",
         "copyrightKeyword": "St Stephens Basilica Budapest",
-        "hsh": "c77e7fc3a6ab3650cd2daba39042163d",
+        "hsh": "964164c39218754e2af34116b03b2acb",
         "description": "As the holiday season kicks off, St Stephen's Basilica becomes the dazzling centrepiece of one of Budapest's iconic Christmas markets. The fair buzzes with holiday spirit, offering a mix of Hungarian craft, festive décor and local delicacies, capturing the essence of a traditional Christmas. The Advent Feast—an event held in the weeks leading up to Christmas and part of Hungary's holiday traditions—invites guests to savour dishes like chimney cakes, stuffed cabbage and goulash soup, while the scent of mulled wine and roasted chestnuts fills the air. A highlight for many is the 3D light show projected onto the basilica's facade, a modern touch that brings this historic structure to life."
     },
     {
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.GuanacosChile_EN-GB4439006560",
         "copyright": "Two guanacos, Torres del Paine National Park, Chile (© Floris van Breugel/NPL/Minden Pictures)",
         "copyrightKeyword": "Guanacos",
-        "hsh": "d5ec63d3aca2f9299ba27b085a528431",
-        "description": "Pictured here today are the guanacos in Torres del Paine National Park, Chile. These herbivores may look like llamas in disguise, but they're truly wild at heart unlike their domesticated cousins. Found roaming the Andes mountains and Patagonian plains, these long-legged wanderers are South America's answer to the camel family—minus the humps but with double the resilience. These adaptable creatures can thrive in extreme environments, from the dry Atacama Desert to the chilly, windswept plains of Patagonia. In fact, their name even comes from the Quechua word 'huanaco,' meaning a wild animal or an animal that runs fast. And run they do, at up to 35 miles per hour!"
-    },
-    {
-        "fullstartdate": "202412080000",
-        "date": "20241209",
-        "url": "https://www.bing.com/th?id=OHR.ReopeningNotreDame_EN-GB4181670261_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ReopeningNotreDame_EN-GB4181670261",
-        "copyright": "Notre-Dame Cathedral, Paris, France (© Julien Fromentin/Getty Images)",
-        "copyrightKeyword": "Notre Dame de Paris",
-        "hsh": "04e85f6248e264060d289a68e3d7da33"
+        "hsh": "d5ec63d3aca2f9299ba27b085a528431"
     }
 ]
