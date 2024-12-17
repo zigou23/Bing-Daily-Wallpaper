@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202412170500",
+        "date": "20241218",
+        "url": "https://www.bing.com/th?id=OHR.ReinefjordenNorway_FR-CA4918243263_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ReinefjordenNorway_FR-CA4918243263",
+        "copyright": "Cabanes traditionnelles de pêcheurs sur le rivage de Reinefjorden, Norvège (© Pilat666/Getty Images)",
+        "copyrightKeyword": "îles lofoten",
+        "hsh": "421a347229dcbdc5b71872ce60fb9a8f",
+        "description": "Les cabanes traditionnelles de pêcheurs, ou rorbuer, sont emblématiques de Reinefjorden, un fjord pittoresque de Norvège. Reine, un village de pêcheurs de 300 habitants, est chargé d’histoire. Depuis 1775, il a été un poste de commerce, avant de devenir une destination touristique prisée. Ces cabanes en bois, souvent rouges, étaient autrefois essentielles pour les pêcheurs qui travaillaient sans relâche pendant la saison de la morue."
+    },
+    {
         "fullstartdate": "202412160500",
         "date": "20241217",
         "url": "https://www.bing.com/th?id=OHR.SalzburgSnow_FR-CA8518855447_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.CornwallSnow_FR-CA1404648884",
         "copyright": "Le sentier côtier de Cornouailles recouvert de neige, Land's End, Cornouailles, Angleterre (© Josef FitzGerald-Patrick/Getty Images)",
         "copyrightKeyword": "Land's End, Cornouailles",
-        "hsh": "37ae7fe14b480ee2cc430a5ca70a19c5",
-        "description": "Envie d’une escapade sauvage et inspirante? Land’s End, le point le plus à l’ouest de l’Angleterre, est l’endroit rêvé pour une immersion totale dans la nature. Ici, les falaises abruptes, bordées de bruyères et caressées par l’Atlantique, révèlent des panoramas grandioses. Avec ses sentiers de randonnée mythiques comme le South West Coast Path, Land’s End est un paradis pour les amoureux du plein air. Laissez-vous porter par la beauté des lieux, où chaque recoin raconte des histoires légendaires ! Un voyage aux confins de la Cornouailles, c'est un souffle d’air pur et une vraie bouffée d’évasion."
-    },
-    {
-        "fullstartdate": "202412090500",
-        "date": "20241210",
-        "url": "https://www.bing.com/th?id=OHR.GuanacosChile_FR-CA0938601929_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.GuanacosChile_FR-CA0938601929",
-        "copyright": "Guanacos, parc national Torres del Paine, Chili (© Floris van Breugel/NPL/Minden Pictures)",
-        "copyrightKeyword": "guanaco espèce",
-        "hsh": "bcd3689d6ac1d3fd84fa2dc644c6d485"
+        "hsh": "37ae7fe14b480ee2cc430a5ca70a19c5"
     }
 ]
