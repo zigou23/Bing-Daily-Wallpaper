@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202412202300",
+        "date": "20241221",
+        "url": "https://www.bing.com/th?id=OHR.SolsticeHalo_DE-DE6991258679_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SolsticeHalo_DE-DE6991258679",
+        "copyright": "Halo um die Sonne, Erzgebirge, Sachsen, Deutschland (© Martin Ruegner/Getty Images)",
+        "copyrightKeyword": "Sonnenwende",
+        "hsh": "5e8e80f02825aa941b3da8098b45a79c",
+        "description": "Willkommen im Paradies, willkommen im Erzgebirge. Wie im Märchen erscheinen die schneebedeckten Hügel und dichten Wälder. Über den Gipfeln tanzt das Sonnenlicht - und an klaren Tagen wie heute zeigt sich ein seltenes Naturschauspiel: ein Halo, der die Sonne wie ein leuchtender Ring umgibt. Ein Geschenk des Universums an diesem Tag? Ja, denn heute ist die Wintersonnenwende, der kürzeste Tag des Jahres, der für die Völker der Erde seit Jahrtausenden einen Wendepunkt markiert. Fast alle Kulturen feiern die Rückkehr des Lichts mit Ritualen."
+    },
+    {
         "fullstartdate": "202412192300",
         "date": "20241220",
         "url": "https://www.bing.com/th?id=OHR.SantaClausVillage_DE-DE6517743209_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.NorthernHawkOwl_DE-DE0106015482",
         "copyright": "Sperbereule, Kanada (© pchoui/Getty Images)",
         "copyrightKeyword": "Sperbereule",
-        "hsh": "6996f2b1cd966e336ff98b4472b7691c",
-        "description": "Kennen Sie die Sperbereule, einen faszinierenden Vogel mit einem langen, spitz zulaufenden Schwanz und einem kleinen Kopf, der einem Habicht ähnelt? Sie lebt in den borealen Wäldern Nordamerikas und Europas, von Norwegen und Schweden bis nach Kamtschatka und Sachalin sowie in Alaska und Kanada. Das heutige Bild zeigt eine Sperbereule in Kanada, die aufmerksam ihre Umgebung beobachtet. Diese Eule ist tagaktiv, hat ein ausgezeichnetes Gehör und kann im Schnee nach Nagetieren tauchen."
-    },
-    {
-        "fullstartdate": "202412122300",
-        "date": "20241213",
-        "url": "https://www.bing.com/th?id=OHR.ChristmasBudapest_DE-DE0464258749_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ChristmasBudapest_DE-DE0464258749",
-        "copyright": "Weihnachtsmarkt, St. Stephans Basilika, Budapest, Ungarn (© Calin Stan/Shutterstock)",
-        "copyrightKeyword": "St. Stephans Basilika Budapest",
-        "hsh": "ff2ee280ec8c4ceda31b96c5cbd8fd58"
+        "hsh": "6996f2b1cd966e336ff98b4472b7691c"
     }
 ]

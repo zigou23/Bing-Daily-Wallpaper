@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202412200000",
+        "date": "20241221",
+        "url": "https://www.bing.com/th?id=OHR.SantaClausVillage_EN-GB5411562669_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SantaClausVillage_EN-GB5411562669",
+        "copyright": "Santa Claus Village in Rovaniemi, Lapland, Finland (© Smelov/Shutterstock)",
+        "copyrightKeyword": "Rovaniemi",
+        "hsh": "8e5d4d2a28eab96ecfde2f7cc5de44ee",
+        "description": "Nestled in Rovaniemi, Finland, and pictured in today's image, Santa Claus Village is a magical year-round destination where visitors can step into the enchanting world of Christmas. Situated right on the Arctic Circle, this village offers unique experiences, like meeting Santa Claus himself or crossing the Arctic Circle line. Children and adults alike can meet Santa's loyal reindeer and explore a vibrant collection of Christmas-themed attractions designed to delight visitors of all ages."
+    },
+    {
         "fullstartdate": "202412190000",
         "date": "20241220",
         "url": "https://www.bing.com/th?id=OHR.SibiuRomania_EN-GB6095129735_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ChristmasBudapest_EN-GB5094460199",
         "copyright": "Christmas market, St Stephen's Basilica, Budapest, Hungary (© Calin Stan/Shutterstock)",
         "copyrightKeyword": "St Stephens Basilica Budapest",
-        "hsh": "964164c39218754e2af34116b03b2acb",
-        "description": "As the holiday season kicks off, St Stephen's Basilica becomes the dazzling centrepiece of one of Budapest's iconic Christmas markets. The fair buzzes with holiday spirit, offering a mix of Hungarian craft, festive décor and local delicacies, capturing the essence of a traditional Christmas. The Advent Feast—an event held in the weeks leading up to Christmas and part of Hungary's holiday traditions—invites guests to savour dishes like chimney cakes, stuffed cabbage and goulash soup, while the scent of mulled wine and roasted chestnuts fills the air. A highlight for many is the 3D light show projected onto the basilica's facade, a modern touch that brings this historic structure to life."
-    },
-    {
-        "fullstartdate": "202412120000",
-        "date": "20241213",
-        "url": "https://www.bing.com/th?id=OHR.WildPoinsettia_EN-GB5028659817_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WildPoinsettia_EN-GB5028659817",
-        "copyright": "Poinsettia or Christmas flower (© David Hosking/NPL/Minden Pictures)",
-        "copyrightKeyword": "Poinsettia",
-        "hsh": "75b7d3a3840caeefb43c230d0a375bcf"
+        "hsh": "964164c39218754e2af34116b03b2acb"
     }
 ]
