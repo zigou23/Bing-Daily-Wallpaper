@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202412232300",
+        "date": "20241224",
+        "url": "https://www.bing.com/th?id=OHR.SantaSnowglobe_ES-ES2272443187_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SantaSnowglobe_ES-ES2272443187",
+        "copyright": "Mercadillo navideño en Alemania (© Cyril Gosselin/Getty Images)",
+        "copyrightKeyword": "Nochebuena",
+        "hsh": "06c10fbc10a4c7124c7be9064fefb722",
+        "description": "¿Sabías que los mercados navideños en Alemania son una tradición que data de la Edad Media? Estos encantadores mercados, ubicados en las pintorescas plazas de ciudades como Núremberg, Múnich y Dresde, ofrecen un mundo mágico de luces brillantes, melodiosas canciones y delicias de temporada. Cada mercado tiene su propio carácter especial, con artesanías regionales y costumbres festivas. Aquí puedes encontrar adornos hechos a mano, juguetes de madera y accesorios de invierno, además de disfrutar de un reconfortante vino caliente (Glühwein), el delicioso pan de jengibre (Lebkuchen) y crujientes nueces tostadas."
+    },
+    {
         "fullstartdate": "202412222300",
         "date": "20241223",
         "url": "https://www.bing.com/th?id=OHR.FestivusCranes_ES-ES2012612015_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ReinefjordenNorway_ES-ES2052368531",
         "copyright": "Cabañas rojas tradicionales de pescadores en la costa de Reinefjorden, Noruega (© Pilat666/Getty Images)",
         "copyrightKeyword": "Las Islas Lofoten",
-        "hsh": "a536342bbec0e30f147f629804e1b113",
-        "description": "¿Preparados para descubrir pueblos costeros llenos de encanto? En las mágicas Islas Lofoten de Noruega, Reine destaca con sus emblemáticas cabañas rojas, conocidas como “rorbuer”. Este pintoresco pueblo pesquero, con apenas 300 habitantes, ha sido un importante puesto comercial desde 1775. Hoy, es uno de los destinos más encantadores de la región, donde las tradicionales cabañas, antes refugio de pescadores, seducen a los visitantes con su atmósfera acogedora y su rica historia marinera. En invierno, Reine se transforma en un escenario de ensueño bajo la danza luminosa de las auroras boreales."
-    },
-    {
-        "fullstartdate": "202412152300",
-        "date": "20241216",
-        "url": "https://www.bing.com/th?id=OHR.SalzburgSnow_ES-ES9070747480_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SalzburgSnow_ES-ES9070747480",
-        "copyright": "Salzburgo, Austria (© bluejayphoto/Getty Images)",
-        "copyrightKeyword": "Salzburgo Austria historia",
-        "hsh": "891fe633f31a3ad4e071fb23b9648f25"
+        "hsh": "a536342bbec0e30f147f629804e1b113"
     }
 ]
