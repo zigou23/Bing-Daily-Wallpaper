@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202412240500",
+        "date": "20241225",
+        "url": "https://www.bing.com/th?id=OHR.SantaSnowglobe_FR-CA6593059116_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SantaSnowglobe_FR-CA6593059116",
+        "copyright": "Marché de Noël en Allemagne (© Cyril Gosselin/Getty Images)",
+        "copyrightKeyword": "Noël",
+        "hsh": "4fc178ee87e7d7b506f933f2ccbb2ddd",
+        "description": "Les marchés de Noël en Allemagne sont de véritables joyaux culturels. Le Christkindlesmarkt de Nuremberg, vieux de plus de 400 ans, et celui de Cologne, situé près de sa majestueuse cathédrale, incarnent la féérie hivernale. Vous y découvrirez des cadeaux faits main, des mets traditionnels comme le Stollen, et une ambiance unique. Ces marchés sont parfaits pour trouver un petit cadeau de dernière minute et s'associent à la tradition du réveillon de Noël. Après une journée à parcourir les allées décorées, la soirée se poursuit autour d’un repas typique."
+    },
+    {
         "fullstartdate": "202412230500",
         "date": "20241224",
         "url": "https://www.bing.com/th?id=OHR.FestivusCranes_FR-CA6325415770_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ReinefjordenNorway_FR-CA4918243263",
         "copyright": "Cabanes traditionnelles de pêcheurs sur le rivage de Reinefjorden, Norvège (© Pilat666/Getty Images)",
         "copyrightKeyword": "îles lofoten",
-        "hsh": "421a347229dcbdc5b71872ce60fb9a8f",
-        "description": "Les cabanes traditionnelles de pêcheurs, ou rorbuer, sont emblématiques de Reinefjorden, un fjord pittoresque de Norvège. Reine, un village de pêcheurs de 300 habitants, est chargé d’histoire. Depuis 1775, il a été un poste de commerce, avant de devenir une destination touristique prisée. Ces cabanes en bois, souvent rouges, étaient autrefois essentielles pour les pêcheurs qui travaillaient sans relâche pendant la saison de la morue."
-    },
-    {
-        "fullstartdate": "202412160500",
-        "date": "20241217",
-        "url": "https://www.bing.com/th?id=OHR.SalzburgSnow_FR-CA8518855447_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SalzburgSnow_FR-CA8518855447",
-        "copyright": "Salzbourg, Autriche (© bluejayphoto/Getty Images)",
-        "copyrightKeyword": "Salzbourg",
-        "hsh": "ac44a1f7d2cd2fdc118c69eb1c1db384"
+        "hsh": "421a347229dcbdc5b71872ce60fb9a8f"
     }
 ]
