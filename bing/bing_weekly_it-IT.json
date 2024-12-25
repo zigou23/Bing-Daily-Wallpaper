@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202412252300",
+        "date": "20241226",
+        "url": "https://www.bing.com/th?id=OHR.ChristmasSeason_IT-IT9715464696_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ChristmasSeason_IT-IT9715464696",
+        "copyright": "Albero di Natale, Portofino, Liguria (© Alberto Ialongo/Adobe Stock)",
+        "copyrightKeyword": "Santo Stefano",
+        "hsh": "ff0727f642f9ca0f26910bb9bb3f26ed",
+        "description": "Il 26 dicembre in Italia, come in molti altri paesi di tradizione cattolica, si celebra Santo Stefano, il primo martire cristiano. La sua figura incarna il valore della fede e del sacrificio, ma in Italia questa giornata è anche un'opportunità per festeggiare con la famiglia e gli amici, magari facendo una gita fuori porta. Se state pensando a un luogo da sogno, Portofino è la scelta perfetta. Questo gioiello della Riviera Ligure è incantevole in ogni stagione, ma a Natale si trasforma in un quadro magico."
+    },
+    {
         "fullstartdate": "202412242300",
         "date": "20241225",
         "url": "https://www.bing.com/th?id=OHR.ReindeerTrio_IT-IT1609765217_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SibiuRomania_IT-IT8074363725",
         "copyright": "Mercatino di Natale di Sibiu, Romania (© Calin Stan/Alamy Stock Photo)",
         "copyrightKeyword": "Sibiu",
-        "hsh": "9a80c5653d5291616bd4ffa8ef7d6960",
-        "description": "Venite ad ammirare questo mercatino di Natale. Non si trova né nei paesi germanofoni né nel Nord d’Italia. Benvenuti a Sibiu, nota in rumeno come Târgul de Crăciun din Sibiu. Il mercatino si tiene nella piazza centrale dalla fine di novembre fino ai primi di gennaio. Luci scintillanti avvolgono la piazza e le piccole casette di legno offrono una vasta gamma di prodotti. Si va dagli ornamenti fatti a mano alle prelibatezze locali come il cozonac, un dolce tradizionale rumeno, il vin fiert, un aromatico vin brulé, e i covrigi, un tipo di pretzel serviti caldi e cosparsi di sale."
-    },
-    {
-        "fullstartdate": "202412172300",
-        "date": "20241218",
-        "url": "https://www.bing.com/th?id=OHR.NutcrackerBallet_IT-IT7796108656_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.NutcrackerBallet_IT-IT7796108656",
-        "copyright": "Il Balletto Nazionale Inglese esegue “Lo Schiaccianoci” (© Caroline Holden/Alamy Stock Photo)",
-        "copyrightKeyword": "Lo Schiaccianoci Balletto",
-        "hsh": "3eba670b1f2f5370ebba294d51f40113"
+        "hsh": "9a80c5653d5291616bd4ffa8ef7d6960"
     }
 ]
