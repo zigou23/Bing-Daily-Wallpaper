@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202412300300",
+        "date": "20241231",
+        "url": "https://www.bing.com/th?id=OHR.CorridadeSaoSilvestre_PT-BR4824975840_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.CorridadeSaoSilvestre_PT-BR4824975840",
+        "copyright": "Vista aérea da Avenida Paulista na cidade de São Paulo (© cifotart/Getty Images)",
+        "copyrightKeyword": "Corrida de São Silvestre",
+        "hsh": "2367f0fcd4d167e115515393f76e212e",
+        "description": "A Corrida de São Silvestre é um evento histórico no Brasil, com sua primeira edição realizada em 31 de dezembro de 1925. Idealizada pelo jornalista Cásper Líbero, a corrida se tornou um marco esportivo e cultural, celebrando o fim de ano com energia e determinação. Até 1988, a corrida era realizada à noite, iluminando as ruas de São Paulo na virada do ano. Hoje em dia, com um percurso de 15 km, a prova passa por pontos icônicos da cidade, como a Avenida Paulista (vista na imagem de hoje) e o Vale do Anhangabaú, atraindo corredores de todo o mundo."
+    },
+    {
         "fullstartdate": "202412290300",
         "date": "20241230",
         "url": "https://www.bing.com/th?id=OHR.BorobudurBells_PT-BR9535309352_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.FestivusCranes_PT-BR2027410391",
         "copyright": "Dois grous-da-manchúria em Kushiro, Hokkaido, Japão (© Wirestock, Inc./Alamy)",
         "copyrightKeyword": "grou-da-manchúria",
-        "hsh": "a07d68d569de2695a541e10471e62219",
-        "description": "Uma ave tão elegante que parece ter saído de um baile formal: esse é o grou-da-manchúria, o risonho da imagem do dia nesta fria paisagem em Kushiro, no Japão. Com seu traje branco imaculado e uma coroa vermelha que brilha como um broche de rubi, esse pássaro asiático impressiona com seus 1,5 metros de altura. Entre os japoneses, ele é mais famoso que muitos astros do cinema, sendo símbolo de sorte e longevidade. Além de sua aparência, o grou se destaca por seus rituais de acasalamento, com passos graciosos e movimentos que misturam leveza e sofisticação – uma verdadeira dança de gala da natureza."
-    },
-    {
-        "fullstartdate": "202412220300",
-        "date": "20241223",
-        "url": "https://www.bing.com/th?id=OHR.CrystalPier_PT-BR2585040756_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.CrystalPier_PT-BR2585040756",
-        "copyright": "Árvore de Natal no Crystal Pier, Pacific Beach, San Diego, Califórnia, EUA (© SamAntonioPhotography/Getty Images)",
-        "copyrightKeyword": "San Diego Califórnia",
-        "hsh": "c036f4094b5a9a2b87a1ec42d9763207"
+        "hsh": "a07d68d569de2695a541e10471e62219"
     }
 ]
