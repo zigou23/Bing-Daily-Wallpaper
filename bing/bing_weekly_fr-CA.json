@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202501010500",
+        "date": "20250102",
+        "url": "https://www.bing.com/th?id=OHR.PolarBearSwim_FR-CA8041328309_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PolarBearSwim_FR-CA8041328309",
+        "copyright": "Ours polaires, Arctique (© Ondrej Prosicky/Shutterstock)",
+        "copyrightKeyword": "jour de l'an",
+        "hsh": "52f4e87225607a7156f89ee54ce0d54a",
+        "description": "Au Canada, le 1er janvier n’est pas seulement le premier jour de l’année: c’est l’occasion d’adopter un nouveau départ avec audace. Depuis des générations, le passage à la nouvelle année est marqué par des traditions uniques, parmi lesquelles le fameux « Bain de l’Ours Polaire », une activité à la fois audacieuse et symbolique."
+    },
+    {
         "fullstartdate": "202412310500",
         "date": "20250101",
         "url": "https://www.bing.com/th?id=OHR.CANYE24_FR-CA7534148922_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.Christmas24_FR-CA6807039694",
         "copyright": "Arbres de Noël avec la montagne Three Sisters en arrière-plan, Canmore, Alberta (© Nick Fitzhardinge/Moment/Getty Images)",
         "copyrightKeyword": "noël",
-        "hsh": "b2a2a6283c6ef84845684e3a08387e0c",
-        "description": "Noël est une période où les traditions prennent tout leur sens : décorer le sapin, chanter des cantiques, et bien sûr, attendre avec impatience l’arrivée du Père Noël. Au-delà de la magie, Noël est un moment de rassemblement familial et de transmission de valeurs. C’est aussi l'occasion de créer des souvenirs durables avec ceux que l’on aime."
-    },
-    {
-        "fullstartdate": "202412240500",
-        "date": "20241225",
-        "url": "https://www.bing.com/th?id=OHR.SantaSnowglobe_FR-CA6593059116_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SantaSnowglobe_FR-CA6593059116",
-        "copyright": "Marché de Noël en Allemagne (© Cyril Gosselin/Getty Images)",
-        "copyrightKeyword": "Noël",
-        "hsh": "4fc178ee87e7d7b506f933f2ccbb2ddd"
+        "hsh": "b2a2a6283c6ef84845684e3a08387e0c"
     }
 ]

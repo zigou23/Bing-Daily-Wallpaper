@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202501011830",
+        "date": "20250102",
+        "url": "https://www.bing.com/th?id=OHR.ArdezSwitzerland_EN-IN7123035732_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ArdezSwitzerland_EN-IN7123035732",
+        "copyright": "Star trails over Ardez village, Graubunden, Switzerland (© Roberto Moiola/Getty Images)",
+        "copyrightKeyword": "Ardez Switzerland",
+        "hsh": "2c1515f159ffac12bbc793fce2ddbc0e",
+        "description": "Perched on a terrace above the Inn Valley at over 1,400 metres, Ardez is a hidden gem in eastern Switzerland renowned for its deep cultural roots and stunning preservation of history. This picturesque village, starring in today's image, showcases the rich traditions and unique language of Switzerland's Romansh-speaking communities. Its homes are adorned with sgraffiti—decorative designs etched into plaster—and colourful murals, both iconic art styles of the Engadin region. Dating back to 840, when it was first referred to as Ardezis, the village's history includes Steinsberg Castle, originally owned by the Bishop of Chur. Though destroyed during the Swabian War in 1499, the castle's tower has been restored multiple times and stands today as a proud reminder of its past. In 1975, Ardez was chosen as a Swiss model village for its exceptional preservation efforts, which have kept its historic charm intact."
+    },
+    {
         "fullstartdate": "202412311830",
         "date": "20250101",
         "url": "https://www.bing.com/th?id=OHR.PolarBearSwim_EN-IN5843834952_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MouseholeXmas_EN-IN6968521248",
         "copyright": "Christmas lights at Mousehole harbour, Cornwall, England (© ianwool/Getty Images)",
         "copyrightKeyword": "Boxing Day",
-        "hsh": "f3b0ac10f73951b211030652c2407c80",
-        "description": "As the last notes of Christmas carols linger in the air, Boxing Day arrives. This day is celebrated in the United Kingdom, Canada and several Commonwealth countries. In the past, it was customary for the wealthy to give boxes filled with gifts to their servants on the day after Christmas. The tradition evolved into a day for charitable giving to the less fortunate. Today, while the spirit of giving remains, it has transformed into a holiday enjoying bustling sales and a lineup of soccer matches. However, December 26th in India is marked by a more somber remembrance—the 2004 Indian Ocean earthquake and tsunami, which is why the disaster is often referred to as the 'Boxing Day Tsunami.'"
-    },
-    {
-        "fullstartdate": "202412241830",
-        "date": "20241225",
-        "url": "https://www.bing.com/th?id=OHR.ReindeerTrio_EN-IN0167081195_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ReindeerTrio_EN-IN0167081195",
-        "copyright": "Svalbard reindeer in Van Mijenfjorden NP, Norway (© Martin Zwick/REDA&CO/Universal Images Group via Getty Images)",
-        "copyrightKeyword": "Christmas Day",
-        "hsh": "69c2a3e5d63af15ad1f03181a851d522"
+        "hsh": "f3b0ac10f73951b211030652c2407c80"
     }
 ]

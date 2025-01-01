@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202501010500",
+        "date": "20250102",
+        "url": "https://www.bing.com/th?id=OHR.PolarBearSwim_EN-CA5875728051_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PolarBearSwim_EN-CA5875728051",
+        "copyright": "Polar bears at play in the Arctic (© Ondrej Prosicky/Shutterstock)",
+        "copyrightKeyword": "New Years Day",
+        "hsh": "48c813bc1dda46c0a7d8a8b1026be69d",
+        "description": "Happy New Year's Day! Humans have celebrated the new year since at least 2000 BCE, but various cultures have chosen different days coinciding with equinoxes or lunar cycles. The Romans established January 1 as the beginning of the year in 153 BCE, but this fell out of favour throughout Europe during the medieval era. Since 1582 and the widespread adoption of the Gregorian calendar, however, much of the world now celebrates the new year today. In addition to watching fireworks, drinking champagne and making resolutions in the wee hours of the morning, other global traditions include making noise, eating lucky foods and giving gifts."
+    },
+    {
         "fullstartdate": "202412310500",
         "date": "20250101",
         "url": "https://www.bing.com/th?id=OHR.CANYE24_EN-CA5635305751_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.Christmas24_EN-CA4696082080",
         "copyright": "Christmas trees with the Three Sisters mountain in the background, Canmore, Alberta (© Nick Fitzhardinge/Moment/Getty Images)",
         "copyrightKeyword": "Christmas Day",
-        "hsh": "791933d659edd1007ec941bc1fd28e91",
-        "description": "Deck the halls—it's Christmas time! Christmas Day is a holiday filled with joy, warmth and cherished traditions. For many, it's a celebration of the birth of Jesus Christ, bringing family and friends together to exchange gifts, share meals and enjoy festive decor. Beyond its spiritual roots, Christmas also illuminates the season with beloved customs—decorating trees, carolling and eagerly awaiting Santa's arrival. These traditions, blending both old and new, make the holiday a magical experience filled with connection and cheer."
-    },
-    {
-        "fullstartdate": "202412240500",
-        "date": "20241225",
-        "url": "https://www.bing.com/th?id=OHR.SantaSnowglobe_EN-CA4151337834_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SantaSnowglobe_EN-CA4151337834",
-        "copyright": "Christmas market scene in Germany (© Cyril Gosselin/Getty Images)",
-        "copyrightKeyword": "Christmas Eve",
-        "hsh": "f8a44dafd8fcbb8379f09814edb03481"
+        "hsh": "791933d659edd1007ec941bc1fd28e91"
     }
 ]

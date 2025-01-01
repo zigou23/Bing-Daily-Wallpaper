@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202501012300",
+        "date": "20250102",
+        "url": "https://www.bing.com/th?id=OHR.ArdezSwitzerland_ES-ES4481408701_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ArdezSwitzerland_ES-ES4481408701",
+        "copyright": "Estelas de estrellas sobre el pueblo de Ardez, Graubunden, Suiza (© Roberto Moiola/Getty Images)",
+        "copyrightKeyword": "Ardez Suiza",
+        "hsh": "5e75e996fe5df9232e970b60d954152d",
+        "description": "Aunque podría parecer el valle de Aramayona en el País Vasco, este pintoresco pueblo invernal en el valle de Inn, a 1.467 metros de altitud, es Ardez, una joya escondida en el este de Suiza, reconocida por sus profundas raíces culturales y su impresionante conservación histórica. Este encantador pueblo, que protagoniza la imagen de hoy, refleja las ricas tradiciones y el idioma único de las comunidades de habla romanche en Suiza. Sus casas están adornadas con esgrafiados y coloridos murales, dos estilos artísticos emblemáticos de la región de Engadina."
+    },
+    {
         "fullstartdate": "202412312300",
         "date": "20250101",
         "url": "https://www.bing.com/th?id=OHR.PolarBearSwim_ES-ES4132318898_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SaintStephensDay_ES-ES9179048163",
         "copyright": "Cala Comte al atardecer, Ibiza, Islas Baleares, España (© Vicente Soler Marmaneu Vicenfoto/Alamy Stock Photo)",
         "copyrightKeyword": "San Esteban",
-        "hsh": "95201acbd66f17c72984c569a7eed580",
-        "description": "Hoy celebramos San Esteban, una festividad que evoca la serenidad de los momentos compartidos en familia, rodeados de profundas tradiciones y costumbres llenas de amor. La jornada comienza con solemnes misas y continúa con festines que combinan lo mejor de la gastronomía local, como el tradicional \"canelón\". Es un día en el que el bullicio navideño se suaviza, dando paso a una atmósfera más tranquila, donde los hogares se llenan de risas y alegría."
-    },
-    {
-        "fullstartdate": "202412242300",
-        "date": "20241225",
-        "url": "https://www.bing.com/th?id=OHR.ReindeerTrio_ES-ES2505457663_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ReindeerTrio_ES-ES2505457663",
-        "copyright": "Renos de Svalbard en el Van Mijenfjorden NP, Noruega (© Martin Zwick/REDA&CO/Universal Images Group via Getty Images)",
-        "copyrightKeyword": "Navidad",
-        "hsh": "f7cfeaf8c2cdfa932acb7c9168382a16"
+        "hsh": "95201acbd66f17c72984c569a7eed580"
     }
 ]

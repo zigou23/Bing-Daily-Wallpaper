@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202501012300",
+        "date": "20250102",
+        "url": "https://www.bing.com/th?id=OHR.ArdezSwitzerland_DE-DE7533597545_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ArdezSwitzerland_DE-DE7533597545",
+        "copyright": "Sternspuren über Ardez, Graubünden, Schweiz (© Roberto Moiola/Getty Images)",
+        "copyrightKeyword": "Ardez Schweiz",
+        "hsh": "6e4aea6470e0aded058f51dfa8c1925b",
+        "description": "Willkommen in Ardez, einem versteckten Schatz im Osten der Schweiz! Das charmante Dorf, das auf unserem heutigen Bild zu sehen ist, liegt malerisch auf einer Terrasse über dem Inntal auf 1.460 Metern Höhe und ist bekannt für seine tiefen kulturellen Wurzeln in der rätoromanischen Gemeinschaft. Die Häuser des Dorfes sind mit kunstvollen Sgraffiti verziert, einer Technik, bei der durch Kratzen in den Putz darunter liegende Farbschichten freigelegt werden. Diese farbenfrohen Wandmalereien sind typisch für die Kunst des Engadins, eines der höchstgelegenen bewohnten Täler Europas im Schweizer Kanton Graubünden."
+    },
+    {
         "fullstartdate": "202412312300",
         "date": "20250101",
         "url": "https://www.bing.com/th?id=OHR.PolarBearSwim_DE-DE5203449776_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MouseholeXmas_DE-DE8175245850",
         "copyright": "Weihnachtsbeleuchtung im Hafen von Mousehole, Cornwall, England (© ianwool/Getty Images)",
         "copyrightKeyword": "2. Weihnachtstag",
-        "hsh": "607d87cd6a29fdf5e1de09d7547f99fc",
-        "description": "Der zweite Weihnachtsfeiertag ist in Deutschland auch als „Stephanstag“ bekannt, zu Ehren des Heiligen Stephanus, der als Märtyrer des Christentums gilt. An diesem Tag, der ein gesetzlicher Feiertag ist, hält die feierliche Stimmung an, die oft im Kreise der Familie verbracht wird. Traditionell besuchen viele Menschen Gottesdienste oder genießen ein festliches Essen mit ihren Lieben. Es ist eine Zeit der Ruhe und Besinnung, die die Weihnachtszeit abrundet und den Geist der Gemeinschaft und des Friedens fördert."
-    },
-    {
-        "fullstartdate": "202412242300",
-        "date": "20241225",
-        "url": "https://www.bing.com/th?id=OHR.ReindeerTrio_DE-DE1704555391_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ReindeerTrio_DE-DE1704555391",
-        "copyright": "Spitzbergen-Rentiere im Van Mijenfjord NP, Norwegen (© Martin Zwick/REDA&CO/Universal Images Group via Getty Images)",
-        "copyrightKeyword": "Weihnachten",
-        "hsh": "a08ab6633bf01f8b6f558a62f922338e"
+        "hsh": "607d87cd6a29fdf5e1de09d7547f99fc"
     }
 ]

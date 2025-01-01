@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202501012300",
+        "date": "20250102",
+        "url": "https://www.bing.com/th?id=OHR.ArdezSwitzerland_IT-IT8831023098_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ArdezSwitzerland_IT-IT8831023098",
+        "copyright": "Scie di stelle cadenti sul villaggio di Ardez, Grigioni, Svizzera (© Roberto Moiola/Getty Images)",
+        "copyrightKeyword": "Ardez, Svizzera",
+        "hsh": "4639940a0e566c0c9347c1154e25a21a",
+        "description": "Ardez, un incantevole villaggio situato a 1.525 metri su una terrazza sopra la Valle dell'Inn, è una perla nascosta della Svizzera orientale. Famoso per le sue profonde radici culturali e la straordinaria conservazione storica, il borgo rappresenta l'incontro perfetto tra storia e bellezza naturale. Le stelle illuminano questo luogo senza tempo, riflettendo le ricche tradizioni della comunità di lingua romancia, prevalente nel Canton Grigioni. Questa lingua neolatina è simile al ladino e al friulano, idiomi parlati in alcune regioni del nord Italia, come il Trentino-Alto Adige e il Friuli-Venezia Giulia."
+    },
+    {
         "fullstartdate": "202412312300",
         "date": "20250101",
         "url": "https://www.bing.com/th?id=OHR.PolarBearSwim_IT-IT8600941728_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ChristmasSeason_IT-IT9715464696",
         "copyright": "Albero di Natale, Portofino, Liguria (© Alberto Ialongo/Adobe Stock)",
         "copyrightKeyword": "Santo Stefano",
-        "hsh": "ff0727f642f9ca0f26910bb9bb3f26ed",
-        "description": "Il 26 dicembre in Italia, come in molti altri paesi di tradizione cattolica, si celebra Santo Stefano, il primo martire cristiano. La sua figura incarna il valore della fede e del sacrificio, ma in Italia questa giornata è anche un'opportunità per festeggiare con la famiglia e gli amici, magari facendo una gita fuori porta. Se state pensando a un luogo da sogno, Portofino è la scelta perfetta. Questo gioiello della Riviera Ligure è incantevole in ogni stagione, ma a Natale si trasforma in un quadro magico."
-    },
-    {
-        "fullstartdate": "202412242300",
-        "date": "20241225",
-        "url": "https://www.bing.com/th?id=OHR.ReindeerTrio_IT-IT1609765217_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ReindeerTrio_IT-IT1609765217",
-        "copyright": "Renne delle Svalbard nel Van Mijenfjorden NP, Norvegia (© Martin Zwick/REDA&CO/Universal Images Group via Getty Images)",
-        "copyrightKeyword": "Natale",
-        "hsh": "e19f3dacef190fb2c4af2dddc69a2732"
+        "hsh": "ff0727f642f9ca0f26910bb9bb3f26ed"
     }
 ]
