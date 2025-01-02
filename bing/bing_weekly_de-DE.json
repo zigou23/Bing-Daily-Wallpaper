@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202501022300",
+        "date": "20250103",
+        "url": "https://www.bing.com/th?id=OHR.TolkienOxford_DE-DE5846503746_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TolkienOxford_DE-DE5846503746",
+        "copyright": "Radcliffe Camera und All Souls College, Universität Oxford, England (© atiger/Shutterstock)",
+        "copyrightKeyword": "JRR Tolkien",
+        "hsh": "91c74d0bcf9b6317d82c127fde612973",
+        "description": "Kennen Sie die Universität Oxford in England? Kennen Sie die Radcliffe Camera und das All Souls College? Die Radcliffe Camera, oft einfach „Rad Cam“ genannt, ist eines der berühmtesten Gebäude der Universität Oxford. Sie wurde im 18. Jahrhundert erbaut und dient als Lesesaal der Bodleian Library. Ihre runde, tempelartige Struktur ist ein Meisterwerk barocker Architektur und ein Symbol für Wissen und Bildung. Ganz in der Nähe befindet sich das All Souls College, das 1438 gegründet wurde. Wussten Sie, dass J.R.R. Tolkien, der berühmte Autor von „Der Herr der Ringe“ und „Der Hobbit“, an der Universität Oxford gelehrt hat?"
+    },
+    {
         "fullstartdate": "202501012300",
         "date": "20250102",
         "url": "https://www.bing.com/th?id=OHR.ArdezSwitzerland_DE-DE7533597545_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LakeBledSnow_DE-DE0780577347",
         "copyright": "Bleder See, Slowenien (© Kesu01/Getty Images)",
         "copyrightKeyword": "Bleder See Slowenien",
-        "hsh": "799bd85217b27b9a1858f042150f5a54",
-        "description": "Willkommen am Bleder See in Slowenien, der sich im Winter in ein wahres Winterwunderland verwandelt. Der malerisch am Fuße der schneebedeckten Julischen Alpen gelegene See ist bekannt für sein kristallklares Wasser und die idyllische, verschneite Insel in seiner Mitte. Auf dieser kleinen, tränenförmigen Insel steht die berühmte Kirche Mariä Himmelfahrt aus dem 17. Jahrhundert. Eine besondere Attraktion ist die Wunschglocke, die dreimal geläutet werden kann, um sich etwas zu wünschen."
-    },
-    {
-        "fullstartdate": "202412252300",
-        "date": "20241226",
-        "url": "https://www.bing.com/th?id=OHR.MouseholeXmas_DE-DE8175245850_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MouseholeXmas_DE-DE8175245850",
-        "copyright": "Weihnachtsbeleuchtung im Hafen von Mousehole, Cornwall, England (© ianwool/Getty Images)",
-        "copyrightKeyword": "2. Weihnachtstag",
-        "hsh": "607d87cd6a29fdf5e1de09d7547f99fc"
+        "hsh": "799bd85217b27b9a1858f042150f5a54"
     }
 ]

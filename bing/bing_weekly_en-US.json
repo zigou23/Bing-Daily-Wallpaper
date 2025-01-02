@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202501020800",
+        "date": "20250103",
+        "url": "https://www.bing.com/th?id=OHR.ArdezSwitzerland_EN-US8405268165_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ArdezSwitzerland_EN-US8405268165",
+        "copyright": "Star trails over Ardez, Graubunden, Switzerland (© Roberto Moiola/Getty Images)",
+        "copyrightKeyword": "Ardez Switzerland",
+        "hsh": "b43cf822fe39fe1d6be4bb3368e227c5",
+        "description": "Perched on a terrace above the Inn Valley at 4,790 feet, Ardez is a hidden gem in eastern Switzerland renowned for its deep cultural roots and stunning preservation of history. This picturesque village, starring in today's image, showcases the rich traditions and unique language of Switzerland's Romansh-speaking communities. Its homes are adorned with sgraffiti—decorative designs etched into plaster—and colorful murals, both iconic art styles of the Engadin region. Dating back to 840 when it was first referred to as Ardezis, the village's history includes Steinsberg Castle, originally owned by the Bishop of Chur. Though destroyed during the Swabian War in 1499, the castle's tower has been restored multiple times and stands today as a proud reminder of its past. In 1975, Ardez was chosen as a Swiss model village for its exceptional preservation efforts, which have kept its historic charm intact."
+    },
+    {
         "fullstartdate": "202501010800",
         "date": "20250102",
         "url": "https://www.bing.com/th?id=OHR.PolarBearSwim_EN-US7610036047_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MouseholeXmas_EN-US1272999190",
         "copyright": "Christmas lights at Mousehole Harbour, Cornwall, England (© ianwool/Getty Images)",
         "copyrightKeyword": "Boxing Day",
-        "hsh": "37be7be8344f6f09cf928d8fd7fccf3e",
-        "description": "As the last notes of Christmas carols linger in the air, Boxing Day arrives. This day is celebrated in the United Kingdom, Canada, and several Commonwealth countries. In the past, it was customary for the wealthy to give boxes filled with gifts to their servants on the day after Christmas. The tradition evolved into a day for charitable giving to the less fortunate. Today, while the spirit of giving remains, it has transformed into a holiday about enjoying bustling sales and a lineup of soccer matches."
-    },
-    {
-        "fullstartdate": "202412250800",
-        "date": "20241226",
-        "url": "https://www.bing.com/th?id=OHR.ReindeerTrio_EN-US1000272747_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ReindeerTrio_EN-US1000272747",
-        "copyright": "Svalbard reindeer in Van Mijenfjorden NP, Norway (© Martin Zwick/REDA&CO/Universal Images Group via Getty Images)",
-        "copyrightKeyword": "Christmas Day",
-        "hsh": "583c016008771a154edfe7000718b2d2"
+        "hsh": "37be7be8344f6f09cf928d8fd7fccf3e"
     }
 ]

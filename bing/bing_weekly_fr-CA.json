@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202501020500",
+        "date": "20250103",
+        "url": "https://www.bing.com/th?id=OHR.ArdezSwitzerland_FR-CA8314617577_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ArdezSwitzerland_FR-CA8314617577",
+        "copyright": "Traînées d'étoiles au-dessus du village d'Ardez, Graubunden, Suisse (© Roberto Moiola/Getty Images)",
+        "copyrightKeyword": "ardez suisse",
+        "hsh": "bd94a929314c0bc47b5077e68f5b7966",
+        "description": "Bienvenue à Ardez, ce petit village suisse qui semble tout droit sorti d’un conte de fées! Situé dans les magnifiques montagnes des Grisons, il séduit par ses ruelles pavées, ses maisons traditionnelles et ses fresques murales. Ces décorations, typiques de la région, ajoutent une touche artistique à chaque façade."
+    },
+    {
         "fullstartdate": "202501010500",
         "date": "20250102",
         "url": "https://www.bing.com/th?id=OHR.PolarBearSwim_FR-CA8041328309_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BoxingDay24_FR-CA1518470041",
         "copyright": "Horloge à vapeur de Gastown à Vancouver, Colombie-Britannique (© J Duquette/iStock/Getty Images)",
         "copyrightKeyword": "jour des boîtes",
-        "hsh": "b02ef324d3a06aea98585870bf8deac3",
-        "description": "Alors que les dernières notes des chants de Noël s’éteignent, le Jour des Boîtes fait son apparition. Célébré au Canada, au Royaume-Uni et dans plusieurs pays du Commonwealth, ce jour marque une tradition où les riches donnaient des boîtes remplies de cadeaux à leurs domestiques. Aujourd'hui, bien que l’esprit de générosité demeure, il est devenu surtout associé aux grandes soldes et aux matchs de football."
-    },
-    {
-        "fullstartdate": "202412250500",
-        "date": "20241226",
-        "url": "https://www.bing.com/th?id=OHR.Christmas24_FR-CA6807039694_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.Christmas24_FR-CA6807039694",
-        "copyright": "Arbres de Noël avec la montagne Three Sisters en arrière-plan, Canmore, Alberta (© Nick Fitzhardinge/Moment/Getty Images)",
-        "copyrightKeyword": "noël",
-        "hsh": "b2a2a6283c6ef84845684e3a08387e0c"
+        "hsh": "b02ef324d3a06aea98585870bf8deac3"
     }
 ]

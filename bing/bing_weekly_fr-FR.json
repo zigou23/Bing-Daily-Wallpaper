@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202501022300",
+        "date": "20250103",
+        "url": "https://www.bing.com/th?id=OHR.TolkienOxford_FR-FR1207092725_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TolkienOxford_FR-FR1207092725",
+        "copyright": "Radcliffe Camera et All Souls College, Université d'Oxford, Angleterre (© atiger/Shutterstock)",
+        "copyrightKeyword": "JRR Tolkien",
+        "hsh": "88fd4700999b2c1555a59b711aae32d6",
+        "description": "Impossible de visiter Oxford sans s’émerveiller devant la Radcliffe Camera, cette bibliothèque ronde majestueuse qui semble tout droit sortie d’un conte. Conçue au XVIIIᵉ siècle, elle est l’un des lieux les plus photographiés d’Angleterre ! Non loin de là, All Souls College, avec son architecture gothique et son ambiance intemporelle, est un incontournable pour ressentir l’âme de cette prestigieuse université."
+    },
+    {
         "fullstartdate": "202501012300",
         "date": "20250102",
         "url": "https://www.bing.com/th?id=OHR.AlpsSunset_FR-FR0523137668_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LakeBledSnow_FR-FR5167708906",
         "copyright": "Lac de Bled, Slovénie (© Kesu01/Getty Images)",
         "copyrightKeyword": "Lac de Bled, Slovénie",
-        "hsh": "7b308f5fc94dba2f0d2bf85740c4bab7",
-        "description": "Au cœur des Alpes juliennes, le lac de Bled évoque un conte hivernal. Pourtant, son histoire est bien réelle. Né il y a 14 000 ans à la fin de la dernière glaciation, il a vu défiler des siècles de traditions. En son centre, l'île abrite une église dédiée à l'Assomption, dont les premières traces remontent au IXᵉ siècle. La cloche légendaire, coulée au XVe siècle, est réputée pour exaucer les vœux des cœurs sincères. Surplombant ce joyau, le château de Bled, mentionné pour la première fois en 1011, veille depuis plus de mille ans. Construit par les évêques de Brixen, il cache une ancienne imprimerie où sont reproduites des gravures médiévales."
-    },
-    {
-        "fullstartdate": "202412252300",
-        "date": "20241226",
-        "url": "https://www.bing.com/th?id=OHR.PointeDiable_FR-FR3649413809_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PointeDiable_FR-FR3649413809",
-        "copyright": "Pointe du Diable, Saint Pierre, Parc national de la Réunion (© MONTICO Lionel/Hemis/Alamy Stock Photo)",
-        "copyrightKeyword": "Pointe du Diable, Saint Pierre, Parc national de la Réunion",
-        "hsh": "13b9e9965fc73a4c1db63cb7b954190f"
+        "hsh": "7b308f5fc94dba2f0d2bf85740c4bab7"
     }
 ]

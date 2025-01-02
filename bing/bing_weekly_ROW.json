@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202501020800",
+        "date": "20250103",
+        "url": "https://www.bing.com/th?id=OHR.ArdezSwitzerland_ROW0603494655_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ArdezSwitzerland_ROW0603494655",
+        "copyright": "Star trails over Ardez village, Graubunden, Switzerland (© Roberto Moiola/Getty Images)",
+        "copyrightKeyword": "Ardez Switzerland",
+        "hsh": "ce92539e711afc94e48f8768f0699eb4",
+        "description": "Perched on a terrace above the Inn Valley at over 1,400 metres, Ardez is a hidden gem in eastern Switzerland renowned for its deep cultural roots and stunning preservation of history. This picturesque village, starring in today's image, showcases the rich traditions and unique language of Switzerland's Romansh-speaking communities. Its homes are adorned with sgraffiti—decorative designs etched into plaster—and colourful murals, both iconic art styles of the Engadin region. Dating back to 840, when it was first referred to as Ardezis, the village's history includes Steinsberg Castle, originally owned by the Bishop of Chur. Though destroyed during the Swabian War in 1499, the castle's tower has been restored multiple times and stands today as a proud reminder of its past. In 1975, Ardez was chosen as a Swiss model village for its exceptional preservation efforts, which have kept its historic charm intact."
+    },
+    {
         "fullstartdate": "202501010800",
         "date": "20250102",
         "url": "https://www.bing.com/th?id=OHR.PolarBearSwim_ROW0440567720_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MouseholeXmas_ROW5799394609",
         "copyright": "Christmas lights at Mousehole harbour, Cornwall, England (© ianwool/Getty Images)",
         "copyrightKeyword": "Cornwall England",
-        "hsh": "db0e644e2e1a5db2fe3e39032a1e2495",
-        "description": "As the last notes of Christmas carols still linger in the air, let's visit the harbour of Mousehole, a fishing village in Cornwall, England, to keep the merriment going. Featured in today's image, Mousehole harbour is known for its Christmas illuminations. The Mousehole lights were first lit in the early 1960s, thanks to local artist Joan Gillchrest. A few humble strings of lights soon turned into a full-blown spectacle, growing over the years to include iconic scenes, nautical motifs and Cornish themes. Today, the lights, switched on from December until early January, span the entire harbour, wrapping buildings, boats and even the water's edge in a soft glow."
-    },
-    {
-        "fullstartdate": "202412250800",
-        "date": "20241226",
-        "url": "https://www.bing.com/th?id=OHR.CovadongaWinter_ROW6306600418_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.CovadongaWinter_ROW6306600418",
-        "copyright": "Lakes of Covadonga, Asturias, Spain (© Carlos Fernandez/Getty Images)",
-        "copyrightKeyword": "Lakes of Covadonga",
-        "hsh": "24f64bac84ab882b859e6138bbcd8442"
+        "hsh": "db0e644e2e1a5db2fe3e39032a1e2495"
     }
 ]

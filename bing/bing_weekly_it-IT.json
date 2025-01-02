@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202501022300",
+        "date": "20250103",
+        "url": "https://www.bing.com/th?id=OHR.TolkienOxford_IT-IT9082436970_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TolkienOxford_IT-IT9082436970",
+        "copyright": "Radcliffe Camera e All Souls College, Università di Oxford, Inghilterra (© atiger/Shutterstock)",
+        "copyrightKeyword": "J.R.R. Tolkien",
+        "hsh": "3d6d72ee21ed56f7ddead1fec284fe46",
+        "description": "La Radcliffe Camera, situata nel cuore dell'Università di Oxford, in Inghilterra, è un'icona architettonica progettata da James Gibbs e completata nel 1749. Accanto si trova il prestigioso All Souls College, dove J.R.R. Tolkien, nato il 3 gennaio 1892, fu professore. Tolkien, celebre autore de \"Il Signore degli Anelli\", ha lasciato un'impronta indelebile nella letteratura e nell'accademia. Vi invitiamo a passeggiare tra questi edifici storici, dove potrete udire l'eco delle lezioni del professor Tolkien, di Gandalf, degli hobbit e di Sauron. La magia di Oxford è palpabile: un luogo in cui passato e presente si fondono in modo armonioso."
+    },
+    {
         "fullstartdate": "202501012300",
         "date": "20250102",
         "url": "https://www.bing.com/th?id=OHR.ArdezSwitzerland_IT-IT8831023098_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LakeBledSnow_IT-IT5595802346",
         "copyright": "Lago di Bled, Slovenia (© Kesu01/Getty Images)",
         "copyrightKeyword": "Lake Bled Slovenia",
-        "hsh": "164391501800cf5e29f367b9eea56ab4",
-        "description": "Siete amanti delle avventure invernali e di laghi incantati incastonati come gioielli tra le maestose montagne? Allora il Lago di Bled, in Slovenia, nelle Alpi Giulie situato a pochi chilometri dal confine italiano, è la vostra meta ideale. Le sue acque, di un colore che varia dal verde al turchese, sembrano quasi dipinte e l'Isola di Bled, con la sua pittoresca chiesa, sembra uscita da una fiaba d’altri tempi. I primi segni di insediamento sull'isola risalgono al Neolitico, mentre nel XVII secolo è stata costruita la Chiesa di Santa Maria Assunta, dove oggi i visitatori suonano la \"campana dei desideri\" per farsi portare fortuna."
-    },
-    {
-        "fullstartdate": "202412252300",
-        "date": "20241226",
-        "url": "https://www.bing.com/th?id=OHR.ChristmasSeason_IT-IT9715464696_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ChristmasSeason_IT-IT9715464696",
-        "copyright": "Albero di Natale, Portofino, Liguria (© Alberto Ialongo/Adobe Stock)",
-        "copyrightKeyword": "Santo Stefano",
-        "hsh": "ff0727f642f9ca0f26910bb9bb3f26ed"
+        "hsh": "164391501800cf5e29f367b9eea56ab4"
     }
 ]
