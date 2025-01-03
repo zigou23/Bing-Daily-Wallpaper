@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202501030500",
+        "date": "20250104",
+        "url": "https://www.bing.com/th?id=OHR.TolkienOxford_FR-CA8637685822_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TolkienOxford_FR-CA8637685822",
+        "copyright": "Radcliffe Camera et All Souls College, Université d'Oxford, Angleterre (© atiger/Shutterstock)",
+        "copyrightKeyword": "JRR Tolkien",
+        "hsh": "776b199e32862178bf85db73c0b219da",
+        "description": "Impossible de visiter Oxford sans s’émerveiller devant la Radcliffe Camera, cette bibliothèque ronde majestueuse qui semble tout droit sortie d’un conte. Conçue au XVIIIᵉ siècle, elle est l’un des lieux les plus photographiés d’Angleterre ! Non loin de là, All Souls College, avec son architecture gothique et son ambiance intemporelle, est un incontournable pour ressentir l’âme de cette prestigieuse université."
+    },
+    {
         "fullstartdate": "202501020500",
         "date": "20250103",
         "url": "https://www.bing.com/th?id=OHR.ArdezSwitzerland_FR-CA8314617577_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LakeBledSnow_FR-CA6860271239",
         "copyright": "Lac de Bled, Slovénie (© Kesu01/Getty Images)",
         "copyrightKeyword": "Lac de Bled, Slovénie",
-        "hsh": "8f8dbe94076de9e4ce2f44c582d6f1d6",
-        "description": "Au cœur des Alpes juliennes, le lac de Bled évoque un conte hivernal. Pourtant, son histoire est bien réelle. Né il y a 14 000 ans à la fin de la dernière glaciation, il a vu défiler des siècles de traditions. En son centre, l'île abrite une église dédiée à l'Assomption, dont les premières traces remontent au IXᵉ siècle. La cloche légendaire, coulée au XVe siècle, est réputée pour exaucer les vœux des cœurs sincères. Surplombant ce joyau, le château de Bled, mentionné pour la première fois en 1011, veille depuis plus de mille ans. Construit par les évêques de Brixen, il cache une ancienne imprimerie où sont reproduites des gravures médiévales."
-    },
-    {
-        "fullstartdate": "202412260500",
-        "date": "20241227",
-        "url": "https://www.bing.com/th?id=OHR.BoxingDay24_FR-CA1518470041_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BoxingDay24_FR-CA1518470041",
-        "copyright": "Horloge à vapeur de Gastown à Vancouver, Colombie-Britannique (© J Duquette/iStock/Getty Images)",
-        "copyrightKeyword": "jour des boîtes",
-        "hsh": "b02ef324d3a06aea98585870bf8deac3"
+        "hsh": "8f8dbe94076de9e4ce2f44c582d6f1d6"
     }
 ]

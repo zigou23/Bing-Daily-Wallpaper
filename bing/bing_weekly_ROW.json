@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202501030800",
+        "date": "20250104",
+        "url": "https://www.bing.com/th?id=OHR.TolkienOxford_ROW0329962791_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TolkienOxford_ROW0329962791",
+        "copyright": "Radcliffe Camera and All Souls College, University of Oxford, England (© atiger/Shutterstock)",
+        "copyrightKeyword": "University of Oxford",
+        "hsh": "8219235ea7861f300040425912f724e6",
+        "description": "Today, we are at Radcliffe Camera, with the magnificent All Souls College standing in the background, both iconic landmarks of the University of Oxford, England. The Radcliffe Camera, fondly referred to as the 'Rad Cam' or 'The Camera,' is an architectural gem that was built between 1737 and 1749. Designed in Baroque style by James Gibbs, it originally served as the Radcliffe Science Library. Its unique circular design and prominent location make it a defining feature of Oxford's skyline and a beloved symbol of the university."
+    },
+    {
         "fullstartdate": "202501020800",
         "date": "20250103",
         "url": "https://www.bing.com/th?id=OHR.ArdezSwitzerland_ROW0603494655_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LakeBledSnow_ROW6189813176",
         "copyright": "Lake Bled, Slovenia (© Kesu01/Getty Images)",
         "copyrightKeyword": "Lake Bled Slovenia",
-        "hsh": "0591b4b627ce71f39c53392528ad63a4",
-        "description": "Lake Bled in Slovenia gets plenty of attention in summer, but winter? That's when things slow down in the best way. The lake's emerald waters take on a softer tone, and Bled Island, with its quaint church, looks straight out of a winter fairytale, as seen in today's image. This over 2-kilometre lake, surrounded by the snow-dusted Julian Alps, was formed over 14,000 years ago through glacial and tectonic activity. The first signs of settlement on Bled Island date back to the New Stone Age (10,000 BCE to 3,000 BCE). Additionally, archaeologists uncovered an Early Medieval graveyard here from the 9th century CE. Today, it houses the Church of the Assumption—built in its current form near the end of the 17th century—where visitors ring the 'wishing bell' for good luck."
-    },
-    {
-        "fullstartdate": "202412260800",
-        "date": "20241227",
-        "url": "https://www.bing.com/th?id=OHR.MouseholeXmas_ROW5799394609_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MouseholeXmas_ROW5799394609",
-        "copyright": "Christmas lights at Mousehole harbour, Cornwall, England (© ianwool/Getty Images)",
-        "copyrightKeyword": "Cornwall England",
-        "hsh": "db0e644e2e1a5db2fe3e39032a1e2495"
+        "hsh": "0591b4b627ce71f39c53392528ad63a4"
     }
 ]
