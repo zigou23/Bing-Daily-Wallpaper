@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202501052300",
+        "date": "20250106",
+        "url": "https://www.bing.com/th?id=OHR.RavennaBasilica_DE-DE6763936064_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.RavennaBasilica_DE-DE6763936064",
+        "copyright": "Überschwemmte Krypta, Basilika von San Francesco, Ravenna, Italien (© Andrea Pucci/Getty Images)",
+        "copyrightKeyword": "Ravenna, Italien",
+        "hsh": "bb5f5b62001ec101e70c110ca9b1c3a4",
+        "description": "Die Basilika von San Francesco in Ravenna, Italien, ist ein bedeutendes historisches Bauwerk, das zwischen dem 9. und 10. Jahrhundert erbaut wurde. Ursprünglich als Kirche der Apostel bekannt, wurde sie später den Heiligen Petrus und Paulus gewidmet. Im 13. Jahrhundert übernahmen die Franziskaner die Kirche und widmeten sie dem Heiligen Franz von Assisi. Besonders bemerkenswert ist die Krypta, die aufgrund von Bodensenkungen unter Wasser steht und wunderschöne Mosaike aus der ursprünglichen Kirche zeigt. Die Basilika ist auch bekannt für die Beisetzung von Dante Alighieri, dessen Grab sich in unmittelbarer Nähe befindet. Ein Besuch dieser Basilika ist eine Reise in die reiche Geschichte Ravennas."
+    },
+    {
         "fullstartdate": "202501042300",
         "date": "20250105",
         "url": "https://www.bing.com/th?id=OHR.WinterLandscapeBavaria_DE-DE6496709723_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MountFieldNP_DE-DE4643713603",
         "copyright": "Tasmanischer Schnee-Eukalyptus und Pandani-Pflanzen in der Nähe des Lake Dobson, Mount-Field-Nationalpark, Tasmanien, Australien (© Whitworth Images/Getty Images)",
         "copyrightKeyword": "Mount-Field-Nationalpark",
-        "hsh": "b6de89345923c49a7255aa75baff7785",
-        "description": "Entdecken Sie den faszinierenden Mount-Field-Nationalpark in Tasmanien, Australien! Der 64 km nordwestlich von Hobart gelegene Park bietet eine beeindruckende Vielfalt an Landschaften und Lebensräumen, weswegen er auch „The Park for All Seasons“ (auf Deutsch „der Park für alle Jahreszeiten“) genannt wird. Von dichten Eukalyptuswäldern bis hin zu alpinen Moorlandschaften – hier gibt es viel zu sehen. Besonders auffällig sind die Tasmanischen Schnee-Eukalyptus- und Pandani-Pflanzen in der Nähe des Lake Dobson, die auf dem heutigen Bild zu sehen sind. Aber nicht nur die Flora ist bemerkenswert, auch zahlreiche Tierarten wie Wombats, Schnabeltiere und Tasmanische Teufel sind im Park beheimatet."
-    },
-    {
-        "fullstartdate": "202412282300",
-        "date": "20241229",
-        "url": "https://www.bing.com/th?id=OHR.BorobudurBells_DE-DE1793437311_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BorobudurBells_DE-DE1793437311",
-        "copyright": "Borobudur TeBorobudur-Tempel, Java, Indonesien (© Robertharding/Shutterstock)",
-        "copyrightKeyword": "Borobudur-Tempel Java Indonesien",
-        "hsh": "f46c14416678b4e8ccb7abeacaf9ae3a"
+        "hsh": "b6de89345923c49a7255aa75baff7785"
     }
 ]

@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202501052300",
+        "date": "20250106",
+        "url": "https://www.bing.com/th?id=OHR.RavennaBasilica_IT-IT9888465442_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.RavennaBasilica_IT-IT9888465442",
+        "copyright": "Cripta allagata, Basilica di San Francesco, Ravenna, Italia (© Andrea Pucci/Getty Images)",
+        "copyrightKeyword": "Basilica di San Francesco, Ravenna, Italia",
+        "hsh": "24604b4b458adc9f7e0ef1382b50f03d",
+        "description": "La Basilica di San Francesco a Ravenna è un gioiello di storia e spiritualità, che si distingue per la sua eleganza sobria e il suo profondo legame con il passato. Edificata nel X secolo, è un esempio unico di architettura paleocristiana, la cui semplicità delle linee ci invita alla contemplazione. Ma ciò che la rende davvero speciale è la sua cripta, un luogo misterioso che custodisce un fascino inatteso: costantemente allagata, riflette il gioco di luce sull’acqua cristallina, creando un’atmosfera quasi magica. Tra i pilastri sommersi guizzano pesciolini, offrendo uno spettacolo naturale che sembra trasportarci in un mondo senza tempo."
+    },
+    {
         "fullstartdate": "202501042300",
         "date": "20250105",
         "url": "https://www.bing.com/th?id=OHR.BouldersNZ_IT-IT9574087004_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MountFieldNP_IT-IT7967272422",
         "copyright": "Piante di gomma delle nevi e pandani, Parco Nazionale di Mount Field, Tasmania, Australia (© Whitworth Images/Getty Images)",
         "copyrightKeyword": "Tasmania",
-        "hsh": "8fe2ead99b4cee431ffc6ab831aaa753",
-        "description": "La Tasmania, isola situata a sud dell’Australia, è un autentico santuario della biodiversità, celebre per la sua natura incontaminata e le specie endemiche. Il Parco Nazionale di Mount Field, uno dei più antichi del paese, è una delle gemme naturali. Offre una varietà di habitat, dalle foreste pluviali alle brughiere alpine. Tra le sue specie più caratteristiche troviamo la gomma delle nevi (Eucalyptus coccifera), che cresce nelle fredde altitudini del parco, e il pandanus della Tasmania (Richea pandanifolia) una pianta iconica con foglie a forma di spada che dona un aspetto quasi primordiale ai suoi ambienti. Si tratta di alberi e arbusti che rappresentano l’adattamento unico delle piante alle condizioni estreme dell’isola."
-    },
-    {
-        "fullstartdate": "202412282300",
-        "date": "20241229",
-        "url": "https://www.bing.com/th?id=OHR.BorobudurBells_IT-IT2966743478_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BorobudurBells_IT-IT2966743478",
-        "copyright": "Tempio di Borobudur, Giava, Indonesia (© Robertharding/Shutterstock)",
-        "copyrightKeyword": "Tempio di Borobuḍur, Giava, Indonesia",
-        "hsh": "fccf0e1632699519d5e87237041c8cc7"
+        "hsh": "8fe2ead99b4cee431ffc6ab831aaa753"
     }
 ]
