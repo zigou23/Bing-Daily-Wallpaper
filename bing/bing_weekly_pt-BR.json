@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202501060300",
+        "date": "20250107",
+        "url": "https://www.bing.com/th?id=OHR.RavennaBasilica_PT-BR5657717935_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.RavennaBasilica_PT-BR5657717935",
+        "copyright": "Cripta inundada, Basílica de São Francisco, Ravena, Itália (© Andrea Pucci/Getty Images)",
+        "copyrightKeyword": "Ravena Itália",
+        "hsh": "da4c6b4306345dc8b989d3086cc1e035",
+        "description": "Na encantadora cidade de Ravena, na Itália, a Basílica de São Francisco é uma misteriosa ponte entre épocas. Fundada em 450 d.C., essa igreja românica ecoa séculos de história. Sua cripta subterrânea, capturada na imagem de hoje, é um universo à parte: colunas de pedra sustentam tetos abobadados, e mosaicos milenares jazem sob uma camada de água cristalina. Como a cidade está gradualmente afundando, a cripta fica hoje submersa sob 30 centímetros de água. Em vez de lutar contra essa inundação natural, Ravena a abraçou, transformando o que poderia ser um problema estrutural em uma obra-prima arquitetônica."
+    },
+    {
         "fullstartdate": "202501050300",
         "date": "20250106",
         "url": "https://www.bing.com/th?id=OHR.PlumParakeet_PT-BR4715109832_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.CorridadeSaoSilvestre_PT-BR4824975840",
         "copyright": "Vista aérea da Avenida Paulista na cidade de São Paulo (© cifotart/Getty Images)",
         "copyrightKeyword": "Corrida de São Silvestre",
-        "hsh": "2367f0fcd4d167e115515393f76e212e",
-        "description": "A Corrida de São Silvestre é um evento histórico no Brasil, com sua primeira edição realizada em 31 de dezembro de 1925. Idealizada pelo jornalista Cásper Líbero, a corrida se tornou um marco esportivo e cultural, celebrando o fim de ano com energia e determinação. Até 1988, a corrida era realizada à noite, iluminando as ruas de São Paulo na virada do ano. Hoje em dia, com um percurso de 15 km, a prova passa por pontos icônicos da cidade, como a Avenida Paulista (vista na imagem de hoje) e o Vale do Anhangabaú, atraindo corredores de todo o mundo."
-    },
-    {
-        "fullstartdate": "202412290300",
-        "date": "20241230",
-        "url": "https://www.bing.com/th?id=OHR.BorobudurBells_PT-BR9535309352_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BorobudurBells_PT-BR9535309352",
-        "copyright": "Templo de Borobudur, Java, Indonésia (© Robertharding/Shutterstock)",
-        "copyrightKeyword": "Java na Indonésia",
-        "hsh": "4126c6f8ecca2b3ae4807ea50b4d3de5"
+        "hsh": "2367f0fcd4d167e115515393f76e212e"
     }
 ]
