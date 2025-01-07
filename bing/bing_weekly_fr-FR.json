@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202501072300",
+        "date": "20250108",
+        "url": "https://www.bing.com/th?id=OHR.GreatWallStairs_FR-FR2831168051_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GreatWallStairs_FR-FR2831168051",
+        "copyright": "La Grande Muraille enneigée, Chine (© View Stock/Alamy)",
+        "copyrightKeyword": "Grande Muraille",
+        "hsh": "3f0d2c61463cc07a5cb2da65295a1196",
+        "description": "Saviez-vous que la Grande Muraille de Chine s’étend sur près de 21 000 kilomètres ? Ce chiffre impressionnant a été confirmé en 2012 par une étude archéologique approfondie. En hiver, elle offre un spectacle inoubliable. Les sections enneigées, comme celles de Badaling ou Jinshanling, révèlent une beauté saisissante et un calme rare, parfaits pour les amateurs de paysages hivernaux. Cette fortification, construite il y a plus de 2 000 ans, avait pour but de protéger l’Empire du Milieu des invasions. Elle symbolise aussi la détermination humaine : des millions d’ouvriers ont uni leurs forces pour édifier ce rempart géant, défiant les montagnes et le temps."
+    },
+    {
         "fullstartdate": "202501062300",
         "date": "20250107",
         "url": "https://www.bing.com/th?id=OHR.BouldersNZ_FR-FR2503535078_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PolarBearSwim_FR-FR0276887378",
         "copyright": "Ours polaires, Arctique (© Ondrej Prosicky/Shutterstock)",
         "copyrightKeyword": "jour de l'an",
-        "hsh": "c8627f4d260e8612931246a8ea341a26",
-        "description": "Le 1er janvier, c’est bien plus qu’une simple date : c’est l’occasion de marquer un nouveau départ. Depuis l’Antiquité, le passage à la nouvelle année est célébré avec des rites et des festivités. Parmi les traditions les plus populaires, on trouve le bain du Nouvel An. Cette coutume ancestrale consiste à se jeter dans une eau glacée pour bien démarrer l’année."
-    },
-    {
-        "fullstartdate": "202412302300",
-        "date": "20241231",
-        "url": "https://www.bing.com/th?id=OHR.ParisNewYearEve_FR-FR3084713180_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ParisNewYearEve_FR-FR3084713180",
-        "copyright": "Arc de Triomphe sous les feux d’artifice, Paris (© Kiran Ridley/Getty Images)",
-        "copyrightKeyword": "Nouvel An",
-        "hsh": "cdcc84b1b7cd672f1229444f3abb0f68"
+        "hsh": "c8627f4d260e8612931246a8ea341a26"
     }
 ]
