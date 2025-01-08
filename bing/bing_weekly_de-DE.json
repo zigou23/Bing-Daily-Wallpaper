@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202501082300",
+        "date": "20250109",
+        "url": "https://www.bing.com/th?id=OHR.NamibiaDunes_DE-DE7496419422_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.NamibiaDunes_DE-DE7496419422",
+        "copyright": "Sossusvlei-Sanddünen, Namib-Wüste, Namibia (© Airpano/Amazing Aerial Agency)",
+        "copyrightKeyword": "Namib Wüste",
+        "hsh": "6eaa70a154727ce913d0d173744ea905",
+        "description": "Namibia ist ein faszinierendes Land im Südwesten Afrikas, das für seine atemberaubenden Landschaften bekannt ist. Die Namib-Wüste, eine der ältesten Wüsten der Welt, erstreckt sich entlang der Atlantikküste und endet direkt im Ozean. Diese einzigartige Geografie schafft beeindruckende Kontraste zwischen den endlosen Dünen und dem tiefblauen Meer. In der Namib liegt auch die berühmte Salzpfanne Sossusvlei, die von riesigen roten Dünen umgeben ist. Das Land ist reich an Wildtieren, darunter Wüstenelefanten, Oryxantilopen und Schakale, die sich an die extremen Bedingungen angepasst haben."
+    },
+    {
         "fullstartdate": "202501072300",
         "date": "20250108",
         "url": "https://www.bing.com/th?id=OHR.GreatWallStairs_DE-DE7232445822_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ArdezSwitzerland_DE-DE7533597545",
         "copyright": "Sternspuren über Ardez, Graubünden, Schweiz (© Roberto Moiola/Getty Images)",
         "copyrightKeyword": "Ardez Schweiz",
-        "hsh": "2265a620e8faeb762df7459dbca62dae",
-        "description": "Willkommen in Ardez, einem versteckten Schatz im Osten der Schweiz! Das charmante Dorf, das auf unserem heutigen Bild zu sehen ist, liegt malerisch auf einer Terrasse über dem Inntal auf 1.460 Metern Höhe und ist bekannt für seine tiefen kulturellen Wurzeln in der rätoromanischen Gemeinschaft. Die Häuser des Dorfes sind mit kunstvollen Sgraffiti verziert, einer Technik, bei der durch Kratzen in den Putz darunter liegende Farbschichten freigelegt werden. Diese farbenfrohen Wandmalereien sind typisch für die Kunst des Engadins, eines der höchstgelegenen bewohnten Täler Europas im Schweizer Kanton Graubünden."
-    },
-    {
-        "fullstartdate": "202412312300",
-        "date": "20250101",
-        "url": "https://www.bing.com/th?id=OHR.PolarBearSwim_DE-DE5203449776_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PolarBearSwim_DE-DE5203449776",
-        "copyright": "Eisbären beim Spielen in der Arktis (© Ondrej Prosicky/Shutterstock)",
-        "copyrightKeyword": "Neujahr",
-        "hsh": "1a72f3b1dc717a34d261f9d50d9112c2"
+        "hsh": "2265a620e8faeb762df7459dbca62dae"
     }
 ]

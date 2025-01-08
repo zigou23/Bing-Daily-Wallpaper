@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202501082300",
+        "date": "20250109",
+        "url": "https://www.bing.com/th?id=OHR.NamibiaDunes_FR-FR3454752206_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.NamibiaDunes_FR-FR3454752206",
+        "copyright": "Dunes de Sossusvlei, désert du Namib, Namibie (© Airpano/Amazing Aerial Agency)",
+        "copyrightKeyword": "désert du Namib",
+        "hsh": "a376bcc3297097a480fc92c5d41e19e6",
+        "description": "Saviez-vous que le désert du Namib, situé en Namibie, est l’un des plus anciens déserts de la planète ? Avec ses dunes géantes, certaines atteignant jusqu'à 300 mètres de hauteur, le Namib est un véritable terrain d'étude pour les scientifiques et un lieu de visite incontournable pour les passionnés de nature."
+    },
+    {
         "fullstartdate": "202501072300",
         "date": "20250108",
         "url": "https://www.bing.com/th?id=OHR.GreatWallStairs_FR-FR2831168051_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AlpsSunset_FR-FR0523137668",
         "copyright": "Montagne enneigée au coucher du soleil, Alpes françaises (© raeva/Getty Images)",
         "copyrightKeyword": "Alpes françaises",
-        "hsh": "dddbb4b6eab652ba19a70e06f38da1b0",
-        "description": "Saviez-vous que les Alpes françaises abritent non seulement le Mont-Blanc, point culminant de l'Europe à 4 807 mètres, mais aussi des trésors cachés sous la glace ? Les glaciers alpins recèlent des fossiles marins témoignant de l’époque où ces montagnes étaient enfouies sous un océan, il y a des millions d’années."
-    },
-    {
-        "fullstartdate": "202412312300",
-        "date": "20250101",
-        "url": "https://www.bing.com/th?id=OHR.PolarBearSwim_FR-FR0276887378_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PolarBearSwim_FR-FR0276887378",
-        "copyright": "Ours polaires, Arctique (© Ondrej Prosicky/Shutterstock)",
-        "copyrightKeyword": "jour de l'an",
-        "hsh": "c8627f4d260e8612931246a8ea341a26"
+        "hsh": "dddbb4b6eab652ba19a70e06f38da1b0"
     }
 ]

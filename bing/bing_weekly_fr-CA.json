@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202501080500",
+        "date": "20250109",
+        "url": "https://www.bing.com/th?id=OHR.GreatWallStairs_FR-CA6576775955_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GreatWallStairs_FR-CA6576775955",
+        "copyright": "La Grande Muraille enneigée, Chine (© View Stock/Alamy)",
+        "copyrightKeyword": "Grande Muraille",
+        "hsh": "83f871b0793cc28a012456bf80c8f2b2",
+        "description": "Saviez-vous que la Grande Muraille de Chine s’étend sur près de 21 000 kilomètres? Ce chiffre impressionnant a été confirmé en 2012 par une étude archéologique approfondie. En hiver, elle offre un spectacle inoubliable. Les sections enneigées, comme celles de Badaling ou Jinshanling, révèlent une beauté saisissante et un calme rare, parfaits pour les amateurs de paysages hivernaux. Cette fortification, construite il y a plus de 2 000 ans, avait pour but de protéger l’Empire du Milieu des invasions. Elle symbolise aussi la détermination humaine : des millions d’ouvriers ont uni leurs forces pour édifier ce rempart géant, défiant les montagnes et le temps."
+    },
+    {
         "fullstartdate": "202501070500",
         "date": "20250108",
         "url": "https://www.bing.com/th?id=OHR.BouldersNZ_FR-CA6332854398_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PolarBearSwim_FR-CA8041328309",
         "copyright": "Ours polaires, Arctique (© Ondrej Prosicky/Shutterstock)",
         "copyrightKeyword": "jour de l'an",
-        "hsh": "52f4e87225607a7156f89ee54ce0d54a",
-        "description": "Au Canada, le 1er janvier n’est pas seulement le premier jour de l’année: c’est l’occasion d’adopter un nouveau départ avec audace. Depuis des générations, le passage à la nouvelle année est marqué par des traditions uniques, parmi lesquelles le fameux « Bain de l’Ours Polaire », une activité à la fois audacieuse et symbolique."
-    },
-    {
-        "fullstartdate": "202412310500",
-        "date": "20250101",
-        "url": "https://www.bing.com/th?id=OHR.CANYE24_FR-CA7534148922_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.CANYE24_FR-CA7534148922",
-        "copyright": "Feux d'artifice sur la colline du Parlement, Ottawa, Canada (© naibank/Getty Images)",
-        "copyrightKeyword": "nouvel an",
-        "hsh": "b57bb2836e931f36d18316426ccc886e"
+        "hsh": "52f4e87225607a7156f89ee54ce0d54a"
     }
 ]
