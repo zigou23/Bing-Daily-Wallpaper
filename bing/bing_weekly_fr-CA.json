@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202501090500",
+        "date": "20250110",
+        "url": "https://www.bing.com/th?id=OHR.NamibiaDunes_FR-CA6566666687_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.NamibiaDunes_FR-CA6566666687",
+        "copyright": "Dunes de Sossusvlei, désert du Namib, Namibie (© Airpano/Amazing Aerial Agency)",
+        "copyrightKeyword": "désert du Namib",
+        "hsh": "d9964d483b3a6b0dd3adcaa18ecab26f",
+        "description": "Saviez-vous que le désert du Namib, situé en Namibie, est l’un des plus anciens déserts de la planète ? Avec ses dunes géantes, certaines atteignant jusqu'à 300 mètres de hauteur, le Namib est un véritable terrain d'étude pour les scientifiques et un lieu de visite incontournable pour les passionnés de nature."
+    },
+    {
         "fullstartdate": "202501080500",
         "date": "20250109",
         "url": "https://www.bing.com/th?id=OHR.GreatWallStairs_FR-CA6576775955_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ArdezSwitzerland_FR-CA8314617577",
         "copyright": "Traînées d'étoiles au-dessus du village d'Ardez, Graubunden, Suisse (© Roberto Moiola/Getty Images)",
         "copyrightKeyword": "ardez suisse",
-        "hsh": "bd94a929314c0bc47b5077e68f5b7966",
-        "description": "Bienvenue à Ardez, ce petit village suisse qui semble tout droit sorti d’un conte de fées! Situé dans les magnifiques montagnes des Grisons, il séduit par ses ruelles pavées, ses maisons traditionnelles et ses fresques murales. Ces décorations, typiques de la région, ajoutent une touche artistique à chaque façade."
-    },
-    {
-        "fullstartdate": "202501010500",
-        "date": "20250102",
-        "url": "https://www.bing.com/th?id=OHR.PolarBearSwim_FR-CA8041328309_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PolarBearSwim_FR-CA8041328309",
-        "copyright": "Ours polaires, Arctique (© Ondrej Prosicky/Shutterstock)",
-        "copyrightKeyword": "jour de l'an",
-        "hsh": "52f4e87225607a7156f89ee54ce0d54a"
+        "hsh": "bd94a929314c0bc47b5077e68f5b7966"
     }
 ]

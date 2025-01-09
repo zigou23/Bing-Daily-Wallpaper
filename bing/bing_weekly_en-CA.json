@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202501090500",
+        "date": "20250110",
+        "url": "https://www.bing.com/th?id=OHR.NamibiaDunes_EN-CA8993588239_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.NamibiaDunes_EN-CA8993588239",
+        "copyright": "Sossusvlei sand dunes, Namib desert, Namibia (© Airpano/Amazing Aerial Agency)",
+        "copyrightKeyword": "Namib desert",
+        "hsh": "4a829aafd8b51dae811a1386f30e1049",
+        "description": "Picture a sea of shifting sand dunes glowing orange in the sunrise, stretching as far as the eye can see. Welcome to the Namib desert, spanning thousands of kilometres across Namibia. Estimated to be 55 million years old, it is believed to be the oldest desert in the world. It also boasts some of the tallest sand dunes on Earth, including the famous 'Big Daddy,' which towers roughly 325 metres; Dune 7, the highest dune in Namibia at 383 metres; and Dune 45, which, at roughly 170 metres, is a favourite among photographers."
+    },
+    {
         "fullstartdate": "202501080500",
         "date": "20250109",
         "url": "https://www.bing.com/th?id=OHR.GreatWallStairs_EN-CA8728749257_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ArdezSwitzerland_EN-CA6090409096",
         "copyright": "Star trails over Ardez village, Graubunden, Switzerland (© Roberto Moiola/Getty Images)",
         "copyrightKeyword": "Ardez Switzerland",
-        "hsh": "e6490d05af51cd6e06eb4f6859edb36e",
-        "description": "Perched on a terrace above the Inn Valley at 1,460 metres, Ardez is a hidden gem in eastern Switzerland renowned for its deep cultural roots and stunning preservation of history. This picturesque village, starring in today's image, showcases the rich traditions and unique language of Switzerland's Romansh-speaking communities. Its homes are adorned with sgraffiti—decorative designs etched into plaster—and colourful murals, both iconic art styles of the Engadin region. Dating back to 840 when it was first referred to as Ardezis, the village's history includes Steinsberg Castle, originally owned by the Bishop of Chur. Though destroyed during the Swabian War in 1499, the castle's tower has been restored multiple times and stands today as a proud reminder of its past. In 1975, Ardez was chosen as a Swiss model village for its exceptional preservation efforts, which have kept its historic charm intact."
-    },
-    {
-        "fullstartdate": "202501010500",
-        "date": "20250102",
-        "url": "https://www.bing.com/th?id=OHR.PolarBearSwim_EN-CA5875728051_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PolarBearSwim_EN-CA5875728051",
-        "copyright": "Polar bears at play in the Arctic (© Ondrej Prosicky/Shutterstock)",
-        "copyrightKeyword": "New Years Day",
-        "hsh": "48c813bc1dda46c0a7d8a8b1026be69d"
+        "hsh": "e6490d05af51cd6e06eb4f6859edb36e"
     }
 ]
