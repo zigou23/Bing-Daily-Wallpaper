@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202501100000",
+        "date": "20250111",
+        "url": "https://www.bing.com/th?id=OHR.BubbleLake_EN-GB9269932898_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BubbleLake_EN-GB9269932898",
+        "copyright": "Abraham Lake, Alberta, Canada (© Basic Elements Photography/Getty Images)",
+        "copyrightKeyword": "Abraham Lake Alberta",
+        "hsh": "3d96c8a3b7012ca4c1bf2afc9a0f6c0b",
+        "description": "Ever heard of frozen bubbles? Abraham Lake in Alberta, Canada, has them during the winter, and they're not just beautiful—they're science in action. Created in 1972, Abraham Lake is a man-made reservoir that spans more than 20 square miles along the North Saskatchewan River. Thanks to glacier-fed waters from the Rocky Mountains, the lake stays transparent even in the coldest months. The glacial meltwater carries fine sediment that scatters sunlight, while natural filtration through rocks keeps pollutants to a minimum."
+    },
+    {
         "fullstartdate": "202501090000",
         "date": "20250110",
         "url": "https://www.bing.com/th?id=OHR.NamibiaDunes_EN-GB9795419612_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.TolkienOxford_EN-GB2804398313",
         "copyright": "Radcliffe Camera and All Souls College, University of Oxford, England (© atiger/Shutterstock)",
         "copyrightKeyword": "JRR Tolkien",
-        "hsh": "3e53199f107d56cebb687ef8b21a45e4",
-        "description": "'Don't adventures ever have an end? I suppose not. Someone else always has to carry on the story.' Today, on Tolkien Day, fans around the world honour the master storyteller who crafted the epic adventures of Middle-earth: JRR Tolkien. While Tolkien may have started the tale, it's his readers who carry it forward, generation after generation, diving into the pages of 'The Hobbit,' 'The Lord of the Rings,' and beyond. Tolkienists are encouraged to celebrate the author's birthday with a toast at 9 PM local time—to participate, all you must do is stand and raise a glass of your choice, say 'The Professor,' and take a sip."
-    },
-    {
-        "fullstartdate": "202501020000",
-        "date": "20250103",
-        "url": "https://www.bing.com/th?id=OHR.ArdezSwitzerland_EN-GB7554817854_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ArdezSwitzerland_EN-GB7554817854",
-        "copyright": "Star trails over Ardez village, Graubunden, Switzerland (© Roberto Moiola/Getty Images)",
-        "copyrightKeyword": "Ardez Switzerland",
-        "hsh": "55ad525c68564c89d606dffc23892e97"
+        "hsh": "3e53199f107d56cebb687ef8b21a45e4"
     }
 ]

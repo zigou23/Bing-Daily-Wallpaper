@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202501100800",
+        "date": "20250111",
+        "url": "https://www.bing.com/th?id=OHR.BubbleLake_ROW6430486602_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BubbleLake_ROW6430486602",
+        "copyright": "Abraham Lake, Alberta, Canada (© Basic Elements Photography/Getty Images)",
+        "copyrightKeyword": "Abraham Lake Alberta",
+        "hsh": "b72254540fe3452428baaf1f8fe508e6",
+        "description": "Ever heard of frozen bubbles? Abraham Lake in Alberta, Canada, has them during the winter, and they're not just beautiful—they're science in action. Created in 1972, Abraham Lake is a man-made reservoir that spans more than 5,173 hectares along the North Saskatchewan River. Thanks to glacier-fed waters from the Rocky Mountains, the lake stays transparent even in the coldest months. The glacial meltwater carries fine sediment that scatters sunlight, while natural filtration through rocks keeps pollutants to a minimum."
+    },
+    {
         "fullstartdate": "202501090800",
         "date": "20250110",
         "url": "https://www.bing.com/th?id=OHR.NamibiaDunes_ROW6587653838_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.TolkienOxford_ROW0329962791",
         "copyright": "Radcliffe Camera and All Souls College, University of Oxford, England (© atiger/Shutterstock)",
         "copyrightKeyword": "University of Oxford",
-        "hsh": "8219235ea7861f300040425912f724e6",
-        "description": "Today, we are at Radcliffe Camera, with the magnificent All Souls College standing in the background, both iconic landmarks of the University of Oxford, England. The Radcliffe Camera, fondly referred to as the 'Rad Cam' or 'The Camera,' is an architectural gem that was built between 1737 and 1749. Designed in Baroque style by James Gibbs, it originally served as the Radcliffe Science Library. Its unique circular design and prominent location make it a defining feature of Oxford's skyline and a beloved symbol of the university."
-    },
-    {
-        "fullstartdate": "202501020800",
-        "date": "20250103",
-        "url": "https://www.bing.com/th?id=OHR.ArdezSwitzerland_ROW0603494655_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ArdezSwitzerland_ROW0603494655",
-        "copyright": "Star trails over Ardez village, Graubunden, Switzerland (© Roberto Moiola/Getty Images)",
-        "copyrightKeyword": "Ardez Switzerland",
-        "hsh": "ce92539e711afc94e48f8768f0699eb4"
+        "hsh": "8219235ea7861f300040425912f724e6"
     }
 ]
