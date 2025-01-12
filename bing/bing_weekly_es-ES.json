@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202501122300",
+        "date": "20250113",
+        "url": "https://www.bing.com/th?id=OHR.CoastalWales_ES-ES0632862256_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.CoastalWales_ES-ES0632862256",
+        "copyright": "Faro de Tŵr Mawr, Ynys Llanddwyn, Gales, Reino Unido (© Westend61 on Offset/Shutterstock)",
+        "copyrightKeyword": "Faro de Tŵr Mawr",
+        "hsh": "e7125ed865c25c127da04689075f94c3",
+        "description": "¿Quién dice que el Año Nuevo debe celebrarse el 1 de enero? En Gales, los relojes retroceden, simbólicamente, para conmemorar el Hen Galan, o \"Viejo Año Nuevo\", el 13 de enero. Esta tradición, vinculada al calendario juliano, tiene como protagonista al Calennig, que en galés significa \"regalo de Año Nuevo\". Aunque la mayoría del mundo adoptó el calendario gregoriano en 1582, algunas comunidades galesas conservaron estas antiguas costumbres."
+    },
+    {
         "fullstartdate": "202501112300",
         "date": "20250112",
         "url": "https://www.bing.com/th?id=OHR.CrescentTail_ES-ES9658344168_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.NamibiaDunes_ES-ES5811843699",
         "copyright": "Dunas de arena de Sossusvlei, desierto del Namib, Namibia (© Airpano/Amazing Aerial Agency)",
         "copyrightKeyword": "Desierto del Namib",
-        "hsh": "1f76dea689c3bc0ff29ca868c92240dc",
-        "description": "Imagínate un mar de dunas que brillan de naranja al amanecer, extendiéndose hasta el horizonte. Aunque te pueda recordar a Maspalomas en Gran Canaria, te damos la bienvenida al desierto del Namib, que se extiende por miles de kilómetros en Namibia, al sur de África. Es considerado el más antiguo del mundo, con 55 millones de años. En él se encuentran algunas de las dunas más altas del planeta, como \"Big Daddy\", que supera los 325 metros; la Duna 7, la más alta del país, con 383 metros; y la Duna 45, de unos 170 metros, muy apreciada por los fotógrafos."
-    },
-    {
-        "fullstartdate": "202501042300",
-        "date": "20250105",
-        "url": "https://www.bing.com/th?id=OHR.GeneralWinterNavarre_ES-ES5527142777_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.GeneralWinterNavarre_ES-ES5527142777",
-        "copyright": "Árboles escarchados en la Sierra de Aralar, Navarra, España (© Iñaki Tejerina/Moment/Getty Images)",
-        "copyrightKeyword": "Sierra de Aralar",
-        "hsh": "5f4ef516fc1b1a6a79a3cdbf284e76cc"
+        "hsh": "1f76dea689c3bc0ff29ca868c92240dc"
     }
 ]

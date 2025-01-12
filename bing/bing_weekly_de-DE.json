@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202501122300",
+        "date": "20250113",
+        "url": "https://www.bing.com/th?id=OHR.CoastalWales_DE-DE5918144653_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.CoastalWales_DE-DE5918144653",
+        "copyright": "Cottage und Leuchtturm Tŵr Mawr, Ynys Llanddwyn, Wales, UK (© Westend61 on Offset/Shutterstock)",
+        "copyrightKeyword": "Ynys Llanddwyn Gezeiteninsel",
+        "hsh": "2adf8fd6508eeda44c29e1ea98951ae8",
+        "description": "Kennen Sie diesen Leuchtturm? Es ist Tŵr Mawr auf Ynys Llanddwyn, einer Gezeiteninsel vor der Küste von Anglesey in Nordwales. Die Insel ist bekannt für ihre atemberaubende Landschaft und ihre historischen Cottages, die früher von Piloten bewohnt wurden. Der Leuchtturm wurde 1845 erbaut und bietet einen herrlichen Blick auf die Küste und die umliegenden Berge von Snowdonia. Ynys Llanddwyn ist ein beliebtes Ziel für Wanderer und Naturliebhaber, die die Schönheit der walisischen Küste erleben möchten."
+    },
+    {
         "fullstartdate": "202501112300",
         "date": "20250112",
         "url": "https://www.bing.com/th?id=OHR.CrescentTail_DE-DE3317267643_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.RavennaBasilica_DE-DE6763936064",
         "copyright": "Überschwemmte Krypta, Basilika von San Francesco, Ravenna, Italien (© Andrea Pucci/Getty Images)",
         "copyrightKeyword": "Ravenna, Italien",
-        "hsh": "bb5f5b62001ec101e70c110ca9b1c3a4",
-        "description": "Die Basilika von San Francesco in Ravenna, Italien, ist ein bedeutendes historisches Bauwerk, das zwischen dem 9. und 10. Jahrhundert erbaut wurde. Ursprünglich als Kirche der Apostel bekannt, wurde sie später den Heiligen Petrus und Paulus gewidmet. Im 13. Jahrhundert übernahmen die Franziskaner die Kirche und widmeten sie dem Heiligen Franz von Assisi. Besonders bemerkenswert ist die Krypta, die aufgrund von Bodensenkungen unter Wasser steht und wunderschöne Mosaike aus der ursprünglichen Kirche zeigt. Die Basilika ist auch bekannt für die Beisetzung von Dante Alighieri, dessen Grab sich in unmittelbarer Nähe befindet. Ein Besuch dieser Basilika ist eine Reise in die reiche Geschichte Ravennas."
-    },
-    {
-        "fullstartdate": "202501042300",
-        "date": "20250105",
-        "url": "https://www.bing.com/th?id=OHR.WinterLandscapeBavaria_DE-DE6496709723_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WinterLandscapeBavaria_DE-DE6496709723",
-        "copyright": "Winterlandschaft in Bayern, Deutschland (© wingmar/Getty Images)",
-        "copyrightKeyword": "Winterlandschaft Bayern",
-        "hsh": "f714738188fd4f46ff1625268e0c97d4"
+        "hsh": "bb5f5b62001ec101e70c110ca9b1c3a4"
     }
 ]
