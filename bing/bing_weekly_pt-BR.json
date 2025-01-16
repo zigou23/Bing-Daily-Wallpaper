@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202501160300",
+        "date": "20250117",
+        "url": "https://www.bing.com/th?id=OHR.PinnaclesPeaks_PT-BR1043285861_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PinnaclesPeaks_PT-BR1043285861",
+        "copyright": "Trilha High Peaks no Parque Nacional Pinnacles, condado de San Benito, Califórnia, EUA (© yhelfman/Getty Images)",
+        "copyrightKeyword": "San Benito, Califórnia",
+        "hsh": "1cbf15a79e54804858d361cb468a2c76",
+        "description": "O Parque Nacional Pinnacles, no coração da Califórnia, nos Estados Unidos, é a obra-prima geológica fotografada na imagem. Nascido de uma erupção vulcânica há 23 milhões de anos, ele exibe pináculos irregulares, desfiladeiros estreitos e cavernas que parecem desafiar a gravidade – e os aventureiros que se arriscam a explorá-los. Curiosamente, essa paisagem não permaneceu onde surgiu: o movimento tectônico ao longo da Falha de San Andreas deslocou o parque por cerca de 314 quilômetros de sua origem vulcânica."
+    },
+    {
         "fullstartdate": "202501150300",
         "date": "20250116",
         "url": "https://www.bing.com/th?id=OHR.TrancosoPraia_PT-BR2050297915_1920x1080.jpg",
@@ -16,7 +26,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.CadizSpain_PT-BR3104311078",
         "copyright": "Vila de Zahara de la Sierra, Cádiz, Espanha (© SEN LI/Getty Images)",
         "copyrightKeyword": "Andaluzia",
-        "hsh": "aa56edfb5fb4bb6250849ff3db653cea",
+        "hsh": "261b61afc127d741a6ebe0c802240536",
         "description": "Zahara de la Sierra, a vila que vemos na imagem, está situada no topo de uma colina rochosa na Andaluzia, Espanha. Com suas casas caiadas de branco e ruas estreitas, é impossível não se encantar. As ruínas do castelo mouro e a torre medieval do século XV revelam seu passado como fortaleza, e a vista para o reservatório Zahara-El Gastor e o Parque Natural Sierra de Grazalema, uma Reserva da Biosfera da UNESCO, completam o cenário de encher os olhos."
     },
     {
@@ -26,7 +36,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.CoastalWales_PT-BR5316082485",
         "copyright": "Casa de campo e farol Tŵr Bach, Ynys Llanddwyn, País de Gales, Reino Unido (© Westend61 on Offset/Shutterstock)",
         "copyrightKeyword": "País de Gales",
-        "hsh": "4ac167b4f5372a64b35d3195663e7a6e",
+        "hsh": "59b53f834b8692ac320df3022ac691bb",
         "description": "Quem disse que Ano Novo é só em 1º de janeiro? No País de Gales, onde a foto de hoje foi tirada, o calendário ganha um capítulo especial no dia 13 de janeiro com o Hen Galan, o \"Antigo Ano-Novo\". Essa tradição remonta ao calendário juliano e foi mantida por algumas comunidades galesas, mesmo após a adoção do calendário gregoriano em 1582. No Hen Galan, crianças percorrem as ruas cantando e desejando boa sorte em troca de moedas e doces, enquanto maçãs decoradas com cravos-da-índia simbolizam esperança e renovação. Cidades como Cardiff comemoram com grandes festas com mercados, fogos de artifício e encontros comunitários."
     },
     {
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.NamibiaDunes_PT-BR5749717911",
         "copyright": "Dunas de areia de Sossusvlei, deserto do Namibe, Namíbia (© Airpano/Amazing Aerial Agency)",
         "copyrightKeyword": "deserto do Namibe",
-        "hsh": "5e6545a7067f598c24699483818ffbf8",
-        "description": "Um mar de dunas de areia que se estende até onde a vista alcança, brilhando alaranjado ao amanhecer? É a vista de hoje, do deserto do Namibe, na Namíbia. Seus estimados 55 milhões de anos o tornam o deserto mais antigo do mundo, abrigando algumas das dunas mais altas da Terra, com mais de 300 metros de altura. No coração dessa vastidão, a Sossusvlei, uma planície de sal e argila, se transfigura a cada década quando o rio Tsauchab inunda a região, formando um lago turquesa radiante."
-    },
-    {
-        "fullstartdate": "202501080300",
-        "date": "20250109",
-        "url": "https://www.bing.com/th?id=OHR.DiaNacionaldoFotografo_PT-BR5093198767_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DiaNacionaldoFotografo_PT-BR5093198767",
-        "copyright": "Jacaré (Caiman yacare) bebê visto de baixo (© Luciano Candisani/Minden Pictures)",
-        "copyrightKeyword": "Fotógrafos Brasileiros",
-        "hsh": "addab60ef4c324237427e4779e6e1526"
+        "hsh": "5e6545a7067f598c24699483818ffbf8"
     }
 ]

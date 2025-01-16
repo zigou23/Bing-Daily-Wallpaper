@@ -1,12 +1,22 @@
 [
     {
+        "fullstartdate": "202501162300",
+        "date": "20250117",
+        "url": "https://www.bing.com/th?id=OHR.NapoliPizza_IT-IT7432865458_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.NapoliPizza_IT-IT7432865458",
+        "copyright": "Golfo di Napoli e il Vesuvio, Campania, Italia (© ezypix/Getty Images)",
+        "copyrightKeyword": "Pizza prodotto gastronomico",
+        "hsh": "1f6c42cc70751714733b70a24c410c53",
+        "description": "Oggi celebriamo il \"World Pizza Day,\" una ricorrenza importante per gli amanti della pizza in tutto il mondo. Per questo motivo ci troviamo a Napoli, la patria della pizza. Sebbene esistessero versioni simili già nell’antichità, la pizza moderna affonda le proprie radici nel cuore del capoluogo campano, città che ha dato vita a questo piatto nel XVIII secolo, quando il pomodoro, importato dalle Americhe, si unì al pane. La pizza Margherita, con i suoi ingredienti che richiamano la bandiera italiana, fu creata nel 1889 in onore della regina Margherita di Savoia, diventando simbolo di convivialità, cultura e tradizione nostrana."
+    },
+    {
         "fullstartdate": "202501152300",
         "date": "20250116",
-        "url": "https://www.bing.com/th?id=OHR.PinnaclesPeaks_IT-IT7170476013_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PinnaclesPeaks_IT-IT7170476013",
+        "url": "https://www.bing.com/th?id=OHR.PinnaclesPeaks_IT-IT6858792304_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PinnaclesPeaks_IT-IT6858792304",
         "copyright": "Sentiero degli alti picchi nel Parco Nazionale dei Pinnacoli, Contea di San Benito, California, USA (© yhelfman/Getty Images)",
         "copyrightKeyword": "Parco nazionale dei Pinnacoli valle del Salinas California centrale",
-        "hsh": "7df255668b55b669aaa19fed351679e2",
+        "hsh": "7bbb8c8e12cd8beb8731861da05cdc31",
         "description": "Il Parco Nazionale dei Pinnacoli, situato in California, negli USA, è una imponente meraviglia naturale caratterizzata da una serie di spettacolari formazioni rocciose. Questi pinnacoli, che si ergono verso il cielo, sono il risultato di antiche eruzioni vulcaniche che nel corso di milioni di anni hanno modellato il paesaggio. La lava solidificata, esposta a lunghi processi di erosione, ha dato origine a questi incredibili pilastri di roccia che offrono uno scenario unico. Il parco è un’area protetta che ospita una ricca varietà di flora e fauna, tra cui piante tipiche dei deserti californiani, come i cactus, e numerosi animali selvatici. Le sue formazioni vulcaniche, insieme ai panorami spettacolari, attirano ogni anno numerosi visitatori da tutto il mondo."
     },
     {
@@ -36,7 +46,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.CoastalWales_IT-IT9728944150",
         "copyright": "Cottage e faro di Tŵr Bach, Ynys Llanddwyn, Galles, Regno Unito (© Westend61 on Offset/Shutterstock)",
         "copyrightKeyword": "Ynys Llanddwyn, Galles, Regno Unito",
-        "hsh": "e6aa556f4d465597761608723966d63e",
+        "hsh": "b239bce697b6f0079b60eb5a1bbc75b3",
         "description": "Il faro di Tŵr Bach, situato sull’isola di Ynys Llanddwyn in Galles, è un simbolo di fascino selvaggio e di mistero. Circondato da paesaggi mozzafiato, questo faro si erge tra rocce frastagliate e prati verdi, vegliando su un mare che può essere tanto calmo quanto impetuoso. Costruito nel XIX secolo serviva da guida per le navi che attraversavano lo stretto di Menai, un passaggio insidioso tra l’isola di Anglesey e la terraferma. L’isola stessa è intrisa di storia e leggenda. Prende il nome dalla Santa Dwynwn, la patrona degli innamorati gallesi, che secondo la tradizione visse qui in preghiera e solitudine. Se cercate pace e ispirazione, questo luogo fa per voi."
     },
     {
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BubbleLake_IT-IT6583176586",
         "copyright": "Lago Abraham, Alberta, Canada (© Basic Elements Photography/Getty Images)",
         "copyrightKeyword": "Lago Abraham, Alberta, Canada",
-        "hsh": "0308ab95b19a8210ccf38001cfad8214",
-        "description": "Il Lago Abraham, situato in Alberta, in Canada, è un lago artificiale creato nel 1972 e celebre per il suo suggestivo fenomeno delle bolle di metano intrappolate nel ghiaccio. Durante l’inverno, le temperature rigide congelano la superficie del lago, intrappolando bolle prodotte dalla decomposizione della materia organica sul fondo. Queste bolle salgono verso la superficie, ma rimangono intrappolate negli strati di ghiaccio che si formano progressivamente, dando vita a spettacolari disegni cristallizzati. Questo fenomeno, oltre ad affascinare i visitatori, richiama l’attenzione sull'equilibrio ambientale, dato che il metano è un potente gas serra."
-    },
-    {
-        "fullstartdate": "202501082300",
-        "date": "20250109",
-        "url": "https://www.bing.com/th?id=OHR.NamibiaDunes_IT-IT8256486695_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.NamibiaDunes_IT-IT8256486695",
-        "copyright": "Dune di sabbia di Sossusvlei, deserto del Namib, Namibia (© Airpano/Amazing Aerial Agency)",
-        "copyrightKeyword": "Deserto Namib",
-        "hsh": "b5d71bd89c76d2e395b3daf6f234ad0c"
+        "hsh": "0308ab95b19a8210ccf38001cfad8214"
     }
 ]
