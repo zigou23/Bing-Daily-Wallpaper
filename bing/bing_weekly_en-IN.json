@@ -1,12 +1,22 @@
 [
     {
+        "fullstartdate": "202501171830",
+        "date": "20250118",
+        "url": "https://www.bing.com/th?id=OHR.WhiteSandsNP_EN-IN4617317381_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WhiteSandsNP_EN-IN4617317381",
+        "copyright": "Sunset at White Sands National Park, New Mexico, USA (© Image Professionals GmbH/Alamy Stock Photo)",
+        "copyrightKeyword": "White Sands National Park New Mexico",
+        "hsh": "9d580a458a87fcaff701128dc4c9292e",
+        "description": "Today's image features the dazzling beauty of White Sands National Park, New Mexico—a surreal expanse of glistening white gypsum dunes, the largest of its kind on Earth. Spanning more than 550 square kilometres, these ever-shifting dunes rise up to 18 metres tall, creating a landscape not seen in many places. This park isn't only a natural wonder but a historical treasure, with fossilised human footprints dating back as far as 23,000 years, some of the oldest in North America."
+    },
+    {
         "fullstartdate": "202501161830",
         "date": "20250117",
         "url": "https://www.bing.com/th?id=OHR.PelicanPortrait_EN-IN4347458454_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.PelicanPortrait_EN-IN4347458454",
         "copyright": "Brown pelican, San Diego, California, USA (© Arthur Morris/BIRDS AS ART/Getty Images)",
         "copyrightKeyword": "Brown pelican",
-        "hsh": "aba4b6e7cb6510cc73b10e465eda31ea",
+        "hsh": "be34681c8fae51e8222db9c312dcbbd2",
         "description": "Today's image features the brown pelican, a bird that doesn't just fly but soars, spots and dives with unmatched precision. Although it's the smallest of the eight pelican species worldwide, it's still a large bird, measuring about 1.2 metres in length and having a wingspan of over 1.5 metres. The brown pelican is a piscivore, meaning its diet mainly consists of fish. Dixon Lanier Merritt's limerick famously begins, 'A wonderful bird is the pelican; his bill can hold more than his belly can,' and it's spot on—its pouch can store up to three times the volume of its stomach. This versatile feature acts as a scoop, a tool for cooling off during hot weather and a feeding trough for young pelicans. The brown pelican faced near extinction twice, first due to hunting and later from the impact of pesticides like DDT. Today, it's an Endangered Species Act and Environmental Protection Agency success story."
     },
     {
@@ -16,7 +26,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PinnaclesPeaks_EN-IN4954136235",
         "copyright": "High Peaks Trail at Pinnacles National Park, San Benito County, California, USA (© yhelfman/Getty Images)",
         "copyrightKeyword": "Pinnacles National Park",
-        "hsh": "b98143a55f5cd6fc60d5c757a151a790",
+        "hsh": "2d0fd049fc8ae3eef64452fdbdbe7082",
         "description": "Jagged pinnacles and spires, monoliths and unusual caves—welcome to Pinnacles National Park in central California, United States. It all began in 1908 when President Theodore Roosevelt designated the area as a national monument. Later in 2013, Pinnacles earned its status as a national park. This land owes its formations to an ancient volcanic eruption that occurred 23 million years ago. The fiery beginnings made towering spires, cliffs and talus caves—created by falling boulders wedged into narrow canyons. Over millennia, tectonic forces shifted the landmass northward, leaving the park far from its volcanic birthplace. Talk about a journey!"
     },
     {
@@ -26,7 +36,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DeerBuck_EN-IN3553465734",
         "copyright": "Chital, Bandhavgarh National Park, Madhya Pradesh (© James Warwick/Getty Images)",
         "copyrightKeyword": "Chital",
-        "hsh": "4010999cd5f35d4adf96e8136b67ca7b",
+        "hsh": "51b3cda1ff0286b2e45ab4a2a2311f4e",
         "description": "Today's image features a chital in Bandhavgarh National Park, Madhya Pradesh. Also known as the spotted deer or axis deer, this species is native to the Indian subcontinent. From the forests of eastern Rajasthan and Gujarat in the west to the Terai, Sikkim and Bhutan's valleys, the chital thrives in diverse habitats, favouring elevations below 1,100 metres. The males, larger than the females and adorned with striking three-pronged antlers that can grow nearly a metre long, are a sight to behold in the wild."
     },
     {
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MeknesMorocco_EN-IN5856859042",
         "copyright": "Heri es-Swani in Meknes, Morocco (© Calin Stan/Shutterstock)",
         "copyrightKeyword": "Heri es-Swani Morocco",
-        "hsh": "52ea443ac6dcb760101368a8c9d6d54a",
-        "description": "An imperial city in northern central Morocco, Meknes is steeped in history. Meknes reflects the Moroccan style of architecture, with one of its most impressive landmarks being Heri es-Swani, seen in today's image. Heri es-Swani was originally constructed as a stable and for storing vast amounts of grain to sustain the settlement and the Sultan's armies. Its design was both practical and impressive—thick walls and an innovative cooling system helped maintain the food supply. Twenty-two rows of symmetrical arches divided the space into corridors that used to have vaulted ceilings. Back then, mules climbed onto the roof terrace to deliver grain, which was then dropped through specially designed holes in the ceiling below. The structure housed more than 12,000 horses. Today, it stands as an empty shell, acting as a scenic backdrop ready to be explored."
-    },
-    {
-        "fullstartdate": "202501091830",
-        "date": "20250110",
-        "url": "https://www.bing.com/th?id=OHR.BubbleLake_EN-IN4983583688_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BubbleLake_EN-IN4983583688",
-        "copyright": "Abraham Lake, Alberta, Canada (© Basic Elements Photography/Getty Images)",
-        "copyrightKeyword": "Abraham Lake Alberta",
-        "hsh": "b7e7ba20af994de807f494d7c759546a"
+        "hsh": "52ea443ac6dcb760101368a8c9d6d54a"
     }
 ]
