@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202501212300",
+        "date": "20250122",
+        "url": "https://www.bing.com/th?id=OHR.PetraMonastery_DE-DE5253716041_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PetraMonastery_DE-DE5253716041",
+        "copyright": "Ad-Deir, Petra, Jordanien (© Punnawit Suwuttananun/Getty Images)",
+        "copyrightKeyword": "Ad-Deir, Petra, Jordanien",
+        "hsh": "e73e9663ed7d3ea3d30577bde8f16015",
+        "description": "Kennen Sie die Titelmelodie von Indiana Jones? Können Sie sich vorstellen, wie er in den Ruinen mit seinem Hut jongliert, um die Welt vor den Bösewichten zu retten? Was Sie bewundern, ist Ad-Deir, auch bekannt als „Das Kloster“, ein Gebäude in der jordanischen Stadt Petra, der Hauptstadt des Nabatäerreichs im 2. Jahrhundert v. Chr. Die imposante Fassade mit ihren Säulen und komplizierten Details liegt teilweise in den Felsen verborgen, als ob sie absichtlich vor der Welt versteckt werden sollte. Petra war ein wichtiger Knotenpunkt für den Gewürzhandel, der weit entfernte Länder wie China, Ägypten, Griechenland und Indien miteinander verband."
+    },
+    {
         "fullstartdate": "202501202300",
         "date": "20250121",
         "url": "https://www.bing.com/th?id=OHR.DutchSquirrel_DE-DE9795930868_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MuseumCourt_DE-DE6557412428",
         "copyright": "Der Große Hof des British Museum, London, England (© Cavan Images/Offset/Shutterstock)",
         "copyrightKeyword": "British Museum Geschichte",
-        "hsh": "2c83ee77cf2865295352f4f8f36342aa",
-        "description": "Das British Museum in London, England, feiert heute seinen 266. Jahrestag. Seit seiner Eröffnung im Jahr 1759 hat es sich zu einem der bedeutendsten Museen der Welt entwickelt. Mit mehr als 8 Millionen Objekten beherbergt es die weltweit größte Sammlung von Artefakten, von denen jedoch nur ein Prozent tatsächlich ausgestellt wird. Zu den beeindruckenden Sammlungen gehören der Stein von Rosetta, die Parthenon-Skulpturen und die Benin-Bronzen."
-    },
-    {
-        "fullstartdate": "202501132300",
-        "date": "20250114",
-        "url": "https://www.bing.com/th?id=OHR.CadizSpain_DE-DE6446198457_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.CadizSpain_DE-DE6446198457",
-        "copyright": "Zahara de la Sierra, Cádiz, Spanien (© SEN LI/Getty Images)",
-        "copyrightKeyword": "Ruta de los pueblos blancos Andalusien",
-        "hsh": "0231149d1e49b101fbf5041ccdb19d29"
+        "hsh": "2c83ee77cf2865295352f4f8f36342aa"
     }
 ]
