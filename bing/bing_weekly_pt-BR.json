@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202501230300",
+        "date": "20250124",
+        "url": "https://www.bing.com/th?id=OHR.DeerValley_PT-BR5923655325_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.DeerValley_PT-BR5923655325",
+        "copyright": "Deer Valley ao entardecer, Park City, Utah, EUA (© Adventure_Photo/Getty Images)",
+        "copyrightKeyword": "Festival Sundance de Cinema",
+        "hsh": "36b119b9f0657013f7a1e70e06ad6611",
+        "description": "O Festival Sundance de Cinema começa hoje, transformando as pacatas montanhas de Utah, nos Estados Unidos, em um efervescente palco para o cinema independente. Na imagem de hoje, Park City emerge como um dos principais cenários do festival, um lar temporário de histórias que desafiam, inovam e emocionam."
+    },
+    {
         "fullstartdate": "202501220300",
         "date": "20250123",
         "url": "https://www.bing.com/th?id=OHR.PetraMonastery_PT-BR6925888778_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PinnaclesPeaks_PT-BR1043285861",
         "copyright": "Trilha High Peaks no Parque Nacional Pinnacles, condado de San Benito, Califórnia, EUA (© yhelfman/Getty Images)",
         "copyrightKeyword": "San Benito, Califórnia",
-        "hsh": "570ee298babcbc414101a4d4757df2f0",
-        "description": "O Parque Nacional Pinnacles, no coração da Califórnia, nos Estados Unidos, é a obra-prima geológica fotografada na imagem. Nascido de uma erupção vulcânica há 23 milhões de anos, ele exibe pináculos irregulares, desfiladeiros estreitos e cavernas que parecem desafiar a gravidade – e os aventureiros que se arriscam a explorá-los. Curiosamente, essa paisagem não permaneceu onde surgiu: o movimento tectônico ao longo da Falha de San Andreas deslocou o parque por cerca de 314 quilômetros de sua origem vulcânica."
-    },
-    {
-        "fullstartdate": "202501150300",
-        "date": "20250116",
-        "url": "https://www.bing.com/th?id=OHR.TrancosoPraia_PT-BR2050297915_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.TrancosoPraia_PT-BR2050297915",
-        "copyright": "Praia dos Nativos vista de Quadrado, Trancoso, Porto Seguro, Bahia (© Samuel Ericksen/Shutterstock)",
-        "copyrightKeyword": "Trancoso",
-        "hsh": "4d46339fb7421e81898ae898d9567ff6"
+        "hsh": "570ee298babcbc414101a4d4757df2f0"
     }
 ]
