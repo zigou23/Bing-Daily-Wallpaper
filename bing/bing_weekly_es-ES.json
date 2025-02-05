@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202502052300",
+        "date": "20250206",
+        "url": "https://www.bing.com/th?id=OHR.WhararikiBeach_ES-ES6059269268_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WhararikiBeach_ES-ES6059269268",
+        "copyright": "Islas Archway, Playa Wharariki, Isla Sur, Nueva Zelanda (© Francesco Vaninetti/AWL/plainpicture)",
+        "copyrightKeyword": "Islas Archway",
+        "hsh": "607031dffc82c772e93a4b887df43e41",
+        "description": "El Día de Waitangi, celebrado cada 6 de febrero en Nueva Zelanda, conmemora la firma del Tratado de Waitangi en 1840, un acuerdo entre la Corona británica y más de 500 jefes maoríes. Este día se celebra con danzas tradicionales, discursos, festivales y las emocionantes carreras de waka (canoas maoríes). Las ceremonias principales tienen lugar en los Terrenos del Tratado de Waitangi, un enclave histórico que cualquier visitante debería recorrer para conectar con la historia y cultura del país."
+    },
+    {
         "fullstartdate": "202502042300",
         "date": "20250205",
         "url": "https://www.bing.com/th?id=OHR.ScottishSheep_ES-ES5976225157_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.OrdesaSpain_ES-ES4787929078",
         "copyright": "La Brecha de Rolando, Parque Nacional de Ordesa y Monte Perdido, España (© Inaki Relanzon/Nature Picture Library/Alamy)",
         "copyrightKeyword": "La Brecha de Rolando",
-        "hsh": "70c8ef0a1d7f77c49495b604f25ab0d5",
-        "description": "En lo alto de los Pirineos, una impresionante brecha en las montañas atrae todas las miradas: la Brecha de Rolando. Con más de 100 metros de altura y 40 de ancho, esta formación natural es un espectáculo que no deja indiferente a nadie. Pero ¿quién fue Rolando? Según la leyenda, este conde franco, líder militar bajo el reinado de Carlomagno en el siglo VIII, abrió la brecha en las montañas tras ser derrotado en batalla, ya sea para destruir su espada o para contemplar un último vistazo a su amada Francia."
-    },
-    {
-        "fullstartdate": "202501282300",
-        "date": "20250129",
-        "url": "https://www.bing.com/th?id=OHR.LunarDragon_ES-ES3892690560_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LunarDragon_ES-ES3892690560",
-        "copyright": "Danza del dragón, Wuhan, China (© Miao Jian/Wuhan Morning Post/Visual China Group via Getty Images)",
-        "copyrightKeyword": "Año Nuevo Chino",
-        "hsh": "806b04dc4f231dce3a278e88538f246a"
+        "hsh": "70c8ef0a1d7f77c49495b604f25ab0d5"
     }
 ]
