@@ -1,12 +1,22 @@
 [
     {
+        "fullstartdate": "202502062300",
+        "date": "20250207",
+        "url": "https://www.bing.com/th?id=OHR.BlueNorway_IT-IT0515535753_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BlueNorway_IT-IT0515535753",
+        "copyright": "Ora blu a Trondheim, Norvegia (© Jeanny Mueller/Getty Images)",
+        "copyrightKeyword": "Trondheim città in Norvegia ",
+        "hsh": "337bdb02478e22d2abeb1caf5b8bd3b3",
+        "description": "Ammirate la bellezza di questa città nordica: benvenuti a Trondheim, una delle città più antiche e affascinanti della Norvegia, situata sulla costa centrale del paese. Fondata nel 997 da re Olaf I, inizialmente chiamata Nidaros, era la capitale della Norvegia durante l'era vichinga. La città è famosa per la sua cattedrale gotica, chiamata Nidarosdomen in norvegese, un importante luogo di pellegrinaggio. Oggi, Trondheim è una vivace città universitaria, ricca di storia, cultura e innovazione tecnologica, grazie anche alla presenza della Norwegian University of Science and Technology (NTNU)."
+    },
+    {
         "fullstartdate": "202502052300",
         "date": "20250206",
         "url": "https://www.bing.com/th?id=OHR.WhararikiBeach_IT-IT3025215693_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.WhararikiBeach_IT-IT3025215693",
         "copyright": "Isole Archway, Spiaggia di Wharariki, Isola del Sud, Nuova Zelanda (© Francesco Vaninetti/AWL/plainpicture)",
         "copyrightKeyword": "Trattato di Waitangi",
-        "hsh": "d74b6477b2ecbfc4284a2e8ce4863655",
+        "hsh": "66e1dbd05e09b994858f6532f55bf088",
         "description": "Oggi, 6 febbraio, si celebra il “Giorno di Waitangi”, una festività nazionale in Nuova Zelanda che commemora la firma del Trattato di Waitangi nel 1840. Questo trattato, stipulato tra i rappresentanti della Corona britannica e i capi Māori, è considerato il documento fondativo della nazione. La firma avvenne nella località di Waitangi, situata nella Baia delle Isole. Il giorno è caratterizzato da cerimonie ufficiali, esibizioni culturali e riflessioni sul rapporto tra la popolazione indigena Māori e i neozelandesi di origine europea."
     },
     {
@@ -16,7 +26,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ScottishSheep_IT-IT5579118089",
         "copyright": "Pecore scozzesi Blackface, Aberdeenshire, Scozia (© Mike Powles/Getty Images)",
         "copyrightKeyword": "Pecora",
-        "hsh": "cf21830d66db9736105a72cc313ef145",
+        "hsh": "2c2b52d45a7d4667d3d27b83542657e3",
         "description": "Le pecore nere scozzesi, conosciute come Blackface, sono una delle razze ovine più antiche e robuste delle Highlands scozzesi. Caratterizzate dal loro manto nero, queste pecore sono ben adattate al clima rigido e al terreno accidentato della Scozia, sebbene vivano anche in altri paesi come gli Stati Uniti. Particolarmente apprezzata per la sua lana resistente, la Blackface è fondamentale per poter sopravvivere ai gelidi inverni scozzesi. La razza è simbolo di resilienza e ha un ruolo significativo nell'economia agricola locale, contribuendo alla sostenibilità delle comunità rurali scozzesi."
     },
     {
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PlainsZebra_IT-IT2615421914",
         "copyright": "Zebre, Parco Nazionale Mokala, Sudafrica (© EcoPrint/Shutterstock)",
         "copyrightKeyword": "Zebra mammifero",
-        "hsh": "479c5dd88d70ae572b8373b55f27afea",
-        "description": "Oggi, in onore della \"Giornata Internazionale della Zebra\", celebriamo la bellezza e l'importanza di questi straordinari animali. Abbiamo scelto di visitare il Parco Nazionale Mokala in Sudafrica, patria di queste creature uniche. Endemiche della savana africana che si estende nella parte orientale del continente, le zebre affrontano purtroppo l'estinzione di alcune specie, come la Grévy. Bracconaggio e perdita del loro habitat naturale sono le principali minacce causate dall'uomo."
-    },
-    {
-        "fullstartdate": "202501292300",
-        "date": "20250130",
-        "url": "https://www.bing.com/th?id=OHR.OrdesaSpain_IT-IT2526212966_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.OrdesaSpain_IT-IT2526212966",
-        "copyright": "La breccia di Orlando, Parco Nazionale di Ordesa e Monte Perdido, Spagna (© Inaki Relanzon/Nature Picture Library/Alamy Stock Photo)",
-        "copyrightKeyword": "Breccia di Orlando",
-        "hsh": "367a36b21224e58efae718668cefbcf3"
+        "hsh": "479c5dd88d70ae572b8373b55f27afea"
     }
 ]
