@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202502070000",
+        "date": "20250208",
+        "url": "https://www.bing.com/th?id=OHR.BlueNorway_EN-GB4715422563_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BlueNorway_EN-GB4715422563",
+        "copyright": "Blue hour in Trondheim, Norway (© Jeanny Mueller/Getty Images)",
+        "copyrightKeyword": "trondheim norway",
+        "hsh": "fa7946ac9767be3d70cd00f1e2c7a3aa",
+        "description": "In Norway, winter isn't just a season—it's an experience. In the north of the country, nights stretch for 20 hours, and there are entire weeks when the sun remains hidden below the horizon. It might sound bleak, but it's a unique time of the year. Why? Because around early afternoon, usually between 1 and 2 PM, a soft, lingering light reflects off the snow-covered ground and the deep blue sea. This forms a breathtaking, glassy blue glow that settles over the landscape. Each day, the blue hour arrives just a little later, a gentle reminder that the sun is slowly preparing to reclaim the sky."
+    },
+    {
         "fullstartdate": "202502060000",
         "date": "20250207",
         "url": "https://www.bing.com/th?id=OHR.WhararikiBeach_EN-GB0621465548_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PlainsZebra_EN-GB0409319973",
         "copyright": "Plains zebras at sunrise, Mokala National Park, South Africa (© EcoPrint/Shutterstock)",
         "copyrightKeyword": "International Zebra Day",
-        "hsh": "b045b532d8fa18cedf9dd452e6c8b63d",
-        "description": "Celebrate the beauty of zebras on International Zebra Day! These striking animals, known for their unique black and white patterns, are mostly found in the African savannah, stretching from Kenya to South Africa. Of the three zebra species—Grévy's zebra, plains zebra and mountain zebra—the Grévy's zebra is the most endangered, with more than half its population lost in only three decades. While plains zebras are thriving, mountain zebras face significant threats, such as poaching and habitat encroachment. Zebras play an essential role in the ecosystems they live in, coexisting with predators like lions and hyenas while shaping the grasslands they call home."
-    },
-    {
-        "fullstartdate": "202501300000",
-        "date": "20250131",
-        "url": "https://www.bing.com/th?id=OHR.OrdesaSpain_EN-GB0380328230_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.OrdesaSpain_EN-GB0380328230",
-        "copyright": "Roland's Breach, Ordesa y Monte Perdido National Park, Spain (© Inaki Relanzon/Nature Picture Library/Alamy Stock Photo)",
-        "copyrightKeyword": "Rolands Breach",
-        "hsh": "e7a400953c2aead54d41b5303427cb32"
+        "hsh": "b045b532d8fa18cedf9dd452e6c8b63d"
     }
 ]
