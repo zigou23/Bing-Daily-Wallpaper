@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202502082300",
+        "date": "20250209",
+        "url": "https://www.bing.com/th?id=OHR.AlstromPoint_IT-IT1127096784_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AlstromPoint_IT-IT1127096784",
+        "copyright": "Alstrom Point, Lago Powell, Utah, USA (© T.M. Schultze/TANDEM Stills + Motion)",
+        "copyrightKeyword": "Lago Powell, lago artificiale nello Utah",
+        "hsh": "409207a89976b0b000e34e60ae34d533",
+        "description": "Siete alla ricerca di tramonti e panorami mozzafiato? Visitate l’Alstrom Point, situato nella contea di Kane, nello Utah meridionale, negli USA. Sapevate che questo punto, situato nella Glen Canyon National Recreation Area, si trova a quasi 1.500 metri di altezza? Il lago Powell, che si estende tra l'Arizona e l'Utah, attraversa oltre 90 canyon rocciosi ed è un labirinto di acque blu intenso, capace di attirare ogni anno circa 3 milioni di visitatori. Il suo corso principale attraversa il Glen Canyon, ma si snoda anche in molti canyon laterali più piccoli, insieme ai fiumi Escalante e San Juan."
+    },
+    {
         "fullstartdate": "202502072300",
         "date": "20250208",
         "url": "https://www.bing.com/th?id=OHR.SnowySvaneti_IT-IT0719958038_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PortofinoMarathon_IT-IT1822275112",
         "copyright": "Portofino, Liguria, Italia (© Haveseen/Shutterstock)",
         "copyrightKeyword": "Maratona atletica leggera",
-        "hsh": "5ae6171c126683b99e8cfdabcbb4168c",
-        "description": "Tutti conosciamo le origini della maratona. La sua nascita risale alla Grecia del 490 a.C. Secondo la leggenda, un messaggero greco di nome Filippide corse dalla città di Maratona ad Atene per annunciare la vittoria dei Greci sui Persiani nella famosa Battaglia di Maratona. Dopo aver percorso circa 42 km, Filippide arrivò ad Atene, annunciò la vittoria con le parole \"Nenikékamen!\" (\"Abbiamo vinto!\") e morì esausto. Sebbene la veridicità storica di questo evento sia ancora oggetto di dibattito, la figura di Filippide è diventata un simbolo di resistenza e sacrificio, ispirando la nascita della maratona come disciplina sportiva."
-    },
-    {
-        "fullstartdate": "202501312300",
-        "date": "20250201",
-        "url": "https://www.bing.com/th?id=OHR.FestungKonigsteinElbsandsteingebirge_IT-IT3107556613_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FestungKonigsteinElbsandsteingebirge_IT-IT3107556613",
-        "copyright": "Fortezza di Königstein, Svizzera sassone, Germania (© Bildagentur-online/Exss/Alamy)",
-        "copyrightKeyword": "Fortezza di Königstein",
-        "hsh": "df3307b6ee46b536d63f7ea0d50dddb6"
+        "hsh": "5ae6171c126683b99e8cfdabcbb4168c"
     }
 ]

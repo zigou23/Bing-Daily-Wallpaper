@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202502080800",
+        "date": "20250209",
+        "url": "https://www.bing.com/th?id=OHR.SnowySvaneti_ROW3815244842_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SnowySvaneti_ROW3815244842",
+        "copyright": "Medieval towers in Mestia, Upper Svaneti, Georgia (© photoaliona/Getty Images)",
+        "copyrightKeyword": "Mestia",
+        "hsh": "b56c2d19f09706ba932cb79bc6f6e1ce",
+        "description": "Winter turns Mestia's medieval towers into icy fortresses. Perched 1,500 metres up in the Caucasus Mountains, Mestia is a charming highland town in northwest Georgia. The town is home to the Svans, a cultural and linguistic subgroup of Georgians. Despite its modest size, Mestia has been an essential hub of Georgian culture for centuries, dotted with the Svan defensive towers, seen in today's image. Most of these towers were constructed between the 9th and 12th centuries, a period often referred to as Georgia's Golden Age. However, their roots are believed to stretch even further back, possibly into prehistoric times. Built for both protection and shelter, these towers were not just fortresses but also integral parts of family homes, reflecting the region's history of resilience and self-sufficiency. Therefore, it isn't just a town; it's a living museum where history rises from these towers and echoes through the mountains."
+    },
+    {
         "fullstartdate": "202502070800",
         "date": "20250208",
         "url": "https://www.bing.com/th?id=OHR.BlueNorway_ROW3731511173_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.FestungKonigsteinElbsandsteingebirge_ROW4984505024",
         "copyright": "Königstein Fortress, Saxon Switzerland, Germany (© Bildagentur-online/Exss/Alamy)",
         "copyrightKeyword": "Konigstein Fortress Saxon Switzerland",
-        "hsh": "02a79175364098afe64614b5027d18db",
-        "description": "Königstein Fortress, one of the largest mountain fortresses in Europe, rises high in the Elbe Sandstone Mountains of Saxon Switzerland. The 'Burgrave Gebhard vom Stein' is first mentioned in a document of King Wenceslas I of Bohemia in 1233, presumably referring to Königstein. At that time the area belonged to the Kingdom of Bohemia. In the 16th century, the castle underwent significant expansion to become a Saxon state fortress, with the start of construction of the imposing 152.5-metre-deep castle well between 1566 and 1569 being an important milestone. It is still one of the deepest historic wells in Germany."
-    },
-    {
-        "fullstartdate": "202501310800",
-        "date": "20250201",
-        "url": "https://www.bing.com/th?id=OHR.PlainsZebra_ROW4908645936_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PlainsZebra_ROW4908645936",
-        "copyright": "Plains zebras at sunrise, Mokala National Park, South Africa (© EcoPrint/Shutterstock)",
-        "copyrightKeyword": "Plains zebra",
-        "hsh": "7b498dff35f2343adf1bed98fe0c8dd4"
+        "hsh": "02a79175364098afe64614b5027d18db"
     }
 ]
