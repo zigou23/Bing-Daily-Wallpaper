@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202502122300",
+        "date": "20250213",
+        "url": "https://www.bing.com/th?id=OHR.LakeTyrrell_IT-IT6174481161_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LakeTyrrell_IT-IT6174481161",
+        "copyright": "Lago Tyrrell, Victoria, Australia (© Monica Bertolazzi/Getty Images)",
+        "copyrightKeyword": "Stato Victoria, Australia",
+        "hsh": "1d2b46ea43d650bbd81be2c3820df7e0",
+        "description": "Ammirate questo lago che, come un antico specchio, riflette il cielo stellato e racconta storie di un tempo lontano. Ci troviamo al Lago Tyrell, in Australia. A causa dei cambiamenti climatici, il livello dell'acqua si è abbassato, rendendo il lago oggi normalmente asciutto, eccetto in inverno, quando viene coperto da circa 5 cm d'acqua. Il suo nome deriva dalla parola locale Wergaia per \"cielo\", a indicare l'interesse degli aborigeni Boorong per l'astronomia. Di notte, avvolto da un'aura di misticismo, il lago offre un osservatorio naturale perfetto per l'osservazione delle stelle dell'emisfero australe, permettendo di ammirare le costellazioni."
+    },
+    {
         "fullstartdate": "202502112300",
         "date": "20250212",
         "url": "https://www.bing.com/th?id=OHR.GalapagosIguana_IT-IT5515786764_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.WhararikiBeach_IT-IT3025215693",
         "copyright": "Isole Archway, Spiaggia di Wharariki, Isola del Sud, Nuova Zelanda (© Francesco Vaninetti/AWL/plainpicture)",
         "copyrightKeyword": "Trattato di Waitangi",
-        "hsh": "66e1dbd05e09b994858f6532f55bf088",
-        "description": "Oggi, 6 febbraio, si celebra il “Giorno di Waitangi”, una festività nazionale in Nuova Zelanda che commemora la firma del Trattato di Waitangi nel 1840. Questo trattato, stipulato tra i rappresentanti della Corona britannica e i capi Māori, è considerato il documento fondativo della nazione. La firma avvenne nella località di Waitangi, situata nella Baia delle Isole. Il giorno è caratterizzato da cerimonie ufficiali, esibizioni culturali e riflessioni sul rapporto tra la popolazione indigena Māori e i neozelandesi di origine europea."
-    },
-    {
-        "fullstartdate": "202502042300",
-        "date": "20250205",
-        "url": "https://www.bing.com/th?id=OHR.ScottishSheep_IT-IT5579118089_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ScottishSheep_IT-IT5579118089",
-        "copyright": "Pecore scozzesi Blackface, Aberdeenshire, Scozia (© Mike Powles/Getty Images)",
-        "copyrightKeyword": "Pecora",
-        "hsh": "2c2b52d45a7d4667d3d27b83542657e3"
+        "hsh": "66e1dbd05e09b994858f6532f55bf088"
     }
 ]
