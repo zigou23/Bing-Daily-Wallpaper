@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202502190000",
+        "date": "20250220",
+        "url": "https://www.bing.com/th?id=OHR.IceHoleOtter_EN-GB7580568123_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.IceHoleOtter_EN-GB7580568123",
+        "copyright": "European river otter, Lelystad, Netherlands (© Ernst Dirksen/Minden Pictures)",
+        "copyrightKeyword": "European river otter",
+        "hsh": "eccae135bb919531aaf97173c5264423",
+        "description": "The European river otter, pictured here, is more than just an adorable face in the wild. Found across Europe, Asia, and parts of northern Africa, these otters thrive in clean rivers, lakes and wetlands, serving as an important indicator of environmental health. These semi-aquatic animals are built for agility, with streamlined bodies, webbed feet and dense fur that keeps them warm even in icy waters. A single square centimetre of their fur can hold more than 70,000 hairs, making it one of nature's most effective insulators. River otters were once endangered due to pollution and habitat loss. Yet, thanks to conservation efforts, their populations are rebounding in many regions across Europe."
+    },
+    {
         "fullstartdate": "202502180000",
         "date": "20250219",
         "url": "https://www.bing.com/th?id=OHR.BlueBelize_EN-GB7414492800_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.GalapagosIguana_EN-GB6309526875",
         "copyright": "Marine iguanas, Galápagos Islands, Ecuador (© helovi/Getty Images)",
         "copyrightKeyword": "Darwin Day",
-        "hsh": "28722a76a837027b4166d21d96681042",
-        "description": "Today, we celebrate Darwin Day—a shout-out to Charles Darwin and his game-changing ideas about life on Earth. As an English naturalist, geologist and biologist, his theory of natural selection revolutionised our understanding of species, evolution and our role in the natural world. His work, 'On the Origin of Species,' published in 1859, laid the foundation for modern evolutionary biology. This day marks the birthday of Darwin and honours his genius while promoting curiosity, science and critical thinking. From thought-provoking talks to engaging exhibits, this day motivates us to keep exploring."
-    },
-    {
-        "fullstartdate": "202502110000",
-        "date": "20250212",
-        "url": "https://www.bing.com/th?id=OHR.YungangGrottoes_EN-GB6267033764_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.YungangGrottoes_EN-GB6267033764",
-        "copyright": "Yungang Grottoes, Datong, Shanxi province, China (© Eric Yang/Getty Images)",
-        "copyrightKeyword": "Yungang Grottoes Datong",
-        "hsh": "2070cf72c6a6551fabdb84460cb6f167"
+        "hsh": "28722a76a837027b4166d21d96681042"
     }
 ]
