@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202502252300",
+        "date": "20250226",
+        "url": "https://www.bing.com/th?id=OHR.ArgyllStalker_DE-DE7352876454_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ArgyllStalker_DE-DE7352876454",
+        "copyright": "Castle Stalker am Loch Laich, Argyll, Schottland (© WLDavies/Getty Images)",
+        "copyrightKeyword": "Castle Stalker ist ein Tower House",
+        "hsh": "623726977050f8533af7f7f39fc1328c",
+        "description": "Das beeindruckende Stalker Castle, auf einer kleinen Gezeiteninsel im schottischen Loch Laich gelegen, ist ein vierstöckiges Turmhaus, das um 1320 vom Clan der MacDougall erbaut wurde. Der Name „Stalker“ ist vom gälischen „Stalcaire“ abgeleitet, was „Jäger“ oder „Falkner“ bedeutet. Die mittelalterliche Burg ist bekannt für ihr malerisches Aussehen und ihre dramatische Lage, was sie zu einem beliebten Motiv für Postkarten und Kalender macht. In den 1960er Jahren wurde sie restauriert und befindet sich heute in Privatbesitz, kann aber nach Vereinbarung besichtigt werden. Vielleicht sagt sie Ihnen etwas, weil Sie sie im Monty-Python-Film „Die Ritter der Kokosnuss“ gesehen haben, in dem sie als Kulisse diente."
+    },
+    {
         "fullstartdate": "202502242300",
         "date": "20250225",
         "url": "https://www.bing.com/th?id=OHR.BryceHoodoos_DE-DE7316141560_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.IceHoleOtter_DE-DE5011760287",
         "copyright": "Europäischer Flussotter, Lelystad, Niederlande (© Ernst Dirksen/Minden Pictures)",
         "copyrightKeyword": "Europäischer Flussotter Lelystad Niederlande",
-        "hsh": "b0e316786d18ef6ea8d50dc9bb63a8ff",
-        "description": "Fischotter gehören zu den charmantesten Bewohnern unserer Natur. Diese muskulösen Marder, die in Europa, Asien und Teilen Nordafrikas leben, fühlen sich in sauberen Flüssen, Seen und Feuchtgebieten wohl und sind ein wichtiger Indikator für die Gesundheit der Umwelt. Fischotter sind jedoch weit mehr als nur süße Naturbewohner. Die scheuen Einzelgänger sind wahre Kunstschwimmer - dank ihres stromlinienförmigen Körpers, ihrer Schwimmhäute und ihres dichten Fells, das sie auch in eisigen Gewässern warm hält. Fischotter sind von Natur aus neugierig und vorwiegend nachtaktiv. Während ihrer aktiven Phasen sind sie ständig auf der Suche nach Nahrung, vor allem nach Fischen, Amphibien und Krebsen."
-    },
-    {
-        "fullstartdate": "202502172300",
-        "date": "20250218",
-        "url": "https://www.bing.com/th?id=OHR.BlueBelize_DE-DE7316744984_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BlueBelize_DE-DE7316744984",
-        "copyright": "Great Blue Hole, Belize (© JamiesOnAMission/Shutterstock)",
-        "copyrightKeyword": "Great Blue Hole Belize",
-        "hsh": "2808d3b5821fd3d6de4b14b8495373f8"
+        "hsh": "b0e316786d18ef6ea8d50dc9bb63a8ff"
     }
 ]
