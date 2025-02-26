@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202502260800",
+        "date": "20250227",
+        "url": "https://www.bing.com/th?id=OHR.ArgyllStalker_EN-US2452683665_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ArgyllStalker_EN-US2452683665",
+        "copyright": "Castle Stalker on Loch Laich, Argyll, Scotland (© WLDavies/Getty Images)",
+        "copyrightKeyword": "Castle Stalker",
+        "hsh": "29b7d9e4d2950eb44a3d5561282acace",
+        "description": "Perched dramatically on a tidal islet in Loch Laich, Argyll, Castle Stalker is one of Scotland's most picturesque and well-preserved medieval tower houses. Built around the 1440s by the Stewarts of Appin, its history includes royal visits and even a drunken wager that briefly transferred ownership to Clan Campbell. After falling into disrepair by the 19th century, it was lovingly restored in the mid-20th century and is still privately owned today. Visitors can explore this historic site on selected guided tours during the summer."
+    },
+    {
         "fullstartdate": "202502250800",
         "date": "20250226",
         "url": "https://www.bing.com/th?id=OHR.BryceHoodoos_EN-US2334649046_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.IceHoleOtter_EN-US7859051687",
         "copyright": "European river otter, Lelystad, Netherlands (© Ernst Dirksen/Minden Pictures)",
         "copyrightKeyword": "European river otter",
-        "hsh": "50d8d695dabae5458b61b66621dfd79a",
-        "description": "The European river otter is more than just an adorable face in the wild. Found across Europe, Asia, and parts of northern Africa, these otters thrive in clean rivers, lakes, and wetlands, serving as an important indicator of environmental health. They are built for agility, with streamlined bodies, webbed feet, and dense fur that keeps them warm even in icy waters. A single square inch of their fur can hold more than 400,000 hairs, making it one of nature's most effective insulators. River otters were once endangered due to pollution and habitat loss. Thanks to conservation efforts, their populations are rebounding in many regions across Europe."
-    },
-    {
-        "fullstartdate": "202502180800",
-        "date": "20250219",
-        "url": "https://www.bing.com/th?id=OHR.BlueBelize_EN-US7787222240_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BlueBelize_EN-US7787222240",
-        "copyright": "Great Blue Hole, Belize (© JamiesOnAMission/Shutterstock)",
-        "copyrightKeyword": "Great Blue Hole Caribbean",
-        "hsh": "db4f2b573735a66fa38fd54ef58033d6"
+        "hsh": "50d8d695dabae5458b61b66621dfd79a"
     }
 ]

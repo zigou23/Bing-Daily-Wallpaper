@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202502262300",
+        "date": "20250227",
+        "url": "https://www.bing.com/th?id=OHR.PolarCub_FR-FR0353812683_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PolarCub_FR-FR0353812683",
+        "copyright": "Ourson polaire, Churchill, Manitoba, Canada (© Eric Baccega/NPL/Minden Pictures)",
+        "copyrightKeyword": "Journée internationale de l'ours polaire",
+        "hsh": "91b2fcb35efa5e8cfb629ee82ca204cc",
+        "description": "Aujourd’hui, le 27 février, nous célébrons la Journée de l’ours polaire, une occasion unique de découvrir cet animal emblématique de l'Arctique. Avec leur pelage blanc et leur taille impressionnante, les ours polaires sont parfaitement adaptés à la vie dans le froid extrême. Prédateurs redoutables, ils jouent un rôle crucial dans l’équilibre de leur écosystème en régulant les populations de phoques et autres proies."
+    },
+    {
         "fullstartdate": "202502252300",
         "date": "20250226",
         "url": "https://www.bing.com/th?id=OHR.ArgyllStalker_FR-FR0089551685_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BlueNorway_FR-FR6545553571",
         "copyright": "Heure bleue à Trondheim, Norvège (© Jeanny Mueller/Getty Images)",
         "copyrightKeyword": "Trondheim Norvège",
-        "hsh": "f96cd294cbd42a28d8f5a5309b8fc57d",
-        "description": "L’heure bleue à Trondheim, en Norvège, est un spectacle naturel fascinant. Cette ville brille de nuances bleutées juste avant le lever et après le coucher du soleil. Ce phénomène, particulièrement fascinant en hiver, illumine le ciel d’une lumière douce, parfaite pour les photographes et les rêveurs."
-    },
-    {
-        "fullstartdate": "202502182300",
-        "date": "20250219",
-        "url": "https://www.bing.com/th?id=OHR.IceHoleOtter_FR-FR7480810536_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.IceHoleOtter_FR-FR7480810536",
-        "copyright": "Loutre d'Europe, Lelystad, Pays-Bas (© Ernst Dirksen/Minden Pictures)",
-        "copyrightKeyword": "loutre d'Europe espèce",
-        "hsh": "73482f5d3dfbdfa04bb3311e7859205c"
+        "hsh": "f96cd294cbd42a28d8f5a5309b8fc57d"
     }
 ]

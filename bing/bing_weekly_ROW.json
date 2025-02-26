@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202502260800",
+        "date": "20250227",
+        "url": "https://www.bing.com/th?id=OHR.ArgyllStalker_ROW3019480631_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ArgyllStalker_ROW3019480631",
+        "copyright": "Castle Stalker on Loch Laich, Argyll, Scotland (© WLDavies/Getty Images)",
+        "copyrightKeyword": "Castle Stalker",
+        "hsh": "b9917cb611bf1a5ac2001f81374674b9",
+        "description": "Perched dramatically on a tidal islet in Loch Laich, Argyll, Castle Stalker is one of Scotland's most picturesque and well-preserved medieval tower houses. Built around the 1440s by the Stewarts of Appin, its history includes royal visits and even a drunken wager that briefly transferred ownership to Clan Campbell. Despite falling into disrepair by the 19th century, it was lovingly restored in the mid-20th century and is still privately owned today. Visitors can explore this historic site on selected guided tours during the summer."
+    },
+    {
         "fullstartdate": "202502250800",
         "date": "20250226",
         "url": "https://www.bing.com/th?id=OHR.BryceHoodoos_ROW2996747589_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.IceHoleOtter_ROW4882603576",
         "copyright": "European river otter, Lelystad, Netherlands (© Ernst Dirksen/Minden Pictures)",
         "copyrightKeyword": "European river otter",
-        "hsh": "837a25697e5fc0ac29ff3137ba170c6c",
-        "description": "The European river otter, pictured here, is more than just an adorable face in the wild. Found across Europe, Asia and parts of northern Africa, these otters thrive in clean rivers, lakes and wetlands, serving as an important indicator of environmental health. These semi-aquatic animals are built for agility, with streamlined bodies, webbed feet and dense fur that keeps them warm even in icy waters. A single square centimetre of their fur can hold more than 70,000 hairs, making it one of nature's most effective insulators. River otters were once endangered due to pollution and habitat loss. Yet, thanks to conservation efforts, their populations are rebounding in many regions across Europe."
-    },
-    {
-        "fullstartdate": "202502180800",
-        "date": "20250219",
-        "url": "https://www.bing.com/th?id=OHR.BlueBelize_ROW4613488745_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BlueBelize_ROW4613488745",
-        "copyright": "Great Blue Hole, Belize (© JamiesOnAMission/Shutterstock)",
-        "copyrightKeyword": "Great Blue Hole Belize",
-        "hsh": "43b11ef2e459ae815152a58ca1641cf0"
+        "hsh": "837a25697e5fc0ac29ff3137ba170c6c"
     }
 ]
