@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202502270500",
+        "date": "20250228",
+        "url": "https://www.bing.com/th?id=OHR.PolarCub_FR-CA0698654822_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PolarCub_FR-CA0698654822",
+        "copyright": "Ourson polaire, Churchill, Manitoba, Canada (© Eric Baccega/NPL/Minden Pictures)",
+        "copyrightKeyword": "Journée internationale de l'ours polaire",
+        "hsh": "e23afd1eda20c88b396ef5127514d3de",
+        "description": "Aujourd’hui, le 27 février, nous célébrons la Journée de l’ours polaire, une occasion unique de découvrir cet animal emblématique de l'Arctique. Avec leur pelage blanc et leur taille impressionnante, les ours polaires sont parfaitement adaptés à la vie dans le froid extrême. Prédateurs redoutables, ils jouent un rôle crucial dans l’équilibre de leur écosystème en régulant les populations de phoques et autres proies."
+    },
+    {
         "fullstartdate": "202502260500",
         "date": "20250227",
         "url": "https://www.bing.com/th?id=OHR.ArgyllStalker_FR-CA9572525309_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.CanadaDeer_FR-CA2132440731",
         "copyright": "Cerf élaphe, Canada (© Delbars/Getty Images)",
         "copyrightKeyword": "Cerf élaphe ",
-        "hsh": "d7de5615520dc74ccd6b2e471c73ffa0",
-        "description": "Au fil de l'histoire, les cerfs élaphes ont suscité l'émerveillement et le respect de l'humanité. On peut trouver ces créatures à travers l'Europe, l'Asie, certaines parties de l'Afrique du Nord et quelques autres régions."
-    },
-    {
-        "fullstartdate": "202502190500",
-        "date": "20250220",
-        "url": "https://www.bing.com/th?id=OHR.IceHoleOtter_FR-CA1911250698_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.IceHoleOtter_FR-CA1911250698",
-        "copyright": "Loutre d'Europe, Lelystad, Pays-Bas (© Ernst Dirksen/Minden Pictures)",
-        "copyrightKeyword": "loutre d'Europe espèce",
-        "hsh": "64e565132965816b86dea7c1598b81ea"
+        "hsh": "d7de5615520dc74ccd6b2e471c73ffa0"
     }
 ]

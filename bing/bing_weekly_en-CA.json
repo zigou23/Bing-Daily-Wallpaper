@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202502270500",
+        "date": "20250228",
+        "url": "https://www.bing.com/th?id=OHR.PolarCub_EN-CA8015894762_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PolarCub_EN-CA8015894762",
+        "copyright": "Polar bear cub, Churchill, Manitoba, Canada (© Eric Baccega/NPL/Minden Pictures)",
+        "copyrightKeyword": "International Polar Bear Day",
+        "hsh": "18780402326e94d41e3189fc6954dcda",
+        "description": "Today we're heading north for International Polar Bear Day. This event is the perfect time to learn more about the world's largest bear species and the threats they face. Polar bears are native to the Arctic and can be found in Alaska, Russia, Greenland and Svalbard. They're also found in Canada—like the cub in today's image, photographed in Churchill, Manitoba."
+    },
+    {
         "fullstartdate": "202502260500",
         "date": "20250227",
         "url": "https://www.bing.com/th?id=OHR.ArgyllStalker_EN-CA0781984286_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.CanadaDeer_EN-CA2853783794",
         "copyright": "Red deer, Canada (© Delbars/Getty Images)",
         "copyrightKeyword": "Red deer",
-        "hsh": "f5b71334123b923f1e7b763e50b3173c",
-        "description": "Throughout history, red deer have captured humanity's awe and respect. These creatures can be found across Europe, Asia, parts of North Africa and a few other regions. In Canada, these animals are primarily found in Alberta, with the prairies and parklands around the city of Red Deer offering an ideal habitat for them."
-    },
-    {
-        "fullstartdate": "202502190500",
-        "date": "20250220",
-        "url": "https://www.bing.com/th?id=OHR.IceHoleOtter_EN-CA2426610896_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.IceHoleOtter_EN-CA2426610896",
-        "copyright": "European river otter, Lelystad, Netherlands (© Ernst Dirksen/Minden Pictures)",
-        "copyrightKeyword": "European river otter",
-        "hsh": "2ffd0c0ee78a9b2dcc8722b8ba91fec4"
+        "hsh": "f5b71334123b923f1e7b763e50b3173c"
     }
 ]

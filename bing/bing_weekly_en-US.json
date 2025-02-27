@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202502270800",
+        "date": "20250228",
+        "url": "https://www.bing.com/th?id=OHR.PolarCub_EN-US2740470421_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PolarCub_EN-US2740470421",
+        "copyright": "Polar bear cub, Churchill, Manitoba, Canada (© Eric Baccega/NPL/Minden Pictures)",
+        "copyrightKeyword": "international polar bear day",
+        "hsh": "37f4494705d4ebf5a6245217277e4d74",
+        "description": "Today we're heading north for International Polar Bear Day. This event is the perfect time to learn more about the world's largest bear species and the threats they face. Polar bears are native to the Arctic and can be found in Alaska, Russia, Greenland, and Svalbard. They're also found in Canada—like the cub in today's image, photographed in Churchill, Manitoba."
+    },
+    {
         "fullstartdate": "202502260800",
         "date": "20250227",
         "url": "https://www.bing.com/th?id=OHR.ArgyllStalker_EN-US2452683665_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AdamsYosemite_EN-US7924059397",
         "copyright": "Alpenglow on Half Dome, Yosemite National Park, California (© Matthew Kuhns/TANDEM Stills + Motion)",
         "copyrightKeyword": "Ansel Adams",
-        "hsh": "052a2f0a80cf8570a51df10b735e329c",
-        "description": "Born on this day in 1902, Ansel Adams remains one of the most celebrated photographers in history, renowned for his striking black-and-white images of the American wilderness. His work immortalized the grandeur of national parks like California's Yosemite, pictured here, showcasing the raw beauty of nature with depth and clarity. A pioneer of 'pure photography,' Adams believed in capturing a scene's natural essence without manipulation, a principle he championed through his development of the Zone System—a technique to control exposure and contrast."
-    },
-    {
-        "fullstartdate": "202502190800",
-        "date": "20250220",
-        "url": "https://www.bing.com/th?id=OHR.IceHoleOtter_EN-US7859051687_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.IceHoleOtter_EN-US7859051687",
-        "copyright": "European river otter, Lelystad, Netherlands (© Ernst Dirksen/Minden Pictures)",
-        "copyrightKeyword": "European river otter",
-        "hsh": "50d8d695dabae5458b61b66621dfd79a"
+        "hsh": "052a2f0a80cf8570a51df10b735e329c"
     }
 ]
