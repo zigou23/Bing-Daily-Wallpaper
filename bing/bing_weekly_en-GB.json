@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202503020000",
+        "date": "20250303",
+        "url": "https://www.bing.com/th?id=OHR.EucalyptusForest_EN-GB2410685823_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.EucalyptusForest_EN-GB2410685823",
+        "copyright": "Eucalyptus trees, Megalong Valley, Blue Mountains National Park, NSW, Australia (© Andrew Peacock/TANDEM Stills + Motion)",
+        "copyrightKeyword": "Blue Mountains National Park",
+        "hsh": "9494e5343cdf59895b2331b1446aa93d",
+        "description": "Today, we are in New South Wales, Australia, amid the Blue Mountains National Park. Known for its dramatic cliffs, dense rainforests and cascading waterfalls, this UNESCO World Heritage Site is a treasure trove of natural beauty and biodiversity. Among the most iconic features of the Blue Mountains region are the eucalyptus trees, pictured here."
+    },
+    {
         "fullstartdate": "202503010000",
         "date": "20250302",
         "url": "https://www.bing.com/th?id=OHR.DavidsCathedralGB_EN-GB8444575423_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MtFujiSunrise_EN-GB0934318884",
         "copyright": "Mount Fuji, Lake Kawaguchi, Japan (© Twenty47studio/Getty Images)",
         "copyrightKeyword": "mount fuji",
-        "hsh": "670f8b915c6be0ce52ea3843225856d6",
-        "description": "Around 60 miles southwest of Tokyo stands one of Japan's cultural icons: Mount Fuji. The country's tallest mountain rises more than 3,600 metres above the surrounding landscape, with its near-symmetrical cone covered in snow for nearly five months each year. For centuries, Fujisan—as it is known in Japanese—has been worshiped as a sacred mountain. In the Shinto faith, Fuji is deified as Asama no Okami, and shrines dedicated to it are built within sight of the mountain. February 23 is celebrated as Mount Fuji Day (富士山の日) because the word 'Fujisan' can be interpreted as '2, 2, 3.' Although it's not a national holiday, people often take the opportunity to learn more about this majestic peak. It's also a day to reflect on the future of the mountain, and how it can be preserved for future generations. Every year, more than 300,000 people climb Mount Fuji, and overtourism has become a real concern."
-    },
-    {
-        "fullstartdate": "202502220000",
-        "date": "20250223",
-        "url": "https://www.bing.com/th?id=OHR.StLouisArch_EN-GB0667383384_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.StLouisArch_EN-GB0667383384",
-        "copyright": "Gateway Arch and St Louis, Missouri, United States (© f11photo/Getty Images)",
-        "copyrightKeyword": "Gateway Arch national park",
-        "hsh": "f83c97bf370e470a34eea3a27a8be09e"
+        "hsh": "670f8b915c6be0ce52ea3843225856d6"
     }
 ]
