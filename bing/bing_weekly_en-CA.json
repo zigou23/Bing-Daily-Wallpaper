@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202503060500",
+        "date": "20250307",
+        "url": "https://www.bing.com/th?id=OHR.WalterdaleBridge_EN-CA9868203704_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WalterdaleBridge_EN-CA9868203704",
+        "copyright": "Walterdale Bridge in Edmonton, Canada (© ronniechua/Getty Images)",
+        "copyrightKeyword": "Walterdale Bridge in Edmonton",
+        "hsh": "d9d9f25135f77c7870c81ac0cea96a82",
+        "description": "Edmonton is always evolving. From its roots as a fur trade hub to becoming Alberta's capital, the city has seen industries boom, neighbourhoods change and skylines grow. It's a place of long winters, festival-packed summers and a love for hockey that runs deep. The North Saskatchewan River, once a transport route, now defines the city's outdoor spaces. If you've been to Edmonton, you've probably seen the Walterdale Bridge–that sleek, steel arch that stands tall over the river. Opened in 2017, this bridge replaced an ageing structure—named after John Walter, a Canadian business entrepreneur and an early settler in Fort Edmonton—that was constructed in 1913 by the Dominion Bridge Company. The new design features an impressive, curved arch, making it one of Edmonton's most modern and striking bridges. More than just a way to cross the river, it connects key parts of the city, making travel between the capital's downtown and Southside easier and faster."
+    },
+    {
         "fullstartdate": "202503050500",
         "date": "20250306",
         "url": "https://www.bing.com/th?id=OHR.SuratThani_EN-CA9452161985_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PolarCub_EN-CA8015894762",
         "copyright": "Polar bear cub, Churchill, Manitoba, Canada (© Eric Baccega/NPL/Minden Pictures)",
         "copyrightKeyword": "International Polar Bear Day",
-        "hsh": "18780402326e94d41e3189fc6954dcda",
-        "description": "Today we're heading north for International Polar Bear Day. This event is the perfect time to learn more about the world's largest bear species and the threats they face. Polar bears are native to the Arctic and can be found in Alaska, Russia, Greenland and Svalbard. They're also found in Canada—like the cub in today's image, photographed in Churchill, Manitoba."
-    },
-    {
-        "fullstartdate": "202502260500",
-        "date": "20250227",
-        "url": "https://www.bing.com/th?id=OHR.ArgyllStalker_EN-CA0781984286_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ArgyllStalker_EN-CA0781984286",
-        "copyright": "Castle Stalker on Loch Laich, Argyll, Scotland (© WLDavies/Getty Images)",
-        "copyrightKeyword": "Castle Stalker",
-        "hsh": "2731403a74aeab6769d4de3e96868ced"
+        "hsh": "18780402326e94d41e3189fc6954dcda"
     }
 ]
