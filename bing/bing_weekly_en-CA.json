@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202503200400",
+        "date": "20250321",
+        "url": "https://www.bing.com/th?id=OHR.SpringDaffodils_EN-CA0307251313_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SpringDaffodils_EN-CA0307251313",
+        "copyright": "Spring daffodils glow in the morning (© LedyX/Shutterstock)",
+        "copyrightKeyword": "March equinox",
+        "hsh": "85f2a1ea8d2cfdd32cbd9362d389d0ff",
+        "description": "With the sun rising higher, the days grow longer, marking the arrival of spring. The spring equinox occurs when the sun crosses the celestial equator, moving from the Southern Hemisphere to the Northern Hemisphere. Traditionally, spring is considered to begin on March 21. However, astronomers and calendar makers now agree that spring officially commences on March 20 across all time zones in North America. This event signals the true start of the season, bringing with it the beauty and symbolism of spring blooms."
+    },
+    {
         "fullstartdate": "202503190400",
         "date": "20250320",
         "url": "https://www.bing.com/th?id=OHR.BlackHeron_EN-CA0146794297_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.HoliColors_EN-CA2415049619",
         "copyright": "Holi celebration in Jaipur, India (© powerofforever/Getty Images)",
         "copyrightKeyword": "Holi",
-        "hsh": "3a39dabc65a54a93cd469d9a8918dab6",
-        "description": "Strolling through the streets of India during Holi is like stepping into a kaleidoscope of colours—vivid splashes of blue, green, red, yellow, pink and orange fill the air. This festival falls on the full moon day in the Hindu month of Phalguna—usually in late February or March. It is a significant tradition that symbolises the arrival of spring and the victory of good over evil. Outside India, Holi is celebrated by Hindus in Nepal, Bangladesh and Pakistan, as well as by Indian communities around the world, including in countries like Canada."
-    },
-    {
-        "fullstartdate": "202503120400",
-        "date": "20250313",
-        "url": "https://www.bing.com/th?id=OHR.ChateauLoire_EN-CA0574990626_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ChateauLoire_EN-CA0574990626",
-        "copyright": "Château de Sully-sur-Loire, Centre-Val de Loire, France (© StockPhotoAstur/Shutterstock)",
-        "copyrightKeyword": "Sully sur Loire chateau",
-        "hsh": "80e37a3bf4308cddfa7a0f135636fb88"
+        "hsh": "3a39dabc65a54a93cd469d9a8918dab6"
     }
 ]
