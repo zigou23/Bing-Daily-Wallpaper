@@ -1,12 +1,22 @@
 [
     {
+        "fullstartdate": "202503220700",
+        "date": "20250323",
+        "url": "https://www.bing.com/th?id=OHR.CenoteLilies_EN-US1076301699_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.CenoteLilies_EN-US1076301699",
+        "copyright": "Water lilies at the surface of Cenote Nicte-Ha, Tulum, Mexico (© Franco Banfi/NPL/Minden Pictures)",
+        "copyrightKeyword": "world water day",
+        "hsh": "8685550708252e0ca2ce6a8b2b4ea81b",
+        "description": "March 22 is World Water Day, a United Nations initiative highlighting the importance of fresh water and its conservation. This day raises awareness about the global water crisis and promotes actions to ensure clean water for all. Fresh water is vital—not just for drinking, but for ecosystems, agriculture, and cultural heritage."
+    },
+    {
         "fullstartdate": "202503210700",
         "date": "20250322",
         "url": "https://www.bing.com/th?id=OHR.DanumValley_EN-US1030783251_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.DanumValley_EN-US1030783251",
         "copyright": "Mist over a lowland rainforest, Danum Valley, Sabah, Borneo, Malaysia (© Nick Garbutt/Alamy)",
         "copyrightKeyword": "International Day of Forests",
-        "hsh": "12ce591160b714b60c1afba9ebf6806d",
+        "hsh": "410b118eff9a57705886dd1c8d7f9cfc",
         "description": "March 21 marks the International Day of Forests, a global observance aimed at celebrating the vital role forests play in supporting biodiversity and combating climate change. First established by the United Nations in 2013, this day encourages worldwide efforts, such as tree-planting campaigns, to raise awareness about the importance of forests and trees for future generations."
     },
     {
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ForumRomanum_EN-US9379132630",
         "copyright": "The Temple of Saturn in the Roman Forum, Rome, Italy (© Nico De Pasquale Photography/Getty Images)",
         "copyrightKeyword": "Ides of March",
-        "hsh": "b94c1b1866ea9ec8d59a07fddd2c9b63",
-        "description": "As Shakespeare wrote in his play 'Julius Caesar,' 'Friends, Romans, countrymen, lend me your ears.' Today is the Ides of March, a day steeped in Roman history and tradition. The term 'Ides' referred to the midpoint of the month in the Roman calendar, often marking the full moon. It was a time of celebration, with festivals and public gatherings. However, in 44 BCE, the Ides of March became synonymous with political upheaval, betrayal, and an event that would trigger the fall of the Roman Republic. On that fateful day, Julius Caesar, Rome's powerful dictator, was assassinated by a group of senators. The conspirators, including his close ally Brutus, believed they were saving the Republic from Caesar's growing authority. Caesar was attacked near the Theater of Pompey, but the tension of that moment echoed through the Roman Forum—the beating heart of Rome's political and social life."
-    },
-    {
-        "fullstartdate": "202503140700",
-        "date": "20250315",
-        "url": "https://www.bing.com/th?id=OHR.BasqueDolmen_EN-US9089569057_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BasqueDolmen_EN-US9089569057",
-        "copyright": "Dolmen of Sorginetxe, Basque Country, Álava, Spain (© David Herraez Calzada/plainpicture)",
-        "copyrightKeyword": "pi day",
-        "hsh": "8dfcd62f09fbbeed1b4eeceab8c01177"
+        "hsh": "b94c1b1866ea9ec8d59a07fddd2c9b63"
     }
 ]
