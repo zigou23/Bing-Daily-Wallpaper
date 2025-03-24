@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202503242300",
+        "date": "20250325",
+        "url": "https://www.bing.com/th?id=OHR.AlsterLakeCherry_DE-DE3454488264_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AlsterLakeCherry_DE-DE3454488264",
+        "copyright": "Kirschblüten am Ufer der Alster bei Sonnenuntergang, Hamburg (© Westend61/Getty Images)",
+        "copyrightKeyword": "Alster Hamburg",
+        "hsh": "00bcfa0a96f1b2dc393395906f7aa819",
+        "description": "Ein Spaziergang an der Alster in Hamburg, besonders im Frühjahr zur Zeit der Kirschblüte, ist immer ein besonderes Erlebnis, wie unser heutiges Bild eindrucksvoll zeigt, besonders bei Sonnenuntergang, wenn der Himmel in Rosatöne getaucht ist.  Die Alster, unterteilt in Binnen- und Außenalster, bietet eine beeindruckende Kulisse mitten in Hamburg. Die Binnenalster, die einem See gleicht, ist der Endpunkt eines 56 km langen Flusses, der sich durch die Stadt schlängelt. Seit 1235 am Jungfernstieg aufgestaut, ist sie heute ein beliebter Ort zum Flanieren, Einkaufen und Entspannen."
+    },
+    {
         "fullstartdate": "202503232300",
         "date": "20250324",
         "url": "https://www.bing.com/th?id=OHR.ElephantGrass_DE-DE3541534518_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SedonaSpring_DE-DE6616608162",
         "copyright": "Rote Felsformationen, Sedona, Arizona, USA (© Jim Ekstrand/Alamy)",
         "copyrightKeyword": "Sedona Arizona",
-        "hsh": "1a6608f24585cdfca6aebee7d12b76c3",
-        "description": "Auf dem heutigen Bild ist die faszinierende Landschaft von Sedona im US-Bundesstaat Arizona zu sehen, wo die ikonischen roten Felsen durch ihre Schönheit hervorstechen. Diese Formationen, die über Millionen von Jahren durch Erosion entstanden sind, leuchten sowohl bei Sonnenauf- als auch bei Sonnenuntergang. Sedona ist auch bekannt für seine spirituellen und energetischen Orte, die Menschen anziehen, die auf der Suche nach Ausgeglichenheit und Heilung sind. Ein Ort voller Zauber und Geheimnisse!"
-    },
-    {
-        "fullstartdate": "202503162300",
-        "date": "20250317",
-        "url": "https://www.bing.com/th?id=OHR.BeckettBridge_DE-DE6303850469_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BeckettBridge_DE-DE6303850469",
-        "copyright": "Samuel Beckett Bridge, Dublin, Irland (© Colm Keating/Tandem Stills + Motion)",
-        "copyrightKeyword": "St Patricks Day",
-        "hsh": "892bf8363068ad9f25f378e22b9cfdff"
+        "hsh": "1a6608f24585cdfca6aebee7d12b76c3"
     }
 ]
