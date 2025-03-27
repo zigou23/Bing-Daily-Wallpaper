@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202503272300",
+        "date": "20250328",
+        "url": "https://www.bing.com/th?id=OHR.ReconquestofVigo_ES-ES0266760154_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ReconquestofVigo_ES-ES0266760154",
+        "copyright": "Camiño do Faro de Cíes, Pontevedra, Galicia (© Xurxo Lobato/Getty Images)",
+        "copyrightKeyword": "Reconquista de Vigo",
+        "hsh": "0ebf7549c83e5a28bfabe1d8bb8fb532",
+        "description": "¿Sabías que Vigo fue la primera ciudad de Europa en expulsar a las tropas de Napoleón? El 28 de marzo de 1809, los vigueses, liderados por Pablo Morillo y Bernardo González “Cachamuíña”, lograron recuperar la villa tras un valiente alzamiento popular. Este hecho le valió a Vigo el título de \"ciudad fiel, leal y valerosa\", otorgado por Fernando VII en 1810."
+    },
+    {
         "fullstartdate": "202503262300",
         "date": "20250327",
         "url": "https://www.bing.com/th?id=OHR.OdeonAthens_ES-ES0187817711_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DanumValley_ES-ES9645883299",
         "copyright": "Niebla sobre la selva tropical de tierras bajas, Valle de Danum, Sabah, Borneo, Malasia (© Nick Garbutt/Alamy)",
         "copyrightKeyword": "Día Internacional de los Bosques",
-        "hsh": "e2f2271c450fb704ee60ffb3f19aa071",
-        "description": "El 21 de marzo se celebra el Día Internacional de los Bosques, una fecha clave para recordar el papel esencial de los bosques en la biodiversidad y la lucha contra el cambio climático. Establecido por la ONU en 2013, este día impulsa iniciativas como la plantación de árboles y la conservación de espacios naturales para proteger el futuro del planeta."
-    },
-    {
-        "fullstartdate": "202503192300",
-        "date": "20250320",
-        "url": "https://www.bing.com/th?id=OHR.PrimaveraSpain_ES-ES9088231028_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PrimaveraSpain_ES-ES9088231028",
-        "copyright": "Avutarda común caminando por el prado, Extremadura, España (© Dick Hoogenboom/NiS/Minden Pictures)",
-        "copyrightKeyword": "inicio de la primavera",
-        "hsh": "dd66788fc55299a7c8743476a578b731"
+        "hsh": "e2f2271c450fb704ee60ffb3f19aa071"
     }
 ]
