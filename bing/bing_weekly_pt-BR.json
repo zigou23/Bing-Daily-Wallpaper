@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202504020300",
+        "date": "20250403",
+        "url": "https://www.bing.com/th?id=OHR.CanyonItaimbezinho_PT-BR4970821899_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.CanyonItaimbezinho_PT-BR4970821899",
+        "copyright": "Cânion Itaimbezinho, Rio Grande do Sul, Brasil (© agustavop/iStock/Getty Images Plus)",
+        "copyrightKeyword": "Cânion Itaimbezinho",
+        "hsh": "af051524bd957ace16e56463161f3841",
+        "description": "Um abismo de 700 metros de profundidade, esculpido ao longo de milhões de anos? Este é o Cânion Itaimbezinho, a obra-prima geológica vista aqui, localizada no Parque Nacional de Aparados da Serra, na fronteira entre Rio Grande do Sul e Santa Catarina. Com 5,8 quilômetros de extensão, é um testemunho vivo da força e beleza da Terra."
+    },
+    {
         "fullstartdate": "202504010300",
         "date": "20250402",
         "url": "https://www.bing.com/th?id=OHR.TicanFrog_PT-BR2144380781_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.CrystalManatee_PT-BR6841178872",
         "copyright": "Peixe-boi em Crystal River, Flórida, EUA (© Stephen Frink/Getty Images)",
         "copyrightKeyword": "Dia de Apreciação do Peixe-boi",
-        "hsh": "62b71827adc0672df978a198e1f2733e",
-        "description": "Os peixes-boi levam a vida sem pressa—flutuam suavemente, pastando algas e navegando pelas águas mornas há milhões de anos. Para chamar atenção para sua conservação, a última quarta-feira de março é dedicada a eles no Dia de Apreciação do Peixe-boi."
-    },
-    {
-        "fullstartdate": "202503250300",
-        "date": "20250326",
-        "url": "https://www.bing.com/th?id=OHR.HobbitHole_PT-BR3505721591_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.HobbitHole_PT-BR3505721591",
-        "copyright": "Buraco de Hobbit no set de filmagem de Hobbiton, Waikato, Nova Zelândia (© Kim Petersen/Alamy)",
-        "copyrightKeyword": "Cenário de filmagem Hobbiton",
-        "hsh": "b475d1e05bfd4819835e48592dc1e7e2"
+        "hsh": "62b71827adc0672df978a198e1f2733e"
     }
 ]
