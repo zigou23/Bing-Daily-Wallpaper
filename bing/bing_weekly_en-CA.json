@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202504140400",
+        "date": "20250415",
+        "url": "https://www.bing.com/th?id=OHR.SpottedDolphins_EN-CA9818391981_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SpottedDolphins_EN-CA9818391981",
+        "copyright": "Atlantic spotted dolphins near Santa Maria Island, Azores, Portugal (© Jordi Chias/Minden Pictures)",
+        "copyrightKeyword": "Atlantic spotted dolphins",
+        "hsh": "27e68a6ca714ff9a72605afc61d0398d",
+        "description": "Sleek, social and spotted—the Atlantic spotted dolphin is a standout in the ocean. Found mainly in warm, temperate waters of the Atlantic Ocean, these dolphins are known for their unique spotted patterns, which become more visible as they age."
+    },
+    {
         "fullstartdate": "202504130400",
         "date": "20250414",
         "url": "https://www.bing.com/th?id=OHR.ThailandPagodas_EN-CA9636405561_1920x1080.jpg",
@@ -46,7 +56,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BlueNaxos_EN-CA7494029338",
         "copyright": "Blue hour in Naxos, Cyclades, Greece (© Sizun Eye/Getty Images)",
         "copyrightKeyword": "Naxos Greece",
-        "hsh": "738fd870dcd80596b2136fd989d7af43",
+        "hsh": "e099b459f084afdccf13544fa36b1b80",
         "description": "As daylight fades or just before it emerges, the island of Naxos in Greece takes on an azure glow, immersing itself in the magic of the blue hour. When the sun is positioned well below the horizon, during this brief window, the lingering sunlight casts a deep blue hue across the sky."
     },
     {
@@ -56,7 +66,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LagoaPortugal_EN-CA4589140115",
         "copyright": "Benagil Cave, Algarve, Portugal (© Westend61/Getty Images)",
         "copyrightKeyword": "Algarve Portugal",
-        "hsh": "435a99dda79a6835ffc687f67c638f08",
+        "hsh": "43a3f2da582e05ec4d2780f9730d5469",
         "description": "Tucked along the Algarve coast in Portugal is the Benagil Cave, carved by the relentless power of the sea. Called Algar de Benagil in Portuguese, this sea cave, seen in today's image, draws adventurers, photographers and nature enthusiasts from across the world. With its limestone walls, circular skylight and turquoise waters, its inside looks like a natural cathedral."
     },
     {
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.WhistlerSnowboard_EN-CA9156013019",
         "copyright": "Whistler and Blackcomb mountains, British Columbia (© Pierre Leclerc/Shutterstock)",
         "copyrightKeyword": "Whistler British Columbia",
-        "hsh": "f0ae4b868b7b88c8229c9fa4422bc1f9",
-        "description": "Spring has arrived, but Whistler isn't ready to let go of winter just yet! As the snow-capped Whistler and Blackcomb mountains keep their frosty charm, the annual Whistler World Ski & Snowboard Festival (WSSF) takes centre stage. Packed with jaw-dropping ski stunts, exhilarating snowboard competitions and back-to-back entertainment, the festival is a final hurrah for winter sports before the season melts away."
-    },
-    {
-        "fullstartdate": "202504060400",
-        "date": "20250407",
-        "url": "https://www.bing.com/th?id=OHR.YellowWarbler_EN-CA8652491444_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.YellowWarbler_EN-CA8652491444",
-        "copyright": "Yellow warbler in Canada (© mirceax/Getty Images)",
-        "copyrightKeyword": "Yellow warbler",
-        "hsh": "d16c44da042d945e75ade762c3014610"
+        "hsh": "6d61094b9e58176428ace43b3e343a1f"
     }
 ]
