@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202504150400",
+        "date": "20250416",
+        "url": "https://www.bing.com/th?id=OHR.BeachArt_FR-CA1945523130_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BeachArt_FR-CA1945523130",
+        "copyright": "Beach art sur la plage de Sauveterre par Zarpo, Les Sables-d'Olonne, France (© Hemis/Alamy)",
+        "copyrightKeyword": "Journée mondiale de l'art",
+        "hsh": "22d4f314653d59f9e1c145f23d6013b1",
+        "description": "Et si l’on fêtait la Journée mondiale de l’art les pieds dans le sable? Créée par l'Association internationale de l'art en l'honneur de l'anniversaire de Léonard de Vinci, cette journée promeut la créativité sous toutes ses formes. C’est exactement ce qu’a fait Zarpo sur la plage française de Sauveterre, en Vendée. Il a sculpté une œuvre gigantesque, jouant avec les courbes et les motifs naturels pour offrir un spectacle inoubliable."
+    },
+    {
         "fullstartdate": "202504140400",
         "date": "20250415",
         "url": "https://www.bing.com/th?id=OHR.SpottedDolphins_FR-CA1398136066_1920x1080.jpg",
@@ -56,7 +66,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BlueNaxos_FR-CA7619118944",
         "copyright": "Heure bleue à Naxos, Cyclades, Grèce (© Sizun Eye/Getty Images)",
         "copyrightKeyword": "Naxos Cyclades",
-        "hsh": "c9ef6632d6aab36051f4f06006be2bfb",
+        "hsh": "8df674baa2aa17f912d810f6ce21bca4",
         "description": "Il y a des instants hors du temps. À Naxos, île grecque au cœur de la mer Égée, l’heure bleue en est un. Quand le soleil disparaît à l’horizon, l’île se fond dans un éclat d’azur profond, comme un rêve éveillé. Mais la magie de Naxos ne s’arrête pas là. C’est une île généreuse et vibrante."
     },
     {
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LagoaPortugal_FR-CA7999010922",
         "copyright": "Grotte de Benagil, Algarve, Portugal (© Westend61/Getty Images)",
         "copyrightKeyword": "Algarve Portugal",
-        "hsh": "9c42b9050818e0ae449b522662de2185",
-        "description": "Creusée par les vagues dans les falaises dorées de l’Algarve, au sud du Portugal, la grotte de Benagil semble tout droit sortie d’un décor de cinéma. Accessible uniquement par la mer, cette cavité spectaculaire attire les voyageurs en quête de paysages insolites et de lumière naturelle."
-    },
-    {
-        "fullstartdate": "202504070400",
-        "date": "20250408",
-        "url": "https://www.bing.com/th?id=OHR.WhistlerSnowboard_FR-CA2302818424_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WhistlerSnowboard_FR-CA2302818424",
-        "copyright": "Montagnes de Whistler et de Blackcomb, Colombie-Britannique (© Pierre Leclerc/Shutterstock)",
-        "copyrightKeyword": "whistler colombie britannique",
-        "hsh": "704425b95b3060fa3222e916ac226bef"
+        "hsh": "ce422749103068adfe9cac646bf58084"
     }
 ]
