@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202504202200",
+        "date": "20250421",
+        "url": "https://www.bing.com/th?id=OHR.JoshuaStars_DE-DE4771713346_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.JoshuaStars_DE-DE4771713346",
+        "copyright": "Josuabäume unter der Milchstraße, Kalifornien, USA (© Chao Zhang/Getty Images)",
+        "copyrightKeyword": "Internationale Woche des dunklen Himmels",
+        "hsh": "b02ea6622c9b0d9739cf022d4516afbf",
+        "description": "Stellen Sie sich vor, Sie blicken in einen tiefdunklen Himmel, an dem die Sterne der Milchstraße magisch funkeln und uns den Weg weisen. Ein solches Erlebnis bietet der Joshua-Tree-Nationalpark in Kalifornien, der auf unserem heutigen Bild zu sehen ist. Als International Dark Sky Park ermöglicht er Besuchern durch das Fehlen künstlichen Lichts, den Nachthimmel so zu erleben, wie ihn unsere Vorfahren einst sahen. Lichtverschmutzung beeinträchtigt jedoch nicht nur die Sicht auf die Sterne, sondern wirkt sich auch negativ auf die Tierwelt, Ökosysteme und unsere Gesundheit aus. Deshalb wird jedes Jahr in der Neumondwoche im April die Internationale Woche des dunklen Himmels begangen, die dazu aufruft, die natürliche Nacht zu schätzen und das Bewusstsein für Lichtverschmutzung zu stärken."
+    },
+    {
         "fullstartdate": "202504192200",
         "date": "20250420",
         "url": "https://www.bing.com/th?id=OHR.EastereggsTree_DE-DE3677882321_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SpottedDolphins_DE-DE3167683290",
         "copyright": "Zügeldelfine in der Nähe der Insel Santa Maria, Azoren, Portugal (© Jordi Chias/Minden Pictures)",
         "copyrightKeyword": "Zügeldelfine",
-        "hsh": "eb003ccbb72c049adeefc6404651d344",
-        "description": "Die Delfine sind faszinierende und hochintelligente Kreaturen, die in den Ozeanen und einigen Flüssen der Welt leben. Diese Meeressäugetiere sind bekannt für ihr soziales Verhalten und ihre Fähigkeit, sich durch eine Vielzahl von Geräuschen und Gesten zu verständigen. Die Gruppen von Delfinen werden Schulen genannt und können in der Größe von wenigen Individuen bis zu mehreren Hundert variieren. Eine der kleinsten Delfinarten ist der Hector-Delfin, der in den Küstengewässern Neuseelands vorkommt. Diese Delfine erreichen eine Länge von etwa 1,5 Metern und sind bekannt für ihr charakteristisches Farbmuster."
-    },
-    {
-        "fullstartdate": "202504122200",
-        "date": "20250413",
-        "url": "https://www.bing.com/th?id=OHR.ThailandPagodas_DE-DE3455777825_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ThailandPagodas_DE-DE3455777825",
-        "copyright": "Wat Tang Sai Temple in Ban Krut, Thailand (© Ratnakorn Piyasirisorost/Getty Images)",
-        "copyrightKeyword": "Songkran",
-        "hsh": "7fd11f0f1eed3835f9cc296f3c9b93c3"
+        "hsh": "eb003ccbb72c049adeefc6404651d344"
     }
 ]
