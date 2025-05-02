@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202505022200",
+        "date": "20250503",
+        "url": "https://www.bing.com/th?id=OHR.ArchesGalaxy_IT-IT2041220241_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ArchesGalaxy_IT-IT2041220241",
+        "copyright": "La Via Lattea incorniciata dal Double Arch nel Parco Nazionale degli Arches, Utah, USA (© Adventure_Photo/Getty Images)",
+        "copyrightKeyword": "Astronomia",
+        "hsh": "87b4bf89e956fc025035ec5d84355229",
+        "description": "Oggi il cosmo si rivela in tutta la sua meraviglia: possiamo ammirare la Via Lattea attraverso l'Arco naturale del Parco Nazionale degli Arches, nello Utah, negli Stati Uniti. Vi siete mai chiesti come appaiono gli anelli di Saturno attraverso un telescopio? O come gli astronomi riescano a individuare galassie lontane? La \"Giornata Internazionale dell'Astronomia\" è l'occasione perfetta per scoprirlo! Nata nel 1973, questa manifestazione annuale ha l'obiettivo di avvicinare l'astronomia al grande pubblico. Dai parchi ai club di astronomia, passando per musei e osservatori, potrete partecipare a numerose attività, come osservazioni al telescopio, conferenze sullo spazio e persino simulazioni della gravità lunare."
+    },
+    {
         "fullstartdate": "202505012200",
         "date": "20250502",
         "url": "https://www.bing.com/th?id=OHR.BrazilHeron_IT-IT7849076526_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BrucePeninsula_IT-IT1903425741",
         "copyright": "Indian Head Cove, Parco Nazionale della Penisola di Bruce, Canada (© Maurice Prokaziuk/Getty Images)",
         "copyrightKeyword": "Parco Nazionale della Penisola di Bruce Canada",
-        "hsh": "9429a91d708fb070b4fe343bfbcb5893",
-        "description": "Scolpito dal tempo e dall'acqua, il Bruce Peninsula National Park tutela un magnifico tratto della Niagara Escarpment, in Ontario, Canada. Istituito nel 1987, il parco conserva un paesaggio fatto di scogliere di calcare imponenti, grotte nascoste, fitte foreste e coste incontaminate. In quanto parte di una Riserva della Biosfera UNESCO, il parco è un rifugio per specie adattate al suo terreno aspro, come gli orsi neri, i serpenti a sonagli Massasauga e i cervi dalla coda bianca."
-    },
-    {
-        "fullstartdate": "202504242200",
-        "date": "20250425",
-        "url": "https://www.bing.com/th?id=OHR.MagellanicPenguin_IT-IT1778784018_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MagellanicPenguin_IT-IT1778784018",
-        "copyright": "Pinguini di Magellano, Volunteer Point, Isole Falkland (© imageBROKER/Matthias Graben/Getty Images)",
-        "copyrightKeyword": "Pinguini",
-        "hsh": "5b9eab23200114cd0292a7677b0c76fc"
+        "hsh": "9429a91d708fb070b4fe343bfbcb5893"
     }
 ]
