@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202505042200",
+        "date": "20250505",
+        "url": "https://www.bing.com/th?id=OHR.FlyoverNamibia_ES-ES6293940191_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FlyoverNamibia_ES-ES6293940191",
+        "copyright": "Un avión ultraligero volando sobre las arenas de Namibia (© Burt Johnson/Alamy)",
+        "copyrightKeyword": "Avión ultraligero",
+        "hsh": "0e0293fff77b32cd4070912c6ad57683",
+        "description": "Imagina sobrevolar el desierto más antiguo del mundo en una aeronave ligera, con el viento acariciando tu rostro y vistas que quitan el aliento. Bajo tus pies, el desierto del Namib —en Namibia— se extiende hasta donde alcanza la vista, modelado por el viento durante más de 55 millones de años."
+    },
+    {
         "fullstartdate": "202505032200",
         "date": "20250504",
         "url": "https://www.bing.com/th?id=OHR.SevilleNaboo_ES-ES5034292868_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.OrangeImpala_ES-ES9655514798",
         "copyright": "Impala en la Reserva de Moremi, Botsuana (© Paul Souders/Getty Images)",
         "copyrightKeyword": "Impala mamífero",
-        "hsh": "c41f6d10efed9403e4149702791321a0",
-        "description": "Enclavada en el corazón del delta del Okavango, la reserva de caza Moremi es una de las joyas naturales más impresionantes de África. Con cerca de 5.000 km² de paisajes vírgenes, es el primer santuario de vida silvestre creado por una comunidad local en Botsuana. Entre su fauna más icónica se encuentra el impala, un elegante antílope que simboliza la agilidad y la supervivencia en la sabana."
-    },
-    {
-        "fullstartdate": "202504262200",
-        "date": "20250427",
-        "url": "https://www.bing.com/th?id=OHR.Castildetierra_ES-ES9629386205_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.Castildetierra_ES-ES9629386205",
-        "copyright": "El Castildetierra en las Bardenas Reales de Navarra, España (© Eloi_Omella/Getty Images)",
-        "copyrightKeyword": "Bardenas Reales Navarra",
-        "hsh": "e1a7fded2220a49dd47271c28423be93"
+        "hsh": "c41f6d10efed9403e4149702791321a0"
     }
 ]
