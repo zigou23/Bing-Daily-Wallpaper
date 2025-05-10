@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202505100300",
+        "date": "20250511",
+        "url": "https://www.bing.com/th?id=OHR.MinnesotaRotunda_PT-BR2639700452_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MinnesotaRotunda_PT-BR2639700452",
+        "copyright": "Capitólio do Estado de Minnesota, St. Paul, Minnesota, EUA (© lavin photography/Getty Images)",
+        "copyrightKeyword": "Capitólio do Estado de Minnesota",
+        "hsh": "15288022da41852eb0434ae66d31c652",
+        "description": "Estamos no coração de um prédio que mistura história e beleza: o Capitólio de Minnesota, nos Estados Unidos, visto na imagem de hoje, é simplesmente deslumbrante! Com sua cúpula inspirada na Basílica de São Pedro, em Roma, é a segunda maior cúpula de mármore autoportante do mundo. O edifício abriga o Senado, a Câmara dos Representantes e o Supremo Tribunal de Minnesota, além de ser o escritório do governador e da procuradoria. Projetado pelo arquiteto Cass Gilbert, mistura estilos clássicos e materiais modernos como vidro e aço, criando uma arquitetura única e imponente."
+    },
+    {
         "fullstartdate": "202505090300",
         "date": "20250510",
         "url": "https://www.bing.com/th?id=OHR.FumacinhaBahia_PT-BR0440078650_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ArchesGalaxy_PT-BR5466273548",
         "copyright": "Via Láctea emoldurada pelo Arco Duplo no Parque Nacional dos Arcos, Utah, EUA (© Adventure_Photo/Getty Images)",
         "copyrightKeyword": "Parque Nacional dos Arcos",
-        "hsh": "ba1a2aed830f71c14ace72cd22e945ae",
-        "description": "O Parque Nacional dos Arcos, localizado no estado de Utah, Estados Unidos, é famoso por sua impressionante concentração de arcos naturais de arenito, incluindo o majestoso Arco Duplo. Esta formação natural é uma das mais icônicas do parque, com duas enormes aberturas que criam uma vista espetacular do céu e das estrelas, como vemos em nossa imagem do dia. O parque possui uma superfície de 310 quilômetros quadrados, e o ponto de elevação máxima é de 1.723 metros. A beleza das formações rochosas e as paisagens deslumbrantes tornam o parque um destino imperdível para os amantes da natureza."
-    },
-    {
-        "fullstartdate": "202505020300",
-        "date": "20250503",
-        "url": "https://www.bing.com/th?id=OHR.BrazilHeron_PT-BR4897621554_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BrazilHeron_PT-BR4897621554",
-        "copyright": "Socozinho sobre uma vitória-régia, Pantanal (© Gerald Corsi/Getty Images)",
-        "copyrightKeyword": "socozinho",
-        "hsh": "c28557a7aaa79835a87068ae8800ce29"
+        "hsh": "ba1a2aed830f71c14ace72cd22e945ae"
     }
 ]
