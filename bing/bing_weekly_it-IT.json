@@ -1,12 +1,22 @@
 [
     {
+        "fullstartdate": "202505132200",
+        "date": "20250514",
+        "url": "https://www.bing.com/th?id=OHR.SardiniaFlavia_IT-IT8830916850_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SardiniaFlavia_IT-IT8830916850",
+        "copyright": "Porto Flavia, Iglesias, Sardegna (© Marco Bottigelli/Getty Images)",
+        "copyrightKeyword": "Porto Flavia",
+        "hsh": "e733e194e8d68c19d5e8ffa0f277f75f",
+        "description": "C'è un luogo in Sardegna dove la roccia si modella all'ingegno umano e il mare racconta le storie delle miniere e della fatica: Porto Flavia, una porta scolpita nella pietra che unisce natura selvaggia e innovazione. Situato nella regione del Sulcis-Iglesiente, questo capolavoro di ingegneria ha trasformato una scogliera calcarea in un passaggio verso il mondo, rivoluzionando l'industria mineraria dell'isola. L'attività mineraria in questa regione risale a migliaia di anni fa, dai Fenici ai Romani fino all’epoca industriale del XX secolo. Piombo, zinco, carbone, zolfo e argento venivano estratti da queste colline, ma il loro trasporto era un'impresa ardua: il minerale doveva essere caricato su carretti e barche prima di raggiungere le grandi navi."
+    },
+    {
         "fullstartdate": "202505122200",
         "date": "20250513",
         "url": "https://www.bing.com/th?id=OHR.TorresChile_IT-IT3039649288_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.TorresChile_IT-IT3039649288",
         "copyright": "Parco Nazionale Torres del Paine, Patagonia, Cile (© Marco Bottigelli/Getty Images)",
         "copyrightKeyword": "Parco Nazionale Torres del Paine Cile ",
-        "hsh": "cfc8a86ba9e56e0a194be8187d46ec90",
+        "hsh": "7660e0821ac1f722810099b10bf212d9",
         "description": "In Cile c'è un luogo in cui la natura sembra scolpita dal tempo stesso: un paradiso selvaggio di vette maestose e antichi ghiacciai, testimoni di storie millenarie. Si tratta del Parco Nazionale Torres del Paine, che oggi festeggia 66 anni dalla sua istituzione; eppure, con quelle cime granitiche e quei paesaggi senza tempo, sembra decisamente più antico e saggio di quanto l'anagrafe suggerisca! Originariamente istituito nel 1959 con il nome di \"Parque nacional de Turismo Lago Grey\", il parco fu ribattezzato \"Parque nacional Torres del Paine\" nel 1961 e dichiarato Riserva della Biosfera UNESCO nel 1978. La sua caratteristica più riconoscibile sono le tre massicce cime granitiche note come Torres, che si ergono a oltre 2.300 metri."
     },
     {
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DunluceIreland_IT-IT8360348588",
         "copyright": "Castello di Dunluce, Contea di Antrim, Irlanda del Nord (© DieterMeyrl/Getty Images)",
         "copyrightKeyword": "Il Castello di Dunluce",
-        "hsh": "57e80e7a9ce071e0530a1d20598a0832",
-        "description": "Se il castello di Dunluce, mostrato qui, sembra emergere dai racconti di “Game of Thrones”, è perché ha ispirato la dimora di Pyke, sede della Casa Greyjoy. Costruito nel XIII secolo, questo maestoso castello, situato nella contea di Antrim, in Irlanda del Nord, fu baluardo dei MacDonnell di Antrim, protagonisti della storia irlandese tra il XV e il XVII secolo. Dopo il declino della famiglia, a seguito della Battaglia del Boyne nel 1690, e il passare inesorabile del tempo, il castello fu progressivamente abbandonato, lasciato al suo destino di rovina. Oggi, tra mura battute dal vento e sussurri del passato, i visitatori possono lasciarsi trasportare dalla fantasia, immaginando festeggiamenti medievali e combattimenti epici."
-    },
-    {
-        "fullstartdate": "202505052200",
-        "date": "20250506",
-        "url": "https://www.bing.com/th?id=OHR.FlyoverNamibia_IT-IT8197478549_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FlyoverNamibia_IT-IT8197478549",
-        "copyright": "Aereo ultraleggero in volo sulle sabbie della Namibia (© Burt Johnson/Alamy Stock Photo)",
-        "copyrightKeyword": "Ultraleggero",
-        "hsh": "4158c38b5c66f517b9ffe5bbedf8291f"
+        "hsh": "57e80e7a9ce071e0530a1d20598a0832"
     }
 ]
