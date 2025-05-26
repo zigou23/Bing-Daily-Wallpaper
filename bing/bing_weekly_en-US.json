@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202505260700",
+        "date": "20250527",
+        "url": "https://www.bing.com/th?id=OHR.ArlingtonSunrise_EN-US4503302075_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ArlingtonSunrise_EN-US4503302075",
+        "copyright": "Arlington National Cemetery in Virginia (© Dennis Govoni/Getty Images)",
+        "copyrightKeyword": "Memorial Day",
+        "hsh": "1a1aff22d72320900862e756448b66f1",
+        "description": "Today we're honoring Americans who gave their lives in military service. Originally known as Decoration Day, the tradition began in the late 1860s after the American Civil War. Communities held springtime tributes by decorating the graves of fallen Union soldiers with flowers. Over time, it expanded to commemorate all US military personnel who died in wars. Locals observe the day with ceremonies and parades across the country."
+    },
+    {
         "fullstartdate": "202505250700",
         "date": "20250526",
         "url": "https://www.bing.com/th?id=OHR.ButchartFlowers_EN-US3361647368_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MountHamilton_EN-US3808058743",
         "copyright": "Mount Hamilton, near San Jose, California (© Jeffrey Lewis/TANDEM Stills + Motion)",
         "copyrightKeyword": "Mount Hamilton Bay Area",
-        "hsh": "ced1dd0040dbb2c4925e0ad4a23ed37c",
-        "description": "Drive up Mount Hamilton just east of San Jose, California, and immerse yourself in stunning views and rich history. The 19-mile Mount Hamilton Road is loved by cyclists and motorcyclists for its long climbs and sparse traffic. Built in 1875-76, the road was designed to transport materials to the Lick Observatory, the world's first permanently occupied mountaintop observatory. On a clear day, you can see as far as Yosemite National Park or the Sierra Nevada from the 4,265-foot summit."
-    },
-    {
-        "fullstartdate": "202505180700",
-        "date": "20250519",
-        "url": "https://www.bing.com/th?id=OHR.DufyRoom_EN-US3759763345_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DufyRoom_EN-US3759763345",
-        "copyright": "'The Spirit of Electricity' by Raoul Dufy, Museum of Modern Art, Paris, France (© BERTRAND GUAY/AFP via Getty Images)",
-        "copyrightKeyword": "International Museum Day",
-        "hsh": "6f453dde536ef515de0a3e5895703847"
+        "hsh": "ced1dd0040dbb2c4925e0ad4a23ed37c"
     }
 ]

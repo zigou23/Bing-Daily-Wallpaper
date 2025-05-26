@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202505260400",
+        "date": "20250527",
+        "url": "https://www.bing.com/th?id=OHR.MountHamilton_EN-CA6570980527_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MountHamilton_EN-CA6570980527",
+        "copyright": "Mount Hamilton, San Francisco Bay Area, California, United States (© Jeffrey Lewis/TANDEM Stills + Motion)",
+        "copyrightKeyword": "Mount Hamilton Bay Area",
+        "hsh": "ed7ef2ea392da8201c391ed8f11148bb",
+        "description": "Drive up Mount Hamilton in the Bay Area, California, United States, and immerse yourself in stunning views and rich history. The 31-kilometre Mount Hamilton Road is part of State Route 130. It is loved by cyclists and motorcyclists for its long climbs and sparse traffic. The road, built in 1875-76, was designed to transport materials to the Lick Observatory, the world's first permanently occupied mountaintop observatory. At the summit, standing at 1,300 metres, you can see as far as Yosemite National Park or the Sierra Nevada on a clear day."
+    },
+    {
         "fullstartdate": "202505250400",
         "date": "20250526",
         "url": "https://www.bing.com/th?id=OHR.ButchartFlowers_EN-CA3906895004_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.Victoria25Day_EN-CA7366662879",
         "copyright": "British Columbia Parliament Buildings (© bluejayphoto/Getty Images)",
         "copyrightKeyword": "Victoria Day",
-        "hsh": "dcf4c93739c52ea238da91623049f919",
-        "description": "Every May, Canadians roll out the red carpet and prep the fireworks for a queen who never set foot here. Victoria Day marks Queen Victoria's birthday—24 May—and has been observed since 1845, celebrated on the Monday preceding that date. Officially recognised as a holiday in the mid-19th century, it's a nod to the country's colonial roots and a reminder of the queen's lasting influence. It's more than just a long weekend; for many, it marks the unofficial start of summer, with parades, picnics and festivities across the country, particularly in British Columbia."
-    },
-    {
-        "fullstartdate": "202505180400",
-        "date": "20250519",
-        "url": "https://www.bing.com/th?id=OHR.DufyRoom_EN-CA3157009683_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DufyRoom_EN-CA3157009683",
-        "copyright": "'The Spirit of Electricity' by Raoul Dufy, Museum of Modern Art, Paris, France (© BERTRAND GUAY/AFP via Getty Images)",
-        "copyrightKeyword": "International Museum Day",
-        "hsh": "d410708ac8485a508ac1e454d4a3b015"
+        "hsh": "dcf4c93739c52ea238da91623049f919"
     }
 ]
