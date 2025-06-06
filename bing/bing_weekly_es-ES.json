@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202506062200",
+        "date": "20250607",
+        "url": "https://www.bing.com/th?id=OHR.PacificCrestTrail_ES-ES3148246580_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PacificCrestTrail_ES-ES3148246580",
+        "copyright": "Montaña Pine, Bosque nacional de Ángeles, California, EE. UU. (© Matthew Kuhns/TANDEM Stills + Motion)",
+        "copyrightKeyword": "Bosque nacional de Ángeles, California",
+        "hsh": "56cf0a84282984fb33e8280285558c37",
+        "description": "Hoy recorremos los caminos del Bosque Nacional de Los Ángeles, en California, Estados Unidos. Este imponente bosque, hogar de majestuosos pinos y crestas escarpadas, alberga un tramo del legendario Sendero de la Cresta del Pacífico. Con más de 4.200 kilómetros que van desde México hasta Canadá, el Sendero de la Cresta del Pacífico es un sueño para los amantes del senderismo, comparable al Camino de Santiago en España por su trascendencia y belleza. Designado Sendero Escénico Nacional en 1968, atraviesa siete parques nacionales y 25 bosques nacionales, ofreciendo paisajes dramáticos del oeste estadounidense."
+    },
+    {
         "fullstartdate": "202506052200",
         "date": "20250606",
         "url": "https://www.bing.com/th?id=OHR.NormandyBeach_ES-ES2863292551_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SwedenReserve_ES-ES5600233708",
         "copyright": "Reserva natural de Knuthöjdsmossen, Suecia (© Sven Halling/DEEPOL/plainpicture)",
         "copyrightKeyword": "Suecia",
-        "hsh": "cb44e0dcbd70079e0071da4b7bde245b",
-        "description": "Descubre la reserva natural de Knuthöjdsmossen, un paraíso escondido en el oeste de Suecia, cerca de la ciudad de Hällefors. Este espacio protegido de casi 100 hectáreas combina marismas, lagunas y dunas de arena, creando un paisaje único ideal para desconectar y disfrutar de la tranquilidad. Un circuito de pasarelas —parcialmente accesible para sillas de ruedas y cochecitos— permite recorrerlo con facilidad."
-    },
-    {
-        "fullstartdate": "202505292200",
-        "date": "20250530",
-        "url": "https://www.bing.com/th?id=OHR.CanaryIslandDay_ES-ES5813844536_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.CanaryIslandDay_ES-ES5813844536",
-        "copyright": "Atardecer en el Parque Nacional del Teide, Santa Cruz de Tenerife, España (© DiegoJose/Adobe Stock)",
-        "copyrightKeyword": "Día de Canarias",
-        "hsh": "2ae08f2a3f94d8f2dd16aded05f60860"
+        "hsh": "cb44e0dcbd70079e0071da4b7bde245b"
     }
 ]

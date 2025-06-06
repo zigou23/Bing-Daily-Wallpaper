@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202506060400",
+        "date": "20250607",
+        "url": "https://www.bing.com/th?id=OHR.NormandyBeach_EN-CA8706608973_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.NormandyBeach_EN-CA8706608973",
+        "copyright": "Arromanches-les-Bains in Normandy, France (© Horia Merla/Getty Images)",
+        "copyrightKeyword": "Normandy landings",
+        "hsh": "56ce2f84fda19283e8ccb234a31f84a1",
+        "description": "Today, on the anniversary of D-Day, we reflect on one of the most defining moments in modern history. On June 6, 1944, over 156,000 Allied troops landed on the beaches of Normandy, France, launching Operation Overlord, also known as D-Day. This complex assault, involving coordinated air, sea and land forces, marked the beginning of the campaign to liberate Western Europe from Nazi control."
+    },
+    {
         "fullstartdate": "202506050400",
         "date": "20250606",
         "url": "https://www.bing.com/th?id=OHR.OlivaresMural_EN-CA8344718178_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LittlePigeonRiver_EN-CA7466568191",
         "copyright": "Little Pigeon River, Great Smoky Mountains National Park, Tennessee, United States (© GreenStock/Getty Images)",
         "copyrightKeyword": "Little Pigeon River",
-        "hsh": "8e0bbc3dde13187ca14a0538b6bacf0c",
-        "description": "Blink and you miss it—until you hear it. The steady ripple, the splash of trout, the distant laughter of hikers. That's the Little Pigeon River, threading its way through the Great Smoky Mountains National Park in Tennessee, United States. Long before tourists tubed it and fly fishers praised it, this river was how people stayed afloat. The Cherokee tribe fished in it. Settlers built grist mills along it. Towns like Gatlinburg and Pigeon Forge grew up with it. Even the river's name is a nod to the past—the passenger pigeon, once common in the area, vanished by the early 1900s."
-    },
-    {
-        "fullstartdate": "202505290400",
-        "date": "20250530",
-        "url": "https://www.bing.com/th?id=OHR.MiravetSpain_EN-CA7106086168_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MiravetSpain_EN-CA7106086168",
-        "copyright": "Miravet on the Ebro river, Tarragona, Catalonia, Spain (© Eloi_Omella/Getty Images)",
-        "copyrightKeyword": "Miravet Spain",
-        "hsh": "ca82a9b4ca155de2762050f1308f2362"
+        "hsh": "8e0bbc3dde13187ca14a0538b6bacf0c"
     }
 ]
