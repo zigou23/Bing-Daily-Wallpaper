@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202506072200",
+        "date": "20250608",
+        "url": "https://www.bing.com/th?id=OHR.StellarSeaLions_FR-FR2842179483_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.StellarSeaLions_FR-FR2842179483",
+        "copyright": "Lions de mer de Steller, île de Vancouver, Colombie-Britannique, Canada (© Steve Woods Photography/Getty Images)",
+        "copyrightKeyword": "Journée mondiale de l'océan",
+        "hsh": "46453480612efd87e6fde1815331b771",
+        "description": "Dans les eaux froides de la Colombie-Britannique canadienne, une colonie de lions de mer de Steller glisse entre les algues et les rochers. Les mâles peuvent peser jusqu’à 550 kg et défendent leur territoire par des rugissements sourds. Les femelles, plus petites, reconnaissent leur petit grâce à des appels uniques. Malgré leur taille, ces animaux restent vulnérables : orques, grands requins et pression humaine pèsent sur leur survie. Leur statut est aujourd’hui quasi menacé."
+    },
+    {
         "fullstartdate": "202506062200",
         "date": "20250607",
         "url": "https://www.bing.com/th?id=OHR.NuitBlancheParis_FR-FR2686890778_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.GrandeTerreReef_FR-FR5223115069",
         "copyright": "Récif barrière au large de la Grande Terre, Nouvelle-Calédonie (© Karsten Wrobel/Getty Images)",
         "copyrightKeyword": "récifs coralliens",
-        "hsh": "3db306ad22dc19b8cad4a37d1897339a",
-        "description": "Au large de Grande Terre, l’île principale de Nouvelle-Calédonie, s’étire l’un des plus longs récifs barrières continus du monde. Sur environ 1 500 kilomètres, il encercle un lagon turquoise de 24 000 km², classé au patrimoine mondial de l’UNESCO. Tortues vertes, dugongs, poissons tropicaux, baleines à bosse : plus de 2 300 espèces marines y trouvent refuge."
-    },
-    {
-        "fullstartdate": "202505302200",
-        "date": "20250531",
-        "url": "https://www.bing.com/th?id=OHR.SwedenReserve_FR-FR4947459912_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SwedenReserve_FR-FR4947459912",
-        "copyright": "Réserve naturelle de Knuthöjdsmossen, Suède (© Sven Halling/DEEPOL/plainpicture)",
-        "copyrightKeyword": "hällefors suède",
-        "hsh": "6a3da6b161bdf47712110b82ba3f5839"
+        "hsh": "3db306ad22dc19b8cad4a37d1897339a"
     }
 ]
