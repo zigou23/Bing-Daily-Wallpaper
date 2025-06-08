@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202506082300",
+        "date": "20250609",
+        "url": "https://www.bing.com/th?id=OHR.DubrovnikTwilight_EN-GB2328954017_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.DubrovnikTwilight_EN-GB2328954017",
+        "copyright": "Old City of Dubrovnik in Dalmatia, Croatia (© bluejayphoto/Getty Images)",
+        "copyrightKeyword": "Dubrovnik",
+        "hsh": "9643908389fe6b2fe50ef477fd57fec1",
+        "description": "There is something mesmerising about cities that wear their history on their sleeves—and Dubrovnik, Croatia, is one of them. Once known as the independent Republic of Ragusa, this city was a major maritime power and trading hub from the 14th to the 19th century. Situated in southern Dalmatia along the Adriatic Sea, its success was built on diplomacy and seafaring. The Walls of Dubrovnik, built between the 13th and 17th centuries, stretch for over 1.2 miles, with towers, forts and bastions still standing strong. The current layout of the walls follows a city plan from 1292, when Dubrovnik was rebuilt after a fire under Venetian rule."
+    },
+    {
         "fullstartdate": "202506072300",
         "date": "20250608",
         "url": "https://www.bing.com/th?id=OHR.StellarSeaLions_EN-GB2192736311_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.EchinaceaButterfly_EN-GB1446569270",
         "copyright": "Skipper butterfly on an Echinacea flower, Rockefeller State Park, New York, United States (© Marianne A. Campolongo/Alamy Stock Photo)",
         "copyrightKeyword": "Skipper butterfly",
-        "hsh": "33c23b2bdbe0ac26e5e8d1261ac29aec",
-        "description": "When it comes to fast flyers with a flair for flowers, the skipper butterfly makes quite the landing. These pint-sized pollinators are easy to miss—until you spot one zipping through your garden as if it's late for an appointment. Catch one pausing on an Echinacea flower—like the one photographed at the Rockefeller State Park in New York, United States—and you've hit the jackpot. Skippers aren't your average butterflies. Technically part of the superfamily Papilionoidea, they're often mistaken for moths thanks to their stout bodies and erratic flight patterns. But unlike moths, they're active by day, have clubbed antennae with a hook at the end and wings they usually hold at quirky angles. Their name? It comes from their quick, darting flight."
-    },
-    {
-        "fullstartdate": "202505312300",
-        "date": "20250601",
-        "url": "https://www.bing.com/th?id=OHR.GrandeTerreReef_EN-GB1338968705_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.GrandeTerreReef_EN-GB1338968705",
-        "copyright": "Barrier reef off Grande Terre, New Caledonia, France (© Karsten Wrobel/Getty Images)",
-        "copyrightKeyword": "World Reef Awareness Day",
-        "hsh": "adb8c34ed59e0e7605df9074b72e063e"
+        "hsh": "33c23b2bdbe0ac26e5e8d1261ac29aec"
     }
 ]

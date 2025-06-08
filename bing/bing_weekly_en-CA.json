@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202506080400",
+        "date": "20250609",
+        "url": "https://www.bing.com/th?id=OHR.StellarSeaLions_EN-CA9034182046_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.StellarSeaLions_EN-CA9034182046",
+        "copyright": "Steller sea lions, Vancouver Island, British Columbia (© Steve Woods Photography/Getty Images)",
+        "copyrightKeyword": "World Oceans Day",
+        "hsh": "07a68f18de63b4393ad4581d91dedec0",
+        "description": "You can't talk about life on Earth without talking about the ocean. This year, World Oceans Day is being celebrated in Nice, France, just ahead of the UN Ocean Conference starting tomorrow. Officially recognised by the United Nations since 2008, it began as an idea at the 1992 Global Forum, a parallel event at the United Nations Conference on Environment and Development. This year's theme is 'WONDER: Sustaining What Sustains Us.' It highlights how the ocean supports life as we know it—influencing weather, food chains and economies."
+    },
+    {
         "fullstartdate": "202506070400",
         "date": "20250608",
         "url": "https://www.bing.com/th?id=OHR.PacificCrestTrail_EN-CA3756267540_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.GrandeTerreReef_EN-CA7723959953",
         "copyright": "Barrier reef off Grande Terre, New Caledonia, France (© Karsten Wrobel/Getty Images)",
         "copyrightKeyword": "World Reef Awareness Day",
-        "hsh": "74550605c463ac7d5893aa90a9e90edc",
-        "description": "'Life under the sea is better than anything they got up there,' Sebastian the crab once told Ariel. But are we doing enough to protect that underwater world? On June 1, we celebrate World Reef Awareness Day, a time to recognise the beauty—and fragility—of coral reef ecosystems. One magnificent example is the New Caledonian barrier reef, which wraps around Grande Terre, New Caledonia's largest island. At over 1,400 kilometres long, it's the longest continuous barrier reef in the world."
-    },
-    {
-        "fullstartdate": "202505310400",
-        "date": "20250601",
-        "url": "https://www.bing.com/th?id=OHR.SwedenReserve_EN-CA7601065601_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SwedenReserve_EN-CA7601065601",
-        "copyright": "Knuthöjdsmossen nature reserve, Sweden (© Sven Halling/DEEPOL/plainpicture)",
-        "copyrightKeyword": "Knuthojdsmossen Sweden",
-        "hsh": "b2d3bc1cd22d5e458ca597d5225b801c"
+        "hsh": "74550605c463ac7d5893aa90a9e90edc"
     }
 ]
