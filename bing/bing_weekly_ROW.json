@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202506090700",
+        "date": "20250610",
+        "url": "https://www.bing.com/th?id=OHR.DubrovnikTwilight_ROW1786568218_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.DubrovnikTwilight_ROW1786568218",
+        "copyright": "Old City of Dubrovnik in Dalmatia, Croatia (© bluejayphoto/Getty Images)",
+        "copyrightKeyword": "Dubrovnik",
+        "hsh": "400fa4d76ac60f12ecf2eb526f5b7039",
+        "description": "There is something mesmerising about cities that wear their history on their sleeves—and Dubrovnik, Croatia, is one of them. Once known as the independent Republic of Ragusa, this city was a major maritime power and trading hub from the 14th to the 19th century. Situated in southern Dalmatia along the Adriatic Sea, its success was built on diplomacy and seafaring. The Walls of Dubrovnik, built between the 13th and 17th centuries, stretch for almost 2 kilometres, with towers, forts and bastions still standing strong. The current layout of the walls follows a city plan from 1292, when Dubrovnik was rebuilt after a fire under Venetian rule."
+    },
+    {
         "fullstartdate": "202506080700",
         "date": "20250609",
         "url": "https://www.bing.com/th?id=OHR.StellarSeaLions_ROW1703622183_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.EchinaceaButterfly_ROW1204867098",
         "copyright": "Skipper butterfly on an Echinacea flower, Rockefeller State Park, New York, USA (© Marianne A. Campolongo/Alamy Stock Photo)",
         "copyrightKeyword": "Echinacea",
-        "hsh": "13197ce78f65c49bc3684f8fbb140504",
-        "description": "Pictured here is a skipper butterfly, known for its quick, darting flight, resting on a vibrant Echinacea, or coneflower, at Rockefeller State Park in New York, United States. Native to North America, Echinacea is loved by both gardeners and pollinators for its hardy blooms. Its name comes from the Greek word 'ekhinos,' meaning 'hedgehog,' referring to its spiky centre. These flowers bloom during summer, providing long-lasting colour and attracting bees, butterflies and hummingbirds. They are also appreciated for their low-maintenance nature and ability to naturalize. Unfortunately, wild Echinacea populations are under growing threat from excessive harvesting. In addition, habitat loss and environmental changes caused by human activity also threaten the long-term survival of some species."
-    },
-    {
-        "fullstartdate": "202506010700",
-        "date": "20250602",
-        "url": "https://www.bing.com/th?id=OHR.GrandeTerreReef_ROW1096147222_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.GrandeTerreReef_ROW1096147222",
-        "copyright": "Barrier reef off Grande Terre, New Caledonia, France (© Karsten Wrobel/Getty Images)",
-        "copyrightKeyword": "New Caledonian barrier reef",
-        "hsh": "18d084d55ab6d57dbc4844195576a000"
+        "hsh": "13197ce78f65c49bc3684f8fbb140504"
     }
 ]
