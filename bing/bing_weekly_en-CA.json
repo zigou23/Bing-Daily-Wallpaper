@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202506100400",
+        "date": "20250611",
+        "url": "https://www.bing.com/th?id=OHR.AerialEverglades_EN-CA9574870148_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AerialEverglades_EN-CA9574870148",
+        "copyright": "Aerial view of Everglades National Park, Florida, United States (© Robert DelVecchio - OcuDrone/Getty Images)",
+        "copyrightKeyword": "Everglades National Park Florida",
+        "hsh": "6c7a96a719dc402ffb7b66d0f27ae7b1",
+        "description": "Wouldn't it be great to see our reflection from above in this vast expanse of water? Everglades National Park, located in Florida, United States, is the largest tropical wilderness in the United States, spanning approximately 6,070 square kilometres. It protects the southern 20% of the original Everglades and is home to numerous rare and endangered species, including the Florida panther, American crocodile and West Indian manatee. Often referred to as 'River of Grass,' the park's unique ecosystem, fed by a slow-moving river from Lake Okeechobee to Florida Bay, is a significant breeding ground for tropical wading birds. Everglades National Park is not only a national treasure but also an international one, recognised as a World Heritage Site, an International Biosphere Reserve and a Wetland of International Importance."
+    },
+    {
         "fullstartdate": "202506090400",
         "date": "20250610",
         "url": "https://www.bing.com/th?id=OHR.DubrovnikTwilight_EN-CA9404404543_1920x1080.jpg",
@@ -16,7 +26,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.StellarSeaLions_EN-CA9034182046",
         "copyright": "Steller sea lions, Vancouver Island, British Columbia (© Steve Woods Photography/Getty Images)",
         "copyrightKeyword": "World Oceans Day",
-        "hsh": "07a68f18de63b4393ad4581d91dedec0",
+        "hsh": "7e8fb6a84c61a41395385ba9ed8d31d7",
         "description": "You can't talk about life on Earth without talking about the ocean. This year, World Oceans Day is being celebrated in Nice, France, just ahead of the UN Ocean Conference starting tomorrow. Officially recognised by the United Nations since 2008, it began as an idea at the 1992 Global Forum, a parallel event at the United Nations Conference on Environment and Development. This year's theme is 'WONDER: Sustaining What Sustains Us.' It highlights how the ocean supports life as we know it—influencing weather, food chains and economies."
     },
     {
@@ -26,7 +36,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PacificCrestTrail_EN-CA3756267540",
         "copyright": "Summit of Pine Mountain, Angeles National Forest, California, United States (© Matthew Kuhns/TANDEM Stills + Motion)",
         "copyrightKeyword": "International Trails Day",
-        "hsh": "9ff1dbeaa51217e83dcfd1cc96e9ad1c",
+        "hsh": "fd1081f7b7fff48d442d7729e173c66b",
         "description": "Today, we celebrate the paths that connect us with nature and adventure. International Trails Day is typically observed on the first Saturday in June. The Trans Canada Trail hosts events across the country to mark the occasion and celebrate the many volunteers who contribute to the trail system. Pictured here is the Angeles National Forest in California, United States. Home to towering pines and rugged ridgelines, this forest also hosts a stretch of the legendary Pacific Crest Trail (PCT). Winding 4,265 kilometres from Mexico to Canada, the PCT is the ultimate thru-hike dream. Designated a National Scenic Trail in 1968, it traverses seven national parks, 25 national forests and provides a unique lens through which to experience the dramatic landscapes of the American West. But you don't need to go the distance to enjoy its magic."
     },
     {
@@ -36,7 +46,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.NormandyBeach_EN-CA8706608973",
         "copyright": "Arromanches-les-Bains in Normandy, France (© Horia Merla/Getty Images)",
         "copyrightKeyword": "Normandy landings",
-        "hsh": "56ce2f84fda19283e8ccb234a31f84a1",
+        "hsh": "9f60e29ea8219f307ec467b10ac745c2",
         "description": "Today, on the anniversary of D-Day, we reflect on one of the most defining moments in modern history. On June 6, 1944, over 156,000 Allied troops landed on the beaches of Normandy, France, launching Operation Overlord, also known as D-Day. This complex assault, involving coordinated air, sea and land forces, marked the beginning of the campaign to liberate Western Europe from Nazi control."
     },
     {
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BicyclesUtrecht_EN-CA8084495077",
         "copyright": "Bicycles on a bridge in Utrecht, Netherlands (© George Pachantouris/Getty Images)",
         "copyrightKeyword": "World Bicycle Day",
-        "hsh": "239e24e2fccfafd0e4449428033fd2a8",
-        "description": "Two wheels, no fuel and a whole lot of purpose—cycling is affordable, eco-friendly and easy on the planet. Something as simple as cycling can significantly boost your health, and swapping the car for a bicycle is an easy way to stay active. Moreover, cycling helps reduce pollution, eases traffic congestion and offers an affordable transport option for those without access to cars. Because of all these benefits, the United Nations dedicated June 3 as World Bicycle Day—a day to celebrate everything this amazing two-wheeler stands for. If there's one place that brings the cycling spirit to life, it's the Netherlands. Today's image captures bicycles lined up on a bridge in Utrecht. More than half the journeys around the city happen on bikes, surpassing cars and other transport options."
-    },
-    {
-        "fullstartdate": "202506020400",
-        "date": "20250603",
-        "url": "https://www.bing.com/th?id=OHR.Fogoisland_EN-CA7909293676_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.Fogoisland_EN-CA7909293676",
-        "copyright": "Fogo Island, Newfoundland and Labrador (© Greg Johnston/Photodisc/Getty Images)",
-        "copyrightKeyword": "Fogo Island Newfoundland",
-        "hsh": "b6607d2e5fa18f01fc7ca5091090908c"
+        "hsh": "239e24e2fccfafd0e4449428033fd2a8"
     }
 ]
