@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202506112200",
+        "date": "20250612",
+        "url": "https://www.bing.com/th?id=OHR.BigBendChisos_ES-ES3904650593_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BigBendChisos_ES-ES3904650593",
+        "copyright": "Montañas Chisos, Parque Nacional Big Bend, Texas, EE. UU. (© Dean Fikar/Getty Images)",
+        "copyrightKeyword": "Parque Nacional Big Bend",
+        "hsh": "f1cb56ce55b89c51b5267486c6dafc95",
+        "description": "Dicen que todo es más grande en Texas, y el Parque Nacional Big Bend lo confirma. Con más de 324.000 hectáreas, fue parte de México hasta 1848 y se convirtió en parque nacional en 1944. Big Bend es uno de los parques más remotos y menos visitados de Estados Unidos, pero ofrece una belleza natural única."
+    },
+    {
         "fullstartdate": "202506102200",
         "date": "20250611",
         "url": "https://www.bing.com/th?id=OHR.FlamingosNamibia_ES-ES3698280528_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.OlivaresMural_ES-ES7218911366",
         "copyright": "Mural ecológico de Oscar Olivares en Guatire, Venezuela (© FEDERICO PARRA/AFP via Getty Images)",
         "copyrightKeyword": "Día Mundial del Medio Ambiente",
-        "hsh": "a8b3e8cfd24e7b20e84c411601b2aa76",
-        "description": "Un saludo global al planeta que todos compartimos. Cada 5 de junio, desde 1973, se celebra el Día Mundial del Medio Ambiente, impulsado por el Programa de las Naciones Unidas para el Medio Ambiente. Este año, con Corea del Sur como país anfitrión, el foco está en frenar la contaminación por plásticos, un problema que afecta desde los océanos hasta nuestros propios cuerpos, donde ya se han encontrado microplásticos."
-    },
-    {
-        "fullstartdate": "202506032200",
-        "date": "20250604",
-        "url": "https://www.bing.com/th?id=OHR.CalaLuna_ES-ES6894495288_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.CalaLuna_ES-ES6894495288",
-        "copyright": "Playa de Cala Luna, Cerdeña, Italia (© guenterguni/Getty Images)",
-        "copyrightKeyword": "Cerdeña",
-        "hsh": "5fd9631c66516f28d6883b05c31c9d1e"
+        "hsh": "a8b3e8cfd24e7b20e84c411601b2aa76"
     }
 ]
