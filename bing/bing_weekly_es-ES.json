@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202506122200",
+        "date": "20250613",
+        "url": "https://www.bing.com/th?id=OHR.SanMiguelAzores_ES-ES2993664759_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SanMiguelAzores_ES-ES2993664759",
+        "copyright": "Islote de Vila Franca, Isla de São Miguel, Azores, Portugal (© ARoxo/Getty Images)",
+        "copyrightKeyword": "Isla de São Miguel",
+        "hsh": "f32e1308a3ed9fee72c734418d645975",
+        "description": "Muy cerca de la isla de São Miguel, en las Azores, Portugal, se encuentra el islote de Vila Franca, un antiguo cráter volcánico transformado en una joya natural. Situado frente a la ciudad de Vila Franca do Campo, este islote deshabitado ha tenido muchos usos desde que fue documentado en 1537: fuerte militar, puerto, viñedo y mirador para el avistamiento de ballenas."
+    },
+    {
         "fullstartdate": "202506112200",
         "date": "20250612",
         "url": "https://www.bing.com/th?id=OHR.BigBendChisos_ES-ES3904650593_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.NormandyBeach_ES-ES2863292551",
         "copyright": "Arromanches-les-Bains en Normandía, Francia (© Horia Merla/Getty Images)",
         "copyrightKeyword": "Normandía",
-        "hsh": "e96f74947cb38379a4839f108c36993f",
-        "description": "Hoy, en el aniversario del Día D, recordamos uno de los momentos más decisivos de la historia moderna. El 6 de junio de 1944, más de 156.000 soldados aliados desembarcaron en las playas de Normandía, en Francia, dando inicio a la Operación Overlord. Esta compleja ofensiva, coordinada por aire, mar y tierra, marcó el comienzo de la liberación de Europa occidental del dominio nazi."
-    },
-    {
-        "fullstartdate": "202506042200",
-        "date": "20250605",
-        "url": "https://www.bing.com/th?id=OHR.OlivaresMural_ES-ES7218911366_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.OlivaresMural_ES-ES7218911366",
-        "copyright": "Mural ecológico de Oscar Olivares en Guatire, Venezuela (© FEDERICO PARRA/AFP via Getty Images)",
-        "copyrightKeyword": "Día Mundial del Medio Ambiente",
-        "hsh": "a8b3e8cfd24e7b20e84c411601b2aa76"
+        "hsh": "e96f74947cb38379a4839f108c36993f"
     }
 ]
