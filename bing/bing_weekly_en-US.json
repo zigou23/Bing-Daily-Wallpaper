@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202506130700",
+        "date": "20250614",
+        "url": "https://www.bing.com/th?id=OHR.SanMiguelAzores_EN-US2785372768_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SanMiguelAzores_EN-US2785372768",
+        "copyright": "Vila Franca Islet, São Miguel Island, Azores, Portugal (© ARoxo/Getty Images)",
+        "copyrightKeyword": "Vila Franca Islet",
+        "hsh": "67a021d0fbe0282c6b601f75ef994281",
+        "description": "Not far from São Miguel Island in the Azores archipelago of Portugal, you'll find Vila Franca Islet. This uninhabited green islet sits quietly just south of the town of Vila Franca do Campo. Beneath its serene surface, this gem holds a lively past. First documented in 1537, around the time when settlers from São Miguel began expanding westward, Vila Franca Islet has played many roles throughout its history. It has served as a military fort, a port, a vineyard site, and even a lookout for whale-watching."
+    },
+    {
         "fullstartdate": "202506120700",
         "date": "20250613",
         "url": "https://www.bing.com/th?id=OHR.BigBendChisos_EN-US9433220487_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.NormandyBeach_EN-US8863709180",
         "copyright": "Arromanches-les-Bains in Normandy, France (© Horia Merla/Getty Images)",
         "copyrightKeyword": "Normandy landings",
-        "hsh": "679e2b21291c85829ee18d7de2a477d7",
-        "description": "Today, on the anniversary of D-Day, we reflect on one of the most defining moments in modern history. On June 6, 1944, over 156,000 Allied troops landed on the beaches of Normandy, France, launching Operation Overlord, also known as D-Day. This complex assault, involving coordinated air, sea, and land forces, marked the beginning of the campaign to liberate Western Europe from Nazi control."
-    },
-    {
-        "fullstartdate": "202506050700",
-        "date": "20250606",
-        "url": "https://www.bing.com/th?id=OHR.OlivaresMural_EN-US8824492734_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.OlivaresMural_EN-US8824492734",
-        "copyright": "Bottle-cap mural made by Oscar Olivares in Guatire, Venezuela (© FEDERICO PARRA/AFP via Getty Images)",
-        "copyrightKeyword": "World Environment Day",
-        "hsh": "e10e5f55f8d18c9fae48ea86643ad9d2"
+        "hsh": "679e2b21291c85829ee18d7de2a477d7"
     }
 ]

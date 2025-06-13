@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202506132200",
+        "date": "20250614",
+        "url": "https://www.bing.com/th?id=OHR.DolomitiEstate_IT-IT5883847806_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.DolomitiEstate_IT-IT5883847806",
+        "copyright": "Cinque Torri, Dolomiti, Cortina d’Ampezzo, Belluno, Veneto (© usabin/Getty Images)",
+        "copyrightKeyword": "Cinque Torri",
+        "hsh": "8ba6275d2d82ccd2a427765b4c7763bc",
+        "description": "Le Cinque Torri, o \"Fünf Türme\" in tedesco, \"Cinc Toires\" in ladino, si ergono maestose nel cuore delle Dolomiti, nella provincia di Belluno, in Veneto, offrendo un rifugio perfetto dalla calura estiva e dal trambusto delle spiagge affollate. Ogni torre racconta una storia: quella di antiche civiltà, di esploratori audaci e di battaglie lontane. Queste guglie di dolomia, modellate dagli elementi naturali, hanno svolto un ruolo strategico durante la Prima Guerra Mondiale e ancora oggi è possibile esplorare le trincee e i resti di quel passato segnato dal conflitto."
+    },
+    {
         "fullstartdate": "202506122200",
         "date": "20250613",
         "url": "https://www.bing.com/th?id=OHR.SanMiguelAzores_IT-IT5812547329_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PacificCrestTrail_IT-IT6678210437",
         "copyright": "Vetta della Pine Mountain, Foresta Nazionale di Angeles, California, USA (© Matthew Kuhns/TANDEM Stills + Motion)",
         "copyrightKeyword": "Los Angeles Contea California",
-        "hsh": "2d9c7f7ff27dffec89aed99453b942e6",
-        "description": "La Angeles National Forest, in California, sulla costa occidentale degli Stati Uniti, ospita un tratto del leggendario Pacific Crest Trail, il sogno di ogni escursionista. Questo sentiero, lungo oltre 4.200 km, collega il Messico al Canada, attraversando sette parchi nazionali e venticinque foreste. Un viaggio attraverso paesaggi spettacolari: dalle vette imponenti ai deserti aridi, fino alle foreste più fitte. Ma non serve percorrerlo tutto per goderne la magia: i tratti delle San Gabriel Mountains regalano panorami straordinari e splendide escursioni giornaliere."
-    },
-    {
-        "fullstartdate": "202506052200",
-        "date": "20250606",
-        "url": "https://www.bing.com/th?id=OHR.NormandyBeach_IT-IT6520932839_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.NormandyBeach_IT-IT6520932839",
-        "copyright": "Arromanches-les-Bains, Normandia, Francia (© Horia Merla/Getty Images)",
-        "copyrightKeyword": "Sbarco in Normandia",
-        "hsh": "8663b3672009e4db51c6c5a6684ff1eb"
+        "hsh": "2d9c7f7ff27dffec89aed99453b942e6"
     }
 ]
