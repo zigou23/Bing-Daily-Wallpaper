@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202506140400",
+        "date": "20250615",
+        "url": "https://www.bing.com/th?id=OHR.DolomitiEstate_EN-CA4112246625_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.DolomitiEstate_EN-CA4112246625",
+        "copyright": "Cinque Torri, Dolomites, Italy (© usabin/Getty Images)",
+        "copyrightKeyword": "Cinque Torri",
+        "hsh": "362d5fd7f82e5e1b09dbd799a9505ac2",
+        "description": "The Five Towers, known as 'Fünf Türme' in German and 'Cinc Toires' in Ladin, rise majestically in the heart of the Dolomites in the province of Belluno in the Veneto region of Italy. They offer the perfect refuge from the summer heat and crowded beaches. Each tower has its own story to tell: of ancient civilisations, adventurous hikers, daring climbers and distant battles. Shaped by time and weather, these Dolomite spires played a strategic role during the First World War, and it is still possible today to explore the trenches and remnants of that conflict-scarred past. However, nature is stronger than history: green pastures embrace the towers, the wind carries the scent of pines and a clear sky opens above paths that beckon you to explore. Streams meander through flower-filled meadows while birdsong accompanies every step."
+    },
+    {
         "fullstartdate": "202506130400",
         "date": "20250614",
         "url": "https://www.bing.com/th?id=OHR.CanadianGPQuebec_EN-CA4428568673_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PacificCrestTrail_EN-CA3756267540",
         "copyright": "Summit of Pine Mountain, Angeles National Forest, California, United States (© Matthew Kuhns/TANDEM Stills + Motion)",
         "copyrightKeyword": "International Trails Day",
-        "hsh": "fd1081f7b7fff48d442d7729e173c66b",
-        "description": "Today, we celebrate the paths that connect us with nature and adventure. International Trails Day is typically observed on the first Saturday in June. The Trans Canada Trail hosts events across the country to mark the occasion and celebrate the many volunteers who contribute to the trail system. Pictured here is the Angeles National Forest in California, United States. Home to towering pines and rugged ridgelines, this forest also hosts a stretch of the legendary Pacific Crest Trail (PCT). Winding 4,265 kilometres from Mexico to Canada, the PCT is the ultimate thru-hike dream. Designated a National Scenic Trail in 1968, it traverses seven national parks, 25 national forests and provides a unique lens through which to experience the dramatic landscapes of the American West. But you don't need to go the distance to enjoy its magic."
-    },
-    {
-        "fullstartdate": "202506060400",
-        "date": "20250607",
-        "url": "https://www.bing.com/th?id=OHR.NormandyBeach_EN-CA8706608973_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.NormandyBeach_EN-CA8706608973",
-        "copyright": "Arromanches-les-Bains in Normandy, France (© Horia Merla/Getty Images)",
-        "copyrightKeyword": "Normandy landings",
-        "hsh": "9f60e29ea8219f307ec467b10ac745c2"
+        "hsh": "fd1081f7b7fff48d442d7729e173c66b"
     }
 ]
