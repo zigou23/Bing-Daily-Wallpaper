@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202506170400",
+        "date": "20250618",
+        "url": "https://www.bing.com/th?id=OHR.CumberlandOaks_EN-CA4846374489_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.CumberlandOaks_EN-CA4846374489",
+        "copyright": "Maritime forest in Cumberland Island National Seashore, Georgia (© Chris Moore/TANDEM Stills + Motion)",
+        "copyrightKeyword": "Cumberland Island National Seashore",
+        "hsh": "2433d74f56292b49fbb373f0f5a0da4b",
+        "description": "Before you hit the beach, you'll hear it—the rustle of leaves in salty air, the creak of twisted trunks, the hush of an old world. Welcome to the maritime forest of Cumberland Island National Seashore on the southernmost stretch of Georgia's Atlantic coast in the United States. Salt spray, sandy soil, hurricanes? The trees here stand their ground. Live oaks bend but don't break. Saw palmettos crowd the ground like leafy bodyguards, while Spanish moss hangs from branches like nature's fringe. This maritime forest is one of the best remaining examples of this rare habitat in the United States. Thanks to its national seashore status, the island has been spared from the concrete creep seen on other coastlines."
+    },
+    {
         "fullstartdate": "202506160400",
         "date": "20250617",
         "url": "https://www.bing.com/th?id=OHR.SeaTurtleBrazil_EN-CA4683535863_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AerialEverglades_EN-CA9574870148",
         "copyright": "Aerial view of Everglades National Park, Florida, United States (© Robert DelVecchio - OcuDrone/Getty Images)",
         "copyrightKeyword": "Everglades National Park Florida",
-        "hsh": "6c7a96a719dc402ffb7b66d0f27ae7b1",
-        "description": "Wouldn't it be great to see our reflection from above in this vast expanse of water? Everglades National Park, located in Florida, United States, is the largest tropical wilderness in the United States, spanning approximately 6,070 square kilometres. It protects the southern 20% of the original Everglades and is home to numerous rare and endangered species, including the Florida panther, American crocodile and West Indian manatee. Often referred to as 'River of Grass,' the park's unique ecosystem, fed by a slow-moving river from Lake Okeechobee to Florida Bay, is a significant breeding ground for tropical wading birds. Everglades National Park is not only a national treasure but also an international one, recognised as a World Heritage Site, an International Biosphere Reserve and a Wetland of International Importance."
-    },
-    {
-        "fullstartdate": "202506090400",
-        "date": "20250610",
-        "url": "https://www.bing.com/th?id=OHR.DubrovnikTwilight_EN-CA9404404543_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DubrovnikTwilight_EN-CA9404404543",
-        "copyright": "Old City of Dubrovnik in Dalmatia, Croatia (© bluejayphoto/Getty Images)",
-        "copyrightKeyword": "Dubrovnik",
-        "hsh": "26736ac0151e64b973ef52b5875b1c94"
+        "hsh": "6c7a96a719dc402ffb7b66d0f27ae7b1"
     }
 ]
