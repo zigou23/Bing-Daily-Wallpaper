@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202506192200",
+        "date": "20250620",
+        "url": "https://www.bing.com/th?id=OHR.IcelandSolstice_ES-ES0482972208_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.IcelandSolstice_ES-ES0482972208",
+        "copyright": "Cascada de Seljalandsfoss al atardecer, Islandia (© Tom Mackie/AWL/plainpicture)",
+        "copyrightKeyword": "Seljalandsfoss",
+        "hsh": "a3f4ee7332d07fbc980a2c5b5d370797",
+        "description": "Cada año, el hemisferio norte celebra el día más largo: el solsticio de verano. En Islandia, este fenómeno se disfruta de forma especial en Seljalandsfoss, una cascada de 60 metros que cae desde antiguos acantilados marinos en la costa sur del país. El agua proviene del río Seljalandsá, alimentado por el glaciar volcánico Eyjafjallajökull, famoso por su erupción en 2010, que paralizó el tráfico aéreo en Europa, incluida España."
+    },
+    {
         "fullstartdate": "202506182200",
         "date": "20250619",
         "url": "https://www.bing.com/th?id=OHR.WinterBegins_ES-ES0401089663_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SanMiguelAzores_ES-ES2993664759",
         "copyright": "Islote de Vila Franca, Isla de São Miguel, Azores, Portugal (© ARoxo/Getty Images)",
         "copyrightKeyword": "Isla de São Miguel",
-        "hsh": "f32e1308a3ed9fee72c734418d645975",
-        "description": "Muy cerca de la isla de São Miguel, en las Azores, Portugal, se encuentra el islote de Vila Franca, un antiguo cráter volcánico transformado en una joya natural. Situado frente a la ciudad de Vila Franca do Campo, este islote deshabitado ha tenido muchos usos desde que fue documentado en 1537: fuerte militar, puerto, viñedo y mirador para el avistamiento de ballenas."
-    },
-    {
-        "fullstartdate": "202506112200",
-        "date": "20250612",
-        "url": "https://www.bing.com/th?id=OHR.BigBendChisos_ES-ES3904650593_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BigBendChisos_ES-ES3904650593",
-        "copyright": "Montañas Chisos, Parque Nacional Big Bend, Texas, EE. UU. (© Dean Fikar/Getty Images)",
-        "copyrightKeyword": "Parque Nacional Big Bend",
-        "hsh": "f1cb56ce55b89c51b5267486c6dafc95"
+        "hsh": "f32e1308a3ed9fee72c734418d645975"
     }
 ]

@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202506192200",
+        "date": "20250620",
+        "url": "https://www.bing.com/th?id=OHR.SerengetiGiraffe_DE-DE4851504112_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SerengetiGiraffe_DE-DE4851504112",
+        "copyright": "Massai-Giraffenmutter pflegt ihr Kalb im Serengeti-Nationalpark, Tansania (© Alberto Cassani/Getty Images)",
+        "copyrightKeyword": "Massai-Giraffe",
+        "hsh": "d0492cc86dd8496db9dd8ce2c3877234",
+        "description": "Mit ihrem langen Hals, dem sanften Blick und dem anmutigen Gang zählen Giraffen zu den faszinierendsten Tieren Afrikas. Mit einer Höhe von bis zu sechs Metern sind sie die größten Landsäugetiere der Welt. Ihr beeindruckender Hals, der allein etwa zwei Meter misst, verschafft ihnen einen entscheidenden Vorteil bei der Nahrungssuche in den Baumwipfeln. Ein weiteres Merkmal dieser eleganten Savannenbewohner ist ihr einzigartiges Fellmuster, das von Giraffe zu Giraffe variiert und so unverwechselbar ist wie ein menschlicher Fingerabdruck."
+    },
+    {
         "fullstartdate": "202506182200",
         "date": "20250619",
         "url": "https://www.bing.com/th?id=OHR.WinterBegins_DE-DE2019737039_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SanMiguelAzores_DE-DE1015486500",
         "copyright": "Insel Vila Franca do Campo, São Miguel, Azoren, Portugal (© ARoxo/Getty Images)",
         "copyrightKeyword": "Ilhéu Vila Franca do Campo",
-        "hsh": "1f027ef5088719769df3eb00ecc863cc",
-        "description": "Mitten im tiefblauen Atlantik, vor der Küste der Azoreninsel São Miguel, liegt ein verborgenes Naturjuwel: die Insel Vila Franca do Campo, die auf unserem heutigen Bild zu sehen ist. Die kleine, unbewohnte Insel mit ihrer nahezu kreisrunden Lagune entstand aus dem Krater eines unterseeischen Vulkans und ist heute ein geschütztes Naturreservat – ein Geheimtipp für Abenteuerlustige und Erholungssuchende gleichermaßen. Die Insel, auch als „Prinzessinnenring“ bekannt, blickt auf eine bewegte Geschichte zurück: Seit ihrer ersten Erwähnung im Jahr 1537 diente sie als Festung, Hafen, Weinberg und Beobachtungspunkt für Wale. Heute fasziniert sie vor allem durch ihre einzigartige Tierwelt, darunter seltene Seevögel wie den Gelbschnabel-Sturmtaucher. Im Sommer ist die idyllische Insel ein beliebtes Ausflugsziel. Um das empfindliche Ökosystem zu schützen, ist der Zugang jedoch auf 400 Besucher pro Tag begrenzt."
-    },
-    {
-        "fullstartdate": "202506112200",
-        "date": "20250612",
-        "url": "https://www.bing.com/th?id=OHR.BigBendChisos_DE-DE8761208781_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BigBendChisos_DE-DE8761208781",
-        "copyright": "Chisos Mountains, Big-Bend-Nationalpark, Texas, USA (© Dean Fikar/Getty Images)",
-        "copyrightKeyword": "Big-Bend-Nationalpark",
-        "hsh": "663372698d221367886cf3a65737f3b5"
+        "hsh": "1f027ef5088719769df3eb00ecc863cc"
     }
 ]
