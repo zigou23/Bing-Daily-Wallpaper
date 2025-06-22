@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202506222200",
+        "date": "20250623",
+        "url": "https://www.bing.com/th?id=OHR.DresdenElbe_IT-IT6499150995_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.DresdenElbe_IT-IT6499150995",
+        "copyright": "Dresda, Fiume Elba, Sassonia, Germania (© Sean Pavone/Getty Images)",
+        "copyrightKeyword": "Dresda",
+        "hsh": "790811668935f3e5bad97e0a6997eb67",
+        "description": "Berlino ha l’energia, Monaco porta la birra, ma che dire di Dresda, in Sassonia, in Germania? Dresda porta con sé la storia. Un tempo chiamata “la Firenze sull’Elba”, fu quasi cancellata dalla mappa nel 1945, durante la Seconda Guerra Mondiale. Da allora, si è ricostruita, offrendo un perfetto equilibrio tra musei moderni, edifici barocchi e viste sul fiume, che raccontano il passato e il presente. Gran parte della sua architettura più antica si trova nei quartieri di Altstadt (Città Vecchia) e Neustadt (Città Nuova), mentre i quartieri circostanti, progettati dai monarchi sassoni, portano i nomi di sovrani come Friedrichstadt e Albertstadt."
+    },
+    {
         "fullstartdate": "202506212200",
         "date": "20250622",
         "url": "https://www.bing.com/th?id=OHR.AmazonEcuador_IT-IT6428077520_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SeaTurtleBrazil_IT-IT6000717103",
         "copyright": "Tartaruga marina, Fernando de Noronha, Brasile (© João Vianna/Getty Images)",
         "copyrightKeyword": "Tartaruga marina",
-        "hsh": "c2cc53517a1c47e4e39c972000c0eb6c",
-        "description": "Portano sulla loro corazza la storia del nostro pianeta, attraversando gli oceani da oltre cento milioni di anni, ben prima che il T-Rex e altri dinosauri dominassero la terraferma. Le tartarughe marine, come questa fotografata a Fernando de Noronha, in Brasile, sono autentiche viaggiatrici del mare. In questo arcipelago incantevole, incastonato tra le acque cristalline dell'Atlantico, nuotano con grazia tra coralli e pesci tropicali, testimoni silenziose dell'evoluzione della vita sulla Terra."
-    },
-    {
-        "fullstartdate": "202506142200",
-        "date": "20250615",
-        "url": "https://www.bing.com/th?id=OHR.RheaDad_IT-IT4866399219_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.RheaDad_IT-IT4866399219",
-        "copyright": "Maschio adulto di Rhea pennata con pulcini, Parco Nazionale Torres del Paine, Patagonia, Cile (© Ignacio Yufera/Minden Pictures)",
-        "copyrightKeyword": "Rhea pennata",
-        "hsh": "93609b6846dd81f88dbd11c458c16729"
+        "hsh": "c2cc53517a1c47e4e39c972000c0eb6c"
     }
 ]
