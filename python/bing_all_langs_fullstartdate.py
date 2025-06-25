@@ -116,7 +116,7 @@ for lang in languages:
     write_json(file_path_yearly, existing_images_info_yearly)
 
     # 将数据写入以语言代码命名的每周JSON文件
-    weekly_file_path = f'./bing/bing_weekly_{lang}.json'
+    weekly_file_path = f'./bing/weekly/bing_{lang}.json'
     # 按日期倒序排序每周数据
     images_info.sort(key=lambda x: datetime.strptime(x['date'], '%Y%m%d'), reverse=True)
     with open(weekly_file_path, 'w', encoding='utf-8') as file:

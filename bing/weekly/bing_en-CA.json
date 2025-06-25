@@ -1,15 +1,5 @@
 [
     {
-        "fullstartdate": "202506240400",
-        "date": "20250625",
-        "url": "https://www.bing.com/th?id=OHR.DelicateArch_EN-CA0482409056_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DelicateArch_EN-CA0482409056",
-        "copyright": "Delicate Arch, Arches National Park, Utah (© mmac72/Getty Images)",
-        "copyrightKeyword": "Delicate Arch Arches National Park Utah",
-        "hsh": "a881ae80f21ef6665ab5f507903cc4c9",
-        "description": "This place wasn't built overnight—nature took its time to craft this masterpiece. What you see at Arches National Park in Utah, United States, is the result of over 300 million years of erosion, uplift and weathering. These arches were formed when salt beds were left behind by ancient seas. Over time, layers of sandstone cracked, shifted and slowly wore away, revealing more than 2,000 natural arches. These formations are made mostly of Entrada and Navajo sandstone. The park was recognised as a national monument in 1929 and was later upgraded to national park status in 1971."
-    },
-    {
         "fullstartdate": "202506230400",
         "date": "20250624",
         "url": "https://www.bing.com/th?id=OHR.DresdenElbe_EN-CA0313860830_1920x1080.jpg",
@@ -76,6 +66,16 @@
         "urlbase": "https://www.bing.com/th?id=OHR.CumberlandOaks_EN-CA4846374489",
         "copyright": "Maritime forest in Cumberland Island National Seashore, Georgia (© Chris Moore/TANDEM Stills + Motion)",
         "copyrightKeyword": "Cumberland Island National Seashore",
-        "hsh": "2433d74f56292b49fbb373f0f5a0da4b"
+        "hsh": "2433d74f56292b49fbb373f0f5a0da4b",
+        "description": "Before you hit the beach, you'll hear it—the rustle of leaves in salty air, the creak of twisted trunks, the hush of an old world. Welcome to the maritime forest of Cumberland Island National Seashore on the southernmost stretch of Georgia's Atlantic coast in the United States. Salt spray, sandy soil, hurricanes? The trees here stand their ground. Live oaks bend but don't break. Saw palmettos crowd the ground like leafy bodyguards, while Spanish moss hangs from branches like nature's fringe. This maritime forest is one of the best remaining examples of this rare habitat in the United States. Thanks to its national seashore status, the island has been spared from the concrete creep seen on other coastlines."
+    },
+    {
+        "fullstartdate": "202506160400",
+        "date": "20250617",
+        "url": "https://www.bing.com/th?id=OHR.SeaTurtleBrazil_EN-CA4683535863_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SeaTurtleBrazil_EN-CA4683535863",
+        "copyright": "Sea turtle, Fernando de Noronha, Brazil (© João Vianna/Getty Images)",
+        "copyrightKeyword": "Sea turtles",
+        "hsh": "56c41c9401ab804da3ca657cdf109b40"
     }
 ]

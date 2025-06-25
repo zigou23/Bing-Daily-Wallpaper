@@ -1,15 +1,5 @@
 [
     {
-        "fullstartdate": "202506242200",
-        "date": "20250625",
-        "url": "https://www.bing.com/th?id=OHR.GlastonburyScenic_ES-ES1318845810_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.GlastonburyScenic_ES-ES1318845810",
-        "copyright": "Torre de la iglesia de San Miguel en Glastonbury Tor, Glastonbury, Somerset, Inglaterra (© Gavin Hellier/Getty Images)",
-        "copyrightKeyword": "Festival de Glastonbury",
-        "hsh": "dcfc0467d57459d2dabd70aac101b60a",
-        "description": "Cuando el sol se alza sobre las colinas de Somerset, el Festival de Glastonbury despierta, transformando esta tranquila región del suroeste de Inglaterra en uno de los eventos musicales más icónicos del mundo. Desde su inicio en 1970, con entradas a solo una libra, ha crecido hasta atraer a más de 200.000 personas cada año. Inspirado por el espíritu hippie y la contracultura de los años sesenta, el festival ha acogido a leyendas como David Bowie, Elton John, Metallica o Billie Eilish."
-    },
-    {
         "fullstartdate": "202506232200",
         "date": "20250624",
         "url": "https://www.bing.com/th?id=OHR.DelicateArch_ES-ES1233867011_1920x1080.jpg",
@@ -76,6 +66,16 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AsianSwallowtail_ES-ES0291489304",
         "copyright": "Mariposa cola de golondrina asiática en un lirio araña rojo (© lzh/Getty Images)",
         "copyrightKeyword": "Papilio xuthus",
-        "hsh": "0735ee6afda52585461aba3ef6305337"
+        "hsh": "0735ee6afda52585461aba3ef6305337",
+        "description": "¡La naturaleza está en plena floración y los polinizadores hacen su magia! Entre ellos destaca la mariposa conocida como cola de golondrina asiática. Esta especie de vivos colores y elegante cola se deja ver sobre lirios araña rojos, creando un espectáculo digno de admirar."
+    },
+    {
+        "fullstartdate": "202506162200",
+        "date": "20250617",
+        "url": "https://www.bing.com/th?id=OHR.CumberlandOaks_ES-ES0192371070_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.CumberlandOaks_ES-ES0192371070",
+        "copyright": "Bosque marítimo en la Costa Nacional de la Isla Cumberland, Georgia, EE. UU. (© Chris Moore/TANDEM Stills + Motion)",
+        "copyrightKeyword": "Costa Nacional de la Isla Cumberland",
+        "hsh": "1fecab5e5de5b058b0e9bd3ecc2c099a"
     }
 ]
