@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202506262200",
+        "date": "20250627",
+        "url": "https://www.bing.com/th?id=OHR.SplendidFrog_DE-DE7801241876_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SplendidFrog_DE-DE7801241876",
+        "copyright": "Prachtgreiffrosch (© Jan Stria/Shutterstock)",
+        "copyrightKeyword": "Splendid leaf frog",
+        "hsh": "1a3b4275c48546e967ae66f81d4b3eb5",
+        "description": "Kennen Sie dieses flinke Tier? Der Prachtgreiffrosch ist vor allem in den tropischen Regenwäldern Mittel- und Südamerikas zu Hause, insbesondere in Ländern wie Costa Rica, Kolumbien und Ecuador. Mit seiner leuchtend grünen Haut, die von gelben und blauen Akzenten durchzogen ist, ähnelt er optisch einem Blatt und zählt zu den beeindruckendsten Amphibien der Welt. Der farbenfrohe Frosch ist ein Meister der Tarnung und Anpassung. Tagsüber ruht er beinahe unsichtbar in den hohen Baumkronen, wo seine Farben perfekt mit der Umgebung verschmelzen. Nachts jedoch wird er aktiv und begibt sich auf Insektenjagd. Besonders faszinierend ist, dass die Weibchen ihre Eier auf Blätter über kleinen Wasserstellen ablegen. Nach dem Schlüpfen fallen die Kaulquappen direkt ins Wasser – eine clevere Anpassung, die Schutz vor Raubtieren bietet."
+    },
+    {
         "fullstartdate": "202506252200",
         "date": "20250626",
         "url": "https://www.bing.com/th?id=OHR.HorseheadRock_DE-DE6717487152_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SerengetiGiraffe_DE-DE4851504112",
         "copyright": "Massai-Giraffenmutter pflegt ihr Kalb im Serengeti-Nationalpark, Tansania (© Alberto Cassani/Getty Images)",
         "copyrightKeyword": "Massai-Giraffe",
-        "hsh": "d0492cc86dd8496db9dd8ce2c3877234",
-        "description": "Mit ihrem langen Hals, dem sanften Blick und dem anmutigen Gang zählen Giraffen zu den faszinierendsten Tieren Afrikas. Mit einer Höhe von bis zu sechs Metern sind sie die größten Landsäugetiere der Welt. Ihr beeindruckender Hals, der allein etwa zwei Meter misst, verschafft ihnen einen entscheidenden Vorteil bei der Nahrungssuche in den Baumwipfeln. Ein weiteres Merkmal dieser eleganten Savannenbewohner ist ihr einzigartiges Fellmuster, das von Giraffe zu Giraffe variiert und so unverwechselbar ist wie ein menschlicher Fingerabdruck."
-    },
-    {
-        "fullstartdate": "202506182200",
-        "date": "20250619",
-        "url": "https://www.bing.com/th?id=OHR.WinterBegins_DE-DE2019737039_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WinterBegins_DE-DE2019737039",
-        "copyright": "Strand in Santa Catarina, Brasilien (© CaioCarvalhoPhotography/Getty Images)",
-        "copyrightKeyword": "Santa Catarina Brasilien",
-        "hsh": "1e3c1fc91e69922f20f4b8b9603425a9"
+        "hsh": "d0492cc86dd8496db9dd8ce2c3877234"
     }
 ]
