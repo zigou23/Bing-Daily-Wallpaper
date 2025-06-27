@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202506272300",
+        "date": "20250628",
+        "url": "https://www.bing.com/th?id=OHR.MesquiteFlats_EN-GB1375623335_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MesquiteFlats_EN-GB1375623335",
+        "copyright": "Mesquite Flat Sand Dunes in Death Valley National Park, California, United States (© Bryan Jolley/TANDEM Stills + Motion)",
+        "copyrightKeyword": "Death Valley National Park",
+        "hsh": "7559543536fea7b0e72314f1ae6444d8",
+        "description": "The Mesquite Flat Sand Dunes, located near Stovepipe Wells Village in Death Valley National Park, California, are the most accessible and iconic dunes in the park. They are formed by a combination of eroding mountains to the north that supply sand, prevailing winds that move it and surrounding mountains that trap it from the south—creating a stunning landscape of rippling sand hills. Named after the resilient mesquite trees that grow here, the dunes offer breathtaking views at sunrise and sunset, as well as exceptional stargazing opportunities."
+    },
+    {
         "fullstartdate": "202506262300",
         "date": "20250627",
         "url": "https://www.bing.com/th?id=OHR.SplendidFrog_EN-GB1133553624_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.IcelandSolstice_EN-GB9174447978",
         "copyright": "Seljalandsfoss waterfall at sunset, Iceland (© Tom Mackie/AWL/plainpicture)",
         "copyrightKeyword": "Summer solstice",
-        "hsh": "2dd7a91bb15e4d6104fb27a2dcadf6a4",
-        "description": "Experience the magic of the summer solstice at Seljalandsfoss waterfall in Iceland. Today, the Northern Hemisphere celebrates the longest day of the year, when the sun reaches its highest point in the sky. Seljalandsfoss, located along Iceland's South Coast, offers a stunning backdrop for this astronomical event. The 60-metre waterfall drops from cliffs that once marked the country's coastline. The cascading water is part of the Seljalandsa River, originating from the volcanic glacier Eyjafjallajökull. The volcano under the icecap last erupted in 2010, causing disruption for locals and air traffic."
-    },
-    {
-        "fullstartdate": "202506192300",
-        "date": "20250620",
-        "url": "https://www.bing.com/th?id=OHR.SerengetiGiraffe_EN-GB0487583415_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SerengetiGiraffe_EN-GB0487583415",
-        "copyright": "Masai giraffe mother grooming her calf in the Serengeti, Tanzania (© Alberto Cassani/Getty Images)",
-        "copyrightKeyword": "Masai giraffe",
-        "hsh": "3bd8b3e995b01bdfa93b6531ecdd8b19"
+        "hsh": "2dd7a91bb15e4d6104fb27a2dcadf6a4"
     }
 ]
