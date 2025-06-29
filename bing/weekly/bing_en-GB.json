@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202506292300",
+        "date": "20250630",
+        "url": "https://www.bing.com/th?id=OHR.WolfeCrater_EN-GB1775115242_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WolfeCrater_EN-GB1775115242",
+        "copyright": "Wolfe Creek Crater, Australia (© Abstract Aerial Art/Getty Images)",
+        "copyrightKeyword": "Asteroid Day",
+        "hsh": "1d17a0f1b4c27f558744daccd24105e4",
+        "description": "Each scar on Earth from a meteorite impact tells a story—from the asteroid that wiped out the dinosaurs to the lesser-known craters that dot the planet. Asteroid Day highlights ongoing research into asteroids and the potential threats they pose. Started in 2015 and backed by the United Nations, this day marks the anniversary of the Tunguska event—a massive explosion that occurred in Siberia on June 30, 1908. This explosion flattened over 800 square miles of Siberian forest near the Tunguska River. The blast released energy equal to 10–15 megatons of trinitrotoluene (TNT), a standard measure of explosive force. Since then, craters like Arizona's Barringer, Quebec's Manicouagan and others have helped scientists study what happens when space rocks hit Earth."
+    },
+    {
         "fullstartdate": "202506282300",
         "date": "20250629",
         "url": "https://www.bing.com/th?id=OHR.BandaIsland_EN-GB1537579150_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DresdenElbe_EN-GB9622986558",
         "copyright": "Elbe river in Dresden, Germany (© Sean Pavone/Getty Images)",
         "copyrightKeyword": "Dresden",
-        "hsh": "61e837917f1fdbd7dc869fc98b0f3b67",
-        "description": "Berlin gets the buzz, Munich brings the beer, but what about Dresden, in Saxony, Germany? Dresden brings the story. The city, once called 'the Florence on the Elbe,' was nearly wiped off the map in 1945 during World War II. Since then, it has rebuilt itself into a place where modern museums, Baroque buildings and riverside views share the same frame. Much of the city's oldest architecture can be found in the boroughs of Altstadt (Old Town) and Neustadt (New Town). The surrounding neighbourhoods, originally planned by Saxon monarchs in the 18th and 19th centuries, are named after Saxon sovereigns like Friedrichstadt and Albertstadt."
-    },
-    {
-        "fullstartdate": "202506212300",
-        "date": "20250622",
-        "url": "https://www.bing.com/th?id=OHR.AmazonEcuador_EN-GB9331182171_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AmazonEcuador_EN-GB9331182171",
-        "copyright": "Amazon rainforest, Ecuador (© Mark Fox/Getty Images)",
-        "copyrightKeyword": "Amazon rainforest Ecuador",
-        "hsh": "10a059f35b33020132d7fa4984d30dd7"
+        "hsh": "61e837917f1fdbd7dc869fc98b0f3b67"
     }
 ]
