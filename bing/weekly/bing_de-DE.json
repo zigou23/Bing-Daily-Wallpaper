@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202506302200",
+        "date": "20250701",
+        "url": "https://www.bing.com/th?id=OHR.CanadaDayFogo_DE-DE8180601933_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.CanadaDayFogo_DE-DE8180601933",
+        "copyright": "Fischerdorf Tilting, Fogo Island, Neufundland und Labrador, Kanada (© FedevPhoto/Getty Images)",
+        "copyrightKeyword": "Kanada",
+        "hsh": "983d3cb22e9e3355665c75d78c8d60f8",
+        "description": "Kanada, das zweitgrößte Land der Welt, ist ein Ort voller faszinierender Kontraste, in dem pulsierende Metropolen auf unberührte Wildnis treffen. Von den majestätischen Rocky Mountains bis zu den endlosen Weiten der Prärien – Kanada ist ein Paradies für Naturliebhaber und Abenteurer gleichermaßen. In den berühmten Nationalparks wie Banff, dem ältesten, oder Jasper, dem größten, beeindrucken spektakuläre Landschaften, imposante Berge und eine reiche Tierwelt. Hier lassen sich Elche, Grizzlybären und Adler in ihrem natürlichen Lebensraum beobachten. Im Osten laden Städte wie Toronto, Montréal und Québec mit französischem Flair, lebendigen Festivals und kulinarischer Vielfalt zum Verweilen ein. An der Westküste begeistert Vancouver mit seiner gelungenen Mischung aus urbanem Leben, umgeben von majestätischen Bergen und dem Pazifik."
+    },
+    {
         "fullstartdate": "202506292200",
         "date": "20250630",
         "url": "https://www.bing.com/th?id=OHR.WolfeCrater_DE-DE8115529012_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ScenicEibsee_DE-DE0418956156",
         "copyright": "Eibsee, Bayern (© NejauPhoto/Getty Images)",
         "copyrightKeyword": "Eibsee Bayern",
-        "hsh": "8084e30def0183474fbc8929bc50e9ab",
-        "description": "Kennen Sie diese Bilderbuchkulisse auf unserem heutigen Bild? Der Eibsee, malerisch am Fuße der Zugspitze in Bayern gelegen, gilt zu Recht als einer der schönsten Seen Deutschlands. Mit seinem kristallklaren Wasser, das je nach Lichteinfall von tiefem Blau bis smaragdgrün schimmert, vermittelt er ein wahres Karibikgefühl inmitten der Bayerischen Alpen. Entstanden vor rund 4.000 Jahren durch einen gewaltigen Felssturz, begeistert der See heute Wanderer, Fotografen und Naturliebhaber gleichermaßen mit seinem idyllischen Panorama."
-    },
-    {
-        "fullstartdate": "202506222200",
-        "date": "20250623",
-        "url": "https://www.bing.com/th?id=OHR.DresdenElbe_DE-DE5406785601_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DresdenElbe_DE-DE5406785601",
-        "copyright": "Elbe in Dresden, Sachsen (© Sean Pavone/Getty Images)",
-        "copyrightKeyword": "Dresden",
-        "hsh": "6b11d8d5a0c03b4deb2edc3ef5040a92"
+        "hsh": "8084e30def0183474fbc8929bc50e9ab"
     }
 ]

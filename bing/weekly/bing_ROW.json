@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202506300700",
+        "date": "20250701",
+        "url": "https://www.bing.com/th?id=OHR.WolfeCrater_ROW4478019950_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WolfeCrater_ROW4478019950",
+        "copyright": "Wolfe Creek Crater, Australia (© Abstract Aerial Art/Getty Images)",
+        "copyrightKeyword": "Wolfe Creek Crater",
+        "hsh": "508adf933534856219a700fa46f499a5",
+        "description": "Wolfe Creek Crater in Western Australia, pictured here, was created by a meteorite estimated to have weighed over 14,000 tonnes. Known as Kandimalal to the Jaru people, it was officially identified in 1947, though Indigenous knowledge long preceded that. The crater is about 875 metres in diameter and sits within Wolfe Creek Meteorite Crater National Park, a remote protected area. Almost perfectly circular, it's among the world's largest craters. The park's flat plains and desert grasslands make the crater's rim especially visible."
+    },
+    {
         "fullstartdate": "202506290700",
         "date": "20250630",
         "url": "https://www.bing.com/th?id=OHR.BandaIsland_ROW4416839626_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DresdenElbe_ROW5477551321",
         "copyright": "Elbe river in Dresden, Germany (© Sean Pavone/Getty Images)",
         "copyrightKeyword": "Dresden",
-        "hsh": "979d9841adf185620c1813395957e0f8",
-        "description": "Berlin gets the buzz, Munich brings the beer, but what about Dresden, in Saxony, Germany? Dresden brings the story. The city, once called 'the Florence on the Elbe,' was nearly wiped off the map in 1945 during World War II. Since then, it has rebuilt itself into a place where modern museums, Baroque buildings and riverside views share the same frame. Much of the city's oldest architecture can be found in the boroughs of the Altstadt (Old Town) and Neustadt (New Town). The surrounding neighbourhoods, originally planned by Saxon monarchs in the 18th and 19th centuries, are named after Saxon sovereigns like Friedrichstadt and Albertstadt."
-    },
-    {
-        "fullstartdate": "202506220700",
-        "date": "20250623",
-        "url": "https://www.bing.com/th?id=OHR.AmazonEcuador_ROW7281571583_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AmazonEcuador_ROW7281571583",
-        "copyright": "Amazon rainforest, Ecuador (© Mark Fox/Getty Images)",
-        "copyrightKeyword": "Amazon rainforest Ecuador",
-        "hsh": "88f9056973a461716db5f11041e5c684"
+        "hsh": "979d9841adf185620c1813395957e0f8"
     }
 ]
