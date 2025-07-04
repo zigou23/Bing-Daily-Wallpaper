@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202507040700",
+        "date": "20250705",
+        "url": "https://www.bing.com/th?id=OHR.SeattleFireworks_EN-US0523563675_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SeattleFireworks_EN-US0523563675",
+        "copyright": "Fourth of July fireworks over Lake Union in Seattle (© Dixin Yan)",
+        "copyrightKeyword": "US Independence Day",
+        "hsh": "2c81fa391c1447170dce5e9ef931c55b",
+        "description": "Every year on July 4, Americans come together to celebrate the birth of our nation. It marks the day in 1776 when the Declaration of Independence was adopted, proclaiming the original 13 colonies' freedom from British rule. From coast to coast, we celebrate with fireworks, BBQs, parades, and patriotic music—and Seattle hosts one of the most dazzling displays in the country."
+    },
+    {
         "fullstartdate": "202507030700",
         "date": "20250704",
         "url": "https://www.bing.com/th?id=OHR.RainbowRiver_EN-US0442967532_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SplendidFrog_EN-US9346105347",
         "copyright": "Splendid leaf frog (© Jan Stria/Shutterstock)",
         "copyrightKeyword": "Splendid leaf frog",
-        "hsh": "f5d317646a0e055ee8cbe88b0e9b19df",
-        "description": "Don't let the name fool you—this frog isn't just leafing around. The splendid leaf frog (aka splendid tree frog) is a rainforest resident with a flair for the dramatic: neon legs, sticky feet, and a disappearing act. One minute it's a humble green leaf, the next it's a flash of color mid-leap, startling predators. This frog lives high in the canopies of Central and South America, especially in Costa Rica, Panama, and parts of Ecuador and Colombia. It spends its days snoozing on leaves and its nights foraging for insects. With vertical pupils and a golden glow, oversized eyes help this frog spot prey in the dark. Thanks to sticky toe pads and strong limbs, it can cling to branches and leaves like a pro, even in the canopy's slippery heights."
-    },
-    {
-        "fullstartdate": "202506260700",
-        "date": "20250627",
-        "url": "https://www.bing.com/th?id=OHR.HorseheadRock_EN-US2494437641_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.HorseheadRock_EN-US2494437641",
-        "copyright": "The Milky Way over Horse Head Rock, New South Wales, Australia (© Philip Thurston/Getty Images)",
-        "copyrightKeyword": "Horse Head Rock Bermagui",
-        "hsh": "097123bd0fa1d597f5fea5269c272594"
+        "hsh": "f5d317646a0e055ee8cbe88b0e9b19df"
     }
 ]

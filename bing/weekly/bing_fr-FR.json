@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202507042200",
+        "date": "20250705",
+        "url": "https://www.bing.com/th?id=OHR.TourCyclists_FR-FR4479097065_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TourCyclists_FR-FR4479097065",
+        "copyright": "Descente du col du Tourmalet lors du Tour de France 2021 (© THOMAS SAMSON/AFP via Getty Images)",
+        "copyrightKeyword": "tour de france",
+        "hsh": "ce5842b02ddaddd65ac503902d52aaa0",
+        "description": "En ce 5 juillet 2025, les premiers coups de pédale résonnent dans les rues de Lille. Le Tour de France s’élance pour sa 112e édition, prêt à traverser vallées, forêts et sommets dans un souffle collectif. Chaque été, cette grande boucle rallume la flamme du cyclisme et celle, plus intime, des souvenirs d’enfance passés au bord des routes."
+    },
+    {
         "fullstartdate": "202507032200",
         "date": "20250704",
         "url": "https://www.bing.com/th?id=OHR.OroseiSardegna_FR-FR4370872020_1920x1080.jpg",
@@ -16,7 +26,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.RainbowRiver_FR-FR9088497231",
         "copyright": "Rivière Rainbow, parc d'État de Rainbow Springs, États-Unis (© Michel Roggo/Minden Pictures)",
         "copyrightKeyword": "parc d'État de Rainbow Springs",
-        "hsh": "84e7a8c8e1c79a1376d39ed5d93fdec9",
+        "hsh": "2b6ca8a923e658a70d0cfcadc64d2acb",
         "description": "En plein cœur de la Floride, aux États-Unis, la Rainbow River serpente doucement, nourrie par l’une des plus grandes sources de l’État : les Rainbow Springs. Son eau limpide, à 22 °C toute l’année, provient d’un immense bassin de près de 2 000 km² et s’écoule vers la Withlacoochee River. Une merveille naturelle prisée des nageurs et des plongeurs."
     },
     {
@@ -26,7 +36,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MaroonClownfish_FR-FR8871091841",
         "copyright": "Poisson-clown à joues épineuses entouré d'une anémone à bouts renflés, baie de Milne, Papouasie-Nouvelle-Guinée (© Fred Bavendam/Nature Picture Library)",
         "copyrightKeyword": "Poisson-clown à joues épineuses",
-        "hsh": "a8af01c9f7c96375af3353f626558d9e",
+        "hsh": "a22b15f5d74df57bd9c1c9060c815464",
         "description": "Dans les eaux tièdes de Papouasie-Nouvelle-Guinée, un minuscule poisson écarlate danse entre les tentacules translucides d’une anémone à bouts renflés. Ce n’est pas un décor de conte fantastique, mais la vie quotidienne du poisson-clown à joues épineuses. Avec ses flancs bordeaux, ses épines sur les joues et son regard attentif, il partage son existence avec un organisme bien plus étrange que lui."
     },
     {
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PrideParade_FR-FR6694433867",
         "copyright": "Drapeaux arc-en-ciel à la Marche des Fiertés de New York, États-Unis (© Alan Schein/Getty Images)",
         "copyrightKeyword": "marche LGBTQIA+ Pride",
-        "hsh": "f809d66211996698c044c77c98779698",
-        "description": "Il y a 56 ans, un cri de liberté a résonné dans la ville américaine de New York. Dans la nuit du 28 juin 1969, au Stonewall Inn, un bar gay de Greenwich Village, une descente policière a déclenché une révolte historique. Excédée par la répression, la communauté LGBTQIA+ s’est levée. Ce refus de l’humiliation a marqué le début d’un mouvement mondial pour la dignité et l’égalité."
-    },
-    {
-        "fullstartdate": "202506262200",
-        "date": "20250627",
-        "url": "https://www.bing.com/th?id=OHR.SplendidFrog_FR-FR6442943512_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SplendidFrog_FR-FR6442943512",
-        "copyright": "Grenouille Cruziohyla calcarifer (© Jan Stria/Shutterstock)",
-        "copyrightKeyword": "amphibiens",
-        "hsh": "9396eba5267cc6c9f8593517520f2e79"
+        "hsh": "f809d66211996698c044c77c98779698"
     }
 ]
