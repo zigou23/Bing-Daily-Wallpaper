@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202507060700",
+        "date": "20250707",
+        "url": "https://www.bing.com/th?id=OHR.MesquiteFlats_EN-US0638943216_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MesquiteFlats_EN-US0638943216",
+        "copyright": "Mesquite Flat Sand Dunes in Death Valley National Park, California (© Bryan Jolley/TANDEM Stills + Motion)",
+        "copyrightKeyword": "Death Valley National Park",
+        "hsh": "c34c145f12636ce1f5de0d2e753eede8",
+        "description": "The Mesquite Flat Sand Dunes, located near Stovepipe Wells Village in Death Valley National Park, are the most accessible and iconic dunes in the park. They are formed by a combination of eroding mountains to the north that supply sand, prevailing winds that move it, and surrounding mountains that trap it from the south—creating a stunning landscape of rippling sand hills. Named after the resilient mesquite trees that grow here, the dunes offer breathtaking views at sunrise and sunset, as well as exceptional stargazing opportunities."
+    },
+    {
         "fullstartdate": "202507050700",
         "date": "20250706",
         "url": "https://www.bing.com/th?id=OHR.TourCyclists_EN-US0589835009_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BandaIsland_EN-US9494080788",
         "copyright": "Blue lagoon at Pulau Ay, Banda Islands, Indonesia (© fabio lamanna/Alamy)",
         "copyrightKeyword": "Banda Islands",
-        "hsh": "48be72a049748517b69debd7f4f4bfb2",
-        "description": "Every June 29, the International Day of the Tropics shines a light on the equator-hugging zone where the sun sticks around, and climate conversations get real. The tropics span a broad region between the Tropic of Cancer and the Tropic of Capricorn, including parts of Asia, Africa, Oceania, Central America, and South America. Nearly 40% of the global population lives in this band, which also hosts 80% of the world's biodiversity. It's rich in culture, nature, and history—but also under pressure from rising temperatures, deforestation, and fast-paced urban growth."
-    },
-    {
-        "fullstartdate": "202506280700",
-        "date": "20250629",
-        "url": "https://www.bing.com/th?id=OHR.PrideParade_EN-US9405333794_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PrideParade_EN-US9405333794",
-        "copyright": "Rainbow flags at New York Pride (© Alan Schein/Getty Images)",
-        "copyrightKeyword": "Stonewall Uprising",
-        "hsh": "a2a03648f7b22550c23369bdab003bc9"
+        "hsh": "48be72a049748517b69debd7f4f4bfb2"
     }
 ]
