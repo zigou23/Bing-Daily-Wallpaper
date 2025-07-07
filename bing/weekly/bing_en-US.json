@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202507070700",
+        "date": "20250708",
+        "url": "https://www.bing.com/th?id=OHR.ShetlandGannets_EN-US0812287314_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ShetlandGannets_EN-US0812287314",
+        "copyright": "Northern gannets diving for fish, Shetland Islands, Scotland (© Richard Shucksmith/Minden Pictures)",
+        "copyrightKeyword": "Northern gannet",
+        "hsh": "1e915f86a22e85d14cea0cf78ccc0d63",
+        "description": "Graceful, powerful, and impossible to miss—the northern gannet is the largest seabird on the waters of the North Atlantic. It spends most of its time gliding over open seas and returning to land only to breed. These seabirds, known for their vast and noisy breeding colonies, called gannetries, nest on steep cliffs, remote rocky islands, and sea stacks that rise from the ocean."
+    },
+    {
         "fullstartdate": "202507060700",
         "date": "20250707",
         "url": "https://www.bing.com/th?id=OHR.MesquiteFlats_EN-US0638943216_1920x1080.jpg",
@@ -16,7 +26,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.TourCyclists_EN-US0589835009",
         "copyright": "Descending the Col du Tourmalet in the French Pyrenees during the 2021 Tour de France (© THOMAS SAMSON/AFP via Getty Images)",
         "copyrightKeyword": "tour de france",
-        "hsh": "30c2a9b60514100983e44164b1d8694b",
+        "hsh": "70262e56a03887f0eaf2facb8a9afb8b",
         "description": "Every summer, the world's best cyclists take on one of the most grueling athletic events in modern sports—the Tour de France. Beginning this year on July 5, the 2025 race will span 21 stages and over 2,000 miles across France. First held in 1903 to boost newspaper sales, the Tour has grown into cycling's most iconic race. Riders compete in mountain climbs, sprints, and time trials, with the race traditionally ending in Paris."
     },
     {
@@ -26,7 +36,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SeattleFireworks_EN-US0523563675",
         "copyright": "Fourth of July fireworks over Lake Union in Seattle (© Dixin Yan)",
         "copyrightKeyword": "US Independence Day",
-        "hsh": "2c81fa391c1447170dce5e9ef931c55b",
+        "hsh": "e86caddb2496901a70eb10c32ade736e",
         "description": "Every year on July 4, Americans come together to celebrate the birth of our nation. It marks the day in 1776 when the Declaration of Independence was adopted, proclaiming the original 13 colonies' freedom from British rule. From coast to coast, we celebrate with fireworks, BBQs, parades, and patriotic music—and Seattle hosts one of the most dazzling displays in the country."
     },
     {
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.WolfeCrater_EN-US2390330059",
         "copyright": "Wolfe Creek Crater, Australia (© Abstract Aerial Art/Getty Images)",
         "copyrightKeyword": "Asteroid Day",
-        "hsh": "b42632d73c03dfc6b2028715008438bc",
-        "description": "Each scar on Earth from a meteorite impact tells a story—from the asteroid that wiped out the dinosaurs to the lesser-known craters that dot the planet. Asteroid Day highlights ongoing research into asteroids and the potential threats they pose. Started in 2015 and backed by the United Nations, this day marks the anniversary of the Tunguska event—a massive explosion that occurred in Siberia on June 30, 1908. This explosion flattened over 800 square miles of Siberian forest near the Tunguska River. The blast released energy equal to 10–15 megatons of TNT, a standard measure of explosive force. Since then, craters like Arizona's Barringer, Quebec's Manicouagan, and others have helped scientists study what happens when space rocks hit Earth."
-    },
-    {
-        "fullstartdate": "202506290700",
-        "date": "20250630",
-        "url": "https://www.bing.com/th?id=OHR.BandaIsland_EN-US9494080788_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BandaIsland_EN-US9494080788",
-        "copyright": "Blue lagoon at Pulau Ay, Banda Islands, Indonesia (© fabio lamanna/Alamy)",
-        "copyrightKeyword": "Banda Islands",
-        "hsh": "48be72a049748517b69debd7f4f4bfb2"
+        "hsh": "b42632d73c03dfc6b2028715008438bc"
     }
 ]
