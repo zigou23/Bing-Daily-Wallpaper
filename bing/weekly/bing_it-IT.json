@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202507082200",
+        "date": "20250709",
+        "url": "https://www.bing.com/th?id=OHR.ConstitucionStation_IT-IT2913035611_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ConstitucionStation_IT-IT2913035611",
+        "copyright": "Stazione Ferroviaria di Constitución, Buenos Aires, Argentina (© Grafissimo/Getty Images)",
+        "copyrightKeyword": "Argentina",
+        "hsh": "7cae42e6d56057ca69b88c93233b7a4f",
+        "description": "Nel cuore pulsante di Buenos Aires, la stazione ferroviaria Constitución si erge come simbolo di movimento, crescita e cambiamento. Qui, tra binari che si estendono verso ogni angolo del paese, si riflette la spinta incessante dell'Argentina verso la libertà e l'indipendenza. Questo stesso slancio animò il 9 luglio 1816, quando i delegati si riunirono a San Miguel de Tucumán per spezzare le catene del dominio coloniale spagnolo. Il cammino verso l’indipendenza fu tortuoso, influenzato dalle rivoluzioni americana e francese e segnato da conflitti interni. Eppure, la determinazione degli argentini prevalse, dando vita a una nazione che oggi abbraccia paesaggi contrastanti: ghiacciai imponenti, deserti aridi, pianure sterminate e l’immensità dell’oceano."
+    },
+    {
         "fullstartdate": "202507072200",
         "date": "20250708",
         "url": "https://www.bing.com/th?id=OHR.SecedaPeak_IT-IT2850226603_1920x1080.jpg",
@@ -26,7 +36,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MesquiteFlats_IT-IT2661681308",
         "copyright": "Dune di sabbia di Mesquite Flat nel Parco Nazionale della Valle della Morte, California, USA (© Bryan Jolley/TANDEM Stills + Motion)",
         "copyrightKeyword": "Valle della Morte California",
-        "hsh": "9ab443fb4f44cccaebca6ca82a3f7d27",
+        "hsh": "0c8d333215201baabf24c3a99ccbc11a",
         "description": "Dove il deserto disegna onde di sabbia e il cielo si estende senza confini, si trovano le dune di Mesquite Flat, vicino a Stovepipe Wells, nel cuore della Valle della Morte, nell’ovest degli Stati Uniti. Tra le più iconiche e facilmente accessibili del parco, queste dune nascono dall’incessante lavoro della natura: le montagne a nord rilasciano sabbia, i venti la trasportano, mentre le alture meridionali la intrappolano, creando un paesaggio spettacolare e mutevole. Il loro nome deriva dagli alberi di mesquite, piante resilienti che sopravvivono in questo ambiente arido. All’alba e al tramonto, le dune si tingono di colori caldi, offrendo scenari straordinari, mentre di notte diventano un luogo ideale per ammirare le stelle."
     },
     {
@@ -36,7 +46,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.TourCyclists_IT-IT1688082798",
         "copyright": "Discesa dal Col du Tourmalet nei Pirenei francesi durante il Tour de France 2021 (© THOMAS SAMSON/AFP via Getty Images)",
         "copyrightKeyword": "tour de france",
-        "hsh": "7c4c779cc32634da5f6f96dff3c1dcf6",
+        "hsh": "41bd0b055ef837329404ab40f9a9560a",
         "description": "È appena calato il sipario sul Giro d'Italia, e già siamo di nuovo in sella per uno degli appuntamenti più attesi del ciclismo mondiale: il Tour de France. L’edizione 2025 prenderà il via il 5 luglio e si articolerà in 21 tappe, coprendo oltre 3.200 chilometri attraverso il territorio francese. Nato nel 1903 per stimolare la diffusione dei quotidiani, il Tour è diventato la corsa ciclistica più emblematica al mondo. I corridori si sfidano in tappe di montagna, sprint e prove a cronometro, fino a giungere al tradizionale traguardo finale di Parigi."
     },
     {
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PalioDiSiena_IT-IT2319808114",
         "copyright": "Piazza del Campo, Siena, Toscana (© Aerial_Views/E+/Getty Images)",
         "copyrightKeyword": "Palio di Siena",
-        "hsh": "37b2ba10b68c0268f2149dcaa21b2e5b",
-        "description": "Nel cuore di Siena, in Piazza del Campo, il 2 luglio la città si accende di passione e storia con il Palio di Provenzano, dedicato alla Madonna di Provenzano. Questo straordinario evento, che si ripete anche il 16 agosto in onore della Madonna Assunta, non è solo una corsa di cavalli: è l’anima della città, un battito che riecheggia da secoli tra le pietre di Piazza del Campo. Dieci contrade, con i loro colori, stemmi e il loro fervente orgoglio, si sfidano in un confronto unico, tra le grida dei contradaioli e l’eco delle campane."
-    },
-    {
-        "fullstartdate": "202506302200",
-        "date": "20250701",
-        "url": "https://www.bing.com/th?id=OHR.CanadaDayFogo_IT-IT2208843144_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.CanadaDayFogo_IT-IT2208843144",
-        "copyright": "Villaggio di pescatori di Tilting, Isola di Fogo, Terranova e Labrador, Canada (© FedevPhoto/Getty Images)",
-        "copyrightKeyword": "Festa del Canada",
-        "hsh": "1f9e7f152099307b7cdeb90f1b8b944d"
+        "hsh": "37b2ba10b68c0268f2149dcaa21b2e5b"
     }
 ]
