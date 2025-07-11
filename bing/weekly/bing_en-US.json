@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202507110700",
+        "date": "20250712",
+        "url": "https://www.bing.com/th?id=OHR.TokyoSunrise_EN-US4269783992_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TokyoSunrise_EN-US4269783992",
+        "copyright": "Tokyo at sunrise (© pongnathee kluaythong/Getty Images)",
+        "copyrightKeyword": "World Population Day",
+        "hsh": "0b5f299f54f60650c9789a5ce852881c",
+        "description": "We are living in a full house, and it is getting fuller. With 8.2 billion people and counting, World Population Day highlights how that growth affects cities, food, and the future. First observed in 1989, the day focuses on how unchecked population growth affects sustainability. The event was inspired by Five Billion Day in 1987, which marked the approximate date when the global population hit that milestone. As cities expand, green spaces shrink, and agriculture competes for limited land and water resources. But there is a way forward—investing in education, improving access to healthcare, and building smarter cities can balance growth with sustainability."
+    },
+    {
         "fullstartdate": "202507100700",
         "date": "20250711",
         "url": "https://www.bing.com/th?id=OHR.BahamaBlues_EN-US1367794856_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SeattleFireworks_EN-US0523563675",
         "copyright": "Fourth of July fireworks over Lake Union in Seattle (© Dixin Yan)",
         "copyrightKeyword": "US Independence Day",
-        "hsh": "e86caddb2496901a70eb10c32ade736e",
-        "description": "Every year on July 4, Americans come together to celebrate the birth of our nation. It marks the day in 1776 when the Declaration of Independence was adopted, proclaiming the original 13 colonies' freedom from British rule. From coast to coast, we celebrate with fireworks, BBQs, parades, and patriotic music—and Seattle hosts one of the most dazzling displays in the country."
-    },
-    {
-        "fullstartdate": "202507030700",
-        "date": "20250704",
-        "url": "https://www.bing.com/th?id=OHR.RainbowRiver_EN-US0442967532_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.RainbowRiver_EN-US0442967532",
-        "copyright": "Rainbow River in Rainbow Springs State Park, Florida (© Michel Roggo/Minden Pictures)",
-        "copyrightKeyword": "Rainbow River Florida",
-        "hsh": "c1024f0b653042f0a2650b9776167024"
+        "hsh": "e86caddb2496901a70eb10c32ade736e"
     }
 ]
