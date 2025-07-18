@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202507180400",
+        "date": "20250719",
+        "url": "https://www.bing.com/th?id=OHR.MothWeek_FR-CA0504189694_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MothWeek_FR-CA0504189694",
+        "copyright": "Papillon lune posé sur un orme de cèdre, New Braunfels, Texas, États-Unis (© Rolf Nussbaumer/Nature Picture Library)",
+        "copyrightKeyword": "Semaine nationale des papillons de nuit",
+        "hsh": "50fa41800614c284937285fec7e13ca1",
+        "description": "Chaque année, durant la dernière semaine complète de juillet, les Canadiens sont invités à participer à la Semaine nationale des papillons de nuit, une initiative qui célèbre la diversité et le rôle écologique de ces insectes nocturnes."
+    },
+    {
         "fullstartdate": "202507170400",
         "date": "20250718",
         "url": "https://www.bing.com/th?id=OHR.FranceLavender_FR-CA9093212384_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.TokyoSunrise_FR-CA0169507494",
         "copyright": "Tokyo au lever du jour, Japon (© pongnathee kluaythong/Getty Images)",
         "copyrightKeyword": "Journée mondiale de la population",
-        "hsh": "b61f41c60a51ccbfdfa3f5e6531fb551",
-        "description": "Le soleil se lève sur la capitale japonaise de Tokyo, immense métropole tentaculaire où vivent plus de 37 millions de personnes. Cette image saisissante illustre le thème du jour : la croissance démographique mondiale."
-    },
-    {
-        "fullstartdate": "202507100400",
-        "date": "20250711",
-        "url": "https://www.bing.com/th?id=OHR.BahamaBlues_FR-CA5790040878_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BahamaBlues_FR-CA5790040878",
-        "copyright": "Eaux turquoise des Bahamas (© BlueOrange Studio/Adobe Stock)",
-        "copyrightKeyword": "les Bahamas",
-        "hsh": "3f6ad682b4ace7aa2c477fcfd80200c4"
+        "hsh": "b61f41c60a51ccbfdfa3f5e6531fb551"
     }
 ]

@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202507180700",
+        "date": "20250719",
+        "url": "https://www.bing.com/th?id=OHR.FloridaSeashore_EN-US9038929616_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FloridaSeashore_EN-US9038929616",
+        "copyright": "Beach at sunrise, Gulf Islands National Seashore, Florida (© Tim Fitzharris/Minden Pictures)",
+        "copyrightKeyword": "Gulf Islands National Seashore",
+        "hsh": "1e832b9ff42021e8861e44a0db906394",
+        "description": "Gulf Islands National Seashore spans the northern Gulf of Mexico along the coasts of Florida and Mississippi, offering recreational activities and preserving natural and historic sites. Established in 1971, it boasts miles of white sand beaches, historic fortifications, and rich wildlife habitats. The seashore includes a 4,080-acre wilderness area on Mississippi's Petit Bois and Horn Islands, protecting their unique ecosystems. Besides being a perfect spot for snorkeling, hiking, and swimming, the seashore is home to a wide range of wildlife including armadillos, dolphins, pelicans, and sea turtles."
+    },
+    {
         "fullstartdate": "202507170700",
         "date": "20250718",
         "url": "https://www.bing.com/th?id=OHR.FranceLavender_EN-US5224253118_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.TokyoSunrise_EN-US4269783992",
         "copyright": "Tokyo at sunrise (© pongnathee kluaythong/Getty Images)",
         "copyrightKeyword": "World Population Day",
-        "hsh": "0b5f299f54f60650c9789a5ce852881c",
-        "description": "We are living in a full house, and it is getting fuller. With 8.2 billion people and counting, World Population Day highlights how that growth affects cities, food, and the future. First observed in 1989, the day focuses on how unchecked population growth affects sustainability. The event was inspired by Five Billion Day in 1987, which marked the approximate date when the global population hit that milestone. As cities expand, green spaces shrink, and agriculture competes for limited land and water resources. But there is a way forward—investing in education, improving access to healthcare, and building smarter cities can balance growth with sustainability."
-    },
-    {
-        "fullstartdate": "202507100700",
-        "date": "20250711",
-        "url": "https://www.bing.com/th?id=OHR.BahamaBlues_EN-US1367794856_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BahamaBlues_EN-US1367794856",
-        "copyright": "Turquoise waters of the Bahamas (© BlueOrange Studio/Adobe Stock)",
-        "copyrightKeyword": "the Bahamas",
-        "hsh": "1032ee1a930c6481e481286bd5c25b59"
+        "hsh": "0b5f299f54f60650c9789a5ce852881c"
     }
 ]
