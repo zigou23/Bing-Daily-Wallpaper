@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202507192200",
+        "date": "20250720",
+        "url": "https://www.bing.com/th?id=OHR.BigMoon_DE-DE6584424311_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BigMoon_DE-DE6584424311",
+        "copyright": "Foto der Mondoberfläche durch ein Teleskop (© Sergey Kuznetsov/Getty Images)",
+        "copyrightKeyword": "Mond",
+        "hsh": "4e73dfe9a2d8d89b058925a2cfd2f523",
+        "description": "Heute wird der Internationale Mondtag gefeiert, ein Datum, das von den Vereinten Nationen festgelegt wurde, um der ersten Landung des Menschen auf dem Mond am 20. Juli 1969 zu gedenken. Dieser Tag soll die Öffentlichkeit für die Bedeutung der Mondforschung und ihrer nachhaltigen Nutzung sensibilisieren. Interessanterweise ist der Mond etwa 4,5 Milliarden Jahre alt und seine Oberfläche ist aufgrund von Meteoriteneinschlägen mit Kratern bedeckt. Außerdem beträgt die Schwerkraft des Mondes nur ein Sechstel der Erde, was es den Astronauten ermöglicht, beeindruckende Sprünge zu machen."
+    },
+    {
         "fullstartdate": "202507182200",
         "date": "20250719",
         "url": "https://www.bing.com/th?id=OHR.MothWeek_DE-DE7350997027_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BasaltColumns_DE-DE6897663571",
         "copyright": "Basaltsäulen in der Bucht von Kálfshamarsvík, Halbinsel Skagi, Island (© Arterra Picture Library/Alamy)",
         "copyrightKeyword": "Gestein Geologie",
-        "hsh": "03da967acc7353d86ef4f547da0054ca",
-        "description": "Gesteine sind nicht nur Teil der Landschaft – sie erzählen Geschichten von Vulkanen, Eiszeiten und menschlicher Entwicklung. Ein faszinierendes Beispiel dafür ist Kálfshamarsvík, eine abgelegene Bucht im Nordwesten Islands, wie das heutige Bild zeigt. Dort formen sechseckige Basaltsäulen eine nahezu surreale Küstenlandschaft. Sie sind vor etwa zwei Millionen Jahren entstanden, als Lava langsam abkühlte und geometrisch aufriss. Besonders beeindruckend ist, dass die Säulen nicht nur senkrecht, sondern auch waagrecht und diagonal verlaufen – ein seltenes Phänomen, das selbst in Island kaum zu finden ist. Die Bucht liegt abseits der Touristenpfade nahe dem Ort Skagaströnd und ist ein Geheimtipp für Natur- und Fotofans."
-    },
-    {
-        "fullstartdate": "202507112200",
-        "date": "20250712",
-        "url": "https://www.bing.com/th?id=OHR.ThomsonGazelle_DE-DE6657498392_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ThomsonGazelle_DE-DE6657498392",
-        "copyright": "Thomson-Gazelle, Mutter und Kitz, Maasai Mara, Kenia (© Gallo Images/DanitaDelimont.com)",
-        "copyrightKeyword": "Thomson-Gazelle",
-        "hsh": "9cbb37f85919aff52e131268d870b90d"
+        "hsh": "03da967acc7353d86ef4f547da0054ca"
     }
 ]
