@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202507210700",
+        "date": "20250722",
+        "url": "https://www.bing.com/th?id=OHR.AcroporaReef_EN-US5567789372_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AcroporaReef_EN-US5567789372",
+        "copyright": "Staghorn coral off the island of Bonaire, Caribbean Netherlands (© blue-sea.cz/Shutterstock)",
+        "copyrightKeyword": "Coral Reef Awareness Week",
+        "hsh": "dc9d88db75b5c416b965cb0c3c046e6b",
+        "description": "Every third week of July, Coral Reef Awareness Week reminds us that beneath the ocean's surface lies a world as rich and complex as any rainforest. Coral reefs—like the staghorn coral pictured here off the coast of Bonaire in the Caribbean Netherlands—are home to roughly 25% of all marine species, despite covering less than 1% of the seafloor. These ecosystems not only support ocean biodiversity but also protect coastlines and drive economies through tourism and fishing."
+    },
+    {
         "fullstartdate": "202507200700",
         "date": "20250721",
         "url": "https://www.bing.com/th?id=OHR.BigMoon_EN-US5436003142_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.YoungShark_EN-US4689572794",
         "copyright": "Young blue shark swimming off the coast of Galicia, Spain (© Damocean/Getty Images)",
         "copyrightKeyword": "blue shark",
-        "hsh": "7754c7bf3e366fb9d92c825144e959d8",
-        "description": "Sharks have been around for over 400 million years—outlasting dinosaurs, surviving ice ages, and weathering mass extinctions. They are symbols of ocean health, which is why Shark Awareness Day draws attention to these apex predators that help maintain balance in marine ecosystems. Protecting sharks means preserving the health of entire ocean environments—and ultimately, securing a sustainable future for all life. With many shark species facing the threat of extinction, this day is all about appreciating their ancient legacy and learning how we can help keep them off the endangered list."
-    },
-    {
-        "fullstartdate": "202507130700",
-        "date": "20250714",
-        "url": "https://www.bing.com/th?id=OHR.BasaltColumns_EN-US4476950150_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BasaltColumns_EN-US4476950150",
-        "copyright": "Basalt columns at Kálfshamarsvík, Skagi Peninsula, Iceland (© Arterra Picture Library/Alamy)",
-        "copyrightKeyword": "Rock geology",
-        "hsh": "eeb8717a444c1d641dda4675745b41cc"
+        "hsh": "7754c7bf3e366fb9d92c825144e959d8"
     }
 ]
