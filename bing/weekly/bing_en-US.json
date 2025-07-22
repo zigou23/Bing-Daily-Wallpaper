@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202507220700",
+        "date": "20250723",
+        "url": "https://www.bing.com/th?id=OHR.BadlandsSunset_EN-US5821746223_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BadlandsSunset_EN-US5821746223",
+        "copyright": "Sunset over Badlands National Park, South Dakota (© Petr Bednarik/Danita Delimont/Alamy)",
+        "copyrightKeyword": "Badlands National Park South Dakota",
+        "hsh": "a0981af31affaab560afa8f4c651f208",
+        "description": "As the sun sets over Badlands National Park, the landscape transforms into a stunning display of color. The national park, located in southwestern South Dakota, features a dramatic terrain of eroded buttes, pinnacles, and spires carved by millennia of wind and water. Spanning over 379 square miles, the park is divided into three main units: the North Unit, home to the visitor center and scenic Badlands Loop Road; and the Stronghold and Palmer Creek units. The park's dramatic terrain is the result of sedimentary rock layers eroding at a rate of about one inch per year, revealing colorful bands of volcanic ash, silt, and clay. These formations are not only visually striking but also rich in fossils, including remains from the Oligocene Epoch (about 33.9 to 23 million years ago), such as ancient horses, camels, and saber-toothed cats."
+    },
+    {
         "fullstartdate": "202507210700",
         "date": "20250722",
         "url": "https://www.bing.com/th?id=OHR.AcroporaReef_EN-US5567789372_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PerseidsPine_EN-US4826682211",
         "copyright": "Perseid meteor shower and an ancient bristlecone pine, Great Basin National Park, Nevada (© Wirestock Creators/Shutterstock)",
         "copyrightKeyword": "Perseid meteor shower",
-        "hsh": "e672da1044e3f68fba710a5d89794888",
-        "description": "Get ready for one of the most dazzling celestial displays of the year—the Perseid meteor shower. Active from mid-July through late August, this year it reaches its spectacular peak on the night of August 12 and into the early hours of August 13. The Perseids light up the skies when Earth passes through a trail of icy and rocky debris left behind by Comet Swift–Tuttle, which last passed close to our planet in 1992. These meteors are called the Perseids because they appear to streak from the direction of the constellation Perseus."
-    },
-    {
-        "fullstartdate": "202507140700",
-        "date": "20250715",
-        "url": "https://www.bing.com/th?id=OHR.YoungShark_EN-US4689572794_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.YoungShark_EN-US4689572794",
-        "copyright": "Young blue shark swimming off the coast of Galicia, Spain (© Damocean/Getty Images)",
-        "copyrightKeyword": "blue shark",
-        "hsh": "7754c7bf3e366fb9d92c825144e959d8"
+        "hsh": "e672da1044e3f68fba710a5d89794888"
     }
 ]
