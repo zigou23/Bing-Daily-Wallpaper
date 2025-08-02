@@ -1,12 +1,22 @@
 [
     {
+        "fullstartdate": "202508020700",
+        "date": "20250803",
+        "url": "https://www.bing.com/th?id=OHR.FruitaPetroglyphs_EN-US8712481828_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FruitaPetroglyphs_EN-US8712481828",
+        "copyright": "Petroglyphs near Fruita in Capitol Reef National Park, Utah (© Nicolas VINCENT/Adobe Stock)",
+        "copyrightKeyword": "Capitol Reef National Park",
+        "hsh": "21b6dec2c82a4b7b4bc762d992832543",
+        "description": "There's something timeless about Capitol Reef National Park—a place where red rock cliffs, winding canyons, and ancient stories come together under Utah's desert sky. Designated a national park in 1971, Capitol Reef invites reflection—not just on its vivid geology, but on the ancient narratives and cultural heritage etched into its landscape."
+    },
+    {
         "fullstartdate": "202508010700",
         "date": "20250802",
         "url": "https://www.bing.com/th?id=OHR.EdinburghFringe_EN-US5923216873_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.EdinburghFringe_EN-US5923216873",
         "copyright": "Royal Mile, Edinburgh, Scotland (© MEDITERRANEAN/Getty Images)",
         "copyrightKeyword": "Edinburgh Festival Fringe",
-        "hsh": "a11ef01df1f96df59c8c9d24667b85dd",
+        "hsh": "2faa59cbd7f72465fb1c9c6e2a925075",
         "description": "Every August, Edinburgh stops being just a city and starts acting up—literally. From pub basements to park benches, stages appear in the strangest places, and shows pop up on quiet streets. Welcome to the Edinburgh Festival Fringe, or the Fringe. The story began in 1947, when eight theater groups turned up uninvited to the Edinburgh International Festival. They performed anyway. That spirit of rebellion stuck, and the Fringe was born."
     },
     {
@@ -16,7 +26,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BabyLemur_EN-US9264861498",
         "copyright": "Ring-tailed lemur infant playing with its own tail, Madagascar (© Andy Rouse/Nature Picture Library)",
         "copyrightKeyword": "Ring tailed lemur",
-        "hsh": "3f5fd5a29c6cfc24002dbbccd082cb20",
+        "hsh": "16e9307029f9ed66910a3c0c5d88045b",
         "description": "It looks like this small creature is playing a game, right? But when a baby ring-tailed lemur wraps its tail around or gives it a tug, it's actually working on crucial skills. The infants spend their early weeks hanging tight to their mom, first clinging to her belly, and later to her back. As they grow, they separate from their mom, and tail-chasing becomes part of how they learn balance, coordination, and group play. These primates use their long tails for communication as well. Raised like flags during group movement, the tails help them stick together in open terrain. Loud, rhythmic calls, scent markings, and 'stink fights' between males add to the social drama."
     },
     {
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MangroveTwilight_EN-US0646432423",
         "copyright": "Mangrove trees at twilight, Walakiri Beach, island of Sumba, Indonesia (© Boonchet Ch./Getty Images)",
         "copyrightKeyword": "International Day for the Conservation of the Mangrove Ecosystem",
-        "hsh": "34276ae540517abfc3f4afaba70065b1",
-        "description": "As twilight descends on Walakiri Beach on the island of Sumba, Indonesia, the silhouettes of mangrove trees stand like sentinels in the tide—graceful, resilient, and vital. Today, on International Day for the Conservation of the Mangrove Ecosystem, we honor these extraordinary trees and the critical role they play in sustaining life on our planet."
-    },
-    {
-        "fullstartdate": "202507250700",
-        "date": "20250726",
-        "url": "https://www.bing.com/th?id=OHR.LasPalmas_EN-US0568727017_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LasPalmas_EN-US0568727017",
-        "copyright": "Aerial view of colorful houses, Las Palmas de Gran Canaria, Spain (© Marco Bottigelli/Getty Images)",
-        "copyrightKeyword": "Las Palmas de Gran Canaria",
-        "hsh": "0c594a9239b74a6d9234d06fef4897b8"
+        "hsh": "34276ae540517abfc3f4afaba70065b1"
     }
 ]

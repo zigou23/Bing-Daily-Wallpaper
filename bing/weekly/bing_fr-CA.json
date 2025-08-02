@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202508020400",
+        "date": "20250803",
+        "url": "https://www.bing.com/th?id=OHR.FruitaPetroglyphs_FR-CA1725199381_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FruitaPetroglyphs_FR-CA1725199381",
+        "copyright": "Pétroglyphes près de Fruita, dans le parc national de Capitol Reef, Utah, États-Unis (© Nicolas VINCENT/Adobe Stock)",
+        "copyrightKeyword": "parc national de capitol reef",
+        "hsh": "9b2bc5894265ee8cc9c510d3ac125130",
+        "description": "Capitol Reef, dans l’ouest des États-Unis, déploie ses falaises rouges et ses canyons comme un vaste livre ouvert sur le passé. Bien avant les sentiers de randonnée et les visiteurs d’aujourd’hui, ce territoire était habité par les peuples Fremont, entre environ l’an 300 et 1300 de notre ère."
+    },
+    {
         "fullstartdate": "202508010400",
         "date": "20250802",
         "url": "https://www.bing.com/th?id=OHR.EdinburghFringe_FR-CA9015362878_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MangroveTwilight_FR-CA3446891760",
         "copyright": "Mangroves au crépuscule, plage de Walakiri, île de Sumba, Indonésie (© Boonchet Ch./Getty Images)",
         "copyrightKeyword": "mangrove",
-        "hsh": "b38e0bf8b2a5e5e54bf587389068af06",
-        "description": "À la tombée du jour, sur la plage de Walakiri, au nord-est de l’île de Sumba en Indonésie, les mangroves dressent leurs silhouettes dans la marée, telles des sentinelles silencieuses. Aujourd’hui, en cette Journée internationale pour la conservation de l’écosystème des mangroves, leur grâce et leur résilience nous rappellent combien ces arbres sont essentiels à la vie."
-    },
-    {
-        "fullstartdate": "202507250400",
-        "date": "20250726",
-        "url": "https://www.bing.com/th?id=OHR.LasPalmas_FR-CA3298447065_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LasPalmas_FR-CA3298447065",
-        "copyright": "Vue aérienne des maisons colorées, Las Palmas de Gran Canaria, Espagne (© Marco Bottigelli/Getty Images)",
-        "copyrightKeyword": "Las Palmas de Gran Canaria",
-        "hsh": "2b185b4f2af64c2327f818f28c408b8f"
+        "hsh": "b38e0bf8b2a5e5e54bf587389068af06"
     }
 ]
