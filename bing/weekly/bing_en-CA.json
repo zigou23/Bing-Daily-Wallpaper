@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202508030400",
+        "date": "20250804",
+        "url": "https://www.bing.com/th?id=OHR.HappySunflower_EN-CA4879838776_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.HappySunflower_EN-CA4879838776",
+        "copyright": "Sunflowers blooming in a field in summer (© Arsgera/Shutterstock)",
+        "copyrightKeyword": "Sunflower",
+        "hsh": "570ca2c6fdebdcf1752b4d13a1cf40b0",
+        "description": "Bright and bold, sunflowers are loved by bees, birds and just about everyone. The name of their genus, helianthus, comes from the Greek words for sun (helios) and flower (anthos). These annual plants are known for their large, daisy-like flowers and radiant charm. While sunflowers come in shades of red, orange and maroon, it's the classic yellow blooms with brown centres that are the most common."
+    },
+    {
         "fullstartdate": "202508020400",
         "date": "20250803",
         "url": "https://www.bing.com/th?id=OHR.FruitaPetroglyphs_EN-CA4731117661_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BlackfinBarracuda_EN-CA3621644676",
         "copyright": "School of blackfin barracuda, Shark Reef, Ras Mohammed National Park, Sinai Peninsula, Egypt (© Alex Mustard/Nature Picture Library)",
         "copyrightKeyword": "Ras Mohammed National Park",
-        "hsh": "b1548b9280c0574e271f04aa5bde4978",
-        "description": "Being surrounded by a shimmering spiral of silver—that's what it feels like to encounter a school of blackfin barracuda at Shark Reef in Ras Mohammed National Park, Egypt. These streamlined fish, marked by sharp V-shaped stripes, move in near-perfect unison. Their slow, deliberate spirals aren't random—they're an evolutionary strategy that offers both safety in numbers and an edge in hunting. Blackfin barracudas are found throughout tropical waters, from the Red Sea to the central Pacific. During the day, they gather in tight, coordinated groups near the reef, scattering at dusk to pursue prey."
-    },
-    {
-        "fullstartdate": "202507260400",
-        "date": "20250727",
-        "url": "https://www.bing.com/th?id=OHR.MangroveTwilight_EN-CA3445258233_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MangroveTwilight_EN-CA3445258233",
-        "copyright": "Mangrove trees at twilight, Walakiri Beach, island of Sumba, Indonesia (© Boonchet Ch./Getty Images)",
-        "copyrightKeyword": "International Day for the Conservation of the Mangrove Ecosystem",
-        "hsh": "a88169abf3c323354a8910ed15841555"
+        "hsh": "b1548b9280c0574e271f04aa5bde4978"
     }
 ]
