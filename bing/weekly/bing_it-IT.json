@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202508062200",
+        "date": "20250807",
+        "url": "https://www.bing.com/th?id=OHR.GasparillaLight_IT-IT1390366319_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GasparillaLight_IT-IT1390366319",
+        "copyright": "Faro dell’isola di Gasparilla, Boca Grande, Florida, USA (© Wiltser/Getty Images)",
+        "copyrightKeyword": "Faro struttura",
+        "hsh": "1fee4e8a71ccc43b2786dc13252b248b",
+        "description": "Sulla costa di Gasparilla Island, nello stato americano della Florida, il Rear Range Light resiste come una sentinella del tempo. Assemblato in Delaware e giunto qui nel 1927, ha attraversato tempeste e silenzi. Disattivato dalla Guardia Costiera nel 2014, è stato restaurato con cura e ha riacceso la sua luce nel 2018: una pulsazione bianca ogni sei secondi, come il battito lento di una memoria che non vuole svanire. Più che una struttura, è un frammento di storia che veglia sul mare e su chi lo attraversa."
+    },
+    {
         "fullstartdate": "202508052200",
         "date": "20250806",
         "url": "https://www.bing.com/th?id=OHR.RuotaRimini_IT-IT1297102060_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.NaPaliKauai_IT-IT1557569434",
         "copyright": "Spiaggia di Kalalau sulla costa di Nā Pali, Kauai, Hawaii, USA (© Russ Bishop/DanitaDelimont.com)",
         "copyrightKeyword": "Kalalau Beach USA",
-        "hsh": "994a9af95fd52efe0090bf43686e5880",
-        "description": "C’è chi canta e sogna \"l’isola che non c’è\", dove i sogni fanno rotta senza mai toccare terra, dove la mappa finisce e inizia la fantasia. Ma c’è un’isola vera, lontana, e per questo quasi irreale, che resiste al tempo come una favola salata: Kalalau. Nessun cartello, nessun venditore di sogni, poco più di diciassette chilometri di fango, scogliere e silenzi, la proteggono come un confine tracciato dal vento. E alla fine, se hai cuore abbastanza, la sabbia ti accoglie come una promessa mantenuta."
-    },
-    {
-        "fullstartdate": "202507292200",
-        "date": "20250730",
-        "url": "https://www.bing.com/th?id=OHR.SaypeDubai_IT-IT8691118780_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SaypeDubai_IT-IT8691118780",
-        "copyright": "Installazione di land-art \"Beyond Walls\" di Saype a Expo 2020 Dubai, Emirati Arabi Uniti (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)",
-        "copyrightKeyword": "Giornata Mondiale dell’ Amicizia",
-        "hsh": "7d1dfc72024025dca6a16a25c93bc51d"
+        "hsh": "994a9af95fd52efe0090bf43686e5880"
     }
 ]

@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202508060400",
+        "date": "20250807",
+        "url": "https://www.bing.com/th?id=OHR.BabyLemur_FR-CA2192147292_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BabyLemur_FR-CA2192147292",
+        "copyright": "Un jeune Lemur catta qui joue avec sa queue, Madagascar (© Andy Rouse/Nature Picture Library)",
+        "copyrightKeyword": "Lemur catta",
+        "hsh": "fb5cd7304818fc53be8c8de17401bee8",
+        "description": "À Madagascar, un jeune lémur catta enroule sa queue autour de ses doigts. Ce geste tendre cache un apprentissage essentiel : équilibre, coordination, confiance… Chez les lémurs, le jeu est une école de la vie. Au départ, le petit ne quitte pas sa mère. Puis il explore le monde, toujours entouré de son groupe."
+    },
+    {
         "fullstartdate": "202508050400",
         "date": "20250806",
         "url": "https://www.bing.com/th?id=OHR.CaliforniaTidepool_FR-CA1946235706_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SaypeDubai_FR-CA7685243127",
         "copyright": "Fresque Beyond Walls de Saype à l’Expo 2020 de Dubaï, Émirats arabes unis (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)",
         "copyrightKeyword": "amitié",
-        "hsh": "d624625506330a0ce3af5b3085f1a792",
-        "description": "Deux mains géantes entrelacées, peintes sur l’herbe de l’Expo 2020 à Dubaï. Cette fresque monumentale de l’artiste franco-suisse Saype, intitulée Beyond Walls, a été réalisée avec de la peinture biodégradable sur plus de 1 500 m² de pelouse. Elle symbolise un geste simple, universel : tendre la main. Elle a été dévoilée à l’occasion de la fête nationale suisse, en partenariat avec le Pavillon suisse."
-    },
-    {
-        "fullstartdate": "202507290400",
-        "date": "20250730",
-        "url": "https://www.bing.com/th?id=OHR.TigerDay_FR-CA7359763781_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.TigerDay_FR-CA7359763781",
-        "copyright": "Tigresse du Bengale, parc national de Kanha, Inde (© Axel Gomille/Nature Picture Library)",
-        "copyrightKeyword": "tigre du Bengale",
-        "hsh": "d028c983ba85de09fd9fd94fddb8b248"
+        "hsh": "d624625506330a0ce3af5b3085f1a792"
     }
 ]

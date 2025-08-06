@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202508062200",
+        "date": "20250807",
+        "url": "https://www.bing.com/th?id=OHR.GasparillaLight_ES-ES4564834622_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GasparillaLight_ES-ES4564834622",
+        "copyright": "Luz de alcance trasero de la isla Gasparilla, Boca Grande, Florida, EE. UU. (© Wiltser/Getty Images)",
+        "copyrightKeyword": "Isla Gasparilla",
+        "hsh": "4aa122f4333dc146e8d03cb40e054562",
+        "description": "Antes de que el GPS guiara a los barcos, los faros eran la luz que señalaba el camino, cada uno con su patrón único de destellos para que los marineros supieran dónde estaban, incluso en la oscuridad total. Hoy, en el Día Mundial de los Faros, rendimos homenaje a estas antiguas y esenciales guías marítimas."
+    },
+    {
         "fullstartdate": "202508052200",
         "date": "20250806",
         "url": "https://www.bing.com/th?id=OHR.BabyLemur_ES-ES4465039868_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.NaPaliKauai_ES-ES3845188228",
         "copyright": "Playa de Kalalau en la costa de Nā Pali, Kauai, Hawái, EE. UU. (© Russ Bishop/DanitaDelimont.com)",
         "copyrightKeyword": "Valle de Kalalau",
-        "hsh": "36d6dc0883535c8262da77ecff36ce52",
-        "description": "No hay señales de tráfico ni tiendas de recuerdos, solo 18 kilómetros de barro, acantilados y vistas espectaculares que conducen a una de las playas más remotas de Hawái en Estados Unidos: la playa de Kalalau, en la isla de Kauai. El único acceso terrestre es el sendero Kalalau, una ruta exigente que atraviesa valles y costas abruptas. En verano, algunos se aventuran en kayak, pero siempre se necesita un permiso para acampar."
-    },
-    {
-        "fullstartdate": "202507292200",
-        "date": "20250730",
-        "url": "https://www.bing.com/th?id=OHR.SaypeDubai_ES-ES3758779799_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SaypeDubai_ES-ES3758779799",
-        "copyright": "Proyecto Beyond Walls de Saype en la Expo 2020 Dubai, Emiratos Árabes Unidos (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)",
-        "copyrightKeyword": "Día Internacional de la Amistad",
-        "hsh": "14f66363e2a4d3a6ce8e35a18238ca3f"
+        "hsh": "36d6dc0883535c8262da77ecff36ce52"
     }
 ]
