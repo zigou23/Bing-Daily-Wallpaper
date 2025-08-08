@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202508082200",
+        "date": "20250809",
+        "url": "https://www.bing.com/th?id=OHR.MaoriRock_FR-FR6352219710_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MaoriRock_FR-FR6352219710",
+        "copyright": "Sculptures rupestres maories de Mine Bay, Lac Taupō, Nouvelle-Zélande (© Joppi/Getty Images)",
+        "copyrightKeyword": "Journée internationale des peuples autochtones",
+        "hsh": "5bd3985626fc12a48085488cb9b32983",
+        "description": "Sur les rives volcaniques du lac Taupō, en Nouvelle-Zélande, des visages maories sculptés dans la falaise émergent de la pierre, majestueux et silencieux. Ils semblent parler au vent, à l’eau et aux forêts qui les entourent. Ces œuvres, accessibles uniquement par bateau, honorent les ancêtres et le lien profond des peuples autochtones à leur terre."
+    },
+    {
         "fullstartdate": "202508072200",
         "date": "20250808",
         "url": "https://www.bing.com/th?id=OHR.IguazuArgentina_FR-FR7785878187_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.FruitaPetroglyphs_FR-FR1575375079",
         "copyright": "Pétroglyphes près de Fruita, dans le parc national de Capitol Reef, Utah, États-Unis (© Nicolas VINCENT/Adobe Stock)",
         "copyrightKeyword": "parc national de capitol reef",
-        "hsh": "18155173ac3df5eaf17bbf4667039829",
-        "description": "Capitol Reef, dans l’ouest des États-Unis, déploie ses falaises rouges et ses canyons comme un vaste livre ouvert sur le passé. Bien avant les sentiers de randonnée et les visiteurs d’aujourd’hui, ce territoire était habité par les peuples Fremont, entre environ l’an 300 et 1300 de notre ère."
-    },
-    {
-        "fullstartdate": "202507312200",
-        "date": "20250801",
-        "url": "https://www.bing.com/th?id=OHR.LorientCeltic_FR-FR1271228559_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LorientCeltic_FR-FR1271228559",
-        "copyright": "Costumes folkloriques bretons, Lorient, Finistère (© guy-ozenne/Getty images)",
-        "copyrightKeyword": " Festival Celtic de Lorient",
-        "hsh": "96a2a8de3becd09e5fd92738d7dabcc0"
+        "hsh": "18155173ac3df5eaf17bbf4667039829"
     }
 ]
