@@ -1,12 +1,22 @@
 [
     {
+        "fullstartdate": "202508110700",
+        "date": "20250812",
+        "url": "https://www.bing.com/th?id=OHR.SantaMaddalena_EN-US8546897995_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SantaMaddalena_EN-US8546897995",
+        "copyright": "Village of Santa Maddalena, Dolomites, Italy (© Sakrapee Nopparat/Getty Images)",
+        "copyrightKeyword": "Dolomites",
+        "hsh": "13553fb5a44f65aa1feb149b0a248636",
+        "description": "Tucked into the northern Italian Alps, the village of Santa Maddalena is a postcard-perfect hamlet in South Tyrol's valley of Val di Funes. With its iconic church steeple set against the jagged peaks of the Dolomites—a mountain range in the Alps—it's one of the most photographed spots in the region. The Dolomites themselves—a UNESCO World Heritage Site—rise dramatically behind the village, their pale limestone faces glowing pink at sunset in a phenomenon locals call 'enrosadira.'"
+    },
+    {
         "fullstartdate": "202508100700",
         "date": "20250811",
         "url": "https://www.bing.com/th?id=OHR.LionessKenya_EN-US8440386444_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.LionessKenya_EN-US8440386444",
         "copyright": "Lioness in Maasai Mara National Reserve, Kenya (© Tandem Stock/Adobe Stock)",
         "copyrightKeyword": "World Lion Day",
-        "hsh": "fccea83bcf44be9a080d911dd24e1224",
+        "hsh": "24a3c75b977e03fd16adb45ac2203e19",
         "description": "With a roar that echoes across the plains, lions have long captured the human imagination. On August 10, World Lion Day invites us to celebrate these iconic big cats while raising awareness about their declining numbers and the urgent need for conservation."
     },
     {
@@ -15,8 +25,8 @@
         "url": "https://www.bing.com/th?id=OHR.MaoriRock_EN-US6499689741_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.MaoriRock_EN-US6499689741",
         "copyright": "Ngātoroirangi Mine Bay Māori Rock Carvings on Lake Taupō, New Zealand (© Joppi/Getty Images)",
-        "copyrightKeyword": "International Day of the Worlds Indigenous Peoples",
-        "hsh": "9d3db4a5f0ce2f47854fc5ce2ef24141",
+        "copyrightKeyword": "International Day of the World's Indigenous Peoples",
+        "hsh": "16dea2ce37c594b3885f7ba1e4ba53ed",
         "description": "Each year on August 9, the United Nations observes the International Day of the World's Indigenous Peoples—a moment to recognize the resilience, wisdom, and cultural richness of Indigenous communities around the globe. In the US, this day invites reflection on the histories and contributions of Native American nations, while also encouraging solidarity with Indigenous peoples worldwide."
     },
     {
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LaplandOwl_EN-US8965493818",
         "copyright": "Great gray owls in their nest, Finland (© imageBROKER.com/Alamy)",
         "copyrightKeyword": "great gray owl",
-        "hsh": "c8216df13e54f767d0cd27ed79a94658",
-        "description": "Silent hunters of the night sky, owls are among the most intriguing creatures in the animal kingdom. Their ability to turn their heads up to 270 degrees—combined with silent flight and exceptional night vision—showcases their remarkable adaptations. With over 200 species found across the globe, these birds contribute to ecological balance and are deeply woven into cultural traditions. Celebrated annually on August 4, International Owl Awareness Day not only honors their presence in nature but also raises awareness about the threats they face."
-    },
-    {
-        "fullstartdate": "202508030700",
-        "date": "20250804",
-        "url": "https://www.bing.com/th?id=OHR.HappySunflower_EN-US8791544241_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.HappySunflower_EN-US8791544241",
-        "copyright": "Sunflowers in a field in summer (© Arsgera/Shutterstock)",
-        "copyrightKeyword": "Sunflower",
-        "hsh": "20aa6b81394395459a1cb8a53d342c24"
+        "hsh": "c8216df13e54f767d0cd27ed79a94658"
     }
 ]
