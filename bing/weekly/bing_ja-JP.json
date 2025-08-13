@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202508131500",
+        "date": "20250814",
+        "url": "https://www.bing.com/th?id=OHR.PizNairPeak_JA-JP2425115607_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PizNairPeak_JA-JP2425115607",
+        "copyright": "ピッツ・ネイル, スイス (© Roberto Moiola/Alamy)",
+        "copyrightKeyword": "ピッツ・ネイル",
+        "hsh": "50b6292adc84c883e1c4410aed4dacd0",
+        "description": "スイスに位置するアルプスの名峰、ピッツ・ネイル。標高約 3,056m で、ケーブルカーやロープウェイを乗り継いで山頂までアクセスできます。頂上には、アイベックスというアルプスに生息するヤギの彫像が立っており、展望台とレストランも併設されています…"
+    },
+    {
         "fullstartdate": "202508121500",
         "date": "20250813",
         "url": "https://www.bing.com/th?id=OHR.CoronaArch_JA-JP2223848865_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BabyLemur_JA-JP3588561100",
         "copyright": "ワオキツネザル, マダガスカル (© Andy Rouse/Nature Picture Library)",
         "copyrightKeyword": "ワオキツネザル",
-        "hsh": "492b877165323b133315ffab083bd4c4",
-        "description": "ふさふさの縞模様の尾がひときわ目を引くワオキツネザル。その長い尾は、木々の間を移動するときにバランスを取るために使われるほか、仲間とのコミュニケーションにも使われます。また、群れで移動する際には、メンバー同士に位置を知らせるために尾を立てて歩きます…"
-    },
-    {
-        "fullstartdate": "202508051500",
-        "date": "20250806",
-        "url": "https://www.bing.com/th?id=OHR.HiroshimaPeace2025_JA-JP3351733972_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.HiroshimaPeace2025_JA-JP3351733972",
-        "copyright": "平和のピースキャンドル, 長崎県 長崎市 (© NurPhoto/寄稿者/Getty Images)",
-        "copyrightKeyword": "広島平和記念日",
-        "hsh": "ad66f162077908d53ea1423418753059"
+        "hsh": "492b877165323b133315ffab083bd4c4"
     }
 ]
