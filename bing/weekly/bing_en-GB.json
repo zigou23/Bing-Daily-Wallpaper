@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202508162300",
+        "date": "20250817",
+        "url": "https://www.bing.com/th?id=OHR.LyngvigLighthouse_EN-GB3070055068_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LyngvigLighthouse_EN-GB3070055068",
+        "copyright": "Lyngvig Lighthouse, Hvide Sande, Denmark (© Caroline Brundle Bugge/Getty Images)",
+        "copyrightKeyword": "International Lighthouse Lightship Weekend",
+        "hsh": "3ce7c7c284ec338cd45a1bd7eaa6d073"
+    },
+    {
         "fullstartdate": "202508152300",
         "date": "20250816",
         "url": "https://www.bing.com/th?id=OHR.GarlicFestival2025_EN-GB2919536930_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Lioness in Maasai Mara National Reserve, Kenya (© Tandem Stock/Adobe Stock)",
         "copyrightKeyword": "World Lion Day",
         "hsh": "e280d482edb37122c3cdd739beb190a9"
-    },
-    {
-        "fullstartdate": "202508082300",
-        "date": "20250809",
-        "url": "https://www.bing.com/th?id=OHR.MaoriRock_EN-GB9232963676_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MaoriRock_EN-GB9232963676",
-        "copyright": "Ngātoroirangi Mine Bay Māori Rock Carvings on Lake Taupō, New Zealand (© Joppi/Getty Images)",
-        "copyrightKeyword": "International Day of the Worlds Indigenous Peoples",
-        "hsh": "ff9eb5b11967d519e10dfe80afa58063"
     }
 ]
