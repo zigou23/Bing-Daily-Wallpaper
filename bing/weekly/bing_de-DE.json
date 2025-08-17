@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202508172200",
+        "date": "20250818",
+        "url": "https://www.bing.com/th?id=OHR.GermanyHiker_DE-DE4106707068_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GermanyHiker_DE-DE4106707068",
+        "copyright": "Wanderer bei Sonnenaufgang auf einem Bergkamm, Nationalpark Gesäuse, Steiermark, Österreich (© AscentXmedia/Getty Images)",
+        "copyrightKeyword": "Nationalpark Gesäuse",
+        "hsh": "3fc296bace5c0dc5006c484c0e183343"
+    },
+    {
         "fullstartdate": "202508162200",
         "date": "20250817",
         "url": "https://www.bing.com/th?id=OHR.LyngvigLighthouse_DE-DE8062219926_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Dorf Santa Maddalena, Dolomiten, Italien (© Sakrapee Nopparat/Getty Images)",
         "copyrightKeyword": "Dolomiten Italien",
         "hsh": "cd72c591c301ef5ee0c6cba5069f8369"
-    },
-    {
-        "fullstartdate": "202508092200",
-        "date": "20250810",
-        "url": "https://www.bing.com/th?id=OHR.LionessKenya_DE-DE2649439524_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LionessKenya_DE-DE2649439524",
-        "copyright": "Löwin im Maasai Mara Nationalreservat, Kenia (© Tandem Stock/Adobe Stock)",
-        "copyrightKeyword": "Löwe",
-        "hsh": "c322bc97d25280f023af57fee3b26144"
     }
 ]

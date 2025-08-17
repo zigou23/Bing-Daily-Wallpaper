@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202508172200",
+        "date": "20250818",
+        "url": "https://www.bing.com/th?id=OHR.AvalancheLake_IT-IT9962796758_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AvalancheLake_IT-IT9962796758",
+        "copyright": "Lago Avalanche sulle Adirondack High Peaks, New York, USA (© Posnov/Getty Images)",
+        "copyrightKeyword": "Monti Adirondack massiccio cristallino",
+        "hsh": "de16615e14fe46139f6efadbf17381ad"
+    },
+    {
         "fullstartdate": "202508162200",
         "date": "20250817",
         "url": "https://www.bing.com/th?id=OHR.LyngvigLighthouse_IT-IT3166242120_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Via Lattea vista dalla Val d'Orcia, Toscana (© Fabio Massimo Zappulla/500px/500Px Plus)",
         "copyrightKeyword": "Meteora astronomia",
         "hsh": "8f4329fb93b483e1625c6b78373a2e84"
-    },
-    {
-        "fullstartdate": "202508092200",
-        "date": "20250810",
-        "url": "https://www.bing.com/th?id=OHR.LionessKenya_IT-IT2680402991_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LionessKenya_IT-IT2680402991",
-        "copyright": "Leonessa nella Riserva Nazionale del Masai Mara, Kenya (© Tandem Stock/Adobe Stock)",
-        "copyrightKeyword": "Panthera Leo",
-        "hsh": "6e06a68be3e5314939474d39bda7dc39"
     }
 ]
