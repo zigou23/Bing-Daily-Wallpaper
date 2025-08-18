@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202508180400",
+        "date": "20250819",
+        "url": "https://www.bing.com/th?id=OHR.AvalancheLake_EN-CA8229303307_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AvalancheLake_EN-CA8229303307",
+        "copyright": "Avalanche Lake Trail at Adirondack High Peaks, New York, United States (© Posnov/Getty Images)",
+        "copyrightKeyword": "Avalanche Lake New York",
+        "hsh": "56e235c4da942a067e8b61b3d651e999"
+    },
+    {
         "fullstartdate": "202508170400",
         "date": "20250818",
         "url": "https://www.bing.com/th?id=OHR.LyngvigLighthouse_EN-CA8074234624_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Village of Santa Maddalena, Dolomites, Italy (© Sakrapee Nopparat/Getty Images)",
         "copyrightKeyword": "Dolomites Italy",
         "hsh": "16c0de64f103e6f60ac32a58a881b3c3"
-    },
-    {
-        "fullstartdate": "202508100400",
-        "date": "20250811",
-        "url": "https://www.bing.com/th?id=OHR.LionessKenya_EN-CA6611934793_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LionessKenya_EN-CA6611934793",
-        "copyright": "Lioness in Maasai Mara National Reserve, Kenya (© Tandem Stock/Adobe Stock)",
-        "copyrightKeyword": "World Lion Day",
-        "hsh": "9f93e4ffac67b202390208e30154791d"
     }
 ]

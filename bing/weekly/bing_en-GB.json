@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202508182300",
+        "date": "20250819",
+        "url": "https://www.bing.com/th?id=OHR.IguazuArgentina_EN-GB3342065594_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.IguazuArgentina_EN-GB3342065594",
+        "copyright": "The Three Musketeers Falls at Iguazú Falls, Argentina (© Mark Meredith/Getty Images)",
+        "copyrightKeyword": "Iguazu waterfalls Argentina Brazil",
+        "hsh": "627d5fd13389d26916cf8a82bbc2b392"
+    },
+    {
         "fullstartdate": "202508172300",
         "date": "20250818",
         "url": "https://www.bing.com/th?id=OHR.AvalancheLake_EN-GB3210830707_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "African elephant herd, Amboseli National Park, Kenya (© Chase Dekker/Minden Pictures)",
         "copyrightKeyword": "World Elephant Day",
         "hsh": "9166450342ebb79614a211adcaa92073"
-    },
-    {
-        "fullstartdate": "202508102300",
-        "date": "20250811",
-        "url": "https://www.bing.com/th?id=OHR.SantaMaddalena_EN-GB9459179016_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SantaMaddalena_EN-GB9459179016",
-        "copyright": "Village of Santa Maddalena, Dolomites, Italy (© Sakrapee Nopparat/Getty Images)",
-        "copyrightKeyword": "Dolomites Italy",
-        "hsh": "8bfbc9085f9e4cc4c4eeb00059a1b959"
     }
 ]

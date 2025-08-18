@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202508181830",
+        "date": "20250819",
+        "url": "https://www.bing.com/th?id=OHR.SpottedEagleRay_EN-IN2313408086_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SpottedEagleRay_EN-IN2313408086",
+        "copyright": "Spotted eagle rays, San Cristóbal Island, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)",
+        "copyrightKeyword": "Spotted eagle rays",
+        "hsh": "05c295a2e1201822ce93b1e2cc33ecbc"
+    },
+    {
         "fullstartdate": "202508171830",
         "date": "20250818",
         "url": "https://www.bing.com/th?id=OHR.AvalancheLake_EN-IN2042962209_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "African elephant herd, Amboseli National Park, Kenya (© Chase Dekker/Minden Pictures)",
         "copyrightKeyword": "World Elephant Day",
         "hsh": "48670d621aca01c55be79027fbb25ace"
-    },
-    {
-        "fullstartdate": "202508101830",
-        "date": "20250811",
-        "url": "https://www.bing.com/th?id=OHR.SantaMaddalena_EN-IN3855112074_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SantaMaddalena_EN-IN3855112074",
-        "copyright": "Village of Santa Maddalena, Dolomites, Italy (© Sakrapee Nopparat/Getty Images)",
-        "copyrightKeyword": "Dolomites Italy",
-        "hsh": "27546a2b2e48eb2d136fcb118a85ece9"
     }
 ]
