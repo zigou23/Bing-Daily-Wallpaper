@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202508192200",
+        "date": "20250820",
+        "url": "https://www.bing.com/th?id=OHR.CitadelBonifacio_ES-ES5188387736_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.CitadelBonifacio_ES-ES5188387736",
+        "copyright": "La ciudadela en Bonifacio, Córcega del sur, Francia (© Marc Dozier/Getty Images)",
+        "copyrightKeyword": "Bonifacio Córcega del Sur",
+        "hsh": "27bfb6a4f043620debfff115232440fc"
+    },
+    {
         "fullstartdate": "202508182200",
         "date": "20250819",
         "url": "https://www.bing.com/th?id=OHR.GipuzcoaSummer_ES-ES6183424688_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Esculturas rupestres maoríes de la bahía de la mina Ngātoroirangi en el lago Taupō, Nueva Zelanda (© Joppi/Getty Images)",
         "copyrightKeyword": "Lago Taupō, Nueva Zelanda",
         "hsh": "f7609584173649b933a04bba151a0ebc"
-    },
-    {
-        "fullstartdate": "202508112200",
-        "date": "20250812",
-        "url": "https://www.bing.com/th?id=OHR.KenyaElephants_ES-ES4146810031_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.KenyaElephants_ES-ES4146810031",
-        "copyright": "Manada de elefantes africanos, Parque nacional de Amboseli, Kenia (© Chase Dekker/Minden Pictures)",
-        "copyrightKeyword": "Elefante Africano",
-        "hsh": "84933a9e93cce0ad9ee30191c0b6cf48"
     }
 ]

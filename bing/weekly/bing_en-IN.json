@@ -1,12 +1,21 @@
 [
     {
+        "fullstartdate": "202508191830",
+        "date": "20250820",
+        "url": "https://www.bing.com/th?id=OHR.CitadelBonifacio_EN-IN2658303132_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.CitadelBonifacio_EN-IN2658303132",
+        "copyright": "The citadel in Bonifacio, Southern Corsica, France (© Marc Dozier/Getty Images)",
+        "copyrightKeyword": "Bonifacio",
+        "hsh": "d016a8f2e3b2f37b1d9f196d55491030"
+    },
+    {
         "fullstartdate": "202508181830",
         "date": "20250819",
-        "url": "https://www.bing.com/th?id=OHR.SpottedEagleRay_EN-IN2313408086_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SpottedEagleRay_EN-IN2313408086",
+        "url": "https://www.bing.com/th?id=OHR.SpottedEagleRay_EN-IN9432285920_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SpottedEagleRay_EN-IN9432285920",
         "copyright": "Spotted eagle rays, San Cristóbal Island, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)",
         "copyrightKeyword": "Spotted eagle rays",
-        "hsh": "05c295a2e1201822ce93b1e2cc33ecbc"
+        "hsh": "df36bb67394f4fefe4f127875a4a4a10"
     },
     {
         "fullstartdate": "202508171830",
@@ -33,7 +42,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ColorfulBeehives_EN-IN5686651222",
         "copyright": "Colourful beehives, Italy (© Roberto Caucino/Shutterstock)",
         "copyrightKeyword": "Honey bee",
-        "hsh": "62cc537c33c994c58ac5a354b119e0b6"
+        "hsh": "9de8fc66689208aa7e098dc7a0eab307"
     },
     {
         "fullstartdate": "202508141830",
@@ -42,7 +51,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.RefFort2025_EN-IN3018612282",
         "copyright": "Red Fort, Delhi (© MadhoG/Getty Images)",
         "copyrightKeyword": "India Independence day",
-        "hsh": "bee244b7547b892428e1e37d77a9ba9e"
+        "hsh": "40c2c5f01a21c8a4b3ddbafeecae7c90"
     },
     {
         "fullstartdate": "202508131830",
@@ -61,14 +70,5 @@
         "copyright": "A man rappels off Corona Arch near Moab, Utah, United States (© Grant Ordelheide/TANDEM Stills + Motion)",
         "copyrightKeyword": "Natural arch",
         "hsh": "bf9c191c310076703f8549c8c2e889fb"
-    },
-    {
-        "fullstartdate": "202508111830",
-        "date": "20250812",
-        "url": "https://www.bing.com/th?id=OHR.KenyaElephants_EN-IN4022653136_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.KenyaElephants_EN-IN4022653136",
-        "copyright": "African elephant herd, Amboseli National Park, Kenya (© Chase Dekker/Minden Pictures)",
-        "copyrightKeyword": "World Elephant Day",
-        "hsh": "48670d621aca01c55be79027fbb25ace"
     }
 ]

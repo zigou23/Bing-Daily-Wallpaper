@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202508192200",
+        "date": "20250820",
+        "url": "https://www.bing.com/th?id=OHR.CitadelBonifacio_IT-IT3373229957_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.CitadelBonifacio_IT-IT3373229957",
+        "copyright": "La Cittadella di Bonifacio, Corsica, Francia (© Marc Dozier/Getty Images)",
+        "copyrightKeyword": "Bonifacio",
+        "hsh": "e8b3e74774d5359945fb8e512e73a356"
+    },
+    {
         "fullstartdate": "202508182200",
         "date": "20250819",
         "url": "https://www.bing.com/th?id=OHR.GipuzcoaSummer_IT-IT3301652373_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Villaggio di Santa Maddalena, Val di Funes, Dolomiti, Trentino-Alto Adige (© Sakrapee Nopparat/Getty Images)",
         "copyrightKeyword": "Dolomiti",
         "hsh": "07c30a65837126a7977e12d35dff558d"
-    },
-    {
-        "fullstartdate": "202508112200",
-        "date": "20250812",
-        "url": "https://www.bing.com/th?id=OHR.KenyaElephants_IT-IT2826374695_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.KenyaElephants_IT-IT2826374695",
-        "copyright": "Branco di elefanti africani, Parco Nazionale Amboseli, Kenya (© Chase Dekker/Minden Pictures)",
-        "copyrightKeyword": "Elefante",
-        "hsh": "45ed14ca88d79f1ba728578d7223ea36"
     }
 ]

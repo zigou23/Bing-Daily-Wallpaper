@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202508192300",
+        "date": "20250820",
+        "url": "https://www.bing.com/th?id=OHR.CitadelBonifacio_EN-GB3535307178_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.CitadelBonifacio_EN-GB3535307178",
+        "copyright": "The citadel in Bonifacio, Southern Corsica, France (© Marc Dozier/Getty Images)",
+        "copyrightKeyword": "Bonifacio",
+        "hsh": "feb8a7874e2fd57545b9fdd12b035507"
+    },
+    {
         "fullstartdate": "202508182300",
         "date": "20250819",
         "url": "https://www.bing.com/th?id=OHR.IguazuArgentina_EN-GB3342065594_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "A man rappels off Corona Arch near Moab, Utah, United States (© Grant Ordelheide/TANDEM Stills + Motion)",
         "copyrightKeyword": "Natural arch",
         "hsh": "63b211e844c31321b51d5e00fa17cb03"
-    },
-    {
-        "fullstartdate": "202508112300",
-        "date": "20250812",
-        "url": "https://www.bing.com/th?id=OHR.KenyaElephants_EN-GB9514305999_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.KenyaElephants_EN-GB9514305999",
-        "copyright": "African elephant herd, Amboseli National Park, Kenya (© Chase Dekker/Minden Pictures)",
-        "copyrightKeyword": "World Elephant Day",
-        "hsh": "9166450342ebb79614a211adcaa92073"
     }
 ]

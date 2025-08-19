@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202508192200",
+        "date": "20250820",
+        "url": "https://www.bing.com/th?id=OHR.CitadelBonifacio_FR-FR5988147766_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.CitadelBonifacio_FR-FR5988147766",
+        "copyright": "Citadelle de Bonifacio, Corse-du-Sud, France (© Marc Dozier/Getty Images)",
+        "copyrightKeyword": "Bonifacio",
+        "hsh": "9ac82b014af40e04127f338611fa0944"
+    },
+    {
         "fullstartdate": "202508182200",
         "date": "20250819",
         "url": "https://www.bing.com/th?id=OHR.GipuzcoaSummer_FR-FR5838334376_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Flamant rose, Saintes-Maries-de-la-Mer, Parc naturel régional de Camargue, Languedoc-Roussillon (© Raimund Linke/Getty Images)",
         "copyrightKeyword": "Saintes-Maries-de-la-Mer",
         "hsh": "410d0d8522eac8935333a80ef2a822db"
-    },
-    {
-        "fullstartdate": "202508112200",
-        "date": "20250812",
-        "url": "https://www.bing.com/th?id=OHR.KenyaElephants_FR-FR5329216904_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.KenyaElephants_FR-FR5329216904",
-        "copyright": "Troupeau d’éléphants d’Afrique, parc national d’Amboseli, Kenya (© Chase Dekker/Minden Pictures)",
-        "copyrightKeyword": "Journée mondiale de l'éléphant",
-        "hsh": "9fbea6c356adba99a7edf57765a54340"
     }
 ]

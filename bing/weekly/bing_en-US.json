@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202508190700",
+        "date": "20250820",
+        "url": "https://www.bing.com/th?id=OHR.SolarAviation_EN-US1940905760_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SolarAviation_EN-US1940905760",
+        "copyright": "Solar Impulse 2 at Kalaeloa Airport, Honolulu, Hawaii (© Solar Impulse/Revillard/Sipa/Shutterstock)",
+        "copyrightKeyword": "National Aviation Day",
+        "hsh": "eeb3ab740ec64620a1208f9fa52f7453"
+    },
+    {
         "fullstartdate": "202508180700",
         "date": "20250819",
         "url": "https://www.bing.com/th?id=OHR.AvalancheLake_EN-US1814683119_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "African elephant herd, Amboseli National Park, Kenya (© Chase Dekker/Minden Pictures)",
         "copyrightKeyword": "World Elephant Day",
         "hsh": "c52b98229b8989b42a44ebad55237809"
-    },
-    {
-        "fullstartdate": "202508110700",
-        "date": "20250812",
-        "url": "https://www.bing.com/th?id=OHR.SantaMaddalena_EN-US8546897995_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SantaMaddalena_EN-US8546897995",
-        "copyright": "Village of Santa Maddalena, Dolomites, Italy (© Sakrapee Nopparat/Getty Images)",
-        "copyrightKeyword": "Dolomites",
-        "hsh": "57c63d7dcacd649d8f5470055362a7dd"
     }
 ]

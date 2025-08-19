@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202508191500",
+        "date": "20250820",
+        "url": "https://www.bing.com/th?id=OHR.CitadelBonifacio_JA-JP4122292062_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.CitadelBonifacio_JA-JP4122292062",
+        "copyright": "ボニファシオの城塞, フランス (© Marc Dozier/Getty Images)",
+        "copyrightKeyword": "ボニファシオの城塞",
+        "hsh": "15f0c07324e4050066805cc7bcc587ce"
+    },
+    {
         "fullstartdate": "202508181500",
         "date": "20250819",
         "url": "https://www.bing.com/th?id=OHR.SantaMaddalena_JA-JP3939499195_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "コロナ・アーチ, 米国 ユタ州 (© Grant Ordelheide/TANDEM Stills + Motion)",
         "copyrightKeyword": "コロナ・アーチ",
         "hsh": "2068c277c7cbf96d85a1a0f48e730f9b"
-    },
-    {
-        "fullstartdate": "202508111500",
-        "date": "20250812",
-        "url": "https://www.bing.com/th?id=OHR.KenyaElephants_JA-JP2052759218_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.KenyaElephants_JA-JP2052759218",
-        "copyright": "アフリカゾウの群れ, ケニア (© Chase Dekker/Minden Pictures)",
-        "copyrightKeyword": "アフリカゾウの群れ",
-        "hsh": "2f54b6837adcd5b026d4755f7cd70a7b"
     }
 ]
