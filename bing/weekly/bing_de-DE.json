@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202508202200",
+        "date": "20250821",
+        "url": "https://www.bing.com/th?id=OHR.WheatearBird_DE-DE8545255513_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WheatearBird_DE-DE8545255513",
+        "copyright": "Steinschmätzer, Peak-District-Nationalpark, England (© Ben Hall/Nature Picture Library)",
+        "copyrightKeyword": "Steinschmätzer",
+        "hsh": "2a996f959d86a3981deb34c420b568b6"
+    },
+    {
         "fullstartdate": "202508192200",
         "date": "20250820",
         "url": "https://www.bing.com/th?id=OHR.CitadelBonifacio_DE-DE9194010566_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Seilbahnstation auf dem Piz Nair, Graubünden, Schweiz (© Roberto Moiola/Alamy)",
         "copyrightKeyword": "Piz Nair",
         "hsh": "33f9a3fdd439437546220137b53dcb27"
-    },
-    {
-        "fullstartdate": "202508122200",
-        "date": "20250813",
-        "url": "https://www.bing.com/th?id=OHR.CoronaArch_DE-DE6360631129_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.CoronaArch_DE-DE6360631129",
-        "copyright": "Ein Mann seilt sich vom Corona Arch nahe Moab ab, Utah, USA (© Grant Ordelheide/TANDEM Stills + Motion)",
-        "copyrightKeyword": "Utah US-Bundesstaat",
-        "hsh": "4c2dd02ed2549dae4fd2e3af647bce38"
     }
 ]

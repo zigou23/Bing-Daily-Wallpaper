@@ -1,12 +1,21 @@
 [
     {
+        "fullstartdate": "202508201830",
+        "date": "20250821",
+        "url": "https://www.bing.com/th?id=OHR.WheatearBird_EN-IN2858155891_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WheatearBird_EN-IN2858155891",
+        "copyright": "Wheatear and flowering heather, Peak District National Park, England (© Ben Hall/Nature Picture Library)",
+        "copyrightKeyword": "Wheatear bird",
+        "hsh": "3d0f60ea2913ec6ddfe5b76bbf99c492"
+    },
+    {
         "fullstartdate": "202508191830",
         "date": "20250820",
-        "url": "https://www.bing.com/th?id=OHR.CitadelBonifacio_EN-IN2658303132_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.CitadelBonifacio_EN-IN2658303132",
+        "url": "https://www.bing.com/th?id=OHR.CitadelBonifacio_EN-IN3918402322_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.CitadelBonifacio_EN-IN3918402322",
         "copyright": "The citadel in Bonifacio, Southern Corsica, France (© Marc Dozier/Getty Images)",
         "copyrightKeyword": "Bonifacio",
-        "hsh": "d016a8f2e3b2f37b1d9f196d55491030"
+        "hsh": "840c9e4002d34424d9560226c50edd20"
     },
     {
         "fullstartdate": "202508181830",
@@ -15,7 +24,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SpottedEagleRay_EN-IN9432285920",
         "copyright": "Spotted eagle rays, San Cristóbal Island, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)",
         "copyrightKeyword": "Spotted eagle rays",
-        "hsh": "df36bb67394f4fefe4f127875a4a4a10"
+        "hsh": "79e059ebd75a11c446489e0c08928ef6"
     },
     {
         "fullstartdate": "202508171830",
@@ -61,14 +70,5 @@
         "copyright": "Cable car station on Piz Nair mountain, Graubünden, Switzerland (© Roberto Moiola/Alamy)",
         "copyrightKeyword": "Piz Nair",
         "hsh": "a6f5749653411af9770b016b66231221"
-    },
-    {
-        "fullstartdate": "202508121830",
-        "date": "20250813",
-        "url": "https://www.bing.com/th?id=OHR.CoronaArch_EN-IN4202353327_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.CoronaArch_EN-IN4202353327",
-        "copyright": "A man rappels off Corona Arch near Moab, Utah, United States (© Grant Ordelheide/TANDEM Stills + Motion)",
-        "copyrightKeyword": "Natural arch",
-        "hsh": "bf9c191c310076703f8549c8c2e889fb"
     }
 ]

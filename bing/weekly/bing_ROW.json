@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202508200700",
+        "date": "20250821",
+        "url": "https://www.bing.com/th?id=OHR.CitadelBonifacio_ROW5645693651_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.CitadelBonifacio_ROW5645693651",
+        "copyright": "The citadel in Bonifacio, Southern Corsica, France (© Marc Dozier/Getty Images)",
+        "copyrightKeyword": "Bonifacio",
+        "hsh": "d034bf8ad51a8ab4d9e32bf311c23378"
+    },
+    {
         "fullstartdate": "202508190700",
         "date": "20250820",
         "url": "https://www.bing.com/th?id=OHR.GipuzcoaSummer_ROW5551089786_1920x1080.jpg",
@@ -42,7 +51,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SpottedEagleRay_ROW5085410852",
         "copyright": "Spotted eagle rays, San Cristóbal Island, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)",
         "copyrightKeyword": "Spotted eagle rays",
-        "hsh": "6fde66f0d0396c13f2513c55509bd5f2"
+        "hsh": "76dcad6fb4848a2a37ff1aecf22957fe"
     },
     {
         "fullstartdate": "202508140700",
@@ -51,7 +60,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PizNairPeak_ROW4951213904",
         "copyright": "Cable car station on Piz Nair mountain, Graubünden, Switzerland (© Roberto Moiola/Alamy)",
         "copyrightKeyword": "Piz Nair",
-        "hsh": "be5272311d0d133aadc7aeb18ac40110"
+        "hsh": "fbf9c16cec9e6f7360e011483b9f772b"
     },
     {
         "fullstartdate": "202508130700",
@@ -60,15 +69,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.CoronaArch_ROW4754489590",
         "copyright": "A man rappels off Corona Arch near Moab, Utah, United States (© Grant Ordelheide/TANDEM Stills + Motion)",
         "copyrightKeyword": "Natural arch",
-        "hsh": "e415836891dc68b048df7e0d2c56bcc9"
-    },
-    {
-        "fullstartdate": "202508120700",
-        "date": "20250813",
-        "url": "https://www.bing.com/th?id=OHR.KenyaElephants_ROW4632844635_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.KenyaElephants_ROW4632844635",
-        "copyright": "African elephant herd, Amboseli National Park, Kenya (© Chase Dekker/Minden Pictures)",
-        "copyrightKeyword": "African elephant",
-        "hsh": "50189321cf69b6b4b9e04169678d7ace"
+        "hsh": "93236be8ad3d3d3362370f6766c05a3a"
     }
 ]
