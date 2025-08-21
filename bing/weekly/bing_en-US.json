@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202508210700",
+        "date": "20250822",
+        "url": "https://www.bing.com/th?id=OHR.WheatearBird_EN-US2132045619_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WheatearBird_EN-US2132045619",
+        "copyright": "Wheatear and flowering heather, Peak District National Park, England (© Ben Hall/Nature Picture Library)",
+        "copyrightKeyword": "Wheatear bird",
+        "hsh": "d213b27649fc629927f639a6dee7f949"
+    },
+    {
         "fullstartdate": "202508200700",
         "date": "20250821",
         "url": "https://www.bing.com/th?id=OHR.CitadelBonifacio_EN-US2046177235_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Cable car station on Piz Nair mountain, Graubünden, Switzerland (© Roberto Moiola/Alamy)",
         "copyrightKeyword": "Piz Nair mountain",
         "hsh": "338a57feb4648f0b6b90a4f5327cc131"
-    },
-    {
-        "fullstartdate": "202508130700",
-        "date": "20250814",
-        "url": "https://www.bing.com/th?id=OHR.CoronaArch_EN-US8928406175_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.CoronaArch_EN-US8928406175",
-        "copyright": "A man rappels off Corona Arch near Moab, Utah (© Grant Ordelheide/TANDEM Stills + Motion)",
-        "copyrightKeyword": "Natural arch",
-        "hsh": "065f7491376397b2b405e5c724f03a1e"
     }
 ]

@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202508212300",
+        "date": "20250822",
+        "url": "https://www.bing.com/th?id=OHR.PalouseWA_EN-GB8343692034_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PalouseWA_EN-GB8343692034",
+        "copyright": "Rolling hills of the Palouse, Washington, United States (© svetlana57/Getty Images)",
+        "copyrightKeyword": "Palouse region",
+        "hsh": "f78c2bfff7a5676887c21a247e4afa74"
+    },
+    {
         "fullstartdate": "202508202300",
         "date": "20250821",
         "url": "https://www.bing.com/th?id=OHR.WheatearBird_EN-GB3697571059_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Spotted eagle rays, San Cristóbal Island, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)",
         "copyrightKeyword": "Spotted eagle rays",
         "hsh": "5b098485ebe835bec98cea0e70c0bf8e"
-    },
-    {
-        "fullstartdate": "202508132300",
-        "date": "20250814",
-        "url": "https://www.bing.com/th?id=OHR.PizNairPeak_EN-GB2398585795_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PizNairPeak_EN-GB2398585795",
-        "copyright": "Cable car station on Piz Nair mountain, Graubünden, Switzerland (© Roberto Moiola/Alamy)",
-        "copyrightKeyword": "Piz Nair",
-        "hsh": "385b7caad58f1a78de8204996152ab67"
     }
 ]
