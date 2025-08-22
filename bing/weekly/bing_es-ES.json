@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202508222200",
+        "date": "20250823",
+        "url": "https://www.bing.com/th?id=OHR.SaintBarbaras_ES-ES8198258908_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SaintBarbaras_ES-ES8198258908",
+        "copyright": "Catedral de Santa Bárbara, Kutná Hora, Chequia (© Castka/Getty Images)",
+        "copyrightKeyword": "Catedral de Santa Bárbara, Kutná Hora, Chequia",
+        "hsh": "19f5f358ad28d0c47dccab45f66401fa"
+    },
+    {
         "fullstartdate": "202508212200",
         "date": "20250822",
         "url": "https://www.bing.com/th?id=OHR.PalouseWA_ES-ES8103118141_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Colmenas de colores, Italia (© Roberto Caucino/Shutterstock)",
         "copyrightKeyword": "Abejas Melíferas",
         "hsh": "9a91832e8b8ddfa70a0018a1647597fc"
-    },
-    {
-        "fullstartdate": "202508142200",
-        "date": "20250815",
-        "url": "https://www.bing.com/th?id=OHR.SpottedEagleRay_ES-ES4665305758_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SpottedEagleRay_ES-ES4665305758",
-        "copyright": "Rayas águila moteadas, Isla San Cristóbal, Islas Galápagos, Ecuador (© Tui De Roy/Minden Pictures)",
-        "copyrightKeyword": "Raya Águila Manchada",
-        "hsh": "63ef7129c02f942439bd2cfdf0372674"
     }
 ]

@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202508221830",
+        "date": "20250823",
+        "url": "https://www.bing.com/th?id=OHR.SaintBarbaras_EN-IN1181237590_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SaintBarbaras_EN-IN1181237590",
+        "copyright": "St. Barbara's Cathedral, Kutná Hora, Czechia (© Castka/Getty Images)",
+        "copyrightKeyword": "St Barbaras Cathedral",
+        "hsh": "c875a25aef2fb705b5a629b09f1b7698"
+    },
+    {
         "fullstartdate": "202508211830",
         "date": "20250822",
         "url": "https://www.bing.com/th?id=OHR.PalouseWA_EN-IN0988598456_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Colourful beehives, Italy (© Roberto Caucino/Shutterstock)",
         "copyrightKeyword": "Honey bee",
         "hsh": "9de8fc66689208aa7e098dc7a0eab307"
-    },
-    {
-        "fullstartdate": "202508141830",
-        "date": "20250815",
-        "url": "https://www.bing.com/th?id=OHR.RefFort2025_EN-IN3018612282_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.RefFort2025_EN-IN3018612282",
-        "copyright": "Red Fort, Delhi (© MadhoG/Getty Images)",
-        "copyrightKeyword": "India Independence day",
-        "hsh": "40c2c5f01a21c8a4b3ddbafeecae7c90"
     }
 ]
