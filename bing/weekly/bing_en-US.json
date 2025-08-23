@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202508230700",
+        "date": "20250824",
+        "url": "https://www.bing.com/th?id=OHR.SaintBarbaras_EN-US3076115197_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SaintBarbaras_EN-US3076115197",
+        "copyright": "St. Barbara's Cathedral, Kutná Hora, Czechia (© Castka/Getty Images)",
+        "copyrightKeyword": "St Barbaras Cathedral",
+        "hsh": "f5e422fbf70af69e1107ce56a3708d87"
+    },
+    {
         "fullstartdate": "202508220700",
         "date": "20250823",
         "url": "https://www.bing.com/th?id=OHR.PalouseWA_EN-US2419102005_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Colorful beehives in Italy (© Roberto Caucino/Shutterstock)",
         "copyrightKeyword": "honey bee",
         "hsh": "467ce3ed38242249a6684e3610fa19c4"
-    },
-    {
-        "fullstartdate": "202508150700",
-        "date": "20250816",
-        "url": "https://www.bing.com/th?id=OHR.SpottedEagleRay_EN-US9227600044_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SpottedEagleRay_EN-US9227600044",
-        "copyright": "Spotted eagle rays, San Cristóbal Island, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)",
-        "copyrightKeyword": "spotted eagle rays",
-        "hsh": "c10f0dc0afa888d9e6199889b3f893e4"
     }
 ]

@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202508231500",
+        "date": "20250824",
+        "url": "https://www.bing.com/th?id=OHR.CervusDama_JA-JP5457977522_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.CervusDama_JA-JP5457977522",
+        "copyright": "ダマジカ, イギリス (© Enrique Aguirre Aves/Getty Images)",
+        "copyrightKeyword": "ダマジカ",
+        "hsh": "0351a2b516065416502bd3f47d0ac20d"
+    },
+    {
         "fullstartdate": "202508221500",
         "date": "20250823",
         "url": "https://www.bing.com/th?id=OHR.Morningglory2025_JA-JP5429610056_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "リングヴィグ灯台, デンマーク (© Caroline Brundle Bugge/Getty Images)",
         "copyrightKeyword": "リングヴィグ灯台",
         "hsh": "6e16121787680820dca305736b2997ba"
-    },
-    {
-        "fullstartdate": "202508151500",
-        "date": "20250816",
-        "url": "https://www.bing.com/th?id=OHR.Okuribi2025_JA-JP4621795615_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.Okuribi2025_JA-JP4621795615",
-        "copyright": "大の字の中心・金尾の火床, 京都府 京都市 (© kumikomini/Getty Images)",
-        "copyrightKeyword": "大の字の中心・金尾の火床",
-        "hsh": "2bf541870ca83fe0715815ebf7a57079"
     }
 ]

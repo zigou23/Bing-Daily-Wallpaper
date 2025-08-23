@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202508230700",
+        "date": "20250824",
+        "url": "https://www.bing.com/th?id=OHR.Flamingos_ROW6320249671_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.Flamingos_ROW6320249671",
+        "copyright": "Greater flamingos, Saintes-Maries-de-la-Mer, Camargue Regional Nature Park, France (© Raimund Linke/Getty Images)",
+        "copyrightKeyword": "Greater flamingo",
+        "hsh": "7265a9e14989fa3817601efb335c05be"
+    },
+    {
         "fullstartdate": "202508220700",
         "date": "20250823",
         "url": "https://www.bing.com/th?id=OHR.PalouseWA_ROW5952867460_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Colourful beehives, Italy (© Roberto Caucino/Shutterstock)",
         "copyrightKeyword": "Beehives",
         "hsh": "c65406c269a16970e8546144b1cc8cde"
-    },
-    {
-        "fullstartdate": "202508150700",
-        "date": "20250816",
-        "url": "https://www.bing.com/th?id=OHR.SpottedEagleRay_ROW5085410852_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SpottedEagleRay_ROW5085410852",
-        "copyright": "Spotted eagle rays, San Cristóbal Island, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)",
-        "copyrightKeyword": "Spotted eagle rays",
-        "hsh": "76dcad6fb4848a2a37ff1aecf22957fe"
     }
 ]

@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202508230400",
+        "date": "20250824",
+        "url": "https://www.bing.com/th?id=OHR.SaintBarbaras_EN-CA1578716793_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SaintBarbaras_EN-CA1578716793",
+        "copyright": "St. Barbara's Cathedral, Kutná Hora, Czechia (© Castka/Getty Images)",
+        "copyrightKeyword": "St Barbaras Cathedral",
+        "hsh": "a946b5b08468f8420aa8690884f4f8f2"
+    },
+    {
         "fullstartdate": "202508220400",
         "date": "20250823",
         "url": "https://www.bing.com/th?id=OHR.PalouseWA_EN-CA1378669276_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Colourful beehives, Italy (© Roberto Caucino/Shutterstock)",
         "copyrightKeyword": "Honey bee",
         "hsh": "1e783766d518eb241cfad04514047d09"
-    },
-    {
-        "fullstartdate": "202508150400",
-        "date": "20250816",
-        "url": "https://www.bing.com/th?id=OHR.CNExhibit_EN-CA7387294969_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.CNExhibit_EN-CA7387294969",
-        "copyright": "The Orbitor ride at the Canadian National Exhibition, Toronto (© James Hackland/Alamy Stock Photo)",
-        "copyrightKeyword": "Canadian National Exhibition",
-        "hsh": "7127467c7f32da64599e0eb52995c8bb"
     }
 ]
