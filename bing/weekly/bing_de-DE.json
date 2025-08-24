@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202508242200",
+        "date": "20250825",
+        "url": "https://www.bing.com/th?id=OHR.YellowstoneRiver_DE-DE2550082704_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.YellowstoneRiver_DE-DE2550082704",
+        "copyright": "Aussichtspunkt Calcite Springs und Yellowstone River, Yellowstone-Nationalpark, Wyoming, USA (© Rebecca L. Latson/Getty Images)",
+        "copyrightKeyword": " Yellowstone-Nationalpark USA",
+        "hsh": "570eca2724eaee7d6fb3abb898edef4b"
+    },
+    {
         "fullstartdate": "202508232200",
         "date": "20250824",
         "url": "https://www.bing.com/th?id=OHR.CervusDama_DE-DE7228900180_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Wanderer bei Sonnenaufgang auf einem Bergkamm, Nationalpark Gesäuse, Steiermark, Österreich (© AscentXmedia/Getty Images)",
         "copyrightKeyword": "Nationalpark Gesäuse",
         "hsh": "3fc296bace5c0dc5006c484c0e183343"
-    },
-    {
-        "fullstartdate": "202508162200",
-        "date": "20250817",
-        "url": "https://www.bing.com/th?id=OHR.LyngvigLighthouse_DE-DE8062219926_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LyngvigLighthouse_DE-DE8062219926",
-        "copyright": "Lyngvig Leuchtturm, Hvide Sande, Dänemark (© Caroline Brundle Bugge/Getty Images)",
-        "copyrightKeyword": "Internationales Leuchtturm- und Feuerschiffwochenende",
-        "hsh": "0fb743e6aeafafc8d8c4731dca985893"
     }
 ]
