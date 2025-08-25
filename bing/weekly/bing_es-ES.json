@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202508252200",
+        "date": "20250826",
+        "url": "https://www.bing.com/th?id=OHR.TrulliHouses_ES-ES8633260965_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TrulliHouses_ES-ES8633260965",
+        "copyright": "Los trulli de Alberobello, Apulia, Italia (© Feng Wei Photography/Getty Images)",
+        "copyrightKeyword": "Alberobello",
+        "hsh": "5c5c01e5235b1ce0afcf3b7d1f3f6370"
+    },
+    {
         "fullstartdate": "202508242200",
         "date": "20250825",
         "url": "https://www.bing.com/th?id=OHR.YellowstoneRiver_ES-ES8502138865_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Capas de flysch en Zumaia, Guipúzcoa, País Vasco, España (© Eloi_Omella/Getty Images)",
         "copyrightKeyword": "Zumaia",
         "hsh": "a206a939a9c870931df6c33845ddd88f"
-    },
-    {
-        "fullstartdate": "202508172200",
-        "date": "20250818",
-        "url": "https://www.bing.com/th?id=OHR.AvalancheLake_ES-ES4962588895_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AvalancheLake_ES-ES4962588895",
-        "copyright": "Sendero al lago Avalanche en las montañas de Adirondack, Nueva York, EE. UU. (© Posnov/Getty Images)",
-        "copyrightKeyword": "Montañas Adirondack",
-        "hsh": "d63e6a5519c248857cc9dae403f07363"
     }
 ]

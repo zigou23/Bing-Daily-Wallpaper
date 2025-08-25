@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202508251830",
+        "date": "20250826",
+        "url": "https://www.bing.com/th?id=OHR.FaroeLake_EN-IN3134235766_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FaroeLake_EN-IN3134235766",
+        "copyright": "Sørvágsvatn lake, island of Vágar, Faroe Islands (© Anton Petrus/Getty Images)",
+        "copyrightKeyword": "Sorvagsvatn lake",
+        "hsh": "c9229c627eb3dcb24f32715fe0d9f856"
+    },
+    {
         "fullstartdate": "202508241830",
         "date": "20250825",
         "url": "https://www.bing.com/th?id=OHR.YellowstoneRiver_EN-IN1865488770_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Spotted eagle rays, San Cristóbal Island, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)",
         "copyrightKeyword": "Spotted eagle rays",
         "hsh": "79e059ebd75a11c446489e0c08928ef6"
-    },
-    {
-        "fullstartdate": "202508171830",
-        "date": "20250818",
-        "url": "https://www.bing.com/th?id=OHR.AvalancheLake_EN-IN2042962209_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AvalancheLake_EN-IN2042962209",
-        "copyright": "Avalanche Lake trail at Adirondack High Peaks, New York, United States (© Posnov/Getty Images)",
-        "copyrightKeyword": "Avalanche Lake New York",
-        "hsh": "1d229cb58c044b304f7dffa90eb861b1"
     }
 ]

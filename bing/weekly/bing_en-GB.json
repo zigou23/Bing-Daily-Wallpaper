@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202508252300",
+        "date": "20250826",
+        "url": "https://www.bing.com/th?id=OHR.TrulliHouses_EN-GB9384999011_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TrulliHouses_EN-GB9384999011",
+        "copyright": "Trullo buildings in Alberobello, Apulia, Italy (© Feng Wei Photography/Getty Images)",
+        "copyrightKeyword": "Alberobello",
+        "hsh": "6dcc92fba0712255636ac45dfac3926a"
+    },
+    {
         "fullstartdate": "202508242300",
         "date": "20250825",
         "url": "https://www.bing.com/th?id=OHR.YellowstoneRiver_EN-GB9172526741_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "The Three Musketeers Falls at Iguazú Falls, Argentina (© Mark Meredith/Getty Images)",
         "copyrightKeyword": "Iguazu waterfalls Argentina Brazil",
         "hsh": "627d5fd13389d26916cf8a82bbc2b392"
-    },
-    {
-        "fullstartdate": "202508172300",
-        "date": "20250818",
-        "url": "https://www.bing.com/th?id=OHR.AvalancheLake_EN-GB3210830707_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AvalancheLake_EN-GB3210830707",
-        "copyright": "Avalanche Lake Trail at Adirondack High Peaks, New York, United States (© Posnov/Getty Images)",
-        "copyrightKeyword": "Avalanche Lake New York",
-        "hsh": "4e05760df68bbd737e8bfd47a93eb689"
     }
 ]

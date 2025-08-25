@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202508251500",
+        "date": "20250826",
+        "url": "https://www.bing.com/th?id=OHR.TrulliHouses_JA-JP5521004094_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TrulliHouses_JA-JP5521004094",
+        "copyright": "アルベロベッロ, イタリア (© Feng Wei Photography/Getty Images)",
+        "copyrightKeyword": "アルベロベッロ",
+        "hsh": "f2d7966033772be5e38d3cdf3eb120d2"
+    },
+    {
         "fullstartdate": "202508241500",
         "date": "20250825",
         "url": "https://www.bing.com/th?id=OHR.YellowstoneRiver_JA-JP5485264478_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "サンタ・マッダレーナ, イタリア (© Sakrapee Nopparat/Getty Images)",
         "copyrightKeyword": "サンタ・マッダレーナ",
         "hsh": "0659ead244df2adeb47f8317cab6f683"
-    },
-    {
-        "fullstartdate": "202508171500",
-        "date": "20250818",
-        "url": "https://www.bing.com/th?id=OHR.AvalancheLake_JA-JP3739900372_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AvalancheLake_JA-JP3739900372",
-        "copyright": "アヴァランチ湖, 米国 ニューヨーク州 (© Posnov/Getty Images)",
-        "copyrightKeyword": "アヴァランチ湖, ニューヨーク州",
-        "hsh": "3c91d025260560007dc1d42e898e6944"
     }
 ]

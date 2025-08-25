@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202508252200",
+        "date": "20250826",
+        "url": "https://www.bing.com/th?id=OHR.FaroeLake_IT-IT9674052822_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FaroeLake_IT-IT9674052822",
+        "copyright": "Lago Sørvágsvatn, Isola di Vágar, Fær Øer (© Anton Petrus/Getty Images)",
+        "copyrightKeyword": "Lago Sørvágsvatn",
+        "hsh": "466aeb9e80c6ee9f64eb7f4d4ebdb240"
+    },
+    {
         "fullstartdate": "202508242200",
         "date": "20250825",
         "url": "https://www.bing.com/th?id=OHR.YellowstoneRiver_IT-IT7237441471_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Strati di flysch a Zumaia, Paesi Baschi, Spagna (© Eloi_Omella/Getty Images)",
         "copyrightKeyword": "Zumaia",
         "hsh": "fe82178185032199245c02e8662244a9"
-    },
-    {
-        "fullstartdate": "202508172200",
-        "date": "20250818",
-        "url": "https://www.bing.com/th?id=OHR.AvalancheLake_IT-IT9962796758_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AvalancheLake_IT-IT9962796758",
-        "copyright": "Lago Avalanche sulle Adirondack High Peaks, New York, USA (© Posnov/Getty Images)",
-        "copyrightKeyword": "Monti Adirondack massiccio cristallino",
-        "hsh": "8dcdd2c295c2120638b838f1785d34e5"
     }
 ]

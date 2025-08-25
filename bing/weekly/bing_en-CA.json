@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202508250400",
+        "date": "20250826",
+        "url": "https://www.bing.com/th?id=OHR.Gannets_EN-CA1938110347_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.Gannets_EN-CA1938110347",
+        "copyright": "Colony of northern gannets, Quebec (© Vladone/Getty Images)",
+        "copyrightKeyword": "Northern gannets",
+        "hsh": "144c0b90f40cc2ae5e9ac05b5159ec33"
+    },
+    {
         "fullstartdate": "202508240400",
         "date": "20250825",
         "url": "https://www.bing.com/th?id=OHR.CervusDama_EN-CA1743001514_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Avalanche Lake Trail at Adirondack High Peaks, New York, United States (© Posnov/Getty Images)",
         "copyrightKeyword": "Avalanche Lake New York",
         "hsh": "56e235c4da942a067e8b61b3d651e999"
-    },
-    {
-        "fullstartdate": "202508170400",
-        "date": "20250818",
-        "url": "https://www.bing.com/th?id=OHR.LyngvigLighthouse_EN-CA8074234624_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LyngvigLighthouse_EN-CA8074234624",
-        "copyright": "Lyngvig Lighthouse, Hvide Sande, Denmark (© Caroline Brundle Bugge/Getty Images)",
-        "copyrightKeyword": "International Lighthouse Lightship Weekend",
-        "hsh": "dd2e398a2a5df73d5fc6bc882e9280fe"
     }
 ]

@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202508251600",
+        "date": "20250826",
+        "url": "https://www.bing.com/th?id=OHR.TrulliHouses_ZH-CN3856452406_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TrulliHouses_ZH-CN3856452406",
+        "copyright": "阿尔贝罗贝洛的特鲁洛建筑，普利亚大区，意大利 (© Feng Wei Photography/Getty Images)",
+        "copyrightKeyword": "阿尔贝罗贝洛",
+        "hsh": "fcc776e9123117cc3ce8279e5b965ef7"
+    },
+    {
         "fullstartdate": "202508241600",
         "date": "20250825",
         "url": "https://www.bing.com/th?id=OHR.YellowstoneRiver_ZH-CN3716808579_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "祖马亚的复理层，巴斯克地区，西班牙 (© Eloi_Omella/Getty Images)",
         "copyrightKeyword": "西班牙祖马亚的复理石",
         "hsh": "6dd9aaa6fdbaba426b6965cad6645ea7"
-    },
-    {
-        "fullstartdate": "202508171600",
-        "date": "20250818",
-        "url": "https://www.bing.com/th?id=OHR.AvalancheLake_ZH-CN1442576083_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AvalancheLake_ZH-CN1442576083",
-        "copyright": "雪崩湖步道，阿迪朗达克高峰区，纽约州，美国 (© Posnov/Getty Images)",
-        "copyrightKeyword": "纽约州雪崩湖",
-        "hsh": "8bcba38dd338ec7016296d47d093320a"
     }
 ]

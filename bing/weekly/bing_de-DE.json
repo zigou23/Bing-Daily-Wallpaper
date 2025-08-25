@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202508252200",
+        "date": "20250826",
+        "url": "https://www.bing.com/th?id=OHR.KitesurferGermany_DE-DE6337370430_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.KitesurferGermany_DE-DE6337370430",
+        "copyright": "Silhouette eines springenden Kitesurfers bei Sonnenuntergang im baltischen Meer (© Jens Breuer/Getty Images)",
+        "copyrightKeyword": "Defender GKA Kite World Cup auf Sylt",
+        "hsh": "422fefa3a25fc20c5b28ba114d5bc553"
+    },
+    {
         "fullstartdate": "202508242200",
         "date": "20250825",
         "url": "https://www.bing.com/th?id=OHR.YellowstoneRiver_DE-DE2550082704_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Flysch-Felsformationen in Zumaia, Baskenland, Spanien (© Eloi_Omella/Getty Images)",
         "copyrightKeyword": "Zumaia",
         "hsh": "f5203cec25eb94e48e18b0eca3023f77"
-    },
-    {
-        "fullstartdate": "202508172200",
-        "date": "20250818",
-        "url": "https://www.bing.com/th?id=OHR.GermanyHiker_DE-DE4106707068_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.GermanyHiker_DE-DE4106707068",
-        "copyright": "Wanderer bei Sonnenaufgang auf einem Bergkamm, Nationalpark Gesäuse, Steiermark, Österreich (© AscentXmedia/Getty Images)",
-        "copyrightKeyword": "Nationalpark Gesäuse",
-        "hsh": "3fc296bace5c0dc5006c484c0e183343"
     }
 ]

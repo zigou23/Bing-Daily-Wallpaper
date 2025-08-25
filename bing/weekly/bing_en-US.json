@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202508250700",
+        "date": "20250826",
+        "url": "https://www.bing.com/th?id=OHR.YellowstoneRiver_EN-US3380364726_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.YellowstoneRiver_EN-US3380364726",
+        "copyright": "Calcite Springs Overlook and Yellowstone River, Yellowstone National Park, Wyoming (© Rebecca L. Latson/Getty Images)",
+        "copyrightKeyword": "National Park Service Day",
+        "hsh": "5e3c6cb32f471f542c82fafa4b5d7757"
+    },
+    {
         "fullstartdate": "202508240700",
         "date": "20250825",
         "url": "https://www.bing.com/th?id=OHR.CervusDama_EN-US3217647015_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Avalanche Lake Trail at Adirondack High Peaks, New York (© Posnov/Getty Images)",
         "copyrightKeyword": "Avalanche Lake New York",
         "hsh": "c2e970503cb99bba4c28cfbe0ade65e2"
-    },
-    {
-        "fullstartdate": "202508170700",
-        "date": "20250818",
-        "url": "https://www.bing.com/th?id=OHR.LyngvigLighthouse_EN-US1600601632_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LyngvigLighthouse_EN-US1600601632",
-        "copyright": "Lyngvig Lighthouse, Hvide Sande, Denmark (© Caroline Brundle Bugge/Getty Images)",
-        "copyrightKeyword": "International Lighthouse Lightship Weekend",
-        "hsh": "b01c5cddb8195e060e6388ca2bc203a8"
     }
 ]

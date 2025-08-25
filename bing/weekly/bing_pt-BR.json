@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202508250300",
+        "date": "20250826",
+        "url": "https://www.bing.com/th?id=OHR.YellowstoneRiver_PT-BR9693937277_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.YellowstoneRiver_PT-BR9693937277",
+        "copyright": "Mirante de Calcite Springs e Rio Yellowstone, Parque Nacional de Yellowstone, Wyoming, EUA (© Rebecca L. Latson/Getty Images)",
+        "copyrightKeyword": "Yellowstone Parque Nacional",
+        "hsh": "c43372e77db228602c47b7db81a6380e"
+    },
+    {
         "fullstartdate": "202508240300",
         "date": "20250825",
         "url": "https://www.bing.com/th?id=OHR.Pepalantus_PT-BR6960217232_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Trilha do Avalanche Lake nas Montanhas Adirondack, Nova York, EUA (© Posnov/Getty Images)",
         "copyrightKeyword": "Montanhas Altas de Adirondack, Nova York, EUA",
         "hsh": "940a0bd9764a71368d208fb0ad00e982"
-    },
-    {
-        "fullstartdate": "202508170300",
-        "date": "20250818",
-        "url": "https://www.bing.com/th?id=OHR.Jeribeach_PT-BR3080165878_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.Jeribeach_PT-BR3080165878",
-        "copyright": "Vista aérea de praia em Jericoacoara, no Ceará (© AmazingAerialAgency/Adobe Stock)",
-        "copyrightKeyword": "praia de Jericoacoara",
-        "hsh": "fb71a277308d6ea592e668f35cdc6ec9"
     }
 ]
