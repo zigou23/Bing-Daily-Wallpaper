@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202508262200",
+        "date": "20250827",
+        "url": "https://www.bing.com/th?id=OHR.FaroeLake_DE-DE3217982226_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FaroeLake_DE-DE3217982226",
+        "copyright": "Sørvágsvatn-See, Insel Vágar, Färöer-Inseln (© Anton Petrus/Getty Images)",
+        "copyrightKeyword": "Sørvágsvatn-See",
+        "hsh": "97624fe0b4b545d27fa88bbcbdf9bfa0"
+    },
+    {
         "fullstartdate": "202508252200",
         "date": "20250826",
         "url": "https://www.bing.com/th?id=OHR.KitesurferGermany_DE-DE6337370430_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Die Zitadelle von Bonifacio, Südkorsika, Frankreich (© Marc Dozier/Getty Images)",
         "copyrightKeyword": "Bonifacio",
         "hsh": "7d75febccde3d04c39af25b0ebbe9355"
-    },
-    {
-        "fullstartdate": "202508182200",
-        "date": "20250819",
-        "url": "https://www.bing.com/th?id=OHR.GipuzcoaSummer_DE-DE5130461802_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.GipuzcoaSummer_DE-DE5130461802",
-        "copyright": "Flysch-Felsformationen in Zumaia, Baskenland, Spanien (© Eloi_Omella/Getty Images)",
-        "copyrightKeyword": "Zumaia",
-        "hsh": "f5203cec25eb94e48e18b0eca3023f77"
     }
 ]

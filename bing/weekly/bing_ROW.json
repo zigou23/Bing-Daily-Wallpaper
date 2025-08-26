@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202508260700",
+        "date": "20250827",
+        "url": "https://www.bing.com/th?id=OHR.TrulliHouses_ROW6850250684_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TrulliHouses_ROW6850250684",
+        "copyright": "Trullo buildings in Alberobello, Apulia, Italy (© Feng Wei Photography/Getty Images)",
+        "copyrightKeyword": "Alberobello",
+        "hsh": "6390ae51432b50c01118fe16869fdb46"
+    },
+    {
         "fullstartdate": "202508250700",
         "date": "20250826",
         "url": "https://www.bing.com/th?id=OHR.YellowstoneRiver_ROW6734170781_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Layers of flysch in Zumaia, Basque Country, Spain (© Eloi_Omella/Getty Images)",
         "copyrightKeyword": "Zumaia",
         "hsh": "adb29c89d39944f865678ffe8883b1f4"
-    },
-    {
-        "fullstartdate": "202508180700",
-        "date": "20250819",
-        "url": "https://www.bing.com/th?id=OHR.AvalancheLake_ROW5439773268_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AvalancheLake_ROW5439773268",
-        "copyright": "Avalanche Lake Trail at Adirondack High Peaks, New York, United States (© Posnov/Getty Images)",
-        "copyrightKeyword": "Avalanche Lake New York",
-        "hsh": "fe3be98c4c08c95c7360b198164736ec"
     }
 ]

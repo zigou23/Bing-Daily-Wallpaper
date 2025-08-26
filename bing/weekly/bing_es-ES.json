@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202508262200",
+        "date": "20250827",
+        "url": "https://www.bing.com/th?id=OHR.FaroeLake_ES-ES8719950614_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FaroeLake_ES-ES8719950614",
+        "copyright": "Lago Sørvágsvatn, Isla de Vágar, Islas Feroe, Reino de Dinamarca (© Anton Petrus/Getty Images)",
+        "copyrightKeyword": "Sørvágsvatn",
+        "hsh": "64c45cd3f93e6a67ec02cd6769222b60"
+    },
+    {
         "fullstartdate": "202508252200",
         "date": "20250826",
         "url": "https://www.bing.com/th?id=OHR.TrulliHouses_ES-ES8633260965_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "La ciudadela en Bonifacio, Córcega del sur, Francia (© Marc Dozier/Getty Images)",
         "copyrightKeyword": "Bonifacio Córcega del Sur",
         "hsh": "27bfb6a4f043620debfff115232440fc"
-    },
-    {
-        "fullstartdate": "202508182200",
-        "date": "20250819",
-        "url": "https://www.bing.com/th?id=OHR.GipuzcoaSummer_ES-ES6183424688_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.GipuzcoaSummer_ES-ES6183424688",
-        "copyright": "Capas de flysch en Zumaia, Guipúzcoa, País Vasco, España (© Eloi_Omella/Getty Images)",
-        "copyrightKeyword": "Zumaia",
-        "hsh": "a206a939a9c870931df6c33845ddd88f"
     }
 ]

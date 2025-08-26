@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202508260400",
+        "date": "20250827",
+        "url": "https://www.bing.com/th?id=OHR.TrulliHouses_FR-CA1043617057_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TrulliHouses_FR-CA1043617057",
+        "copyright": "Les maisons trulli d’Alberobello, Pouilles, Italie (© Feng Wei Photography/Getty Images)",
+        "copyrightKeyword": "Alberobello",
+        "hsh": "2dc058b3ca43bd3ba7027c0f01f50c65"
+    },
+    {
         "fullstartdate": "202508250400",
         "date": "20250826",
         "url": "https://www.bing.com/th?id=OHR.Gannets_FR-CA0668588396_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Vue aérienne de l’île de Vancouver, Colombie-Britannique (© edb3_16/Getty Images)",
         "copyrightKeyword": "île de Vancouver",
         "hsh": "ccbe15fe672c9cbbee07cac8b3a42e97"
-    },
-    {
-        "fullstartdate": "202508180400",
-        "date": "20250819",
-        "url": "https://www.bing.com/th?id=OHR.AvalancheLake_FR-CA6587047706_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AvalancheLake_FR-CA6587047706",
-        "copyright": "Sentier du lac Avalanche, Adirondacks High Peaks, États-Unis (© Posnov/Getty Images)",
-        "copyrightKeyword": "Adirondacks High Peaks États-Unis",
-        "hsh": "6c8b7a85b1fc709b782ef6ce5377b899"
     }
 ]
