@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202508272200",
+        "date": "20250828",
+        "url": "https://www.bing.com/th?id=OHR.WhiteEgret_ES-ES8814073965_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WhiteEgret_ES-ES8814073965",
+        "copyright": "Garza blanca, Hungría (© Markus Varesvuo/Nature Picture Library)",
+        "copyrightKeyword": "Garza blanca",
+        "hsh": "5d09262bba11a7c343e4a5f6ae521122"
+    },
+    {
         "fullstartdate": "202508262200",
         "date": "20250827",
         "url": "https://www.bing.com/th?id=OHR.FaroeLake_ES-ES8719950614_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Collalba gris y brezo en flor, Parque nacional del Distrito de los Picos, Inglaterra (© Ben Hall/Nature Picture Library)",
         "copyrightKeyword": "Collalba gris",
         "hsh": "9a319dd18c809ba5f4d77dcd0cf96ee6"
-    },
-    {
-        "fullstartdate": "202508192200",
-        "date": "20250820",
-        "url": "https://www.bing.com/th?id=OHR.CitadelBonifacio_ES-ES5188387736_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.CitadelBonifacio_ES-ES5188387736",
-        "copyright": "La ciudadela en Bonifacio, Córcega del sur, Francia (© Marc Dozier/Getty Images)",
-        "copyrightKeyword": "Bonifacio Córcega del Sur",
-        "hsh": "27bfb6a4f043620debfff115232440fc"
     }
 ]

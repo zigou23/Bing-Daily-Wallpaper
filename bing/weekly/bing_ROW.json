@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202508270700",
+        "date": "20250828",
+        "url": "https://www.bing.com/th?id=OHR.FaroeLake_ROW6981036463_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FaroeLake_ROW6981036463",
+        "copyright": "Sørvágsvatn lake, Island of Vágar, Faroe Islands (© Anton Petrus/Getty Images)",
+        "copyrightKeyword": "Sorvagsvatn lake",
+        "hsh": "b56dd2ee35314ffd43c352c376a2d125"
+    },
+    {
         "fullstartdate": "202508260700",
         "date": "20250827",
         "url": "https://www.bing.com/th?id=OHR.TrulliHouses_ROW6850250684_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "The citadel in Bonifacio, Southern Corsica, France (© Marc Dozier/Getty Images)",
         "copyrightKeyword": "Bonifacio",
         "hsh": "d034bf8ad51a8ab4d9e32bf311c23378"
-    },
-    {
-        "fullstartdate": "202508190700",
-        "date": "20250820",
-        "url": "https://www.bing.com/th?id=OHR.GipuzcoaSummer_ROW5551089786_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.GipuzcoaSummer_ROW5551089786",
-        "copyright": "Layers of flysch in Zumaia, Basque Country, Spain (© Eloi_Omella/Getty Images)",
-        "copyrightKeyword": "Zumaia",
-        "hsh": "adb29c89d39944f865678ffe8883b1f4"
     }
 ]
