@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202508280700",
+        "date": "20250829",
+        "url": "https://www.bing.com/th?id=OHR.WhiteEgret_EN-US3605994040_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WhiteEgret_EN-US3605994040",
+        "copyright": "Great white egret, Hungary (© Markus Varesvuo/Nature Picture Library)",
+        "copyrightKeyword": "Great white egret",
+        "hsh": "141e682605e6e8a5d70e770b938007d7"
+    },
+    {
         "fullstartdate": "202508270700",
         "date": "20250828",
         "url": "https://www.bing.com/th?id=OHR.FaroeLake_EN-US3557234950_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Wheatear and flowering heather, Peak District National Park, England (© Ben Hall/Nature Picture Library)",
         "copyrightKeyword": "Wheatear bird",
         "hsh": "d213b27649fc629927f639a6dee7f949"
-    },
-    {
-        "fullstartdate": "202508200700",
-        "date": "20250821",
-        "url": "https://www.bing.com/th?id=OHR.CitadelBonifacio_EN-US2046177235_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.CitadelBonifacio_EN-US2046177235",
-        "copyright": "The citadel in Bonifacio, Southern Corsica, France (© Marc Dozier/Getty Images)",
-        "copyrightKeyword": "Bonifacio",
-        "hsh": "13a624c108c2547545964ccb5819c67c"
     }
 ]

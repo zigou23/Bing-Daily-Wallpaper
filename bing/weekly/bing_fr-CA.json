@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202508280400",
+        "date": "20250829",
+        "url": "https://www.bing.com/th?id=OHR.WhiteEgret_FR-CA1756697476_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WhiteEgret_FR-CA1756697476",
+        "copyright": "Grande Aigrette, Hongrie (© Markus Varesvuo/Nature Picture Library)",
+        "copyrightKeyword": "Grande Aigrette",
+        "hsh": "e2ebe6168ed91ef6b8b0090b3c7baf68"
+    },
+    {
         "fullstartdate": "202508270400",
         "date": "20250828",
         "url": "https://www.bing.com/th?id=OHR.FaroeLake_FR-CA0076733437_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Traquet motteux au milieu de la bruyère, parc national du Peak District, Angleterre (© Ben Hall/Nature Picture Library)",
         "copyrightKeyword": "Traquet motteux",
         "hsh": "c3962717ce459a44cc23fc074fbc2ff1"
-    },
-    {
-        "fullstartdate": "202508200400",
-        "date": "20250821",
-        "url": "https://www.bing.com/th?id=OHR.CitadelBonifacio_FR-CA7298120070_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.CitadelBonifacio_FR-CA7298120070",
-        "copyright": "Citadelle de Bonifacio, Corse-du-Sud, France (© Marc Dozier/Getty Images)",
-        "copyrightKeyword": "Bonifacio",
-        "hsh": "8013d5350692b5baf3452ac493cece7a"
     }
 ]

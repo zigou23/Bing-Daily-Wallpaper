@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202508282200",
+        "date": "20250829",
+        "url": "https://www.bing.com/th?id=OHR.PlazaMayor_DE-DE2952299555_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PlazaMayor_DE-DE2952299555",
+        "copyright": "Luftaufnahme der Plaza Mayor, Madrid, Spanien (© AirPano LLC/Amazing Aerial Agency)",
+        "copyrightKeyword": "Madrid Hauptstadt Spanien",
+        "hsh": "e1a5719d75febe56aceffbb97822d41d"
+    },
+    {
         "fullstartdate": "202508272200",
         "date": "20250828",
         "url": "https://www.bing.com/th?id=OHR.WhiteEgret_DE-DE4529883456_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Ansicht eines landwirtschaftlichen Feldes, Kaiserstuhl, Baden-Württemberg (© EyeEM Mobile GmbH/Getty Images)",
         "copyrightKeyword": "Kaiserstuhl",
         "hsh": "34f8b211f2208fa4c15835ded47d7b22"
-    },
-    {
-        "fullstartdate": "202508202200",
-        "date": "20250821",
-        "url": "https://www.bing.com/th?id=OHR.WheatearBird_DE-DE8545255513_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WheatearBird_DE-DE8545255513",
-        "copyright": "Steinschmätzer, Peak-District-Nationalpark, England (© Ben Hall/Nature Picture Library)",
-        "copyrightKeyword": "Steinschmätzer",
-        "hsh": "2a996f959d86a3981deb34c420b568b6"
     }
 ]

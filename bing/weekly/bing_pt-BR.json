@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202508280300",
+        "date": "20250829",
+        "url": "https://www.bing.com/th?id=OHR.WhiteEgret_PT-BR8998981600_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WhiteEgret_PT-BR8998981600",
+        "copyright": "Garça-branca-grande, Hungria (© Markus Varesvuo/Nature Picture Library)",
+        "copyrightKeyword": "Garça-branca-grande",
+        "hsh": "cffa01e8b894e0f9e9394daa9e4b837e"
+    },
+    {
         "fullstartdate": "202508270300",
         "date": "20250828",
         "url": "https://www.bing.com/th?id=OHR.FaroeLake_PT-BR9196671345_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Chasco em meio a flores de urze no Parque Nacional de Peak District, Inglaterra (© Ben Hall/Nature Picture Library)",
         "copyrightKeyword": "Chasco",
         "hsh": "7c43f4395d985544110b6a51ff311cb6"
-    },
-    {
-        "fullstartdate": "202508200300",
-        "date": "20250821",
-        "url": "https://www.bing.com/th?id=OHR.CitadelBonifacio_PT-BR4689124587_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.CitadelBonifacio_PT-BR4689124587",
-        "copyright": "Cidadela de Bonifácio no sul da Córsega, França (© Marc Dozier/Getty Images)",
-        "copyrightKeyword": "Bonifacio em Córsega França",
-        "hsh": "354bcd2ab45b94ae02f8d958272bc996"
     }
 ]
