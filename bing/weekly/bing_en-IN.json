@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202508301830",
+        "date": "20250831",
+        "url": "https://www.bing.com/th?id=OHR.ScottsBluff_EN-IN3788273216_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ScottsBluff_EN-IN3788273216",
+        "copyright": "Scotts Bluff National Monument in Gering, Nebraska, United States (© Hawk Buckman/Getty Images)",
+        "copyrightKeyword": "Scotts Bluff National Monument",
+        "hsh": "9ef6b0b01aee673940fea3da853ff7ee"
+    },
+    {
         "fullstartdate": "202508291830",
         "date": "20250830",
         "url": "https://www.bing.com/th?id=OHR.MaldivesWhaleShark_EN-IN3643535243_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "European fallow deer, England (© Enrique Aguirre Aves/Getty Images)",
         "copyrightKeyword": "European fallow deer",
         "hsh": "7c6519948749aeb3cf1c652fc6059e09"
-    },
-    {
-        "fullstartdate": "202508221830",
-        "date": "20250823",
-        "url": "https://www.bing.com/th?id=OHR.SaintBarbaras_EN-IN1181237590_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SaintBarbaras_EN-IN1181237590",
-        "copyright": "St. Barbara's Cathedral, Kutná Hora, Czechia (© Castka/Getty Images)",
-        "copyrightKeyword": "St Barbaras Cathedral",
-        "hsh": "c875a25aef2fb705b5a629b09f1b7698"
     }
 ]

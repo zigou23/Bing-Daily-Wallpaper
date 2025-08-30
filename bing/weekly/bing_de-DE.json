@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202508302200",
+        "date": "20250831",
+        "url": "https://www.bing.com/th?id=OHR.ScottsBluff_DE-DE5756991570_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ScottsBluff_DE-DE5756991570",
+        "copyright": "Scotts Bluff National Monument in Gering, Nebraska, USA (© Hawk Buckman/Getty Images)",
+        "copyrightKeyword": "Nebraska",
+        "hsh": "647c8cd7aefb2c717de896e0a3ddfa43"
+    },
+    {
         "fullstartdate": "202508292200",
         "date": "20250830",
         "url": "https://www.bing.com/th?id=OHR.MaldivesWhaleShark_DE-DE5305266157_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Europäischer Damhirsch, England (© Enrique Aguirre Aves/Getty Images)",
         "copyrightKeyword": "Europäischer Damhirsch",
         "hsh": "558a09e7f49a7103c4e428ff34f1664e"
-    },
-    {
-        "fullstartdate": "202508222200",
-        "date": "20250823",
-        "url": "https://www.bing.com/th?id=OHR.SaintBarbaras_DE-DE2329773530_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SaintBarbaras_DE-DE2329773530",
-        "copyright": "Barbaradom, Kuttenberg, Tschechien (© Castka/Getty Images)",
-        "copyrightKeyword": "Barbaradom",
-        "hsh": "7a6d16825b2618542993a2d51f453f17"
     }
 ]
