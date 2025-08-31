@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202508311500",
+        "date": "20250901",
+        "url": "https://www.bing.com/th?id=OHR.SaintBarbaras_JA-JP5804029970_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SaintBarbaras_JA-JP5804029970",
+        "copyright": "聖バルボラ教会, チェコ共和国 (© Castka/Getty Images)",
+        "copyrightKeyword": "聖バルボラ教会",
+        "hsh": "f5c3fe2b3e267a074a97bbff8368d9c5"
+    },
+    {
         "fullstartdate": "202508301500",
         "date": "20250831",
         "url": "https://www.bing.com/th?id=OHR.ScottsBluff_JA-JP5785584590_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "イエローストーン国立公園, 米国 ワイオミング州 (© Rebecca L. Latson/Getty Images)",
         "copyrightKeyword": "イエローストーン国立公園",
         "hsh": "7570b02be920accfb49939a3294480e7"
-    },
-    {
-        "fullstartdate": "202508231500",
-        "date": "20250824",
-        "url": "https://www.bing.com/th?id=OHR.CervusDama_JA-JP5457977522_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.CervusDama_JA-JP5457977522",
-        "copyright": "ダマジカ, イギリス (© Enrique Aguirre Aves/Getty Images)",
-        "copyrightKeyword": "ダマジカ",
-        "hsh": "0be7125b70f1845f950cf654c488aab3"
     }
 ]

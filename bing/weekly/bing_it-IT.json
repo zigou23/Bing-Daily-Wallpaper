@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202508312200",
+        "date": "20250901",
+        "url": "https://www.bing.com/th?id=OHR.TrulliHouses_IT-IT0120917493_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TrulliHouses_IT-IT0120917493",
+        "copyright": "Trulli ad Alberobello, Bari, Puglia (© Feng Wei Photography/Getty Images)",
+        "copyrightKeyword": "Alberobello",
+        "hsh": "4c0b9af70ab5d4c5fc3a9b17075e3fbf"
+    },
+    {
         "fullstartdate": "202508302200",
         "date": "20250831",
         "url": "https://www.bing.com/th?id=OHR.ScottsBluff_IT-IT0073144913_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Sorgenti di calcite e fiume Yellowstone, Parco Nazionale di Yellowstone, Wyoming, USA (© Rebecca L. Latson/Getty Images)",
         "copyrightKeyword": "Parco Nazionale di Yellowstone",
         "hsh": "7fb955caf3aecad609eb846ae34462e6"
-    },
-    {
-        "fullstartdate": "202508232200",
-        "date": "20250824",
-        "url": "https://www.bing.com/th?id=OHR.CervusDama_IT-IT0307979007_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.CervusDama_IT-IT0307979007",
-        "copyright": "Daini, Inghilterra (© Enrique Aguirre Aves/Getty Images)",
-        "copyrightKeyword": "Daino",
-        "hsh": "394b580fc4b23dc9971e559f9a6700b4"
     }
 ]
