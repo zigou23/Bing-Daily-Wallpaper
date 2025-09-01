@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509010400",
+        "date": "20250902",
+        "url": "https://www.bing.com/th?id=OHR.YellowstoneRiver_EN-CA9627036432_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.YellowstoneRiver_EN-CA9627036432",
+        "copyright": "Calcite Springs Overlook and Yellowstone River, Yellowstone National Park, Wyoming (© Rebecca L. Latson/Getty Images)",
+        "copyrightKeyword": "Yellowstone National Park",
+        "hsh": "eb53e72451014e23cdf331afd6f008bd"
+    },
+    {
         "fullstartdate": "202508310400",
         "date": "20250901",
         "url": "https://www.bing.com/th?id=OHR.ScottsBluff_EN-CA3033262054_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Colony of northern gannets, Quebec (© Vladone/Getty Images)",
         "copyrightKeyword": "Northern gannets",
         "hsh": "144c0b90f40cc2ae5e9ac05b5159ec33"
-    },
-    {
-        "fullstartdate": "202508240400",
-        "date": "20250825",
-        "url": "https://www.bing.com/th?id=OHR.CervusDama_EN-CA1743001514_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.CervusDama_EN-CA1743001514",
-        "copyright": "European fallow deer, England (© Enrique Aguirre Aves/Getty Images)",
-        "copyrightKeyword": "European fallow deer",
-        "hsh": "ff995f24601fd007f0ff0d6eef43f282"
     }
 ]

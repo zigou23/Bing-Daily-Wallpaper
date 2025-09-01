@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509010300",
+        "date": "20250902",
+        "url": "https://www.bing.com/th?id=OHR.PalouseWA_PT-BR8269290462_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PalouseWA_PT-BR8269290462",
+        "copyright": "Colinas onduladas de Palouse, Washington, EUA (© svetlana57/Getty Images)",
+        "copyrightKeyword": "Palouse",
+        "hsh": "e834ac6a51bce762ea7607028dd50126"
+    },
+    {
         "fullstartdate": "202508310300",
         "date": "20250901",
         "url": "https://www.bing.com/th?id=OHR.ScottsBluff_PT-BR7461504826_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Mirante de Calcite Springs e Rio Yellowstone, Parque Nacional de Yellowstone, Wyoming, EUA (© Rebecca L. Latson/Getty Images)",
         "copyrightKeyword": "Yellowstone Parque Nacional",
         "hsh": "c43372e77db228602c47b7db81a6380e"
-    },
-    {
-        "fullstartdate": "202508240300",
-        "date": "20250825",
-        "url": "https://www.bing.com/th?id=OHR.Pepalantus_PT-BR6960217232_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.Pepalantus_PT-BR6960217232",
-        "copyright": "Chuveirinhos ao nascer do sol na Chapada dos Veadeiros, Goiás (© Cavan Images/Getty Images)",
-        "copyrightKeyword": "pepalantus planta",
-        "hsh": "1101362acef851558a45d70d48fdc068"
     }
 ]

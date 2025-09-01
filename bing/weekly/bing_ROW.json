@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509010700",
+        "date": "20250902",
+        "url": "https://www.bing.com/th?id=OHR.FieldKaiserstuhl_ROW2652237582_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FieldKaiserstuhl_ROW2652237582",
+        "copyright": "Kaiserstuhl, Baden-Württemberg, Germany (© EyeEM Mobile GmbH/Getty Images)",
+        "copyrightKeyword": "Kaiserstuhl",
+        "hsh": "f3e90a2e8b8ec2a2515bb3f8f509f3d0"
+    },
+    {
         "fullstartdate": "202508310700",
         "date": "20250901",
         "url": "https://www.bing.com/th?id=OHR.ScottsBluff_ROW7379733057_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Calcite Springs Overlook and Yellowstone River, Yellowstone National Park, Wyoming, United States (© Rebecca L. Latson/Getty Images)",
         "copyrightKeyword": "Calcite Springs",
         "hsh": "73a82f9ec3b5d8b72ca91a3a5ba394e1"
-    },
-    {
-        "fullstartdate": "202508240700",
-        "date": "20250825",
-        "url": "https://www.bing.com/th?id=OHR.CervusDama_ROW6529475019_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.CervusDama_ROW6529475019",
-        "copyright": "European fallow deer, England (© Enrique Aguirre Aves/Getty Images)",
-        "copyrightKeyword": "European fallow deer",
-        "hsh": "b0c6d189e264ce3d5d4853dc625470b9"
     }
 ]

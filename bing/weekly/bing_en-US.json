@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509010700",
+        "date": "20250902",
+        "url": "https://www.bing.com/th?id=OHR.LaborDayChicago_EN-US3947410593_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LaborDayChicago_EN-US3947410593",
+        "copyright": "Amalgamated Clothing Workers of America in a Labor Day parade, May 1915, Chicago (© Chicago Sun-Times/Chicago Daily News collection/Chicago History Museum/Getty Images)",
+        "copyrightKeyword": "Labor Day",
+        "hsh": "3d6cd13ea271115f03b766259886edd8"
+    },
+    {
         "fullstartdate": "202508310700",
         "date": "20250901",
         "url": "https://www.bing.com/th?id=OHR.ScottsBluff_EN-US3893566724_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Calcite Springs Overlook and Yellowstone River, Yellowstone National Park, Wyoming (© Rebecca L. Latson/Getty Images)",
         "copyrightKeyword": "National Park Service Day",
         "hsh": "5e3c6cb32f471f542c82fafa4b5d7757"
-    },
-    {
-        "fullstartdate": "202508240700",
-        "date": "20250825",
-        "url": "https://www.bing.com/th?id=OHR.CervusDama_EN-US3217647015_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.CervusDama_EN-US3217647015",
-        "copyright": "European fallow deer, England (© Enrique Aguirre Aves/Getty Images)",
-        "copyrightKeyword": "European fallow deer",
-        "hsh": "a2dc6a97130c6d49fa55c98d37e2b96c"
     }
 ]

@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509012200",
+        "date": "20250902",
+        "url": "https://www.bing.com/th?id=OHR.DeadvleiTrees_ES-ES0322345638_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.DeadvleiTrees_ES-ES0322345638",
+        "copyright": "Árboles espina de camello, Deadvlei, Parque Namib-Naukluft, Namibia (© Inge Johnsson/Alamy)",
+        "copyrightKeyword": "Parque nacional de Namib-Naukluft",
+        "hsh": "d0ff7aa341662bcf3fa4ad88d1648fd2"
+    },
+    {
         "fullstartdate": "202508312200",
         "date": "20250901",
         "url": "https://www.bing.com/th?id=OHR.ScottsBluff_ES-ES9472248274_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Los trulli de Alberobello, Apulia, Italia (© Feng Wei Photography/Getty Images)",
         "copyrightKeyword": "Alberobello",
         "hsh": "5c5c01e5235b1ce0afcf3b7d1f3f6370"
-    },
-    {
-        "fullstartdate": "202508242200",
-        "date": "20250825",
-        "url": "https://www.bing.com/th?id=OHR.YellowstoneRiver_ES-ES8502138865_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.YellowstoneRiver_ES-ES8502138865",
-        "copyright": "Mirador de Calcite Springs y río Yellowstone, Parque Nacional de Yellowstone, Wyoming, EE. UU. (© Rebecca L. Latson/Getty Images)",
-        "copyrightKeyword": "Parque Nacional de Yellowstone",
-        "hsh": "5850e8e4250bf87b513e777aab302cc0"
     }
 ]

@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509012300",
+        "date": "20250902",
+        "url": "https://www.bing.com/th?id=OHR.DeadvleiTrees_EN-GB0679166785_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.DeadvleiTrees_EN-GB0679166785",
+        "copyright": "Camel thorn trees, Deadvlei, Namib-Naukluft Park, Namibia (© Inge Johnsson/Alamy Stock Photo)",
+        "copyrightKeyword": "Namib Naukluft Park in Namibia",
+        "hsh": "c4bb9c3c7d1f294fb44445d2c20a8321"
+    },
+    {
         "fullstartdate": "202508312300",
         "date": "20250901",
         "url": "https://www.bing.com/th?id=OHR.GipuzcoaSummer_EN-GB2818544324_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Trullo buildings in Alberobello, Apulia, Italy (© Feng Wei Photography/Getty Images)",
         "copyrightKeyword": "Alberobello",
         "hsh": "6dcc92fba0712255636ac45dfac3926a"
-    },
-    {
-        "fullstartdate": "202508242300",
-        "date": "20250825",
-        "url": "https://www.bing.com/th?id=OHR.YellowstoneRiver_EN-GB9172526741_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.YellowstoneRiver_EN-GB9172526741",
-        "copyright": "Calcite Springs Overlook and Yellowstone River, Yellowstone National Park, Wyoming, United States (© Rebecca L. Latson/Getty Images)",
-        "copyrightKeyword": "Yellowstone National Park",
-        "hsh": "31b26c9f71dec5717384c254142d8a02"
     }
 ]
