@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509022200",
+        "date": "20250903",
+        "url": "https://www.bing.com/th?id=OHR.MontSaintMichel_FR-FR8463268794_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MontSaintMichel_FR-FR8463268794",
+        "copyright": "Abbaye du Mont Saint-Michel au crépuscule, Manche, Normandie (© Ilhan Eroglu/500px/Getty Images)",
+        "copyrightKeyword": "Le Mont-Saint-Michel commune",
+        "hsh": "b6e69e8c5eb110d8021e1f9197786101"
+    },
+    {
         "fullstartdate": "202509012200",
         "date": "20250902",
         "url": "https://www.bing.com/th?id=OHR.DeadvleiTrees_FR-FR9220930229_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Lac Sørvágsvatn, île de Vágar, Îles Féroé (© Anton Petrus/Getty Images)",
         "copyrightKeyword": "Lac Sørvágsvatn",
         "hsh": "1f44d2ea9980222c54fa7b849bd72e31"
-    },
-    {
-        "fullstartdate": "202508252200",
-        "date": "20250826",
-        "url": "https://www.bing.com/th?id=OHR.TrulliHouses_FR-FR8920368293_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.TrulliHouses_FR-FR8920368293",
-        "copyright": "Les maisons trulli d’Alberobello, Pouilles, Italie (© Feng Wei Photography/Getty Images)",
-        "copyrightKeyword": "Alberobello",
-        "hsh": "01d5b87f40b1366cbeaee26b1af7586a"
     }
 ]

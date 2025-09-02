@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509020700",
+        "date": "20250903",
+        "url": "https://www.bing.com/th?id=OHR.DeadvleiTrees_EN-US4233800313_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.DeadvleiTrees_EN-US4233800313",
+        "copyright": "Camel thorn trees, Deadvlei, Namib-Naukluft Park, Namibia (© Inge Johnsson/Alamy)",
+        "copyrightKeyword": "Namib Naukluft Park in Namibia",
+        "hsh": "4a45e677f51ef59530cfcb415f83528c"
+    },
+    {
         "fullstartdate": "202509010700",
         "date": "20250902",
         "url": "https://www.bing.com/th?id=OHR.LaborDayChicago_EN-US3947410593_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Trullo buildings in Alberobello, Apulia, Italy (© Feng Wei Photography/Getty Images)",
         "copyrightKeyword": "Alberobello",
         "hsh": "e7231458ee5cef7bedba833f4130963d"
-    },
-    {
-        "fullstartdate": "202508250700",
-        "date": "20250826",
-        "url": "https://www.bing.com/th?id=OHR.YellowstoneRiver_EN-US3380364726_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.YellowstoneRiver_EN-US3380364726",
-        "copyright": "Calcite Springs Overlook and Yellowstone River, Yellowstone National Park, Wyoming (© Rebecca L. Latson/Getty Images)",
-        "copyrightKeyword": "National Park Service Day",
-        "hsh": "5e3c6cb32f471f542c82fafa4b5d7757"
     }
 ]

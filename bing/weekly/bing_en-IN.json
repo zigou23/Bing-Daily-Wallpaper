@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509021830",
+        "date": "20250903",
+        "url": "https://www.bing.com/th?id=OHR.TrulliHouses_EN-IN4494179096_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TrulliHouses_EN-IN4494179096",
+        "copyright": "Trullo buildings in Alberobello, Apulia, Italy (© Feng Wei Photography/Getty Images)",
+        "copyrightKeyword": "Alberobello",
+        "hsh": "527f6c3f426e511b52cd4d2c16aff67b"
+    },
+    {
         "fullstartdate": "202509011830",
         "date": "20250902",
         "url": "https://www.bing.com/th?id=OHR.DeadvleiTrees_EN-IN4217239314_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Clay-idol of Ganesha at a temple near Bengaluru (© Amith Nag Photography/Getty Images)",
         "copyrightKeyword": "Ganesh Chaturthi",
         "hsh": "b3a8f4bad081c3c32ea750ecd7815fd3"
-    },
-    {
-        "fullstartdate": "202508251830",
-        "date": "20250826",
-        "url": "https://www.bing.com/th?id=OHR.FaroeLake_EN-IN3134235766_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FaroeLake_EN-IN3134235766",
-        "copyright": "Sørvágsvatn lake, island of Vágar, Faroe Islands (© Anton Petrus/Getty Images)",
-        "copyrightKeyword": "Sorvagsvatn lake",
-        "hsh": "c9229c627eb3dcb24f32715fe0d9f856"
     }
 ]

@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509020400",
+        "date": "20250903",
+        "url": "https://www.bing.com/th?id=OHR.DeadvleiTrees_FR-CA3437510349_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.DeadvleiTrees_FR-CA3437510349",
+        "copyright": "Acacias à girafe, Deadvlei, parc Namib-Naukluft, Namibie (© Inge Johnsson/Alamy)",
+        "copyrightKeyword": "Parc Namib-Naukluft, Namibie",
+        "hsh": "76e2dab460cbc6343b3c91bb6972ac26"
+    },
+    {
         "fullstartdate": "202509010400",
         "date": "20250902",
         "url": "https://www.bing.com/th?id=OHR.MinnesotaWaters_FR-CA2747659631_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Les maisons trulli d’Alberobello, Pouilles, Italie (© Feng Wei Photography/Getty Images)",
         "copyrightKeyword": "Alberobello",
         "hsh": "77f9f4b7154c81b273901352c66b7267"
-    },
-    {
-        "fullstartdate": "202508250400",
-        "date": "20250826",
-        "url": "https://www.bing.com/th?id=OHR.Gannets_FR-CA0668588396_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.Gannets_FR-CA0668588396",
-        "copyright": "Colonie de fous de Bassan, Québec (© Vladone/Getty Images)",
-        "copyrightKeyword": "Fou de bassan",
-        "hsh": "edc59324041dfa1aab0651cec395be52"
     }
 ]
