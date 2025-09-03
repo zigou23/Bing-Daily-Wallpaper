@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509032200",
+        "date": "20250904",
+        "url": "https://www.bing.com/th?id=OHR.WrestlingBears_IT-IT9855887848_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WrestlingBears_IT-IT9855887848",
+        "copyright": "Orsi grizzly, Parco Nazionale e Riserva di Katmai, Alaska, USA (© Cavan Images/Adobe Stock)",
+        "copyrightKeyword": "Grizzly",
+        "hsh": "6683a3f7626ccf50cdeffbe2dc53e081"
+    },
+    {
         "fullstartdate": "202509022200",
         "date": "20250903",
         "url": "https://www.bing.com/th?id=OHR.AgrigentoSicilia_IT-IT0162455126_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Airone bianco, Ungheria (© Markus Varesvuo/Nature Picture Library)",
         "copyrightKeyword": "Ardea alba",
         "hsh": "28678ecb791514268a7e1ea523865ed4"
-    },
-    {
-        "fullstartdate": "202508262200",
-        "date": "20250827",
-        "url": "https://www.bing.com/th?id=OHR.FestivalVenezia_IT-IT9738242817_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FestivalVenezia_IT-IT9738242817",
-        "copyright": "Vista aerea delle case colorate dell'isola di Burano, Laguna di Venezia, Veneto (© Pol Albarrán/Moment)",
-        "copyrightKeyword": "festival cinematografico che si svolge annualmente in Italia a Venezia",
-        "hsh": "d83ce1d5cc30b0d79e92d04309562e8d"
     }
 ]

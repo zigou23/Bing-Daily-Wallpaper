@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509030300",
+        "date": "20250904",
+        "url": "https://www.bing.com/th?id=OHR.MinnesotaWaters_PT-BR7389411612_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MinnesotaWaters_PT-BR7389411612",
+        "copyright": "Águas serenas da Boundary Waters Canoe Area Wilderness, Minnesota, EUA (© s.tomas/Shutterstock)",
+        "copyrightKeyword": "Boundary Waters em Minnesota EUA",
+        "hsh": "278e83342f4d50c71648b43905b8b2eb"
+    },
+    {
         "fullstartdate": "202509020300",
         "date": "20250903",
         "url": "https://www.bing.com/th?id=OHR.DeadvleiTrees_PT-BR2241595565_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Lago Sørvágsvatn, ilha de Vágar, Ilhas Faroe, Dinamarca (© Anton Petrus/Getty Images)",
         "copyrightKeyword": "o que é um lago",
         "hsh": "3f67bdb203a0a88636d1ee5f6f741dcd"
-    },
-    {
-        "fullstartdate": "202508260300",
-        "date": "20250827",
-        "url": "https://www.bing.com/th?id=OHR.TrulliHouses_PT-BR9475692206_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.TrulliHouses_PT-BR9475692206",
-        "copyright": "Casas trulli em Alberobello, Apúlia, Itália (© Feng Wei Photography/Getty Images)",
-        "copyrightKeyword": "Alberobello, Apúlia, Itália",
-        "hsh": "fb3809e78cb0a5cfeb98b1a7ae564b80"
     }
 ]

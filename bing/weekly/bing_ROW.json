@@ -1,12 +1,21 @@
 [
     {
+        "fullstartdate": "202509030700",
+        "date": "20250904",
+        "url": "https://www.bing.com/th?id=OHR.MinnesotaWaters_ROW7698043966_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MinnesotaWaters_ROW7698043966",
+        "copyright": "Boundary Waters Canoe Area Wilderness, Minnesota, United States (© s.tomas/Shutterstock)",
+        "copyrightKeyword": "Boundary Waters Canoe Area Wilderness",
+        "hsh": "efbd9497e7de0bf3387ccfc186a9c64a"
+    },
+    {
         "fullstartdate": "202509020700",
         "date": "20250903",
         "url": "https://www.bing.com/th?id=OHR.DeadvleiTrees_ROW7595543784_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.DeadvleiTrees_ROW7595543784",
         "copyright": "Camel thorn trees, Deadvlei, Namib-Naukluft Park, Namibia (© Inge Johnsson/Alamy Stock Photo)",
         "copyrightKeyword": "Namib Naukluft Park in Namibia",
-        "hsh": "06ee5e13ccd20203e7456a35ed314bf3"
+        "hsh": "acde509ec9a59593707ad09257c6cf7c"
     },
     {
         "fullstartdate": "202509010700",
@@ -15,7 +24,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.FieldKaiserstuhl_ROW2652237582",
         "copyright": "Kaiserstuhl, Baden-Württemberg, Germany (© EyeEM Mobile GmbH/Getty Images)",
         "copyrightKeyword": "Kaiserstuhl",
-        "hsh": "f3e90a2e8b8ec2a2515bb3f8f509f3d0"
+        "hsh": "17ff2beafee8e8b5bb35b2a1bc221d8e"
     },
     {
         "fullstartdate": "202508310700",
@@ -24,7 +33,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ScottsBluff_ROW7379733057",
         "copyright": "Scotts Bluff National Monument in Gering, Nebraska, United States (© Hawk Buckman/Getty Images)",
         "copyrightKeyword": "Scotts Bluff National Monument",
-        "hsh": "117195cb66c57499ba60173794bc81aa"
+        "hsh": "e2ac42066b4df4f35e1c8c9717c93b04"
     },
     {
         "fullstartdate": "202508300700",
@@ -61,14 +70,5 @@
         "copyright": "Sørvágsvatn lake, Island of Vágar, Faroe Islands (© Anton Petrus/Getty Images)",
         "copyrightKeyword": "Sorvagsvatn lake",
         "hsh": "b56dd2ee35314ffd43c352c376a2d125"
-    },
-    {
-        "fullstartdate": "202508260700",
-        "date": "20250827",
-        "url": "https://www.bing.com/th?id=OHR.TrulliHouses_ROW6850250684_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.TrulliHouses_ROW6850250684",
-        "copyright": "Trullo buildings in Alberobello, Apulia, Italy (© Feng Wei Photography/Getty Images)",
-        "copyrightKeyword": "Alberobello",
-        "hsh": "6390ae51432b50c01118fe16869fdb46"
     }
 ]

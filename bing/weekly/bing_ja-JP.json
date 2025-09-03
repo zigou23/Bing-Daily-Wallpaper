@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509031500",
+        "date": "20250904",
+        "url": "https://www.bing.com/th?id=OHR.YohoNP_JA-JP5965096200_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.YohoNP_JA-JP5965096200",
+        "copyright": "ヨーホー国立公園, カナダ (© Feng Wei Photography/Getty Images)",
+        "copyrightKeyword": "ヨーホー国立公園",
+        "hsh": "400d135ee7f0d9cd78c3fbe6231e46e0"
+    },
+    {
         "fullstartdate": "202509021500",
         "date": "20250903",
         "url": "https://www.bing.com/th?id=OHR.MinnesotaWaters_JA-JP5876109313_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "ダイサギ, ハンガリー  (© Markus Varesvuo/Nature Picture Library)",
         "copyrightKeyword": "ダイサギ",
         "hsh": "31a1e72ba666a4279b787186b175d3ec"
-    },
-    {
-        "fullstartdate": "202508261500",
-        "date": "20250827",
-        "url": "https://www.bing.com/th?id=OHR.FaroeLake_JA-JP5563873968_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FaroeLake_JA-JP5563873968",
-        "copyright": "ソールヴァグスヴァトン湖, デンマーク (© Anton Petrus/Getty Images)",
-        "copyrightKeyword": "ソールヴァグスヴァトン湖",
-        "hsh": "09b70003799ebbd456070dfde0312d82"
     }
 ]

@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509030400",
+        "date": "20250904",
+        "url": "https://www.bing.com/th?id=OHR.WrestlingBears_EN-CA6711958224_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WrestlingBears_EN-CA6711958224",
+        "copyright": "Grizzly bears wrestling, Katmai National Park and Preserve, Alaska, United States (© Cavan Images/Adobe Stock)",
+        "copyrightKeyword": "Grizzly bears",
+        "hsh": "9c6a3ce0feb055ed072e833964e1f663"
+    },
+    {
         "fullstartdate": "202509020400",
         "date": "20250903",
         "url": "https://www.bing.com/th?id=OHR.DeadvleiTrees_EN-CA3439734849_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Sørvágsvatn lake, island of Vágar, Faroe Islands (© Anton Petrus/Getty Images)",
         "copyrightKeyword": "World Lake Day",
         "hsh": "9700e024917a9ed88e7632b337a51206"
-    },
-    {
-        "fullstartdate": "202508260400",
-        "date": "20250827",
-        "url": "https://www.bing.com/th?id=OHR.TrulliHouses_EN-CA2142617397_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.TrulliHouses_EN-CA2142617397",
-        "copyright": "Trullo buildings in Alberobello, Apulia, Italy (© Feng Wei Photography/Getty Images)",
-        "copyrightKeyword": "Alberobello",
-        "hsh": "bb8fef0e44ac007e94996a698cedcb0f"
     }
 ]

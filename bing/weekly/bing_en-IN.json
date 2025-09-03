@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509031830",
+        "date": "20250904",
+        "url": "https://www.bing.com/th?id=OHR.WrestlingBears_EN-IN9132458412_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WrestlingBears_EN-IN9132458412",
+        "copyright": "Grizzly bears wrestling, Katmai National Park and Preserve, Alaska, United States (© Cavan Images/Adobe Stock)",
+        "copyrightKeyword": "Grizzly bears",
+        "hsh": "85a4a95423fc9c61662fc9b9484e7dd4"
+    },
+    {
         "fullstartdate": "202509021830",
         "date": "20250903",
         "url": "https://www.bing.com/th?id=OHR.TrulliHouses_EN-IN4494179096_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Great white egret, Hungary (© Markus Varesvuo/Nature Picture Library)",
         "copyrightKeyword": "Great white egret",
         "hsh": "2c0c0a84b1666e61c3934a13fb455b41"
-    },
-    {
-        "fullstartdate": "202508261830",
-        "date": "20250827",
-        "url": "https://www.bing.com/th?id=OHR.ClayGanesha_EN-IN3970807588_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ClayGanesha_EN-IN3970807588",
-        "copyright": "Clay-idol of Ganesha at a temple near Bengaluru (© Amith Nag Photography/Getty Images)",
-        "copyrightKeyword": "Ganesh Chaturthi",
-        "hsh": "b3a8f4bad081c3c32ea750ecd7815fd3"
     }
 ]

@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509030700",
+        "date": "20250904",
+        "url": "https://www.bing.com/th?id=OHR.MinnesotaWaters_EN-US4282198656_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MinnesotaWaters_EN-US4282198656",
+        "copyright": "Boundary Waters Canoe Area Wilderness, Minnesota (© s.tomas/Shutterstock)",
+        "copyrightKeyword": "Wilderness Act",
+        "hsh": "6b2b6f22cb96742b8d53d72e281f08e4"
+    },
+    {
         "fullstartdate": "202509020700",
         "date": "20250903",
         "url": "https://www.bing.com/th?id=OHR.DeadvleiTrees_EN-US4233800313_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Sørvágsvatn lake, island of Vágar, Faroe Islands, Denmark (© Anton Petrus/Getty Images)",
         "copyrightKeyword": "Sørvágsvatn",
         "hsh": "2e650e4212afced2c700f167db2966a8"
-    },
-    {
-        "fullstartdate": "202508260700",
-        "date": "20250827",
-        "url": "https://www.bing.com/th?id=OHR.TrulliHouses_EN-US3489439665_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.TrulliHouses_EN-US3489439665",
-        "copyright": "Trullo buildings in Alberobello, Apulia, Italy (© Feng Wei Photography/Getty Images)",
-        "copyrightKeyword": "Alberobello",
-        "hsh": "e7231458ee5cef7bedba833f4130963d"
     }
 ]

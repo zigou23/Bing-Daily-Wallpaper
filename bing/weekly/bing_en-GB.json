@@ -1,12 +1,21 @@
 [
     {
+        "fullstartdate": "202509032300",
+        "date": "20250904",
+        "url": "https://www.bing.com/th?id=OHR.WrestlingBears_EN-GB3380146887_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WrestlingBears_EN-GB3380146887",
+        "copyright": "Grizzly bears wrestling, Katmai National Park and Preserve, Alaska, United States (© Cavan Images/Adobe Stock)",
+        "copyrightKeyword": "Grizzly bears",
+        "hsh": "b1c4d1b139bdc38f45ffd134dd530c41"
+    },
+    {
         "fullstartdate": "202509022300",
         "date": "20250903",
         "url": "https://www.bing.com/th?id=OHR.SaintBarbaras_EN-GB0842695883_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.SaintBarbaras_EN-GB0842695883",
         "copyright": "St Barbara's Cathedral, Kutná Hora, Czechia (© Castka/Getty Images)",
         "copyrightKeyword": "St Barbaras Cathedral",
-        "hsh": "3baad0d32e4a86054d758bd9a8b592fd"
+        "hsh": "b43a3e6ecb7ac44a063bbeb0b822a357"
     },
     {
         "fullstartdate": "202509012300",
@@ -61,14 +70,5 @@
         "copyright": "Great white egret, Hungary (© Markus Varesvuo/Nature Picture Library)",
         "copyrightKeyword": "Great white egret",
         "hsh": "9439fc95442e41d282be30f298f58cc8"
-    },
-    {
-        "fullstartdate": "202508262300",
-        "date": "20250827",
-        "url": "https://www.bing.com/th?id=OHR.FaroeLake_EN-GB9601686603_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FaroeLake_EN-GB9601686603",
-        "copyright": "Sørvágsvatn lake, island of Vágar, Faroe Islands (© Anton Petrus/Getty Images)",
-        "copyrightKeyword": "World Lake Day",
-        "hsh": "45ce06373d0aa6352288ac1f9fd23a8d"
     }
 ]
