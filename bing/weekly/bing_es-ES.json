@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509042200",
+        "date": "20250905",
+        "url": "https://www.bing.com/th?id=OHR.SunsetPier_ES-ES7586673768_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SunsetPier_ES-ES7586673768",
+        "copyright": "Pacific Park, Muelle de Santa Monica, California, EE. UU. (© EXTREME-PHOTOGRAPHER/Getty Images)",
+        "copyrightKeyword": "Muelle de Santa Mónica",
+        "hsh": "aa827d55e7c44701bdf73b65edf19fb4"
+    },
+    {
         "fullstartdate": "202509032200",
         "date": "20250904",
         "url": "https://www.bing.com/th?id=OHR.WrestlingBears_ES-ES0873710105_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Vista aérea de la Plaza Mayor, Madrid, España (© AirPano LLC/Amazing Aerial Agency)",
         "copyrightKeyword": "Plaza Mayor Madrid",
         "hsh": "a6207dd5a826a7ec313f327df102d513"
-    },
-    {
-        "fullstartdate": "202508272200",
-        "date": "20250828",
-        "url": "https://www.bing.com/th?id=OHR.WhiteEgret_ES-ES8814073965_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WhiteEgret_ES-ES8814073965",
-        "copyright": "Garza blanca, Hungría (© Markus Varesvuo/Nature Picture Library)",
-        "copyrightKeyword": "Garza blanca",
-        "hsh": "5d09262bba11a7c343e4a5f6ae521122"
     }
 ]

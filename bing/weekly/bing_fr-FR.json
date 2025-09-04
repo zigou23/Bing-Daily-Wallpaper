@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509042200",
+        "date": "20250905",
+        "url": "https://www.bing.com/th?id=OHR.SunsetPier_FR-FR5498949983_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SunsetPier_FR-FR5498949983",
+        "copyright": "Pacific Park, plage d'État de Santa Monica, Californie, États-Unis (© EXTREME-PHOTOGRAPHER/Getty Images)",
+        "copyrightKeyword": "plage d'État de Santa Monica",
+        "hsh": "a81837d9fd706d07625a558bb6733a18"
+    },
+    {
         "fullstartdate": "202509032200",
         "date": "20250904",
         "url": "https://www.bing.com/th?id=OHR.WrestlingBears_FR-FR0316323134_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Vue aérienne de la Plaza Mayor, Madrid, Espagne (© AirPano LLC/Amazing Aerial Agency)",
         "copyrightKeyword": "La Plaza Mayor de Madrid",
         "hsh": "53ca45e6f86b8d2aa214383d6ed80790"
-    },
-    {
-        "fullstartdate": "202508272200",
-        "date": "20250828",
-        "url": "https://www.bing.com/th?id=OHR.WhiteEgret_FR-FR1372532221_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WhiteEgret_FR-FR1372532221",
-        "copyright": "Grande Aigrette, Hongrie (© Markus Varesvuo/Nature Picture Library)",
-        "copyrightKeyword": "Grande Aigrette",
-        "hsh": "ee5f26d87267f0d391bc6b37f1f4485f"
     }
 ]

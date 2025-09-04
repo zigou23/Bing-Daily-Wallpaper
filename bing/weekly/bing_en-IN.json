@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509041830",
+        "date": "20250905",
+        "url": "https://www.bing.com/th?id=OHR.BoatraceOnam_EN-IN9170886628_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BoatraceOnam_EN-IN9170886628",
+        "copyright": "Oarsmen rowing in snake boats at Aranmula, Kerala (© Rajesh Narayanan/Shutterstock)",
+        "copyrightKeyword": "Onam",
+        "hsh": "90d5ffe77438d93a7ff13fc7fdb1cab8"
+    },
+    {
         "fullstartdate": "202509031830",
         "date": "20250904",
         "url": "https://www.bing.com/th?id=OHR.WrestlingBears_EN-IN9132458412_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Aerial view of Plaza Mayor, Madrid, Spain (© AirPano LLC/Amazing Aerial Agency)",
         "copyrightKeyword": "Plaza Mayor Madrid",
         "hsh": "47d06da4100854ecb7ee5a1a29a5a29b"
-    },
-    {
-        "fullstartdate": "202508271830",
-        "date": "20250828",
-        "url": "https://www.bing.com/th?id=OHR.WhiteEgret_EN-IN3331960000_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WhiteEgret_EN-IN3331960000",
-        "copyright": "Great white egret, Hungary (© Markus Varesvuo/Nature Picture Library)",
-        "copyrightKeyword": "Great white egret",
-        "hsh": "2c0c0a84b1666e61c3934a13fb455b41"
     }
 ]

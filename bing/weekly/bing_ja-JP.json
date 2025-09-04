@@ -1,12 +1,21 @@
 [
     {
+        "fullstartdate": "202509041500",
+        "date": "20250905",
+        "url": "https://www.bing.com/th?id=OHR.SunsetPier_JA-JP6277978338_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SunsetPier_JA-JP6277978338",
+        "copyright": "パシフィック・パーク, 米国 カリフォルニア州 (© EXTREME-PHOTOGRAPHER/Getty Images)",
+        "copyrightKeyword": "パシフィック・パーク",
+        "hsh": "bfe4a38faef30009f90c4ed28dc51e99"
+    },
+    {
         "fullstartdate": "202509031500",
         "date": "20250904",
         "url": "https://www.bing.com/th?id=OHR.YohoNP_JA-JP5965096200_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.YohoNP_JA-JP5965096200",
         "copyright": "ヨーホー国立公園, カナダ (© Feng Wei Photography/Getty Images)",
         "copyrightKeyword": "ヨーホー国立公園",
-        "hsh": "400d135ee7f0d9cd78c3fbe6231e46e0"
+        "hsh": "dc5ec2155495e32cc3fb02999c9422d8"
     },
     {
         "fullstartdate": "202509021500",
@@ -15,7 +24,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MinnesotaWaters_JA-JP5876109313",
         "copyright": "バウンダリー・ウォーターズ・カヌー・エリア・ウィルダネス, 米国 ミネソタ州 (© s.tomas/Shutterstock)",
         "copyrightKeyword": "バウンダリー・ウォーターズ・カヌー・エリア・ウィルダネス",
-        "hsh": "c5e29026a8fb70945f443b6e41158191"
+        "hsh": "51d52c741bd717706d56202ad24e0aa7"
     },
     {
         "fullstartdate": "202509011500",
@@ -24,7 +33,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DeadvleiTrees_JA-JP5847596989",
         "copyright": "ナミブ＝ナウクルフト国立公園, ナミビア (© Inge Johnsson/Alamy)",
         "copyrightKeyword": "ナミブ＝ナウクルフト国立公園",
-        "hsh": "1a58ae73cd4b314d89f4adaf673e95f8"
+        "hsh": "3de2dfb0e2b404f3825af11eeb365920"
     },
     {
         "fullstartdate": "202508311500",
@@ -61,14 +70,5 @@
         "copyright": "マヨール広場, スペイン (© AirPano LLC/Amazing Aerial Agency)",
         "copyrightKeyword": "マヨール広場",
         "hsh": "04d649c1b45b9a716b3cc1dfeba7d5ec"
-    },
-    {
-        "fullstartdate": "202508271500",
-        "date": "20250828",
-        "url": "https://www.bing.com/th?id=OHR.WhiteEgret_JA-JP5628214526_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WhiteEgret_JA-JP5628214526",
-        "copyright": "ダイサギ, ハンガリー  (© Markus Varesvuo/Nature Picture Library)",
-        "copyrightKeyword": "ダイサギ",
-        "hsh": "31a1e72ba666a4279b787186b175d3ec"
     }
 ]

@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509041600",
+        "date": "20250905",
+        "url": "https://www.bing.com/th?id=OHR.SunsetPier_ZH-CN1202083395_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SunsetPier_ZH-CN1202083395",
+        "copyright": "太平洋公园，圣莫妮卡州立海滩，加利福尼亚州，美国 (© EXTREME-PHOTOGRAPHER/Getty Images)",
+        "copyrightKeyword": "圣莫妮卡州立海滩",
+        "hsh": "7547e05be918d2e85a058dca4529353c"
+    },
+    {
         "fullstartdate": "202509031600",
         "date": "20250904",
         "url": "https://www.bing.com/th?id=OHR.WrestlingBears_ZH-CN6430637848_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "马约尔广场鸟瞰图, 马德里, 西班牙 (© AirPano LLC/Amazing Aerial Agency)",
         "copyrightKeyword": "马德里马约尔广场",
         "hsh": "11bd3f1d21471018fe890af80bda3a5c"
-    },
-    {
-        "fullstartdate": "202508271600",
-        "date": "20250828",
-        "url": "https://www.bing.com/th?id=OHR.WhiteEgret_ZH-CN4425921150_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WhiteEgret_ZH-CN4425921150",
-        "copyright": "大白鹭，匈牙利 (© Markus Varesvuo/Nature Picture Library)",
-        "copyrightKeyword": "大白鹭",
-        "hsh": "c69b1f7666e39eef5e89b4cea500c87f"
     }
 ]

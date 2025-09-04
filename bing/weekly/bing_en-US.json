@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509040700",
+        "date": "20250905",
+        "url": "https://www.bing.com/th?id=OHR.WrestlingBears_EN-US4338158114_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WrestlingBears_EN-US4338158114",
+        "copyright": "Grizzly bears wrestling, Katmai National Park and Preserve, Alaska (© Cavan Images/Adobe Stock)",
+        "copyrightKeyword": "Grizzly bears",
+        "hsh": "c0341487f6bce18b056fae680f8aaa0e"
+    },
+    {
         "fullstartdate": "202509030700",
         "date": "20250904",
         "url": "https://www.bing.com/th?id=OHR.MinnesotaWaters_EN-US4282198656_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Great white egret, Hungary (© Markus Varesvuo/Nature Picture Library)",
         "copyrightKeyword": "Great white egret",
         "hsh": "141e682605e6e8a5d70e770b938007d7"
-    },
-    {
-        "fullstartdate": "202508270700",
-        "date": "20250828",
-        "url": "https://www.bing.com/th?id=OHR.FaroeLake_EN-US3557234950_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FaroeLake_EN-US3557234950",
-        "copyright": "Sørvágsvatn lake, island of Vágar, Faroe Islands, Denmark (© Anton Petrus/Getty Images)",
-        "copyrightKeyword": "Sørvágsvatn",
-        "hsh": "2e650e4212afced2c700f167db2966a8"
     }
 ]
