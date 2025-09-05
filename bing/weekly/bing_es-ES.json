@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509052200",
+        "date": "20250906",
+        "url": "https://www.bing.com/th?id=OHR.RufousHummer_ES-ES7667920526_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.RufousHummer_ES-ES7667920526",
+        "copyright": "Colibrí rufo, Golden Gate Park, San Francisco, California, EE. UU. (© jeremyborkat/Getty Images)",
+        "copyrightKeyword": "Colibrí rufo",
+        "hsh": "d1fd85b2ffd4b714727dd0ad114ad6fb"
+    },
+    {
         "fullstartdate": "202509042200",
         "date": "20250905",
         "url": "https://www.bing.com/th?id=OHR.SunsetPier_ES-ES7586673768_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Tiburón ballena frente a la costa del Atolón Alif Dhaal, Maldivas (© Bachir Moukarzel/Amazing Aerial Agency)",
         "copyrightKeyword": "Tiburón Ballena",
         "hsh": "4d9f62252e1b75896042a62692538c88"
-    },
-    {
-        "fullstartdate": "202508282200",
-        "date": "20250829",
-        "url": "https://www.bing.com/th?id=OHR.PlazaMayor_ES-ES8897104707_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PlazaMayor_ES-ES8897104707",
-        "copyright": "Vista aérea de la Plaza Mayor, Madrid, España (© AirPano LLC/Amazing Aerial Agency)",
-        "copyrightKeyword": "Plaza Mayor Madrid",
-        "hsh": "a6207dd5a826a7ec313f327df102d513"
     }
 ]

@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509050700",
+        "date": "20250906",
+        "url": "https://www.bing.com/th?id=OHR.SunsetPier_ROW6836711117_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SunsetPier_ROW6836711117",
+        "copyright": "Pacific Park, Santa Monica State Beach, California, United States (© EXTREME-PHOTOGRAPHER/Getty Images)",
+        "copyrightKeyword": "Santa Monica State Beach",
+        "hsh": "f510f149cd46855cfc9cdcb41d0a9d64"
+    },
+    {
         "fullstartdate": "202509040700",
         "date": "20250905",
         "url": "https://www.bing.com/th?id=OHR.WrestlingBears_ROW7780803769_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Aerial view of Plaza Mayor, Madrid, Spain (© AirPano LLC/Amazing Aerial Agency)",
         "copyrightKeyword": "Plaza Mayor Madrid",
         "hsh": "c865ca006b3cdf244e703dffe0ad713b"
-    },
-    {
-        "fullstartdate": "202508280700",
-        "date": "20250829",
-        "url": "https://www.bing.com/th?id=OHR.WhiteEgret_ROW7082373076_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WhiteEgret_ROW7082373076",
-        "copyright": "Great white egret, Hungary (© Markus Varesvuo/Nature Picture Library)",
-        "copyrightKeyword": "Great white egret",
-        "hsh": "0c8c489bf33c6cdccb5b617d576f7306"
     }
 ]

@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509050300",
+        "date": "20250906",
+        "url": "https://www.bing.com/th?id=OHR.DiaAmazonia_PT-BR5240863340_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.DiaAmazonia_PT-BR5240863340",
+        "copyright": "Névoa sobre a copa da Floresta Amazônica (© Ignacio Palacios/Getty Images)",
+        "copyrightKeyword": "Dia da Amazônia",
+        "hsh": "18ce916b7cd72159884cfc2d7014e10e"
+    },
+    {
         "fullstartdate": "202509040300",
         "date": "20250905",
         "url": "https://www.bing.com/th?id=OHR.WrestlingBears_PT-BR2169243821_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Vista aérea da Plaza Mayor, Madrid, Espanha (© AirPano  LLC/Amazing Aerial Agency)",
         "copyrightKeyword": "a Plaza Mayor em Madrid",
         "hsh": "4538986e9c1689927b9136eacec51e88"
-    },
-    {
-        "fullstartdate": "202508280300",
-        "date": "20250829",
-        "url": "https://www.bing.com/th?id=OHR.WhiteEgret_PT-BR8998981600_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WhiteEgret_PT-BR8998981600",
-        "copyright": "Garça-branca-grande, Hungria (© Markus Varesvuo/Nature Picture Library)",
-        "copyrightKeyword": "Garça-branca-grande",
-        "hsh": "cffa01e8b894e0f9e9394daa9e4b837e"
     }
 ]

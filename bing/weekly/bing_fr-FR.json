@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509052200",
+        "date": "20250906",
+        "url": "https://www.bing.com/th?id=OHR.LilleMarket_FR-FR3271144048_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LilleMarket_FR-FR3271144048",
+        "copyright": "Le beffroi de la Chambre de Commerce, Lille, Hauts-de-France (© Wirestock/Getty Images)",
+        "copyrightKeyword": "Braderie de Lille",
+        "hsh": "48626e37b3761d009e40d0df68d152fc"
+    },
+    {
         "fullstartdate": "202509042200",
         "date": "20250905",
         "url": "https://www.bing.com/th?id=OHR.SunsetPier_FR-FR5498949983_1920x1080.jpg",
@@ -15,7 +24,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.WrestlingBears_FR-FR0316323134",
         "copyright": "Bagarre amicale de grizzlis, parc national Katmai, Alaska, États-Unis (© Cavan Images/Adobe Stock)",
         "copyrightKeyword": "Ours grizzli",
-        "hsh": "9e480d34dffae372c29b016f0c20574c"
+        "hsh": "96bd85e209015a522bd62fa78b6a365f"
     },
     {
         "fullstartdate": "202509022200",
@@ -24,7 +33,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MontSaintMichel_FR-FR8463268794",
         "copyright": "Abbaye du Mont Saint-Michel au crépuscule, Manche, Normandie (© Ilhan Eroglu/500px/Getty Images)",
         "copyrightKeyword": "Le Mont-Saint-Michel commune",
-        "hsh": "b6e69e8c5eb110d8021e1f9197786101"
+        "hsh": "ba662965fdb7f3c659c0fc9b31cb765a"
     },
     {
         "fullstartdate": "202509012200",
@@ -61,14 +70,5 @@
         "copyright": "Requin-baleine au large de l’atoll Alifu Dhaalu, Maldives (© Bachir Moukarzel/Amazing Aerial Agency)",
         "copyrightKeyword": "Requin-baleine",
         "hsh": "40ade311c97964c280df4a95c29509e4"
-    },
-    {
-        "fullstartdate": "202508282200",
-        "date": "20250829",
-        "url": "https://www.bing.com/th?id=OHR.PlazaMayor_FR-FR2388557183_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PlazaMayor_FR-FR2388557183",
-        "copyright": "Vue aérienne de la Plaza Mayor, Madrid, Espagne (© AirPano LLC/Amazing Aerial Agency)",
-        "copyrightKeyword": "La Plaza Mayor de Madrid",
-        "hsh": "53ca45e6f86b8d2aa214383d6ed80790"
     }
 ]
