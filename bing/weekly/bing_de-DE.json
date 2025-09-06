@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509062200",
+        "date": "20250907",
+        "url": "https://www.bing.com/th?id=OHR.BlueGdansk_DE-DE2028955580_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BlueGdansk_DE-DE2028955580",
+        "copyright": "Danzig am Ufer der Mottlau, Polen (© Oscar Dominguez/TANDEM Stills + Motion)",
+        "copyrightKeyword": "Danzig",
+        "hsh": "d40fd6cd5034863f40453590d01379c0"
+    },
+    {
         "fullstartdate": "202509052200",
         "date": "20250906",
         "url": "https://www.bing.com/th?id=OHR.FrankfurtAlteBruecke_DE-DE0460546178_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Scotts Bluff National Monument in Gering, Nebraska, USA (© Hawk Buckman/Getty Images)",
         "copyrightKeyword": "Nebraska",
         "hsh": "647c8cd7aefb2c717de896e0a3ddfa43"
-    },
-    {
-        "fullstartdate": "202508292200",
-        "date": "20250830",
-        "url": "https://www.bing.com/th?id=OHR.MaldivesWhaleShark_DE-DE5305266157_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MaldivesWhaleShark_DE-DE5305266157",
-        "copyright": "Walhai vor der Küste des Alifu Dhaalu-Atolls, Malediven (© Bachir Moukarzel/Amazing Aerial Agency)",
-        "copyrightKeyword": "Internationaler Tag des Walhais",
-        "hsh": "f4cb107eb01dbf0223bacd90e6403010"
     }
 ]

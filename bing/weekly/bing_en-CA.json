@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509060400",
+        "date": "20250907",
+        "url": "https://www.bing.com/th?id=OHR.RufousHummer_EN-CA4791906325_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.RufousHummer_EN-CA4791906325",
+        "copyright": "Rufous hummingbird, Golden Gate Park, San Francisco, California, United States (© jeremyborkat/Getty Images)",
+        "copyrightKeyword": "Rufous Hummingbird",
+        "hsh": "266a60bc0b167df2b2d44ad5ef2808e8"
+    },
+    {
         "fullstartdate": "202509050400",
         "date": "20250906",
         "url": "https://www.bing.com/th?id=OHR.SunsetPier_EN-CA4630719241_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Whale shark off the coast of Alifu Dhaalu Atoll, Maldives (© Bachir Moukarzel/Amazing Aerial Agency)",
         "copyrightKeyword": "International Whale Shark Day",
         "hsh": "c719f1425415179834d5b6ebf62ed687"
-    },
-    {
-        "fullstartdate": "202508290400",
-        "date": "20250830",
-        "url": "https://www.bing.com/th?id=OHR.PlazaMayor_EN-CA2624304818_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PlazaMayor_EN-CA2624304818",
-        "copyright": "Aerial view of Plaza Mayor, Madrid, Spain (© AirPano LLC/Amazing Aerial Agency)",
-        "copyrightKeyword": "Plaza Mayor Madrid",
-        "hsh": "c9954d42ef0dff91dc15ffc6155fd2c7"
     }
 ]
