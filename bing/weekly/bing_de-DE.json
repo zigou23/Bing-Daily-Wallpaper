@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509072200",
+        "date": "20250908",
+        "url": "https://www.bing.com/th?id=OHR.OrchardLibrary_DE-DE1336292524_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.OrchardLibrary_DE-DE1336292524",
+        "copyright": "library@orchard, Singapur (© Darwin Fan/Getty Images)",
+        "copyrightKeyword": "Weltalphabetisierungstag",
+        "hsh": "dd3fe74d534719f6ac23062eaef21019"
+    },
+    {
         "fullstartdate": "202509062200",
         "date": "20250907",
         "url": "https://www.bing.com/th?id=OHR.BlueGdansk_DE-DE2028955580_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Trulli in Alberobello, Apulien, Italien (© Feng Wei Photography/Getty Images)",
         "copyrightKeyword": "Alberobello",
         "hsh": "1bc1ffc5ed236c07a2b6008e708879ff"
-    },
-    {
-        "fullstartdate": "202508302200",
-        "date": "20250831",
-        "url": "https://www.bing.com/th?id=OHR.ScottsBluff_DE-DE5756991570_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ScottsBluff_DE-DE5756991570",
-        "copyright": "Scotts Bluff National Monument in Gering, Nebraska, USA (© Hawk Buckman/Getty Images)",
-        "copyrightKeyword": "Nebraska",
-        "hsh": "647c8cd7aefb2c717de896e0a3ddfa43"
     }
 ]

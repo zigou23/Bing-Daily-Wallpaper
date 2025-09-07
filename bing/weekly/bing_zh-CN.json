@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509071600",
+        "date": "20250908",
+        "url": "https://www.bing.com/th?id=OHR.OrchardLibrary_ZH-CN3578982798_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.OrchardLibrary_ZH-CN3578982798",
+        "copyright": "乌节图书馆，新加坡 (© Darwin Fan/Getty Images)",
+        "copyrightKeyword": "国际扫盲日",
+        "hsh": "ea8f398bf14d39c4c5c213917911f1f2"
+    },
+    {
         "fullstartdate": "202509061600",
         "date": "20250907",
         "url": "https://www.bing.com/th?id=OHR.BlueGdansk_ZH-CN3328928509_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "凯撒施图尔，巴登-符腾堡，德国 (© EyeEM Mobile GmbH/Getty Images)",
         "copyrightKeyword": "巴登-符腾堡",
         "hsh": "af91c316f14884de2b2dc7414e6409f3"
-    },
-    {
-        "fullstartdate": "202508301600",
-        "date": "20250831",
-        "url": "https://www.bing.com/th?id=OHR.ScottsBluff_ZH-CN0292735112_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ScottsBluff_ZH-CN0292735112",
-        "copyright": "杰灵的斯科茨布拉夫国家纪念碑‌, 内布拉斯加州,美国 (© Hawk Buckman/Getty Images)",
-        "copyrightKeyword": "斯科茨布拉夫国家纪念碑",
-        "hsh": "a51fafd63e6b69f2703e984b69a0bd19"
     }
 ]

@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509070400",
+        "date": "20250908",
+        "url": "https://www.bing.com/th?id=OHR.BlueGdansk_EN-CA5626237578_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BlueGdansk_EN-CA5626237578",
+        "copyright": "Gdańsk on the banks of the Motława river, Poland (© Oscar Dominguez/TANDEM Stills + Motion)",
+        "copyrightKeyword": "Gdansk poland",
+        "hsh": "456e38c8962382b9229880ec342ffc84"
+    },
+    {
         "fullstartdate": "202509060400",
         "date": "20250907",
         "url": "https://www.bing.com/th?id=OHR.RufousHummer_EN-CA4791906325_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Scotts Bluff National Monument in Gering, Nebraska, United States (© Hawk Buckman/Getty Images)",
         "copyrightKeyword": "Scotts Bluff National Monument",
         "hsh": "559745ec245f916b91af6ad6d07d9934"
-    },
-    {
-        "fullstartdate": "202508300400",
-        "date": "20250831",
-        "url": "https://www.bing.com/th?id=OHR.MaldivesWhaleShark_EN-CA2849322101_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MaldivesWhaleShark_EN-CA2849322101",
-        "copyright": "Whale shark off the coast of Alifu Dhaalu Atoll, Maldives (© Bachir Moukarzel/Amazing Aerial Agency)",
-        "copyrightKeyword": "International Whale Shark Day",
-        "hsh": "c719f1425415179834d5b6ebf62ed687"
     }
 ]

@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509072200",
+        "date": "20250908",
+        "url": "https://www.bing.com/th?id=OHR.LaJayaAsturiasDay_ES-ES0574508384_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LaJayaAsturiasDay_ES-ES0574508384",
+        "copyright": "Puente de la Jaya, Rio Cares, Picos de Europa, Asturias, España (© Joana Kruse/Alamy Images)",
+        "copyrightKeyword": "Aturias",
+        "hsh": "845cd07aa3e964420a2a227fb0d40575"
+    },
+    {
         "fullstartdate": "202509062200",
         "date": "20250907",
         "url": "https://www.bing.com/th?id=OHR.BlueGdansk_ES-ES7748880751_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Monumento Nacional Scotts Bluff en Gering, Nebraska, EE. UU. (© Hawk Buckman/Getty Images)",
         "copyrightKeyword": "Monumento nacional de Scotts Bluff",
         "hsh": "f234d487f0e7401be2a3e2d92e4c239a"
-    },
-    {
-        "fullstartdate": "202508302200",
-        "date": "20250831",
-        "url": "https://www.bing.com/th?id=OHR.Palafrugell_ES-ES9170936933_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.Palafrugell_ES-ES9170936933",
-        "copyright": "Vista aérea de Port Bo de Calella en la costa de Palafrugell, Gerona, Cataluña, España (© AlexKazachok2/iStock/Getty Images Plus)",
-        "copyrightKeyword": "portbò",
-        "hsh": "2b1c797fc60836112675ad990ad42b73"
     }
 ]

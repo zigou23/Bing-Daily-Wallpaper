@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509071500",
+        "date": "20250908",
+        "url": "https://www.bing.com/th?id=OHR.OrchardLibrary_JA-JP1251489199_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.OrchardLibrary_JA-JP1251489199",
+        "copyright": "ライブラリー＠オーチャード, シンガポール (© Darwin Fan/Getty Images)",
+        "copyrightKeyword": "ライブラリー＠オーチャード",
+        "hsh": "e096a2a30e80b6008a2573b4b3769033"
+    },
+    {
         "fullstartdate": "202509061500",
         "date": "20250907",
         "url": "https://www.bing.com/th?id=OHR.BlueGdansk_JA-JP0907344323_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "聖バルボラ教会, チェコ共和国 (© Castka/Getty Images)",
         "copyrightKeyword": "聖バルボラ教会",
         "hsh": "f5c3fe2b3e267a074a97bbff8368d9c5"
-    },
-    {
-        "fullstartdate": "202508301500",
-        "date": "20250831",
-        "url": "https://www.bing.com/th?id=OHR.ScottsBluff_JA-JP5785584590_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ScottsBluff_JA-JP5785584590",
-        "copyright": "スコッツブラフ国定記念物, 米国 ネブラスカ州 (© Hawk Buckman/Getty Images)",
-        "copyrightKeyword": "スコッツブラフ国定記念物",
-        "hsh": "5bc7215387dede1f49a130d154ff2914"
     }
 ]

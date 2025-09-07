@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509071830",
+        "date": "20250908",
+        "url": "https://www.bing.com/th?id=OHR.OrchardLibrary_EN-IN9883780906_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.OrchardLibrary_EN-IN9883780906",
+        "copyright": "Library@orchard, Singapore (© Darwin Fan/Getty Images)",
+        "copyrightKeyword": "International Literacy Day",
+        "hsh": "38d838095db2081cfe40eb87af9bb860"
+    },
+    {
         "fullstartdate": "202509061830",
         "date": "20250907",
         "url": "https://www.bing.com/th?id=OHR.BlueGdansk_EN-IN9703793186_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "An ancient bristlecone pine, Great Basin National Park, Nevada, United States (© Wirestock Creators/Shutterstock)",
         "copyrightKeyword": "Great Basin National Park USA",
         "hsh": "c420713b95d8399db305373ba96082e1"
-    },
-    {
-        "fullstartdate": "202508301830",
-        "date": "20250831",
-        "url": "https://www.bing.com/th?id=OHR.ScottsBluff_EN-IN3788273216_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ScottsBluff_EN-IN3788273216",
-        "copyright": "Scotts Bluff National Monument in Gering, Nebraska, United States (© Hawk Buckman/Getty Images)",
-        "copyrightKeyword": "Scotts Bluff National Monument",
-        "hsh": "9ef6b0b01aee673940fea3da853ff7ee"
     }
 ]

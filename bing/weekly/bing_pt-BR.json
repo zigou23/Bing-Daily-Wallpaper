@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509070300",
+        "date": "20250908",
+        "url": "https://www.bing.com/th?id=OHR.BlueGdansk_PT-BR6180639699_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BlueGdansk_PT-BR6180639699",
+        "copyright": "Gdansk às margens do rio Motława, Polônia (© Oscar Dominguez/TANDEM Stills + Motion)",
+        "copyrightKeyword": "Gdansk",
+        "hsh": "3252b4d8bf505504a99de68f85b187e1"
+    },
+    {
         "fullstartdate": "202509060300",
         "date": "20250907",
         "url": "https://www.bing.com/th?id=OHR.RufousHummer_PT-BR5721753783_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Monumento Nacional Scotts Bluff em Gering, Nebraska, EUA (© Hawk Buckman/Getty Images)",
         "copyrightKeyword": "Monumento Nacional Scotts Bluff em Gering, Nebraska, EUA",
         "hsh": "fc74dd7d7f293c24774b7c5d19e65267"
-    },
-    {
-        "fullstartdate": "202508300300",
-        "date": "20250831",
-        "url": "https://www.bing.com/th?id=OHR.MaldivesWhaleShark_PT-BR7655648447_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MaldivesWhaleShark_PT-BR7655648447",
-        "copyright": "Tubarão-baleia na costa do Atol Alifu Dhaalu, Maldivas (© Bachir  Moukarzel/Amazing Aerial Agency)",
-        "copyrightKeyword": "Dia Internacional do Tubarão-Baleia",
-        "hsh": "a0db490b9102804986f651511491e031"
     }
 ]

@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509072200",
+        "date": "20250908",
+        "url": "https://www.bing.com/th?id=OHR.OrchardLibrary_IT-IT9071511638_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.OrchardLibrary_IT-IT9071511638",
+        "copyright": "library@orchard, Singapore (© Darwin Fan/Getty Images)",
+        "copyrightKeyword": "Giornata internazionale dell’ alfabetizzazione",
+        "hsh": "3a239c76dc1cc2c968d07001ab21208c"
+    },
+    {
         "fullstartdate": "202509062200",
         "date": "20250907",
         "url": "https://www.bing.com/th?id=OHR.GaribaldiNapoli_IT-IT9017622092_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Trulli ad Alberobello, Bari, Puglia (© Feng Wei Photography/Getty Images)",
         "copyrightKeyword": "Alberobello",
         "hsh": "4c0b9af70ab5d4c5fc3a9b17075e3fbf"
-    },
-    {
-        "fullstartdate": "202508302200",
-        "date": "20250831",
-        "url": "https://www.bing.com/th?id=OHR.ScottsBluff_IT-IT0073144913_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ScottsBluff_IT-IT0073144913",
-        "copyright": "Monumento Nazionale di Scotts Bluff a Gering, Nebraska, USA (© Hawk Buckman/Getty Images)",
-        "copyrightKeyword": "Gering città in Nebraska",
-        "hsh": "4bd735b8840e567e21302976181fb1b0"
     }
 ]
