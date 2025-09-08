@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509082300",
+        "date": "20250909",
+        "url": "https://www.bing.com/th?id=OHR.SwissSquirrel_EN-GB9077607879_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SwissSquirrel_EN-GB9077607879",
+        "copyright": "A female Eurasian red squirrel carrying moss, Switzerland (© Jean-Luc and Francoise Ziegler/Minden Pictures)",
+        "copyrightKeyword": "Eurasian red squirrel",
+        "hsh": "79f43a383b6e168d80bf77181fa0f902"
+    },
+    {
         "fullstartdate": "202509072300",
         "date": "20250908",
         "url": "https://www.bing.com/th?id=OHR.OrchardLibrary_EN-GB8853232632_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Camel thorn trees, Deadvlei, Namib-Naukluft Park, Namibia (© Inge Johnsson/Alamy Stock Photo)",
         "copyrightKeyword": "Namib Naukluft Park in Namibia",
         "hsh": "c4bb9c3c7d1f294fb44445d2c20a8321"
-    },
-    {
-        "fullstartdate": "202508312300",
-        "date": "20250901",
-        "url": "https://www.bing.com/th?id=OHR.GipuzcoaSummer_EN-GB2818544324_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.GipuzcoaSummer_EN-GB2818544324",
-        "copyright": "Rock layers in Zumaia, Basque Country, Spain (© Eloi_Omella/Getty Images)",
-        "copyrightKeyword": "Zumaia",
-        "hsh": "9fa3853946020372bef810a6fea8c5e5"
     }
 ]

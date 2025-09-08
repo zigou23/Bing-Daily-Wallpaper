@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509080700",
+        "date": "20250909",
+        "url": "https://www.bing.com/th?id=OHR.OrchardLibrary_ROW7132062115_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.OrchardLibrary_ROW7132062115",
+        "copyright": "Library@orchard, Singapore (© Darwin Fan/Getty Images)",
+        "copyrightKeyword": "Library orchard Singapore",
+        "hsh": "0c72ab776d9ed8c37a46ae4bbccd47af"
+    },
+    {
         "fullstartdate": "202509070700",
         "date": "20250908",
         "url": "https://www.bing.com/th?id=OHR.BlueGdansk_ROW7036139554_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Kaiserstuhl, Baden-Württemberg, Germany (© EyeEM Mobile GmbH/Getty Images)",
         "copyrightKeyword": "Kaiserstuhl",
         "hsh": "17ff2beafee8e8b5bb35b2a1bc221d8e"
-    },
-    {
-        "fullstartdate": "202508310700",
-        "date": "20250901",
-        "url": "https://www.bing.com/th?id=OHR.ScottsBluff_ROW7379733057_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ScottsBluff_ROW7379733057",
-        "copyright": "Scotts Bluff National Monument in Gering, Nebraska, United States (© Hawk Buckman/Getty Images)",
-        "copyrightKeyword": "Scotts Bluff National Monument",
-        "hsh": "e2ac42066b4df4f35e1c8c9717c93b04"
     }
 ]

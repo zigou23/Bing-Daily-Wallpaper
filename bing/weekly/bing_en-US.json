@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509080700",
+        "date": "20250909",
+        "url": "https://www.bing.com/th?id=OHR.OrchardLibrary_EN-US8095609746_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.OrchardLibrary_EN-US8095609746",
+        "copyright": "Library@orchard, Singapore (© Darwin Fan/Getty Images)",
+        "copyrightKeyword": "International Literacy Day",
+        "hsh": "5e2cfc78b6d28ab8e31cd7fccd0464a1"
+    },
+    {
         "fullstartdate": "202509070700",
         "date": "20250908",
         "url": "https://www.bing.com/th?id=OHR.BlueGdansk_EN-US8032283831_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Amalgamated Clothing Workers of America in a Labor Day parade, May 1915, Chicago (© Chicago Sun-Times/Chicago Daily News collection/Chicago History Museum/Getty Images)",
         "copyrightKeyword": "Labor Day",
         "hsh": "3d6cd13ea271115f03b766259886edd8"
-    },
-    {
-        "fullstartdate": "202508310700",
-        "date": "20250901",
-        "url": "https://www.bing.com/th?id=OHR.ScottsBluff_EN-US3893566724_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ScottsBluff_EN-US3893566724",
-        "copyright": "Scotts Bluff National Monument in Gering, Nebraska (© Hawk Buckman/Getty Images)",
-        "copyrightKeyword": "Scotts Bluff National Monument",
-        "hsh": "ea1069b35f6d7afce4b6b388d5076389"
     }
 ]

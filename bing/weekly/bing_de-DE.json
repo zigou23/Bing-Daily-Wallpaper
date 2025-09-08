@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509082200",
+        "date": "20250909",
+        "url": "https://www.bing.com/th?id=OHR.SwissSquirrel_DE-DE3902212654_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SwissSquirrel_DE-DE3902212654",
+        "copyright": "Ein Eurasisches Eichhörnchen trägt Moos, Schweiz (© Jean-Luc and Francoise Ziegler/Minden Pictures)",
+        "copyrightKeyword": "Eurasisches Eichhörnchen",
+        "hsh": "5e276323a49be3656419b5b82ecf2638"
+    },
+    {
         "fullstartdate": "202509072200",
         "date": "20250908",
         "url": "https://www.bing.com/th?id=OHR.OrchardLibrary_DE-DE1336292524_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Kameldornbäume, Deadvlei, Namib-Naukluft-Park, Namibia (© Inge Johnsson/Alamy)",
         "copyrightKeyword": "Namib-Naukluft-Park in Namibia",
         "hsh": "aa6310de87faa7587b9c75eb76032f84"
-    },
-    {
-        "fullstartdate": "202508312200",
-        "date": "20250901",
-        "url": "https://www.bing.com/th?id=OHR.TrulliHouses_DE-DE2753356790_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.TrulliHouses_DE-DE2753356790",
-        "copyright": "Trulli in Alberobello, Apulien, Italien (© Feng Wei Photography/Getty Images)",
-        "copyrightKeyword": "Alberobello",
-        "hsh": "1bc1ffc5ed236c07a2b6008e708879ff"
     }
 ]

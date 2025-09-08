@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509082200",
+        "date": "20250909",
+        "url": "https://www.bing.com/th?id=OHR.SwissSquirrel_FR-FR3805105470_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SwissSquirrel_FR-FR3805105470",
+        "copyright": "Femelle écureuil roux avec de la mousse, Suisse (© Jean-Luc and Francoise Ziegler/Minden Pictures)",
+        "copyrightKeyword": "écureuil roux",
+        "hsh": "b2a07af9c758a71075b04b49c00efdbf"
+    },
+    {
         "fullstartdate": "202509072200",
         "date": "20250908",
         "url": "https://www.bing.com/th?id=OHR.OrchardLibrary_FR-FR3660186396_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Acacias à girafe, Deadvlei, parc Namib-Naukluft, Namibie (© Inge Johnsson/Alamy)",
         "copyrightKeyword": "Parc Namib-Naukluft, Namibie",
         "hsh": "96ac62ab7c2ed5221e3bf1b8e7866302"
-    },
-    {
-        "fullstartdate": "202508312200",
-        "date": "20250901",
-        "url": "https://www.bing.com/th?id=OHR.MinnesotaWaters_FR-FR7608099826_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MinnesotaWaters_FR-FR7608099826",
-        "copyright": "Zone sauvage des Boundary Waters Canoe Area, Minnesota, États-Unis (© s.tomas/Shutterstock)",
-        "copyrightKeyword": "Boundary waters canoe area",
-        "hsh": "4fe2cfdf69534072b6f5a1142b3e81d2"
     }
 ]

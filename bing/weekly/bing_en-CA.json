@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509080400",
+        "date": "20250909",
+        "url": "https://www.bing.com/th?id=OHR.OrchardLibrary_EN-CA5905828145_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.OrchardLibrary_EN-CA5905828145",
+        "copyright": "Library@orchard, Singapore (© Darwin Fan/Getty Images)",
+        "copyrightKeyword": "International Literacy Day",
+        "hsh": "dcf9c17f8adf899c920b1bb125beb366"
+    },
+    {
         "fullstartdate": "202509070400",
         "date": "20250908",
         "url": "https://www.bing.com/th?id=OHR.BlueGdansk_EN-CA5626237578_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Calcite Springs Overlook and Yellowstone River, Yellowstone National Park, Wyoming (© Rebecca L. Latson/Getty Images)",
         "copyrightKeyword": "Yellowstone National Park",
         "hsh": "eb53e72451014e23cdf331afd6f008bd"
-    },
-    {
-        "fullstartdate": "202508310400",
-        "date": "20250901",
-        "url": "https://www.bing.com/th?id=OHR.ScottsBluff_EN-CA3033262054_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ScottsBluff_EN-CA3033262054",
-        "copyright": "Scotts Bluff National Monument in Gering, Nebraska, United States (© Hawk Buckman/Getty Images)",
-        "copyrightKeyword": "Scotts Bluff National Monument",
-        "hsh": "559745ec245f916b91af6ad6d07d9934"
     }
 ]
