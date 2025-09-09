@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509090700",
+        "date": "20250910",
+        "url": "https://www.bing.com/th?id=OHR.SwissSquirrel_ROW7231297165_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SwissSquirrel_ROW7231297165",
+        "copyright": "A female Eurasian red squirrel carrying moss, Switzerland (© Jean-Luc and Francoise Ziegler/Minden Pictures)",
+        "copyrightKeyword": "Eurasian red squirrel",
+        "hsh": "21d6a2ec71108d575c9077c68c61bf15"
+    },
+    {
         "fullstartdate": "202509080700",
         "date": "20250909",
         "url": "https://www.bing.com/th?id=OHR.OrchardLibrary_ROW7132062115_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Camel thorn trees, Deadvlei, Namib-Naukluft Park, Namibia (© Inge Johnsson/Alamy Stock Photo)",
         "copyrightKeyword": "Namib Naukluft Park in Namibia",
         "hsh": "acde509ec9a59593707ad09257c6cf7c"
-    },
-    {
-        "fullstartdate": "202509010700",
-        "date": "20250902",
-        "url": "https://www.bing.com/th?id=OHR.FieldKaiserstuhl_ROW2652237582_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FieldKaiserstuhl_ROW2652237582",
-        "copyright": "Kaiserstuhl, Baden-Württemberg, Germany (© EyeEM Mobile GmbH/Getty Images)",
-        "copyrightKeyword": "Kaiserstuhl",
-        "hsh": "17ff2beafee8e8b5bb35b2a1bc221d8e"
     }
 ]

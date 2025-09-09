@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509090700",
+        "date": "20250910",
+        "url": "https://www.bing.com/th?id=OHR.SwissSquirrel_EN-US8185093853_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SwissSquirrel_EN-US8185093853",
+        "copyright": "A female Eurasian red squirrel carrying moss, Switzerland (© Jean-Luc and Francoise Ziegler/Minden Pictures)",
+        "copyrightKeyword": "Eurasian red squirrel",
+        "hsh": "989786968814aa5568a14f673510b7d6"
+    },
+    {
         "fullstartdate": "202509080700",
         "date": "20250909",
         "url": "https://www.bing.com/th?id=OHR.OrchardLibrary_EN-US8095609746_1920x1080.jpg",
@@ -33,7 +42,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SunsetPier_EN-US7261804528",
         "copyright": "Pacific Park at Santa Monica State Beach, California (© EXTREME-PHOTOGRAPHER/Getty Images)",
         "copyrightKeyword": "Santa Monica State Beach",
-        "hsh": "c3a78a03f37eeb063b0f6cff7edf15f8"
+        "hsh": "5dba567c49f10b952e8e71e9534b8ae0"
     },
     {
         "fullstartdate": "202509040700",
@@ -42,7 +51,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.WrestlingBears_EN-US4338158114",
         "copyright": "Grizzly bears wrestling, Katmai National Park and Preserve, Alaska (© Cavan Images/Adobe Stock)",
         "copyrightKeyword": "Grizzly bears",
-        "hsh": "44292200a6d479ce704c456e492faed2"
+        "hsh": "c0341487f6bce18b056fae680f8aaa0e"
     },
     {
         "fullstartdate": "202509030700",
@@ -61,14 +70,5 @@
         "copyright": "Camel thorn trees, Deadvlei, Namib-Naukluft Park, Namibia (© Inge Johnsson/Alamy)",
         "copyrightKeyword": "Namib Naukluft Park in Namibia",
         "hsh": "4a45e677f51ef59530cfcb415f83528c"
-    },
-    {
-        "fullstartdate": "202509010700",
-        "date": "20250902",
-        "url": "https://www.bing.com/th?id=OHR.LaborDayChicago_EN-US3947410593_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LaborDayChicago_EN-US3947410593",
-        "copyright": "Amalgamated Clothing Workers of America in a Labor Day parade, May 1915, Chicago (© Chicago Sun-Times/Chicago Daily News collection/Chicago History Museum/Getty Images)",
-        "copyrightKeyword": "Labor Day",
-        "hsh": "3d6cd13ea271115f03b766259886edd8"
     }
 ]

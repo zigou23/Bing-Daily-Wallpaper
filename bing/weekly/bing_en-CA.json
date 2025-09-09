@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509090400",
+        "date": "20250910",
+        "url": "https://www.bing.com/th?id=OHR.SwissSquirrel_EN-CA6118791565_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SwissSquirrel_EN-CA6118791565",
+        "copyright": "A female Eurasian red squirrel carrying moss, Switzerland (© Jean-Luc and Francoise Ziegler/Minden Pictures)",
+        "copyrightKeyword": "Eurasian red squirrel",
+        "hsh": "f7a4ac545a1f706edaf6bd058b7b1c05"
+    },
+    {
         "fullstartdate": "202509080400",
         "date": "20250909",
         "url": "https://www.bing.com/th?id=OHR.OrchardLibrary_EN-CA5905828145_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Camel thorn trees, Deadvlei, Namib-Naukluft Park, Namibia (© Inge Johnsson/Alamy Stock Photo)",
         "copyrightKeyword": "Namib Naukluft Park in Namibia",
         "hsh": "4b8bc48bf7d2f6abe6166d90935dc265"
-    },
-    {
-        "fullstartdate": "202509010400",
-        "date": "20250902",
-        "url": "https://www.bing.com/th?id=OHR.YellowstoneRiver_EN-CA9627036432_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.YellowstoneRiver_EN-CA9627036432",
-        "copyright": "Calcite Springs Overlook and Yellowstone River, Yellowstone National Park, Wyoming (© Rebecca L. Latson/Getty Images)",
-        "copyrightKeyword": "Yellowstone National Park",
-        "hsh": "eb53e72451014e23cdf331afd6f008bd"
     }
 ]
