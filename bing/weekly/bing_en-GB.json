@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509102300",
+        "date": "20250911",
+        "url": "https://www.bing.com/th?id=OHR.BlueGdansk_EN-GB1148120483_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BlueGdansk_EN-GB1148120483",
+        "copyright": "Gdańsk on the banks of the Motława river, Poland (© Oscar Dominguez/TANDEM Stills + Motion)",
+        "copyrightKeyword": "Gdansk poland",
+        "hsh": "e353d6b2974a35926653e0a5e377881f"
+    },
+    {
         "fullstartdate": "202509092300",
         "date": "20250910",
         "url": "https://www.bing.com/th?id=OHR.YorkshireHay_EN-GB0990690457_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Grizzly bears wrestling, Katmai National Park and Preserve, Alaska, United States (© Cavan Images/Adobe Stock)",
         "copyrightKeyword": "Grizzly bears",
         "hsh": "b1c4d1b139bdc38f45ffd134dd530c41"
-    },
-    {
-        "fullstartdate": "202509022300",
-        "date": "20250903",
-        "url": "https://www.bing.com/th?id=OHR.SaintBarbaras_EN-GB0842695883_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SaintBarbaras_EN-GB0842695883",
-        "copyright": "St Barbara's Cathedral, Kutná Hora, Czechia (© Castka/Getty Images)",
-        "copyrightKeyword": "St Barbaras Cathedral",
-        "hsh": "b43a3e6ecb7ac44a063bbeb0b822a357"
     }
 ]

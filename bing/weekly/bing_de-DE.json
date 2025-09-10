@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509102200",
+        "date": "20250911",
+        "url": "https://www.bing.com/th?id=OHR.ExtremaduraJamon_DE-DE4354679644_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ExtremaduraJamon_DE-DE4354679644",
+        "copyright": "Geierfelsen (Peña Falcon) am Fluss Tajo im Nationalpark Monfragüe, Spanien (© Daniel Viñé Garcia/Getty Images)",
+        "copyrightKeyword": "Nationalpark Monfragüe",
+        "hsh": "229b0366a40a9bfebbcfd9adb5d299f7"
+    },
+    {
         "fullstartdate": "202509092200",
         "date": "20250910",
         "url": "https://www.bing.com/th?id=OHR.YorkshireHay_DE-DE6716022558_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Raufende Grizzlybären, Katmai-Nationalpark, Alaska, USA (© Cavan Images/Adobe Stock)",
         "copyrightKeyword": "Grizzlybären",
         "hsh": "4ed3334dac3cf3f3553cd9210dbaf0a3"
-    },
-    {
-        "fullstartdate": "202509022200",
-        "date": "20250903",
-        "url": "https://www.bing.com/th?id=OHR.MinnesotaWaters_DE-DE6807349928_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MinnesotaWaters_DE-DE6807349928",
-        "copyright": "Boundary Waters Canoe Area Wilderness, Minnesota, USA (© s.tomas/Shutterstock)",
-        "copyrightKeyword": "Minnesota Bundesstaat USA",
-        "hsh": "d78be03233b3097814c13876e228b72a"
     }
 ]

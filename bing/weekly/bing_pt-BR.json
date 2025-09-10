@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509100300",
+        "date": "20250911",
+        "url": "https://www.bing.com/th?id=OHR.YorkshireHay_PT-BR7088228512_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.YorkshireHay_PT-BR7088228512",
+        "copyright": "Fardos de feno, North Yorkshire, Inglaterra (© Nick Brundle Photography/Getty Images)",
+        "copyrightKeyword": "North Yorkshire na Inglaterra",
+        "hsh": "5c476846ce85f2acabd19328098135f7"
+    },
+    {
         "fullstartdate": "202509090300",
         "date": "20250910",
         "url": "https://www.bing.com/th?id=OHR.SwissSquirrel_PT-BR6801984629_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Águas serenas da Boundary Waters Canoe Area Wilderness, Minnesota, EUA (© s.tomas/Shutterstock)",
         "copyrightKeyword": "Boundary Waters em Minnesota EUA",
         "hsh": "278e83342f4d50c71648b43905b8b2eb"
-    },
-    {
-        "fullstartdate": "202509020300",
-        "date": "20250903",
-        "url": "https://www.bing.com/th?id=OHR.DeadvleiTrees_PT-BR2241595565_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DeadvleiTrees_PT-BR2241595565",
-        "copyright": "Árvores espinho-de-camelo, Deadvlei, Parque Namib-Naukluft, Namíbia (© Inge Johnsson/Alamy Stock Photo)",
-        "copyrightKeyword": "o Parque Namib-Naukluft",
-        "hsh": "08eb95f59cd0dffe16d08f939541c2ff"
     }
 ]

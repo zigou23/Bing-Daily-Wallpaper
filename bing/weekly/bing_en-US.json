@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509100700",
+        "date": "20250911",
+        "url": "https://www.bing.com/th?id=OHR.YorkshireHay_EN-US8523120193_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.YorkshireHay_EN-US8523120193",
+        "copyright": "Hay bales, North Yorkshire, England (© Nick Brundle Photography/Getty Images)",
+        "copyrightKeyword": "Yorkshire England",
+        "hsh": "b983836886a97ddb6a573ede69f5dd7c"
+    },
+    {
         "fullstartdate": "202509090700",
         "date": "20250910",
         "url": "https://www.bing.com/th?id=OHR.SwissSquirrel_EN-US8185093853_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Boundary Waters Canoe Area Wilderness, Minnesota (© s.tomas/Shutterstock)",
         "copyrightKeyword": "Wilderness Act",
         "hsh": "6b2b6f22cb96742b8d53d72e281f08e4"
-    },
-    {
-        "fullstartdate": "202509020700",
-        "date": "20250903",
-        "url": "https://www.bing.com/th?id=OHR.DeadvleiTrees_EN-US4233800313_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DeadvleiTrees_EN-US4233800313",
-        "copyright": "Camel thorn trees, Deadvlei, Namib-Naukluft Park, Namibia (© Inge Johnsson/Alamy)",
-        "copyrightKeyword": "Namib Naukluft Park in Namibia",
-        "hsh": "4a45e677f51ef59530cfcb415f83528c"
     }
 ]
