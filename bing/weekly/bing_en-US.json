@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509110700",
+        "date": "20250912",
+        "url": "https://www.bing.com/th?id=OHR.LibertyManhattan_EN-US8781721086_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LibertyManhattan_EN-US8781721086",
+        "copyright": "Statue of Liberty and Lower Manhattan, New York City (© Tetra Images/Getty Images)",
+        "copyrightKeyword": "Patriot Day",
+        "hsh": "db810057e213b867b7b13c7871ea1a06"
+    },
+    {
         "fullstartdate": "202509100700",
         "date": "20250911",
         "url": "https://www.bing.com/th?id=OHR.YorkshireHay_EN-US8523120193_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Grizzly bears wrestling, Katmai National Park and Preserve, Alaska (© Cavan Images/Adobe Stock)",
         "copyrightKeyword": "Grizzly bears",
         "hsh": "c0341487f6bce18b056fae680f8aaa0e"
-    },
-    {
-        "fullstartdate": "202509030700",
-        "date": "20250904",
-        "url": "https://www.bing.com/th?id=OHR.MinnesotaWaters_EN-US4282198656_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MinnesotaWaters_EN-US4282198656",
-        "copyright": "Boundary Waters Canoe Area Wilderness, Minnesota (© s.tomas/Shutterstock)",
-        "copyrightKeyword": "Wilderness Act",
-        "hsh": "6b2b6f22cb96742b8d53d72e281f08e4"
     }
 ]

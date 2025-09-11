@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509112200",
+        "date": "20250912",
+        "url": "https://www.bing.com/th?id=OHR.SpinnerDolphins_DE-DE4891196756_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SpinnerDolphins_DE-DE4891196756",
+        "copyright": "Gruppe von Spinnerdelfinen im Roten Meer bei Marsa Alam, Ägypten (© Franco Banfi/Nature Picture Library)",
+        "copyrightKeyword": "World Dolphin Day",
+        "hsh": "ba12f7fb9499e4a878fcd7fd03969e1b"
+    },
+    {
         "fullstartdate": "202509102200",
         "date": "20250911",
         "url": "https://www.bing.com/th?id=OHR.ExtremaduraJamon_DE-DE4354679644_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Pacific Park, Santa Monica State Beach, Kalifornien, USA (© EXTREME-PHOTOGRAPHER/Getty Images)",
         "copyrightKeyword": "Santa Monica Kalifornien",
         "hsh": "46ce90cbe0808a7fdda448e6bd61fda9"
-    },
-    {
-        "fullstartdate": "202509032200",
-        "date": "20250904",
-        "url": "https://www.bing.com/th?id=OHR.WrestlingBears_DE-DE4535845239_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WrestlingBears_DE-DE4535845239",
-        "copyright": "Raufende Grizzlybären, Katmai-Nationalpark, Alaska, USA (© Cavan Images/Adobe Stock)",
-        "copyrightKeyword": "Grizzlybären",
-        "hsh": "4ed3334dac3cf3f3553cd9210dbaf0a3"
     }
 ]
