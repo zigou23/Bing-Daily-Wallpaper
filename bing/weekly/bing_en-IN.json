@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509121830",
+        "date": "20250913",
+        "url": "https://www.bing.com/th?id=OHR.PointReyesSeashore_EN-IN1229615007_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PointReyesSeashore_EN-IN1229615007",
+        "copyright": "Chimney Rock, Point Reyes National Seashore, California, United States (© Enrique Aguirre Aves/Getty Images)",
+        "copyrightKeyword": "Point Reyes National Seashore",
+        "hsh": "559148d3fd497ca263b2d8eaa8b34d6e"
+    },
+    {
         "fullstartdate": "202509111830",
         "date": "20250912",
         "url": "https://www.bing.com/th?id=OHR.SpinnerDolphins_EN-IN0873508505_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Pacific Park, Santa Monica State Beach, California, United States (© EXTREME-PHOTOGRAPHER/Getty Images)",
         "copyrightKeyword": "Santa Monica State Beach",
         "hsh": "47d1f1d7b495d4b3e9bf55c603b3b225"
-    },
-    {
-        "fullstartdate": "202509041830",
-        "date": "20250905",
-        "url": "https://www.bing.com/th?id=OHR.BoatraceOnam_EN-IN9170886628_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BoatraceOnam_EN-IN9170886628",
-        "copyright": "Oarsmen rowing in snake boats at Aranmula, Kerala (© Rajesh Narayanan/Shutterstock)",
-        "copyrightKeyword": "Onam",
-        "hsh": "90d5ffe77438d93a7ff13fc7fdb1cab8"
     }
 ]

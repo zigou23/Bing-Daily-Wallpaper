@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509120700",
+        "date": "20250913",
+        "url": "https://www.bing.com/th?id=OHR.SpinnerDolphins_EN-US8860882818_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SpinnerDolphins_EN-US8860882818",
+        "copyright": "Spinner dolphin pod in the Red Sea, Marsa Alam, Egypt (© Franco Banfi/Nature Picture Library)",
+        "copyrightKeyword": "World Dolphin Day",
+        "hsh": "e7204015e5a212fa4f4d7caf94903223"
+    },
+    {
         "fullstartdate": "202509110700",
         "date": "20250912",
         "url": "https://www.bing.com/th?id=OHR.LibertyManhattan_EN-US8781721086_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Pacific Park at Santa Monica State Beach, California (© EXTREME-PHOTOGRAPHER/Getty Images)",
         "copyrightKeyword": "Santa Monica State Beach",
         "hsh": "5dba567c49f10b952e8e71e9534b8ae0"
-    },
-    {
-        "fullstartdate": "202509040700",
-        "date": "20250905",
-        "url": "https://www.bing.com/th?id=OHR.WrestlingBears_EN-US4338158114_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WrestlingBears_EN-US4338158114",
-        "copyright": "Grizzly bears wrestling, Katmai National Park and Preserve, Alaska (© Cavan Images/Adobe Stock)",
-        "copyrightKeyword": "Grizzly bears",
-        "hsh": "c0341487f6bce18b056fae680f8aaa0e"
     }
 ]
