@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509132200",
+        "date": "20250914",
+        "url": "https://www.bing.com/th?id=OHR.HohWaterfall_ES-ES8372999914_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.HohWaterfall_ES-ES8372999914",
+        "copyright": "Una cascada en el Parque Nacional Olympic, Washington, EE. UU. (© Chris Moore/TANDEM Stills + Motion)",
+        "copyrightKeyword": "Parque Nacional Olympic",
+        "hsh": "ea2d167d191c0f781cbd90bede6d9dca"
+    },
+    {
         "fullstartdate": "202509122200",
         "date": "20250913",
         "url": "https://www.bing.com/th?id=OHR.PointReyesSeashore_ES-ES8209669177_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Gdansk a orillas del río Motława, Polonia (© Oscar Dominguez/TANDEM Stills + Motion)",
         "copyrightKeyword": "Gdansk Polonia",
         "hsh": "e43a03c2e4ec12acafd697f24dfc29e8"
-    },
-    {
-        "fullstartdate": "202509052200",
-        "date": "20250906",
-        "url": "https://www.bing.com/th?id=OHR.RufousHummer_ES-ES7667920526_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.RufousHummer_ES-ES7667920526",
-        "copyright": "Colibrí rufo, Golden Gate Park, San Francisco, California, EE. UU. (© jeremyborkat/Getty Images)",
-        "copyrightKeyword": "Colibrí rufo",
-        "hsh": "d1fd85b2ffd4b714727dd0ad114ad6fb"
     }
 ]

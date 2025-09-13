@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509130700",
+        "date": "20250914",
+        "url": "https://www.bing.com/th?id=OHR.PointReyesSeashore_ROW7684376877_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PointReyesSeashore_ROW7684376877",
+        "copyright": "Chimney Rock, Point Reyes National Seashore, California, United States (© Enrique Aguirre Aves/Getty Images)",
+        "copyrightKeyword": "Point Reyes National Seashore",
+        "hsh": "d630b1f71ac27361d8221934cd4051c5"
+    },
+    {
         "fullstartdate": "202509120700",
         "date": "20250913",
         "url": "https://www.bing.com/th?id=OHR.SpinnerDolphins_ROW7589569967_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Rufous hummingbird, Golden Gate Park, San Francisco, California, United States (© jeremyborkat/Getty Images)",
         "copyrightKeyword": "Rufous hummingbird",
         "hsh": "6d0695b2f142504a13f8aa1ad77abfd5"
-    },
-    {
-        "fullstartdate": "202509050700",
-        "date": "20250906",
-        "url": "https://www.bing.com/th?id=OHR.SunsetPier_ROW6836711117_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SunsetPier_ROW6836711117",
-        "copyright": "Pacific Park, Santa Monica State Beach, California, United States (© EXTREME-PHOTOGRAPHER/Getty Images)",
-        "copyrightKeyword": "Santa Monica State Beach",
-        "hsh": "f510f149cd46855cfc9cdcb41d0a9d64"
     }
 ]

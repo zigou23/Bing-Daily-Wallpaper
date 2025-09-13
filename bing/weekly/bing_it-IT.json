@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509132200",
+        "date": "20250914",
+        "url": "https://www.bing.com/th?id=OHR.HohWaterfall_IT-IT5534141652_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.HohWaterfall_IT-IT5534141652",
+        "copyright": "Parco Nazionale Olimpico, Washington, USA (© Chris Moore/TANDEM Stills + Motion)",
+        "copyrightKeyword": "Parco nazionale Olimpico area protetta",
+        "hsh": "6bfea92967fd255aced5db53251ab89a"
+    },
+    {
         "fullstartdate": "202509122200",
         "date": "20250913",
         "url": "https://www.bing.com/th?id=OHR.PointReyesSeashore_IT-IT5474043109_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Castel dell’Ovo, Baia di Napoli, Napoli, Campania (© florin1961/iStock)",
         "copyrightKeyword": "Ingresso di Garibaldi a Napoli",
         "hsh": "4adc183ad3fbc533ac73870f4a6ed504"
-    },
-    {
-        "fullstartdate": "202509052200",
-        "date": "20250906",
-        "url": "https://www.bing.com/th?id=OHR.BlueGdansk_IT-IT8980051630_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BlueGdansk_IT-IT8980051630",
-        "copyright": "Danzica, Fiume Motława, Polonia (© Oscar Dominguez/TANDEM Stills + Motion)",
-        "copyrightKeyword": "Gdańsk Polonia",
-        "hsh": "7b3477c65836e134f69f32d1ede4002f"
     }
 ]
