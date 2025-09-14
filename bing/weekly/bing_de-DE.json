@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509142200",
+        "date": "20250915",
+        "url": "https://www.bing.com/th?id=OHR.Echasse_DE-DE5356832083_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.Echasse_DE-DE5356832083",
+        "copyright": "Stelzenläufer, Frankreich (© Antonio Sementa/500px/Getty Images)",
+        "copyrightKeyword": "Stelzenläufer",
+        "hsh": "1ef63b21b184e7dd7257d01117da41c0"
+    },
+    {
         "fullstartdate": "202509132200",
         "date": "20250914",
         "url": "https://www.bing.com/th?id=OHR.GeraOrangerie_DE-DE0955611584_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "library@orchard, Singapur (© Darwin Fan/Getty Images)",
         "copyrightKeyword": "Weltalphabetisierungstag",
         "hsh": "dd3fe74d534719f6ac23062eaef21019"
-    },
-    {
-        "fullstartdate": "202509062200",
-        "date": "20250907",
-        "url": "https://www.bing.com/th?id=OHR.BlueGdansk_DE-DE2028955580_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BlueGdansk_DE-DE2028955580",
-        "copyright": "Danzig am Ufer der Mottlau, Polen (© Oscar Dominguez/TANDEM Stills + Motion)",
-        "copyrightKeyword": "Danzig",
-        "hsh": "d40fd6cd5034863f40453590d01379c0"
     }
 ]

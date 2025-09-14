@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509142200",
+        "date": "20250915",
+        "url": "https://www.bing.com/th?id=OHR.Echasse_FR-FR6104514472_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.Echasse_FR-FR6104514472",
+        "copyright": "Échasses blanches, France (© Antonio Sementa/500px/Getty Images)",
+        "copyrightKeyword": "Échasse blanche",
+        "hsh": "4731b7a8f8886ca2846375f39cbe4b54"
+    },
+    {
         "fullstartdate": "202509132200",
         "date": "20250914",
         "url": "https://www.bing.com/th?id=OHR.HohWaterfall_FR-FR5951351854_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Bibliothèque library@orchard, Singapour (© Darwin Fan/Getty Images)",
         "copyrightKeyword": "Journée internationale de l'alphabétisation",
         "hsh": "a65b3f04828b5b53c00a4eab4595012b"
-    },
-    {
-        "fullstartdate": "202509062200",
-        "date": "20250907",
-        "url": "https://www.bing.com/th?id=OHR.BlueGdansk_FR-FR3495478989_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BlueGdansk_FR-FR3495478989",
-        "copyright": "Ville de Gdańsk, rives de la rivière Motława, Pologne (© Oscar Dominguez/TANDEM Stills + Motion)",
-        "copyrightKeyword": "Gdansk Pologne",
-        "hsh": "5c03d37d268563980612aa60f2cefce1"
     }
 ]

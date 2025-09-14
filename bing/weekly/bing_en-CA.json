@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509140400",
+        "date": "20250915",
+        "url": "https://www.bing.com/th?id=OHR.HohWaterfall_EN-CA7082475802_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.HohWaterfall_EN-CA7082475802",
+        "copyright": "A waterfall in Olympic National Park, Washington, United States (© Chris Moore/TANDEM Stills + Motion)",
+        "copyrightKeyword": "Olympic National Park Washington",
+        "hsh": "ec24f5085f8cc61f095a95152f6e8bd1"
+    },
+    {
         "fullstartdate": "202509130400",
         "date": "20250914",
         "url": "https://www.bing.com/th?id=OHR.PointReyesSeashore_EN-CA6892620661_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Gdańsk on the banks of the Motława river, Poland (© Oscar Dominguez/TANDEM Stills + Motion)",
         "copyrightKeyword": "Gdansk poland",
         "hsh": "456e38c8962382b9229880ec342ffc84"
-    },
-    {
-        "fullstartdate": "202509060400",
-        "date": "20250907",
-        "url": "https://www.bing.com/th?id=OHR.RufousHummer_EN-CA4791906325_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.RufousHummer_EN-CA4791906325",
-        "copyright": "Rufous hummingbird, Golden Gate Park, San Francisco, California, United States (© jeremyborkat/Getty Images)",
-        "copyrightKeyword": "Rufous Hummingbird",
-        "hsh": "266a60bc0b167df2b2d44ad5ef2808e8"
     }
 ]

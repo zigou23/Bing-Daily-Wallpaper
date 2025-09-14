@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509140300",
+        "date": "20250915",
+        "url": "https://www.bing.com/th?id=OHR.HohWaterfall_PT-BR6671892401_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.HohWaterfall_PT-BR6671892401",
+        "copyright": "Cachoeira no Parque Nacional Olympic, Washington, EUA (© Chris  Moore/TANDEM Stills + Motion)",
+        "copyrightKeyword": "Parque Nacional Olympic nos EUA",
+        "hsh": "9d9127a598c0a9b34c02e9214903b179"
+    },
+    {
         "fullstartdate": "202509130300",
         "date": "20250914",
         "url": "https://www.bing.com/th?id=OHR.PointReyesSeashore_PT-BR6646395434_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Gdansk às margens do rio Motława, Polônia (© Oscar Dominguez/TANDEM Stills + Motion)",
         "copyrightKeyword": "Gdansk",
         "hsh": "3252b4d8bf505504a99de68f85b187e1"
-    },
-    {
-        "fullstartdate": "202509060300",
-        "date": "20250907",
-        "url": "https://www.bing.com/th?id=OHR.RufousHummer_PT-BR5721753783_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.RufousHummer_PT-BR5721753783",
-        "copyright": "Beija-flor-ruivo no Golden Gate Park, São Francisco, Califórnia, Estados Unidos (© jeremyborkat/Getty Images)",
-        "copyrightKeyword": "beija-flor",
-        "hsh": "68781d16154f9fbd2dee21f3c6d21d34"
     }
 ]
