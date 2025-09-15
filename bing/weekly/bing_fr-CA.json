@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509150400",
+        "date": "20250916",
+        "url": "https://www.bing.com/th?id=OHR.BrentonHighlandsNP_FR-CA0634942410_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BrentonHighlandsNP_FR-CA0634942410",
+        "copyright": "Littoral du parc national des Hautes-Terres-du-Cap-Breton, Nouvelle-Écosse (© Tiago_Fernandez/Getty Images)",
+        "copyrightKeyword": "parc national des Hautes-Terres-du-Cap-Breton",
+        "hsh": "225689e11e56d6a8dd73c0a620c248b7"
+    },
+    {
         "fullstartdate": "202509140400",
         "date": "20250915",
         "url": "https://www.bing.com/th?id=OHR.HohWaterfall_FR-CA7726567237_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Bibliothèque library@orchard, Singapour (© Darwin Fan/Getty Images)",
         "copyrightKeyword": "Journée internationale de l'alphabétisation",
         "hsh": "e791ef6c9bead5a749291275dd86d11a"
-    },
-    {
-        "fullstartdate": "202509070400",
-        "date": "20250908",
-        "url": "https://www.bing.com/th?id=OHR.BlueGdansk_FR-CA9649436148_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BlueGdansk_FR-CA9649436148",
-        "copyright": "Ville de Gdańsk, rives de la rivière Motława, Pologne (© Oscar Dominguez/TANDEM Stills + Motion)",
-        "copyrightKeyword": "Gdansk Pologne",
-        "hsh": "e29c56e15a946c00c7d0a8085cad01db"
     }
 ]

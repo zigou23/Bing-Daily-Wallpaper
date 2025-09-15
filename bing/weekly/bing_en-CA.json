@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509150400",
+        "date": "20250916",
+        "url": "https://www.bing.com/th?id=OHR.BrentonHighlandsNP_EN-CA6938321042_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BrentonHighlandsNP_EN-CA6938321042",
+        "copyright": "Coastline at Cape Breton Highlands National Park, Nova Scotia (© Tiago_Fernandez/Getty Images)",
+        "copyrightKeyword": "Cape Breton Highlands National Park Nova Scotia",
+        "hsh": "17aa0b39fa71358901652bab0872eefe"
+    },
+    {
         "fullstartdate": "202509140400",
         "date": "20250915",
         "url": "https://www.bing.com/th?id=OHR.HohWaterfall_EN-CA7082475802_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Library@orchard, Singapore (© Darwin Fan/Getty Images)",
         "copyrightKeyword": "International Literacy Day",
         "hsh": "dcf9c17f8adf899c920b1bb125beb366"
-    },
-    {
-        "fullstartdate": "202509070400",
-        "date": "20250908",
-        "url": "https://www.bing.com/th?id=OHR.BlueGdansk_EN-CA5626237578_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BlueGdansk_EN-CA5626237578",
-        "copyright": "Gdańsk on the banks of the Motława river, Poland (© Oscar Dominguez/TANDEM Stills + Motion)",
-        "copyrightKeyword": "Gdansk poland",
-        "hsh": "456e38c8962382b9229880ec342ffc84"
     }
 ]

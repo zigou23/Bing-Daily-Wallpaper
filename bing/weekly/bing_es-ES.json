@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509152200",
+        "date": "20250916",
+        "url": "https://www.bing.com/th?id=OHR.OzoneEarth_ES-ES8514798418_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.OzoneEarth_ES-ES8514798418",
+        "copyright": "Vista nocturna del sur de Estados Unidos a unos 360 kilómetros sobre la Tierra (© Stocktrek Images/Getty Images)",
+        "copyrightKeyword": "Capa de Ozono",
+        "hsh": "8dc137ccd34dacf4f64f45292164a2a0"
+    },
+    {
         "fullstartdate": "202509142200",
         "date": "20250915",
         "url": "https://www.bing.com/th?id=OHR.Echasse_ES-ES8443490175_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Una ardilla roja euroasiática hembra que lleva musgo, Suiza (© Jean-Luc and Francoise Ziegler/Minden Pictures)",
         "copyrightKeyword": "Ardilla roja euroasiática",
         "hsh": "88a59e5c877704c127e1fe5c7616f6b0"
-    },
-    {
-        "fullstartdate": "202509072200",
-        "date": "20250908",
-        "url": "https://www.bing.com/th?id=OHR.LaJayaAsturiasDay_ES-ES0574508384_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LaJayaAsturiasDay_ES-ES0574508384",
-        "copyright": "Puente de la Jaya, Rio Cares, Picos de Europa, Asturias, España (© Joana Kruse/Alamy Images)",
-        "copyrightKeyword": "Aturias",
-        "hsh": "845cd07aa3e964420a2a227fb0d40575"
     }
 ]

@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509152200",
+        "date": "20250916",
+        "url": "https://www.bing.com/th?id=OHR.OzoneEarth_DE-DE2800551844_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.OzoneEarth_DE-DE2800551844",
+        "copyright": "Nachtansicht der Golfküstenstaaten aus 362 Kilometern Höhe über der Erde (© Stocktrek Images/Getty Images)",
+        "copyrightKeyword": "Internationaler Tag zum Schutz der Ozonschicht",
+        "hsh": "d810d9d4b92233387548920f6514d305"
+    },
+    {
         "fullstartdate": "202509142200",
         "date": "20250915",
         "url": "https://www.bing.com/th?id=OHR.Echasse_DE-DE5356832083_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Ein Eurasisches Eichhörnchen trägt Moos, Schweiz (© Jean-Luc and Francoise Ziegler/Minden Pictures)",
         "copyrightKeyword": "Eurasisches Eichhörnchen",
         "hsh": "5e276323a49be3656419b5b82ecf2638"
-    },
-    {
-        "fullstartdate": "202509072200",
-        "date": "20250908",
-        "url": "https://www.bing.com/th?id=OHR.OrchardLibrary_DE-DE1336292524_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.OrchardLibrary_DE-DE1336292524",
-        "copyright": "library@orchard, Singapur (© Darwin Fan/Getty Images)",
-        "copyrightKeyword": "Weltalphabetisierungstag",
-        "hsh": "dd3fe74d534719f6ac23062eaef21019"
     }
 ]

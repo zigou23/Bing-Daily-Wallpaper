@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509150700",
+        "date": "20250916",
+        "url": "https://www.bing.com/th?id=OHR.DallasLegorreta_EN-US9050675226_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.DallasLegorreta_EN-US9050675226",
+        "copyright": "Latino Cultural Center designed by Ricardo Legorreta, Dallas, Texas (© Ken Hurst/Alamy)",
+        "copyrightKeyword": "Hispanic Heritage Month",
+        "hsh": "7c0d848a580ca0652fbe1a7f6c722854"
+    },
+    {
         "fullstartdate": "202509140700",
         "date": "20250915",
         "url": "https://www.bing.com/th?id=OHR.HohWaterfall_EN-US9003533736_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Library@orchard, Singapore (© Darwin Fan/Getty Images)",
         "copyrightKeyword": "International Literacy Day",
         "hsh": "5e2cfc78b6d28ab8e31cd7fccd0464a1"
-    },
-    {
-        "fullstartdate": "202509070700",
-        "date": "20250908",
-        "url": "https://www.bing.com/th?id=OHR.BlueGdansk_EN-US8032283831_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BlueGdansk_EN-US8032283831",
-        "copyright": "Gdańsk on the banks of the Motława, Poland (© Oscar Dominguez/TANDEM Stills + Motion)",
-        "copyrightKeyword": "gdansk poland",
-        "hsh": "0b59d1e041eca72160bc361cd2ae641f"
     }
 ]
