@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509160400",
+        "date": "20250917",
+        "url": "https://www.bing.com/th?id=OHR.OzoneEarth_FR-CA7415892367_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.OzoneEarth_FR-CA7415892367",
+        "copyright": "Vue nocturne des États américains bordant le golfe du Mexique, depuis 360 kilomètres au-dessus de la Terre (© Stocktrek Images/Getty Images)",
+        "copyrightKeyword": "Protection de la couche d'ozone",
+        "hsh": "1f906f138eb0e3d51b775b9a55378d57"
+    },
+    {
         "fullstartdate": "202509150400",
         "date": "20250916",
         "url": "https://www.bing.com/th?id=OHR.BrentonHighlandsNP_FR-CA0634942410_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Femelle écureuil roux avec de la mousse, Suisse (© Jean-Luc and Francoise Ziegler/Minden Pictures)",
         "copyrightKeyword": "écureuil roux",
         "hsh": "3b713f88fb61b34fafed0749b34e467e"
-    },
-    {
-        "fullstartdate": "202509080400",
-        "date": "20250909",
-        "url": "https://www.bing.com/th?id=OHR.OrchardLibrary_FR-CA9778304920_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.OrchardLibrary_FR-CA9778304920",
-        "copyright": "Bibliothèque library@orchard, Singapour (© Darwin Fan/Getty Images)",
-        "copyrightKeyword": "Journée internationale de l'alphabétisation",
-        "hsh": "e791ef6c9bead5a749291275dd86d11a"
     }
 ]

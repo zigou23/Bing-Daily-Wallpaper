@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509162200",
+        "date": "20250917",
+        "url": "https://www.bing.com/th?id=OHR.YoungMoose_DE-DE0761999333_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.YoungMoose_DE-DE0761999333",
+        "copyright": "Ein junger Elchbulle im Denali-Nationalpark, Alaska, USA (© Grant Ordelheide/TANDEM Stills + Motion)",
+        "copyrightKeyword": "Elch",
+        "hsh": "69609d811f489e0527a0e272b29a5603"
+    },
+    {
         "fullstartdate": "202509152200",
         "date": "20250916",
         "url": "https://www.bing.com/th?id=OHR.OzoneEarth_DE-DE2800551844_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Heuballen, North Yorkshire, England (© Nick Brundle Photography/Getty Images)",
         "copyrightKeyword": "Yorkshire England",
         "hsh": "5429a4741cfa2fc130315697a476559a"
-    },
-    {
-        "fullstartdate": "202509082200",
-        "date": "20250909",
-        "url": "https://www.bing.com/th?id=OHR.SwissSquirrel_DE-DE3902212654_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SwissSquirrel_DE-DE3902212654",
-        "copyright": "Ein Eurasisches Eichhörnchen trägt Moos, Schweiz (© Jean-Luc and Francoise Ziegler/Minden Pictures)",
-        "copyrightKeyword": "Eurasisches Eichhörnchen",
-        "hsh": "5e276323a49be3656419b5b82ecf2638"
     }
 ]

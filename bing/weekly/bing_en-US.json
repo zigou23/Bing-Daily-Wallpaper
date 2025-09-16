@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509160700",
+        "date": "20250917",
+        "url": "https://www.bing.com/th?id=OHR.OzoneEarth_EN-US9728527733_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.OzoneEarth_EN-US9728527733",
+        "copyright": "Nighttime view of the Gulf Coast states from 225 miles above Earth (© Stocktrek Images/Getty Images)",
+        "copyrightKeyword": "Ozone Day",
+        "hsh": "215a6d1639aa7afc9717b73c37ae5403"
+    },
+    {
         "fullstartdate": "202509150700",
         "date": "20250916",
         "url": "https://www.bing.com/th?id=OHR.DallasLegorreta_EN-US9050675226_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "A female Eurasian red squirrel carrying moss, Switzerland (© Jean-Luc and Francoise Ziegler/Minden Pictures)",
         "copyrightKeyword": "Eurasian red squirrel",
         "hsh": "989786968814aa5568a14f673510b7d6"
-    },
-    {
-        "fullstartdate": "202509080700",
-        "date": "20250909",
-        "url": "https://www.bing.com/th?id=OHR.OrchardLibrary_EN-US8095609746_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.OrchardLibrary_EN-US8095609746",
-        "copyright": "Library@orchard, Singapore (© Darwin Fan/Getty Images)",
-        "copyrightKeyword": "International Literacy Day",
-        "hsh": "5e2cfc78b6d28ab8e31cd7fccd0464a1"
     }
 ]

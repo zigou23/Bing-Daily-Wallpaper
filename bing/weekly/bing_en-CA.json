@@ -1,12 +1,21 @@
 [
     {
+        "fullstartdate": "202509160400",
+        "date": "20250917",
+        "url": "https://www.bing.com/th?id=OHR.OzoneEarth_EN-CA7588653763_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.OzoneEarth_EN-CA7588653763",
+        "copyright": "A nighttime view of the Gulf Coast states from 362 kilometres above Earth (© Stocktrek Images/Getty Images)",
+        "copyrightKeyword": "Ozone Day",
+        "hsh": "f7eb56ba835a471da242d379f02f946f"
+    },
+    {
         "fullstartdate": "202509150400",
         "date": "20250916",
-        "url": "https://www.bing.com/th?id=OHR.BrentonHighlandsNP_EN-CA6938321042_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BrentonHighlandsNP_EN-CA6938321042",
+        "url": "https://www.bing.com/th?id=OHR.BrentonHighlandsNP_EN-CA0999765737_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BrentonHighlandsNP_EN-CA0999765737",
         "copyright": "Coastline at Cape Breton Highlands National Park, Nova Scotia (© Tiago_Fernandez/Getty Images)",
         "copyrightKeyword": "Cape Breton Highlands National Park Nova Scotia",
-        "hsh": "17aa0b39fa71358901652bab0872eefe"
+        "hsh": "cf412fe1eca76953630376d1c53e584d"
     },
     {
         "fullstartdate": "202509140400",
@@ -15,7 +24,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.HohWaterfall_EN-CA7082475802",
         "copyright": "A waterfall in Olympic National Park, Washington, United States (© Chris Moore/TANDEM Stills + Motion)",
         "copyrightKeyword": "Olympic National Park Washington",
-        "hsh": "ec24f5085f8cc61f095a95152f6e8bd1"
+        "hsh": "8157460b6c29661bd55a69d7e807b43f"
     },
     {
         "fullstartdate": "202509130400",
@@ -61,14 +70,5 @@
         "copyright": "A female Eurasian red squirrel carrying moss, Switzerland (© Jean-Luc and Francoise Ziegler/Minden Pictures)",
         "copyrightKeyword": "Eurasian red squirrel",
         "hsh": "f7a4ac545a1f706edaf6bd058b7b1c05"
-    },
-    {
-        "fullstartdate": "202509080400",
-        "date": "20250909",
-        "url": "https://www.bing.com/th?id=OHR.OrchardLibrary_EN-CA5905828145_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.OrchardLibrary_EN-CA5905828145",
-        "copyright": "Library@orchard, Singapore (© Darwin Fan/Getty Images)",
-        "copyrightKeyword": "International Literacy Day",
-        "hsh": "dcf9c17f8adf899c920b1bb125beb366"
     }
 ]
