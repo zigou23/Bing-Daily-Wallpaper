@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509182300",
+        "date": "20250919",
+        "url": "https://www.bing.com/th?id=OHR.ThousandIslands_EN-GB1501665871_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ThousandIslands_EN-GB1501665871",
+        "copyright": "Thousand Islands region, St Lawrence River, USA-Canada border (© benedek/Getty Images)",
+        "copyrightKeyword": "Thousand Islands region",
+        "hsh": "c7612db3d768a2440145d3767f0e1d3b"
+    },
+    {
         "fullstartdate": "202509172300",
         "date": "20250918",
         "url": "https://www.bing.com/th?id=OHR.DunquinIreland_EN-GB3162997633_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Spinner dolphin pod in the Red Sea, Marsa Alam, Egypt (© Franco Banfi/Nature Picture Library)",
         "copyrightKeyword": "World Dolphin Day",
         "hsh": "af31423c39370c3d2bf1f3282d08c7de"
-    },
-    {
-        "fullstartdate": "202509102300",
-        "date": "20250911",
-        "url": "https://www.bing.com/th?id=OHR.BlueGdansk_EN-GB1148120483_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BlueGdansk_EN-GB1148120483",
-        "copyright": "Gdańsk on the banks of the Motława river, Poland (© Oscar Dominguez/TANDEM Stills + Motion)",
-        "copyrightKeyword": "Gdansk poland",
-        "hsh": "e353d6b2974a35926653e0a5e377881f"
     }
 ]

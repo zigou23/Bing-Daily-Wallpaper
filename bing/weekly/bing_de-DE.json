@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509182200",
+        "date": "20250919",
+        "url": "https://www.bing.com/th?id=OHR.ThousandIslands_DE-DE2717714260_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ThousandIslands_DE-DE2717714260",
+        "copyright": "Thousand Islands, Sankt-Lorenz-Strom, Grenze zwischen den USA und Kanada (© benedek/Getty Images)",
+        "copyrightKeyword": "Thousand Islands",
+        "hsh": "76cf75462cfe4604c17109574aa08db2"
+    },
+    {
         "fullstartdate": "202509172200",
         "date": "20250918",
         "url": "https://www.bing.com/th?id=OHR.DunquinIreland_DE-DE4797885512_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Gruppe von Spinnerdelfinen im Roten Meer bei Marsa Alam, Ägypten (© Franco Banfi/Nature Picture Library)",
         "copyrightKeyword": "World Dolphin Day",
         "hsh": "ba12f7fb9499e4a878fcd7fd03969e1b"
-    },
-    {
-        "fullstartdate": "202509102200",
-        "date": "20250911",
-        "url": "https://www.bing.com/th?id=OHR.ExtremaduraJamon_DE-DE4354679644_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ExtremaduraJamon_DE-DE4354679644",
-        "copyright": "Geierfelsen (Peña Falcon) am Fluss Tajo im Nationalpark Monfragüe, Spanien (© Daniel Viñé Garcia/Getty Images)",
-        "copyrightKeyword": "Nationalpark Monfragüe",
-        "hsh": "229b0366a40a9bfebbcfd9adb5d299f7"
     }
 ]

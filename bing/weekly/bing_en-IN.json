@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509181830",
+        "date": "20250919",
+        "url": "https://www.bing.com/th?id=OHR.ThousandIslands_EN-IN6967814594_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ThousandIslands_EN-IN6967814594",
+        "copyright": "Thousand Islands region, St. Lawrence River, USA-Canada border (© benedek/Getty Images)",
+        "copyrightKeyword": "Thousand Islands region",
+        "hsh": "de8d8832b195454547b1e2aab87d720d"
+    },
+    {
         "fullstartdate": "202509171830",
         "date": "20250918",
         "url": "https://www.bing.com/th?id=OHR.DunquinIreland_EN-IN2211431419_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Spinner dolphin pod in the Red Sea, Marsa Alam, Egypt (© Franco Banfi/Nature Picture Library)",
         "copyrightKeyword": "World Dolphin Day",
         "hsh": "5b019489377d1289fcd56f28d0639003"
-    },
-    {
-        "fullstartdate": "202509101830",
-        "date": "20250911",
-        "url": "https://www.bing.com/th?id=OHR.ButterflyBeach_EN-IN0695823552_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ButterflyBeach_EN-IN0695823552",
-        "copyright": "Butterfly Beach in Canacona, South Goa (© Puneet Vikram Singh, Nature and Concept photographer/Getty Images)",
-        "copyrightKeyword": "Butterfly Beach Goa",
-        "hsh": "8dca8f8daa22c9eb36b0313a7dc6bc87"
     }
 ]

@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509180700",
+        "date": "20250919",
+        "url": "https://www.bing.com/th?id=OHR.DunquinIreland_ROW8248282029_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.DunquinIreland_ROW8248282029",
+        "copyright": "Serpentine stairs of Dunquin Pier, County Kerry, Ireland (© Hugh O'Connor/Getty Images)",
+        "copyrightKeyword": "Dunquin Pier",
+        "hsh": "e91d3cb0006e7a5d9bf0b3b873499b81"
+    },
+    {
         "fullstartdate": "202509170700",
         "date": "20250918",
         "url": "https://www.bing.com/th?id=OHR.YoungMoose_ROW0217187286_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Peña Falcon rock on the Tagus river, Monfragüe National Park, Spain (© Daniel Viñé Garcia/Getty Images)",
         "copyrightKeyword": "Monfrague National Park",
         "hsh": "2ce62e4ece27c0c68d6bb8365a8e986b"
-    },
-    {
-        "fullstartdate": "202509100700",
-        "date": "20250911",
-        "url": "https://www.bing.com/th?id=OHR.YorkshireHay_ROW7331770812_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.YorkshireHay_ROW7331770812",
-        "copyright": "Hay bales, North Yorkshire, England (© Nick Brundle Photography/Getty Images)",
-        "copyrightKeyword": "Yorkshire England",
-        "hsh": "f22c9139f57e78834da0abed1c8ce9b1"
     }
 ]

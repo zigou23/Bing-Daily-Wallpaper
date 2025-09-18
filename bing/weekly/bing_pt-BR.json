@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509180300",
+        "date": "20250919",
+        "url": "https://www.bing.com/th?id=OHR.DunquinIreland_PT-BR6766126699_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.DunquinIreland_PT-BR6766126699",
+        "copyright": "Escadaria serpenteante do Cais de Dunquin, Condado de Kerry, Irlanda (© Hugh O'Connor/Getty Images)",
+        "copyrightKeyword": "Dunquin, Condado de Kerry, Irlanda",
+        "hsh": "73e11afc8031115d01f8f72d47b001d2"
+    },
+    {
         "fullstartdate": "202509170300",
         "date": "20250918",
         "url": "https://www.bing.com/th?id=OHR.ArpoadorRJ_PT-BR5341950627_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Vista do Salto del Gitano, Parque Nacional de Monfragüe, Cáceres, Extremadura, Espanha (© Daniel Viñé Garcia/Getty Images)",
         "copyrightKeyword": "Parque Nacional de Monfragüe",
         "hsh": "f4102f77032bce08951a46d00cfa7336"
-    },
-    {
-        "fullstartdate": "202509100300",
-        "date": "20250911",
-        "url": "https://www.bing.com/th?id=OHR.YorkshireHay_PT-BR7088228512_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.YorkshireHay_PT-BR7088228512",
-        "copyright": "Fardos de feno, North Yorkshire, Inglaterra (© Nick Brundle Photography/Getty Images)",
-        "copyrightKeyword": "North Yorkshire na Inglaterra",
-        "hsh": "5c476846ce85f2acabd19328098135f7"
     }
 ]
