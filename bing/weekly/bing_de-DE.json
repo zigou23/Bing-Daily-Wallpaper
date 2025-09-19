@@ -1,12 +1,21 @@
 [
     {
+        "fullstartdate": "202509192200",
+        "date": "20250920",
+        "url": "https://www.bing.com/th?id=OHR.OktoberfestHackerFestzelt_DE-DE2583035265_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.OktoberfestHackerFestzelt_DE-DE2583035265",
+        "copyright": "Hacker-Festzelt auf dem Oktoberfest, München, Bayern (© Westend61/Getty Images Plus)",
+        "copyrightKeyword": "Oktoberfest München",
+        "hsh": "8e60ba714b1b5df1d5330ad8c8ce9ebf"
+    },
+    {
         "fullstartdate": "202509182200",
         "date": "20250919",
-        "url": "https://www.bing.com/th?id=OHR.ThousandIslands_DE-DE2717714260_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ThousandIslands_DE-DE2717714260",
+        "url": "https://www.bing.com/th?id=OHR.ThousandIslands_DE-DE0677147681_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ThousandIslands_DE-DE0677147681",
         "copyright": "Thousand Islands, Sankt-Lorenz-Strom, Grenze zwischen den USA und Kanada (© benedek/Getty Images)",
         "copyrightKeyword": "Thousand Islands",
-        "hsh": "76cf75462cfe4604c17109574aa08db2"
+        "hsh": "10f9a920dcbe6b1a0c590400b53c4dc8"
     },
     {
         "fullstartdate": "202509172200",
@@ -61,14 +70,5 @@
         "copyright": "Chimney Rock, Point Reyes National Seashore, Kalifornien, USA (© Enrique Aguirre Aves/Getty Images)",
         "copyrightKeyword": "Point Reyes National Seashore Kalifornien",
         "hsh": "f0779b2f08d5903537766bf81fdf44aa"
-    },
-    {
-        "fullstartdate": "202509112200",
-        "date": "20250912",
-        "url": "https://www.bing.com/th?id=OHR.SpinnerDolphins_DE-DE4891196756_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SpinnerDolphins_DE-DE4891196756",
-        "copyright": "Gruppe von Spinnerdelfinen im Roten Meer bei Marsa Alam, Ägypten (© Franco Banfi/Nature Picture Library)",
-        "copyrightKeyword": "World Dolphin Day",
-        "hsh": "ba12f7fb9499e4a878fcd7fd03969e1b"
     }
 ]

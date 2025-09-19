@@ -1,12 +1,21 @@
 [
     {
+        "fullstartdate": "202509192200",
+        "date": "20250920",
+        "url": "https://www.bing.com/th?id=OHR.OktoberfestSwing_FR-FR4212024061_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.OktoberfestSwing_FR-FR4212024061",
+        "copyright": "Carrousel à balançoires à l’Oktoberfest de Munich, Bavière, Allemagne (© LOOK-foto/Alamy)",
+        "copyrightKeyword": "Oktoberfest Allemagne",
+        "hsh": "b5167146bdaf2a05d669285e25aeab02"
+    },
+    {
         "fullstartdate": "202509182200",
         "date": "20250919",
         "url": "https://www.bing.com/th?id=OHR.BolDor_FR-FR4058003205_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.BolDor_FR-FR4058003205",
         "copyright": "Vue aérienne du circuit Paul Ricard, Le Castellet (© Sami Sarkis/Getty Images)",
         "copyrightKeyword": "Circuit Paul-Ricard",
-        "hsh": "9a3dd9aeaa46587cb78ff9d6ab22369d"
+        "hsh": "d98a9a054ddb28f9c425c2cb45b231a3"
     },
     {
         "fullstartdate": "202509172200",
@@ -61,14 +70,5 @@
         "copyright": "Chimney Rock, Point Reyes National Seashore, Californie, États-Unis (© Enrique Aguirre Aves/Getty Images)",
         "copyrightKeyword": "Point reyes national seashore etats-unis",
         "hsh": "3367d8b29d2390b19e6e5ac924312f12"
-    },
-    {
-        "fullstartdate": "202509112200",
-        "date": "20250912",
-        "url": "https://www.bing.com/th?id=OHR.SpinnerDolphins_FR-FR4369584175_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SpinnerDolphins_FR-FR4369584175",
-        "copyright": "Groupe de dauphins à long bec dans la mer Rouge, Marsa Alam, Égypte (© Franco Banfi/Nature Picture Library)",
-        "copyrightKeyword": "dauphin à long bec",
-        "hsh": "259806a8ee0dc8242fec476cca0e52e2"
     }
 ]

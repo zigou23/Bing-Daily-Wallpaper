@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509190400",
+        "date": "20250920",
+        "url": "https://www.bing.com/th?id=OHR.ThousandIslands_EN-CA4060601894_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ThousandIslands_EN-CA4060601894",
+        "copyright": "Thousand Islands region, St. Lawrence River, USA-Canada border (© benedek/Getty Images)",
+        "copyrightKeyword": "Thousand Islands region",
+        "hsh": "11c76738aedc61096fa2b508f548aec9"
+    },
+    {
         "fullstartdate": "202509180400",
         "date": "20250919",
         "url": "https://www.bing.com/th?id=OHR.DunquinIreland_EN-CA7995972934_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Spinner dolphin pod in the Red Sea, Marsa Alam, Egypt (© Franco Banfi/Nature Picture Library)",
         "copyrightKeyword": "World Dolphin Day",
         "hsh": "7ae5ecae6a643f00cd9fe9dff1624b1f"
-    },
-    {
-        "fullstartdate": "202509110400",
-        "date": "20250912",
-        "url": "https://www.bing.com/th?id=OHR.ExtremaduraJamon_EN-CA6493942250_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ExtremaduraJamon_EN-CA6493942250",
-        "copyright": "View from Salto del Gitano, Monfragüe National Park, Cáceres, Extremadura, Spain (© Daniel Viñé Garcia/Getty Images)",
-        "copyrightKeyword": "Monfragüe National Park",
-        "hsh": "642aebcebc57f1418892b7c07cf2efe0"
     }
 ]

@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509190300",
+        "date": "20250920",
+        "url": "https://www.bing.com/th?id=OHR.ThousandIslands_PT-BR6464136258_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ThousandIslands_PT-BR6464136258",
+        "copyright": "Arquipélago das Mil Ilhas, Rio São Lourenço, fronteira EUA-Canadá (© benedek/Getty Images)",
+        "copyrightKeyword": "Mil Ilhas no Canadá",
+        "hsh": "4b2c71d8c4e1021d5d0a4d9fc1e2cccd"
+    },
+    {
         "fullstartdate": "202509180300",
         "date": "20250919",
         "url": "https://www.bing.com/th?id=OHR.DunquinIreland_PT-BR6766126699_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Grupo de golfinhos-rotadores no Mar Vermelho, Marsa Alam, Egito (© Franco Banfi/Nature Picture Library)",
         "copyrightKeyword": "Dia Mundial do Golfinho",
         "hsh": "f1154ff9829b5c2460d01cdc51ebbf6b"
-    },
-    {
-        "fullstartdate": "202509110300",
-        "date": "20250912",
-        "url": "https://www.bing.com/th?id=OHR.ExtremaduraJamon_PT-BR7599252573_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ExtremaduraJamon_PT-BR7599252573",
-        "copyright": "Vista do Salto del Gitano, Parque Nacional de Monfragüe, Cáceres, Extremadura, Espanha (© Daniel Viñé Garcia/Getty Images)",
-        "copyrightKeyword": "Parque Nacional de Monfragüe",
-        "hsh": "f4102f77032bce08951a46d00cfa7336"
     }
 ]

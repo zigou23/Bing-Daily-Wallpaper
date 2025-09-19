@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509192300",
+        "date": "20250920",
+        "url": "https://www.bing.com/th?id=OHR.OktoberfestSwing_EN-GB1846284671_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.OktoberfestSwing_EN-GB1846284671",
+        "copyright": "Swing carousel at Oktoberfest, Munich, Bavaria, Germany (© LOOK-foto/Alamy)",
+        "copyrightKeyword": "Oktoberfest",
+        "hsh": "3cf1cd18cbaa88f3892bcdfcdee97b2f"
+    },
+    {
         "fullstartdate": "202509182300",
         "date": "20250919",
         "url": "https://www.bing.com/th?id=OHR.ThousandIslands_EN-GB1501665871_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Royal Albert Hall, South Kensington, London (© Gonzalo Azumendi/Stone/Getty Images)",
         "copyrightKeyword": "BBC Proms",
         "hsh": "12a42bdea41c8155e19ef32807a46a7d"
-    },
-    {
-        "fullstartdate": "202509112300",
-        "date": "20250912",
-        "url": "https://www.bing.com/th?id=OHR.SpinnerDolphins_EN-GB1386231173_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SpinnerDolphins_EN-GB1386231173",
-        "copyright": "Spinner dolphin pod in the Red Sea, Marsa Alam, Egypt (© Franco Banfi/Nature Picture Library)",
-        "copyrightKeyword": "World Dolphin Day",
-        "hsh": "af31423c39370c3d2bf1f3282d08c7de"
     }
 ]
