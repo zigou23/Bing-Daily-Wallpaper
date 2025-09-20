@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509202200",
+        "date": "20250921",
+        "url": "https://www.bing.com/th?id=OHR.IceOtters_DE-DE0331090947_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.IceOtters_DE-DE0331090947",
+        "copyright": "Seeotter, Prinz-William-Sund, Alaska, USA (© Gerald Corsi/Getty Images)",
+        "copyrightKeyword": "Seeotter",
+        "hsh": "be9946f9499e25411c949af72c842f68"
+    },
+    {
         "fullstartdate": "202509192200",
         "date": "20250920",
         "url": "https://www.bing.com/th?id=OHR.OktoberfestHackerFestzelt_DE-DE2583035265_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Orangerie Gera, Thüringen (© luchschenF/Shutterstock)",
         "copyrightKeyword": "Tag des offenen Denkmals",
         "hsh": "20e4aa6a7ea3562db326658341e77b7c"
-    },
-    {
-        "fullstartdate": "202509122200",
-        "date": "20250913",
-        "url": "https://www.bing.com/th?id=OHR.PointReyesSeashore_DE-DE5164774211_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PointReyesSeashore_DE-DE5164774211",
-        "copyright": "Chimney Rock, Point Reyes National Seashore, Kalifornien, USA (© Enrique Aguirre Aves/Getty Images)",
-        "copyrightKeyword": "Point Reyes National Seashore Kalifornien",
-        "hsh": "f0779b2f08d5903537766bf81fdf44aa"
     }
 ]

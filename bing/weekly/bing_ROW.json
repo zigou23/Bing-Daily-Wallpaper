@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509200700",
+        "date": "20250921",
+        "url": "https://www.bing.com/th?id=OHR.OktoberfestSwing_ROW4294317377_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.OktoberfestSwing_ROW4294317377",
+        "copyright": "Swing carousel at Oktoberfest, Munich, Bavaria, Germany (© LOOK-foto/Alamy)",
+        "copyrightKeyword": "Oktoberfest",
+        "hsh": "cb02b31dd6a9d8554bc573a6a43397c5"
+    },
+    {
         "fullstartdate": "202509190700",
         "date": "20250920",
         "url": "https://www.bing.com/th?id=OHR.ThousandIslands_ROW3854293844_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Chimney Rock, Point Reyes National Seashore, California, United States (© Enrique Aguirre Aves/Getty Images)",
         "copyrightKeyword": "Point Reyes National Seashore",
         "hsh": "daa406dea44fe2e26df526c800fa0ace"
-    },
-    {
-        "fullstartdate": "202509120700",
-        "date": "20250913",
-        "url": "https://www.bing.com/th?id=OHR.SpinnerDolphins_ROW7589569967_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SpinnerDolphins_ROW7589569967",
-        "copyright": "Spinner dolphin pod in the Red Sea, Marsa Alam, Egypt (© Franco Banfi/Nature Picture Library)",
-        "copyrightKeyword": "Spinner dolphin",
-        "hsh": "ac3f53d30aca538c35b7212227e10c11"
     }
 ]

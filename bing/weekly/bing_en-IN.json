@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509201830",
+        "date": "20250921",
+        "url": "https://www.bing.com/th?id=OHR.IceOtters_EN-IN7472097384_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.IceOtters_EN-IN7472097384",
+        "copyright": "Sea otters, Prince William Sound, Alaska, United States (© Gerald Corsi/Getty Images)",
+        "copyrightKeyword": "Sea otters",
+        "hsh": "e0a2db88fdd499d0654a27ce52c4e5d9"
+    },
+    {
         "fullstartdate": "202509191830",
         "date": "20250920",
         "url": "https://www.bing.com/th?id=OHR.OktoberfestSwing_EN-IN7246404187_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "A waterfall in Olympic National Park, Washington, United States (© Chris Moore/TANDEM Stills + Motion)",
         "copyrightKeyword": "Olympic National Park Washington",
         "hsh": "9681399fc082b2dd358b60acf7723ddc"
-    },
-    {
-        "fullstartdate": "202509121830",
-        "date": "20250913",
-        "url": "https://www.bing.com/th?id=OHR.PointReyesSeashore_EN-IN1229615007_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PointReyesSeashore_EN-IN1229615007",
-        "copyright": "Chimney Rock, Point Reyes National Seashore, California, United States (© Enrique Aguirre Aves/Getty Images)",
-        "copyrightKeyword": "Point Reyes National Seashore",
-        "hsh": "559148d3fd497ca263b2d8eaa8b34d6e"
     }
 ]
