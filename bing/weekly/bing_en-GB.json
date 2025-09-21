@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509212300",
+        "date": "20250922",
+        "url": "https://www.bing.com/th?id=OHR.AspenEquinox_EN-GB2838380564_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AspenEquinox_EN-GB2838380564",
+        "copyright": "Aspen trees during autumn, Fishlake National Forest, Utah, United States (© Danita Delimont/Getty Images)",
+        "copyrightKeyword": "Autumn equinox",
+        "hsh": "2723081f7a277e24aed1d1a250e06951"
+    },
+    {
         "fullstartdate": "202509202300",
         "date": "20250921",
         "url": "https://www.bing.com/th?id=OHR.IceOtters_EN-GB2135978576_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Chimney Rock, Point Reyes National Seashore, California, United States (© Enrique Aguirre Aves/Getty Images)",
         "copyrightKeyword": "Point Reyes National Seashore",
         "hsh": "ce79a8967ea1845f3846870ca35ae22d"
-    },
-    {
-        "fullstartdate": "202509132300",
-        "date": "20250914",
-        "url": "https://www.bing.com/th?id=OHR.HohWaterfall_EN-GB2323691969_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.HohWaterfall_EN-GB2323691969",
-        "copyright": "A waterfall in Olympic National Park, Washington, United States (© Chris Moore/TANDEM Stills + Motion)",
-        "copyrightKeyword": "Olympic National Park Washington",
-        "hsh": "06e653ce2811309c1ac3c97911dd6db7"
     }
 ]

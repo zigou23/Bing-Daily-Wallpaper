@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509212200",
+        "date": "20250922",
+        "url": "https://www.bing.com/th?id=OHR.AspenEquinox_DE-DE0417309231_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AspenEquinox_DE-DE0417309231",
+        "copyright": "Espenbäume im Herbst, Fishlake National Forest, Utah, USA (© Danita Delimont/Getty Images)",
+        "copyrightKeyword": "Äquinoktium",
+        "hsh": "5617cf93af3f5930c0d755060ccfacce"
+    },
+    {
         "fullstartdate": "202509202200",
         "date": "20250921",
         "url": "https://www.bing.com/th?id=OHR.IceOtters_DE-DE0331090947_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Stelzenläufer, Frankreich (© Antonio Sementa/500px/Getty Images)",
         "copyrightKeyword": "Stelzenläufer",
         "hsh": "1ef63b21b184e7dd7257d01117da41c0"
-    },
-    {
-        "fullstartdate": "202509132200",
-        "date": "20250914",
-        "url": "https://www.bing.com/th?id=OHR.GeraOrangerie_DE-DE0955611584_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.GeraOrangerie_DE-DE0955611584",
-        "copyright": "Orangerie Gera, Thüringen (© luchschenF/Shutterstock)",
-        "copyrightKeyword": "Tag des offenen Denkmals",
-        "hsh": "20e4aa6a7ea3562db326658341e77b7c"
     }
 ]

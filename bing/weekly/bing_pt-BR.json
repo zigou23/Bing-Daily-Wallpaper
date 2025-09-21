@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509210300",
+        "date": "20250922",
+        "url": "https://www.bing.com/th?id=OHR.IceOtters_PT-BR7598435461_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.IceOtters_PT-BR7598435461",
+        "copyright": "Lontras-marinhas em Prince William Sound, Alasca, EUA (© Gerald Corsi/Getty Images)",
+        "copyrightKeyword": "lontra marinha",
+        "hsh": "2829d31b77d4e24a71eaf7f86b62117b"
+    },
+    {
         "fullstartdate": "202509200300",
         "date": "20250921",
         "url": "https://www.bing.com/th?id=OHR.OktoberfestSwing_PT-BR6824532260_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Cachoeira no Parque Nacional Olympic, Washington, EUA (© Chris  Moore/TANDEM Stills + Motion)",
         "copyrightKeyword": "Parque Nacional Olympic nos EUA",
         "hsh": "9d9127a598c0a9b34c02e9214903b179"
-    },
-    {
-        "fullstartdate": "202509130300",
-        "date": "20250914",
-        "url": "https://www.bing.com/th?id=OHR.PointReyesSeashore_PT-BR6646395434_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PointReyesSeashore_PT-BR6646395434",
-        "copyright": "Chimney Rock, Point Reyes National Seashore, Califórnia, EUA (© Enrique Aguirre Aves/Getty Images)",
-        "copyrightKeyword": "Point Reyes National Seashore na Califórnia",
-        "hsh": "980df16a3d116363f48693d6656b4b79"
     }
 ]
