@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509220300",
+        "date": "20250923",
+        "url": "https://www.bing.com/th?id=OHR.Primavera25_PT-BR8233875845_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.Primavera25_PT-BR8233875845",
+        "copyright": "Árvore de ipê-amarelo em floração (© Wilton mitsuo miwa/Getty Images)",
+        "copyrightKeyword": "primavera",
+        "hsh": "257f28391a39bee449b82c06400c1148"
+    },
+    {
         "fullstartdate": "202509210300",
         "date": "20250922",
         "url": "https://www.bing.com/th?id=OHR.IceOtters_PT-BR7598435461_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Dupla de aves pernilongo na França (© Antonio Sementa/500px/Getty Images)",
         "copyrightKeyword": "ave pernilongo",
         "hsh": "da500e4f9a3efcf3adcd627a80529fcf"
-    },
-    {
-        "fullstartdate": "202509140300",
-        "date": "20250915",
-        "url": "https://www.bing.com/th?id=OHR.HohWaterfall_PT-BR6671892401_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.HohWaterfall_PT-BR6671892401",
-        "copyright": "Cachoeira no Parque Nacional Olympic, Washington, EUA (© Chris  Moore/TANDEM Stills + Motion)",
-        "copyrightKeyword": "Parque Nacional Olympic nos EUA",
-        "hsh": "9d9127a598c0a9b34c02e9214903b179"
     }
 ]

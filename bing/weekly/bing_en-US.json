@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509220700",
+        "date": "20250923",
+        "url": "https://www.bing.com/th?id=OHR.AspenEquinox_EN-US8237887036_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AspenEquinox_EN-US8237887036",
+        "copyright": "Aspen trees during fall, Fishlake National Forest, Utah (© Danita Delimont/Getty Images)",
+        "copyrightKeyword": "autumn equinox",
+        "hsh": "15803c2d9f8d4801fc7c8c25e2154890"
+    },
+    {
         "fullstartdate": "202509210700",
         "date": "20250922",
         "url": "https://www.bing.com/th?id=OHR.IceOtters_EN-US7982442590_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Latino Cultural Center designed by Ricardo Legorreta, Dallas, Texas (© Ken Hurst/Alamy)",
         "copyrightKeyword": "Hispanic Heritage Month",
         "hsh": "7c0d848a580ca0652fbe1a7f6c722854"
-    },
-    {
-        "fullstartdate": "202509140700",
-        "date": "20250915",
-        "url": "https://www.bing.com/th?id=OHR.HohWaterfall_EN-US9003533736_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.HohWaterfall_EN-US9003533736",
-        "copyright": "A waterfall in Olympic National Park, Washington (© Chris Moore/TANDEM Stills + Motion)",
-        "copyrightKeyword": "Olympic National Park Washington",
-        "hsh": "cfd7bec4245c83fa1cf1be10e116669e"
     }
 ]

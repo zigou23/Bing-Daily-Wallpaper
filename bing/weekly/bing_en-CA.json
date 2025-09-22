@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509220400",
+        "date": "20250923",
+        "url": "https://www.bing.com/th?id=OHR.AspenEquinox_EN-CA5015758865_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AspenEquinox_EN-CA5015758865",
+        "copyright": "Aspen trees during fall, Fishlake National Forest, Utah, United States (© Danita Delimont/Getty Images)",
+        "copyrightKeyword": "Autumn equinox",
+        "hsh": "caed0b984124860f7c1784e1f7eba1bc"
+    },
+    {
         "fullstartdate": "202509210400",
         "date": "20250922",
         "url": "https://www.bing.com/th?id=OHR.IceOtters_EN-CA4744258157_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Coastline at Cape Breton Highlands National Park, Nova Scotia (© Tiago_Fernandez/Getty Images)",
         "copyrightKeyword": "Cape Breton Highlands National Park Nova Scotia",
         "hsh": "976bdd8bee62edd6e1892f951c3d3f09"
-    },
-    {
-        "fullstartdate": "202509140400",
-        "date": "20250915",
-        "url": "https://www.bing.com/th?id=OHR.HohWaterfall_EN-CA7082475802_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.HohWaterfall_EN-CA7082475802",
-        "copyright": "A waterfall in Olympic National Park, Washington, United States (© Chris Moore/TANDEM Stills + Motion)",
-        "copyrightKeyword": "Olympic National Park Washington",
-        "hsh": "ec24f5085f8cc61f095a95152f6e8bd1"
     }
 ]

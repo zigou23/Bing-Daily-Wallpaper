@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509220700",
+        "date": "20250923",
+        "url": "https://www.bing.com/th?id=OHR.AspenEquinox_ROW4592504146_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AspenEquinox_ROW4592504146",
+        "copyright": "Aspen trees during autumn, Fishlake National Forest, Utah, United States (© Danita Delimont/Getty Images)",
+        "copyrightKeyword": "Aspen trees",
+        "hsh": "fd61cd3a08eeb431e8b05b80641357fc"
+    },
+    {
         "fullstartdate": "202509210700",
         "date": "20250922",
         "url": "https://www.bing.com/th?id=OHR.IceOtters_ROW4423609000_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Black-winged stilts, France (© Antonio Sementa/500px/Getty Images)",
         "copyrightKeyword": "Black-winged stilt",
         "hsh": "36b7d832ef33c8b6533fa6cff9e3cb76"
-    },
-    {
-        "fullstartdate": "202509140700",
-        "date": "20250915",
-        "url": "https://www.bing.com/th?id=OHR.HohWaterfall_ROW7820858130_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.HohWaterfall_ROW7820858130",
-        "copyright": "A waterfall in Olympic National Park, Washington, United States (© Chris Moore/TANDEM Stills + Motion)",
-        "copyrightKeyword": "Olympic National Park Washington",
-        "hsh": "466483ec6b482ff3de43f35f61b23e9e"
     }
 ]
