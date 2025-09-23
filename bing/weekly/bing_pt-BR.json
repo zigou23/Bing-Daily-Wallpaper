@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509230300",
+        "date": "20250924",
+        "url": "https://www.bing.com/th?id=OHR.ToucanForest_PT-BR8747698753_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ToucanForest_PT-BR8747698753",
+        "copyright": "Tucano-de-peito-amarelo na Costa Rica (© Juan Carlos Vindas/Getty Images)",
+        "copyrightKeyword": "Tucano de peito amarelo",
+        "hsh": "06e7697e629880a60100b6d689fd09ea"
+    },
+    {
         "fullstartdate": "202509220300",
         "date": "20250923",
         "url": "https://www.bing.com/th?id=OHR.Primavera25_PT-BR8233875845_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Vista noturna da Golfo do México, 362 quilômetros acima da Terra (© Stocktrek Images/Getty Images)",
         "copyrightKeyword": "Dia Internacional para a Preservação da Camada de Ozônio",
         "hsh": "429913ffb40924f92caca4cf58823f70"
-    },
-    {
-        "fullstartdate": "202509150300",
-        "date": "20250916",
-        "url": "https://www.bing.com/th?id=OHR.Echasse_PT-BR5689846497_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.Echasse_PT-BR5689846497",
-        "copyright": "Dupla de aves pernilongo na França (© Antonio Sementa/500px/Getty Images)",
-        "copyrightKeyword": "ave pernilongo",
-        "hsh": "da500e4f9a3efcf3adcd627a80529fcf"
     }
 ]

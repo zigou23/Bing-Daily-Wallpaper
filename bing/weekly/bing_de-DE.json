@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509232200",
+        "date": "20250924",
+        "url": "https://www.bing.com/th?id=OHR.BearLodge_DE-DE0621021956_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BearLodge_DE-DE0621021956",
+        "copyright": "Devils Tower National Monument, Wyoming, USA (© Laura Hedien/Getty Images)",
+        "copyrightKeyword": "Devils Tower National Monument",
+        "hsh": "16e05322ffcc1857e9d7e739d4e820bb"
+    },
+    {
         "fullstartdate": "202509222200",
         "date": "20250923",
         "url": "https://www.bing.com/th?id=OHR.ToucanForest_DE-DE0467627234_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Ein junger Elchbulle im Denali-Nationalpark, Alaska, USA (© Grant Ordelheide/TANDEM Stills + Motion)",
         "copyrightKeyword": "Elch",
         "hsh": "69609d811f489e0527a0e272b29a5603"
-    },
-    {
-        "fullstartdate": "202509152200",
-        "date": "20250916",
-        "url": "https://www.bing.com/th?id=OHR.OzoneEarth_DE-DE2800551844_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.OzoneEarth_DE-DE2800551844",
-        "copyright": "Nachtansicht der Golfküstenstaaten aus 362 Kilometern Höhe über der Erde (© Stocktrek Images/Getty Images)",
-        "copyrightKeyword": "Internationaler Tag zum Schutz der Ozonschicht",
-        "hsh": "d810d9d4b92233387548920f6514d305"
     }
 ]

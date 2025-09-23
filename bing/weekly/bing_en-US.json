@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509230700",
+        "date": "20250924",
+        "url": "https://www.bing.com/th?id=OHR.ToucanForest_EN-US8319635845_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ToucanForest_EN-US8319635845",
+        "copyright": "Keel-billed toucan in Costa Rica (© Juan Carlos Vindas/Getty Images)",
+        "copyrightKeyword": "keel-billed toucan",
+        "hsh": "b8af7ba71fadb07f7d0f2f6137a61d9b"
+    },
+    {
         "fullstartdate": "202509220700",
         "date": "20250923",
         "url": "https://www.bing.com/th?id=OHR.AspenEquinox_EN-US8237887036_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Nighttime view of the Gulf Coast states from 225 miles above Earth (© Stocktrek Images/Getty Images)",
         "copyrightKeyword": "Ozone Day",
         "hsh": "215a6d1639aa7afc9717b73c37ae5403"
-    },
-    {
-        "fullstartdate": "202509150700",
-        "date": "20250916",
-        "url": "https://www.bing.com/th?id=OHR.DallasLegorreta_EN-US9050675226_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DallasLegorreta_EN-US9050675226",
-        "copyright": "Latino Cultural Center designed by Ricardo Legorreta, Dallas, Texas (© Ken Hurst/Alamy)",
-        "copyrightKeyword": "Hispanic Heritage Month",
-        "hsh": "7c0d848a580ca0652fbe1a7f6c722854"
     }
 ]

@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509232200",
+        "date": "20250924",
+        "url": "https://www.bing.com/th?id=OHR.BearLodge_FR-FR5273744579_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BearLodge_FR-FR5273744579",
+        "copyright": "Monument national de la tour du Diable, Wyoming, États-Unis (© Laura Hedien/Getty Images)",
+        "copyrightKeyword": "Monument national de la tour du Diable",
+        "hsh": "82a8459a18c578dcae90c776ff713aa0"
+    },
+    {
         "fullstartdate": "202509222200",
         "date": "20250923",
         "url": "https://www.bing.com/th?id=OHR.ToucanForest_FR-FR5096547078_1920x1080.jpg",
@@ -33,7 +42,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.OktoberfestSwing_FR-FR4212024061",
         "copyright": "Carrousel à balançoires à l’Oktoberfest de Munich, Bavière, Allemagne (© LOOK-foto/Alamy)",
         "copyrightKeyword": "Oktoberfest Allemagne",
-        "hsh": "b5167146bdaf2a05d669285e25aeab02"
+        "hsh": "f70150081ebbd0ad1a28ae0a5288d4c9"
     },
     {
         "fullstartdate": "202509182200",
@@ -42,7 +51,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BolDor_FR-FR4058003205",
         "copyright": "Vue aérienne du circuit Paul Ricard, Le Castellet (© Sami Sarkis/Getty Images)",
         "copyrightKeyword": "Circuit Paul-Ricard",
-        "hsh": "d98a9a054ddb28f9c425c2cb45b231a3"
+        "hsh": "9a3dd9aeaa46587cb78ff9d6ab22369d"
     },
     {
         "fullstartdate": "202509172200",
@@ -61,14 +70,5 @@
         "copyright": "Jeune élan mâle, parc national de Denali, Alaska, États-Unis (© Grant Ordelheide/TANDEM Stills + Motion)",
         "copyrightKeyword": "élan d'Alaska",
         "hsh": "df6c9f949e559444810353e7183313d4"
-    },
-    {
-        "fullstartdate": "202509152200",
-        "date": "20250916",
-        "url": "https://www.bing.com/th?id=OHR.OzoneEarth_FR-FR6213796059_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.OzoneEarth_FR-FR6213796059",
-        "copyright": "Vue nocturne des États américains bordant le golfe du Mexique, depuis 360 kilomètres au-dessus de la Terre (© Stocktrek Images/Getty Images)",
-        "copyrightKeyword": "Protection de la couche d'ozone",
-        "hsh": "f6deeeaa3df60cf17601cd12ebae204f"
     }
 ]

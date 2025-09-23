@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509232200",
+        "date": "20250924",
+        "url": "https://www.bing.com/th?id=OHR.BearLodge_IT-IT3838142385_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BearLodge_IT-IT3838142385",
+        "copyright": "Torre del Diavolo, Wyoming, USA (© Laura Hedien/Getty Images)",
+        "copyrightKeyword": "Torre del Diavolo Stati Uniti",
+        "hsh": "109c8ecf7f929cdab89b126e56cf1200"
+    },
+    {
         "fullstartdate": "202509222200",
         "date": "20250923",
         "url": "https://www.bing.com/th?id=OHR.ToucanForest_IT-IT3771106703_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Giovane alce maschio nel Parco Nazionale di Denali, Alaska, USA (© Grant Ordelheide/TANDEM Stills + Motion)",
         "copyrightKeyword": "Alce Alaska",
         "hsh": "6b433c9bed4d33219ad1b875a8444230"
-    },
-    {
-        "fullstartdate": "202509152200",
-        "date": "20250916",
-        "url": "https://www.bing.com/th?id=OHR.OzoneEarth_IT-IT9452054464_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.OzoneEarth_IT-IT9452054464",
-        "copyright": "Vista notturna degli Stati della costa del Golfo dallo Spazio (© Stocktrek Images/Getty Images)",
-        "copyrightKeyword": "Giornata internazionale per la preservazione dello strato di ozono",
-        "hsh": "c4bc60daaea01058774710b68b3f029c"
     }
 ]

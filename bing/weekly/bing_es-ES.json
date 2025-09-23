@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509232200",
+        "date": "20250924",
+        "url": "https://www.bing.com/th?id=OHR.BearLodge_ES-ES0617575565_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BearLodge_ES-ES0617575565",
+        "copyright": "Monumento Nacional Devils Tower, Wyoming, EE. UU. (© Laura Hedien/Getty Images)",
+        "copyrightKeyword": "Monumento Nacional Devils Tower",
+        "hsh": "77bfc50837bc2ce8371ea840567a94d6"
+    },
+    {
         "fullstartdate": "202509222200",
         "date": "20250923",
         "url": "https://www.bing.com/th?id=OHR.SportWeekTeide_ES-ES0590010437_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Un joven alce macho en el Parque Nacional Denali, Alaska, EE. UU. (© Grant Ordelheide/TANDEM Stills + Motion)",
         "copyrightKeyword": "alce",
         "hsh": "0a7d07ec7c93b8c7b47b8c1dfc0b6aae"
-    },
-    {
-        "fullstartdate": "202509152200",
-        "date": "20250916",
-        "url": "https://www.bing.com/th?id=OHR.OzoneEarth_ES-ES8514798418_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.OzoneEarth_ES-ES8514798418",
-        "copyright": "Vista nocturna del sur de Estados Unidos a unos 360 kilómetros sobre la Tierra (© Stocktrek Images/Getty Images)",
-        "copyrightKeyword": "Capa de Ozono",
-        "hsh": "8dc137ccd34dacf4f64f45292164a2a0"
     }
 ]
