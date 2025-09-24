@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509241830",
+        "date": "20250925",
+        "url": "https://www.bing.com/th?id=OHR.FortChittorgarh_EN-IN2683894887_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FortChittorgarh_EN-IN2683894887",
+        "copyright": "Chittorgarh Fort, Rajasthan (© chetansoni/Shutterstock)",
+        "copyrightKeyword": "Chittorgarh Fort",
+        "hsh": "1ab00ff0649c68d5e40a05a38414df53"
+    },
+    {
         "fullstartdate": "202509231830",
         "date": "20250924",
         "url": "https://www.bing.com/th?id=OHR.BearLodge_EN-IN2528556725_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Serpentine stairs of Dunquin Pier, County Kerry, Ireland (© Hugh O'Connor/Getty Images)",
         "copyrightKeyword": "Dunquin Pier",
         "hsh": "7f6a90a3af157a77c31f2f697763e4ad"
-    },
-    {
-        "fullstartdate": "202509161830",
-        "date": "20250917",
-        "url": "https://www.bing.com/th?id=OHR.YoungMoose_EN-IN1905120338_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.YoungMoose_EN-IN1905120338",
-        "copyright": "A young bull moose in Denali National Park, Alaska, United States (© Grant Ordelheide/TANDEM Stills + Motion)",
-        "copyrightKeyword": "Alaska moose",
-        "hsh": "d81e3a7bc4b110acd77810842228d0f9"
     }
 ]

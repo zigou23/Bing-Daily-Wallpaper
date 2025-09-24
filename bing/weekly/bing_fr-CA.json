@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509240400",
+        "date": "20250925",
+        "url": "https://www.bing.com/th?id=OHR.BearLodge_FR-CA3663920698_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BearLodge_FR-CA3663920698",
+        "copyright": "Monument national de la tour du Diable, Wyoming, États-Unis (© Laura Hedien/Getty Images)",
+        "copyrightKeyword": "Monument national de la tour du Diable",
+        "hsh": "f349938976573d435efaeafdad696b44"
+    },
+    {
         "fullstartdate": "202509230400",
         "date": "20250924",
         "url": "https://www.bing.com/th?id=OHR.ToucanForest_FR-CA3495026765_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Jeune élan mâle, parc national de Denali, Alaska, États-Unis (© Grant Ordelheide/TANDEM Stills + Motion)",
         "copyrightKeyword": "élan d'Alaska",
         "hsh": "7b39c8869783d1eead1f4d474218b5b0"
-    },
-    {
-        "fullstartdate": "202509160400",
-        "date": "20250917",
-        "url": "https://www.bing.com/th?id=OHR.OzoneEarth_FR-CA7415892367_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.OzoneEarth_FR-CA7415892367",
-        "copyright": "Vue nocturne des États américains bordant le golfe du Mexique, depuis 360 kilomètres au-dessus de la Terre (© Stocktrek Images/Getty Images)",
-        "copyrightKeyword": "Protection de la couche d'ozone",
-        "hsh": "c10b2b56d1840cbdf897b16b1ed5bbd2"
     }
 ]

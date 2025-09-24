@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509240400",
+        "date": "20250925",
+        "url": "https://www.bing.com/th?id=OHR.BearLodge_EN-CA5941138960_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BearLodge_EN-CA5941138960",
+        "copyright": "Devils Tower National Monument, Wyoming, United States (© Laura Hedien/Getty Images)",
+        "copyrightKeyword": "Devils Tower National Monument",
+        "hsh": "d9edc4f93f09b860c683e86a3028d244"
+    },
+    {
         "fullstartdate": "202509230400",
         "date": "20250924",
         "url": "https://www.bing.com/th?id=OHR.ToucanForest_EN-CA5712281059_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "A young bull moose in Denali National Park, Alaska, United States (© Grant Ordelheide/TANDEM Stills + Motion)",
         "copyrightKeyword": "Alaska moose",
         "hsh": "d190b4fbfb84b75d61e93714e7c56357"
-    },
-    {
-        "fullstartdate": "202509160400",
-        "date": "20250917",
-        "url": "https://www.bing.com/th?id=OHR.OzoneEarth_EN-CA7588653763_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.OzoneEarth_EN-CA7588653763",
-        "copyright": "A nighttime view of the Gulf Coast states from 362 kilometres above Earth (© Stocktrek Images/Getty Images)",
-        "copyrightKeyword": "Ozone Day",
-        "hsh": "5feec95d07b1d0f021f9247e388e0144"
     }
 ]

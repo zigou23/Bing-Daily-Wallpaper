@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509242200",
+        "date": "20250925",
+        "url": "https://www.bing.com/th?id=OHR.FortChittorgarh_DE-DE0795662857_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FortChittorgarh_DE-DE0795662857",
+        "copyright": "Chittorgarh Fort, Rajasthan, Indien (© chetansoni/Shutterstock)",
+        "copyrightKeyword": "Chittorgarh Fort Indien",
+        "hsh": "df8732e7fd0d2c84e0c7747f39449bc2"
+    },
+    {
         "fullstartdate": "202509232200",
         "date": "20250924",
         "url": "https://www.bing.com/th?id=OHR.BearLodge_DE-DE0621021956_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Serpentinenartiger Pfad, Dunquin Pier, County Kerry, Irland (© Hugh O'Connor/Getty Images)",
         "copyrightKeyword": "Dún Chaoin",
         "hsh": "ac0fe4c375890801c2aeaf985e4ee17d"
-    },
-    {
-        "fullstartdate": "202509162200",
-        "date": "20250917",
-        "url": "https://www.bing.com/th?id=OHR.YoungMoose_DE-DE0761999333_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.YoungMoose_DE-DE0761999333",
-        "copyright": "Ein junger Elchbulle im Denali-Nationalpark, Alaska, USA (© Grant Ordelheide/TANDEM Stills + Motion)",
-        "copyrightKeyword": "Elch",
-        "hsh": "69609d811f489e0527a0e272b29a5603"
     }
 ]
