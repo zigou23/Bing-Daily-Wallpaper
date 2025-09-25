@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509251600",
+        "date": "20250926",
+        "url": "https://www.bing.com/th?id=OHR.AutumnChipmunk_ZH-CN6224482683_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AutumnChipmunk_ZH-CN6224482683",
+        "copyright": "最小花栗鼠, 库特奈国家公园, 蒙大拿州, 美国 (© Donald M. Jones/Minden Pictures)",
+        "copyrightKeyword": "最小花栗鼠",
+        "hsh": "2885513666b93587b3f34108402e97fc"
+    },
+    {
         "fullstartdate": "202509241600",
         "date": "20250925",
         "url": "https://www.bing.com/th?id=OHR.FortChittorgarh_ZH-CN5999553283_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "千岛群岛地区，圣劳伦斯河，美加边境 (© benedek/Getty Images)",
         "copyrightKeyword": "千岛群岛 北美洲",
         "hsh": "d89d3125a623a1ccf7f84bfce50f1a82"
-    },
-    {
-        "fullstartdate": "202509171600",
-        "date": "20250918",
-        "url": "https://www.bing.com/th?id=OHR.DunquinIreland_ZH-CN1418844818_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DunquinIreland_ZH-CN1418844818",
-        "copyright": "邓金码头的蛇形楼梯, 凯里郡, 爱尔兰 (© Hugh O'Connor/Getty Images)",
-        "copyrightKeyword": "丁格尔半岛",
-        "hsh": "847fe8ccad837c0ca0983f7e081be5b0"
     }
 ]

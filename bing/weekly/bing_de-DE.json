@@ -1,12 +1,21 @@
 [
     {
+        "fullstartdate": "202509252200",
+        "date": "20250926",
+        "url": "https://www.bing.com/th?id=OHR.AutumnChipmunk_DE-DE0842640974_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AutumnChipmunk_DE-DE0842640974",
+        "copyright": "Kleines Streifenhörnchen, Kootenai National Forest, Montana, USA (© Donald M. Jones/Minden Pictures)",
+        "copyrightKeyword": "Kleines Streifenhörnchen",
+        "hsh": "5bbb04836a176b335cfb743c9ee28915"
+    },
+    {
         "fullstartdate": "202509242200",
         "date": "20250925",
-        "url": "https://www.bing.com/th?id=OHR.FortChittorgarh_DE-DE0795662857_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FortChittorgarh_DE-DE0795662857",
+        "url": "https://www.bing.com/th?id=OHR.FortChittorgarh_DE-DE3932715293_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FortChittorgarh_DE-DE3932715293",
         "copyright": "Chittorgarh Fort, Rajasthan, Indien (© chetansoni/Shutterstock)",
         "copyrightKeyword": "Chittorgarh Fort Indien",
-        "hsh": "df8732e7fd0d2c84e0c7747f39449bc2"
+        "hsh": "d0668917977957be8a06a0ef7cd41e55"
     },
     {
         "fullstartdate": "202509232200",
@@ -15,7 +24,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BearLodge_DE-DE0621021956",
         "copyright": "Devils Tower National Monument, Wyoming, USA (© Laura Hedien/Getty Images)",
         "copyrightKeyword": "Devils Tower National Monument",
-        "hsh": "16e05322ffcc1857e9d7e739d4e820bb"
+        "hsh": "1a73568c426dde1ba46de0b41a1ab623"
     },
     {
         "fullstartdate": "202509222200",
@@ -24,7 +33,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ToucanForest_DE-DE0467627234",
         "copyright": "Fischertukan in Costa Rica (© Juan Carlos Vindas/Getty Images)",
         "copyrightKeyword": "Fischertukan",
-        "hsh": "9c4bf22f8bda705cac9ae70c63ba98b9"
+        "hsh": "f704143d72552b03bd7bdb5a7b2b97b7"
     },
     {
         "fullstartdate": "202509212200",
@@ -33,7 +42,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AspenEquinox_DE-DE0417309231",
         "copyright": "Espenbäume im Herbst, Fishlake National Forest, Utah, USA (© Danita Delimont/Getty Images)",
         "copyrightKeyword": "Äquinoktium",
-        "hsh": "5617cf93af3f5930c0d755060ccfacce"
+        "hsh": "1a04fa95ac10373a7a6282d49c04966e"
     },
     {
         "fullstartdate": "202509202200",
@@ -42,7 +51,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.IceOtters_DE-DE0331090947",
         "copyright": "Seeotter, Prinz-William-Sund, Alaska, USA (© Gerald Corsi/Getty Images)",
         "copyrightKeyword": "Seeotter",
-        "hsh": "be9946f9499e25411c949af72c842f68"
+        "hsh": "d691ea8e3e30600a2cca4f022b3ab639"
     },
     {
         "fullstartdate": "202509192200",
@@ -51,7 +60,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.OktoberfestHackerFestzelt_DE-DE2583035265",
         "copyright": "Hacker-Festzelt auf dem Oktoberfest, München, Bayern (© Westend61/Getty Images Plus)",
         "copyrightKeyword": "Oktoberfest München",
-        "hsh": "8e60ba714b1b5df1d5330ad8c8ce9ebf"
+        "hsh": "e1cb3c77bb12d7efc5866f33231c5142"
     },
     {
         "fullstartdate": "202509182200",
@@ -60,15 +69,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ThousandIslands_DE-DE0677147681",
         "copyright": "Thousand Islands, Sankt-Lorenz-Strom, Grenze zwischen den USA und Kanada (© benedek/Getty Images)",
         "copyrightKeyword": "Thousand Islands",
-        "hsh": "10f9a920dcbe6b1a0c590400b53c4dc8"
-    },
-    {
-        "fullstartdate": "202509172200",
-        "date": "20250918",
-        "url": "https://www.bing.com/th?id=OHR.DunquinIreland_DE-DE4797885512_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DunquinIreland_DE-DE4797885512",
-        "copyright": "Serpentinenartiger Pfad, Dunquin Pier, County Kerry, Irland (© Hugh O'Connor/Getty Images)",
-        "copyrightKeyword": "Dún Chaoin",
-        "hsh": "ac0fe4c375890801c2aeaf985e4ee17d"
+        "hsh": "072f26fe904d393bda8ca9b753aafa39"
     }
 ]

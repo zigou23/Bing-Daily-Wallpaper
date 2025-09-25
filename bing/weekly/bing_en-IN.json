@@ -1,12 +1,21 @@
 [
     {
+        "fullstartdate": "202509251830",
+        "date": "20250926",
+        "url": "https://www.bing.com/th?id=OHR.AutumnChipmunk_EN-IN2843120599_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AutumnChipmunk_EN-IN2843120599",
+        "copyright": "Least chipmunk, Kootenai National Forest, Montana, United States (© Donald M. Jones/Minden Pictures)",
+        "copyrightKeyword": "Least chipmunk",
+        "hsh": "8b897a0772446bf08f74b4950a5e62ee"
+    },
+    {
         "fullstartdate": "202509241830",
         "date": "20250925",
-        "url": "https://www.bing.com/th?id=OHR.FortChittorgarh_EN-IN2683894887_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FortChittorgarh_EN-IN2683894887",
+        "url": "https://www.bing.com/th?id=OHR.FortChittorgarh_EN-IN0181756033_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FortChittorgarh_EN-IN0181756033",
         "copyright": "Chittorgarh Fort, Rajasthan (© chetansoni/Shutterstock)",
         "copyrightKeyword": "Chittorgarh Fort",
-        "hsh": "1ab00ff0649c68d5e40a05a38414df53"
+        "hsh": "f4b0cec73396f0d67fe83fd4238843e4"
     },
     {
         "fullstartdate": "202509231830",
@@ -15,7 +24,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BearLodge_EN-IN2528556725",
         "copyright": "Devils Tower National Monument, Wyoming, United States (© Laura Hedien/Getty Images)",
         "copyrightKeyword": "Devils Tower National Monument",
-        "hsh": "b1ee705d50977fedb98dfa66c028707c"
+        "hsh": "16278daeebb474133c0bf7211deba140"
     },
     {
         "fullstartdate": "202509221830",
@@ -61,14 +70,5 @@
         "copyright": "Thousand Islands region, St. Lawrence River, USA-Canada border (© benedek/Getty Images)",
         "copyrightKeyword": "Thousand Islands region",
         "hsh": "de8d8832b195454547b1e2aab87d720d"
-    },
-    {
-        "fullstartdate": "202509171830",
-        "date": "20250918",
-        "url": "https://www.bing.com/th?id=OHR.DunquinIreland_EN-IN2211431419_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DunquinIreland_EN-IN2211431419",
-        "copyright": "Serpentine stairs of Dunquin Pier, County Kerry, Ireland (© Hugh O'Connor/Getty Images)",
-        "copyrightKeyword": "Dunquin Pier",
-        "hsh": "7f6a90a3af157a77c31f2f697763e4ad"
     }
 ]
