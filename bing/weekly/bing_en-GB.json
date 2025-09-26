@@ -1,12 +1,21 @@
 [
     {
+        "fullstartdate": "202509262300",
+        "date": "20250927",
+        "url": "https://www.bing.com/th?id=OHR.YosemiteClark_EN-GB9745293465_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.YosemiteClark_EN-GB9745293465",
+        "copyright": "Clark Range, Sierra Nevada, Yosemite National Park, California, United States (© Robb Hirsch/TANDEM Stills + Motion)",
+        "copyrightKeyword": "National Park Yosemite",
+        "hsh": "7798dcfc8074df8563f462573dab88e3"
+    },
+    {
         "fullstartdate": "202509252300",
         "date": "20250926",
         "url": "https://www.bing.com/th?id=OHR.AutumnChipmunk_EN-GB9058636428_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.AutumnChipmunk_EN-GB9058636428",
         "copyright": "Least chipmunk, Kootenai National Forest, Montana, United States (© Donald M. Jones/Minden Pictures)",
         "copyrightKeyword": "Least chipmunk",
-        "hsh": "b77b204d9c31568775695ca6d378c4bb"
+        "hsh": "6aa0b9818935a4d49410c5436f3a7547"
     },
     {
         "fullstartdate": "202509242300",
@@ -15,7 +24,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.FortChittorgarh_EN-GB9713877836",
         "copyright": "Chittorgarh Fort, Rajasthan, India (© chetansoni/Shutterstock)",
         "copyrightKeyword": "Chittorgarh Fort India",
-        "hsh": "72f8a54b90ce94cec258552d3b34cc9b"
+        "hsh": "98aa44d9e174bb0195b9a5096aa00cf2"
     },
     {
         "fullstartdate": "202509232300",
@@ -24,7 +33,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BearLodge_EN-GB8627501672",
         "copyright": "Devils Tower National Monument, Wyoming, United States (© Laura Hedien/Getty Images)",
         "copyrightKeyword": "Devils Tower National Monument",
-        "hsh": "9a42930a852c006dcdd107eb59a2379f"
+        "hsh": "25cc90f382170f0313711898486b691c"
     },
     {
         "fullstartdate": "202509222300",
@@ -61,14 +70,5 @@
         "copyright": "Swing carousel at Oktoberfest, Munich, Bavaria, Germany (© LOOK-foto/Alamy)",
         "copyrightKeyword": "Oktoberfest",
         "hsh": "3cf1cd18cbaa88f3892bcdfcdee97b2f"
-    },
-    {
-        "fullstartdate": "202509182300",
-        "date": "20250919",
-        "url": "https://www.bing.com/th?id=OHR.ThousandIslands_EN-GB1501665871_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ThousandIslands_EN-GB1501665871",
-        "copyright": "Thousand Islands region, St Lawrence River, USA-Canada border (© benedek/Getty Images)",
-        "copyrightKeyword": "Thousand Islands region",
-        "hsh": "c7612db3d768a2440145d3767f0e1d3b"
     }
 ]

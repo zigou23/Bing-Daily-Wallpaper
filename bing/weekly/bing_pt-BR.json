@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509260300",
+        "date": "20250927",
+        "url": "https://www.bing.com/th?id=OHR.AutumnChipmunk_PT-BR7323455735_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AutumnChipmunk_PT-BR7323455735",
+        "copyright": "Tâmia-pequena na Floresta Nacional de Kootenai, Montana, EUA (© Donald M. Jones/Minden Pictures)",
+        "copyrightKeyword": "tâmia pequena",
+        "hsh": "9e8071322763d725ca71e11e2fa1db0f"
+    },
+    {
         "fullstartdate": "202509250300",
         "date": "20250926",
         "url": "https://www.bing.com/th?id=OHR.FortChittorgarh_PT-BR4240075767_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Arquipélago das Mil Ilhas, Rio São Lourenço, fronteira EUA-Canadá (© benedek/Getty Images)",
         "copyrightKeyword": "Mil Ilhas no Canadá",
         "hsh": "4b2c71d8c4e1021d5d0a4d9fc1e2cccd"
-    },
-    {
-        "fullstartdate": "202509180300",
-        "date": "20250919",
-        "url": "https://www.bing.com/th?id=OHR.DunquinIreland_PT-BR6766126699_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DunquinIreland_PT-BR6766126699",
-        "copyright": "Escadaria serpenteante do Cais de Dunquin, Condado de Kerry, Irlanda (© Hugh O'Connor/Getty Images)",
-        "copyrightKeyword": "Dunquin, Condado de Kerry, Irlanda",
-        "hsh": "73e11afc8031115d01f8f72d47b001d2"
     }
 ]

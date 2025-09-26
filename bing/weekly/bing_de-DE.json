@@ -1,12 +1,21 @@
 [
     {
+        "fullstartdate": "202509262200",
+        "date": "20250927",
+        "url": "https://www.bing.com/th?id=OHR.BerlinAutumn_DE-DE0881465418_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BerlinAutumn_DE-DE0881465418",
+        "copyright": "Herbstliche Farben in Berlin (© Sergio Saavedra Ruiz/Getty Images)",
+        "copyrightKeyword": "Berlin",
+        "hsh": "3cf9b35028758c4167a1f60230b6caec"
+    },
+    {
         "fullstartdate": "202509252200",
         "date": "20250926",
         "url": "https://www.bing.com/th?id=OHR.AutumnChipmunk_DE-DE0842640974_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.AutumnChipmunk_DE-DE0842640974",
         "copyright": "Kleines Streifenhörnchen, Kootenai National Forest, Montana, USA (© Donald M. Jones/Minden Pictures)",
         "copyrightKeyword": "Kleines Streifenhörnchen",
-        "hsh": "5bbb04836a176b335cfb743c9ee28915"
+        "hsh": "f588fb7edc0486b00cd8744bb8077b2e"
     },
     {
         "fullstartdate": "202509242200",
@@ -15,7 +24,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.FortChittorgarh_DE-DE3932715293",
         "copyright": "Chittorgarh Fort, Rajasthan, Indien (© chetansoni/Shutterstock)",
         "copyrightKeyword": "Chittorgarh Fort Indien",
-        "hsh": "d0668917977957be8a06a0ef7cd41e55"
+        "hsh": "b92037d1387bdb2113868b5a2dcf9cc2"
     },
     {
         "fullstartdate": "202509232200",
@@ -61,14 +70,5 @@
         "copyright": "Hacker-Festzelt auf dem Oktoberfest, München, Bayern (© Westend61/Getty Images Plus)",
         "copyrightKeyword": "Oktoberfest München",
         "hsh": "e1cb3c77bb12d7efc5866f33231c5142"
-    },
-    {
-        "fullstartdate": "202509182200",
-        "date": "20250919",
-        "url": "https://www.bing.com/th?id=OHR.ThousandIslands_DE-DE0677147681_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ThousandIslands_DE-DE0677147681",
-        "copyright": "Thousand Islands, Sankt-Lorenz-Strom, Grenze zwischen den USA und Kanada (© benedek/Getty Images)",
-        "copyrightKeyword": "Thousand Islands",
-        "hsh": "072f26fe904d393bda8ca9b753aafa39"
     }
 ]
