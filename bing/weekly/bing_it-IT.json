@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509272200",
+        "date": "20250928",
+        "url": "https://www.bing.com/th?id=OHR.PienzaItaly_IT-IT9023162912_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PienzaItaly_IT-IT9023162912",
+        "copyright": "Pienza, Provincia di Siena, Toscana (© zpagistock/Getty Images)",
+        "copyrightKeyword": "Pienza",
+        "hsh": "19c9f62e4c5bb7d63e0f37829f706210"
+    },
+    {
         "fullstartdate": "202509262200",
         "date": "20250927",
         "url": "https://www.bing.com/th?id=OHR.TankLakes_IT-IT8921224847_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Viale alberato, Pinerolo, Torino, Piemonte (© Diana Robinson Photography/Moment)",
         "copyrightKeyword": "Pinerolo è un comune italiano",
         "hsh": "9a506523db366402c9010f862671777c"
-    },
-    {
-        "fullstartdate": "202509192200",
-        "date": "20250920",
-        "url": "https://www.bing.com/th?id=OHR.OktoberfestSwing_IT-IT3600717607_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.OktoberfestSwing_IT-IT3600717607",
-        "copyright": "Giostra all'Oktoberfest, Monaco di Baviera, Germania (© LOOK-foto/Alamy)",
-        "copyrightKeyword": "Oktoberfest",
-        "hsh": "1868560f97a991d8510c6074326c6561"
     }
 ]

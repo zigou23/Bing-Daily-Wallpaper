@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509272200",
+        "date": "20250928",
+        "url": "https://www.bing.com/th?id=OHR.PienzaItaly_DE-DE0925604328_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PienzaItaly_DE-DE0925604328",
+        "copyright": "Die Stadt Pienza in der Toskana, Italien (© zpagistock/Getty Images)",
+        "copyrightKeyword": "Pienza",
+        "hsh": "18e64e14852d0dff65611a39bed91477"
+    },
+    {
         "fullstartdate": "202509262200",
         "date": "20250927",
         "url": "https://www.bing.com/th?id=OHR.BerlinAutumn_DE-DE0881465418_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Seeotter, Prinz-William-Sund, Alaska, USA (© Gerald Corsi/Getty Images)",
         "copyrightKeyword": "Seeotter",
         "hsh": "d691ea8e3e30600a2cca4f022b3ab639"
-    },
-    {
-        "fullstartdate": "202509192200",
-        "date": "20250920",
-        "url": "https://www.bing.com/th?id=OHR.OktoberfestHackerFestzelt_DE-DE2583035265_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.OktoberfestHackerFestzelt_DE-DE2583035265",
-        "copyright": "Hacker-Festzelt auf dem Oktoberfest, München, Bayern (© Westend61/Getty Images Plus)",
-        "copyrightKeyword": "Oktoberfest München",
-        "hsh": "e1cb3c77bb12d7efc5866f33231c5142"
     }
 ]

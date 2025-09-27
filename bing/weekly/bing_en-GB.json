@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509272300",
+        "date": "20250928",
+        "url": "https://www.bing.com/th?id=OHR.PienzaItaly_EN-GB9891059804_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PienzaItaly_EN-GB9891059804",
+        "copyright": "Town of Pienza in Tuscany, Italy (© zpagistock/Getty Images)",
+        "copyrightKeyword": "Pienza",
+        "hsh": "ce96ce5723facb34647a1e0569d6734a"
+    },
+    {
         "fullstartdate": "202509262300",
         "date": "20250927",
         "url": "https://www.bing.com/th?id=OHR.YosemiteClark_EN-GB9745293465_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Sea otters, Prince William Sound, Alaska, United States (© Gerald Corsi/Getty Images)",
         "copyrightKeyword": "Sea Otter Awareness Week",
         "hsh": "3be96b0bac79c6d28875efeacbd700a5"
-    },
-    {
-        "fullstartdate": "202509192300",
-        "date": "20250920",
-        "url": "https://www.bing.com/th?id=OHR.OktoberfestSwing_EN-GB1846284671_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.OktoberfestSwing_EN-GB1846284671",
-        "copyright": "Swing carousel at Oktoberfest, Munich, Bavaria, Germany (© LOOK-foto/Alamy)",
-        "copyrightKeyword": "Oktoberfest",
-        "hsh": "3cf1cd18cbaa88f3892bcdfcdee97b2f"
     }
 ]

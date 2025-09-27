@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509270400",
+        "date": "20250928",
+        "url": "https://www.bing.com/th?id=OHR.RedMapleleaf_EN-CA8222399050_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.RedMapleleaf_EN-CA8222399050",
+        "copyright": "Red maple in fall, Canada (© LiuSol/Getty Images)",
+        "copyrightKeyword": "Acer rubrum",
+        "hsh": "7fb53b26cc89f2259097486f925eb990"
+    },
+    {
         "fullstartdate": "202509260400",
         "date": "20250927",
         "url": "https://www.bing.com/th?id=OHR.AutumnChipmunk_EN-CA7669023856_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Swing carousel at Oktoberfest, Munich, Bavaria, Germany (© LOOK-foto/Alamy)",
         "copyrightKeyword": "Oktoberfest",
         "hsh": "bb8d1c1c180920bb60d3471ddf0b7480"
-    },
-    {
-        "fullstartdate": "202509190400",
-        "date": "20250920",
-        "url": "https://www.bing.com/th?id=OHR.ThousandIslands_EN-CA4060601894_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ThousandIslands_EN-CA4060601894",
-        "copyright": "Thousand Islands region, St. Lawrence River, USA-Canada border (© benedek/Getty Images)",
-        "copyrightKeyword": "Thousand Islands region",
-        "hsh": "11c76738aedc61096fa2b508f548aec9"
     }
 ]

@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509270400",
+        "date": "20250928",
+        "url": "https://www.bing.com/th?id=OHR.RedMapleleaf_FR-CA4700405844_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.RedMapleleaf_FR-CA4700405844",
+        "copyright": "Érable rouge en automne, Canada (© LiuSol/Getty Images)",
+        "copyrightKeyword": "érable rouge",
+        "hsh": "f831a6f67ff203f2ba7416b9e21eba90"
+    },
+    {
         "fullstartdate": "202509260400",
         "date": "20250927",
         "url": "https://www.bing.com/th?id=OHR.AutumnChipmunk_FR-CA4393122356_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Carrousel à balançoires à l’Oktoberfest de Munich, Bavière, Allemagne (© LOOK-foto/Alamy)",
         "copyrightKeyword": "Oktoberfest Allemagne",
         "hsh": "360a32376394c5ae95c0726f36291a7b"
-    },
-    {
-        "fullstartdate": "202509190400",
-        "date": "20250920",
-        "url": "https://www.bing.com/th?id=OHR.ThousandIslands_FR-CA2696855753_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ThousandIslands_FR-CA2696855753",
-        "copyright": "Région des Mille-Îles, Saint-Laurent, frontière canado-américaine (© benedek/Getty Images)",
-        "copyrightKeyword": "Parc national des Mille-Îles",
-        "hsh": "e6f701433fa0c3218400677adc2ebf05"
     }
 ]

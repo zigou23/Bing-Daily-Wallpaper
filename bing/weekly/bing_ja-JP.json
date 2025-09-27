@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509271500",
+        "date": "20250928",
+        "url": "https://www.bing.com/th?id=OHR.PienzaItaly_JA-JP1964382138_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PienzaItaly_JA-JP1964382138",
+        "copyright": "ピエンツァ, イタリア (© zpagistock/Getty Images)",
+        "copyrightKeyword": "ピエンツァ",
+        "hsh": "66a31815366d3a5383145e06936e32d0"
+    },
+    {
         "fullstartdate": "202509261500",
         "date": "20250927",
         "url": "https://www.bing.com/th?id=OHR.TankLakes_JA-JP1667519475_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "プリンス・ウィリアム湾, 米国 アラスカ州 (© Gerald Corsi/Getty Images)",
         "copyrightKeyword": "プリンス・ウィリアム湾のラッコ",
         "hsh": "46af60343a9d894cabc4a52f49ee5c9e"
-    },
-    {
-        "fullstartdate": "202509191500",
-        "date": "20250920",
-        "url": "https://www.bing.com/th?id=OHR.OktoberfestSwing_JA-JP7932270954_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.OktoberfestSwing_JA-JP7932270954",
-        "copyright": "テレーゼンヴィーゼの回転ブランコ, ドイツ (© LOOK-foto/Alamy)",
-        "copyrightKeyword": "ミュンヘンのオクトーバーフェスト",
-        "hsh": "9ef8e22d94af756cd61b1336eb26ac37"
     }
 ]
