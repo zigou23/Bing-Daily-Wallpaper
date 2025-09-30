@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509302200",
+        "date": "20251001",
+        "url": "https://www.bing.com/th?id=OHR.YosemiteClark_ES-ES0823562766_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.YosemiteClark_ES-ES0823562766",
+        "copyright": "Cordillera Clark, Sierra Nevada, Parque Nacional de Yosemite, California, EE. UU. (© Robb Hirsch/TANDEM Stills + Motion)",
+        "copyrightKeyword": "Cordillera Clark",
+        "hsh": "c372b99956dea7a9dcc36b02ccab2221"
+    },
+    {
         "fullstartdate": "202509292200",
         "date": "20250930",
         "url": "https://www.bing.com/th?id=OHR.EucalyptusKoala_ES-ES0797719606_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Monumento Nacional Devils Tower, Wyoming, EE. UU. (© Laura Hedien/Getty Images)",
         "copyrightKeyword": "Monumento Nacional Devils Tower",
         "hsh": "77bfc50837bc2ce8371ea840567a94d6"
-    },
-    {
-        "fullstartdate": "202509222200",
-        "date": "20250923",
-        "url": "https://www.bing.com/th?id=OHR.SportWeekTeide_ES-ES0590010437_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SportWeekTeide_ES-ES0590010437",
-        "copyright": "Parapente sobre el Parque Nacional del Teide, Tenerife, Islas Canarias, España (© Rafal Michal Gadomski/ShutterStock)",
-        "copyrightKeyword": "parque nacional del teide",
-        "hsh": "373a35e7c3474119ddb9303a46462d7a"
     }
 ]

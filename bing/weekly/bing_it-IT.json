@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509302200",
+        "date": "20251001",
+        "url": "https://www.bing.com/th?id=OHR.YosemiteClark_IT-IT9290949114_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.YosemiteClark_IT-IT9290949114",
+        "copyright": "Catena montuosa Clark, Sierra Nevada, Parco Nazionale di Yosemite, California, USA (© Robb Hirsch/TANDEM Stills + Motion)",
+        "copyrightKeyword": "Parco Nazionale di Yosemite",
+        "hsh": "29f45674afa1d6d20b2f5a4c369f896c"
+    },
+    {
         "fullstartdate": "202509292200",
         "date": "20250930",
         "url": "https://www.bing.com/th?id=OHR.EucalyptusKoala_IT-IT9137756909_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Torre del Diavolo, Wyoming, USA (© Laura Hedien/Getty Images)",
         "copyrightKeyword": "Torre del Diavolo Stati Uniti",
         "hsh": "109c8ecf7f929cdab89b126e56cf1200"
-    },
-    {
-        "fullstartdate": "202509222200",
-        "date": "20250923",
-        "url": "https://www.bing.com/th?id=OHR.ToucanForest_IT-IT3771106703_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ToucanForest_IT-IT3771106703",
-        "copyright": "Tucano carenato, Costa Rica (© Juan Carlos Vindas/Getty Images)",
-        "copyrightKeyword": "Tucano carenato",
-        "hsh": "91724eba6898c7ebd187abef041f966b"
     }
 ]

@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509301500",
+        "date": "20251001",
+        "url": "https://www.bing.com/th?id=OHR.YosemiteClark_JA-JP6457719277_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.YosemiteClark_JA-JP6457719277",
+        "copyright": "クラーク山脈, 米国 カリフォルニア州 (© Robb Hirsch/TANDEM Stills + Motion)",
+        "copyrightKeyword": "クラーク山脈",
+        "hsh": "36a1c1306361df25e096ba48df7f775d"
+    },
+    {
         "fullstartdate": "202509291500",
         "date": "20250930",
         "url": "https://www.bing.com/th?id=OHR.EucalyptusKoala_JA-JP6385601679_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "デビルスタワー, 米国 ワイオミング州 (© Laura Hedien/Getty Images)",
         "copyrightKeyword": "デビルスタワー",
         "hsh": "706dded3fa188eed5d5a1fc4b361ccf1"
-    },
-    {
-        "fullstartdate": "202509221500",
-        "date": "20250923",
-        "url": "https://www.bing.com/th?id=OHR.AutumnEquinox2025_JA-JP9152081751_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AutumnEquinox2025_JA-JP9152081751",
-        "copyright": "秋の七草 ハギ (© kororokerokero/Getty Images)",
-        "copyrightKeyword": "秋の七草 ハギ",
-        "hsh": "1c493607ce8ba6e173ce6ff3313c4c2a"
     }
 ]

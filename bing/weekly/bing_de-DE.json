@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509302200",
+        "date": "20251001",
+        "url": "https://www.bing.com/th?id=OHR.YosemiteClark_DE-DE1037605908_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.YosemiteClark_DE-DE1037605908",
+        "copyright": "Clark Range, Sierra Nevada, Yosemite-Nationalpark, Kalifornien, USA (© Robb Hirsch/TANDEM Stills + Motion)",
+        "copyrightKeyword": "Yosemite-Nationalpark",
+        "hsh": "623291c736a85be8dbaaa2d3490a77ca"
+    },
+    {
         "fullstartdate": "202509292200",
         "date": "20250930",
         "url": "https://www.bing.com/th?id=OHR.EucalyptusKoala_DE-DE1090162276_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Devils Tower National Monument, Wyoming, USA (© Laura Hedien/Getty Images)",
         "copyrightKeyword": "Devils Tower National Monument",
         "hsh": "1a73568c426dde1ba46de0b41a1ab623"
-    },
-    {
-        "fullstartdate": "202509222200",
-        "date": "20250923",
-        "url": "https://www.bing.com/th?id=OHR.ToucanForest_DE-DE0467627234_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ToucanForest_DE-DE0467627234",
-        "copyright": "Fischertukan in Costa Rica (© Juan Carlos Vindas/Getty Images)",
-        "copyrightKeyword": "Fischertukan",
-        "hsh": "f704143d72552b03bd7bdb5a7b2b97b7"
     }
 ]

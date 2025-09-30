@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202509300300",
+        "date": "20251001",
+        "url": "https://www.bing.com/th?id=OHR.EucalyptusKoala_PT-BR2049021569_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.EucalyptusKoala_PT-BR2049021569",
+        "copyright": "Coala em uma árvore de eucalipto, Parque Nacional Great Otway, Austrália (© Jamie Lamb - elusive-images.co.uk/Getty Images)",
+        "copyrightKeyword": "Coala",
+        "hsh": "2bbcf5077b78432eff7eb2282e5d90d7"
+    },
+    {
         "fullstartdate": "202509290300",
         "date": "20250930",
         "url": "https://www.bing.com/th?id=OHR.HoutenHouses_PT-BR1748801440_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Tucano-de-peito-amarelo na Costa Rica (© Juan Carlos Vindas/Getty Images)",
         "copyrightKeyword": "Tucano de peito amarelo",
         "hsh": "06e7697e629880a60100b6d689fd09ea"
-    },
-    {
-        "fullstartdate": "202509220300",
-        "date": "20250923",
-        "url": "https://www.bing.com/th?id=OHR.Primavera25_PT-BR8233875845_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.Primavera25_PT-BR8233875845",
-        "copyright": "Árvore de ipê-amarelo em floração (© Wilton mitsuo miwa/Getty Images)",
-        "copyrightKeyword": "primavera",
-        "hsh": "257f28391a39bee449b82c06400c1148"
     }
 ]
