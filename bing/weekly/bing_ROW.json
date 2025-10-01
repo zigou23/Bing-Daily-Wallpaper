@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510010700",
+        "date": "20251002",
+        "url": "https://www.bing.com/th?id=OHR.YosemiteClark_ROW5897373346_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.YosemiteClark_ROW5897373346",
+        "copyright": "Clark Range, Sierra Nevada, Yosemite National Park, California, United States (© Robb Hirsch/TANDEM Stills + Motion)",
+        "copyrightKeyword": "Clark Range",
+        "hsh": "8127971718e27c4d625153cfd5c45288"
+    },
+    {
         "fullstartdate": "202509300700",
         "date": "20251001",
         "url": "https://www.bing.com/th?id=OHR.EucalyptusKoala_ROW5777411549_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Devils Tower National Monument, Wyoming, United States (© Laura Hedien/Getty Images)",
         "copyrightKeyword": "Devils Tower National Monument",
         "hsh": "d9d417f9253abd68286a65058274ac72"
-    },
-    {
-        "fullstartdate": "202509230700",
-        "date": "20250924",
-        "url": "https://www.bing.com/th?id=OHR.ToucanForest_ROW4747613727_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ToucanForest_ROW4747613727",
-        "copyright": "Keel-billed toucan in Costa Rica (© Juan Carlos Vindas/Getty Images)",
-        "copyrightKeyword": "Keel billed toucan",
-        "hsh": "1d6115eca7124ec9a09480b5ec79994e"
     }
 ]

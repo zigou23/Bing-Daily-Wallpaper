@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510012200",
+        "date": "20251002",
+        "url": "https://www.bing.com/th?id=OHR.ToscanaAutunno_IT-IT9368718519_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ToscanaAutunno_IT-IT9368718519",
+        "copyright": "Bolgheri, frazione di Castagneto Carducci, Livorno, Maremma, Toscana (© ©StevanZZ/iStock)",
+        "copyrightKeyword": "Bolgheri frazione",
+        "hsh": "e54e7f3a14d81065b1aefbee9cd40f81"
+    },
+    {
         "fullstartdate": "202509302200",
         "date": "20251001",
         "url": "https://www.bing.com/th?id=OHR.YosemiteClark_IT-IT9290949114_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Forte di Chittor, Rajasthan, India (© chetansoni/Shutterstock)",
         "copyrightKeyword": "Forte di Chittor Rajasthan India",
         "hsh": "5d6e497f47c8befc42830fa44077eecd"
-    },
-    {
-        "fullstartdate": "202509232200",
-        "date": "20250924",
-        "url": "https://www.bing.com/th?id=OHR.BearLodge_IT-IT3838142385_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BearLodge_IT-IT3838142385",
-        "copyright": "Torre del Diavolo, Wyoming, USA (© Laura Hedien/Getty Images)",
-        "copyrightKeyword": "Torre del Diavolo Stati Uniti",
-        "hsh": "109c8ecf7f929cdab89b126e56cf1200"
     }
 ]

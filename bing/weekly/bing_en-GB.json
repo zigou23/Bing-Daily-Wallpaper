@@ -1,12 +1,21 @@
 [
     {
+        "fullstartdate": "202510012300",
+        "date": "20251002",
+        "url": "https://www.bing.com/th?id=OHR.NationalPoetryDay2025_EN-GB3464467927_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.NationalPoetryDay2025_EN-GB3464467927",
+        "copyright": "Waterfall in the Cairngorms National Park, Scotland (© JohnFScott/iStock/Getty Images)",
+        "copyrightKeyword": "National Poetry Day",
+        "hsh": "d8236b605995b413a5d571bd99bdf3ad"
+    },
+    {
         "fullstartdate": "202509302300",
         "date": "20251001",
         "url": "https://www.bing.com/th?id=OHR.BlackMonthUK2025_EN-GB0715842244_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.BlackMonthUK2025_EN-GB0715842244",
         "copyright": "Silhouette of former South African President Nelson Mandela, 26 Leake Street, London, 2019 (© Leon Neal/Getty Images)",
         "copyrightKeyword": "Black History Month UK",
-        "hsh": "a975a319aeec9176908caff2d0296aff"
+        "hsh": "e35a54cd182924759b14426eaf72d4b6"
     },
     {
         "fullstartdate": "202509292300",
@@ -61,14 +70,5 @@
         "copyright": "Chittorgarh Fort, Rajasthan, India (© chetansoni/Shutterstock)",
         "copyrightKeyword": "Chittorgarh Fort India",
         "hsh": "98aa44d9e174bb0195b9a5096aa00cf2"
-    },
-    {
-        "fullstartdate": "202509232300",
-        "date": "20250924",
-        "url": "https://www.bing.com/th?id=OHR.BearLodge_EN-GB8627501672_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BearLodge_EN-GB8627501672",
-        "copyright": "Devils Tower National Monument, Wyoming, United States (© Laura Hedien/Getty Images)",
-        "copyrightKeyword": "Devils Tower National Monument",
-        "hsh": "25cc90f382170f0313711898486b691c"
     }
 ]
