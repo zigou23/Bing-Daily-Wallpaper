@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510020400",
+        "date": "20251003",
+        "url": "https://www.bing.com/th?id=OHR.OxbowBend_FR-CA6912917825_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.OxbowBend_FR-CA6912917825",
+        "copyright": "Site naturel de Oxbow Bend, parc national du Grand Teton, Wyoming, États-Unis (© DanitaDelimont.com/AWL Images/SuperStock)",
+        "copyrightKeyword": "Parc national du Grand Teton",
+        "hsh": "178937d38d8f7aa4dab193e541087d12"
+    },
+    {
         "fullstartdate": "202510010400",
         "date": "20251002",
         "url": "https://www.bing.com/th?id=OHR.YosemiteClark_FR-CA6784551281_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Fort de Chittorgarh, Rajasthan, Inde (© chetansoni/Shutterstock)",
         "copyrightKeyword": "Fort de Chittorgarh Inde",
         "hsh": "249ea61d4ddd5ddaf500c11a853b6c47"
-    },
-    {
-        "fullstartdate": "202509240400",
-        "date": "20250925",
-        "url": "https://www.bing.com/th?id=OHR.BearLodge_FR-CA3663920698_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BearLodge_FR-CA3663920698",
-        "copyright": "Monument national de la tour du Diable, Wyoming, États-Unis (© Laura Hedien/Getty Images)",
-        "copyrightKeyword": "Monument national de la tour du Diable",
-        "hsh": "4cddef53f5212959e4477c1237081ec2"
     }
 ]

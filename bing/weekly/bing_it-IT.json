@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510022200",
+        "date": "20251003",
+        "url": "https://www.bing.com/th?id=OHR.SkyeHeather_IT-IT9085939814_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SkyeHeather_IT-IT9085939814",
+        "copyright": "Erica a Glen Brittle, Isola di Skye, Scozia (© Adam Mowery/TANDEM Stills + Motion)",
+        "copyrightKeyword": "Skye",
+        "hsh": "eaf7ab35053c48facd2e8894609e738d"
+    },
+    {
         "fullstartdate": "202510012200",
         "date": "20251002",
         "url": "https://www.bing.com/th?id=OHR.ToscanaAutunno_IT-IT9368718519_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Scoiattolo minore, Foresta Nazionale di Kootenai, Montana, USA (© Donald M. Jones/Minden Pictures)",
         "copyrightKeyword": "Tamias minimus",
         "hsh": "be32619e49dde86b74e151075d7c75fc"
-    },
-    {
-        "fullstartdate": "202509242200",
-        "date": "20250925",
-        "url": "https://www.bing.com/th?id=OHR.FortChittorgarh_IT-IT3892899630_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FortChittorgarh_IT-IT3892899630",
-        "copyright": "Forte di Chittor, Rajasthan, India (© chetansoni/Shutterstock)",
-        "copyrightKeyword": "Forte di Chittor Rajasthan India",
-        "hsh": "5d6e497f47c8befc42830fa44077eecd"
     }
 ]

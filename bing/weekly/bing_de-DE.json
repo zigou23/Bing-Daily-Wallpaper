@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510022200",
+        "date": "20251003",
+        "url": "https://www.bing.com/th?id=OHR.BrandenburgGate_DE-DE4138430516_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BrandenburgGate_DE-DE4138430516",
+        "copyright": "Brandenburger Tor bei Sonnenuntergang, Berlin (© Craig Hastings/Getty Images)",
+        "copyrightKeyword": "Tag der Deutschen Einheit",
+        "hsh": "806b45873e930bc04a70be1caca1d98c"
+    },
+    {
         "fullstartdate": "202510012200",
         "date": "20251002",
         "url": "https://www.bing.com/th?id=OHR.OxbowBend_DE-DE1318690148_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Kleines Streifenhörnchen, Kootenai National Forest, Montana, USA (© Donald M. Jones/Minden Pictures)",
         "copyrightKeyword": "Kleines Streifenhörnchen",
         "hsh": "f588fb7edc0486b00cd8744bb8077b2e"
-    },
-    {
-        "fullstartdate": "202509242200",
-        "date": "20250925",
-        "url": "https://www.bing.com/th?id=OHR.FortChittorgarh_DE-DE3932715293_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FortChittorgarh_DE-DE3932715293",
-        "copyright": "Chittorgarh Fort, Rajasthan, Indien (© chetansoni/Shutterstock)",
-        "copyrightKeyword": "Chittorgarh Fort Indien",
-        "hsh": "b92037d1387bdb2113868b5a2dcf9cc2"
     }
 ]

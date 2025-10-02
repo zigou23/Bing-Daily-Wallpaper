@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510020400",
+        "date": "20251003",
+        "url": "https://www.bing.com/th?id=OHR.OxbowBend_EN-CA0110307953_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.OxbowBend_EN-CA0110307953",
+        "copyright": "Oxbow Bend on the Snake River, Grand Teton National Park, Wyoming, United States (© DanitaDelimont.com/AWL Images/SuperStock)",
+        "copyrightKeyword": "Snake River",
+        "hsh": "5bdebd2f8f8e3c004ebe094045efe557"
+    },
+    {
         "fullstartdate": "202510010400",
         "date": "20251002",
         "url": "https://www.bing.com/th?id=OHR.YosemiteClark_EN-CA9187443856_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Chittorgarh Fort, Rajasthan, India (© chetansoni/Shutterstock)",
         "copyrightKeyword": "Chittorgarh Fort India",
         "hsh": "895831f9006d60e65305980fef1b6e7d"
-    },
-    {
-        "fullstartdate": "202509240400",
-        "date": "20250925",
-        "url": "https://www.bing.com/th?id=OHR.BearLodge_EN-CA5941138960_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BearLodge_EN-CA5941138960",
-        "copyright": "Devils Tower National Monument, Wyoming, United States (© Laura Hedien/Getty Images)",
-        "copyrightKeyword": "Devils Tower National Monument",
-        "hsh": "d9edc4f93f09b860c683e86a3028d244"
     }
 ]
