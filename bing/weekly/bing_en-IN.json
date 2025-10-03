@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510031830",
+        "date": "20251004",
+        "url": "https://www.bing.com/th?id=OHR.DragonEndeavour_EN-IN9334573576_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.DragonEndeavour_EN-IN9334573576",
+        "copyright": "ISS main solar arrays seen from SpaceX Crew Dragon Endeavour (© NASA)",
+        "copyrightKeyword": "World Space Week",
+        "hsh": "4d02231790e773aee3631f801d377dab"
+    },
+    {
         "fullstartdate": "202510021830",
         "date": "20251003",
         "url": "https://www.bing.com/th?id=OHR.SkyeHeather_EN-IN2826518684_1920x1080.jpg",
@@ -15,7 +24,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.StatueGandhi_EN-IN4485364887",
         "copyright": "Mahatma Gandhi statue at Malpe Beach, Udupi, Karnataka (© Rainer Krack/Alamy)",
         "copyrightKeyword": "Gandhi Jayanti",
-        "hsh": "a1dc3e07892aa10ea286f4fe34150ea1"
+        "hsh": "279da44e066728a82bcbd8760c47b306"
     },
     {
         "fullstartdate": "202509301830",
@@ -24,7 +33,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.GoddessDurga2025_EN-IN4254679403",
         "copyright": "Goddess Durga idol at a puja pandal in Kolkata, West Bengal (© Arnav Pratap Singh/Getty Images)",
         "copyrightKeyword": "Maha Navami",
-        "hsh": "4757b76ff3167ef0896525533f8a8ca9"
+        "hsh": "2b6438bd2d68490507d4b8e177d133b4"
     },
     {
         "fullstartdate": "202509291830",
@@ -33,7 +42,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.EucalyptusKoala_EN-IN3734256942",
         "copyright": "Koala in a eucalyptus tree, Great Otway National Park, Australia (© Jamie Lamb - elusive-images.co.uk/Getty Images)",
         "copyrightKeyword": "koala",
-        "hsh": "e302bdba8e659ae48ecac0a631877b57"
+        "hsh": "e1bf7e8bae476af3f8fe0fe9717aafdf"
     },
     {
         "fullstartdate": "202509281830",
@@ -61,14 +70,5 @@
         "copyright": "Tank Lakes, Alpine Lakes Wilderness, Washington, United States (© Austin Trigg/TANDEM Stills + Motion)",
         "copyrightKeyword": "Alpine Lakes Wilderness United States",
         "hsh": "ff20395fc8cf92768d927da7d30d5b53"
-    },
-    {
-        "fullstartdate": "202509251830",
-        "date": "20250926",
-        "url": "https://www.bing.com/th?id=OHR.AutumnChipmunk_EN-IN2843120599_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AutumnChipmunk_EN-IN2843120599",
-        "copyright": "Least chipmunk, Kootenai National Forest, Montana, United States (© Donald M. Jones/Minden Pictures)",
-        "copyrightKeyword": "Least chipmunk",
-        "hsh": "f32703db78fec433096b524afe3cf773"
     }
 ]

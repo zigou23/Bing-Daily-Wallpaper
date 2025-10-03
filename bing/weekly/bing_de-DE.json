@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510032200",
+        "date": "20251004",
+        "url": "https://www.bing.com/th?id=OHR.DragonEndeavour_DE-DE7375931305_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.DragonEndeavour_DE-DE7375931305",
+        "copyright": "Die Hauptsolaranlagen der ISS, gesehen von der SpaceX Crew Dragon Endeavour (© NASA)  (© NASA)",
+        "copyrightKeyword": "Internationale Weltraumwoche",
+        "hsh": "8b0f40693cba842b1618c6643518fb4d"
+    },
+    {
         "fullstartdate": "202510022200",
         "date": "20251003",
         "url": "https://www.bing.com/th?id=OHR.BrandenburgGate_DE-DE4138430516_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Herbstliche Farben in Berlin (© Sergio Saavedra Ruiz/Getty Images)",
         "copyrightKeyword": "Berlin",
         "hsh": "3cf9b35028758c4167a1f60230b6caec"
-    },
-    {
-        "fullstartdate": "202509252200",
-        "date": "20250926",
-        "url": "https://www.bing.com/th?id=OHR.AutumnChipmunk_DE-DE0842640974_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AutumnChipmunk_DE-DE0842640974",
-        "copyright": "Kleines Streifenhörnchen, Kootenai National Forest, Montana, USA (© Donald M. Jones/Minden Pictures)",
-        "copyrightKeyword": "Kleines Streifenhörnchen",
-        "hsh": "f588fb7edc0486b00cd8744bb8077b2e"
     }
 ]

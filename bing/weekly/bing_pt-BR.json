@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510030300",
+        "date": "20251004",
+        "url": "https://www.bing.com/th?id=OHR.SkyeHeather_PT-BR7113823627_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SkyeHeather_PT-BR7113823627",
+        "copyright": "Urze crescendo em Glen Brittle, Ilha de Skye, Escócia (© Adam Mowery/TANDEM Stills + Motion)",
+        "copyrightKeyword": "Ilha de Skye",
+        "hsh": "388872d2de59e306d96a49f2874d4d89"
+    },
+    {
         "fullstartdate": "202510020300",
         "date": "20251003",
         "url": "https://www.bing.com/th?id=OHR.OxbowBend_PT-BR2338383870_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Tâmia-pequena na Floresta Nacional de Kootenai, Montana, EUA (© Donald M. Jones/Minden Pictures)",
         "copyrightKeyword": "tâmia pequena",
         "hsh": "9e8071322763d725ca71e11e2fa1db0f"
-    },
-    {
-        "fullstartdate": "202509250300",
-        "date": "20250926",
-        "url": "https://www.bing.com/th?id=OHR.FortChittorgarh_PT-BR4240075767_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FortChittorgarh_PT-BR4240075767",
-        "copyright": "Forte de Chittorgarh, Rajastão, Índia (© chetansoni/Shutterstock)",
-        "copyrightKeyword": "Rajastão Índia",
-        "hsh": "8c8d6fa212ec252dc44d4ea65a3f5973"
     }
 ]

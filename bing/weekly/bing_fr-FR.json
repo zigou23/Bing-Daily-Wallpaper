@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510032200",
+        "date": "20251004",
+        "url": "https://www.bing.com/th?id=OHR.CamagueHorses_FR-FR8949135937_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.CamagueHorses_FR-FR8949135937",
+        "copyright": "Chevaux de Camargue, Aigues-Mortes, Occitanie (© Francesco Riccardo Lacomino/Getty Images)",
+        "copyrightKeyword": "Journée des animaux",
+        "hsh": "c05e7caff090063f9c9a56f35e21f84a"
+    },
+    {
         "fullstartdate": "202510022200",
         "date": "20251003",
         "url": "https://www.bing.com/th?id=OHR.SkyeHeather_FR-FR0643714401_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Lacs Tank, Alpine Lakes Wilderness, chaîne des Cascades, Washington, États-Unis (© Austin Trigg/TANDEM Stills + Motion)",
         "copyrightKeyword": "Chaîne des Cascades",
         "hsh": "7f806b4494523ce4b4e2318d1bcaf953"
-    },
-    {
-        "fullstartdate": "202509252200",
-        "date": "20250926",
-        "url": "https://www.bing.com/th?id=OHR.AutumnChipmunk_FR-FR1635534631_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AutumnChipmunk_FR-FR1635534631",
-        "copyright": "Tamia mineur, forêt nationale de Kootenai, Montana, États-Unis (© Donald M. Jones/Minden Pictures)",
-        "copyrightKeyword": "Tamia mineur",
-        "hsh": "7309fb6f1e2fe4de121e82c09f0d853a"
     }
 ]

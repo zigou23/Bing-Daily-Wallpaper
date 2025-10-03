@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510030700",
+        "date": "20251004",
+        "url": "https://www.bing.com/th?id=OHR.SkyeHeather_EN-US9221942108_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SkyeHeather_EN-US9221942108",
+        "copyright": "Heather growing in Glen Brittle, Isle of Skye, Scotland (© Adam Mowery/TANDEM Stills + Motion)",
+        "copyrightKeyword": "Glen Brittle in Skye",
+        "hsh": "017ba25c990b7e1fa805c4642c93b4e3"
+    },
+    {
         "fullstartdate": "202510020700",
         "date": "20251003",
         "url": "https://www.bing.com/th?id=OHR.OxbowBend_EN-US8471628790_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Least chipmunk, Kootenai National Forest, Montana (© Donald M. Jones/Minden Pictures)",
         "copyrightKeyword": "Least chipmunk",
         "hsh": "d366751c7597c43eef9fa69d4e6639ac"
-    },
-    {
-        "fullstartdate": "202509250700",
-        "date": "20250926",
-        "url": "https://www.bing.com/th?id=OHR.FortChittorgarh_EN-US9184486139_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FortChittorgarh_EN-US9184486139",
-        "copyright": "Chittorgarh Fort, Rajasthan, India (© chetansoni/Shutterstock)",
-        "copyrightKeyword": "Chittorgarh Fort",
-        "hsh": "4595c8d1e2017ad912c91f0ac46a9551"
     }
 ]
