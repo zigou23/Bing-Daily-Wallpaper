@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510042300",
+        "date": "20251005",
+        "url": "https://www.bing.com/th?id=OHR.TeacherOwl_EN-GB4585864931_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TeacherOwl_EN-GB4585864931",
+        "copyright": "Boreal owl in a forest in Central Europe (© Ondrej Prosicky/Alamy)",
+        "copyrightKeyword": "World Teachers Day",
+        "hsh": "e12749fb141c705b963de4576149e3d1"
+    },
+    {
         "fullstartdate": "202510032300",
         "date": "20251004",
         "url": "https://www.bing.com/th?id=OHR.DragonEndeavour_EN-GB3820575849_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Town of Pienza in Tuscany, Italy (© zpagistock/Getty Images)",
         "copyrightKeyword": "Pienza",
         "hsh": "ce96ce5723facb34647a1e0569d6734a"
-    },
-    {
-        "fullstartdate": "202509262300",
-        "date": "20250927",
-        "url": "https://www.bing.com/th?id=OHR.YosemiteClark_EN-GB9745293465_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.YosemiteClark_EN-GB9745293465",
-        "copyright": "Clark Range, Sierra Nevada, Yosemite National Park, California, United States (© Robb Hirsch/TANDEM Stills + Motion)",
-        "copyrightKeyword": "National Park Yosemite",
-        "hsh": "7798dcfc8074df8563f462573dab88e3"
     }
 ]

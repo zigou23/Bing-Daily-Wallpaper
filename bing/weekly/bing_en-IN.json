@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510041830",
+        "date": "20251005",
+        "url": "https://www.bing.com/th?id=OHR.JahangirMahal_EN-IN7628563681_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.JahangirMahal_EN-IN7628563681",
+        "copyright": "Jahangir Mahal, Orchha, Madhya Pradesh (© Alf/Getty Images)",
+        "copyrightKeyword": "Jahangir Mahal Orchha",
+        "hsh": "632c3a1b8acf02b79893becc55d6087e"
+    },
+    {
         "fullstartdate": "202510031830",
         "date": "20251004",
         "url": "https://www.bing.com/th?id=OHR.DragonEndeavour_EN-IN9334573576_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Town of Pienza in Tuscany, Italy (© zpagistock/Getty Images)",
         "copyrightKeyword": "Pienza",
         "hsh": "eb6db1840094237ff0110223e1f15f03"
-    },
-    {
-        "fullstartdate": "202509261830",
-        "date": "20250927",
-        "url": "https://www.bing.com/th?id=OHR.TankLakes_EN-IN3018873170_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.TankLakes_EN-IN3018873170",
-        "copyright": "Tank Lakes, Alpine Lakes Wilderness, Washington, United States (© Austin Trigg/TANDEM Stills + Motion)",
-        "copyrightKeyword": "Alpine Lakes Wilderness United States",
-        "hsh": "ff20395fc8cf92768d927da7d30d5b53"
     }
 ]

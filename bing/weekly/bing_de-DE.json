@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510042200",
+        "date": "20251005",
+        "url": "https://www.bing.com/th?id=OHR.TeacherOwl_DE-DE2816959094_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TeacherOwl_DE-DE2816959094",
+        "copyright": "Raufußkauz in einem Wald in Mitteleuropa (© Ondrej Prosicky/Alamy)",
+        "copyrightKeyword": "Tag des Lehrers",
+        "hsh": "2a1e25e2fb52e15158cb5015bebe1ac3"
+    },
+    {
         "fullstartdate": "202510032200",
         "date": "20251004",
         "url": "https://www.bing.com/th?id=OHR.DragonEndeavour_DE-DE7375931305_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Die Stadt Pienza in der Toskana, Italien (© zpagistock/Getty Images)",
         "copyrightKeyword": "Pienza",
         "hsh": "18e64e14852d0dff65611a39bed91477"
-    },
-    {
-        "fullstartdate": "202509262200",
-        "date": "20250927",
-        "url": "https://www.bing.com/th?id=OHR.BerlinAutumn_DE-DE0881465418_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BerlinAutumn_DE-DE0881465418",
-        "copyright": "Herbstliche Farben in Berlin (© Sergio Saavedra Ruiz/Getty Images)",
-        "copyrightKeyword": "Berlin",
-        "hsh": "3cf9b35028758c4167a1f60230b6caec"
     }
 ]
