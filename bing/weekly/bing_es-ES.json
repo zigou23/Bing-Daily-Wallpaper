@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510052200",
+        "date": "20251006",
+        "url": "https://www.bing.com/th?id=OHR.AnshunBridge_ES-ES0720553853_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AnshunBridge_ES-ES0720553853",
+        "copyright": "Puente Anshun iluminado para el Fiesta del Medio Otoño, Chengdu, China (© Philippe LEJEANVRE/Getty Images)",
+        "copyrightKeyword": "Fiesta del Medio Otoño",
+        "hsh": "0a4734241a682330b8c3777db49ee1bd"
+    },
+    {
         "fullstartdate": "202510042200",
         "date": "20251005",
         "url": "https://www.bing.com/th?id=OHR.ElPilarZaragoza_ES-ES2251401044_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Casas arcoíris en la ciudad de Houten, Países Bajos (© George Pachantouris/Getty Images)",
         "copyrightKeyword": "Houten Países Bajos",
         "hsh": "e66508c175a2ea3d928aa209fe8e3c0b"
-    },
-    {
-        "fullstartdate": "202509272200",
-        "date": "20250928",
-        "url": "https://www.bing.com/th?id=OHR.PienzaItaly_ES-ES1965715400_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PienzaItaly_ES-ES1965715400",
-        "copyright": "Pienza en Siena, Toscana, Italia (© zpagistock/Getty Images)",
-        "copyrightKeyword": "Pienza en Siena",
-        "hsh": "47013fc432c9ac9f6da668795633b41d"
     }
 ]

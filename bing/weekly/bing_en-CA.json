@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510050400",
+        "date": "20251006",
+        "url": "https://www.bing.com/th?id=OHR.TeacherOwl_EN-CA7173344502_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TeacherOwl_EN-CA7173344502",
+        "copyright": "Boreal owl in a forest in Central Europe (© Ondrej Prosicky/Alamy)",
+        "copyrightKeyword": "World Teachers Day",
+        "hsh": "d40b1ee2b7121642fbb61bf4c95e55b2"
+    },
+    {
         "fullstartdate": "202510040400",
         "date": "20251005",
         "url": "https://www.bing.com/th?id=OHR.InsideOutNB_EN-CA6818912564_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Town of Pienza in Tuscany, Italy (© zpagistock/Getty Images)",
         "copyrightKeyword": "Pienza",
         "hsh": "dbe186b1b840c02f9df7d1e86ab1f622"
-    },
-    {
-        "fullstartdate": "202509270400",
-        "date": "20250928",
-        "url": "https://www.bing.com/th?id=OHR.RedMapleleaf_EN-CA8222399050_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.RedMapleleaf_EN-CA8222399050",
-        "copyright": "Red maple in fall, Canada (© LiuSol/Getty Images)",
-        "copyrightKeyword": "Acer rubrum",
-        "hsh": "7fb53b26cc89f2259097486f925eb990"
     }
 ]

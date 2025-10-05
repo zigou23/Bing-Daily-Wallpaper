@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510051500",
+        "date": "20251006",
+        "url": "https://www.bing.com/th?id=OHR.AnshunBridge_JA-JP7739273331_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AnshunBridge_JA-JP7739273331",
+        "copyright": "錦江に映える安順橋と満月, 中国 (© Philippe LEJEANVRE/Getty Images)",
+        "copyrightKeyword": "安順橋",
+        "hsh": "6831830d4852b47247b2a03b98f72629"
+    },
+    {
         "fullstartdate": "202510041500",
         "date": "20251005",
         "url": "https://www.bing.com/th?id=OHR.TeacherOwl_JA-JP7686022274_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "豪徳寺の招き猫, 東京都 (© Maria S./Alamy Stock Photo)",
         "copyrightKeyword": "豪徳寺の招き猫",
         "hsh": "0df9459ab2f142132e33b0fa3cec041f"
-    },
-    {
-        "fullstartdate": "202509271500",
-        "date": "20250928",
-        "url": "https://www.bing.com/th?id=OHR.PienzaItaly_JA-JP1964382138_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PienzaItaly_JA-JP1964382138",
-        "copyright": "ピエンツァ, イタリア (© zpagistock/Getty Images)",
-        "copyrightKeyword": "ピエンツァ",
-        "hsh": "66a31815366d3a5383145e06936e32d0"
     }
 ]

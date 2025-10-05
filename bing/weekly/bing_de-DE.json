@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510052200",
+        "date": "20251006",
+        "url": "https://www.bing.com/th?id=OHR.AnshunBridge_DE-DE2900249010_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AnshunBridge_DE-DE2900249010",
+        "copyright": "Anshun-Brücke, beleuchtet zum Mondfest, Chengdu, China (© Philippe LEJEANVRE/Getty Images)",
+        "copyrightKeyword": "Mondfest",
+        "hsh": "940be477cd2c0047f3f2fdb69bb37331"
+    },
+    {
         "fullstartdate": "202510042200",
         "date": "20251005",
         "url": "https://www.bing.com/th?id=OHR.TeacherOwl_DE-DE2816959094_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Regenbogenhäuser in der Stadt Houten, Niederlande (© George Pachantouris/Getty Images)",
         "copyrightKeyword": "Houten Niederlande",
         "hsh": "2b8d0bc3327725c56401c352e57aa72c"
-    },
-    {
-        "fullstartdate": "202509272200",
-        "date": "20250928",
-        "url": "https://www.bing.com/th?id=OHR.PienzaItaly_DE-DE0925604328_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PienzaItaly_DE-DE0925604328",
-        "copyright": "Die Stadt Pienza in der Toskana, Italien (© zpagistock/Getty Images)",
-        "copyrightKeyword": "Pienza",
-        "hsh": "18e64e14852d0dff65611a39bed91477"
     }
 ]

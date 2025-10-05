@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510052300",
+        "date": "20251006",
+        "url": "https://www.bing.com/th?id=OHR.AnshunBridge_EN-GB4728597345_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AnshunBridge_EN-GB4728597345",
+        "copyright": "Anshun Bridge illuminated for the Mid-Autumn Festival, Chengdu, China (© Philippe LEJEANVRE/Getty Images)",
+        "copyrightKeyword": "mid autumn festival",
+        "hsh": "f0efabbbf485f8fac8844aaf207713f9"
+    },
+    {
         "fullstartdate": "202510042300",
         "date": "20251005",
         "url": "https://www.bing.com/th?id=OHR.TeacherOwl_EN-GB4585864931_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Rainbow houses in the town of Houten, Netherlands (© George Pachantouris/Getty Images)",
         "copyrightKeyword": "Houten Netherlands",
         "hsh": "d83ca969e0b13e6604db27fa0aaba4c9"
-    },
-    {
-        "fullstartdate": "202509272300",
-        "date": "20250928",
-        "url": "https://www.bing.com/th?id=OHR.PienzaItaly_EN-GB9891059804_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PienzaItaly_EN-GB9891059804",
-        "copyright": "Town of Pienza in Tuscany, Italy (© zpagistock/Getty Images)",
-        "copyrightKeyword": "Pienza",
-        "hsh": "ce96ce5723facb34647a1e0569d6734a"
     }
 ]
