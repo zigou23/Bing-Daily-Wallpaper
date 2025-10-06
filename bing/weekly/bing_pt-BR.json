@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510060300",
+        "date": "20251007",
+        "url": "https://www.bing.com/th?id=OHR.AnshunBridge_PT-BR6404226352_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AnshunBridge_PT-BR6404226352",
+        "copyright": "Anshun Bridge iluminada para o Festival da Lua em Chengdu, China (© Philippe LEJEANVRE/Getty Images)",
+        "copyrightKeyword": "Festival da Lua",
+        "hsh": "4be812f7e01bfdc50043d2f89cba3aab"
+    },
+    {
         "fullstartdate": "202510050300",
         "date": "20251006",
         "url": "https://www.bing.com/th?id=OHR.TeacherOwl_PT-BR6486384324_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Casas Arco-Íris na cidade de Houten, Países Baixos (© George Pachantouris/Getty Images)",
         "copyrightKeyword": "houten países baixos",
         "hsh": "d008bfcbb03c9ca2f03beca58503e1df"
-    },
-    {
-        "fullstartdate": "202509280300",
-        "date": "20250929",
-        "url": "https://www.bing.com/th?id=OHR.PienzaItaly_PT-BR0767999929_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PienzaItaly_PT-BR0767999929",
-        "copyright": "Cidade de Pienza, na Toscana, Itália (© zpagistock/Getty Images)",
-        "copyrightKeyword": "Pienza na Toscana",
-        "hsh": "8ef73d57b895672f4875f926ed12a75e"
     }
 ]

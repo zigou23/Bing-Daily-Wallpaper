@@ -1,12 +1,21 @@
 [
     {
+        "fullstartdate": "202510062200",
+        "date": "20251007",
+        "url": "https://www.bing.com/th?id=OHR.RidgwayAspens_DE-DE7371815159_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.RidgwayAspens_DE-DE7371815159",
+        "copyright": "Herbstfarben unterhalb des Mount Sneffels nahe Ridgway, Colorado, USA (© Grant Ordelheide/TANDEM Stills + Motion)",
+        "copyrightKeyword": "Mount Sneffels",
+        "hsh": "d242b0a3ef9d32e0e5de5f807428873b"
+    },
+    {
         "fullstartdate": "202510052200",
         "date": "20251006",
         "url": "https://www.bing.com/th?id=OHR.AnshunBridge_DE-DE2900249010_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.AnshunBridge_DE-DE2900249010",
         "copyright": "Anshun-Brücke, beleuchtet zum Mondfest, Chengdu, China (© Philippe LEJEANVRE/Getty Images)",
         "copyrightKeyword": "Mondfest",
-        "hsh": "940be477cd2c0047f3f2fdb69bb37331"
+        "hsh": "81ebc8d868fa93b29550fbb0defd7a11"
     },
     {
         "fullstartdate": "202510042200",
@@ -15,7 +24,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.TeacherOwl_DE-DE2816959094",
         "copyright": "Raufußkauz in einem Wald in Mitteleuropa (© Ondrej Prosicky/Alamy)",
         "copyrightKeyword": "Tag des Lehrers",
-        "hsh": "2a1e25e2fb52e15158cb5015bebe1ac3"
+        "hsh": "6a65e35ce0471d6689a4f4e535c19be9"
     },
     {
         "fullstartdate": "202510032200",
@@ -24,7 +33,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DragonEndeavour_DE-DE7375931305",
         "copyright": "Die Hauptsolaranlagen der ISS, gesehen von der SpaceX Crew Dragon Endeavour (© NASA)  (© NASA)",
         "copyrightKeyword": "Internationale Weltraumwoche",
-        "hsh": "8b0f40693cba842b1618c6643518fb4d"
+        "hsh": "40267de48462d066259d9d60d6b1ea1f"
     },
     {
         "fullstartdate": "202510022200",
@@ -61,14 +70,5 @@
         "copyright": "Koala in einem Eukalyptusbaum, Great-Otway-Nationalpark, Australien (© Jamie Lamb - elusive-images.co.uk/Getty Images)",
         "copyrightKeyword": "Koala Tier",
         "hsh": "a466c2d8d8e2027d8d49c97e46380786"
-    },
-    {
-        "fullstartdate": "202509282200",
-        "date": "20250929",
-        "url": "https://www.bing.com/th?id=OHR.HoutenHouses_DE-DE0958725859_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.HoutenHouses_DE-DE0958725859",
-        "copyright": "Regenbogenhäuser in der Stadt Houten, Niederlande (© George Pachantouris/Getty Images)",
-        "copyrightKeyword": "Houten Niederlande",
-        "hsh": "2b8d0bc3327725c56401c352e57aa72c"
     }
 ]

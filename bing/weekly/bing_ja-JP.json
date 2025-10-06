@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510061500",
+        "date": "20251007",
+        "url": "https://www.bing.com/th?id=OHR.RidgwayAspens_JA-JP7797192109_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.RidgwayAspens_JA-JP7797192109",
+        "copyright": "スネフェルス山, 米国 コロラド州 (© Grant Ordelheide/TANDEM Stills + Motion)",
+        "copyrightKeyword": "スネフェルス山 コロラド州",
+        "hsh": "17f6c9fc23c2a3ad553e4e2eb708830f"
+    },
+    {
         "fullstartdate": "202510051500",
         "date": "20251006",
         "url": "https://www.bing.com/th?id=OHR.AnshunBridge_JA-JP7739273331_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "コアラ, オーストラリア (© Jamie Lamb - elusive-images.co.uk/Getty Images)",
         "copyrightKeyword": "コアラ",
         "hsh": "5a53d8df007e0882db60ab3df039137d"
-    },
-    {
-        "fullstartdate": "202509281500",
-        "date": "20250929",
-        "url": "https://www.bing.com/th?id=OHR.ManekiNeko_JA-JP6063646197_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ManekiNeko_JA-JP6063646197",
-        "copyright": "豪徳寺の招き猫, 東京都 (© Maria S./Alamy Stock Photo)",
-        "copyrightKeyword": "豪徳寺の招き猫",
-        "hsh": "0df9459ab2f142132e33b0fa3cec041f"
     }
 ]

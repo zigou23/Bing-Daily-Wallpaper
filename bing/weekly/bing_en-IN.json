@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510061830",
+        "date": "20251007",
+        "url": "https://www.bing.com/th?id=OHR.RidgwayAspens_EN-IN9829823825_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.RidgwayAspens_EN-IN9829823825",
+        "copyright": "Fall colours below Mount Sneffels near Ridgway, Colorado, United States (© Grant Ordelheide/TANDEM Stills + Motion)",
+        "copyrightKeyword": "Mount Sneffels",
+        "hsh": "479ff38ccfc095e8a04975557b7d398c"
+    },
+    {
         "fullstartdate": "202510051830",
         "date": "20251006",
         "url": "https://www.bing.com/th?id=OHR.AnshunBridge_EN-IN9593478408_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Koala in a eucalyptus tree, Great Otway National Park, Australia (© Jamie Lamb - elusive-images.co.uk/Getty Images)",
         "copyrightKeyword": "koala",
         "hsh": "e1bf7e8bae476af3f8fe0fe9717aafdf"
-    },
-    {
-        "fullstartdate": "202509281830",
-        "date": "20250929",
-        "url": "https://www.bing.com/th?id=OHR.HoutenHouses_EN-IN3573740286_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.HoutenHouses_EN-IN3573740286",
-        "copyright": "Rainbow houses in the town of Houten, Netherlands (© George Pachantouris/Getty Images)",
-        "copyrightKeyword": "Houten Netherlands",
-        "hsh": "692c9e4f40e6acb586ac7479e268f483"
     }
 ]
