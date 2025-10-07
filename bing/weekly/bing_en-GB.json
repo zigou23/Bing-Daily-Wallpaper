@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510072300",
+        "date": "20251008",
+        "url": "https://www.bing.com/th?id=OHR.OctopusCyanea_EN-GB5018105251_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.OctopusCyanea_EN-GB5018105251",
+        "copyright": "Day octopus, Maui, Hawaii, United States (© Dave Fleetham/plainpicture)",
+        "copyrightKeyword": "world octopus day",
+        "hsh": "f5f3715031141a23051ced2ebb91cbd1"
+    },
+    {
         "fullstartdate": "202510062300",
         "date": "20251007",
         "url": "https://www.bing.com/th?id=OHR.RidgwayAspens_EN-GB4884464302_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Silhouette of former South African President Nelson Mandela, 26 Leake Street, London, 2019 (© Leon Neal/Getty Images)",
         "copyrightKeyword": "Black History Month UK",
         "hsh": "a975a319aeec9176908caff2d0296aff"
-    },
-    {
-        "fullstartdate": "202509292300",
-        "date": "20250930",
-        "url": "https://www.bing.com/th?id=OHR.EucalyptusKoala_EN-GB0256529335_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.EucalyptusKoala_EN-GB0256529335",
-        "copyright": "Koala in a eucalyptus tree, Great Otway National Park, Australia (© Jamie Lamb - elusive-images.co.uk/Getty Images)",
-        "copyrightKeyword": "koala",
-        "hsh": "7481150aed8b4ab28010b004b35e9ed3"
     }
 ]

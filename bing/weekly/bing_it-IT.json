@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510072200",
+        "date": "20251008",
+        "url": "https://www.bing.com/th?id=OHR.OctopusCyanea_IT-IT0571963002_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.OctopusCyanea_IT-IT0571963002",
+        "copyright": "Polpo, Maui, Hawaii, USA (© Dave Fleetham/plainpicture)",
+        "copyrightKeyword": "Polpo",
+        "hsh": "40e1e5db1bd19fb03e7c52fda1729167"
+    },
+    {
         "fullstartdate": "202510062200",
         "date": "20251007",
         "url": "https://www.bing.com/th?id=OHR.RidgwayAspens_IT-IT7479755416_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Catena montuosa Clark, Sierra Nevada, Parco Nazionale di Yosemite, California, USA (© Robb Hirsch/TANDEM Stills + Motion)",
         "copyrightKeyword": "Parco Nazionale di Yosemite",
         "hsh": "29f45674afa1d6d20b2f5a4c369f896c"
-    },
-    {
-        "fullstartdate": "202509292200",
-        "date": "20250930",
-        "url": "https://www.bing.com/th?id=OHR.EucalyptusKoala_IT-IT9137756909_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.EucalyptusKoala_IT-IT9137756909",
-        "copyright": "Koala su un albero di eucalipto, Great Otway National Park, Australia (© Jamie Lamb - elusive-images.co.uk/Getty Images)",
-        "copyrightKeyword": "koala",
-        "hsh": "f6dccde3bdffb82965e1ac39c060454a"
     }
 ]
