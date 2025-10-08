@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510080700",
+        "date": "20251009",
+        "url": "https://www.bing.com/th?id=OHR.OctopusCyanea_EN-US0194861123_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.OctopusCyanea_EN-US0194861123",
+        "copyright": "Day octopus in the waters off Maui, Hawaii (© Dave Fleetham/plainpicture)",
+        "copyrightKeyword": "world octopus day",
+        "hsh": "f6128b4d47d8ccd0d7a06fcdbe0fda96"
+    },
+    {
         "fullstartdate": "202510070700",
         "date": "20251008",
         "url": "https://www.bing.com/th?id=OHR.RidgwayAspens_EN-US0136548884_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Clark Range, Sierra Nevada, Yosemite National Park, California (© Robb Hirsch/TANDEM Stills + Motion)",
         "copyrightKeyword": "Yosemite National Park",
         "hsh": "dd877929fe694df326c0ce08cd330a7e"
-    },
-    {
-        "fullstartdate": "202509300700",
-        "date": "20251001",
-        "url": "https://www.bing.com/th?id=OHR.EucalyptusKoala_EN-US8743417111_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.EucalyptusKoala_EN-US8743417111",
-        "copyright": "Koala in a eucalyptus tree, Great Otway National Park, Australia (© Jamie Lamb - elusive-images.co.uk/Getty Images)",
-        "copyrightKeyword": "koala",
-        "hsh": "890a0019039ea73659213d0412f6f6a4"
     }
 ]

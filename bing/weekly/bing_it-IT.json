@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510082200",
+        "date": "20251009",
+        "url": "https://www.bing.com/th?id=OHR.WebbPillars_IT-IT0673029544_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WebbPillars_IT-IT0673029544",
+        "copyright": "I Pilastri della Creazione visti dal telescopio spaziale James Webb (© NASA)",
+        "copyrightKeyword": "Pilastri della Creazione",
+        "hsh": "d53abd3d3f8d640824fcec6155a748e4"
+    },
+    {
         "fullstartdate": "202510072200",
         "date": "20251008",
         "url": "https://www.bing.com/th?id=OHR.OctopusCyanea_IT-IT0571963002_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Bolgheri, frazione di Castagneto Carducci, Livorno, Maremma, Toscana (© ©StevanZZ/iStock)",
         "copyrightKeyword": "Bolgheri frazione",
         "hsh": "e54e7f3a14d81065b1aefbee9cd40f81"
-    },
-    {
-        "fullstartdate": "202509302200",
-        "date": "20251001",
-        "url": "https://www.bing.com/th?id=OHR.YosemiteClark_IT-IT9290949114_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.YosemiteClark_IT-IT9290949114",
-        "copyright": "Catena montuosa Clark, Sierra Nevada, Parco Nazionale di Yosemite, California, USA (© Robb Hirsch/TANDEM Stills + Motion)",
-        "copyrightKeyword": "Parco Nazionale di Yosemite",
-        "hsh": "29f45674afa1d6d20b2f5a4c369f896c"
     }
 ]

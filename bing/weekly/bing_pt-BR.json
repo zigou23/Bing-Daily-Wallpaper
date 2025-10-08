@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510080300",
+        "date": "20251009",
+        "url": "https://www.bing.com/th?id=OHR.OctopusCyanea_PT-BR6333276319_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.OctopusCyanea_PT-BR6333276319",
+        "copyright": "Polvo-do-dia, Maui, Havaí, EUA (© Dave Fleetham/plainpicture)",
+        "copyrightKeyword": "Dia Mundial do Polvo",
+        "hsh": "ec39f99a03e762ce187b06eb0d1f2781"
+    },
+    {
         "fullstartdate": "202510070300",
         "date": "20251008",
         "url": "https://www.bing.com/th?id=OHR.SaoMiguel_PT-BR6587333283_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Praia de Porto de Galinhas, Pernambuco (© Ildo Frazao/Getty Images)",
         "copyrightKeyword": "Porto de Galinhas",
         "hsh": "7c0b0f934c517177aff40421aa857c99"
-    },
-    {
-        "fullstartdate": "202509300300",
-        "date": "20251001",
-        "url": "https://www.bing.com/th?id=OHR.EucalyptusKoala_PT-BR2049021569_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.EucalyptusKoala_PT-BR2049021569",
-        "copyright": "Coala em uma árvore de eucalipto, Parque Nacional Great Otway, Austrália (© Jamie Lamb - elusive-images.co.uk/Getty Images)",
-        "copyrightKeyword": "Coala",
-        "hsh": "2bbcf5077b78432eff7eb2282e5d90d7"
     }
 ]

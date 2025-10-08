@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510081830",
+        "date": "20251009",
+        "url": "https://www.bing.com/th?id=OHR.WebbPillars_EN-IN0244722774_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WebbPillars_EN-IN0244722774",
+        "copyright": "The Pillars of Creation viewed by the James Webb Space Telescope (© NASA)",
+        "copyrightKeyword": "Pillars of Creation",
+        "hsh": "7ad722e01969d37ead5dbf5531391091"
+    },
+    {
         "fullstartdate": "202510071830",
         "date": "20251008",
         "url": "https://www.bing.com/th?id=OHR.OctopusCyanea_EN-IN9999645050_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Mahatma Gandhi statue at Malpe Beach, Udupi, Karnataka (© Rainer Krack/Alamy)",
         "copyrightKeyword": "Gandhi Jayanti",
         "hsh": "279da44e066728a82bcbd8760c47b306"
-    },
-    {
-        "fullstartdate": "202509301830",
-        "date": "20251001",
-        "url": "https://www.bing.com/th?id=OHR.GoddessDurga2025_EN-IN4254679403_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.GoddessDurga2025_EN-IN4254679403",
-        "copyright": "Goddess Durga idol at a puja pandal in Kolkata, West Bengal (© Arnav Pratap Singh/Getty Images)",
-        "copyrightKeyword": "Maha Navami",
-        "hsh": "2b6438bd2d68490507d4b8e177d133b4"
     }
 ]
