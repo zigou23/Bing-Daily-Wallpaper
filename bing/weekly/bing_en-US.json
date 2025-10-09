@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510090700",
+        "date": "20251010",
+        "url": "https://www.bing.com/th?id=OHR.WebbPillars_EN-US0251661895_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WebbPillars_EN-US0251661895",
+        "copyright": "The Pillars of Creation viewed by the James Webb Space Telescope (© NASA)",
+        "copyrightKeyword": "Pillars of Creation",
+        "hsh": "fc794f05445abf5c4e6a82c5b507913b"
+    },
+    {
         "fullstartdate": "202510080700",
         "date": "20251009",
         "url": "https://www.bing.com/th?id=OHR.OctopusCyanea_EN-US0194861123_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Oxbow Bend on the Snake River, Grand Teton National Park, Wyoming (© DanitaDelimont.com/AWL Images/SuperStock)",
         "copyrightKeyword": "National Wild and Scenic Rivers System",
         "hsh": "a2867703bf67a005730df0e76f67614d"
-    },
-    {
-        "fullstartdate": "202510010700",
-        "date": "20251002",
-        "url": "https://www.bing.com/th?id=OHR.YosemiteClark_EN-US8503376225_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.YosemiteClark_EN-US8503376225",
-        "copyright": "Clark Range, Sierra Nevada, Yosemite National Park, California (© Robb Hirsch/TANDEM Stills + Motion)",
-        "copyrightKeyword": "Yosemite National Park",
-        "hsh": "dd877929fe694df326c0ce08cd330a7e"
     }
 ]
