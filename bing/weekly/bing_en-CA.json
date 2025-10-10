@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510100400",
+        "date": "20251011",
+        "url": "https://www.bing.com/th?id=OHR.MonurikiFiji_EN-CA8167749404_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MonurikiFiji_EN-CA8167749404",
+        "copyright": "Coral reef surrounding the island of Monuriki, Mamanuca Islands, Fiji (© David Wall/SuperStock)",
+        "copyrightKeyword": "Fiji Day",
+        "hsh": "5ce922129c11a8bd40cc88705acd66c4"
+    },
+    {
         "fullstartdate": "202510090400",
         "date": "20251010",
         "url": "https://www.bing.com/th?id=OHR.WebbPillars_EN-CA8021988309_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Heather growing in Glen Brittle, Isle of Skye, Scotland (© Adam Mowery/TANDEM Stills + Motion)",
         "copyrightKeyword": "Glen Brittle in Skye",
         "hsh": "e6e0ab2c4b39aca50bef21b673ba5e78"
-    },
-    {
-        "fullstartdate": "202510020400",
-        "date": "20251003",
-        "url": "https://www.bing.com/th?id=OHR.OxbowBend_EN-CA0110307953_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.OxbowBend_EN-CA0110307953",
-        "copyright": "Oxbow Bend on the Snake River, Grand Teton National Park, Wyoming, United States (© DanitaDelimont.com/AWL Images/SuperStock)",
-        "copyrightKeyword": "Snake River",
-        "hsh": "5bdebd2f8f8e3c004ebe094045efe557"
     }
 ]

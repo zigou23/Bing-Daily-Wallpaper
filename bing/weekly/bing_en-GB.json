@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510102300",
+        "date": "20251011",
+        "url": "https://www.bing.com/th?id=OHR.WoodDuckHen_EN-GB5445479640_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WoodDuckHen_EN-GB5445479640",
+        "copyright": "Wood duck hen, United States (© ps50ace/iStock/Getty Images)",
+        "copyrightKeyword": "World Migratory Bird Day",
+        "hsh": "eb422546d8a9c54700a1028b19eac874"
+    },
+    {
         "fullstartdate": "202510092300",
         "date": "20251010",
         "url": "https://www.bing.com/th?id=OHR.MonurikiFiji_EN-GB5307318194_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "ISS main solar arrays seen from SpaceX Crew Dragon Endeavour (© NASA)",
         "copyrightKeyword": "World Space Week",
         "hsh": "a2f02d6e3c85ed3964b526aabfcf9c70"
-    },
-    {
-        "fullstartdate": "202510022300",
-        "date": "20251003",
-        "url": "https://www.bing.com/th?id=OHR.SkyeHeather_EN-GB3363939992_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SkyeHeather_EN-GB3363939992",
-        "copyright": "Heather growing in Glen Brittle, Isle of Skye, Scotland (© Adam Mowery/TANDEM Stills + Motion)",
-        "copyrightKeyword": "Glen Brittle in Skye",
-        "hsh": "607facd5d54d7477a9c377272ced664f"
     }
 ]

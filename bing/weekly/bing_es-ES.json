@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510102200",
+        "date": "20251011",
+        "url": "https://www.bing.com/th?id=OHR.WoodDuckHen_ES-ES1058654365_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WoodDuckHen_ES-ES1058654365",
+        "copyright": "El pato joyuyo, EE. UU. (© ps50ace/iStock/Getty Images)",
+        "copyrightKeyword": "Día Mundial de las Aves Migratorias",
+        "hsh": "36916a4cce694f5c91a313cfdf4b823d"
+    },
+    {
         "fullstartdate": "202510092200",
         "date": "20251010",
         "url": "https://www.bing.com/th?id=OHR.MonurikiFiji_ES-ES0990792283_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Paneles solares principales de la ISS vistos desde SpaceX Crew Dragon Endeavour (© NASA)",
         "copyrightKeyword": "Semana Mundial del Espacio",
         "hsh": "ec04e592a52655baf1e23370f251a5c5"
-    },
-    {
-        "fullstartdate": "202510022200",
-        "date": "20251003",
-        "url": "https://www.bing.com/th?id=OHR.SkyeHeather_ES-ES0179378651_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SkyeHeather_ES-ES0179378651",
-        "copyright": "Brezo creciendo en Glen Brittle, Isla de Skye, Escocia (© Adam Mowery/TANDEM Stills + Motion)",
-        "copyrightKeyword": "Glen Brittle en la Isla de Skye",
-        "hsh": "9d1a5af0a4f410c2f231b7e0828cab34"
     }
 ]
