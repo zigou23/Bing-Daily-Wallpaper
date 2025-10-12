@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510122200",
+        "date": "20251013",
+        "url": "https://www.bing.com/th?id=OHR.HinterseeWaterfall_DE-DE9807935907_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.HinterseeWaterfall_DE-DE9807935907",
+        "copyright": "Wasserfall in der Wimbachklamm, Bayern (© EyeEm Mobile GmbH/Getty Images)",
+        "copyrightKeyword": "Wimbachklamm Wanderung",
+        "hsh": "73e25e7890ac562e29a2d0f27132419a"
+    },
+    {
         "fullstartdate": "202510112200",
         "date": "20251012",
         "url": "https://www.bing.com/th?id=OHR.SaranacLake_DE-DE3608042378_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Anshun-Brücke, beleuchtet zum Mondfest, Chengdu, China (© Philippe LEJEANVRE/Getty Images)",
         "copyrightKeyword": "Mondfest",
         "hsh": "81ebc8d868fa93b29550fbb0defd7a11"
-    },
-    {
-        "fullstartdate": "202510042200",
-        "date": "20251005",
-        "url": "https://www.bing.com/th?id=OHR.TeacherOwl_DE-DE2816959094_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.TeacherOwl_DE-DE2816959094",
-        "copyright": "Raufußkauz in einem Wald in Mitteleuropa (© Ondrej Prosicky/Alamy)",
-        "copyrightKeyword": "Tag des Lehrers",
-        "hsh": "6a65e35ce0471d6689a4f4e535c19be9"
     }
 ]
