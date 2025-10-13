@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510130400",
+        "date": "20251014",
+        "url": "https://www.bing.com/th?id=OHR.AlgonParkOnt_EN-CA8810326454_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AlgonParkOnt_EN-CA8810326454",
+        "copyright": "River rapids in Algonquin Provincial Park, Ontario (© Pgiam/Getty Images)",
+        "copyrightKeyword": "Canadian Thanksgiving",
+        "hsh": "bee96fd135b46208464e143ecee5a1f9"
+    },
+    {
         "fullstartdate": "202510120400",
         "date": "20251013",
         "url": "https://www.bing.com/th?id=OHR.SaranacLake_EN-CA8587691019_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Anshun Bridge illuminated for the Mid-Autumn Festival, Chengdu, China (© Philippe LEJEANVRE/Getty Images)",
         "copyrightKeyword": "Mid autumn festival",
         "hsh": "f8891a5c36eb7eae6ea91518d4fce117"
-    },
-    {
-        "fullstartdate": "202510050400",
-        "date": "20251006",
-        "url": "https://www.bing.com/th?id=OHR.TeacherOwl_EN-CA7173344502_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.TeacherOwl_EN-CA7173344502",
-        "copyright": "Boreal owl in a forest in Central Europe (© Ondrej Prosicky/Alamy)",
-        "copyrightKeyword": "World Teachers Day",
-        "hsh": "d40b1ee2b7121642fbb61bf4c95e55b2"
     }
 ]

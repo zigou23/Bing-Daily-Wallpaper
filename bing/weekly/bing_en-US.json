@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510130700",
+        "date": "20251014",
+        "url": "https://www.bing.com/th?id=OHR.MuleCanyon_EN-US0527899523_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MuleCanyon_EN-US0527899523",
+        "copyright": "House on Fire Ruin in Mule Canyon, Cedar Mesa, Utah (© Pete Lomchid/Getty Images)",
+        "copyrightKeyword": "Indigenous Peoples' Day",
+        "hsh": "838f7e517b6cae15ec26069bcf1678b4"
+    },
+    {
         "fullstartdate": "202510120700",
         "date": "20251013",
         "url": "https://www.bing.com/th?id=OHR.SaranacLake_EN-US0445660450_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Anshun Bridge illuminated for the Mid-Autumn Festival, Chengdu, China (© Philippe LEJEANVRE/Getty Images)",
         "copyrightKeyword": "mid autumn festival",
         "hsh": "0b2005effc68967668a064ef6aba9870"
-    },
-    {
-        "fullstartdate": "202510050700",
-        "date": "20251006",
-        "url": "https://www.bing.com/th?id=OHR.TeacherOwl_EN-US9991815804_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.TeacherOwl_EN-US9991815804",
-        "copyright": "Boreal owl in a forest in Central Europe (© Ondrej Prosicky/Alamy)",
-        "copyrightKeyword": "World Teachers Day",
-        "hsh": "bebab527d47ed9590611a3e56211515d"
     }
 ]

@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510130700",
+        "date": "20251014",
+        "url": "https://www.bing.com/th?id=OHR.HinterseeWaterfall_ROW0045640204_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.HinterseeWaterfall_ROW0045640204",
+        "copyright": "Waterfall at Wimbachklamm Gorge, Bavaria, Germany (© EyeEm Mobile GmbH/Getty Images)",
+        "copyrightKeyword": "Wimbachklamm",
+        "hsh": "c509a1c41c3c1bd1d395c88a60c9a70e"
+    },
+    {
         "fullstartdate": "202510120700",
         "date": "20251013",
         "url": "https://www.bing.com/th?id=OHR.SaranacLake_ROW9913011112_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Anshun Bridge illuminated for the Mid-Autumn Festival, Chengdu, China (© Philippe LEJEANVRE/Getty Images)",
         "copyrightKeyword": "Anshun Bridge",
         "hsh": "fe7e58ffacaf45009196c34f4bb82962"
-    },
-    {
-        "fullstartdate": "202510050700",
-        "date": "20251006",
-        "url": "https://www.bing.com/th?id=OHR.TeacherOwl_ROW9041107583_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.TeacherOwl_ROW9041107583",
-        "copyright": "Boreal owl in a forest in Central Europe (© Ondrej Prosicky/Alamy)",
-        "copyrightKeyword": "Boreal owl",
-        "hsh": "fcd34ef9b57b6bd8dfc070b9b4ec5664"
     }
 ]
