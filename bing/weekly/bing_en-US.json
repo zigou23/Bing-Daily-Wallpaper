@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510140700",
+        "date": "20251015",
+        "url": "https://www.bing.com/th?id=OHR.OiaSantorini_EN-US0585833457_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.OiaSantorini_EN-US0585833457",
+        "copyright": "Village of Oia, Santorini, Greece (© f9photos/Getty Images)",
+        "copyrightKeyword": "Oia Greece",
+        "hsh": "bec6ebdecf81b66ef0c33be1af706756"
+    },
+    {
         "fullstartdate": "202510130700",
         "date": "20251014",
         "url": "https://www.bing.com/th?id=OHR.MuleCanyon_EN-US0527899523_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Fall colors below Mount Sneffels near Ridgway, Colorado (© Grant Ordelheide/TANDEM Stills + Motion)",
         "copyrightKeyword": "Mount Sneffels",
         "hsh": "cb9708f49e2294036dea5322d60dda66"
-    },
-    {
-        "fullstartdate": "202510060700",
-        "date": "20251007",
-        "url": "https://www.bing.com/th?id=OHR.AnshunBridge_EN-US0059795497_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AnshunBridge_EN-US0059795497",
-        "copyright": "Anshun Bridge illuminated for the Mid-Autumn Festival, Chengdu, China (© Philippe LEJEANVRE/Getty Images)",
-        "copyrightKeyword": "mid autumn festival",
-        "hsh": "0b2005effc68967668a064ef6aba9870"
     }
 ]

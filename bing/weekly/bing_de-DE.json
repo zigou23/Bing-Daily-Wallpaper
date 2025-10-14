@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510142200",
+        "date": "20251015",
+        "url": "https://www.bing.com/th?id=OHR.AmethystLaccaria_DE-DE4085236718_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AmethystLaccaria_DE-DE4085236718",
+        "copyright": "Violette Lacktrichterlinge, Seabeck, Washington, USA (© Danita Delimont/Shutterstock)",
+        "copyrightKeyword": "Violetter Lacktrichterling",
+        "hsh": "5876447c315f6be797731dc537080672"
+    },
+    {
         "fullstartdate": "202510132200",
         "date": "20251014",
         "url": "https://www.bing.com/th?id=OHR.OiaSantorini_DE-DE3882296731_1920x1080.jpg",
@@ -60,15 +69,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.OctopusCyanea_DE-DE3244013803",
         "copyright": "Großer Blauer Krake, Maui, Hawaii, USA (© Dave Fleetham/plainpicture)",
         "copyrightKeyword": "Welttag des Oktopus",
-        "hsh": "2eb32819701263bff053f9a5fddcc941"
-    },
-    {
-        "fullstartdate": "202510062200",
-        "date": "20251007",
-        "url": "https://www.bing.com/th?id=OHR.RidgwayAspens_DE-DE7371815159_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.RidgwayAspens_DE-DE7371815159",
-        "copyright": "Herbstfarben unterhalb des Mount Sneffels nahe Ridgway, Colorado, USA (© Grant Ordelheide/TANDEM Stills + Motion)",
-        "copyrightKeyword": "Mount Sneffels",
-        "hsh": "d242b0a3ef9d32e0e5de5f807428873b"
+        "hsh": "1cc6a108c7fb8f2f94dabd833e540bcf"
     }
 ]

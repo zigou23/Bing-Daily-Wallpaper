@@ -1,12 +1,21 @@
 [
     {
+        "fullstartdate": "202510142200",
+        "date": "20251015",
+        "url": "https://www.bing.com/th?id=OHR.FontanaDiTrevi_IT-IT9781844919_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FontanaDiTrevi_IT-IT9781844919",
+        "copyright": "Fontana di Trevi, Piazza di Trevi, Roma (© RilindH/RooM)",
+        "copyrightKeyword": "Festival del Cinema di Roma",
+        "hsh": "35189002025dbb3236fe8f391d2c51c8"
+    },
+    {
         "fullstartdate": "202510132200",
         "date": "20251014",
         "url": "https://www.bing.com/th?id=OHR.OiaSantorini_IT-IT9704470316_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.OiaSantorini_IT-IT9704470316",
         "copyright": "Villaggio di Oia, Santorini, Grecia (© f9photos/Getty Images)",
         "copyrightKeyword": "Santorini isola meridionale delle Cicladi",
-        "hsh": "b01b901dce3b60432455bbeefed1c342"
+        "hsh": "7c75c5ca6d460d5eda10904fdd0742ff"
     },
     {
         "fullstartdate": "202510122200",
@@ -15,7 +24,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.HinterseeWaterfall_IT-IT9638907457",
         "copyright": "Cascata a Hintersee, Baviera, Germania (© EyeEm Mobile GmbH/Getty Images)",
         "copyrightKeyword": "Hintersee Lago tedesco",
-        "hsh": "36e79f89b3b4a8082080144548cbc66f"
+        "hsh": "95787bd742ea0288047d04facba96f06"
     },
     {
         "fullstartdate": "202510112200",
@@ -24,7 +33,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SaranacLake_IT-IT9519344894",
         "copyright": "Villaggio di Saranac Lake, Montagne Adirondack, New York, USA (© DenisTangneyJr/Getty Images)",
         "copyrightKeyword": "Saranac Lake villaggio",
-        "hsh": "6e99de0020f230dffe57f8afa45105ef"
+        "hsh": "3cd12926e761ef71986c8fc6fe8f6b3d"
     },
     {
         "fullstartdate": "202510102200",
@@ -33,7 +42,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LagoLagazuolo_IT-IT9428871019",
         "copyright": "Lago Lagazzuolo, Valmalenco, Valle Valtellina, Lombardia (© Francesco Bergamaschi/Getty Images)",
         "copyrightKeyword": "Valmalenco",
-        "hsh": "b73f43fbc5587f37a052e51a50728c42"
+        "hsh": "c5ac1a2428096f1b3a2376d4618190e9"
     },
     {
         "fullstartdate": "202510092200",
@@ -61,14 +70,5 @@
         "copyright": "Polpo, Maui, Hawaii, USA (© Dave Fleetham/plainpicture)",
         "copyrightKeyword": "Polpo",
         "hsh": "40e1e5db1bd19fb03e7c52fda1729167"
-    },
-    {
-        "fullstartdate": "202510062200",
-        "date": "20251007",
-        "url": "https://www.bing.com/th?id=OHR.RidgwayAspens_IT-IT7479755416_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.RidgwayAspens_IT-IT7479755416",
-        "copyright": "Colori autunnali ai piedi del Monte Sneffels vicino a Ridgway, Colorado, USA (© Grant Ordelheide/TANDEM Stills + Motion)",
-        "copyrightKeyword": "Ridgway città Colorado",
-        "hsh": "057da359edf27ed6132573b96a9f267e"
     }
 ]
