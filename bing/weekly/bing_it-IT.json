@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510162200",
+        "date": "20251017",
+        "url": "https://www.bing.com/th?id=OHR.RockRiverFalls_IT-IT3239553748_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.RockRiverFalls_IT-IT3239553748",
+        "copyright": "Rock River Falls, Penisola Superiore, Michigan, USA (© Matt Anderson Photography/Getty Images)",
+        "copyrightKeyword": "Penisola superiore",
+        "hsh": "ddfa487099b7af18639b94d2798c05f3"
+    },
+    {
         "fullstartdate": "202510152200",
         "date": "20251016",
         "url": "https://www.bing.com/th?id=OHR.SiberianLynx_IT-IT9885681179_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Barriera corallina, Isola di Monuriki, Isole Mamanuca, Figi (© David Wall/SuperStock)",
         "copyrightKeyword": "Figi",
         "hsh": "c55a59f3df0f7f1188f32a427e8fde35"
-    },
-    {
-        "fullstartdate": "202510082200",
-        "date": "20251009",
-        "url": "https://www.bing.com/th?id=OHR.WebbPillars_IT-IT0673029544_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WebbPillars_IT-IT0673029544",
-        "copyright": "I Pilastri della Creazione visti dal telescopio spaziale James Webb (© NASA)",
-        "copyrightKeyword": "Pilastri della Creazione",
-        "hsh": "d53abd3d3f8d640824fcec6155a748e4"
     }
 ]

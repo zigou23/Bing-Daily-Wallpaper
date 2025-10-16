@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510162200",
+        "date": "20251017",
+        "url": "https://www.bing.com/th?id=OHR.MettlachAutumn_DE-DE9026182741_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MettlachAutumn_DE-DE9026182741",
+        "copyright": "Blick auf die Saar im Herbst, Saarschleife, Mettlach, Saarland (© Sus Bogaerts/Getty Images)",
+        "copyrightKeyword": "Saarschleife",
+        "hsh": "01592fc73d46165bef0f311af15b0727"
+    },
+    {
         "fullstartdate": "202510152200",
         "date": "20251016",
         "url": "https://www.bing.com/th?id=OHR.SiberianLynx_DE-DE4192979708_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Korallenriff rund um die Insel Monuriki, Mamanuca-Inseln, Fidschi (© David Wall/SuperStock)",
         "copyrightKeyword": "Fidschi-Tag",
         "hsh": "fd6a444f4f26435f7794dce07913a86f"
-    },
-    {
-        "fullstartdate": "202510082200",
-        "date": "20251009",
-        "url": "https://www.bing.com/th?id=OHR.WebbPillars_DE-DE3382075540_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WebbPillars_DE-DE3382075540",
-        "copyright": "Die Säulen der Schöpfung, betrachtet vom James-Webb-Weltraumteleskop (© NASA)",
-        "copyrightKeyword": "Säulen der Schöpfung",
-        "hsh": "f7f2b43a6b7b3ab7b6e2ffdbd1f93745"
     }
 ]
