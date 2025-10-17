@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510172300",
+        "date": "20251018",
+        "url": "https://www.bing.com/th?id=OHR.SilburyHill_EN-GB2103957342_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SilburyHill_EN-GB2103957342",
+        "copyright": "Neolithic site of Silbury Hill, Tilshead, Wiltshire, England (© dbstockphoto/Getty Images)",
+        "copyrightKeyword": "International Archaeology Day",
+        "hsh": "8d6190d527b92edd78f56503e13d0eca"
+    },
+    {
         "fullstartdate": "202510162300",
         "date": "20251017",
         "url": "https://www.bing.com/th?id=OHR.RockRiverFalls_EN-GB1931975271_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Wood duck hen, United States (© ps50ace/iStock/Getty Images)",
         "copyrightKeyword": "World Migratory Bird Day",
         "hsh": "eb422546d8a9c54700a1028b19eac874"
-    },
-    {
-        "fullstartdate": "202510092300",
-        "date": "20251010",
-        "url": "https://www.bing.com/th?id=OHR.MonurikiFiji_EN-GB5307318194_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MonurikiFiji_EN-GB5307318194",
-        "copyright": "Coral reef surrounding the island of Monuriki, Mamanuca Islands, Fiji (© David Wall/SuperStock)",
-        "copyrightKeyword": "Fiji Day",
-        "hsh": "340d407cccb5a969427f84320aff9dd0"
     }
 ]

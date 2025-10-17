@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510170300",
+        "date": "20251018",
+        "url": "https://www.bing.com/th?id=OHR.RockRiverFalls_PT-BR6243828889_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.RockRiverFalls_PT-BR6243828889",
+        "copyright": "Rock River Falls, Península Superior, Michigan, EUA (© Matt Anderson Photography/Getty Images)",
+        "copyrightKeyword": "Michigan",
+        "hsh": "f0618e598c665319a9af80a2593b0d47"
+    },
+    {
         "fullstartdate": "202510160300",
         "date": "20251017",
         "url": "https://www.bing.com/th?id=OHR.SiberianLynx_PT-BR2004015502_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Recife de coral ao redor de Monuriki, Ilhas Mamanuca, Fiji (© David Wall/SuperStock)",
         "copyrightKeyword": "Ilhas Mamanuca",
         "hsh": "de07aef3b8a092d8232b4e78be794068"
-    },
-    {
-        "fullstartdate": "202510090300",
-        "date": "20251010",
-        "url": "https://www.bing.com/th?id=OHR.WebbPillars_PT-BR6044828934_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WebbPillars_PT-BR6044828934",
-        "copyright": "Pilares da Criação vistos pelo Telescópio Espacial James Webb (© NASA)",
-        "copyrightKeyword": "Pilares da Criação",
-        "hsh": "787c32976b7577497edf2f3f71c4a216"
     }
 ]

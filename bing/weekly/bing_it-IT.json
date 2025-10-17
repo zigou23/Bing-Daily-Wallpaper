@@ -1,12 +1,21 @@
 [
     {
+        "fullstartdate": "202510172200",
+        "date": "20251018",
+        "url": "https://www.bing.com/th?id=OHR.SilburyHill_IT-IT5036622504_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SilburyHill_IT-IT5036622504",
+        "copyright": "Sito neolitico di Silbury Hill, Tilshead, Wiltshire, Inghilterra (© dbstockphoto/Getty Images)",
+        "copyrightKeyword": "Sito neolitico di Silbury Hill Tilshead Wiltshire Inghilterra",
+        "hsh": "f29dc954a0635ccf37680e854658efdd"
+    },
+    {
         "fullstartdate": "202510162200",
         "date": "20251017",
-        "url": "https://www.bing.com/th?id=OHR.RockRiverFalls_IT-IT3239553748_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.RockRiverFalls_IT-IT3239553748",
+        "url": "https://www.bing.com/th?id=OHR.RockRiverFalls_IT-IT4967817075_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.RockRiverFalls_IT-IT4967817075",
         "copyright": "Rock River Falls, Penisola Superiore, Michigan, USA (© Matt Anderson Photography/Getty Images)",
         "copyrightKeyword": "Penisola superiore",
-        "hsh": "ddfa487099b7af18639b94d2798c05f3"
+        "hsh": "c52ae2c0635790e73a2906b5038f9529"
     },
     {
         "fullstartdate": "202510152200",
@@ -61,14 +70,5 @@
         "copyright": "Lago Lagazzuolo, Valmalenco, Valle Valtellina, Lombardia (© Francesco Bergamaschi/Getty Images)",
         "copyrightKeyword": "Valmalenco",
         "hsh": "c5ac1a2428096f1b3a2376d4618190e9"
-    },
-    {
-        "fullstartdate": "202510092200",
-        "date": "20251010",
-        "url": "https://www.bing.com/th?id=OHR.MonurikiFiji_IT-IT0760985138_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MonurikiFiji_IT-IT0760985138",
-        "copyright": "Barriera corallina, Isola di Monuriki, Isole Mamanuca, Figi (© David Wall/SuperStock)",
-        "copyrightKeyword": "Figi",
-        "hsh": "c55a59f3df0f7f1188f32a427e8fde35"
     }
 ]

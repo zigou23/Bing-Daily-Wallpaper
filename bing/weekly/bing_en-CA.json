@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510170400",
+        "date": "20251018",
+        "url": "https://www.bing.com/th?id=OHR.JasperFestival_EN-CA8017450155_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.JasperFestival_EN-CA8017450155",
+        "copyright": "Northern lights over Patricia Lake in Jasper National Park, Alberta (© Daniel Viñé Garcia/Getty Images)",
+        "copyrightKeyword": "Jasper National Park Alberta",
+        "hsh": "e37d16bb054aaef2a8dc606331d1569e"
+    },
+    {
         "fullstartdate": "202510160400",
         "date": "20251017",
         "url": "https://www.bing.com/th?id=OHR.SiberianLynx_EN-CA2838247165_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Coral reef surrounding the island of Monuriki, Mamanuca Islands, Fiji (© David Wall/SuperStock)",
         "copyrightKeyword": "Fiji Day",
         "hsh": "5ce922129c11a8bd40cc88705acd66c4"
-    },
-    {
-        "fullstartdate": "202510090400",
-        "date": "20251010",
-        "url": "https://www.bing.com/th?id=OHR.WebbPillars_EN-CA8021988309_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WebbPillars_EN-CA8021988309",
-        "copyright": "The Pillars of Creation viewed by the James Webb Space Telescope (© NASA)",
-        "copyrightKeyword": "Pillars of Creation",
-        "hsh": "27acdb490f0eaa26e4c4c4a035b12697"
     }
 ]
