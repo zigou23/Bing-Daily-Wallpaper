@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510180700",
+        "date": "20251019",
+        "url": "https://www.bing.com/th?id=OHR.SilburyHill_ROW9508999634_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SilburyHill_ROW9508999634",
+        "copyright": "Neolithic site of Silbury Hill, Tilshead, Wiltshire, England (© dbstockphoto/Getty Images)",
+        "copyrightKeyword": "Silbury Hill",
+        "hsh": "f87f46fbd9eb70c8322dc4c9f17c3870"
+    },
+    {
         "fullstartdate": "202510170700",
         "date": "20251018",
         "url": "https://www.bing.com/th?id=OHR.RockRiverFalls_ROW9398171921_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Wood duck hen, United States (© ps50ace/iStock/Getty Images)",
         "copyrightKeyword": "Wood duck hen",
         "hsh": "a41d35ed746c13780e95ceb0583e2120"
-    },
-    {
-        "fullstartdate": "202510100700",
-        "date": "20251011",
-        "url": "https://www.bing.com/th?id=OHR.MonurikiFiji_ROW9654134811_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MonurikiFiji_ROW9654134811",
-        "copyright": "Coral reef surrounding the island of Monuriki, Mamanuca Islands, Fiji (© David Wall/SuperStock)",
-        "copyrightKeyword": "Monuriki",
-        "hsh": "6123baa6eaf740a834c41106366622cc"
     }
 ]

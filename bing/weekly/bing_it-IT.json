@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510182200",
+        "date": "20251019",
+        "url": "https://www.bing.com/th?id=OHR.AppleHarvest_IT-IT5097872134_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AppleHarvest_IT-IT5097872134",
+        "copyright": "Melo, Minnesota, USA (© Tammi Mild/Getty Images)",
+        "copyrightKeyword": "Malus domestica",
+        "hsh": "fe97a0d41e0295faaad96e1800ff8073"
+    },
+    {
         "fullstartdate": "202510172200",
         "date": "20251018",
         "url": "https://www.bing.com/th?id=OHR.SilburyHill_IT-IT5036622504_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Villaggio di Saranac Lake, Montagne Adirondack, New York, USA (© DenisTangneyJr/Getty Images)",
         "copyrightKeyword": "Saranac Lake villaggio",
         "hsh": "3cd12926e761ef71986c8fc6fe8f6b3d"
-    },
-    {
-        "fullstartdate": "202510102200",
-        "date": "20251011",
-        "url": "https://www.bing.com/th?id=OHR.LagoLagazuolo_IT-IT9428871019_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LagoLagazuolo_IT-IT9428871019",
-        "copyright": "Lago Lagazzuolo, Valmalenco, Valle Valtellina, Lombardia (© Francesco Bergamaschi/Getty Images)",
-        "copyrightKeyword": "Valmalenco",
-        "hsh": "c5ac1a2428096f1b3a2376d4618190e9"
     }
 ]
