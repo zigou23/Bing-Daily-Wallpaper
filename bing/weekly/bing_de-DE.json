@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510192200",
+        "date": "20251020",
+        "url": "https://www.bing.com/th?id=OHR.HoffmansSloth_DE-DE8974751665_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.HoffmansSloth_DE-DE8974751665",
+        "copyright": "Hoffmann-Zweifingerfaultier, Ecuador (© Murray Cooper/Minden Pictures)",
+        "copyrightKeyword": "Internationaler Tag des Faultiers",
+        "hsh": "77874788eef82964fd902e9fbfd40c83"
+    },
+    {
         "fullstartdate": "202510182200",
         "date": "20251019",
         "url": "https://www.bing.com/th?id=OHR.AppleHarvest_DE-DE2705439483_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Wasserfall in der Wimbachklamm, Bayern (© EyeEm Mobile GmbH/Getty Images)",
         "copyrightKeyword": "Wimbachklamm Wanderung",
         "hsh": "73e25e7890ac562e29a2d0f27132419a"
-    },
-    {
-        "fullstartdate": "202510112200",
-        "date": "20251012",
-        "url": "https://www.bing.com/th?id=OHR.SaranacLake_DE-DE3608042378_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SaranacLake_DE-DE3608042378",
-        "copyright": "Saranac Lake, Adirondack Mountains, New York, USA (© DenisTangneyJr/Getty Images)",
-        "copyrightKeyword": "Saranac Lake Ort USA",
-        "hsh": "f15c9487939bc8b7839082f50c5ef43b"
     }
 ]

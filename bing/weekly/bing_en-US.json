@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510190700",
+        "date": "20251020",
+        "url": "https://www.bing.com/th?id=OHR.AppleHarvest_EN-US2977882687_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AppleHarvest_EN-US2977882687",
+        "copyright": "Apples ready for harvest, Minnesota (© Tammi Mild/Getty Images)",
+        "copyrightKeyword": "harvesting apples",
+        "hsh": "2879932489c47487311fe37366b8e736"
+    },
+    {
         "fullstartdate": "202510180700",
         "date": "20251019",
         "url": "https://www.bing.com/th?id=OHR.SilburyHill_EN-US2485144120_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Village of Saranac Lake, Adirondack Mountains, New York (© DenisTangneyJr/Getty Images)",
         "copyrightKeyword": "Saranac Lake village",
         "hsh": "9651cb8a6d4b9c4c5f14fc6832895bdc"
-    },
-    {
-        "fullstartdate": "202510110700",
-        "date": "20251012",
-        "url": "https://www.bing.com/th?id=OHR.WoodDuckHen_EN-US0382439406_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WoodDuckHen_EN-US0382439406",
-        "copyright": "Wood duck hen (© ps50ace/iStock/Getty Images)",
-        "copyrightKeyword": "World Migratory Bird Day",
-        "hsh": "383a612d3d17f82b406b9bd4c16b01ef"
     }
 ]
