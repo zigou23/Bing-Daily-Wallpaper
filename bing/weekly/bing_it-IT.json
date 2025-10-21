@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510212200",
+        "date": "20251022",
+        "url": "https://www.bing.com/th?id=OHR.BulgariaRocks_IT-IT4526713367_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BulgariaRocks_IT-IT4526713367",
+        "copyright": "Rocce di Belogradchik, Bulgaria (© EvaL Miko/Shutterstock)",
+        "copyrightKeyword": "Repubblica di Bulgaria",
+        "hsh": "5fa12ec29debbeedcb653bca7e2ffb2e"
+    },
+    {
         "fullstartdate": "202510202200",
         "date": "20251021",
         "url": "https://www.bing.com/th?id=OHR.DiyaDiwali_IT-IT5153375559_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Fontana di Trevi, Piazza di Trevi, Roma (© RilindH/RooM)",
         "copyrightKeyword": "Festival del Cinema di Roma",
         "hsh": "35189002025dbb3236fe8f391d2c51c8"
-    },
-    {
-        "fullstartdate": "202510132200",
-        "date": "20251014",
-        "url": "https://www.bing.com/th?id=OHR.OiaSantorini_IT-IT9704470316_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.OiaSantorini_IT-IT9704470316",
-        "copyright": "Villaggio di Oia, Santorini, Grecia (© f9photos/Getty Images)",
-        "copyrightKeyword": "Santorini isola meridionale delle Cicladi",
-        "hsh": "7c75c5ca6d460d5eda10904fdd0742ff"
     }
 ]
