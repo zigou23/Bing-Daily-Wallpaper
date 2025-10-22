@@ -1,21 +1,30 @@
 [
     {
+        "fullstartdate": "202510222300",
+        "date": "20251023",
+        "url": "https://www.bing.com/th?id=OHR.SnowLeopard_EN-GB3426907402_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SnowLeopard_EN-GB3426907402",
+        "copyright": "Snow leopard with her cubs, Spiti Valley, Cold Desert Biosphere Reserve, India (© Oriol Alamany/naturepl.com)",
+        "copyrightKeyword": "International Day of the Snow Leopard",
+        "hsh": "894d3fdc8ecce5cabcc2204c95ecf865"
+    },
+    {
         "fullstartdate": "202510212300",
         "date": "20251022",
         "url": "https://www.bing.com/th?id=OHR.BulgariaRocks_EN-GB3300175834_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.BulgariaRocks_EN-GB3300175834",
         "copyright": "Belogradchik Rocks, Bulgaria (© EvaL Miko/Shutterstock)",
         "copyrightKeyword": "Belogradchik Rocks",
-        "hsh": "8c70919f7f72b4dd6cd64d39fc7090f8"
+        "hsh": "382bb5e6cca11d21822377683836f1d3"
     },
     {
         "fullstartdate": "202510202300",
         "date": "20251021",
-        "url": "https://www.bing.com/th?id=OHR.DiyaDiwali_EN-GB3120748109_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DiyaDiwali_EN-GB3120748109",
+        "url": "https://www.bing.com/th?id=OHR.DiyaDiwali_EN-GB8694229403_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.DiyaDiwali_EN-GB8694229403",
         "copyright": "A diya at the Golden Temple during Diwali, Amritsar, India (© EyeEm Mobile GmbH/Getty Images)",
-        "copyrightKeyword": "Diwali",
-        "hsh": "a6ba754d795d18030a18609056e6ec84"
+        "copyrightKeyword": "Golden Temple",
+        "hsh": "62769aee3772ae9eb84da7c27cbbc9fc"
     },
     {
         "fullstartdate": "202510192300",
@@ -24,7 +33,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.HoffmansSloth_EN-GB2702154812",
         "copyright": "Hoffmann's two-toed sloth, Ecuador (© Murray Cooper/Minden Pictures)",
         "copyrightKeyword": "international sloth day",
-        "hsh": "e21b5b56340b9b44e1ac50ab6c911b74"
+        "hsh": "228b9f4bda07caa3e9be0505487013a9"
     },
     {
         "fullstartdate": "202510182300",
@@ -61,14 +70,5 @@
         "copyright": "Eurasian lynx, Siberia (© Mario Plechaty Photograph/Shutterstock)",
         "copyrightKeyword": "Eurasian lynx",
         "hsh": "75fbc468c83530da0f110810e351ac74"
-    },
-    {
-        "fullstartdate": "202510142300",
-        "date": "20251015",
-        "url": "https://www.bing.com/th?id=OHR.AmethystLaccaria_EN-GB8262001695_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AmethystLaccaria_EN-GB8262001695",
-        "copyright": "Amethyst laccaria mushrooms, Seabeck, Washington, United States (© Danita Delimont/Shutterstock)",
-        "copyrightKeyword": "Amethyst laccaria mushrooms",
-        "hsh": "81803fe45cfda29b0ce9983c7b9b1ca9"
     }
 ]

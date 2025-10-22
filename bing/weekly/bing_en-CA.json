@@ -1,12 +1,21 @@
 [
     {
+        "fullstartdate": "202510220400",
+        "date": "20251023",
+        "url": "https://www.bing.com/th?id=OHR.BulgariaRocks_EN-CA8455831888_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BulgariaRocks_EN-CA8455831888",
+        "copyright": "Belogradchik Rocks, Bulgaria (© EvaL Miko/Shutterstock)",
+        "copyrightKeyword": "Belogradchik Rocks",
+        "hsh": "0d529fc77194b4ad5975975780b2dfc1"
+    },
+    {
         "fullstartdate": "202510210400",
         "date": "20251022",
-        "url": "https://www.bing.com/th?id=OHR.DiyaDiwali_EN-CA8413413710_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DiyaDiwali_EN-CA8413413710",
-        "copyright": "A diya at the Golden Temple during Diwali, Amritsar, India (© EyeEm Mobile GmbH/Getty Images)",
-        "copyrightKeyword": "Diwali",
-        "hsh": "525dcc0a0c27090d50f48034a895619c"
+        "url": "https://www.bing.com/th?id=OHR.DiyaDiwali_EN-CA6346650196_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.DiyaDiwali_EN-CA6346650196",
+        "copyright": "A diya at the Golden Temple, Amritsar, India (© EyeEm Mobile GmbH/Getty Images)",
+        "copyrightKeyword": "Golden Temple",
+        "hsh": "90479b5c49d6ac4ea4662b107b482281"
     },
     {
         "fullstartdate": "202510200400",
@@ -15,7 +24,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.HoffmansSloth_EN-CA8355906230",
         "copyright": "Hoffmann's two-toed sloth, Ecuador (© Murray Cooper/Minden Pictures)",
         "copyrightKeyword": "International Sloth Day",
-        "hsh": "cc0defe304ac8cc8d83b6dc7bd163c94"
+        "hsh": "1295f20a1cac50dc54685ef641866dd9"
     },
     {
         "fullstartdate": "202510190400",
@@ -61,14 +70,5 @@
         "copyright": "Amethyst laccaria mushrooms, Seabeck, Washington, United States (© Danita Delimont/Shutterstock)",
         "copyrightKeyword": "National Mushroom Day",
         "hsh": "a3c9c8a94dd977b42052ed9155af90a4"
-    },
-    {
-        "fullstartdate": "202510140400",
-        "date": "20251015",
-        "url": "https://www.bing.com/th?id=OHR.OiaSantorini_EN-CA2309047812_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.OiaSantorini_EN-CA2309047812",
-        "copyright": "Village of Oia, Santorini, Greece (© f9photos/Getty Images)",
-        "copyrightKeyword": "Oia Greece",
-        "hsh": "136a08c1865f416c73ae21f72bc6157d"
     }
 ]

@@ -1,21 +1,30 @@
 [
     {
+        "fullstartdate": "202510222200",
+        "date": "20251023",
+        "url": "https://www.bing.com/th?id=OHR.SnowLeopard_DE-DE9074654183_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SnowLeopard_DE-DE9074654183",
+        "copyright": "Schneeleopardin mit ihren Jungen, Spitital, Cold Desert Biosphere Reserve, Indien (© Oriol Alamany/naturepl.com)",
+        "copyrightKeyword": "Internationaler Tag des Schneeleoparden",
+        "hsh": "6e2b0376ce662c75e20181a254f446db"
+    },
+    {
         "fullstartdate": "202510212200",
         "date": "20251022",
         "url": "https://www.bing.com/th?id=OHR.BulgariaRocks_DE-DE9798723831_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.BulgariaRocks_DE-DE9798723831",
         "copyright": "Belogradtschik-Felsen, Bulgarien (© EvaL Miko/Shutterstock)",
         "copyrightKeyword": "Belogradchik-Felsen",
-        "hsh": "b32be6a5acf9a1ba55147498f522cc3e"
+        "hsh": "972048a8fd61eb3bf480850a08e6bdd5"
     },
     {
         "fullstartdate": "202510202200",
         "date": "20251021",
-        "url": "https://www.bing.com/th?id=OHR.DiyaDiwali_DE-DE9030345451_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DiyaDiwali_DE-DE9030345451",
-        "copyright": "Eine Diya im Harmandir Sahib (Goldener Tempel) während Diwali, Amritsar, Indien (© EyeEm Mobile GmbH/Getty Images)",
-        "copyrightKeyword": "Diwali",
-        "hsh": "367fa03b1dbc476cd4d699f45142bb96"
+        "url": "https://www.bing.com/th?id=OHR.DiyaDiwali_DE-DE6203970797_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.DiyaDiwali_DE-DE6203970797",
+        "copyright": "Eine Diya im Harmandir Sahib (Goldener Tempel), Amritsar, Indien (© EyeEm Mobile GmbH/Getty Images)",
+        "copyrightKeyword": "Goldener Tempel Amritsar Indien",
+        "hsh": "00a3ef7732f4622bcbd53948dadff368"
     },
     {
         "fullstartdate": "202510192200",
@@ -61,14 +70,5 @@
         "copyright": "Eurasischer Luchs, Sibirien (© Mario Plechaty Photograph/Shutterstock)",
         "copyrightKeyword": "Eurasischer Luchs",
         "hsh": "1bbdd0791cd31eb9185fc33e39e3eecd"
-    },
-    {
-        "fullstartdate": "202510142200",
-        "date": "20251015",
-        "url": "https://www.bing.com/th?id=OHR.AmethystLaccaria_DE-DE4085236718_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AmethystLaccaria_DE-DE4085236718",
-        "copyright": "Violette Lacktrichterlinge, Seabeck, Washington, USA (© Danita Delimont/Shutterstock)",
-        "copyrightKeyword": "Violetter Lacktrichterling",
-        "hsh": "5876447c315f6be797731dc537080672"
     }
 ]
