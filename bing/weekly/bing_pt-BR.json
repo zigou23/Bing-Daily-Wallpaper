@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510230300",
+        "date": "20251024",
+        "url": "https://www.bing.com/th?id=OHR.PondCave_PT-BR4920189612_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PondCave_PT-BR4920189612",
+        "copyright": "Parque Nacional da Chapada Diamantina, Bahia (© Marcio Dufranc/Stock)",
+        "copyrightKeyword": "Parque Nacional da Chapada Diamantina",
+        "hsh": "5b71408853487b40bc3c22c4018eff82"
+    },
+    {
         "fullstartdate": "202510220300",
         "date": "20251023",
         "url": "https://www.bing.com/th?id=OHR.BulgariaRocks_PT-BR2901045290_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Lince-euroasiático na Sibéria, Rússia (© Mario Plechaty Photograph/Shutterstock)",
         "copyrightKeyword": "lince europeu",
         "hsh": "75095cb86061c6ab404fe405117f5d93"
-    },
-    {
-        "fullstartdate": "202510150300",
-        "date": "20251016",
-        "url": "https://www.bing.com/th?id=OHR.AmethystLaccaria_PT-BR2131819157_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AmethystLaccaria_PT-BR2131819157",
-        "copyright": "Cogumelos laccaria amethystina em Seabeck, Washington, EUA (©  Danita Delimont/Shutterstock)",
-        "copyrightKeyword": "cogumelo",
-        "hsh": "f1247aa5f4d2a4ba77c996c8c7b890ca"
     }
 ]
