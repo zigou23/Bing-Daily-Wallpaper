@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510252200",
+        "date": "20251026",
+        "url": "https://www.bing.com/th?id=OHR.PumpkinFarm_DE-DE1674202755_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PumpkinFarm_DE-DE1674202755",
+        "copyright": "Kürbisfarm in North Carolina, USA (© Matthew H Irvin/Getty Images)",
+        "copyrightKeyword": "Kürbisse",
+        "hsh": "fd67e3365782d3557dce6082c9bdb927"
+    },
+    {
         "fullstartdate": "202510242200",
         "date": "20251025",
         "url": "https://www.bing.com/th?id=OHR.MartimoaapaFinland_DE-DE0136132064_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Erntereife Äpfel, Minnesota, USA (© Tammi Mild/Getty Images)",
         "copyrightKeyword": "Apfelernte",
         "hsh": "9871f0f8b2ebe6977ce9d097552d53b4"
-    },
-    {
-        "fullstartdate": "202510172200",
-        "date": "20251018",
-        "url": "https://www.bing.com/th?id=OHR.SilburyHill_DE-DE8918422000_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SilburyHill_DE-DE8918422000",
-        "copyright": "Neolithische Stätte Silbury Hill, Tilshead, Wiltshire, England (© dbstockphoto/Getty Images)",
-        "copyrightKeyword": "Silbury Hill",
-        "hsh": "e664721960f1c414ad62ae3cecde0c9c"
     }
 ]

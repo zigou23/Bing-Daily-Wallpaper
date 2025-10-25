@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510252300",
+        "date": "20251027",
+        "url": "https://www.bing.com/th?id=OHR.DSTEnds2025_EN-GB3762675856_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.DSTEnds2025_EN-GB3762675856",
+        "copyright": "Clock tower of Emmanuel College, University of Cambridge, England (© Geography Photos/Universal Images Group/Getty Images)",
+        "copyrightKeyword": "Daylight Saving Time UK",
+        "hsh": "b1c262a2d3d7352262eeef8101f402be"
+    },
+    {
         "fullstartdate": "202510242300",
         "date": "20251025",
         "url": "https://www.bing.com/th?id=OHR.MartimoaapaFinland_EN-GB3880674254_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Apples ready for harvest, Minnesota, United States (© Tammi Mild/Getty Images)",
         "copyrightKeyword": "harvesting apples",
         "hsh": "8cabe87e6576df555e05cf280b04659e"
-    },
-    {
-        "fullstartdate": "202510172300",
-        "date": "20251018",
-        "url": "https://www.bing.com/th?id=OHR.SilburyHill_EN-GB2103957342_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SilburyHill_EN-GB2103957342",
-        "copyright": "Neolithic site of Silbury Hill, Tilshead, Wiltshire, England (© dbstockphoto/Getty Images)",
-        "copyrightKeyword": "International Archaeology Day",
-        "hsh": "8d6190d527b92edd78f56503e13d0eca"
     }
 ]

@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510252200",
+        "date": "20251026",
+        "url": "https://www.bing.com/th?id=OHR.ItalyClock_IT-IT0847273649_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ItalyClock_IT-IT0847273649",
+        "copyright": "Torre dell'Orologio di San Marco, Venezia, Veneto (© scaliger/Getty Images)",
+        "copyrightKeyword": "Ora",
+        "hsh": "eadabb0f69a0e40cef16668c07cd6251"
+    },
+    {
         "fullstartdate": "202510242200",
         "date": "20251025",
         "url": "https://www.bing.com/th?id=OHR.MartimoaapaFinland_IT-IT0794218844_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Melo, Minnesota, USA (© Tammi Mild/Getty Images)",
         "copyrightKeyword": "Malus domestica",
         "hsh": "f2dd250027f920a636ca7f5a5cdd8036"
-    },
-    {
-        "fullstartdate": "202510172200",
-        "date": "20251018",
-        "url": "https://www.bing.com/th?id=OHR.SilburyHill_IT-IT5036622504_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SilburyHill_IT-IT5036622504",
-        "copyright": "Sito neolitico di Silbury Hill, Tilshead, Wiltshire, Inghilterra (© dbstockphoto/Getty Images)",
-        "copyrightKeyword": "Sito neolitico di Silbury Hill Tilshead Wiltshire Inghilterra",
-        "hsh": "165f5faea15b47e0759ba603f2fba4b2"
     }
 ]

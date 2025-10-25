@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510250700",
+        "date": "20251026",
+        "url": "https://www.bing.com/th?id=OHR.MartimoaapaFinland_EN-US3685817058_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MartimoaapaFinland_EN-US3685817058",
+        "copyright": "Aerial view of peatland in Martimoaapa Mire Reserve, Finland (© romikatarina/Shutterstock)",
+        "copyrightKeyword": "Martimoaapa Finland",
+        "hsh": "d109b1ccd6d0c4d0ad0c6273fa895f95"
+    },
+    {
         "fullstartdate": "202510240700",
         "date": "20251025",
         "url": "https://www.bing.com/th?id=OHR.QueenMary_EN-US3331250680_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Neolithic site of Silbury Hill, Tilshead, Wiltshire, England (© dbstockphoto/Getty Images)",
         "copyrightKeyword": "International Archaeology Day",
         "hsh": "cf7be7bdb3255dec349c518ff6acad28"
-    },
-    {
-        "fullstartdate": "202510170700",
-        "date": "20251018",
-        "url": "https://www.bing.com/th?id=OHR.RockRiverFalls_EN-US2428797661_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.RockRiverFalls_EN-US2428797661",
-        "copyright": "Rock River Falls, Upper Peninsula, Michigan (© Matt Anderson Photography/Getty Images)",
-        "copyrightKeyword": "Rock River Wilderness Michigan",
-        "hsh": "f25d11f7bb7da334767c4a7db4a072ee"
     }
 ]

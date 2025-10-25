@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510251600",
+        "date": "20251026",
+        "url": "https://www.bing.com/th?id=OHR.PumpkinFarm_ZH-CN1232784365_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PumpkinFarm_ZH-CN1232784365",
+        "copyright": "北卡罗来纳州的南瓜农场, 美国 (© Matthew H Irvin/Getty Images)",
+        "copyrightKeyword": "南瓜",
+        "hsh": "845ef42d1a3f4601409939438eb6fdbc"
+    },
+    {
         "fullstartdate": "202510241600",
         "date": "20251025",
         "url": "https://www.bing.com/th?id=OHR.MartimoaapaFinland_ZH-CN1066271356_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "即将收获的苹果，明尼苏达州，美国 (© Tammi Mild/Getty Images)",
         "copyrightKeyword": "收获苹果的季节",
         "hsh": "52522b2be616e0e92bd27e64c59585a7"
-    },
-    {
-        "fullstartdate": "202510171600",
-        "date": "20251018",
-        "url": "https://www.bing.com/th?id=OHR.SilburyHill_ZH-CN6666447580_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SilburyHill_ZH-CN6666447580",
-        "copyright": "西尔布利山的新石器时代遗址，蒂尔斯黑德，威尔特郡，英国 (© dbstockphotoa/Getty Images)",
-        "copyrightKeyword": "国际考古日",
-        "hsh": "79da91399f168cf29f23d597453e565b"
     }
 ]
