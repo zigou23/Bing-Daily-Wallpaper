@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510260400",
+        "date": "20251027",
+        "url": "https://www.bing.com/th?id=OHR.PumpkinFarm_FR-CA5403887507_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PumpkinFarm_FR-CA5403887507",
+        "copyright": "Ferme de citrouilles en Caroline du Nord, États-Unis (© Matthew H Irvin/Getty Images)",
+        "copyrightKeyword": "citrouille",
+        "hsh": "5117067ea2d4f91a910f66d8decb50ea"
+    },
+    {
         "fullstartdate": "202510250400",
         "date": "20251026",
         "url": "https://www.bing.com/th?id=OHR.MartimoaapaFinland_FR-CA5308818561_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Pommes prêtes à être récoltées, Minnesota, États-Unis (© Tammi Mild/Getty Images)",
         "copyrightKeyword": "Saison des pommes",
         "hsh": "536854fc28ca64e863427abd3b2ccf29"
-    },
-    {
-        "fullstartdate": "202510180400",
-        "date": "20251019",
-        "url": "https://www.bing.com/th?id=OHR.SilburyHill_FR-CA4132362264_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SilburyHill_FR-CA4132362264",
-        "copyright": "Site néolithique de la coline de Silbury, Tilshead, Wiltshire, Angleterre (© dbstockphoto/Getty Images)",
-        "copyrightKeyword": "coline de Silbury",
-        "hsh": "d57747e3832b133f2935351644b003fe"
     }
 ]

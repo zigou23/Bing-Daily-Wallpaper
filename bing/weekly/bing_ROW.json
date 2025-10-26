@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510260700",
+        "date": "20251027",
+        "url": "https://www.bing.com/th?id=OHR.PumpkinFarm_ROW0518823159_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PumpkinFarm_ROW0518823159",
+        "copyright": "Pumpkin farm in North Carolina, United States (© Matthew H Irvin/Getty Images)",
+        "copyrightKeyword": "pumpkin",
+        "hsh": "464b3649981f8420c5d218c512c6f006"
+    },
+    {
         "fullstartdate": "202510250700",
         "date": "20251026",
         "url": "https://www.bing.com/th?id=OHR.MartimoaapaFinland_ROW0416444680_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Apples ready for harvest, Minnesota, United States (© Tammi Mild/Getty Images)",
         "copyrightKeyword": "harvesting apples",
         "hsh": "77e4b79359e17b5557379d33db6d1414"
-    },
-    {
-        "fullstartdate": "202510180700",
-        "date": "20251019",
-        "url": "https://www.bing.com/th?id=OHR.SilburyHill_ROW9508999634_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SilburyHill_ROW9508999634",
-        "copyright": "Neolithic site of Silbury Hill, Tilshead, Wiltshire, England (© dbstockphoto/Getty Images)",
-        "copyrightKeyword": "Silbury Hill",
-        "hsh": "f87f46fbd9eb70c8322dc4c9f17c3870"
     }
 ]

@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510260700",
+        "date": "20251027",
+        "url": "https://www.bing.com/th?id=OHR.PumpkinFarm_EN-US3773448576_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PumpkinFarm_EN-US3773448576",
+        "copyright": "Pumpkin farm in North Carolina (© Matthew H Irvin/Getty Images)",
+        "copyrightKeyword": "National Pumpkin Day",
+        "hsh": "fca4bbdf22ca80ae6b9086bea5e9b02d"
+    },
+    {
         "fullstartdate": "202510250700",
         "date": "20251026",
         "url": "https://www.bing.com/th?id=OHR.MartimoaapaFinland_EN-US3685817058_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Apples ready for harvest, Minnesota (© Tammi Mild/Getty Images)",
         "copyrightKeyword": "harvesting apples",
         "hsh": "2879932489c47487311fe37366b8e736"
-    },
-    {
-        "fullstartdate": "202510180700",
-        "date": "20251019",
-        "url": "https://www.bing.com/th?id=OHR.SilburyHill_EN-US2485144120_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SilburyHill_EN-US2485144120",
-        "copyright": "Neolithic site of Silbury Hill, Tilshead, Wiltshire, England (© dbstockphoto/Getty Images)",
-        "copyrightKeyword": "International Archaeology Day",
-        "hsh": "cf7be7bdb3255dec349c518ff6acad28"
     }
 ]

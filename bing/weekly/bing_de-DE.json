@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510262300",
+        "date": "20251027",
+        "url": "https://www.bing.com/th?id=OHR.AfricanRaven_DE-DE9134207646_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AfricanRaven_DE-DE9134207646",
+        "copyright": "Erzrabe, Simien-Nationalpark, Äthiopien (© Ignacio Yufera/FLPA/Minden Pictures)",
+        "copyrightKeyword": "Erzrabe",
+        "hsh": "6fc1c2a65fd38106d225fa058bbe6744"
+    },
+    {
         "fullstartdate": "202510252200",
         "date": "20251026",
         "url": "https://www.bing.com/th?id=OHR.PumpkinFarm_DE-DE1674202755_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Hoffmann-Zweifingerfaultier, Ecuador (© Murray Cooper/Minden Pictures)",
         "copyrightKeyword": "Internationaler Tag des Faultiers",
         "hsh": "77874788eef82964fd902e9fbfd40c83"
-    },
-    {
-        "fullstartdate": "202510182200",
-        "date": "20251019",
-        "url": "https://www.bing.com/th?id=OHR.AppleHarvest_DE-DE2705439483_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AppleHarvest_DE-DE2705439483",
-        "copyright": "Erntereife Äpfel, Minnesota, USA (© Tammi Mild/Getty Images)",
-        "copyrightKeyword": "Apfelernte",
-        "hsh": "9871f0f8b2ebe6977ce9d097552d53b4"
     }
 ]
