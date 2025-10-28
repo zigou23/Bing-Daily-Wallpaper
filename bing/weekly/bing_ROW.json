@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510280700",
+        "date": "20251029",
+        "url": "https://www.bing.com/th?id=OHR.TepliceRocks_ROW0717999002_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TepliceRocks_ROW0717999002",
+        "copyright": "The Gothic Gate in the Adršpach-Teplice Rocks, Czechia (© Kseniya_Milner/Getty Images)",
+        "copyrightKeyword": "Adrspach Teplice Rocks Czechia",
+        "hsh": "e80cf7691ab5479b6006eaa469d4e2c9"
+    },
+    {
         "fullstartdate": "202510270700",
         "date": "20251028",
         "url": "https://www.bing.com/th?id=OHR.AfricanRaven_ROW0614133197_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Cap d'Antibes, Provence-Alpes-Côte d'Azur, France (© Eric Rousset/Getty Images)",
         "copyrightKeyword": "Cap d'Antibes",
         "hsh": "098465aae80cb982e4559ec695417078"
-    },
-    {
-        "fullstartdate": "202510200700",
-        "date": "20251021",
-        "url": "https://www.bing.com/th?id=OHR.HoffmansSloth_ROW9786631767_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.HoffmansSloth_ROW9786631767",
-        "copyright": "Hoffmann's two-toed sloth, Ecuador (© Murray Cooper/Minden Pictures)",
-        "copyrightKeyword": "Sloth",
-        "hsh": "f4fbc7541a6d85d646b32752de69bb23"
     }
 ]
