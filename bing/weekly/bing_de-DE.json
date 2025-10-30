@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510302300",
+        "date": "20251031",
+        "url": "https://www.bing.com/th?id=OHR.BranCastle_DE-DE1129139069_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BranCastle_DE-DE1129139069",
+        "copyright": "Eingang zum Schloss Bran, Brașov, Rumänien (© blue sky in my pocket/Getty Images)",
+        "copyrightKeyword": "Schloss Bran Brașov",
+        "hsh": "5cde5c5a899062d8459ca53755ad0b9d"
+    },
+    {
         "fullstartdate": "202510292300",
         "date": "20251030",
         "url": "https://www.bing.com/th?id=OHR.PushkarFair_DE-DE2030410858_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Alte Bibliothek, Kloster Sankt Mang, Füssen, Bayern (© marcobriviophoto/Shutterstock)",
         "copyrightKeyword": "Abtei Sankt Mang",
         "hsh": "75d2198c2672ae36ebdbf38883345058"
-    },
-    {
-        "fullstartdate": "202510222200",
-        "date": "20251023",
-        "url": "https://www.bing.com/th?id=OHR.SnowLeopard_DE-DE9074654183_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SnowLeopard_DE-DE9074654183",
-        "copyright": "Schneeleopardin mit ihren Jungen, Spitital, Cold Desert Biosphere Reserve, Indien (© Oriol Alamany/naturepl.com)",
-        "copyrightKeyword": "Internationaler Tag des Schneeleoparden",
-        "hsh": "6e2b0376ce662c75e20181a254f446db"
     }
 ]
