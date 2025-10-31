@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510310400",
+        "date": "20251101",
+        "url": "https://www.bing.com/th?id=OHR.PumpkinHalloween_EN-CA7800115096_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PumpkinHalloween_EN-CA7800115096",
+        "copyright": "Different kinds of pumpkins and gourds (© davidfillion/Getty Images)",
+        "copyrightKeyword": "Halloween",
+        "hsh": "a40a8dc87393d649106c87df0070dbe6"
+    },
+    {
         "fullstartdate": "202510300400",
         "date": "20251031",
         "url": "https://www.bing.com/th?id=OHR.PushkarFair_EN-CA8887755695_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Night view of the RMS Queen Mary, Long Beach, California, United States (© Kit Leong/Shutterstock)",
         "copyrightKeyword": "RMS Queen Mary",
         "hsh": "05cfdac99b1599de92be81648959ab4a"
-    },
-    {
-        "fullstartdate": "202510230400",
-        "date": "20251024",
-        "url": "https://www.bing.com/th?id=OHR.SnowLeopard_EN-CA8504425279_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SnowLeopard_EN-CA8504425279",
-        "copyright": "Snow leopard with her cubs, Spiti Valley, Cold Desert Biosphere Reserve, India (© Oriol Alamany/naturepl.com)",
-        "copyrightKeyword": "International Day of the Snow Leopard",
-        "hsh": "93b1b6c5804c99869d9d83f066fa1017"
     }
 ]

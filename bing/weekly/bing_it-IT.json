@@ -1,12 +1,21 @@
 [
     {
+        "fullstartdate": "202510312300",
+        "date": "20251101",
+        "url": "https://www.bing.com/th?id=OHR.BisonSprings_IT-IT4205256619_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BisonSprings_IT-IT4205256619",
+        "copyright": "Bisonti al pascolo, Parco Nazionale di Yellowstone, Wyoming, USA (© Cheryl Ramalho/Getty Images)",
+        "copyrightKeyword": "Il Parco nazionale di Yellowstone USA",
+        "hsh": "4e45dedeea95125c905fa85eaca0f98f"
+    },
+    {
         "fullstartdate": "202510302300",
         "date": "20251031",
-        "url": "https://www.bing.com/th?id=OHR.BranCastle_IT-IT5114720491_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BranCastle_IT-IT5114720491",
+        "url": "https://www.bing.com/th?id=OHR.BranCastle_IT-IT4029236084_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BranCastle_IT-IT4029236084",
         "copyright": "Ingresso del Castello di Bran a Bran, Brașov, Romania (© blue sky in my pocket/Getty Images)",
         "copyrightKeyword": "Il castello di Bran",
-        "hsh": "52bdbb2ff805b8dc201bd348959a2a4c"
+        "hsh": "715ccfcdb618f9c7bc501b6acda1a3c0"
     },
     {
         "fullstartdate": "202510292300",
@@ -61,14 +70,5 @@
         "copyright": "Vista aerea della torbiera nella riserva naturale di Martimoaapa Mire, Finlandia (© romikatarina/Shutterstock)",
         "copyrightKeyword": "La Finlandia",
         "hsh": "f708438546de4790e59700c4113a6972"
-    },
-    {
-        "fullstartdate": "202510232200",
-        "date": "20251024",
-        "url": "https://www.bing.com/th?id=OHR.PumpkinFarm_IT-IT9478392413_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PumpkinFarm_IT-IT9478392413",
-        "copyright": "Zucche in azienda agricola, Carolina del Nord, USA (© Matthew H Irvin/Getty Images)",
-        "copyrightKeyword": "Zucca",
-        "hsh": "1f000de8e865407e04265cd60fa45691"
     }
 ]

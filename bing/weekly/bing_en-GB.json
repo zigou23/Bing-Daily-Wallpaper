@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202510310000",
+        "date": "20251101",
+        "url": "https://www.bing.com/th?id=OHR.BranCastle_EN-GB2930979213_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BranCastle_EN-GB2930979213",
+        "copyright": "Entrance of Bran Castle in Bran, Brașov, Romania (© blue sky in my pocket/Getty Images)",
+        "copyrightKeyword": "bran castle",
+        "hsh": "b8af142daffb7e6f41508ac1f3fae1f8"
+    },
+    {
         "fullstartdate": "202510300000",
         "date": "20251031",
         "url": "https://www.bing.com/th?id=OHR.PushkarFair_EN-GB3870790222_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Night view of the RMS Queen Mary, Long Beach, California, United States (© Kit Leong/Shutterstock)",
         "copyrightKeyword": "RMS Queen Mary",
         "hsh": "39bab65c542200451699f89e5f499fbf"
-    },
-    {
-        "fullstartdate": "202510222300",
-        "date": "20251023",
-        "url": "https://www.bing.com/th?id=OHR.SnowLeopard_EN-GB3426907402_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SnowLeopard_EN-GB3426907402",
-        "copyright": "Snow leopard with her cubs, Spiti Valley, Cold Desert Biosphere Reserve, India (© Oriol Alamany/naturepl.com)",
-        "copyrightKeyword": "International Day of the Snow Leopard",
-        "hsh": "894d3fdc8ecce5cabcc2204c95ecf865"
     }
 ]
