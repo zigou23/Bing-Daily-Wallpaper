@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202511012300",
+        "date": "20251102",
+        "url": "https://www.bing.com/th?id=OHR.BisonSprings_ES-ES3027945894_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BisonSprings_ES-ES3027945894",
+        "copyright": "Bisontes pastando en aguas termales, Parque Nacional de Yellowstone, Wyoming, EE. UU. (© Cheryl Ramalho/Getty Images)",
+        "copyrightKeyword": "bisón animal",
+        "hsh": "ea35ddf168fad7bfc7642cbb7bfcb305"
+    },
+    {
         "fullstartdate": "202510312300",
         "date": "20251101",
         "url": "https://www.bing.com/th?id=OHR.AutumSaints_ES-ES0641147491_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Vista aérea de las turberas en la Reserva Martimoaapa Mire, Finlandia (© romikatarina/Shutterstock)",
         "copyrightKeyword": "Ramsar de Finlandia",
         "hsh": "d67cb925d1cc5fe531cd357afcd1fda9"
-    },
-    {
-        "fullstartdate": "202510242200",
-        "date": "20251025",
-        "url": "https://www.bing.com/th?id=OHR.PaisVascoDay_ES-ES6776223688_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PaisVascoDay_ES-ES6776223688",
-        "copyright": "Río Oca, Mundaka, Vizcaya, País Vasco, España (© Tuul and Bruno Morandi/Alamy)",
-        "copyrightKeyword": "Día del País Vasco",
-        "hsh": "8f8c3c9422992e902a8ce66412cada97"
     }
 ]
