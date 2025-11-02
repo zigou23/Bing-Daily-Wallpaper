@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202511020800",
+        "date": "20251103",
+        "url": "https://www.bing.com/th?id=OHR.KyotoMaple_EN-US6732403492_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.KyotoMaple_EN-US6732403492",
+        "copyright": "Colorful maple leaves and bamboo forest in Arashiyama, Kyoto, Japan (© DoctorEgg/Getty Images)",
+        "copyrightKeyword": "Arashiyama Kyoto",
+        "hsh": "32fdf7a0c863992485296abebb2ac0f3"
+    },
+    {
         "fullstartdate": "202511010700",
         "date": "20251102",
         "url": "https://www.bing.com/th?id=OHR.BisonSprings_EN-US6080228013_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Pumpkin farm in North Carolina (© Matthew H Irvin/Getty Images)",
         "copyrightKeyword": "National Pumpkin Day",
         "hsh": "fca4bbdf22ca80ae6b9086bea5e9b02d"
-    },
-    {
-        "fullstartdate": "202510250700",
-        "date": "20251026",
-        "url": "https://www.bing.com/th?id=OHR.MartimoaapaFinland_EN-US3685817058_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MartimoaapaFinland_EN-US3685817058",
-        "copyright": "Aerial view of peatland in Martimoaapa Mire Reserve, Finland (© romikatarina/Shutterstock)",
-        "copyrightKeyword": "Martimoaapa Finland",
-        "hsh": "d109b1ccd6d0c4d0ad0c6273fa895f95"
     }
 ]
