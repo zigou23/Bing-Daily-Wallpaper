@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202511032300",
+        "date": "20251104",
+        "url": "https://www.bing.com/th?id=OHR.TowerBridgeUK_ES-ES3109579970_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TowerBridgeUK_ES-ES3109579970",
+        "copyright": "Tower Bridge, Londres, Inglaterra (© Nick Brundle Photography/Getty Images)",
+        "copyrightKeyword": "Londres",
+        "hsh": "18531154e19beaf63663e954e942b600"
+    },
+    {
         "fullstartdate": "202511022300",
         "date": "20251103",
         "url": "https://www.bing.com/th?id=OHR.MexicoJelly_ES-ES0847480755_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Puerta gótica en las rocas de Adršpach-Teplice, Bohemia, República Checa (© Kseniya_Milner/Getty Images)",
         "copyrightKeyword": "Rocas Adršpach Teplice",
         "hsh": "086b648255368d67a2a4672bb0be7c9a"
-    },
-    {
-        "fullstartdate": "202510262300",
-        "date": "20251027",
-        "url": "https://www.bing.com/th?id=OHR.AfricanRaven_ES-ES0390865860_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AfricanRaven_ES-ES0390865860",
-        "copyright": "El cuervo picogordo, Montañas Simien, Etiopía (© Ignacio Yufera/FLPA/Minden Pictures)",
-        "copyrightKeyword": "El cuervo picogordo",
-        "hsh": "ff2d7400ace902bfb9a0bf2f93b68970"
     }
 ]

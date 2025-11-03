@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202511031830",
+        "date": "20251104",
+        "url": "https://www.bing.com/th?id=OHR.TowerBridgeUK_EN-IN1788130859_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TowerBridgeUK_EN-IN1788130859",
+        "copyright": "Tower Bridge, London, England (© Nick Brundle Photography/Getty Images)",
+        "copyrightKeyword": "Tower Bridge London",
+        "hsh": "71032da331d178852a6ad69411af533d"
+    },
+    {
         "fullstartdate": "202511021830",
         "date": "20251103",
         "url": "https://www.bing.com/th?id=OHR.MexicoJelly_EN-IN1631723405_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "The Gothic Gate in the Adršpach-Teplice Rocks, Czechia (© Kseniya_Milner/Getty Images)",
         "copyrightKeyword": "Adrspach Teplice Rocks Czechia",
         "hsh": "7d705019e9a9240a0f8d9acf6ff9af5f"
-    },
-    {
-        "fullstartdate": "202510261830",
-        "date": "20251027",
-        "url": "https://www.bing.com/th?id=OHR.ChhathPuja_EN-IN6737950149_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ChhathPuja_EN-IN6737950149",
-        "copyright": "People worshipping the sun on Chhath, at Juhu Beach, Mumbai, Maharashtra (© Dinodia Photo/Getty Images)",
-        "copyrightKeyword": "Chhath Puja",
-        "hsh": "61b8e80b0bc31550396d8057a230c201"
     }
 ]

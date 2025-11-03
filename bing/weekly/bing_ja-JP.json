@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202511031500",
+        "date": "20251104",
+        "url": "https://www.bing.com/th?id=OHR.TowerBridgeUK_JA-JP9811775783_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TowerBridgeUK_JA-JP9811775783",
+        "copyright": "タワーブリッジ, イングランド (© Nick Brundle Photography/Getty Images)",
+        "copyrightKeyword": "タワーブリッジ",
+        "hsh": "c03487d1317ee141ff5aae736242496b"
+    },
+    {
         "fullstartdate": "202511021500",
         "date": "20251103",
         "url": "https://www.bing.com/th?id=OHR.HinterseeWaterfall_JA-JP9416603910_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "アドルシュパフ=テプリツェ奇岩群, チェコ共和国 (© Kseniya_Milner/Getty Images)",
         "copyrightKeyword": "アドルシュパフ=テプリツェ奇岩群",
         "hsh": "e9b0aad0402b4dec141af32e04ebd4ed"
-    },
-    {
-        "fullstartdate": "202510261500",
-        "date": "20251027",
-        "url": "https://www.bing.com/th?id=OHR.AfricanRaven_JA-JP4581712736_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AfricanRaven_JA-JP4581712736",
-        "copyright": "オオハシガラス, エチオピア (© Ignacio Yufera/FLPA/Minden Pictures)",
-        "copyrightKeyword": "オオハシガラス",
-        "hsh": "b38487a5048b92607397f3177ccace20"
     }
 ]
