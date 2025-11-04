@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202511041830",
+        "date": "20251105",
+        "url": "https://www.bing.com/th?id=OHR.GurpurabAmritsar_EN-IN2812865988_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GurpurabAmritsar_EN-IN2812865988",
+        "copyright": "Golden Temple, Amritsar, Punjab, India (© Alan_Lagadu/Getty Images)",
+        "copyrightKeyword": "Guru Nanak Gurpurab",
+        "hsh": "64853e55079d36977347b4586f5c673d"
+    },
+    {
         "fullstartdate": "202511031830",
         "date": "20251104",
         "url": "https://www.bing.com/th?id=OHR.TowerBridgeUK_EN-IN1788130859_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Ancient til trees in Fanal Forest, island of Madeira, Portugal (© Lukas Jonaitis/Shutterstock)",
         "copyrightKeyword": "Laurissilva of Madeira",
         "hsh": "c88d4432ad14f0b635b4d75ba66f7b12"
-    },
-    {
-        "fullstartdate": "202510271830",
-        "date": "20251028",
-        "url": "https://www.bing.com/th?id=OHR.TepliceRocks_EN-IN6945703275_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.TepliceRocks_EN-IN6945703275",
-        "copyright": "The Gothic Gate in the Adršpach-Teplice Rocks, Czechia (© Kseniya_Milner/Getty Images)",
-        "copyrightKeyword": "Adrspach Teplice Rocks Czechia",
-        "hsh": "7d705019e9a9240a0f8d9acf6ff9af5f"
     }
 ]

@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202511040000",
+        "date": "20251105",
+        "url": "https://www.bing.com/th?id=OHR.TowerBridgeUK_EN-GB3663300679_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TowerBridgeUK_EN-GB3663300679",
+        "copyright": "Tower Bridge, London, England (© Nick Brundle Photography/Getty Images)",
+        "copyrightKeyword": "Tower Bridge London",
+        "hsh": "a19b4b634e00e5a95826f5085f95489a"
+    },
+    {
         "fullstartdate": "202511030000",
         "date": "20251104",
         "url": "https://www.bing.com/th?id=OHR.MexicoJelly_EN-GB3540800984_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "The Gothic Gate in the Adršpach-Teplice Rocks, Czechia (© Kseniya_Milner/Getty Images)",
         "copyrightKeyword": "Adrspach Teplice Rocks Czechia",
         "hsh": "c6b4c0ca9b23db278622607301145698"
-    },
-    {
-        "fullstartdate": "202510270000",
-        "date": "20251028",
-        "url": "https://www.bing.com/th?id=OHR.AfricanRaven_EN-GB3785387714_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AfricanRaven_EN-GB3785387714",
-        "copyright": "Thick-billed raven, Simien Mountains, Ethiopia (© Ignacio Yufera/FLPA/Minden Pictures)",
-        "copyrightKeyword": "thick billed raven",
-        "hsh": "e9928949e63985c96937de9c153c8336"
     }
 ]
