@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202511051500",
+        "date": "20251106",
+        "url": "https://www.bing.com/th?id=OHR.LanternsThailand_JA-JP0402404581_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LanternsThailand_JA-JP0402404581",
+        "copyright": "ワット・プラタートハリプンチャイ寺院, タイ (© MR. ANUJAK JAIMOOK/Getty Images)",
+        "copyrightKeyword": "ワット・プラタートハリプンチャイ寺院",
+        "hsh": "5dc7642b9a44f0381b6e8989d0f6a3c0"
+    },
+    {
         "fullstartdate": "202511041500",
         "date": "20251105",
         "url": "https://www.bing.com/th?id=OHR.MoncayoAutumn_JA-JP0004840781_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "砂漠を歩くラクダたち, インド ラージャスターン州 (© f9photos/Getty Images)",
         "copyrightKeyword": "プシュカル・キャメルフェア",
         "hsh": "aff7f8d1fa29482867d74cfbdd2fbed1"
-    },
-    {
-        "fullstartdate": "202510281500",
-        "date": "20251029",
-        "url": "https://www.bing.com/th?id=OHR.FanalForest_JA-JP5058622515_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FanalForest_JA-JP5058622515",
-        "copyright": "マデイラ島のファナルの森, ポルトガル (© Lukas Jonaitis/Shutterstock)",
-        "copyrightKeyword": "マデイラ島 ファナルの森",
-        "hsh": "efb970829b052b1f94c4fc6b8e8afd7b"
     }
 ]
