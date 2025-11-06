@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202511062300",
+        "date": "20251107",
+        "url": "https://www.bing.com/th?id=OHR.WillowBear_FR-FR5230824319_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WillowBear_FR-FR5230824319",
+        "copyright": "Ours polaire à Churchill, Manitoba, Canada (© karen crewe/Getty Images)",
+        "copyrightKeyword": "Semaine ours polaire Churchill",
+        "hsh": "2edd3607c52ae859fc343fe1e2f4b467"
+    },
+    {
         "fullstartdate": "202511052300",
         "date": "20251106",
         "url": "https://www.bing.com/th?id=OHR.LanternsThailand_FR-FR4768060525_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Entrée du château de Bran, Brașov, Roumanie (© blue sky in my pocket/Getty Images) Caption URL:",
         "copyrightKeyword": "Bran, Brașov, Roumanie",
         "hsh": "48d6900c00a3c205db67771c46bcac70"
-    },
-    {
-        "fullstartdate": "202510292300",
-        "date": "20251030",
-        "url": "https://www.bing.com/th?id=OHR.PushkarFair_FR-FR0781642371_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PushkarFair_FR-FR0781642371",
-        "copyright": "Chameaux d’Arabie à Jaisalmer, Rajasthan, Inde (© f9photos/Getty Images)",
-        "copyrightKeyword": "Foire aux chameaux de Pushkar",
-        "hsh": "5709ecd6e6cefb21f36ff20fcd548d33"
     }
 ]

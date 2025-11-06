@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202511060500",
+        "date": "20251107",
+        "url": "https://www.bing.com/th?id=OHR.LanternsThailand_EN-CA5479422302_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LanternsThailand_EN-CA5479422302",
+        "copyright": "Colourful lanterns at the temple of Wat Phra That Hariphunchai, Lamphun, Thailand (© MR. ANUJAK JAIMOOK/Getty Images)",
+        "copyrightKeyword": "Chiang Mai lantern festival",
+        "hsh": "3de3776cf6fea5a833760ed42b472dae"
+    },
+    {
         "fullstartdate": "202511050500",
         "date": "20251106",
         "url": "https://www.bing.com/th?id=OHR.MoncayoAutumn_EN-CA5026408970_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Camels at Jaisalmer, Rajasthan, India (© f9photos/Getty Images)",
         "copyrightKeyword": "Pushkar Camel Fair",
         "hsh": "332e5d5cdf99e56a9dfe0738dac72018"
-    },
-    {
-        "fullstartdate": "202510290400",
-        "date": "20251030",
-        "url": "https://www.bing.com/th?id=OHR.FanalForest_EN-CA8761843503_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FanalForest_EN-CA8761843503",
-        "copyright": "Ancient til trees in Fanal Forest, island of Madeira, Portugal (© Lukas Jonaitis/Shutterstock)",
-        "copyrightKeyword": "Laurissilva of Madeira",
-        "hsh": "7c7343ea8ea4ca038a3bf4eb29459abf"
     }
 ]

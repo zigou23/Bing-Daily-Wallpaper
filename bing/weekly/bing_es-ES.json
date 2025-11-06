@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202511062300",
+        "date": "20251107",
+        "url": "https://www.bing.com/th?id=OHR.WillowBear_ES-ES1378157368_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WillowBear_ES-ES1378157368",
+        "copyright": "Oso polar en Churchill, Manitoba, Canadá (© karen crewe/Getty Images)",
+        "copyrightKeyword": "Oso Polar",
+        "hsh": "c645644ef2edca55b024a9dd19c2de37"
+    },
+    {
         "fullstartdate": "202511052300",
         "date": "20251106",
         "url": "https://www.bing.com/th?id=OHR.LanternsThailand_ES-ES1230113417_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Entrada al castillo de Bran en Bran, Brașov, Rumania (© blue sky in my pocket/Getty Images)",
         "copyrightKeyword": "castillo de Bran",
         "hsh": "78a17573df8e6243f04b57a816a8c016"
-    },
-    {
-        "fullstartdate": "202510292300",
-        "date": "20251030",
-        "url": "https://www.bing.com/th?id=OHR.PushkarFair_ES-ES0743477785_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PushkarFair_ES-ES0743477785",
-        "copyright": "Dromedarios en Jaisalmer, Rajasthan, India (© f9photos/Getty Images)",
-        "copyrightKeyword": "Feria de Pushkar",
-        "hsh": "df2c08b4565a40eb25c3534a56e6ce74"
     }
 ]
