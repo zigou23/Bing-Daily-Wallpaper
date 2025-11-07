@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202511070500",
+        "date": "20251108",
+        "url": "https://www.bing.com/th?id=OHR.WillowBear_EN-CA6004529006_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WillowBear_EN-CA6004529006",
+        "copyright": "Polar bear in Churchill, Manitoba (© karen crewe/Getty Images)",
+        "copyrightKeyword": "Polar Bear Week",
+        "hsh": "280c12d18dd3aeb6de78bf9cb78dfadf"
+    },
+    {
         "fullstartdate": "202511060500",
         "date": "20251107",
         "url": "https://www.bing.com/th?id=OHR.LanternsThailand_EN-CA5479422302_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Different kinds of pumpkins and gourds (© davidfillion/Getty Images)",
         "copyrightKeyword": "Halloween",
         "hsh": "a40a8dc87393d649106c87df0070dbe6"
-    },
-    {
-        "fullstartdate": "202510300400",
-        "date": "20251031",
-        "url": "https://www.bing.com/th?id=OHR.PushkarFair_EN-CA8887755695_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PushkarFair_EN-CA8887755695",
-        "copyright": "Camels at Jaisalmer, Rajasthan, India (© f9photos/Getty Images)",
-        "copyrightKeyword": "Pushkar Camel Fair",
-        "hsh": "332e5d5cdf99e56a9dfe0738dac72018"
     }
 ]

@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202511070800",
+        "date": "20251108",
+        "url": "https://www.bing.com/th?id=OHR.WillowBear_EN-US6995170630_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WillowBear_EN-US6995170630",
+        "copyright": "Polar bear in Churchill, Manitoba, Canada (© karen crewe/Getty Images)",
+        "copyrightKeyword": "Polar Bear Week",
+        "hsh": "5b04b016f5cb5a28d59e1ca02eb45568"
+    },
+    {
         "fullstartdate": "202511060800",
         "date": "20251107",
         "url": "https://www.bing.com/th?id=OHR.LanternsThailand_EN-US6955074347_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Entrance of Bran Castle in Bran, Brașov, Romania (© blue sky in my pocket/Getty Images)",
         "copyrightKeyword": "bran castle",
         "hsh": "e7eedaf191333f766d3224d02359a222"
-    },
-    {
-        "fullstartdate": "202510300700",
-        "date": "20251031",
-        "url": "https://www.bing.com/th?id=OHR.PushkarFair_EN-US4430814252_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PushkarFair_EN-US4430814252",
-        "copyright": "Camels at Jaisalmer, Rajasthan, India (© f9photos/Getty Images)",
-        "copyrightKeyword": "Pushkar Camel Fair",
-        "hsh": "8d74fed583dbef56eab057a392d9892a"
     }
 ]
