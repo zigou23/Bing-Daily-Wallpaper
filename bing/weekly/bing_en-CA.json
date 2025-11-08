@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202511080500",
+        "date": "20251109",
+        "url": "https://www.bing.com/th?id=OHR.BandonBeach_EN-CA6449115484_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BandonBeach_EN-CA6449115484",
+        "copyright": "Sea stacks of Bandon Beach in Bandon, Oregon, United States (© Grant Ordelheide/TANDEM Stills + Motion)",
+        "copyrightKeyword": "Bandon Oregon",
+        "hsh": "1be7f5887fb258b50fce9d880e1070e5"
+    },
+    {
         "fullstartdate": "202511070500",
         "date": "20251108",
         "url": "https://www.bing.com/th?id=OHR.WillowBear_EN-CA6004529006_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Bison grazing at thermal hot springs, Yellowstone National Park, Wyoming, United States (© Cheryl Ramalho/Getty Images)",
         "copyrightKeyword": "Yellowstone National Park",
         "hsh": "cab229c72c8758e61bf5621b476459c0"
-    },
-    {
-        "fullstartdate": "202510310400",
-        "date": "20251101",
-        "url": "https://www.bing.com/th?id=OHR.PumpkinHalloween_EN-CA7800115096_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PumpkinHalloween_EN-CA7800115096",
-        "copyright": "Different kinds of pumpkins and gourds (© davidfillion/Getty Images)",
-        "copyrightKeyword": "Halloween",
-        "hsh": "a40a8dc87393d649106c87df0070dbe6"
     }
 ]
