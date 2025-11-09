@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202511092300",
+        "date": "20251110",
+        "url": "https://www.bing.com/th?id=OHR.CastleAbruzzo_IT-IT5062952309_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.CastleAbruzzo_IT-IT5062952309",
+        "copyright": "Castello di Rocca Calascio, Parco Nazionale del Gran Sasso e dei Monti della Laga, Abruzzo (© carlo alberto conti/Getty Images)",
+        "copyrightKeyword": "Castello di Rocca Calascio",
+        "hsh": "8eeee481672b6258fa308a8476cd1826"
+    },
+    {
         "fullstartdate": "202511082300",
         "date": "20251109",
         "url": "https://www.bing.com/th?id=OHR.LagoonNebula_IT-IT3250116323_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Medusa nell’Oceano Pacifico, Guerrero, Messico (© Christian Vizl/TANDEM Stills + Motion)",
         "copyrightKeyword": "Meduse",
         "hsh": "5b6a530a83178d29dbf671022749dc45"
-    },
-    {
-        "fullstartdate": "202511012300",
-        "date": "20251102",
-        "url": "https://www.bing.com/th?id=OHR.KyotoMaple_IT-IT4372784609_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.KyotoMaple_IT-IT4372784609",
-        "copyright": "Foglie di acero colorate e foresta di bambù ad Arashiyama, Kyoto, Giappone (© DoctorEgg/Getty Images)",
-        "copyrightKeyword": "Arashiyama Kyoto",
-        "hsh": "33fb2457e403076226c885e396b4b852"
     }
 ]

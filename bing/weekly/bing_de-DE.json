@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202511092300",
+        "date": "20251110",
+        "url": "https://www.bing.com/th?id=OHR.PrairieDogTown_DE-DE5557386085_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PrairieDogTown_DE-DE5557386085",
+        "copyright": "Schwarzschwanz-Präriehunde in der Roberts Prairie Dog Town, Badlands-Nationalpark, South Dakota, USA (© Greg Vaughn/Getty Images)",
+        "copyrightKeyword": "Badlands-Nationalpark",
+        "hsh": "6201ed737f66c9d87f7746ecfa1ed753"
+    },
+    {
         "fullstartdate": "202511082300",
         "date": "20251109",
         "url": "https://www.bing.com/th?id=OHR.BerlinOberbaumbruecke_DE-DE8698967118_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Qualle schwimmt im Pazifik, Guerrero, Mexiko (© Christian Vizl/TANDEM Stills + Motion)",
         "copyrightKeyword": "Qualle",
         "hsh": "d77ca960ce77e4b31a48f7b675d1023c"
-    },
-    {
-        "fullstartdate": "202511012300",
-        "date": "20251102",
-        "url": "https://www.bing.com/th?id=OHR.KyotoMaple_DE-DE4984114115_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.KyotoMaple_DE-DE4984114115",
-        "copyright": "Bunte Ahornblätter und Bambuswald in Arashiyama, Kyoto, Japan (© DoctorEgg/Getty Images)",
-        "copyrightKeyword": "Japan Arashiyama",
-        "hsh": "084891a0d2e367612807d0ca8343585c"
     }
 ]

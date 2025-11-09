@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202511090300",
+        "date": "20251110",
+        "url": "https://www.bing.com/th?id=OHR.LagoonNebula_PT-BR4213803811_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LagoonNebula_PT-BR4213803811",
+        "copyright": "Nuvens interestelares na Nebulosa da Lagoa, capturadas pelo Telescópio Espacial Hubble (© ESA/NASA)",
+        "copyrightKeyword": "Nebulosa da Lagoa",
+        "hsh": "03c95927e5788f4e4a4cb6f2130cd1b0"
+    },
+    {
         "fullstartdate": "202511080300",
         "date": "20251109",
         "url": "https://www.bing.com/th?id=OHR.BandonBeach_PT-BR3802198914_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Folhas coloridas de bordo e floresta de bambu em Arashiyama, Quioto, Japão (© DoctorEgg/Getty Images)",
         "copyrightKeyword": "Quioto, Japão",
         "hsh": "0e733943b4a4bce87df9735f4776afc0"
-    },
-    {
-        "fullstartdate": "202511010300",
-        "date": "20251102",
-        "url": "https://www.bing.com/th?id=OHR.BisonSprings_PT-BR7966374292_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BisonSprings_PT-BR7966374292",
-        "copyright": "Bisões-americanos pastando em fontes termais, Parque Nacional  de Yellowstone, Wyoming, EUA (© Cheryl Ramalho/Getty Images)",
-        "copyrightKeyword": "Bisão",
-        "hsh": "25164047550e865f46f629d67479ec4d"
     }
 ]
