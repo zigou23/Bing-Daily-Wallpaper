@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202511100300",
+        "date": "20251111",
+        "url": "https://www.bing.com/th?id=OHR.PrairieDogTown_PT-BR5550124039_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PrairieDogTown_PT-BR5550124039",
+        "copyright": "Cães-da-pradaria no Parque Nacional das Badlands, Dakota do Sul, EUA (© Greg Vaughn/Getty Images)",
+        "copyrightKeyword": "Parque Nacional das Badlands Dakota",
+        "hsh": "f44b7f366f66df503cbe9fcd440c17c1"
+    },
+    {
         "fullstartdate": "202511090300",
         "date": "20251110",
         "url": "https://www.bing.com/th?id=OHR.LagoonNebula_PT-BR4213803811_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Água-viva nadando no Pacífico, Guerrero, México (© Christian  Vizl/TANDEM Stills + Motion)",
         "copyrightKeyword": "água viva",
         "hsh": "eeeb4f59ba26f961ea369c27bf66bd22"
-    },
-    {
-        "fullstartdate": "202511020300",
-        "date": "20251103",
-        "url": "https://www.bing.com/th?id=OHR.KyotoMaple_PT-BR7332494643_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.KyotoMaple_PT-BR7332494643",
-        "copyright": "Folhas coloridas de bordo e floresta de bambu em Arashiyama, Quioto, Japão (© DoctorEgg/Getty Images)",
-        "copyrightKeyword": "Quioto, Japão",
-        "hsh": "0e733943b4a4bce87df9735f4776afc0"
     }
 ]

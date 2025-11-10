@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202511100000",
+        "date": "20251111",
+        "url": "https://www.bing.com/th?id=OHR.PrairieDogTown_EN-GB8796991019_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PrairieDogTown_EN-GB8796991019",
+        "copyright": "Black-tailed prairie dogs at Roberts Prairie Dog Town, Badlands National Park, South Dakota, USA (© Greg Vaughn/Getty Images)",
+        "copyrightKeyword": "Badlands National Park",
+        "hsh": "99c486ae7947055b2f9e94e43453a2ec"
+    },
+    {
         "fullstartdate": "202511090000",
         "date": "20251110",
         "url": "https://www.bing.com/th?id=OHR.RemembranceSunday2025_EN-GB8493824308_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Jellyfish swimming in the Pacific, Guerrero, Mexico (© Christian Vizl/TANDEM Stills + Motion)",
         "copyrightKeyword": "World Jellyfish Day",
         "hsh": "f99e43075b1ad650643b28eb874674fb"
-    },
-    {
-        "fullstartdate": "202511020000",
-        "date": "20251103",
-        "url": "https://www.bing.com/th?id=OHR.KyotoMaple_EN-GB3352646141_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.KyotoMaple_EN-GB3352646141",
-        "copyright": "Colourful maple leaves and bamboo forest in Arashiyama, Kyoto, Japan (© DoctorEgg/Getty Images)",
-        "copyrightKeyword": "Arashiyama Kyoto",
-        "hsh": "e83a6d41a4980b3ae3cca96fdabc5e11"
     }
 ]
