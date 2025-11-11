@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202511112300",
+        "date": "20251112",
+        "url": "https://www.bing.com/th?id=OHR.ColosseumRome_IT-IT5258156974_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ColosseumRome_IT-IT5258156974",
+        "copyright": "Colosseo, Roma, Lazio (© Nico De Pasquale Photography/Getty Images)",
+        "copyrightKeyword": "Colosseo Roma",
+        "hsh": "f43e34d5684a2e7e8a40c386059b63bf"
+    },
+    {
         "fullstartdate": "202511102300",
         "date": "20251111",
         "url": "https://www.bing.com/th?id=OHR.ExternsteineSunset_IT-IT5120455636_1920x1080.jpg",
@@ -24,7 +33,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LagoonNebula_IT-IT3250116323",
         "copyright": "Nubi interstellari nella Nebulosa Laguna, catturate dal telescopio spaziale Hubble (© ESA/NASA)",
         "copyrightKeyword": "Carl Sagan",
-        "hsh": "5e9bc2dba07bfb732ec58ae721a2a399"
+        "hsh": "80ee12e0162d2c8e2d3151c5b35680ce"
     },
     {
         "fullstartdate": "202511072300",
@@ -33,7 +42,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BandonBeach_IT-IT4850548090",
         "copyright": "Faraglioni di Bandon Beach, Bandon, Oregon, USA (© Grant Ordelheide/TANDEM Stills + Motion)",
         "copyrightKeyword": "Bandon città Oregon",
-        "hsh": "428648defabbb9c75d4e1b1d49ff7cf2"
+        "hsh": "ac8f34f092e962ba86bd242283b225be"
     },
     {
         "fullstartdate": "202511062300",
@@ -61,14 +70,5 @@
         "copyright": "Foresta di faggi di Peña Roya, Parco Naturale del Moncayo, Saragozza, Aragona, Spagna (© David Santiago Garcia/DEEPOL by plainpicture)",
         "copyrightKeyword": "Parco Naturale del Moncayo Saragozza",
         "hsh": "d9a4f98e6ec14ebcd25c445718ee09cd"
-    },
-    {
-        "fullstartdate": "202511032300",
-        "date": "20251104",
-        "url": "https://www.bing.com/th?id=OHR.ForzeArmate_IT-IT4457176272_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ForzeArmate_IT-IT4457176272",
-        "copyright": "Esibizione Frecce Tricolori a Palermo, Sicilia (© ph.antonio pulizzi/Getty Images)",
-        "copyrightKeyword": "Giornata dell Unità nazionale delle Forze Armate",
-        "hsh": "20a062f12b103a0a95a064cdfc6e5b66"
     }
 ]

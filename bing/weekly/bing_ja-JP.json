@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202511111500",
+        "date": "20251112",
+        "url": "https://www.bing.com/th?id=OHR.ColosseumRome_JA-JP4396797747_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ColosseumRome_JA-JP4396797747",
+        "copyright": "コロッセオ, イタリア (© Nico De Pasquale Photography/Getty Images)",
+        "copyrightKeyword": "コロッセオ",
+        "hsh": "e0d389cd62c20507ff554ba3190b9120"
+    },
+    {
         "fullstartdate": "202511101500",
         "date": "20251111",
         "url": "https://www.bing.com/th?id=OHR.BulgariaRocks_JA-JP2963566999_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "ペーニャ・ロヤのブナ林, スペイン (© David Santiago Garcia/DEEPOL by plainpicture)",
         "copyrightKeyword": "Peña Roya beech forest",
         "hsh": "24a112a43d9b3bb10453c0b33ac16d54"
-    },
-    {
-        "fullstartdate": "202511031500",
-        "date": "20251104",
-        "url": "https://www.bing.com/th?id=OHR.TowerBridgeUK_JA-JP9811775783_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.TowerBridgeUK_JA-JP9811775783",
-        "copyright": "タワーブリッジ, イングランド (© Nick Brundle Photography/Getty Images)",
-        "copyrightKeyword": "タワーブリッジ",
-        "hsh": "c03487d1317ee141ff5aae736242496b"
     }
 ]

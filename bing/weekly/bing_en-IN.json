@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202511111830",
+        "date": "20251112",
+        "url": "https://www.bing.com/th?id=OHR.ColosseumRome_EN-IN3858080583_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ColosseumRome_EN-IN3858080583",
+        "copyright": "Aerial view of the Colosseum, Rome, Italy (© Nico De Pasquale Photography/Getty Images)",
+        "copyrightKeyword": "Colosseum Rome",
+        "hsh": "d56f743f4ad67c6aafbfdf9962a875ae"
+    },
+    {
         "fullstartdate": "202511101830",
         "date": "20251111",
         "url": "https://www.bing.com/th?id=OHR.ExternsteineSunset_EN-IN3574516917_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Golden Temple, Amritsar, Punjab, India (© Alan_Lagadu/Getty Images)",
         "copyrightKeyword": "Guru Nanak Gurpurab",
         "hsh": "64853e55079d36977347b4586f5c673d"
-    },
-    {
-        "fullstartdate": "202511031830",
-        "date": "20251104",
-        "url": "https://www.bing.com/th?id=OHR.TowerBridgeUK_EN-IN1788130859_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.TowerBridgeUK_EN-IN1788130859",
-        "copyright": "Tower Bridge, London, England (© Nick Brundle Photography/Getty Images)",
-        "copyrightKeyword": "Tower Bridge London",
-        "hsh": "71032da331d178852a6ad69411af533d"
     }
 ]

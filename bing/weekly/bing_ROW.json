@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202511110800",
+        "date": "20251112",
+        "url": "https://www.bing.com/th?id=OHR.ExternsteineSunset_ROW3073183805_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ExternsteineSunset_ROW3073183805",
+        "copyright": "The Externsteine rock formation in the Teutoburg Forest, Germany (© Michael Sroka/Getty Images)",
+        "copyrightKeyword": "Externsteine Teutoburg Forest",
+        "hsh": "e5dc48657864cdd49ff9e9160c4be125"
+    },
+    {
         "fullstartdate": "202511100800",
         "date": "20251111",
         "url": "https://www.bing.com/th?id=OHR.PrairieDogTown_ROW3043607482_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Tower Bridge, London, England (© Nick Brundle Photography/Getty Images)",
         "copyrightKeyword": "Tower Bridge London",
         "hsh": "499d4b2484db64daf8dea4b63d0e69ea"
-    },
-    {
-        "fullstartdate": "202511030800",
-        "date": "20251104",
-        "url": "https://www.bing.com/th?id=OHR.MexicoJelly_ROW2844027370_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MexicoJelly_ROW2844027370",
-        "copyright": "Jellyfish swimming in the Pacific, Guerrero, Mexico (© Christian Vizl/TANDEM Stills + Motion)",
-        "copyrightKeyword": "Jellyfish",
-        "hsh": "faa943e93b47a8dfc9803ba0146f0fa9"
     }
 ]
