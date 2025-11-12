@@ -1,12 +1,21 @@
 [
     {
+        "fullstartdate": "202511120800",
+        "date": "20251113",
+        "url": "https://www.bing.com/th?id=OHR.ColosseumRome_ROW3105960195_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ColosseumRome_ROW3105960195",
+        "copyright": "Aerial view of the Colosseum, Rome, Italy (© Nico De Pasquale Photography/Getty Images)",
+        "copyrightKeyword": "Colosseum Rome",
+        "hsh": "623cb6211cd7f7fbad6ca7be3cec65e4"
+    },
+    {
         "fullstartdate": "202511110800",
         "date": "20251112",
         "url": "https://www.bing.com/th?id=OHR.ExternsteineSunset_ROW3073183805_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.ExternsteineSunset_ROW3073183805",
         "copyright": "The Externsteine rock formation in the Teutoburg Forest, Germany (© Michael Sroka/Getty Images)",
         "copyrightKeyword": "Externsteine Teutoburg Forest",
-        "hsh": "e5dc48657864cdd49ff9e9160c4be125"
+        "hsh": "0566435faa8675e39033dd2d986b9d4b"
     },
     {
         "fullstartdate": "202511100800",
@@ -15,7 +24,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PrairieDogTown_ROW3043607482",
         "copyright": "Black-tailed prairie dogs at Roberts Prairie Dog Town, Badlands National Park, South Dakota, United States (© Greg Vaughn/Getty Images)",
         "copyrightKeyword": "Black-tailed prairie dog",
-        "hsh": "4670dae6d5f1899367cf49522cc2abcf"
+        "hsh": "4edf2e68a830dc5b1f14e94237297ddb"
     },
     {
         "fullstartdate": "202511090800",
@@ -24,7 +33,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LagoonNebula_ROW3011967113",
         "copyright": "Interstellar clouds in the Lagoon Nebula, captured by the Hubble Space Telescope (© ESA/NASA)",
         "copyrightKeyword": "Lagoon Nebula",
-        "hsh": "d27fe05c3fceb78afb32b39d7b28c7ef"
+        "hsh": "63d9faf26126607888c812f318ced224"
     },
     {
         "fullstartdate": "202511080800",
@@ -33,7 +42,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BandonBeach_ROW2988253384",
         "copyright": "Sea stacks of Bandon Beach in Bandon, Oregon, United States (© Grant Ordelheide/TANDEM Stills + Motion)",
         "copyrightKeyword": "Bandon Oregon",
-        "hsh": "0f3fd89e83b5c34f3547fc38b2dce3ce"
+        "hsh": "1d41646524e14495a491a9b71db6015e"
     },
     {
         "fullstartdate": "202511070800",
@@ -42,7 +51,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.WillowBear_ROW2961602107",
         "copyright": "Polar bear in Churchill, Manitoba, Canada (© karen crewe/Getty Images)",
         "copyrightKeyword": "Polar Bear",
-        "hsh": "d01029c67282320f6f8f348f4e7be3c2"
+        "hsh": "ae4d49cfd1ba4c550e365373f7882e4c"
     },
     {
         "fullstartdate": "202511060800",
@@ -61,14 +70,5 @@
         "copyright": "Peña Roya beech forest, Moncayo Natural Park, Zaragoza, Aragon, Spain (© David Santiago Garcia/DEEPOL by plainpicture)",
         "copyrightKeyword": "Zaragoza Spain",
         "hsh": "8714c7871449733c7d00c47d86faed77"
-    },
-    {
-        "fullstartdate": "202511040800",
-        "date": "20251105",
-        "url": "https://www.bing.com/th?id=OHR.TowerBridgeUK_ROW2871124404_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.TowerBridgeUK_ROW2871124404",
-        "copyright": "Tower Bridge, London, England (© Nick Brundle Photography/Getty Images)",
-        "copyrightKeyword": "Tower Bridge London",
-        "hsh": "499d4b2484db64daf8dea4b63d0e69ea"
     }
 ]
