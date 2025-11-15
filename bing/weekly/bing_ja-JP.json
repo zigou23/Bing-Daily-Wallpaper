@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202511151500",
+        "date": "20251116",
+        "url": "https://www.bing.com/th?id=OHR.LyonTraboules_JA-JP9477523078_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LyonTraboules_JA-JP9477523078",
+        "copyright": "リヨンにあるトラブール, フランス (© TPopova/Getty Images)",
+        "copyrightKeyword": "リヨンにあるトラブール",
+        "hsh": "e2671e54815e8def018da34d7e2e8d07"
+    },
+    {
         "fullstartdate": "202511141500",
         "date": "20251115",
         "url": "https://www.bing.com/th?id=OHR.IrohazakaAutumn_JA-JP9540132956_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "ハッブル宇宙望遠鏡が撮影したラグーン星雲の星間雲 (© ESA/NASA)",
         "copyrightKeyword": "星間雲",
         "hsh": "9a57de8af67f862e2e46d80d12b2ba84"
-    },
-    {
-        "fullstartdate": "202511071500",
-        "date": "20251108",
-        "url": "https://www.bing.com/th?id=OHR.BandonBeach_JA-JP1159899135_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BandonBeach_JA-JP1159899135",
-        "copyright": "バンドンビーチの海蝕岩, 米国 オレゴン州 (© Grant Ordelheide/TANDEM Stills + Motion)",
-        "copyrightKeyword": "バンドンビーチの海蝕岩",
-        "hsh": "994f13afa460114be3de91d97a50dfa8"
     }
 ]
