@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202511161830",
+        "date": "20251117",
+        "url": "https://www.bing.com/th?id=OHR.ShenandoahTrail_EN-IN3789880572_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ShenandoahTrail_EN-IN3789880572",
+        "copyright": "Autumn colours in Shenandoah National Park, Virginia, United States (© Michael Ver Sprill/Getty Images)",
+        "copyrightKeyword": "Shenandoah National Park",
+        "hsh": "b1a163ece22794e8664dbbb4282fc4e9"
+    },
+    {
         "fullstartdate": "202511151830",
         "date": "20251116",
         "url": "https://www.bing.com/th?id=OHR.LyonTraboules_EN-IN1252380209_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Black-tailed prairie dogs at Roberts Prairie Dog Town, Badlands National Park, South Dakota, United States (© Greg Vaughn/Getty Images)",
         "copyrightKeyword": "Black-tailed prairie dogs",
         "hsh": "8889d5ca14262075b51e5dff39de6608"
-    },
-    {
-        "fullstartdate": "202511081830",
-        "date": "20251109",
-        "url": "https://www.bing.com/th?id=OHR.LagoonNebula_EN-IN3202220398_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LagoonNebula_EN-IN3202220398",
-        "copyright": "Interstellar clouds in the Lagoon Nebula, captured by the Hubble Space Telescope (© ESA/NASA)",
-        "copyrightKeyword": "Lagoon Nebula",
-        "hsh": "c90fdf876f2613a9d494974302a109e2"
     }
 ]

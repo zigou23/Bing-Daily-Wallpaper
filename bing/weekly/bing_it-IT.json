@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202511162300",
+        "date": "20251117",
+        "url": "https://www.bing.com/th?id=OHR.ShenandoahTrail_IT-IT9971763643_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ShenandoahTrail_IT-IT9971763643",
+        "copyright": "Parco Nazionale Shenandoah, Virginia, USA (© Michael Ver Sprill/Getty Images)",
+        "copyrightKeyword": "Parco nazionale Shenandoah",
+        "hsh": "1bfea0c517f8c437db557cd6f03952f8"
+    },
+    {
         "fullstartdate": "202511152300",
         "date": "20251116",
         "url": "https://www.bing.com/th?id=OHR.LyonTraboules_IT-IT5997023386_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Castello di Rocca Calascio, Parco Nazionale del Gran Sasso e dei Monti della Laga, Abruzzo (© carlo alberto conti/Getty Images)",
         "copyrightKeyword": "Castello di Rocca Calascio",
         "hsh": "8eeee481672b6258fa308a8476cd1826"
-    },
-    {
-        "fullstartdate": "202511082300",
-        "date": "20251109",
-        "url": "https://www.bing.com/th?id=OHR.LagoonNebula_IT-IT3250116323_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LagoonNebula_IT-IT3250116323",
-        "copyright": "Nubi interstellari nella Nebulosa Laguna, catturate dal telescopio spaziale Hubble (© ESA/NASA)",
-        "copyrightKeyword": "Carl Sagan",
-        "hsh": "80ee12e0162d2c8e2d3151c5b35680ce"
     }
 ]

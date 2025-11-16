@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202511160000",
+        "date": "20251117",
+        "url": "https://www.bing.com/th?id=OHR.LyonTraboules_EN-GB3858376593_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LyonTraboules_EN-GB3858376593",
+        "copyright": "A traboule in Lyon, France (© TPopova/Getty Images)",
+        "copyrightKeyword": "Traboules of Lyon",
+        "hsh": "0c6eb495ef785f19c4650db3528ee5d5"
+    },
+    {
         "fullstartdate": "202511150000",
         "date": "20251116",
         "url": "https://www.bing.com/th?id=OHR.IrohazakaAutumn_EN-GB2923985391_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "Poppy field (© Howard Double/iStock/Getty Images)",
         "copyrightKeyword": "Remembrance Sunday",
         "hsh": "8de5c989fa71824d7e2b0664da365ef0"
-    },
-    {
-        "fullstartdate": "202511080000",
-        "date": "20251109",
-        "url": "https://www.bing.com/th?id=OHR.BandonBeach_EN-GB7955007948_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BandonBeach_EN-GB7955007948",
-        "copyright": "Sea stacks of Bandon Beach in Bandon, Oregon, United States (© Grant Ordelheide/TANDEM Stills + Motion)",
-        "copyrightKeyword": "Bandon Oregon",
-        "hsh": "45576a71c0b7f678ae46b3f64099e0aa"
     }
 ]

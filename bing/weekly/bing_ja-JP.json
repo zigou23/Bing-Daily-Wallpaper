@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202511161500",
+        "date": "20251117",
+        "url": "https://www.bing.com/th?id=OHR.ShenandoahTrail_JA-JP4220647370_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ShenandoahTrail_JA-JP4220647370",
+        "copyright": "シェナンドー国立公園, 米国 バージニア州 (© Michael Ver Sprill/Getty Images)",
+        "copyrightKeyword": "シェナンドー国立公園",
+        "hsh": "becbd2301b632bf35954e416d4e71b6c"
+    },
+    {
         "fullstartdate": "202511151500",
         "date": "20251116",
         "url": "https://www.bing.com/th?id=OHR.LyonTraboules_JA-JP9477523078_1920x1080.jpg",
@@ -61,14 +70,5 @@
         "copyright": "松本城, 長野県 松本市 (© Sangchai Olanrittinunt/Shutterstock)",
         "copyrightKeyword": "松本城",
         "hsh": "55ce3299e39b7f21b2d34a6c1354e4e2"
-    },
-    {
-        "fullstartdate": "202511081500",
-        "date": "20251109",
-        "url": "https://www.bing.com/th?id=OHR.LagoonNebula_JA-JP1393658321_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LagoonNebula_JA-JP1393658321",
-        "copyright": "ハッブル宇宙望遠鏡が撮影したラグーン星雲の星間雲 (© ESA/NASA)",
-        "copyrightKeyword": "星間雲",
-        "hsh": "9a57de8af67f862e2e46d80d12b2ba84"
     }
 ]
