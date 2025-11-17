@@ -21,7 +21,7 @@ jobs:
       run: pip install requests
 
     - name: run bingjson
-      run: python ./python/bing_all_langs_fullstartdate.py
+      run: python ./python/bing_251117.py
 
     - name: Commit and Push
         # git config --global user.name "${{ github.actor }}"
