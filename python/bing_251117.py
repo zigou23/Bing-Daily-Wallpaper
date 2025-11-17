@@ -4,9 +4,89 @@ import os
 from datetime import datetime, timezone
 import urllib.parse
 import time
-import re # <-- 导入正则表达式库
+import re
 
 print("Starts time: ", datetime.now(timezone.utc))
+
+# --- NEW: Helper function for retrying failed requests ---
+def fetch_with_retry(url, retries=3, delay=5, timeout=10):
+    """Tries to fetch a URL with a specified number of retries."""
+    for attempt in range(retries):
+        try:
+            response = requests.get(url, timeout=timeout)
+            response.raise_for_status() # Will raise an error for bad status codes
+            return response.json() # Return JSON data on success
+        except (requests.exceptions.RequestException, json.JSONDecodeError) as e:
+            print(f"  Attempt {attempt + 1}/{retries} failed for {url}: {e}")
+            if attempt < retries - 1:
+                print(f"  Retrying in {delay} seconds...")
+                time.sleep(delay)
+            else:
+                print(f"  Failed to fetch {url} after {retries} attempts.")
+                return None # Return None on final failure
+
+# --- NEW: Updated merge function to fill missing descriptions ---
+def update_and_merge_images(existing_images, new_images, date_field='date', unique_field='fullstartdate'):
+    """
+    Merges new images into an existing list,
+    updating missing 'description' for existing images if found in the new data.
+    """
+    # Create a lookup for new images, keyed by the unique field (e.g., 'fullstartdate')
+    # We store the whole image_info object to access its 'description'
+    new_images_map = {}
+    if unique_field:
+        for img in new_images:
+            if unique_field in img:
+                new_images_map[img[unique_field]] = img
+    
+    # Create a set of existing unique IDs for quick lookup
+    existing_ids = {img[unique_field] for img in existing_images if unique_field in img}
+
+    # 1. Update existing images
+    update_count = 0
+    for existing_img in existing_images:
+        if unique_field and unique_field in existing_img:
+            unique_id = existing_img[unique_field]
+            
+            # Check if this existing image is in our new fetch
+            if unique_id in new_images_map:
+                new_img = new_images_map[unique_id]
+                
+                # This is the core logic: fill missing description
+                if 'description' not in existing_img and 'description' in new_img:
+                    print(f"  Updating missing description for {unique_id} ({existing_img.get(date_field)})")
+                    existing_img['description'] = new_img['description']
+                    update_count += 1
+
+    if update_count > 0:
+        print(f"  Updated {update_count} existing image(s) with missing descriptions.")
+
+    # 2. Add new images
+    add_count = 0
+    for new_img in new_images:
+        # Check by unique_field if available
+        if unique_field and unique_field in new_img:
+            if new_img[unique_field] not in existing_ids:
+                existing_images.append(new_img)
+                existing_ids.add(new_img[unique_field])
+                add_count += 1
+        # Fallback for old data that might not have unique_field
+        elif date_field in new_img:
+            existing_dates = {img[date_field] for img in existing_images if date_field in img}
+            if new_img[date_field] not in existing_dates:
+                 existing_images.append(new_img)
+                 add_count += 1
+    
+    if add_count > 0:
+        print(f"  Added {add_count} new image(s).")
+
+
+    # 按日期倒序排序
+    existing_images.sort(key=lambda x: datetime.strptime(x[date_field], '%Y%m%d'), reverse=True)
+    return existing_images
+# --- END of NEW functions ---
+
+
 # 定义语言代码列表
 languages = ['hu-HU', 'en-US', 'en-CA', 'en-GB', 'en-IN', 'es-ES', 'fr-FR', 'fr-CA', 'it-IT', 'ja-JP', 'pt-BR', 'de-DE', 'zh-CN']
 
@@ -18,28 +98,7 @@ for directory in directories:
     if not os.path.exists(directory):
         os.makedirs(directory)
 
-def merge_images(existing_images, new_images, date_field, unique_field=None):
-    existing_dates = {image[date_field] for image in existing_images if date_field in image}
-    if unique_field:
-        existing_ids = {image[unique_field] for image in existing_images if unique_field in image}
-    else:
-        existing_ids = set()
-
-    for image_info in new_images:
-        # 只处理包含 fullstartdate 的数据
-        if unique_field and unique_field in image_info:
-            if image_info[unique_field] not in existing_ids:
-                existing_images.append(image_info)
-                existing_ids.add(image_info[unique_field])
-        # 处理不包含 fullstartdate 的数据,仍然使用 date 进行判断
-        elif image_info[date_field] not in existing_dates:
-            existing_images.append(image_info)
-            existing_dates.add(image_info[date_field])
-
-    # 按日期倒序排序
-    existing_images.sort(key=lambda x: datetime.strptime(x[date_field], '%Y%m%d'), reverse=True)
-
-    return existing_images
+# REMOVED old merge_images function. It's replaced by the new one above.
 
 # ====== 提取图片ID的辅助函数 ======
 def get_image_id_from_url(url_string):
@@ -67,19 +126,21 @@ for lang in languages:
         file_lang = "ROW"
 
     try:
-        # 发起请求获取数据
+        # --- MODIFIED: Use fetch_with_retry ---
         print(f"Fetching main API: {api_url}")
-        response = requests.get(api_url, timeout=10)
-        response.raise_for_status()
-        data = response.json()
+        data = fetch_with_retry(api_url)
         
-        # 添加短暂延迟，避免请求过快
+        # 添加短暂延迟
         time.sleep(0.5)
         
         print(f"Fetching description API: {api_description}")
-        response_description = requests.get(api_description, timeout=10)
-        response_description.raise_for_status()
-        data_description = response_description.json()
+        data_description = fetch_with_retry(api_description)
+
+        # 如果任一请求失败，则跳过此语言
+        if data is None or data_description is None:
+            print(f"Skipping {original_lang} due to fetch failure.")
+            continue
+        # --- END of MODIFIED block ---
         
         # 调试信息
         main_images_count = len(data.get('images', []))
@@ -99,11 +160,9 @@ for lang in languages:
             preload_contents_count = len(data_description['PreloadMediaContents'])
             print(f"PreloadMediaContents found with {preload_contents_count} items")
 
-    except requests.exceptions.RequestException as e:
-        print(f"Error fetching data for {original_lang}: {e}")
-        continue
-    except json.JSONDecodeError as e:
-        print(f"Error parsing JSON for {original_lang}: {e}")
+    # --- REMOVED old request/json error handling, fetch_with_retry does it ---
+    except Exception as e: # Catch any other unexpected error
+        print(f"An unexpected error occurred for {original_lang}: {e}")
         continue
 
     # 提取所需数据并格式化
@@ -129,7 +188,7 @@ for lang in languages:
         }
         images_info.append(image_info)
     
-    print(f"\nMain API image IDs: {[img['_image_id'] for img in images_info if img['_image_id']]}")
+    print(f"\nMain API image IDs: {[img['_image_id'] for img in images_info if img.get('_image_id')]}")
     
     # ====== 改进的描述匹配逻辑 ======
     # 创建一个函数来处理描述数据
@@ -137,6 +196,9 @@ for lang in languages:
         matched_count = 0
         available_ids = []
         
+        if not isinstance(media_list, list): # Safety check
+            return 0, []
+
         for media_item in media_list:
             try:
                 # 检查必要字段
@@ -159,7 +221,7 @@ for lang in languages:
                 # 匹配并添加描述
                 for image_info in images_info:
                     # ====== 关键修改：使用图片ID进行匹配 ======
-                    if image_info['_image_id'] == model_image_id:
+                    if image_info.get('_image_id') == model_image_id:
                         # 只在还没有描述时添加（优先使用 MediaContents）
                         if 'description' not in image_info:
                             image_info['description'] = description
@@ -184,14 +246,14 @@ for lang in languages:
     description_count = 0
     all_available_ids = []
     
-    if 'MediaContents' in data_description and isinstance(data_description['MediaContents'], list):
+    if 'MediaContents' in data_description:
         count, ids = process_media_contents(data_description['MediaContents'], "MediaContents")
         description_count += count
         all_available_ids.extend(ids)
         print(f"\nMediaContents IDs: {ids}")
     
     # 然后处理 PreloadMediaContents
-    if 'PreloadMediaContents' in data_description and isinstance(data_description['PreloadMediaContents'], list):
+    if 'PreloadMediaContents' in data_description:
         count, ids = process_media_contents(data_description['PreloadMediaContents'], "PreloadMediaContents")
         description_count += count
         all_available_ids.extend(ids)
@@ -204,7 +266,7 @@ for lang in languages:
     print(f"Images without description: {len(images_info) - description_count}")
     
     if description_count < len(images_info):
-        missing_ids = [img['_image_id'] for img in images_info if 'description' not in img]
+        missing_ids = [img['_image_id'] for img in images_info if 'description' not in img and '_image_id' in img]
         print(f"Missing descriptions for IDs: {missing_ids}")
         print(f"Available IDs in description API: {list(set(all_available_ids))}")
     
@@ -231,14 +293,20 @@ for lang in languages:
             json.dump(data, file, ensure_ascii=False, indent=4)
 
     # 读取现有数据
+    print(f"\nReading existing data...")
     existing_images_info_current = read_json(file_path_current)
     existing_images_info_yearly = read_json(file_path_yearly)
 
-    # 过滤并合并新数据
-    existing_images_info_current = merge_images(existing_images_info_current, images_info, date_field='date', unique_field='fullstartdate')
-    existing_images_info_yearly = merge_images(existing_images_info_yearly, images_info, date_field='date', unique_field='fullstartdate')
+    # --- MODIFIED: Use new update_and_merge_images function ---
+    print(f"Updating {file_path_current}...")
+    existing_images_info_current = update_and_merge_images(existing_images_info_current, images_info, date_field='date', unique_field='fullstartdate')
+    
+    print(f"Updating {file_path_yearly}...")
+    existing_images_info_yearly = update_and_merge_images(existing_images_info_yearly, images_info, date_field='date', unique_field='fullstartdate')
+    # --- END of MODIFIED block ---
 
     # 将更新后的数据写回到本地JSON文件
+    print(f"Writing updates back to files...")
     write_json(file_path_current, existing_images_info_current)
     write_json(file_path_yearly, existing_images_info_yearly)
 
