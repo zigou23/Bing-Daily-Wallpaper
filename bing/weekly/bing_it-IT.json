@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202511172300",
+        "date": "20251118",
+        "url": "https://www.bing.com/th?id=OHR.AutumnMerganser_IT-IT0039919280_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AutumnMerganser_IT-IT0039919280",
+        "copyright": "Lophodytes cucullatus, Oregon, USA (© Eric Vogt/TANDEM Stills + Motion)",
+        "copyrightKeyword": "Lophodytes cucullatus smergo dal ciuffo",
+        "hsh": "ba56de67d6da932cf03164005d451a99",
+        "description": "Ogni autunno, le acque silenziose dell’Oregon si trasformano in sentieri liquidi per i smerghi dal cappuccio, piccoli acrobati del profondo, nativi del Nord America. Con un tuffo deciso, inseguono pesci e creature acquatiche con la grazia di chi conosce il segreto del fondale. I maschi, detti “drakes”, portano sul capo una cresta bianca a ventaglio che si apre come un sipario, incorniciando teste scure e fianchi color castagna. Le femmine, più discrete, indossano toni grigio-brunastri e creste più modeste. I laghi e le paludi dell’Oregon offrono loro rifugio e nutrimento, mentre migrano o svernano lungo il continente, seguendo rotte invisibili tracciate dal vento e dall’istinto."
+    },
+    {
         "fullstartdate": "202511162300",
         "date": "20251117",
         "url": "https://www.bing.com/th?id=OHR.ShenandoahTrail_IT-IT9971763643_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ExternsteineSunset_IT-IT5120455636",
         "copyright": "Complesso megalitico Externsteine, Foresta di Teutoburgo, Germania (© Michael Sroka/Getty Images)",
         "copyrightKeyword": "Externsteine complesso megalitico",
-        "hsh": "14e854036725a8ed295ba52f05c9560a",
-        "description": "Nel cuore della Foresta di Teutoburgo, in Germania, vicino alla cittadina di Horn-Bad Meinberg, nella Renania Settentrionale-Vestfalia, si ergono maestose le spettacolari formazioni rocciose note come Externsteine. Questi pilastri di arenaria, formatisi circa 70 milioni di anni fa, sono tra i monumenti naturali e culturali più importanti della Germania. Affascinano i visitatori con le loro forme uniche e il profondo valore storico, attirando ogni anno migliaia di persone. Le rocce raggiungono altezze fino a 35 metri. Già nel Medioevo, il sito veniva utilizzato come luogo di culto, come testimonia un notevole rilievo del XII secolo scolpito nella pietra, raffigurante la Deposizione dalla Croce: il più antico esempio del genere a nord delle Alpi."
-    },
-    {
-        "fullstartdate": "202511092300",
-        "date": "20251110",
-        "url": "https://www.bing.com/th?id=OHR.CastleAbruzzo_IT-IT5062952309_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.CastleAbruzzo_IT-IT5062952309",
-        "copyright": "Castello di Rocca Calascio, Parco Nazionale del Gran Sasso e dei Monti della Laga, Abruzzo (© carlo alberto conti/Getty Images)",
-        "copyrightKeyword": "Castello di Rocca Calascio",
-        "hsh": "8eeee481672b6258fa308a8476cd1826"
+        "hsh": "14e854036725a8ed295ba52f05c9560a"
     }
 ]
