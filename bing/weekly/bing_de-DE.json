@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202511182300",
+        "date": "20251119",
+        "url": "https://www.bing.com/th?id=OHR.BudapestParliament_DE-DE4449281060_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BudapestParliament_DE-DE4449281060",
+        "copyright": "Ungarisches Parlamentsgebäude, Budapest, Ungarn (© Alexander Spatari/Getty Images)",
+        "copyrightKeyword": "Ungarisches Parlamentsgebäude",
+        "hsh": "f30b94000b2a8c878a2e3e88ed0c34dd",
+        "description": "Manche Bauwerke sprechen nicht, sie erzählen: Das ungarische Parlamentsgebäude, entworfen vom Architekten Imre Steindl im späten 19. Jahrhundert, vereint neugotische Eleganz mit typisch ungarischen Motiven. Mehr als 1.000 Handwerker arbeiteten über zwei Jahrzehnte hinweg an seiner Vollendung – ein Symbol für handwerkliche Meisterschaft und kulturelle Identität. Die zentrale Kuppel erhebt sich 96 Meter hoch und verweist damit auf das Jahr 1896, in dem Ungarn sein tausendjähriges Bestehen feierte. Seit seiner Fertigstellung im Jahr 1904 prägt das Gebäude die Skyline von Budapest und zählt heute zum UNESCO-Weltkulturerbe. Im Inneren beeindrucken vergoldete Treppenaufgänge, kunstvolle Glasfenster sowie Statuen historischer Persönlichkeiten, die die Geschichte lebendig werden lassen."
+    },
+    {
         "fullstartdate": "202511172300",
         "date": "20251118",
         "url": "https://www.bing.com/th?id=OHR.AutumnMerganser_DE-DE5996938724_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ColosseumRome_DE-DE9770926344",
         "copyright": "Luftaufnahme des Kolosseums, Rom, Italien (© Nico De Pasquale Photography/Getty Images)",
         "copyrightKeyword": "Das Kolosseum Amphitheater im antiken Rom",
-        "hsh": "83785d25636c850d4059c4feb4cc109a",
-        "description": "Sie denken, moderne Stadien sind beeindruckend? Dann sehen Sie sich das Original an! Das Kolosseum in Rom wurde im Jahr 72 n. Chr. vom flavischen Kaiser Vespasian in Auftrag gegeben und acht Jahre später von seinem Sohn Titus vollendet. Die beiden Herrscher wollten damit nicht nur die Macht Roms demonstrieren, sondern auch das Volk mit spektakulären Spielen begeistern. Mit Platz für rund 50.000 Zuschauer, was in etwa der Kapazität des RheinEnergieSTADIONs in Köln entspricht, bot das Kolosseum Gladiatorenkämpfe, wilde Tiere und sogar inszenierte Seeschlachten. Versteckte Aufzüge und Falltüren sorgten für echte Überraschungsmomente."
-    },
-    {
-        "fullstartdate": "202511102300",
-        "date": "20251111",
-        "url": "https://www.bing.com/th?id=OHR.ExternsteineSunset_DE-DE9223604176_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ExternsteineSunset_DE-DE9223604176",
-        "copyright": "Ansicht der Felsen gegen den Himmel während des Sonnenuntergangs, Externsteine, Teutoburger Wald, Nordrhein-Westfalen (© Michael Sroka/Getty Images)",
-        "copyrightKeyword": "Externsteine",
-        "hsh": "b04aeb8102b7952ca857da8b21c3425f"
+        "hsh": "83785d25636c850d4059c4feb4cc109a"
     }
 ]

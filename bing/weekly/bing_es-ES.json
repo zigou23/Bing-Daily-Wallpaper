@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202511182300",
+        "date": "20251119",
+        "url": "https://www.bing.com/th?id=OHR.BudapestParliament_ES-ES5288073856_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BudapestParliament_ES-ES5288073856",
+        "copyright": "Edificio del Parlamento Húngaro, Budapest, Hungría (© Alexander Spatari/Getty Images)",
+        "copyrightKeyword": "Budapest",
+        "hsh": "7f5d57ec9f088075041ca12c0e066422",
+        "description": "Acércate y deja que los detalles hablen: cada piedra, aguja y estatua parece guardar su propia historia. Diseñado a finales del siglo XIX, el edificio del Parlamento húngaro refleja la ambición de una nación, combinando la elegancia del renacimiento gótico con motivos típicamente húngaros. La visión del arquitecto Imre Steindl se materializó durante más de veinte años gracias al trabajo de más de 1.000 artesanos. Incluso la cúpula central, que alcanza los 96 metros de altura, simboliza el aniversario del milenio de Hungría, celebrado en 1896. Terminado en 1904, el edificio sigue dominando el horizonte de Budapest como un símbolo nacional imponente."
+    },
+    {
         "fullstartdate": "202511172300",
         "date": "20251118",
         "url": "https://www.bing.com/th?id=OHR.AutumnMerganser_ES-ES5196368512_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ColosseumRome_ES-ES3360998875",
         "copyright": "Vista aérea del Coliseo, Roma, Italia (© Nico De Pasquale Photography/Getty Images)",
         "copyrightKeyword": "El Coliseo",
-        "hsh": "38df421e5bbc467a10b7c5d2b6d68158",
-        "description": "¿Crees que los deportes modernos son emocionantes? Los antiguos romanos disfrutaban de espectáculos todavía más intensos en el Coliseo. Encargado por el emperador Flavio Vespasiano en el año 72 d.C. y terminado por su hijo Tito en el 80 d.C., este anfiteatro rompió la tradición de construirse en laderas: era un coloso arquitectónico independiente. Con piedra y hormigón, sus arcos y bóvedas sostenían una arena capaz de albergar hasta 50.000 espectadores. Gladiadores, animales exóticos e incluso batallas navales escenificadas fascinaban al público, mientras ascensores y trampillas ocultas creaban apariciones sorprendentes."
-    },
-    {
-        "fullstartdate": "202511102300",
-        "date": "20251111",
-        "url": "https://www.bing.com/th?id=OHR.PrairieDogTown_ES-ES2126702018_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PrairieDogTown_ES-ES2126702018",
-        "copyright": "Perritos de la pradera de cola negra en Roberts Prairie Dog Town, Parque Nacional Badlands, Dakota del Sur, EE. UU. (© Greg Vaughn/Getty Images)",
-        "copyrightKeyword": "Perrito de la pradera de cola negra",
-        "hsh": "6cb74c2d1edb98636cc1fc8d6f1f0555"
+        "hsh": "38df421e5bbc467a10b7c5d2b6d68158"
     }
 ]
