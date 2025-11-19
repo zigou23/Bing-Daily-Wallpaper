@@ -88,7 +88,7 @@ def update_and_merge_images(existing_images, new_images, date_field='date', uniq
 
 
 # 定义语言代码列表
-languages = ['hu-HU', 'en-US', 'en-CA', 'en-GB', 'en-IN', 'es-ES', 'fr-FR', 'fr-CA', 'it-IT', 'ja-JP', 'pt-BR', 'de-DE', 'zh-CN']
+languages = ['en-ROW', 'en-US', 'en-CA', 'en-GB', 'en-IN', 'es-ES', 'fr-FR', 'fr-CA', 'it-IT', 'ja-JP', 'pt-BR', 'de-DE', 'zh-CN']
 
 thisyear = datetime.now().year + (datetime.now().month == 12 and datetime.now().day == 31)
 # thisyear = 2055
@@ -122,7 +122,7 @@ for lang in languages:
     # 语言不支持,会使用通用 ROW 数据（仅用于文件命名）
     original_lang = lang
     file_lang = lang
-    if (lang == "hu-HU"): 
+    if (lang == "en-ROW"): 
         file_lang = "ROW"
 
     try:
