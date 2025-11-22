@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202511221830",
+        "date": "20251123",
+        "url": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_EN-IN4893365399_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_EN-IN4893365399",
+        "copyright": "Ammonite fossil from Madagascar (© ThomasLENNE/Shutterstock)",
+        "copyrightKeyword": "Fibonacci sequence",
+        "hsh": "796b2fd36928c4c098b723e1fa38f4d3",
+        "description": "Look closely at this ammonite fossil. Its swirling shell, once home to a prehistoric sea creature, holds a mathematical secret—a spiral pattern. Each new chamber is proportionally larger than the previous one, maintaining a consistent growth ratio, often associated with the Fibonacci sequence."
+    },
+    {
         "fullstartdate": "202511211830",
         "date": "20251122",
         "url": "https://www.bing.com/th?id=OHR.LeshanBuddha_EN-IN4570955988_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LyonTraboules_EN-IN1252380209",
         "copyright": "A traboule in Lyon, France (© TPopova/Getty Images)",
         "copyrightKeyword": "Traboules of Lyon",
-        "hsh": "b812158a0d04a66fb64195396409749b",
-        "description": "In Lyon, France, you don't just walk through the city—you glide through it. The traboules, a network of hidden passageways threading between courtyards and buildings, turn a simple stroll into a treasure hunt. They were the original shortcuts, allowing residents to dodge rain, carry goods or move discreetly through the medieval quarters. Today, they're less about practicality and more about discovery. These passages date back to the fourth century but became essential during the Renaissance, when silk traders used them to shuttle delicate fabrics safely from workshops to the river without braving the weather. Later, during World War II, Resistance fighters used the traboules as escape routes."
-    },
-    {
-        "fullstartdate": "202511141830",
-        "date": "20251115",
-        "url": "https://www.bing.com/th?id=OHR.IrohazakaAutumn_EN-IN1196810691_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.IrohazakaAutumn_EN-IN1196810691",
-        "copyright": "Irohazaka Road in autumn, Nikko, Tochigi, Japan (© oneinchpunch/Shutterstock)",
-        "copyrightKeyword": "Nikko Tochigi Prefecture",
-        "hsh": "f111e4362854d7407203456b88d89bbc"
+        "hsh": "b812158a0d04a66fb64195396409749b"
     }
 ]

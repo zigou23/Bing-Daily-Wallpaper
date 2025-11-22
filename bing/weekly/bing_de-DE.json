@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202511222300",
+        "date": "20251123",
+        "url": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_DE-DE9513617798_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_DE-DE9513617798",
+        "copyright": "Ammonitenfossil aus Madagaskar (© ThomasLENNE/Shutterstock)",
+        "copyrightKeyword": "Fibonacci‑Folge",
+        "hsh": "54518fc643c9253b19a52ed8cdc800ba",
+        "description": "Was, wenn ein Stein ein mathematisches Geheimnis birgt? Das Ammonitenfossil auf unserem Bild zeigt eine Spirale, die nicht zufällig entstanden ist. Sie folgt der Fibonacci-Folge, einer Zahlenreihe, bei der jede Zahl die Summe der beiden vorherigen ist (1, 1, 2, 3, 5, 8, …). Dieses Muster wurde bereits im alten Indien entdeckt und im Mittelalter durch den italienischen Mathematiker Leonardo Bonacci, auch bekannt als Fibonacci, in Europa verbreitet."
+    },
+    {
         "fullstartdate": "202511212300",
         "date": "20251122",
         "url": "https://www.bing.com/th?id=OHR.LeshanBuddha_DE-DE9705133589_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LyonTraboules_DE-DE6267505829",
         "copyright": "Eine Traboule in Lyon, Frankreich (© TPopova/Getty Images)",
         "copyrightKeyword": "Traboule",
-        "hsh": "0ca3ee240b7321cdd9d7a0caaccb694d",
-        "description": "Die Traboules sind versteckte Durchgänge, die Gebäude und Innenhöfe miteinander verbinden und in mehreren Städten im Osten Frankreichs vorkommen – insbesondere in Lyon. Ihr Ursprung reicht bis in die Renaissance zurück, als Seidenhändler schnelle und wettergeschützte Wege benötigten, um ihre Waren zu transportieren. Im Laufe der Jahrhunderte dienten diese Gänge auch als Zufluchtsort und Fluchtweg, insbesondere während des Zweiten Weltkriegs, als sie von der französischen Résistance genutzt wurden. Heute sind die Traboules ein fester Bestandteil des architektonischen Erbes Lyons. Viele von ihnen sind öffentlich zugänglich und bieten ein einzigartiges urbanes Entdeckungserlebnis."
-    },
-    {
-        "fullstartdate": "202511142300",
-        "date": "20251115",
-        "url": "https://www.bing.com/th?id=OHR.IrohazakaAutumn_DE-DE0981983291_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.IrohazakaAutumn_DE-DE0981983291",
-        "copyright": "Irohazaka-Straße im Herbst, Nikkō, Tochigi, Japan (© oneinchpunch/Shutterstock)",
-        "copyrightKeyword": "Nikkō Präfektur Tochigi",
-        "hsh": "25fdfb6eb416f44c28a4ef1e300fa422"
+        "hsh": "0ca3ee240b7321cdd9d7a0caaccb694d"
     }
 ]
