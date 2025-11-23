@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202511230300",
+        "date": "20251124",
+        "url": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_PT-BR2501719258_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_PT-BR2501719258",
+        "copyright": "Fóssil de amonite, Madagascar (© ThomasLENNE/Shutterstock)",
+        "copyrightKeyword": "Dia de Fibonacci",
+        "hsh": "d9c16084dfba201a7a23fdcc02145e3e",
+        "description": "Observe com atenção este fóssil de amonite na imagem. Essa concha em forma de espiral já foi a morada de um molusco marinho que viveu há milhões de anos. O mais curioso é que ela segue um padrão matemático: cada parte da espiral é proporcionalmente maior que a anterior, seguindo uma lógica conhecida como sequência de Fibonacci."
+    },
+    {
         "fullstartdate": "202511220300",
         "date": "20251123",
         "url": "https://www.bing.com/th?id=OHR.LeshanBuddha_PT-BR1954445961_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LyonTraboules_PT-BR0512740637",
         "copyright": "Passagens secretas em Lyon, França (© TPopova/Getty Images)",
         "copyrightKeyword": "Lyon França",
-        "hsh": "4b880257daa5404d6a8d6401a4b3a2cc",
-        "description": "Lyon, na França, não é uma cidade para caminhar — mas para se perder. As “traboules”, redes de passagens escondidas que atravessam pátios e edifícios, como a que vemos na imagem de hoje, transformam qualquer passeio em uma caça ao tesouro. Criadas no século IV, tornaram-se essenciais no Renascimento, quando comerciantes de seda usavam seus corredores cobertos para transportar tecidos dos ateliês ao rio, protegidos do mau tempo. Durante a Segunda Guerra Mundial, os combatentes as utilizaram como rotas de fuga."
-    },
-    {
-        "fullstartdate": "202511150300",
-        "date": "20251116",
-        "url": "https://www.bing.com/th?id=OHR.ProcRep_PT-BR2106067461_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ProcRep_PT-BR2106067461",
-        "copyright": "Museu Nacional da República projetado por Oscar Niemeyer, Brasília (© Cavan Images/Alamy)",
-        "copyrightKeyword": "Proclamação da República",
-        "hsh": "9cc6069f42bb1a2eceb0fc08d63fe74a"
+        "hsh": "4b880257daa5404d6a8d6401a4b3a2cc"
     }
 ]
