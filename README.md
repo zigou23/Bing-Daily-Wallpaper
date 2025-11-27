@@ -109,12 +109,15 @@ By appending different resolution suffixes to the `urlbase`, you can obtain wall
 | `_1280x720.jpg`         | 1280×720       | 16:9             | HD 720p (Standard HD Video/Display)         | 150 KB - 350 KB       |
 | `_1024x768.jpg`         | 1024×768       | 4:3              | XGA (Legacy CRT/Old iPads)                  | 150 KB - 350 KB       |
 | `_800x600.jpg`          | 800×600        | 4:3              | SVGA (Low Resolution/Thumbnail)             | 100 KB - 250 KB       |
+| `_640x480.jpg`          | 640×480        | 4:3              | VGA                                         | 100-250 KB            |
+| `_400x240.jpg`          | 400×240        | 5:3              | Thumbnail                                   | 50-100 KB             |
+| `_320x240.jpg`          | 320×240        | 4:3              | QVGA Thumbnail                              | 30-60 KB              |
 | **Portrait / Mobile**   |                |                  |                                             |                       |
 | `_1080x1920.jpg`        | 1080×1920      | 9:16             | **Full HD Mobile** (Most Smartphones)       | 400 KB - 900 KB       |
 | `_768x1280.jpg`         | 768×1280       | 3:5              | WXGA Mobile (Older Tablets/Phones)          | 200 KB - 500 KB       |
 | `_720x1280.jpg`         | 720×1280       | 9:16             | HD Mobile (Standard Mobile HD)              | 200 KB - 450 KB       |
 | `_480x800.jpg`          | 480×800        | 3:5              | WVGA (Legacy Mobile Devices)                | 50 KB - 150 KB        |
-
+| `_240x320.jpg`          | 240×320        | 3:4              | Portrait Thumbnail                          | 30-60 KB              |
 ## 📊 Data Organization
 
 ### Annual Folders
