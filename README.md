@@ -6,7 +6,7 @@ Daily automatic collection and archival of Bing search engine's beautiful wallpa
 
 ## 📖 Project Overview
 
-This project uses automated scripts to daily fetch Bing search engine's background wallpapers and convert wallpaper information into structured JSON format for storage. The project contains all wallpaper data from 2019 to present, supporting multiple countries and regions.
+This project uses automated scripts to daily fetch Bing search engine's background wallpapers and convert wallpaper information into structured JSON format for storage. The project contains partial English wallpaper data from 2019 and comprehensive data starting from August 2024, supporting multiple countries and regions.
 
 ## 📁 Project Structure
 
