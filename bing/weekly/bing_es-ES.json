@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202511302300",
+        "date": "20251201",
+        "url": "https://www.bing.com/th?id=OHR.AntarcticArch_ES-ES0463895614_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AntarcticArch_ES-ES0463895614",
+        "copyright": "Arco natural tallado en un iceberg, Antártida (© Gabrielle/Adobe Stock)",
+        "copyrightKeyword": "Antártida",
+        "hsh": "72e23b43088959f1fbca6437ff97284a",
+        "description": "Algunas imágenes capturan los grandes actos de la naturaleza, pero otras —como un arco natural tallado en un iceberg antártico— revelan aún más: el delicado equilibrio entre el inmenso poder y la frágil belleza que nos rodea."
+    },
+    {
         "fullstartdate": "202511292300",
         "date": "20251130",
         "url": "https://www.bing.com/th?id=OHR.LeipzigMarket_ES-ES1066408557_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.GwailorFort_ES-ES8433830967",
         "copyright": "Fortaleza de Gwalior, Madhya Pradesh, India (© ImagesofIndia/Shutterstock)",
         "copyrightKeyword": "India",
-        "hsh": "0fb62382a525c68c348c40853a0ee7ff",
-        "description": "Gwalior, en Madhya Pradesh, no es solo una ciudad; es un capítulo vivo de la historia de la India. Dominando el horizonte, el Fuerte de Gwalior, construido en el siglo VI, creció bajo distintas dinastías y está rodeado de leyendas. Apodado \"el Gibraltar de la India\", fue elogiado por el emperador mogol Babur como la \"perla entre las fortalezas de Hind\" por su grandeza y solidez. A lo largo de los siglos, el fuerte vio gobernantes desde los Tomars hasta los mogoles y fue escenario de batallas, intrigas reales y tesoros escondidos."
-    },
-    {
-        "fullstartdate": "202511222300",
-        "date": "20251123",
-        "url": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_ES-ES6952842200_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_ES-ES6952842200",
-        "copyright": "Fósil de amonita de Madagascar (© ThomasLENNE/Shutterstock)",
-        "copyrightKeyword": "La Secuencia de Fibonacci",
-        "hsh": "8f06b73ad9920b09515239232ae40431"
+        "hsh": "0fb62382a525c68c348c40853a0ee7ff"
     }
 ]
