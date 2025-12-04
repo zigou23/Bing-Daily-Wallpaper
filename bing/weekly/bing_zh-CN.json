@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202512041600",
+        "date": "20251205",
+        "url": "https://www.bing.com/th?id=OHR.CopanRuins_ZH-CN2157795324_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.CopanRuins_ZH-CN2157795324",
+        "copyright": "科潘的玛雅遗址，洪都拉斯 (© diegograndi/Getty Images)",
+        "copyrightKeyword": "科潘玛雅遗址",
+        "hsh": "293804962e4ad22b8ef088eb23c8e6c4",
+        "description": "在洪都拉斯西部一片静谧山谷中，坐落着科潘古城的遗址，这座城市曾是古代玛雅文明的璀璨明珠。在这座城市里，天空既是罗盘，又是日历，指引着天象，塑造了庙宇的方向、仪式的时间与人们的生活节奏。公元426年左右，来自玛雅腹地的勇士基尼奇·亚什·库克·莫建立了科潘，并开创了王室王朝。此后，科潘成为玛雅艺术、天文学与政治权力的中心。"
+    },
+    {
         "fullstartdate": "202512031600",
         "date": "20251204",
         "url": "https://www.bing.com/th?id=OHR.CheetahMound_ZH-CN1970221812_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.InvernoItalia_ZH-CN1329490862",
         "copyright": "瓦尔·布兰德特, 布雷西亚, 伦巴第大区, 意大利 (© ClickAlps/Alamy)",
         "copyrightKeyword": "意大利布雷西亚",
-        "hsh": "c1d35d1e0dbcb9ef97364319cffefd20",
-        "description": "伦巴第大区的亚当洛公园深处，瓦尔·布兰德特静卧于雪的怀抱，冬日的静谧在此化作诗意的低语。我们身处科尔泰诺·高尔基小镇，这座以诺贝尔医学奖得主高尔基命名的小镇，承载着他的记忆与荣耀。这里不仅有科学的印记，更有自然的纯美，是历史与风景交织的圣地。"
-    },
-    {
-        "fullstartdate": "202511261600",
-        "date": "20251127",
-        "url": "https://www.bing.com/th?id=OHR.PierOfEastbourne2025_ZH-CN7178301269_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PierOfEastbourne2025_ZH-CN7178301269",
-        "copyright": "伊斯特本码头, 东萨塞克斯郡, 英格兰 (© Tolga_TEZCAN/Getty Images)",
-        "copyrightKeyword": "伊斯特本码头",
-        "hsh": "c4a1b3c46b18473903e655ad756ec842"
+        "hsh": "c1d35d1e0dbcb9ef97364319cffefd20"
     }
 ]
