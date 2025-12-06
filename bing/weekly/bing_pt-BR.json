@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202512060300",
+        "date": "20251207",
+        "url": "https://www.bing.com/th?id=OHR.EvergladesSunrise_PT-BR9624463483_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.EvergladesSunrise_PT-BR9624463483",
+        "copyright": "Teias de aranha no Parque Nacional Everglades, Flórida, EUA (© Troy Harrison/Getty Images)",
+        "copyrightKeyword": "Parque Nacional Everglades nos Estados Unidos",
+        "hsh": "7ac8801d62f5eb1fcf17b11064335c81",
+        "description": "Na ponta sul da Flórida, nos Estados Unidos, está o Parque Nacional Everglades, registrado na foto de hoje. Diferente de um pântano comum, o Everglades é uma vasta planície onde a água se espalha lentamente sobre campos abertos, conectando florestas, manguezais e pradarias costeiras. É um ecossistema, onde jacarés deslizam entre os canais e peixes-boi nadam tranquilos. Teias de aranha se estendem entre os juncos, capturando a luz como fios delicados — um lembrete da harmonia que sustenta a vida selvagem. Mesmo sendo uma área protegida, o lugar enfrenta desafios como poluição, expansão urbana e alterações no fluxo da água. Projetos de restauração buscam devolver à região sua dinâmica natural e preservar sua biodiversidade."
+    },
+    {
         "fullstartdate": "202512050300",
         "date": "20251206",
         "url": "https://www.bing.com/th?id=OHR.CopanRuins_PT-BR9370514600_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DeerVeluwe_PT-BR9808049674",
         "copyright": "Veado-vermelho no Parque Nacional De Hoge Veluwe, Países Baixos (© CreativeNature_nl/Getty Images)",
         "copyrightKeyword": "Parque Nacional De Hoge Veluwe, Países Baixos",
-        "hsh": "5ec0d3175f8f9495624acaa20ee55ac5",
-        "description": "Imagine uma vasta área de aproximadamente 55 km², onde a natureza se movimenta livremente e um veado-vermelho desfila com sua imponente coroa de galhadas — como o que vemos na imagem. No início do século XX, um casal visionário transformou essa região de Gelderland, nos Países Baixos, em uma propriedade privada com o propósito de unir arte e natureza. Assim nasceu o Parque Nacional De Hoge Veluwe, onde esculturas e instalações artísticas se integram à paisagem."
-    },
-    {
-        "fullstartdate": "202511280300",
-        "date": "20251129",
-        "url": "https://www.bing.com/th?id=OHR.PraiaFloripa_PT-BR9500409157_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PraiaFloripa_PT-BR9500409157",
-        "copyright": "Praia da Armação, Florianópolis, Santa Catarina (© André Damasco/Getty Images)",
-        "copyrightKeyword": "praia da armação florianópolis",
-        "hsh": "4d9c89322c0e884090c3d29b8cf40cfb"
+        "hsh": "5ec0d3175f8f9495624acaa20ee55ac5"
     }
 ]
