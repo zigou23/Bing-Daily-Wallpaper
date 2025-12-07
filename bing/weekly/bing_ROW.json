@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202512070800",
+        "date": "20251208",
+        "url": "https://www.bing.com/th?id=OHR.PearlHarborDay_EN-US5774515492_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PearlHarborDay_EN-US5774515492",
+        "copyright": "USS Arizona Memorial, Pearl Harbor, Honolulu, Hawaii (© Jessica O. Blackwell/APFootage/Alamy)",
+        "copyrightKeyword": "Pearl Harbor Day",
+        "hsh": "cee4e5198fc2e739cd535de92166d1ed",
+        "description": "At 7:55 AM on December 7, 1941, Japanese aircraft appeared over Pearl Harbor, Hawaii, and the course of history changed. In less than two hours, 19 ships were sunk or damaged, nearly 200 aircraft destroyed, and 2,403 Americans lost their lives. The battleship USS Arizona suffered the most devastating hit: a bomb struck its forward deck, igniting ammunition below and sending the ship to the harbor floor. The surprise assault crippled the US Pacific Fleet and ended America's neutrality in World War II. The next day, President Franklin D. Roosevelt told Congress it was 'a date which will live in infamy,' and the US entered the war."
+    },
+    {
         "fullstartdate": "202512060800",
         "date": "20251207",
         "url": "https://www.bing.com/th?id=OHR.EvergladesSunrise_EN-US5606230133_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LeipzigMarket_EN-US6493622236",
         "copyright": "Christmas market in Leipzig, Germany (© Krzysztof Baranowski/Getty Images)",
         "copyrightKeyword": "Leipzig",
-        "hsh": "c89cf405af999ea557643c09d721888d",
-        "description": "Do you know what people bought at Christmas markets 567 years ago? Not costly ornaments or fancy souvenirs but candles, spices, local goods, knitted items, and toys. Leipzig's Christmas market began in 1458 and quickly became a favorite stop for merchants and locals alike. Today, with its cultural and culinary offerings spread across the historic old town and about 300 stalls, it is one of the largest Christmas markets in Germany. Imagine streets buzzing with the chatter of traders and children following the scent of 'Lebkuchen'—honey-sweetened cakes. This is where townsfolk gather to celebrate winter and catch up on news while sipping mulled wine. These markets have always symbolized more than shopping—they offer an escape from the everyday routine."
-    },
-    {
-        "fullstartdate": "202511290800",
-        "date": "20251130",
-        "url": "https://www.bing.com/th?id=OHR.DeerVeluwe_EN-US6795108723_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DeerVeluwe_EN-US6795108723",
-        "copyright": "Red deer stag in De Hoge Veluwe National Park, Netherlands (© CreativeNature_nl/Getty Images)",
-        "copyrightKeyword": "De Hoge Veluwe National Park",
-        "hsh": "c1a5ac1d79a6e9835ab0287e44732f51"
+        "hsh": "c89cf405af999ea557643c09d721888d"
     }
 ]

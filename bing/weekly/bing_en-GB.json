@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202512070000",
+        "date": "20251208",
+        "url": "https://www.bing.com/th?id=OHR.MistyPineForest_EN-GB6527480616_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MistyPineForest_EN-GB6527480616",
+        "copyright": "A pine forest in Alsace, France (© alekseystemmer/Getty Images)",
+        "copyrightKeyword": "Alsace",
+        "hsh": "4fbca27f0d2855d4a6936b94136c99b4",
+        "description": "In December, the forests of Alsace, in France's Grand Est region, wrap themselves in a veil of fog, as if nature were holding its breath before winter. Between Scots pines and silver firs, the moss-covered ground muffles every step and silence feels almost sacred. These woodlands, which cover nearly 40% of Alsace, shelter a rich biodiversity: roe deer, wild boar, black woodpeckers and sometimes the elusive lynx, which has returned after decades of absence."
+    },
+    {
         "fullstartdate": "202512060000",
         "date": "20251207",
         "url": "https://www.bing.com/th?id=OHR.EvergladesSunrise_EN-GB6383912502_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.StAndrewsDay2025_EN-GB5442155816",
         "copyright": "Fireworks over Edinburgh seen from Calton Hill, Scotland (© georgeclerk/E+/Getty Images)",
         "copyrightKeyword": "St Andrews Day",
-        "hsh": "9d540eba1d80b8b4e87b1c50a9fe3e06",
-        "description": "When 30 November rolls around, Scotland doesn't just turn up the heat—it turns up the pipes. St Andrew's Day marks a national celebration of the country's patron saint, its history and all things tartan, toasted and toe-tapping. St Andrew wasn't born here—he was a fisherman from Galilee and one of Jesus' twelve apostles. According to legend, his relics were brought to the east coast of Scotland in the 4th century, giving rise to the town of St Andrews and inspiring the country's flag, the white saltire cross on blue."
-    },
-    {
-        "fullstartdate": "202511290000",
-        "date": "20251130",
-        "url": "https://www.bing.com/th?id=OHR.DeerVeluwe_EN-GB4885545035_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DeerVeluwe_EN-GB4885545035",
-        "copyright": "Red deer stag in De Hoge Veluwe National Park, Netherlands (© CreativeNature_nl/Getty Images)",
-        "copyrightKeyword": "De Hoge Veluwe National Park",
-        "hsh": "66fbc6cd8d067eb84fc46f1b46307447"
+        "hsh": "9d540eba1d80b8b4e87b1c50a9fe3e06"
     }
 ]
