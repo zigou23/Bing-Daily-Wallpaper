@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202512082300",
+        "date": "20251209",
+        "url": "https://www.bing.com/th?id=OHR.LlamaDay_FR-FR9248267589_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LlamaDay_FR-FR9248267589",
+        "copyright": "Guanaco, Punta Norte, Péninsule Valdés, Argentine (© Sylvain Cordier/naturepl.com)",
+        "copyrightKeyword": "guanaco",
+        "hsh": "5fc5cd47a5597b4c78bc922614126de6",
+        "description": "Sous le vent salé de Punta Norte, à l’extrémité nord de la péninsule Valdés, en Argentine, une silhouette élancée se découpe sur l’horizon d’herbes dorées. Le guanaco, cousin farouche du lama, avance d'un pas souple sur ces terres balayées par les rafales de l'Atlantique Sud. Son pelage fauve, doublé d'une épaisse laine, le protège du froid mordant de la steppe patagonne."
+    },
+    {
         "fullstartdate": "202512072300",
         "date": "20251208",
         "url": "https://www.bing.com/th?id=OHR.ComoChristmas_FR-FR9116499676_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.WillowLake_FR-FR7610126878",
         "copyright": "Willow Lake et le mont Blackburn, Parc national et réserve de Wrangell–Saint-Élie, Alaska, États-Unis (© Patrick J. Endres/Getty Images)",
         "copyrightKeyword": "Parc national et réserve de Wrangell–Saint-Élie",
-        "hsh": "f1eca2faa2a3a2ca12ae64ddb22bfea4",
-        "description": "Dans l’extrême nord-ouest des États-Unis, là où l’Alaska s’étend jusqu’au cercle polaire, le parc national de Wrangell-Saint-Élie dévoile un royaume de glace et de feu. Ses glaciers s’étendent tels des fleuves figés entre des volcans endormis. Au-dessus d'eux se dresse le mont Blackburn, sentinelle de 4 996 mètres née des profondeurs de la Terre. Sa silhouette enneigée domine l’horizon et ses pentes nourrissent d’immenses glaciers, témoins silencieux du temps géologique."
-    },
-    {
-        "fullstartdate": "202511302300",
-        "date": "20251201",
-        "url": "https://www.bing.com/th?id=OHR.AntarcticArch_FR-FR7424154136_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AntarcticArch_FR-FR7424154136",
-        "copyright": "Arche naturelle sculptée dans un iceberg, Antarctique (© Gabrielle/Adobe Stock)",
-        "copyrightKeyword": "Journée de l’Antarctique",
-        "hsh": "b7eaa3608daaa5230ab77d3a7c4449cc"
+        "hsh": "f1eca2faa2a3a2ca12ae64ddb22bfea4"
     }
 ]
