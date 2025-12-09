@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202512092300",
+        "date": "20251210",
+        "url": "https://www.bing.com/th?id=OHR.CordobaCathedral_DE-DE5800559694_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.CordobaCathedral_DE-DE5800559694",
+        "copyright": "Innenraum der Mezquita-Kathedrale von Córdoba, Andalusien, Spanien (© Elena Zolotova/Getty Images)",
+        "copyrightKeyword": "Mezquita-Kathedrale von Córdoba",
+        "hsh": "ef64d12b566be9a661ab034bce6b02c2",
+        "description": "Heute bewundern wir den beeindruckenden Innenraum der Mezquita-Kathedrale von Córdoba in Andalusien, Spanien. Ein architektonisches Meisterwerk, das Jahrhunderte der Geschichte und des kulturellen Miteinanders widerspiegelt. Ursprünglich im 8. Jahrhundert unter der Herrschaft der Umayyaden als Moschee erbaut, wurde sie mehrfach erweitert und galt lange als eine der größten Moscheen der islamischen Welt. Nach der christlichen Rückeroberung im Jahr 1236 wurde sie zur Kathedrale umgewandelt, wobei gotische, renaissancezeitliche und barocke Elemente in die islamische Struktur integriert wurden. Diese einzigartige Stilfusion macht das Bauwerk zu einem lebendigen Zeugnis des kulturellen Dialogs."
+    },
+    {
         "fullstartdate": "202512082300",
         "date": "20251209",
         "url": "https://www.bing.com/th?id=OHR.LlamaDay_DE-DE8597548065_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BosqueCranes_DE-DE5915883756",
         "copyright": "Kanadakraniche im Sonnenaufgang, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Jack Dykinga/Minden Pictures)",
         "copyrightKeyword": "Kanadakranich",
-        "hsh": "9a81d3564a6973256a59f4a202e79a85",
-        "description": "Der Kanadakranich ist ein groß gewachsener Vertreter der Kraniche und stammt aus Nordamerika. Er zeichnet sich durch seine elegante Haltung, sein graues Gefieder mit rötlichen Nuancen an der Stirn und seinen tiefen Ruf aus, der über mehrere Kilometer hinweg hörbar ist. Dieser Zugvogel bildet große Schwärme und fliegt in beeindruckender Formation, besonders eindrucksvoll bei Sonnenaufgang. Das heutige Bild zeigt eine typische Szene aus ihren Überwinterungsgebieten: Kraniche in einem Moment der Ruhe und natürlichen Schönheit, eingehüllt in das goldene Licht der Morgendämmerung, wie sie aus den Feuchtgebieten des Bosque del Apache im Nationalen Wildschutzgebiet in New Mexico, USA, aufsteigen."
-    },
-    {
-        "fullstartdate": "202512012300",
-        "date": "20251202",
-        "url": "https://www.bing.com/th?id=OHR.WillowLake_DE-DE5594196403_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WillowLake_DE-DE5594196403",
-        "copyright": "Willow Lake und Mount Blackburn, Wrangell-St.-Elias-Nationalpark und Schutzgebiet, Alaska, USA (© Patrick J. Endres/Getty Images)",
-        "copyrightKeyword": "Wrangell-St.-Elias-Nationalpark",
-        "hsh": "b07c33f26710d83f3e1d00054e76e268"
+        "hsh": "9a81d3564a6973256a59f4a202e79a85"
     }
 ]

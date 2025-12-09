@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202512092300",
+        "date": "20251210",
+        "url": "https://www.bing.com/th?id=OHR.CordobaCathedral_ES-ES0926965367_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.CordobaCathedral_ES-ES0926965367",
+        "copyright": "Interior de la Mezquita-Catedral de Córdoba, Andalucía, España (© Elena Zolotova/Getty Images)",
+        "copyrightKeyword": "Córdoba",
+        "hsh": "d0d6e1158bfee23e6b976ae2e679f5d7",
+        "description": "La Mezquita-Catedral de Córdoba es una de las grandes maravillas de España y un símbolo de la historia y la cultura andaluza. Su origen se remonta a una iglesia visigoda que, en el año 784, fue transformada por Abd al-Rahman I, fundador del Emirato Omeya de Córdoba, en una espléndida mezquita. Su impresionante sala hipóstila, con más de 850 columnas y arcos rojos y blancos, crea un bosque de piedra que asombra a quienes la visitan."
+    },
+    {
         "fullstartdate": "202512082300",
         "date": "20251209",
         "url": "https://www.bing.com/th?id=OHR.LlamaDay_ES-ES5630891489_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.CastildetierraNavarra_ES-ES0561192005",
         "copyright": "Pico Castildetierra cubierto de nieve en el Parque Natural de las Bardenas Reales, Valtierra, Navarra, España (© Martin Zalba/Getty Images)",
         "copyrightKeyword": "Navarra",
-        "hsh": "68c97d9c0e068a4fc2a428a23272dc75",
-        "description": "Cada 3 de diciembre, Navarra celebra su día grande: el Día de Navarra, una jornada que une tradición, cultura y orgullo por una tierra de contrastes. La fecha rinde homenaje a San Francisco Javier, patrón de la comunidad, cuya figura simboliza la entrega y la esperanza. Durante este día, pueblos y ciudades se llenan de música, danzas y actividades para todas las edades, desde ferias artesanales hasta conciertos y exposiciones que muestran la riqueza del patrimonio navarro."
-    },
-    {
-        "fullstartdate": "202512012300",
-        "date": "20251202",
-        "url": "https://www.bing.com/th?id=OHR.BosqueCranes_ES-ES1308288145_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BosqueCranes_ES-ES1308288145",
-        "copyright": "Grullas canadienses, Refugio Nacional de Vida Silvestre Bosque del Apache, Nuevo México, EE. UU. (© Jack Dykinga/Minden Pictures)",
-        "copyrightKeyword": "Antigone canadensis",
-        "hsh": "a8fe1c134f42bc9decff9bad0b54ce3d"
+        "hsh": "68c97d9c0e068a4fc2a428a23272dc75"
     }
 ]
