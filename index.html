@@ -645,11 +645,12 @@
             regionSelect.addEventListener('change', (e) => {
                 const newRegion = e.target.value;
                 currentRegion = newRegion;
+                const currentDate = monthSelect.value;
                 // Change region -> Reset to Page 1, All Months, Close Photo
-                updateQuery({ country: newRegion, page: 1, date: 'all', photo: null });
+                updateQuery({ country: newRegion, page: 1, date: currentDate, photo: null });
                 loadData(newRegion).then(() => {
                      populateMonthDropdown();
-                     filterByMonth('all', 1); 
+                     filterByMonth(monthSelect.value, 1); 
                 });
             });
 
