@@ -38,6 +38,7 @@ const lbCopy = document.getElementById('lb-copyright');
 const lbDesc = document.getElementById('lb-desc');
 const btnUHD = document.getElementById('btn-dl-uhd');
 const btnHD = document.getElementById('btn-dl-hd');
+const btnMobile = document.getElementById('btn-dl-mobile');
 const closeLb = document.querySelector('.close-lightbox');
 
 // Lazy Load Observer
@@ -200,6 +201,7 @@ function getResUrl(item, type) {
         case 'thumb':  return `${item.urlbase}_800x480.jpg`; 
         case 'medium': return `${item.urlbase}_1366x768.jpg`;
         case 'full':   return `${item.urlbase}_1920x1080.jpg`;
+        case 'mobile': return `${item.urlbase}_1080x1920.jpg`;
         case 'uhd':    return `${item.urlbase}_UHD.jpg`;
         default:       return `${item.urlbase}_1920x1080.jpg`;
     }
@@ -320,11 +322,13 @@ function openLightbox(item) {
         lbError.classList.add('show');
         btnUHD.disabled = true;
         btnHD.disabled = true;
+        btnMobile.disabled = true;
     };
 
     lbImg.onload = () => {
         btnUHD.disabled = false;
         btnHD.disabled = false;
+        btnMobile.disabled = false;
     };
 
     const dateStr = `${item.date.substring(0,4)}-${item.date.substring(4,6)}-${item.date.substring(6,8)}`;
@@ -335,6 +339,7 @@ function openLightbox(item) {
 
     btnUHD.href = getResUrl(item, 'uhd');
     btnHD.href = getResUrl(item, 'full');
+    btnMobile.href = getResUrl(item, 'mobile');
 }
 
 function closeLightbox() {
