@@ -9,14 +9,15 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400;600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <link rel="stylesheet" href="assets/archive-styles.css">
+    <link rel="stylesheet" href="assets/style.css">
 </head>
-<body>
+<body data-mode="archive" class="archive-mode">
     <div id="loading" class="loading-overlay">
         <div class="spinner"></div>
     </div>
 
     <div class="container">
+        <!-- Archive Notice -->
         <div class="archive-notice">
             <i class="fa-solid fa-box-archive"></i>
             <div class="archive-notice-text">
@@ -32,6 +33,10 @@
                 <span class="archive-badge">OLD DATA</span>
             </div>
             <div class="controls">
+                <div class="control-group">
+                    <i class="fa-solid fa-magnifying-glass"></i>
+                    <input type="text" id="search-input" placeholder="Search title, description...">
+                </div>
                 <div class="control-group">
                     <i class="fa-solid fa-globe"></i>
                     <select id="region-select"></select>
@@ -86,6 +91,6 @@
             </div>
         </div>
     </div>
-    <script src="assets/archive-script.js"></script>
+    <script src="assets/script.js"></script>
 </body>
 </html>

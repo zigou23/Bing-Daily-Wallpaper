@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="stylesheet" href="assets/style.css">
 </head>
-<body>
+<body data-mode="normal">
     <!-- Loading Overlay -->
     <div id="loading" class="loading-overlay">
         <div class="spinner"></div>
@@ -20,12 +20,15 @@
     <div class="container">
         <!-- Header -->
         <header class="header">
-            <!-- Added onclick to reset URL -->
             <div class="brand" onclick="window.location.href = window.location.pathname">
                 <i class="fa-solid fa-image"></i>
                 Bing Gallery
             </div>
             <div class="controls">
+                <div class="control-group">
+                    <i class="fa-solid fa-magnifying-glass"></i>
+                    <input type="text" id="search-input" placeholder="Search title, description...">
+                </div>
                 <div class="control-group">
                     <i class="fa-solid fa-globe"></i>
                     <select id="region-select"></select>
