@@ -22,6 +22,7 @@ const ITEMS_PER_PAGE = 31;
 let allData = [];
 let filteredData = [];
 let currentPage = 1;
+let currentRegion = "";
 
 const galleryGrid = document.getElementById('gallery-grid');
 const regionSelect = document.getElementById('region-select');
@@ -65,26 +66,128 @@ const lazyObserver = new IntersectionObserver((entries, observer) => {
 function init() {
     populateRegionSelect();
     
-    const lang = navigator.language;
-    let defRegion = "bing_ROW";
-    const match = REGIONS.find(r => r.code === `bing_${lang}`);
-    if(match) defRegion = match.code;
-    else if (lang.includes('zh')) defRegion = "bing_zh-CN";
-    else if (lang.includes('en')) defRegion = "bing_en-US";
-    else if (lang.includes('ja')) defRegion = "bing_ja-JP";
-    else if (lang.includes('de')) defRegion = "bing_de-DE";
-    else if (lang.includes('fr')) defRegion = "bing_fr-FR";
-    else if (lang.includes('es')) defRegion = "bing_es-ES";
-
+    // --- URL State Initialization ---
+    const params = new URLSearchParams(window.location.search);
+    
+    // 1. Determine Region
+    let defRegion = params.get('country');
+    if (!defRegion) {
+        // Auto-detect if no parameter
+        const lang = navigator.language;
+        defRegion = "bing_ROW";
+        const match = REGIONS.find(r => r.code === `bing_${lang}`);
+        if(match) defRegion = match.code;
+        else if (lang.includes('zh')) defRegion = "bing_zh-CN";
+        else if (lang.includes('en')) defRegion = "bing_en-US";
+        else if (lang.includes('ja')) defRegion = "bing_ja-JP";
+        else if (lang.includes('de')) defRegion = "bing_de-DE";
+        else if (lang.includes('fr')) defRegion = "bing_fr-FR";
+        else if (lang.includes('es')) defRegion = "bing_es-ES";
+    }
+    
+    // Validate region
+    if (![...regionSelect.options].some(o => o.value === defRegion)) {
+        defRegion = "bing_ROW";
+    }
     regionSelect.value = defRegion;
-    loadData(defRegion);
+    currentRegion = defRegion;
 
-    regionSelect.addEventListener('change', (e) => loadData(e.target.value));
-    monthSelect.addEventListener('change', (e) => filterByMonth(e.target.value));
-    closeLb.addEventListener('click', closeLightbox);
-    document.addEventListener('keydown', (e) => {
-        if(e.key === "Escape") closeLightbox();
+    // Load Data
+    loadData(defRegion).then(() => {
+        applyStateFromURL();
     });
+
+    // Event Listeners
+    regionSelect.addEventListener('change', (e) => {
+        const newRegion = e.target.value;
+        currentRegion = newRegion;
+        const currentDate = monthSelect.value;
+        // Change region -> Reset to Page 1, keep month, Close Photo
+        updateQuery({ country: newRegion, page: 1, date: currentDate, photo: null });
+        loadData(newRegion).then(() => {
+            populateMonthDropdown();
+            filterByMonth(monthSelect.value, 1); 
+        });
+    });
+
+    monthSelect.addEventListener('change', (e) => {
+        const val = e.target.value;
+        // Change Month -> Reset to Page 1
+        updateQuery({ date: val, page: 1 });
+        filterByMonth(val, 1);
+    });
+
+    closeLb.addEventListener('click', () => {
+        closeLightbox();
+        updateQuery({ photo: null }); // Remove photo param
+    });
+    
+    document.addEventListener('keydown', (e) => {
+        if(e.key === "Escape") {
+            closeLightbox();
+            updateQuery({ photo: null });
+        }
+    });
+
+    window.addEventListener('popstate', () => {
+        applyStateFromURL();
+    });
+}
+
+// --- State Management ---
+async function applyStateFromURL() {
+    const params = new URLSearchParams(window.location.search);
+    
+    // 1. Check Region
+    const regionParam = params.get('country');
+    if (regionParam && regionParam !== currentRegion) {
+        regionSelect.value = regionParam;
+        currentRegion = regionParam;
+        await loadData(regionParam);
+    }
+
+    // 2. Filter Month
+    const dateParam = params.get('date') || 'all';
+    monthSelect.value = dateParam;
+    
+    // 3. Page
+    const pageParam = parseInt(params.get('page')) || 1;
+    
+    // Apply Data Filters
+    filterByMonth(dateParam, pageParam);
+
+    // 4. Lightbox (Photo)
+    const photoParam = params.get('photo');
+    if (photoParam) {
+        // Find photo in currently loaded data
+        const item = allData.find(i => i.date === photoParam);
+        if (item) openLightbox(item);
+    } else {
+        lightbox.classList.remove('show');
+        lbImg.src = "";
+    }
+}
+
+function updateQuery(updates) {
+    const params = new URLSearchParams(window.location.search);
+    
+    // Merge updates
+    for (const [key, value] of Object.entries(updates)) {
+        if (value === null || value === 'all') {
+            // Clean up defaults to keep URL clean
+            if (key === 'date' && value === 'all') params.delete(key);
+            else if (value === null) params.delete(key);
+            else params.set(key, value);
+        } else {
+            params.set(key, value);
+        }
+    }
+    
+    // Default page 1 doesn't need to be in URL
+    if (parseInt(params.get('page')) === 1) params.delete('page');
+
+    const newUrl = window.location.pathname + (params.toString() ? '?' + params.toString() : '');
+    history.pushState(null, '', newUrl);
 }
 
 function populateRegionSelect() {
@@ -121,7 +224,6 @@ async function loadData(regionCode) {
         });
 
         populateMonthDropdown();
-        filterByMonth('all');
 
     } catch (err) {
         console.error(err);
@@ -132,6 +234,7 @@ async function loadData(regionCode) {
 }
 
 function populateMonthDropdown() {
+    const currentVal = monthSelect.value;
     monthSelect.innerHTML = '<option value="all">All Months</option>';
     const months = new Set();
     allData.forEach(item => {
@@ -144,13 +247,14 @@ function populateMonthDropdown() {
         opt.textContent = `${m.substring(0,4)} ${m.substring(4,6)}`;
         monthSelect.appendChild(opt);
     });
+    if (currentVal) monthSelect.value = currentVal;
 }
 
-function filterByMonth(val) {
-    if (val === 'all') filteredData = allData;
+function filterByMonth(val, page) {
+    if (val === 'all' || !val) filteredData = allData;
     else filteredData = allData.filter(item => item.date.startsWith(val));
     
-    currentPage = 1;
+    currentPage = page || 1;
     renderGallery();
     renderPagination();
 }
@@ -195,7 +299,10 @@ function renderGallery() {
         const img = card.querySelector('img');
         lazyObserver.observe(img);
 
-        card.addEventListener('click', () => openLightbox(item));
+        card.addEventListener('click', () => {
+            openLightbox(item);
+            updateQuery({ photo: item.date }); // Add photo param
+        });
         galleryGrid.appendChild(card);
     });
 }
@@ -248,6 +355,7 @@ function renderPagination() {
             currentPage = p;
             renderGallery();
             renderPagination();
+            updateQuery({ page: p }); // Update page param
             window.scrollTo({top:0, behavior:'smooth'});
         }
         paginationEl.appendChild(btn);
