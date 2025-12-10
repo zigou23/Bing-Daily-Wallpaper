@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202512100300",
+        "date": "20251211",
+        "url": "https://www.bing.com/th?id=OHR.CordobaCathedral_PT-BR2100403879_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.CordobaCathedral_PT-BR2100403879",
+        "copyright": "Interior da Mesquita-Catedral de Córdova, Andaluzia, Espanha (© Elena Zolotova/Getty Images)",
+        "copyrightKeyword": "Mesquita-Catedral de Córdova",
+        "hsh": "f024b003cdba5deb07e5fe067b490769",
+        "description": "A Mesquita-Catedral de Córdova, na Espanha, é um dos monumentos que contam a história dos diferentes povos que passaram pela Península Ibérica. Um dos destaques da construção é o grande salão com mais de 850 colunas, muitas delas reaproveitadas de antigas edificações romanas. Os famosos arcos vermelhos e brancos são um dos símbolos mais conhecidos do local e ilustram a imagem de hoje."
+    },
+    {
         "fullstartdate": "202512090300",
         "date": "20251210",
         "url": "https://www.bing.com/th?id=OHR.LlamaDay_PT-BR1735380490_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BosqueCranes_PT-BR1405246976",
         "copyright": "Grous-canadenses ao nascer do sol no Bosque del Apache National Wildlife Refuge, Novo México, EUA (© Jack Dykinga/Minden Pictures)",
         "copyrightKeyword": "Grou-canadiano ave",
-        "hsh": "a7e22c53dd35cb9ccace73633e9b63a3",
-        "description": "Todo mês de dezembro, à medida que a manhã se revela, um coro de chamados estridentes ecoa pelos pântanos do Bosque del Apache National Wildlife Refuge. Este santuário de aproximadamente 23 mil hectares, localizado no centro do Novo México, nos Estados Unidos, prepara-se para encenar uma das performances mais emocionantes da natureza: o retorno dos grous-canadenses após sua jornada sazonal, como podemos ver na imagem."
-    },
-    {
-        "fullstartdate": "202512020300",
-        "date": "20251203",
-        "url": "https://www.bing.com/th?id=OHR.SambaDay_PT-BR0875547071_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SambaDay_PT-BR0875547071",
-        "copyright": "Carnaval no Rio de Janeiro, RJ (© Richard I'Anson/Getty Images)",
-        "copyrightKeyword": "Dia do samba no Brasil",
-        "hsh": "36ba261505d6bb79879026ce65a0e298"
+        "hsh": "a7e22c53dd35cb9ccace73633e9b63a3"
     }
 ]
