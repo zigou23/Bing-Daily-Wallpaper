@@ -20,12 +20,14 @@ body {
   color: var(--text-color);
   min-height: 100vh;
   line-height: 1.6;
+  overflow-x: hidden; /* 防止横向滚动 */
 }
 
 .container {
   max-width: 1800px;
   margin: 0 auto;
   padding: 20px;
+  overflow-x: hidden; /* 防止内容溢出 */
 }
 
 /* Archive Notice - 仅存档页面显示 */
@@ -173,6 +175,52 @@ input[type="text"].searching::placeholder {
   color: #ffb900;
 }
 
+/* 移动端搜索框样式 */
+@media (max-width: 600px) {
+  .control-group.search-group {
+    position: relative;
+    flex: 0 0 auto;
+    width: auto;
+  }
+
+  .control-group.search-group input[type="text"] {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 0;
+    min-width: 0;
+    padding: 10px 0;
+    opacity: 0;
+    pointer-events: none;
+    transition: all 0.3s ease;
+    z-index: 100;
+  }
+
+  .control-group.search-group.active input[type="text"] {
+    width: calc(100vw - 100px);
+    min-width: 200px;
+    padding: 10px 15px;
+    opacity: 1;
+    pointer-events: auto;
+  }
+
+  .control-group.search-group i {
+    cursor: pointer;
+    padding: 10px;
+    background: #222;
+    border-radius: 8px;
+    border: 1px solid #444;
+    transition: all 0.3s;
+    position: relative;
+    z-index: 101;
+  }
+
+  .control-group.search-group.active i {
+    opacity: 0;
+    pointer-events: none;
+  }
+}
+
 /* Gallery Grid */
 .gallery {
   display: grid;
@@ -193,8 +241,9 @@ body:not(.archive-mode) .card.featured {
   grid-row: span 2;
 }
 
-@media (max-width: 768px) {
-  .card.featured {
+/* 移动端禁用featured效果 */
+@media (max-width: 770px) {
+  body:not(.archive-mode) .card.featured {
     grid-column: auto;
     grid-row: auto;
   }
@@ -628,6 +677,10 @@ body.archive-mode .dl-btn.mobile {
     font-size: 1.4rem;
   }
 
+  .header {
+    gap: 10px;
+  }
+
   .archive-notice {
     flex-direction: column;
     text-align: center;
@@ -650,17 +703,48 @@ body.archive-mode .dl-btn.mobile {
     font-size: 1.5rem;
   }
 
-  input[type="text"] {
-    min-width: 150px;
+  /* 搜索框和选择框自适应 */
+  input[type="text"],
+  select {
+    min-width: 0;
+    width: 100%;
     font-size: 0.9rem;
   }
 
   .controls {
     width: 100%;
+    gap: 10px;
   }
 
   .control-group {
-    flex: 1;
-    min-width: 140px;
+    flex: 1 1 calc(50% - 5px);
+    min-width: 0;
+  }
+
+  /* 按钮组单独一行 */
+  .control-btn {
+    flex: 0 0 auto;
+  }
+
+  /* 图标稍微缩小 */
+  .control-group i {
+    font-size: 0.9rem;
+  }
+}
+
+/* 超小屏幕优化 */
+@media (max-width: 400px) {
+  .brand {
+    font-size: 1.2rem;
+  }
+
+  .control-group {
+    flex: 1 1 100%;
+  }
+
+  input[type="text"],
+  select {
+    font-size: 0.85rem;
+    padding: 8px 12px;
   }
 }
