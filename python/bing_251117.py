@@ -25,6 +25,17 @@ def fetch_with_retry(url, retries=3, delay=5, timeout=10):
                 print(f"  Failed to fetch {url} after {retries} attempts.")
                 return None # Return None on final failure
 
+# --- NEW: Extract coordinates from MapLink URL ---
+def extract_maplink_coordinates(url_string):
+    """从MapLink URL中提取pp参数的坐标值"""
+    if not url_string:
+        return None
+    # 使用正则表达式匹配 pp=坐标 的模式
+    match = re.search(r'[&?]pp=([0-9.-]+,[0-9.-]+)', url_string)
+    if match:
+        return match.group(1)
+    return None
+
 # --- NEW: Updated merge function to fill missing descriptions ---
 def update_and_merge_images(existing_images, new_images, date_field='date', unique_field='fullstartdate'):
     """
@@ -57,9 +68,15 @@ def update_and_merge_images(existing_images, new_images, date_field='date', uniq
                     print(f"  Updating missing description for {unique_id} ({existing_img.get(date_field)})")
                     existing_img['description'] = new_img['description']
                     update_count += 1
+                
+                # 同时更新 MapLink 坐标
+                if 'maplink' not in existing_img and 'maplink' in new_img:
+                    print(f"  Updating missing maplink for {unique_id} ({existing_img.get(date_field)})")
+                    existing_img['maplink'] = new_img['maplink']
+                    update_count += 1
 
     if update_count > 0:
-        print(f"  Updated {update_count} existing image(s) with missing descriptions.")
+        print(f"  Updated {update_count} existing image(s) with missing descriptions/maplinks.")
 
     # 2. Add new images
     add_count = 0
@@ -218,6 +235,14 @@ for lang in languages:
                 available_ids.append(model_image_id)
                 description = media_item['ImageContent']['Description']
                 
+                # ====== 新增：提取 MapLink 坐标 ======
+                maplink_coordinates = None
+                if 'MapLink' in media_item['ImageContent'] and 'Url' in media_item['ImageContent']['MapLink']:
+                    maplink_url = media_item['ImageContent']['MapLink']['Url']
+                    maplink_coordinates = extract_maplink_coordinates(maplink_url)
+                    if maplink_coordinates:
+                        print(f"  Found MapLink coordinates: {maplink_coordinates} for {model_image_id}")
+                
                 # 匹配并添加描述
                 for image_info in images_info:
                     # ====== 关键修改：使用图片ID进行匹配 ======
@@ -225,6 +250,10 @@ for lang in languages:
                         # 只在还没有描述时添加（优先使用 MediaContents）
                         if 'description' not in image_info:
                             image_info['description'] = description
+                            
+                            # 如果有 MapLink 坐标，也添加进去
+                            if maplink_coordinates:
+                                image_info['maplink'] = maplink_coordinates
                             
                             # 根据你的要求，注释掉 title 和 headline
                             # if 'Title' in media_item['ImageContent']:
