@@ -1,12 +1,22 @@
 [
     {
+        "fullstartdate": "202512121600",
+        "date": "20251213",
+        "url": "https://www.bing.com/th?id=OHR.YosemiteWinter_ZH-CN3824387818_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.YosemiteWinter_ZH-CN3824387818",
+        "copyright": "默塞德河, 优胜美地国家公园, 加利福尼亚, 美国 (© Ron and Patty Thomas/Getty Images)",
+        "copyrightKeyword": "默塞德河",
+        "hsh": "11e4a7b0aa66a6bb034ad9faff434f24",
+        "description": "每一幅杰作都需要点睛之笔。而优胜美地的点睛之笔便是默塞德河。作为美国国家级“野生与风景河流”之一，这条水系起源于内华达山脉高处，汇集雪水，蜿蜒145英里，穿过优胜美地山谷，流入加州中央谷地。"
+    },
+    {
         "fullstartdate": "202512111600",
         "date": "20251212",
         "url": "https://www.bing.com/th?id=OHR.SpeckledPoinsettia_ZH-CN3726763235_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.SpeckledPoinsettia_ZH-CN3726763235",
         "copyright": "有斑点的一品红 (© DigiPub/Getty Images)",
         "copyrightKeyword": "一品红",
-        "hsh": "6c8c446b7b06e79b6caa803052c82baf",
+        "hsh": "119d801394497b45f8e208893e493537",
         "description": "有些植物只是静静地待在窗台上，而一品红却注定要闪耀。它鲜艳夺目，红得像鲁道夫的鼻尖，是十二月的明星，甚至拥有自己的节日——12月12日的一品红日。在成为圣诞装饰之前，这种灌木经历了漫长旅程。很久以前，它生长在墨西哥的野地，阿兹特克人用它制染料、做药材。直到19世纪20年代，美国外交官乔尔·罗伯茨·波因塞特被它的魅力吸引，将它带回家。之后的故事，便是历史与植物学的篇章。"
     },
     {
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.EvergladesSunrise_ZH-CN2298606730",
         "copyright": "大沼泽地国家公园的蜘蛛网，佛罗里达州，美国 (© Troy Harrison/Getty Images)",
         "copyrightKeyword": "大沼泽地国家公园",
-        "hsh": "2b0c2a543fe8358d337466c5f07e9df9",
-        "description": "在美国的最南端，延展着一片与众不同的自然奇景：大沼泽地。它既不是典型的沼泽，也不是河流，而是一片缓慢流动、浅而宽广的水域，从平坦的草原向南漂移，最终注入佛罗里达湾，它将森林、湿地、红树林与沿海草原连成一个庞大而复杂的亚热带生态网络。栖息着包括短吻鳄、海牛及濒危的佛罗里达美洲狮在内的数百种生物。1947年12月6日，美国设立了大沼泽地国家公园，保护面积超过150万英亩，并首次将保护重点从单一地标转向整体生态系统的保育。"
-    },
-    {
-        "fullstartdate": "202512041600",
-        "date": "20251205",
-        "url": "https://www.bing.com/th?id=OHR.CopanRuins_ZH-CN2157795324_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.CopanRuins_ZH-CN2157795324",
-        "copyright": "科潘的玛雅遗址，洪都拉斯 (© diegograndi/Getty Images)",
-        "copyrightKeyword": "科潘玛雅遗址",
-        "hsh": "293804962e4ad22b8ef088eb23c8e6c4"
+        "hsh": "2b0c2a543fe8358d337466c5f07e9df9"
     }
 ]

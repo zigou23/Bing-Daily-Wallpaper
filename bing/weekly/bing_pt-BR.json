@@ -1,7 +1,17 @@
 [
     {
-        "fullstartdate": "202512110300",
+        "fullstartdate": "202512120300",
         "date": "20251212",
+        "url": "https://www.bing.com/th?id=OHR.SpeckledPoinsettia_PT-BR8754988281_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SpeckledPoinsettia_PT-BR8754988281",
+        "copyright": "Poinsétia, a planta que colore o Natal (© DigiPub/Getty Images)",
+        "copyrightKeyword": "Poinsétia",
+        "hsh": "a299db173c0df15bba2d750f803c8410",
+        "description": "Algumas plantas ficam discretas nas janelas. A poinsétia? Ela pede os holofotes. Vibrante, marcante e vermelha, essa estrela de dezembro tem uma história curiosa. Antes de virar símbolo natalino, percorreu um longo caminho. Muito antes de enfeitar salas, crescia livre no México, onde os astecas a usavam para tinturas e remédios. No século XIX, o diplomata norte-americano Joel Roberts Poinsett se encantou com a planta e levou mudas para os Estados Unidos. O resto virou história — e botânica."
+    },
+    {
+        "fullstartdate": "202512110300",
+        "date": "20251211",
         "url": "https://www.bing.com/th?id=OHR.EverestGlow_PT-BR2321595835_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.EverestGlow_PT-BR2321595835",
         "copyright": "Monte Everest ao pôr do sol, visto de Renjo La Pass, no Nepal (© shoults/Alamy)",
@@ -11,7 +21,7 @@
     },
     {
         "fullstartdate": "202512100300",
-        "date": "20251211",
+        "date": "20251210",
         "url": "https://www.bing.com/th?id=OHR.CordobaCathedral_PT-BR2100403879_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.CordobaCathedral_PT-BR2100403879",
         "copyright": "Interior da Mesquita-Catedral de Córdova, Andaluzia, Espanha (© Elena Zolotova/Getty Images)",
@@ -21,7 +31,7 @@
     },
     {
         "fullstartdate": "202512090300",
-        "date": "20251210",
+        "date": "20251209",
         "url": "https://www.bing.com/th?id=OHR.LlamaDay_PT-BR1735380490_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.LlamaDay_PT-BR1735380490",
         "copyright": "Guanaco na Punta Norte, Peninsula Valdés, Argentina (© Sylvain Cordier/naturepl.com)",
@@ -31,7 +41,7 @@
     },
     {
         "fullstartdate": "202512080300",
-        "date": "20251209",
+        "date": "20251208",
         "url": "https://www.bing.com/th?id=OHR.ComoChristmas_PT-BR1481047101_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.ComoChristmas_PT-BR1481047101",
         "copyright": "Luzes de Natal em Domaso, Lago de Como, Itália (© Roberto Moiola/Getty Images)",
@@ -41,7 +51,7 @@
     },
     {
         "fullstartdate": "202512070300",
-        "date": "20251208",
+        "date": "20251207",
         "url": "https://www.bing.com/th?id=OHR.MistyPineForest_PT-BR1153518162_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.MistyPineForest_PT-BR1153518162",
         "copyright": "Floresta de pinheiros na Alsácia, França (© alekseystemmer/Getty Images)",
@@ -51,7 +61,7 @@
     },
     {
         "fullstartdate": "202512060300",
-        "date": "20251207",
+        "date": "20251206",
         "url": "https://www.bing.com/th?id=OHR.EvergladesSunrise_PT-BR9624463483_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.EvergladesSunrise_PT-BR9624463483",
         "copyright": "Teias de aranha no Parque Nacional Everglades, Flórida, EUA (© Troy Harrison/Getty Images)",
@@ -61,21 +71,11 @@
     },
     {
         "fullstartdate": "202512050300",
-        "date": "20251206",
+        "date": "20251205",
         "url": "https://www.bing.com/th?id=OHR.CopanRuins_PT-BR9370514600_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.CopanRuins_PT-BR9370514600",
         "copyright": "Sítio Maia de Copán, Honduras (© diegograndi/Getty Images)",
         "copyrightKeyword": "civilização maia, copán",
-        "hsh": "f5b0d10569a07c447ba8324c0700dc5e",
-        "description": "Em um vale tranquilo no oeste de Honduras estão as ruínas de Copán, uma antiga cidade construída pela civilização maia, que ilustra nossa imagem do dia. Esse povo também viveu em muitas outras regiões que hoje fazem parte do México, Guatemala, Belize e El Salvador. Eles criaram sistemas avançados de escrita, arquitetura, matemática e observação dos astros. O céu era como um grande mapa: servia de bússola e calendário, orientando festas, construções e o ritmo da vida."
-    },
-    {
-        "fullstartdate": "202512040300",
-        "date": "20251205",
-        "url": "https://www.bing.com/th?id=OHR.CheetahMound_PT-BR1635774221_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.CheetahMound_PT-BR1635774221",
-        "copyright": "Guepardo na Reserva Nacional Maasai Mara, Narok, Quênia (© Andy Rouse/naturepl.com)",
-        "copyrightKeyword": "Guepardo na África",
-        "hsh": "bcc40edc2c1f508d139d5898d5ec3e07"
+        "hsh": "f5b0d10569a07c447ba8324c0700dc5e"
     }
 ]
