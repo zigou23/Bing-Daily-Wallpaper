@@ -608,21 +608,28 @@ body.archive-mode .dl-btn.mobile {
   cursor: pointer;
 }
 .dl-dropdown {
-  display: none;
   position: absolute;
   bottom: 100%;
   left: 0;
   background-color: #2a2a2a;
   border: 1px solid #555;
   border-radius: 8px;
-  z-index: 1;
   margin-bottom: 10px;
   padding: 5px 0;
   box-shadow: 0 8px 16px rgba(0,0,0,0.3);
   list-style: none;
+  visibility: hidden;
+  opacity: 0;
+  z-index: 1000;
+  transform: translateY(10px);
+  transition: opacity 0.2s ease, transform 0.2s ease, visibility 0.2s;
+  min-width: 150px;
+  white-space: nowrap;
 }
 .dl-dropdown.show {
-  display: block;
+  visibility: visible;
+  opacity: 1;
+  transform: translateY(0);
 }
 .dl-dropdown-item {
   color: white;
@@ -735,6 +742,12 @@ body.archive-mode .dl-btn.mobile {
   .dl-btn {
     justify-content: center;
     padding: 6px 12px;
+  }
+  .dl-dropdown {
+    bottom: auto;
+    top: 100%;
+    margin-bottom: 0;
+    margin-top: 10px;
   }
 
   .lightbox-details {

@@ -515,12 +515,31 @@ document.addEventListener('DOMContentLoaded', init);
 
 moreBtnGroup.addEventListener('click', function(event) {
   event.stopPropagation();
+  event.preventDefault();
+  
+  // 切换显示状态
+  var isShowing = dropdownMenu.classList.contains('show');
   dropdownMenu.classList.toggle('show');
+  
+  // 确保样式正确应用（兼容旧版浏览器）
+  if (!isShowing) {
+    setTimeout(function() {
+      dropdownMenu.style.visibility = 'visible';
+      dropdownMenu.style.opacity = '1';
+    }, 10);
+  }
 });
 
-window.addEventListener('click', function() {
+window.addEventListener('click', function(event) {
   if (dropdownMenu.classList.contains('show')) {
     dropdownMenu.classList.remove('show');
+    // 延迟隐藏以配合过渡动画
+    setTimeout(function() {
+      if (!dropdownMenu.classList.contains('show')) {
+        dropdownMenu.style.visibility = 'hidden';
+        dropdownMenu.style.opacity = '0';
+      }
+    }, 200);
   }
 });
 
