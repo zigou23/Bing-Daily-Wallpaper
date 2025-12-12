@@ -1,7 +1,18 @@
 [
     {
-        "fullstartdate": "202512110500",
+        "fullstartdate": "202512120500",
         "date": "20251212",
+        "url": "https://www.bing.com/th?id=OHR.SuspensionLights_EN-CA1736218976_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SuspensionLights_EN-CA1736218976",
+        "copyright": "Illuminated Capilano Suspension Bridge Park, Vancouver, British Columbia (© Brian Caissie/Getty Images)",
+        "copyrightKeyword": "Capilano Suspension Bridge Park",
+        "hsh": "e9dbfabe7fd47023b7babc87d3662570",
+        "description": "Some bridges are feats of engineering; others feel more like an adventure. Vancouver's Capilano Suspension Bridge Park leans into both. The bridge spans almost 140 metres across the Capilano River and sits 70 metres above it, held by strong cables that give a gentle sway as you walk. The idea took shape in 1889, when Scottish civil engineer George Grant Mackay built the first version using hemp rope and cedar planks. Wire cables replaced the original materials in 1903, and the site slowly expanded into a popular outdoor spot cherished by many.",
+        "maplink": "49.342865,-123.114899"
+    },
+    {
+        "fullstartdate": "202512110500",
+        "date": "20251211",
         "url": "https://www.bing.com/th?id=OHR.EverestGlow_EN-CA4280192102_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.EverestGlow_EN-CA4280192102",
         "copyright": "The summit of Mount Everest at sunset, seen from Renjo La, Nepal (© shoults/Alamy)",
@@ -12,7 +23,7 @@
     },
     {
         "fullstartdate": "202512100500",
-        "date": "20251211",
+        "date": "20251210",
         "url": "https://www.bing.com/th?id=OHR.CordobaCathedral_EN-CA3988311305_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.CordobaCathedral_EN-CA3988311305",
         "copyright": "Interior of the Mosque-Cathedral of Córdoba, Andalusia, Spain (© Elena Zolotova/Getty Images)",
@@ -23,7 +34,7 @@
     },
     {
         "fullstartdate": "202512090500",
-        "date": "20251210",
+        "date": "20251209",
         "url": "https://www.bing.com/th?id=OHR.LlamaDay_EN-CA2711777961_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.LlamaDay_EN-CA2711777961",
         "copyright": "Guanaco, Punta Norte, Valdés Peninsula, Argentina (© Sylvain Cordier/naturepl.com)",
@@ -34,7 +45,7 @@
     },
     {
         "fullstartdate": "202512080500",
-        "date": "20251209",
+        "date": "20251208",
         "url": "https://www.bing.com/th?id=OHR.ComoChristmas_EN-CA3615556860_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.ComoChristmas_EN-CA3615556860",
         "copyright": "Christmas lights on buildings of Domaso, Lake Como, Italy (© Roberto Moiola/Getty Images)",
@@ -45,7 +56,7 @@
     },
     {
         "fullstartdate": "202512070500",
-        "date": "20251208",
+        "date": "20251207",
         "url": "https://www.bing.com/th?id=OHR.MistyPineForest_EN-CA3344515413_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.MistyPineForest_EN-CA3344515413",
         "copyright": "A pine forest in Alsace, France (© alekseystemmer/Getty Images)",
@@ -55,7 +66,7 @@
     },
     {
         "fullstartdate": "202512060500",
-        "date": "20251207",
+        "date": "20251206",
         "url": "https://www.bing.com/th?id=OHR.EvergladesSunrise_EN-CA3131159053_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.EvergladesSunrise_EN-CA3131159053",
         "copyright": "Spider webs in Everglades National Park, Florida, United States (© Troy Harrison/Getty Images)",
@@ -66,22 +77,11 @@
     },
     {
         "fullstartdate": "202512050500",
-        "date": "20251206",
+        "date": "20251205",
         "url": "https://www.bing.com/th?id=OHR.CopanRuins_EN-CA2961889740_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.CopanRuins_EN-CA2961889740",
         "copyright": "Maya site of Copán, Honduras (© diegograndi/Getty Images)",
         "copyrightKeyword": "Maya site of Copan",
-        "hsh": "1b6c986e817fb23b14ebbf2185db96e1",
-        "description": "In a quiet valley of western Honduras lie the ruins of Copán—a city of the ancient Maya civilisation. Its sky served as both compass and calendar, guiding celestial events and shaping temples, rituals and the rhythm of life. Around 426 CE, K'inich Yax K'uk' Mo', a warrior from the Maya heartland, founded Copán and established its royal dynasty. The city became a centre of Maya art, astronomy and power.",
-        "maplink": "14.89891,-88.896164"
-    },
-    {
-        "fullstartdate": "202512040500",
-        "date": "20251205",
-        "url": "https://www.bing.com/th?id=OHR.CheetahMound_EN-CA6737537090_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.CheetahMound_EN-CA6737537090",
-        "copyright": "Cheetah in Maasai Mara National Reserve, Narok, Kenya (© Andy Rouse/naturepl.com)",
-        "copyrightKeyword": "Cheetah Day",
-        "hsh": "20d4c3ed56de3073893646989908786a"
+        "hsh": "1b6c986e817fb23b14ebbf2185db96e1"
     }
 ]

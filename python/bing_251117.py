@@ -1,7 +1,7 @@
 import requests
 import json
 import os
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 import urllib.parse
 import time
 import re
@@ -35,6 +35,25 @@ def extract_maplink_coordinates(url_string):
     if match:
         return match.group(1)
     return None
+
+# --- NEW: Date adjustment function ---
+def adjust_date(date_str, subtract_day=False):
+    """
+    调整日期，如果需要则减去一天
+    date_str: 格式为 'YYYYMMDD'
+    subtract_day: 是否减去一天
+    返回调整后的日期字符串
+    """
+    if not subtract_day:
+        return date_str
+    
+    try:
+        date_obj = datetime.strptime(date_str, '%Y%m%d')
+        adjusted_date = date_obj - timedelta(days=1)
+        return adjusted_date.strftime('%Y%m%d')
+    except Exception as e:
+        print(f"  Error adjusting date {date_str}: {e}")
+        return date_str
 
 # --- NEW: Updated merge function to fill missing descriptions ---
 def update_and_merge_images(existing_images, new_images, date_field='date', unique_field='fullstartdate'):
@@ -107,6 +126,9 @@ def update_and_merge_images(existing_images, new_images, date_field='date', uniq
 # 定义语言代码列表
 languages = ['en-ROW', 'en-US', 'en-CA', 'en-GB', 'en-IN', 'es-ES', 'fr-FR', 'fr-CA', 'it-IT', 'ja-JP', 'pt-BR', 'de-DE', 'zh-CN']
 
+# 定义需要使用 startdate 的语言
+USE_STARTDATE_LANGUAGES = ['en-CA', 'en-GB', 'en-US', 'fr-CA', 'pt-BR', 'en-ROW']
+
 thisyear = datetime.now().year + (datetime.now().month == 12 and datetime.now().day == 31)
 # thisyear = 2055
 directories = ['./bing', f'./bing/{thisyear}', './bing/weekly']
@@ -136,11 +158,16 @@ for lang in languages:
     api_url = f"https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=8&mkt={lang}"
     api_description = f"https://www.bing.com/hp/api/model?toWww=1&mkt={lang}"
     
-    # 语言不支持,会使用通用 ROW 数据（仅用于文件命名）
+    # 语言不支持,会使用通用 ROW 数据(仅用于文件命名)
     original_lang = lang
     file_lang = lang
     if (lang == "en-ROW"): 
         file_lang = "ROW"
+    
+    # 检查是否使用 startdate
+    use_startdate = lang in USE_STARTDATE_LANGUAGES
+    if use_startdate:
+        print(f"Note: Will use startdate instead of enddate for {lang}")
 
     try:
         # --- MODIFIED: Use fetch_with_retry ---
@@ -153,7 +180,7 @@ for lang in languages:
         print(f"Fetching description API: {api_description}")
         data_description = fetch_with_retry(api_description)
 
-        # 如果任一请求失败，则跳过此语言
+        # 如果任一请求失败,则跳过此语言
         if data is None or data_description is None:
             print(f"Skipping {original_lang} due to fetch failure.")
             continue
@@ -190,12 +217,19 @@ for lang in languages:
         tempkey = tempkey.split('&')[0]
         copyrightlink = tempkey.replace('+', ' ')
         
-        # ====== 关键修改：提取图片ID用于匹配 ======
+        # ====== 关键修改:提取图片ID用于匹配 ======
         image_id = get_image_id_from_url(image['urlbase'])
+        
+        # ====== 日期选择:根据语言使用 startdate 或 enddate ======
+        if use_startdate:
+            date_value = datetime.strptime(image['startdate'], '%Y%m%d').strftime('%Y%m%d')
+            print(f"  Using startdate: {date_value} for image {image_id}")
+        else:
+            date_value = datetime.strptime(image['enddate'], '%Y%m%d').strftime('%Y%m%d')
         
         image_info = {
             'fullstartdate': image['fullstartdate'],
-            'date': datetime.strptime(image['enddate'], '%Y%m%d').strftime('%Y%m%d'),
+            'date': date_value,  # 使用选定的日期
             'url': f"https://www.bing.com{image['urlbase']}_1920x1080.jpg",
             'urlbase': urlbase,
             'copyright': image['copyright'],
@@ -225,7 +259,7 @@ for lang in languages:
                    'Url' not in media_item['ImageContent']['Image']:
                     continue
 
-                # ====== 关键修改：从 model API 提取图片 ID ======
+                # ====== 关键修改:从 model API 提取图片 ID ======
                 model_image_url = media_item['ImageContent']['Image']['Url']
                 model_image_id = get_image_id_from_url(model_image_url)
                 
@@ -235,7 +269,7 @@ for lang in languages:
                 available_ids.append(model_image_id)
                 description = media_item['ImageContent']['Description']
                 
-                # ====== 新增：提取 MapLink 坐标 ======
+                # ====== 新增:提取 MapLink 坐标 ======
                 maplink_coordinates = None
                 if 'MapLink' in media_item['ImageContent'] and 'Url' in media_item['ImageContent']['MapLink']:
                     maplink_url = media_item['ImageContent']['MapLink']['Url']
@@ -245,17 +279,17 @@ for lang in languages:
                 
                 # 匹配并添加描述
                 for image_info in images_info:
-                    # ====== 关键修改：使用图片ID进行匹配 ======
+                    # ====== 关键修改:使用图片ID进行匹配 ======
                     if image_info.get('_image_id') == model_image_id:
-                        # 只在还没有描述时添加（优先使用 MediaContents）
+                        # 只在还没有描述时添加(优先使用 MediaContents)
                         if 'description' not in image_info:
                             image_info['description'] = description
                             
-                            # 如果有 MapLink 坐标，也添加进去
+                            # 如果有 MapLink 坐标,也添加进去
                             if maplink_coordinates:
                                 image_info['maplink'] = maplink_coordinates
                             
-                            # 根据你的要求，注释掉 title 和 headline
+                            # 根据你的要求,注释掉 title 和 headline
                             # if 'Title' in media_item['ImageContent']:
                             #     image_info['title'] = media_item['ImageContent']['Title']
                             # if 'Headline' in media_item['ImageContent']:
