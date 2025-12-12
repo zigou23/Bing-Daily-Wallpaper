@@ -391,6 +391,7 @@ body.archive-mode .card:hover {
   color: #aaa;
   line-height: 1.4;
   display: -webkit-box;
+  line-clamp: 2;
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
   overflow: hidden;
@@ -577,7 +578,7 @@ body.archive-mode .dl-btn.uhd:hover {
 }
 
 .dl-btn.mobile {
-  background: #2b88d8;
+  background: transparent;
   color: white;
 }
 
@@ -594,6 +595,47 @@ body.archive-mode .dl-btn.mobile {
   opacity: 0.5;
   cursor: not-allowed;
   transform: none !important;
+}
+
+.dl-btn-group {
+  position: relative;
+  display: inline-block;
+}
+.dl-btn.more {
+  background: #333;
+  color: white;
+  border: 1px solid #555;
+  cursor: pointer;
+}
+.dl-dropdown {
+  display: none;
+  position: absolute;
+  bottom: 100%;
+  left: 0;
+  background-color: #2a2a2a;
+  border: 1px solid #555;
+  border-radius: 8px;
+  z-index: 1;
+  margin-bottom: 10px;
+  padding: 5px 0;
+  box-shadow: 0 8px 16px rgba(0,0,0,0.3);
+  list-style: none;
+}
+.dl-dropdown.show {
+  display: block;
+}
+.dl-dropdown-item {
+  color: white;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 0.9rem;
+  transition: background-color 0.2s;
+}
+.dl-dropdown-item:hover {
+  background-color: #444;
 }
 
 /* Pagination */

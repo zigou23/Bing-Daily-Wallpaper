@@ -3,7 +3,7 @@ const CONFIG = {
   normal: {
     cdnBase: "bing/",
     fallbackBase: "https://testingcf.jsdelivr.net/gh/zigou23/Bing-Daily-Wallpaper@main/bing/",
-    itemsPerPage: 30,
+    itemsPerPage: 31,
     enableFeatured: true
   },
   archive: {
@@ -55,8 +55,11 @@ const lbDesc = document.getElementById('lb-desc');
 const btnUHD = document.getElementById('btn-dl-uhd');
 const btnHD = document.getElementById('btn-dl-hd');
 const btnMobile = document.getElementById('btn-dl-mobile');
+const btnWallpaper = document.getElementById('btn-dl-wallpaper');
 const closeLb = document.querySelector('.close-lightbox');
 const searchInput = document.getElementById('search-input');
+const moreBtnGroup = document.querySelector('.dl-btn-group');
+const dropdownMenu = document.querySelector('.dl-dropdown');
 
 // 懒加载观察器
 const lazyObserver = new IntersectionObserver((entries, observer) => {
@@ -264,16 +267,21 @@ function setupMobileSearch() {
   });
 }
 
+const RESOLUTION_MAP = {
+  thumb:     '_800x480.jpg',
+  medium:    '_1366x768.jpg',
+  full:      '_1920x1080.jpg',
+  uhd:       '_UHD.jpg',
+  wallpaper: '_1920x1200.jpg',
+  mobile:    '_1080x1920.jpg',
+  // 定义默认后缀
+  default:   '_1920x1080.jpg'
+};
+// 根据分辨率类型获取图片URL
 function getResUrl(item, type) {
   if (!item.urlbase) return item.url;
-  switch(type) {
-    case 'thumb':  return `${item.urlbase}_800x480.jpg`; 
-    case 'medium': return `${item.urlbase}_1366x768.jpg`;
-    case 'full':   return `${item.urlbase}_1920x1080.jpg`;
-    case 'uhd':    return `${item.urlbase}_UHD.jpg`;
-    case 'mobile': return `${item.urlbase}_1080x1920.jpg`;
-    default:       return `${item.urlbase}_1920x1080.jpg`;
-  }
+  const suffix = RESOLUTION_MAP[type] || RESOLUTION_MAP.default;
+  return `${item.urlbase}${suffix}`;
 }
 
 async function loadData(regionCode) {
@@ -451,6 +459,9 @@ function openLightbox(item) {
 
   btnUHD.href = getResUrl(item, 'uhd');
   btnHD.href = getResUrl(item, 'full');
+  if (btnWallpaper) {
+    btnWallpaper.href = getResUrl(item, 'wallpaper');
+  }
   btnMobile.href = getResUrl(item, 'mobile');
 }
 
@@ -501,3 +512,18 @@ function renderPagination() {
 }
 
 document.addEventListener('DOMContentLoaded', init);
+
+moreBtnGroup.addEventListener('click', function(event) {
+  event.stopPropagation();
+  dropdownMenu.classList.toggle('show');
+});
+
+window.addEventListener('click', function() {
+  if (dropdownMenu.classList.contains('show')) {
+    dropdownMenu.classList.remove('show');
+  }
+});
+
+dropdownMenu.addEventListener('click', function(event) {
+  event.stopPropagation();
+});
