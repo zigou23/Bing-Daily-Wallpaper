@@ -743,12 +743,6 @@ body.archive-mode .dl-btn.mobile {
     justify-content: center;
     padding: 6px 12px;
   }
-  .dl-dropdown {
-    bottom: auto;
-    top: 100%;
-    margin-bottom: 0;
-    margin-top: 10px;
-  }
 
   .lightbox-details {
     padding: 20px;
