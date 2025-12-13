@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202512130500",
+        "date": "20251213",
+        "url": "https://www.bing.com/th?id=OHR.YosemiteWinter_EN-CA0224769672_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.YosemiteWinter_EN-CA0224769672",
+        "copyright": "Merced River, Yosemite National Park, California, United States (© Ron and Patty Thomas/Getty Images)",
+        "copyrightKeyword": "Merced River",
+        "hsh": "6f93c1a5742da4e465cb8d83530e90e9",
+        "description": "Every masterpiece needs a brushstroke to tie it together. For Yosemite National Park, in the United States, that stroke is the Merced River—painting reflections of granite cliffs, pine forests and waterfalls across its canvas. One of the National Wild and Scenic Rivers, this waterway begins high in the Sierra Nevada. It gathers meltwater and winds 233 kilometres west through Yosemite Valley into California's Central Valley.",
+        "maplink": "37.448151,-120.622475"
+    },
+    {
         "fullstartdate": "202512120500",
         "date": "20251212",
         "url": "https://www.bing.com/th?id=OHR.SuspensionLights_EN-CA1736218976_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.EvergladesSunrise_EN-CA3131159053",
         "copyright": "Spider webs in Everglades National Park, Florida, United States (© Troy Harrison/Getty Images)",
         "copyrightKeyword": "Everglades National Park",
-        "hsh": "853c22e88883247be6d7002d41b8450a",
-        "description": "On Florida's southern tip lies one of the United States' most unusual landscapes. The Everglades is not a typical swamp or river. It is a slow, shallow sheet of water that drifts south across flat grasslands toward Florida Bay, linking forests, marshes, mangroves and coastal prairies. This subtropical wilderness supports hundreds of species, including alligators, manatees and the endangered Florida panther. In 1947, the United States established the Everglades National Park, protecting over 6,100 square kilometres and shifting conservation toward preserving entire ecosystems rather than isolated landmarks.",
-        "maplink": "25.779844,-80.971945"
-    },
-    {
-        "fullstartdate": "202512050500",
-        "date": "20251205",
-        "url": "https://www.bing.com/th?id=OHR.CopanRuins_EN-CA2961889740_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.CopanRuins_EN-CA2961889740",
-        "copyright": "Maya site of Copán, Honduras (© diegograndi/Getty Images)",
-        "copyrightKeyword": "Maya site of Copan",
-        "hsh": "1b6c986e817fb23b14ebbf2185db96e1"
+        "hsh": "853c22e88883247be6d7002d41b8450a"
     }
 ]

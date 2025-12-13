@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202512130500",
+        "date": "20251213",
+        "url": "https://www.bing.com/th?id=OHR.YosemiteWinter_FR-CA7190961355_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.YosemiteWinter_FR-CA7190961355",
+        "copyright": "Rivière Merced, parc national de Yosemite, Californie, États-Unis (© Ron and Patty Thomas/Getty Images)",
+        "copyrightKeyword": "Rivière Merced Californie États-Unis",
+        "hsh": "e909a23ef780ad4ba648efb83797ac3a",
+        "description": "Aux États-Unis, elle traverse le parc national de Yosemite, joyau de la Sierra Nevada. Longue de 230 kilomètres, elle prend sa source dans les neiges fondues et serpente entre des falaises de granit, des pins et des prairies, pour se jeter dans la vallée centrale de Californie. Par sa puissance et sa quiétude, elle évoque le Saguenay, au Québec : un courant de vie qui façonne la roche et apaise l’esprit.",
+        "maplink": "37.448151,-120.622475"
+    },
+    {
         "fullstartdate": "202512120500",
         "date": "20251212",
         "url": "https://www.bing.com/th?id=OHR.SuspensionLights_FR-CA6920947835_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.EvergladesSunrise_FR-CA6022655582",
         "copyright": "Toiles d’araignées dans le parc national des Everglades, Floride, États-Unis (© Troy Harrison/Getty Images)",
         "copyrightKeyword": "Parc national des everglades, Floride",
-        "hsh": "41d8758703c30cbbd1bbddc981063625",
-        "description": "À l’extrême sud de la Floride, aux États-Unis, les Everglades s’étendent comme une mer d’herbes en perpétuel mouvement. Ni marais ni fleuve, c'est une lente nappe d'eau qui descend vers la baie de Floride en reliant forêts, prairies et mangroves dans un même souffle vivant. À l’aube, les toiles d’araignées tissées entre les roseaux scintillent comme de minuscules constellations terrestres.",
-        "maplink": "25.779844,-80.971945"
-    },
-    {
-        "fullstartdate": "202512050500",
-        "date": "20251205",
-        "url": "https://www.bing.com/th?id=OHR.CopanRuins_FR-CA5865521974_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.CopanRuins_FR-CA5865521974",
-        "copyright": "Site maya de Copán, Honduras (© diegograndi/Getty Images)",
-        "copyrightKeyword": "Site maya de Copán",
-        "hsh": "077ea487b20369e3e402bdee802b7a3d"
+        "hsh": "41d8758703c30cbbd1bbddc981063625"
     }
 ]
