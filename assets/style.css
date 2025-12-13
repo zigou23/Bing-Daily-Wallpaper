@@ -524,9 +524,10 @@ body.archive-mode .card:hover {
 #lb-desc {
   font-size: 13px;
   line-height: 1.6;
-  max-width: 900px;
+  max-width: 97%;
   margin-bottom: 25px;
   color: #ccc;
+  white-space: pre-wrap;
 }
 
 /* Download Buttons */
