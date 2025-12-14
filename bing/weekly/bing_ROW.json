@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202512140800",
+        "date": "20251214",
+        "url": "https://www.bing.com/th?id=OHR.TuftedTitmouse_EN-US4835376471_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TuftedTitmouse_EN-US4835376471",
+        "copyright": "Tufted titmouse perched on pine boughs, Massachusetts (© Tim Laman/NPL/Minden Pictures)",
+        "copyrightKeyword": "Audubon Christmas bird count",
+        "hsh": "252cfea6c8a498ddd073cf52783f185c",
+        "description": "Each December, thousands swap wrapping paper for binoculars and step outside for a different kind of holiday tradition: the Audubon Christmas Bird Count. Instead of hunting for bargains, they hunt for birds—with pencils, rather than pellets. Started in 1900 by ornithologist Frank M. Chapman, the count offered a peaceful alternative to the Christmas 'side hunts,' where people competed to shoot the most animals. Chapman had a better idea: count them instead. Over a century later, that simple shift has grown into the world's longest-running citizen-science project."
+    },
+    {
         "fullstartdate": "202512130800",
         "date": "20251213",
         "url": "https://www.bing.com/th?id=OHR.YosemiteWinter_EN-US4786605896_1920x1080.jpg",
@@ -71,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PearlHarborDay_EN-US5774515492",
         "copyright": "USS Arizona Memorial, Pearl Harbor, Honolulu, Hawaii (© Jessica O. Blackwell/APFootage/Alamy)",
         "copyrightKeyword": "Pearl Harbor Day",
-        "hsh": "cee4e5198fc2e739cd535de92166d1ed",
-        "description": "At 7:55 AM on December 7, 1941, Japanese aircraft appeared over Pearl Harbor, Hawaii, and the course of history changed. In less than two hours, 19 ships were sunk or damaged, nearly 200 aircraft destroyed, and 2,403 Americans lost their lives. The battleship USS Arizona suffered the most devastating hit: a bomb struck its forward deck, igniting ammunition below and sending the ship to the harbor floor. The surprise assault crippled the US Pacific Fleet and ended America's neutrality in World War II. The next day, President Franklin D. Roosevelt told Congress it was 'a date which will live in infamy,' and the US entered the war.",
-        "maplink": "21.352699,-157.96962"
-    },
-    {
-        "fullstartdate": "202512060800",
-        "date": "20251206",
-        "url": "https://www.bing.com/th?id=OHR.EvergladesSunrise_EN-US5606230133_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.EvergladesSunrise_EN-US5606230133",
-        "copyright": "Spider webs in Everglades National Park, Florida (© Troy Harrison/Getty Images)",
-        "copyrightKeyword": "Everglades National Park",
-        "hsh": "2ba6d80be706ad1599885be858cc8d2e"
+        "hsh": "cee4e5198fc2e739cd535de92166d1ed"
     }
 ]

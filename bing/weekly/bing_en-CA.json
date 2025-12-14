@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202512140500",
+        "date": "20251214",
+        "url": "https://www.bing.com/th?id=OHR.TuftedTitmouse_EN-CA0345023104_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TuftedTitmouse_EN-CA0345023104",
+        "copyright": "Tufted titmouse perched on pine boughs, Massachusetts, United States (© Tim Laman/NPL/Minden Pictures)",
+        "copyrightKeyword": "Christmas bird count",
+        "hsh": "e6df6ed0eaa9e05a3ff64f23c25a090e",
+        "description": "Each December, thousands swap wrapping paper for binoculars and step outside for a different kind of holiday tradition: the Christmas Bird Count. Started in 1900 by ornithologist Frank M. Chapman, the count offered a peaceful alternative to the Christmas 'side hunts,' where people competed to shoot the most animals. Chapman had a better idea: to count them instead. Over a century later, that simple shift has grown into the world's longest-running citizen-science project."
+    },
+    {
         "fullstartdate": "202512130500",
         "date": "20251213",
         "url": "https://www.bing.com/th?id=OHR.YosemiteWinter_EN-CA0224769672_1920x1080.jpg",
@@ -72,16 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MistyPineForest_EN-CA3344515413",
         "copyright": "A pine forest in Alsace, France (© alekseystemmer/Getty Images)",
         "copyrightKeyword": "Alsace",
-        "hsh": "741fc01750106ff8fb85aace0a17e352",
-        "description": "In December, the forests of Alsace, in France's Grand Est region, wrap themselves in a veil of fog, as if nature were holding its breath before winter. Amid Scots pines and silver firs, the moss-covered ground muffles every step and the silence feels almost sacred. These woodlands, which cover nearly 40% of Alsace, shelter a rich biodiversity: roe deer, wild boar, black woodpeckers and sometimes the elusive lynx, which has returned after decades of absence."
-    },
-    {
-        "fullstartdate": "202512060500",
-        "date": "20251206",
-        "url": "https://www.bing.com/th?id=OHR.EvergladesSunrise_EN-CA3131159053_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.EvergladesSunrise_EN-CA3131159053",
-        "copyright": "Spider webs in Everglades National Park, Florida, United States (© Troy Harrison/Getty Images)",
-        "copyrightKeyword": "Everglades National Park",
-        "hsh": "853c22e88883247be6d7002d41b8450a"
+        "hsh": "741fc01750106ff8fb85aace0a17e352"
     }
 ]

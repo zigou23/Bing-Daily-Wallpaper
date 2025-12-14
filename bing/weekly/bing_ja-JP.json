@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202512141500",
+        "date": "20251215",
+        "url": "https://www.bing.com/th?id=OHR.AmsterdamLights_JA-JP0747282471_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AmsterdamLights_JA-JP0747282471",
+        "copyright": "スピーゲルグラハト, オランダ (© Amith Nag Photography/Getty Images)",
+        "copyrightKeyword": "Spiegelgracht canal",
+        "hsh": "5a85fd677a6364d3e54efc1e345d9702",
+        "description": "オランダ最大の都市、首都アムステルダム。もともとは小さな漁村でしたが、16 世紀に交易の中心地として発展し、17 世紀には「黄金時代」を迎えました。この時期に整備された主要な三つの運河を含む総延長 100km 以上に及ぶ運河網と 1,500 以上の橋が織りなす美しい景観は「北のヴェネツィア」と呼ばれ、ユネスコ世界遺産に登録されています…",
+        "maplink": "52.362021,4.886996"
+    },
+    {
         "fullstartdate": "202512131500",
         "date": "20251214",
         "url": "https://www.bing.com/th?id=OHR.TuftedTitmouse_JA-JP0548402698_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ComoChristmas_JA-JP6780343312",
         "copyright": "ドマーゾ, イタリア (© Roberto Moiola/Getty Images)",
         "copyrightKeyword": "イタリア ドマーゾ",
-        "hsh": "265343a12b77eb314adc57eb2441a4e5",
-        "description": "イタリア北部に位置するコモ湖は、アルプス山脈の麓に広がる逆 Y 字型の湖で、イタリアで 3 番目の大きさを誇ります。ローマ時代から避暑地として知られ、皇帝や貴族たちの保養に利用されてきました。また、現在は避暑地以外に、映画のロケ地としても度々利用されています…",
-        "maplink": "46.014767,9.240527"
-    },
-    {
-        "fullstartdate": "202512061500",
-        "date": "20251207",
-        "url": "https://www.bing.com/th?id=OHR.Daxue2025_JA-JP6833558565_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.Daxue2025_JA-JP6833558565",
-        "copyright": "白馬三山の雪景色 (© Thirawatana Phaisalratana/Getty Images)",
-        "copyrightKeyword": "白馬三山の雪景色",
-        "hsh": "512ae4ffce28606d6fd561bda49959f2"
+        "hsh": "265343a12b77eb314adc57eb2441a4e5"
     }
 ]
