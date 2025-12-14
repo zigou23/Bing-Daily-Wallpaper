@@ -452,7 +452,7 @@ function openLightbox(item) {
   }
 
   const dateStr = `${item.date.substring(0,4)}-${item.date.substring(4,6)}-${item.date.substring(6,8)}`;
-  lbTitle.textContent = item.copyrightKeyword || "Bing Wallpaper";
+  lbTitle.textContent = item.copyrightKeyword || item.copyright?.split('(')[0]?.trim() || 'Bing Wallpaper';
   lbDate.textContent = dateStr;
   lbCopy.textContent = item.copyright || 'No copyright information available';
   lbDesc.textContent = item.description || "No description available";
