@@ -1,12 +1,23 @@
 [
     {
+        "fullstartdate": "202512150000",
+        "date": "20251215",
+        "url": "https://www.bing.com/th?id=OHR.AmsterdamLights_EN-GB0625197619_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AmsterdamLights_EN-GB0625197619",
+        "copyright": "Light decorations on Spiegelgracht canal, Amsterdam, Netherlands (© Amith Nag Photography/Getty Images)",
+        "copyrightKeyword": "Spiegelgracht canal",
+        "hsh": "c42d2eee2cace5a000d80d3421191c84",
+        "description": "Have you ever wondered how canals changed the way cities developed? For thousands of years, people have built canals to transport goods, control water flow and connect places. From ancient Mesopotamia and Egypt to medieval Europe, they transformed cities like Venice and Bruges into trade hubs. The Netherlands took this even further—by the 17th century, they were designing waterways that shaped cities such as Amsterdam.",
+        "maplink": "52.362021,4.886996"
+    },
+    {
         "fullstartdate": "202512140000",
         "date": "20251214",
         "url": "https://www.bing.com/th?id=OHR.BrightonRoyalPavilion2025_EN-GB0413792609_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.BrightonRoyalPavilion2025_EN-GB0413792609",
         "copyright": "Royal Pavilion, Brighton, England (© by Andrea Pucci/Moment/Getty Images)",
         "copyrightKeyword": "Royal Pavilion Brighton",
-        "hsh": "57b4fcae4a81701e1b5b43e5900bf3d2",
+        "hsh": "9470ea33f68dbf121af481fc9e74854a",
         "description": "No, we're not in 'Arabian Nights'—but the Royal Pavilion in Brighton makes you wonder whether someone accidentally dropped a palace from a far-off fairy tale onto the Sussex shoreline. The Prince of Wales (later George IV) came to Brighton for sea air, but he didn't just want a quiet retreat—he wanted a statement. With architect John Nash, he turned a modest villa into a grand palace full of domes and minarets. Step inside, and you'll find dragons curling across ceilings, chandeliers blooming like lotus flowers and the wallpaper leaning heavily into the decorative style of Chinoiserie. The Banqueting Room feels like it's always ready for a performance.",
         "maplink": "50.822342,-0.137699"
     },
@@ -17,7 +28,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.YosemiteWinter_EN-GB9932034635",
         "copyright": "Merced River, Yosemite National Park, California, United States (© Ron and Patty Thomas/Getty Images)",
         "copyrightKeyword": "Merced River",
-        "hsh": "20c1c8a18fcc3f5d7a737a7096b5369d",
+        "hsh": "f064f4c4d6a6d1f7252d3fd1de22d749",
         "description": "Every masterpiece needs a brushstroke to tie it together. For Yosemite National Park in the United States, that stroke is the Merced River—painting reflections of granite cliffs, pine forests and waterfalls across its canvas. One of the US National Wild and Scenic Rivers, this waterway begins high in the Sierra Nevada. It gathers meltwater and winds 145 miles west through Yosemite Valley into California's Central Valley.",
         "maplink": "37.448151,-120.622475"
     },
@@ -28,7 +39,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SpeckledPoinsettia_EN-GB9791433495",
         "copyright": "Spotted poinsettia (© DigiPub/Getty Images)",
         "copyrightKeyword": "National Poinsettia Day",
-        "hsh": "0963e508a3e17c6478564382c96ddb36",
+        "hsh": "7dec39baf441bef66443cf431ed873bc",
         "description": "Some plants simply sit quietly on windowsills. The poinsettia? It demands the spotlight. Bright, bold and as red as Rudolph's nose, this December diva even has its own holiday—National Poinsettia Day, celebrated on December 12. Prior to becoming a popular Christmas decoration, this shrub had quite a journey. Long before it appeared in living rooms, it grew wild in Mexico, where the Aztecs used it for dyes and medicine. Then, in the 1820s, US diplomat Joel Roberts Poinsett spotted the plant, fell for its charm and sent it home. The rest, as they say, is history—and botany."
     },
     {
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ComoChristmas_EN-GB6672805340",
         "copyright": "Christmas lights on buildings of Domaso, Lake Como, Italy (© Roberto Moiola/Getty Images)",
         "copyrightKeyword": "Lake Como",
-        "hsh": "8f4962e874525b3b4a440d5ba3e0239b",
-        "description": "When the twinkling reflections on Italy's Lake Como outshine the stars, you know Christmas has docked in Domaso. Once a fishing village, this lakeside town now transforms each winter into a glittering display of holiday cheer, where pastel houses, old churches and waterfront villas are wrapped in ribbons of light. The result? A picturesque Christmas scene.",
-        "maplink": "46,9.266666"
-    },
-    {
-        "fullstartdate": "202512070000",
-        "date": "20251207",
-        "url": "https://www.bing.com/th?id=OHR.MistyPineForest_EN-GB6527480616_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MistyPineForest_EN-GB6527480616",
-        "copyright": "A pine forest in Alsace, France (© alekseystemmer/Getty Images)",
-        "copyrightKeyword": "Alsace",
-        "hsh": "4fbca27f0d2855d4a6936b94136c99b4"
+        "hsh": "8f4962e874525b3b4a440d5ba3e0239b"
     }
 ]

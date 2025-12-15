@@ -1,12 +1,22 @@
 [
     {
+        "fullstartdate": "202512151830",
+        "date": "20251216",
+        "url": "https://www.bing.com/th?id=OHR.ChristmasGnomes_EN-IN6386449553_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ChristmasGnomes_EN-IN6386449553",
+        "copyright": "Handmade gnomes at a Christmas market (© Veronika Seppanen/Shutterstock)",
+        "copyrightKeyword": "Gnomes",
+        "hsh": "794c2fbf3f1f6d910ed21c741c674b69",
+        "description": "They've got long beards, red hats and a knack for stealing a tad bit of Santa's thunder every Christmas. Meet the gnome—known as 'tomte' in Sweden and 'nisse' in Norway—whose traditions vary across regions. Rooted in Scandinavian folklore, these tiny guardians watch over homes and farms, keeping families safe through long, dark winters. But there's a catch: treat them kindly or they may play tricks. A warm bowl of porridge on Christmas Eve is their favourite reward. Said to bring luck and laughter, they might even befriend your garden gnomes, since they often resemble them."
+    },
+    {
         "fullstartdate": "202512141830",
         "date": "20251215",
         "url": "https://www.bing.com/th?id=OHR.AmsterdamLights_EN-IN6264972688_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.AmsterdamLights_EN-IN6264972688",
         "copyright": "Light decorations on Spiegelgracht canal, Amsterdam, Netherlands (© Amith Nag Photography/Getty Images)",
         "copyrightKeyword": "Spiegelgracht canal",
-        "hsh": "a6e149c9c068e4d33ea7ac768d24a838",
+        "hsh": "b2a42557a40d8872cd7e1d43ebb75c71",
         "description": "Have you ever wondered how canals changed the way cities developed? For thousands of years, people have built canals to transport goods, control water flow and connect places. From ancient Mesopotamia and Egypt to medieval Europe, they transformed cities like Venice and Bruges into trade hubs. The Netherlands took this even further—by the 17th century, they were designing waterways that shaped cities such as Amsterdam.",
         "maplink": "52.362021,4.886996"
     },
@@ -17,7 +27,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.RBtiger_EN-IN6114298961",
         "copyright": "Royal Bengal tiger (© sourabh/Getty Images)",
         "copyrightKeyword": "Royal Bengal tiger",
-        "hsh": "d8ac342eed97fb8b47ec08d99b37e347",
+        "hsh": "eddb1c7f0d8b862f8a43d3e8b01c7c0a",
         "description": "Tigers reshape the landscape without being seen. A single presence, and the forest rearranges itself around it. The Royal Bengal tiger moves through India's forests, grasslands and mangrove swamps with a quiet authority that no other predator matches. It hunts with patience, not spectacle, using scent marks, sharpened senses and near-perfect night vision to stalk deer and wild boar. When it strikes, it does so with a finality that explains why no other creature in the wild dares contest its ground."
     },
     {
@@ -27,7 +37,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.YosemiteWinter_EN-IN5848672319",
         "copyright": "Merced River, Yosemite National Park, California, United States (© Ron and Patty Thomas/Getty Images)",
         "copyrightKeyword": "Merced River",
-        "hsh": "f61dfa6dea72266408036096066f4ee7",
+        "hsh": "e0feb360d217d810773dadbb28ed49c6",
         "description": "Every masterpiece needs a brushstroke to tie it together. For Yosemite National Park, that stroke is the Merced River—painting reflections of granite cliffs, pine forests and waterfalls across its canvas. One of the National Wild and Scenic Rivers, this waterway begins high in the Sierra Nevada. It gathers meltwater and travels about 235 kilometres west through Yosemite Valley into California's Central Valley in the United States.",
         "maplink": "37.448151,120.622475"
     },
@@ -38,7 +48,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SpeckledPoinsettia_EN-IN7588134069",
         "copyright": "Spotted poinsettia (© DigiPub/Getty Images)",
         "copyrightKeyword": "Poinsettia",
-        "hsh": "db018c90b2b8b90e722c8a8edfbb5a76",
+        "hsh": "348a52b0ee1bb8caf9538b85341a17a6",
         "description": "Some plants simply sit quietly on windowsills. The poinsettia? It demands the spotlight — bright, bold and as red as Rudolph's nose. Long before it became a popular Christmas decoration, it grew wild in Mexico, where the Aztecs used its leaves for dyes and its sap for traditional remedies. In the 19th century, it travelled across continents as people admired its vivid colour during colder months, eventually finding its place in winter celebrations around the world."
     },
     {
@@ -70,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LlamaDay_EN-IN2162059613",
         "copyright": "Guanaco, Punta Norte, Valdés Peninsula, Argentina (© Sylvain Cordier/naturepl.com)",
         "copyrightKeyword": "National Llama Day",
-        "hsh": "e04c92338ee2a93f4d47e1e9d517d8fd",
-        "description": "If llamas are the laid-back stars of the Andes, their cousins, the guanacos, are the free spirits of Patagonia. Guanacos are part of the same camelid family as llamas, alpacas and vicuñas. But unlike their domesticated relatives, they keep things wild. Found mainly in Argentina, Chile, Peru and Bolivia, they're built for life at high altitude. Their thick coats help them handle chilly winds, while their padded feet give them the grip to trek across rocky terrain that would make even mountain goats nervous.",
-        "maplink": "-42.5,-63.93333"
-    },
-    {
-        "fullstartdate": "202512071830",
-        "date": "20251208",
-        "url": "https://www.bing.com/th?id=OHR.ComoChristmas_EN-IN1893759825_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ComoChristmas_EN-IN1893759825",
-        "copyright": "Christmas lights on buildings of Domaso, Lake Como, Italy (© Roberto Moiola/Getty Images)",
-        "copyrightKeyword": "Lake Como",
-        "hsh": "3c99c6322df8bd6c418ab1efbdb69a29"
+        "hsh": "e04c92338ee2a93f4d47e1e9d517d8fd"
     }
 ]

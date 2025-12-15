@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202512150500",
+        "date": "20251215",
+        "url": "https://www.bing.com/th?id=OHR.AmsterdamLights_EN-CA0631336225_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AmsterdamLights_EN-CA0631336225",
+        "copyright": "Light decorations on Spiegelgracht canal, Amsterdam, Netherlands (© Amith Nag Photography/Getty Images)",
+        "copyrightKeyword": "Spiegelgracht canal",
+        "hsh": "35d36cac9ec3d5db2cdfda5254da69dc",
+        "description": "Have you ever wondered how canals changed the way cities developed? For thousands of years, people have built canals to transport goods, control water flow and connect places. From ancient Mesopotamia and Egypt to medieval Europe, they transformed cities like Venice and Bruges into trade hubs. The Netherlands took this even further—by the 17th century, they were designing waterways that shaped cities such as Amsterdam.",
+        "maplink": "52.362021,4.886996"
+    },
+    {
         "fullstartdate": "202512140500",
         "date": "20251214",
         "url": "https://www.bing.com/th?id=OHR.TuftedTitmouse_EN-CA0345023104_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ComoChristmas_EN-CA3615556860",
         "copyright": "Christmas lights on buildings of Domaso, Lake Como, Italy (© Roberto Moiola/Getty Images)",
         "copyrightKeyword": "Lake Como",
-        "hsh": "f5e01036656e53e68636a4cc24077c3c",
-        "description": "When the twinkling reflections on Italy's Lake Como outshine the stars, you know Christmas has docked in Domaso. Once a fishing village, this lakeside town now transforms each winter into a glittering display of holiday cheer, where pastel houses, old churches and waterfront villas are wrapped in ribbons of light. The result? A picturesque Christmas scene.",
-        "maplink": "46,9.266666"
-    },
-    {
-        "fullstartdate": "202512070500",
-        "date": "20251207",
-        "url": "https://www.bing.com/th?id=OHR.MistyPineForest_EN-CA3344515413_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MistyPineForest_EN-CA3344515413",
-        "copyright": "A pine forest in Alsace, France (© alekseystemmer/Getty Images)",
-        "copyrightKeyword": "Alsace",
-        "hsh": "741fc01750106ff8fb85aace0a17e352"
+        "hsh": "f5e01036656e53e68636a4cc24077c3c"
     }
 ]
