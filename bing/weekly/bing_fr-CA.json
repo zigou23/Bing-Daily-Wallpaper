@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202512160500",
+        "date": "20251216",
+        "url": "https://www.bing.com/th?id=OHR.ChristmasGnomes_FR-CA9024355683_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ChristmasGnomes_FR-CA9024355683",
+        "copyright": "Lutins faits main sur un marché de Noël (© Veronika Seppanen/Shutterstock)",
+        "copyrightKeyword": "Gnomes",
+        "hsh": "6bb3de2b9838f8cf6f59eb112d570837",
+        "description": "Sur un marché de Noël, ces petits personnages faits main attirent tous les regards avec leurs bonnets rouges, leurs barbes blanches et leurs visages ronds et malicieux. Nés de la tradition nordique, ils sont appelés « tomte » en Suède ou « nisse » en Norvège. Selon la légende, ces lutins veillaient sur les maisons et les fermes durant les longs hivers. On leur offrait un bol de bouillie chaude pour s'assurer leur bienveillance, sans quoi, ils pouvaient jouer de vilains tours!"
+    },
+    {
         "fullstartdate": "202512150500",
         "date": "20251215",
         "url": "https://www.bing.com/th?id=OHR.AmsterdamLights_FR-CA8725223562_1920x1080.jpg",
@@ -71,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LlamaDay_FR-CA8121646684",
         "copyright": "Guanaco, Punta Norte, Péninsule Valdés, Argentine (© Sylvain Cordier/naturepl.com)",
         "copyrightKeyword": "guanaco",
-        "hsh": "084e23ecd87166835a60bbb1c57c773d",
-        "description": "Sous le vent salé de Punta Norte, à l’extrémité nord de la péninsule Valdés, en Argentine, une silhouette élancée se découpe sur l’horizon d’herbes dorées. Le guanaco, cousin farouche du lama, avance d'un pas souple sur ces terres balayées par les rafales de l'Atlantique Sud. Son pelage fauve, doublé d'une épaisse laine, le protège du froid mordant de la steppe patagonne.",
-        "maplink": "-42.5,-63.93333"
-    },
-    {
-        "fullstartdate": "202512080500",
-        "date": "20251208",
-        "url": "https://www.bing.com/th?id=OHR.ComoChristmas_FR-CA8262958814_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ComoChristmas_FR-CA8262958814",
-        "copyright": "Illuminations de Noël sur les bâtiments de Domaso, lac de Côme, Italie (© Roberto Moiola/Getty Images)",
-        "copyrightKeyword": "Lac de Côme",
-        "hsh": "5966dffb7898daaf4d977a4b11f33014"
+        "hsh": "084e23ecd87166835a60bbb1c57c773d"
     }
 ]
