@@ -268,8 +268,8 @@ function setupMobileSearch() {
 }
 
 const RESOLUTION_MAP = {
-  thumb:     '_800x480.jpg',
-  medium:    '_1366x768.jpg',
+  thumb:     '_1920x1080.jpg&w=557', //_800x480.jpg
+  medium:    '_800x480.jpg', //_1366x768.jpg
   full:      '_1920x1080.jpg',
   uhd:       '_UHD.jpg',
   wallpaper: '_1920x1200.jpg',
