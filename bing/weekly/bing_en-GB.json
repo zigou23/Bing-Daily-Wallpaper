@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202512170000",
+        "date": "20251217",
+        "url": "https://www.bing.com/th?id=OHR.FrostySquirrel_EN-GB0927848700_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FrostySquirrel_EN-GB0927848700",
+        "copyright": "Eurasian red squirrel in Northumberland, England (© Michael_Conrad/Getty Images)",
+        "copyrightKeyword": "Eurasian Red Squirrel",
+        "hsh": "77acae99a869b95ce014a1d15de98de4",
+        "description": "Who could resist that squishy face? A Eurasian red squirrel perches on a snowy pine branch, paws clutching a pine cone like it's the last snack on Earth. These little acrobats stay busy collecting nuts, seeds and fungi—feasting on fresh finds in summer and on stored cones through winter.",
+        "maplink": "55.16667,-2"
+    },
+    {
         "fullstartdate": "202512160000",
         "date": "20251216",
         "url": "https://www.bing.com/th?id=OHR.ChristmasGnomes_EN-GB0782931323_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.CordobaCathedral_EN-GB6957554963",
         "copyright": "Interior of the Mosque-Cathedral of Córdoba, Andalusia, Spain (© Elena Zolotova/Getty Images)",
         "copyrightKeyword": "Mosque Cathedral of Cordoba",
-        "hsh": "1722529fa5d187193fa322293ca673da",
-        "description": "The Mosque-Cathedral of Córdoba is a chronicle of Spain's layered history. It began as a church built by the Germanic Visigoths, before being transformed into a mosque in 784 CE by Abd al-Rahman I, founder of the Umayyad Emirate of Córdoba. Its vast hypostyle hall, a space supported by rows of columns, features the famous red-and-white arches shown here. Today, it contains more than 850 columns, many reused from Roman and earlier Visigothic structures.",
-        "maplink": "37.878994,-4.779337"
-    },
-    {
-        "fullstartdate": "202512090000",
-        "date": "20251209",
-        "url": "https://www.bing.com/th?id=OHR.LlamaDay_EN-GB8598553400_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LlamaDay_EN-GB8598553400",
-        "copyright": "Guanaco, Punta Norte, Valdés Peninsula, Argentina (© Sylvain Cordier/naturepl.com)",
-        "copyrightKeyword": "Guanaco",
-        "hsh": "db5df3a5e5382597ef396a6a04eb970d"
+        "hsh": "1722529fa5d187193fa322293ca673da"
     }
 ]

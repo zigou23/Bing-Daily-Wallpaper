@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202512172300",
+        "date": "20251218",
+        "url": "https://www.bing.com/th?id=OHR.SwedenSolstice_ES-ES4279169138_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SwedenSolstice_ES-ES4279169138",
+        "copyright": "Luz del amanecer a través de árboles helados, Suecia (© Schon/Getty Images)",
+        "copyrightKeyword": "Suecia",
+        "hsh": "ff8e04a91235272594c3b2c297a500cf",
+        "description": "En Suecia, el amanecer de diciembre tiene una luz especial: se filtra entre los árboles helados y tiñe el bosque de tonos dorados y azulados que parecen sacados de un cuento. A medida que se acerca el solsticio de invierno, los días se vuelven cada vez más cortos, y en los países nórdicos esta reducción de horas de luz transforma el ritmo diario. En algunas zonas del norte sueco, el sol apenas se asoma en esta época, lo que convierte cada rayo en un pequeño espectáculo natural."
+    },
+    {
         "fullstartdate": "202512162300",
         "date": "20251217",
         "url": "https://www.bing.com/th?id=OHR.FrostySquirrel_ES-ES4169839587_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.EverestGlow_ES-ES2074158502",
         "copyright": "La cima del Monte Everest al atardecer, vista desde el paso Renjo La, Nepal (© shoults/Alamy)",
         "copyrightKeyword": "Día internacional de las montañas",
-        "hsh": "c59aa6e9ba38b280d7493ec1d1b79a13",
-        "description": "Cada 11 de diciembre se celebra el Día Internacional de las Montañas, una jornada para reconocer la grandeza de los picos que dan forma a nuestro planeta y los glaciares que sustentan la vida. Desde los Alpes hasta el Himalaya, las montañas cubren casi una cuarta parte de la superficie terrestre, albergan al 15 % de la población mundial y concentran casi la mitad de los puntos clave de biodiversidad. El Monte Everest, con más de 8.800 metros de altura, simboliza la aspiración humana y la belleza natural."
-    },
-    {
-        "fullstartdate": "202512092300",
-        "date": "20251210",
-        "url": "https://www.bing.com/th?id=OHR.CordobaCathedral_ES-ES0926965367_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.CordobaCathedral_ES-ES0926965367",
-        "copyright": "Interior de la Mezquita-Catedral de Córdoba, Andalucía, España (© Elena Zolotova/Getty Images)",
-        "copyrightKeyword": "Córdoba",
-        "hsh": "d0d6e1158bfee23e6b976ae2e679f5d7"
+        "hsh": "c59aa6e9ba38b280d7493ec1d1b79a13"
     }
 ]

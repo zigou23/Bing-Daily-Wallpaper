@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202512170500",
+        "date": "20251217",
+        "url": "https://www.bing.com/th?id=OHR.FrostySquirrel_FR-CA9290666519_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FrostySquirrel_FR-CA9290666519",
+        "copyright": "Écureuil roux d’Eurasie dans le Northumberland, Angleterre (© Michael_Conrad/Getty Images)",
+        "copyrightKeyword": "Écureuil roux",
+        "hsh": "194dacdc45176dc54c2d7975b1561a89",
+        "description": "Dans le Northumberland, au nord de l’Angleterre, un écureuil roux d’Eurasie s’agrippe à une branche givrée, serrant un cône de pin entre ses pattes. Sa fourrure ardente tranche sur la neige immobile, comme une étincelle dans le silence glacé. Infatigable, il amasse noisettes, graines et champignons, qu’il cache sous la mousse pour affronter les jours les plus rudes. Ces caches oubliées nourriront demain la forêt, faisant de lui un jardinier discret.",
+        "maplink": "55.16667,-2"
+    },
+    {
         "fullstartdate": "202512160500",
         "date": "20251216",
         "url": "https://www.bing.com/th?id=OHR.ChristmasGnomes_FR-CA9024355683_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.CordobaCathedral_FR-CA8527580622",
         "copyright": "Intérieur de la Mosquée-Cathédrale de Cordoue, Andalousie, Espagne (© Elena Zolotova/Getty Images)",
         "copyrightKeyword": "Mosquée-Cathédrale de Cordoue intérieur ",
-        "hsh": "b71ab110e49f5a731a0ec82e7a021e05",
-        "description": "Sous les arches rouges et blanches de la mosquée-cathédrale de Cordoue, en Andalousie, en Espagne, la lumière glisse en silence, caressant les marbres polis et les colonnes venues d'un autre âge. Ici, chaque pierre raconte une métamorphose. D'abord basilique wisigothe, puis mosquée fondée en 785 par l'émir Abd al-Rahman Ier), elle est devenue cathédrale chrétienne en 1236, à la suite de la Reconquista menée par Ferdinand III.",
-        "maplink": "37.878994,-4.779337"
-    },
-    {
-        "fullstartdate": "202512090500",
-        "date": "20251209",
-        "url": "https://www.bing.com/th?id=OHR.LlamaDay_FR-CA8121646684_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LlamaDay_FR-CA8121646684",
-        "copyright": "Guanaco, Punta Norte, Péninsule Valdés, Argentine (© Sylvain Cordier/naturepl.com)",
-        "copyrightKeyword": "guanaco",
-        "hsh": "084e23ecd87166835a60bbb1c57c773d"
+        "hsh": "b71ab110e49f5a731a0ec82e7a021e05"
     }
 ]
