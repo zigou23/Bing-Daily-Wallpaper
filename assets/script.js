@@ -76,9 +76,24 @@ const lazyObserver = new IntersectionObserver((entries, observer) => {
             const errorPlaceholder = img.parentElement.querySelector('.image-error');
             if (errorPlaceholder) errorPlaceholder.classList.add('show');
           };
+          
+          // 检测占位图：Bing 的占位图通常是小尺寸正方形（如 80x80, 557x557）
+          img.onload = () => {
+            const isPlaceholder = (img.naturalWidth === img.naturalHeight) && 
+                                  (img.naturalWidth <= 600);
+            
+            if (isPlaceholder) {
+              img.classList.add('error');
+              const errorPlaceholder = img.parentElement.querySelector('.image-error');
+              if (errorPlaceholder) errorPlaceholder.classList.add('show');
+            } else {
+              img.classList.add('loaded');
+            }
+          };
+        } else {
+          img.onload = () => img.classList.add('loaded');
         }
         
-        img.onload = () => img.classList.add('loaded');
         img.removeAttribute('data-src');
         observer.unobserve(img);
       }
