@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202512182300",
+        "date": "20251219",
+        "url": "https://www.bing.com/th?id=OHR.BormioItaly_ES-ES9743879453_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BormioItaly_ES-ES9743879453",
+        "copyright": "Paisaje nevado en Bormio, Lombardía, Italia (© Roberto Moiola/Getty Images)",
+        "copyrightKeyword": "Bormio Italia",
+        "hsh": "fb85063cb0290e98215a1a6a4d784c11",
+        "description": "Bormio es una localidad de montaña situada en Lombardía, al norte de Italia, enclavada en los Alpes y muy cerca del paso de Stelvio. Esta posición ha unido durante siglos a las comunidades de los valles alpinos y ha marcado su forma de vida, sus rutas y su historia. Su paisaje invernal refleja la altitud del entorno y el estrecho vínculo de la ciudad con los picos que la rodean."
+    },
+    {
         "fullstartdate": "202512172300",
         "date": "20251218",
         "url": "https://www.bing.com/th?id=OHR.SwedenSolstice_ES-ES4279169138_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SpeckledPoinsettia_ES-ES3605658250",
         "copyright": "Flor de pascua manchada (© DigiPub/Getty Images)",
         "copyrightKeyword": "Euphorbia pulcherrima",
-        "hsh": "afa5c6cd9c8f625df61bbb910e41be12",
-        "description": "Brillante, audaz y tan roja como la nariz de Rudolph, la flor de pascua reclama ser el centro de atención cada diciembre. Antes de convertirse en un adorno imprescindible, este arbusto recorrió un largo camino. Mucho antes de aparecer en nuestros salones, crecía de forma silvestre en México, donde los aztecas la empleaban para tintes y medicinas. En la década de 1820, el diplomático estadounidense Joel Roberts Poinsett quedó fascinado por su belleza y la envió a su país, iniciando su fama mundial."
-    },
-    {
-        "fullstartdate": "202512102300",
-        "date": "20251211",
-        "url": "https://www.bing.com/th?id=OHR.EverestGlow_ES-ES2074158502_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.EverestGlow_ES-ES2074158502",
-        "copyright": "La cima del Monte Everest al atardecer, vista desde el paso Renjo La, Nepal (© shoults/Alamy)",
-        "copyrightKeyword": "Día internacional de las montañas",
-        "hsh": "c59aa6e9ba38b280d7493ec1d1b79a13"
+        "hsh": "afa5c6cd9c8f625df61bbb910e41be12"
     }
 ]

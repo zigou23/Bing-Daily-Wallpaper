@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202512182300",
+        "date": "20251219",
+        "url": "https://www.bing.com/th?id=OHR.YosemiteWinter_FR-FR0908929457_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.YosemiteWinter_FR-FR0908929457",
+        "copyright": "Rivière Merced, parc national de Yosemite, Californie, États-Unis (© Ron and Patty Thomas/Getty Images)",
+        "copyrightKeyword": "Rivière Merced Californie États-Unis",
+        "hsh": "1d7ee410ff0d01c23f32d0cb584d849e",
+        "description": "Aux États-Unis, dans le majestueux parc national de Yosemite, la rivière Merced trace son sillage à travers la Sierra Nevada, telle une ligne d'argent glissant sur la toile des montagnes. Née de la fonte des neiges, elle parcourt plus de 230 kilomètres, reflétant le granit, murmurant avec les pins et éclaboussant les rochers. Au printemps, elle rugit sous la puissance des chutes Vernal et Nevada ; l’été venu, elle s’assagit et accueille baigneurs et kayakistes. L’automne la dore, l’hiver la fige dans une paix de cristal.",
+        "maplink": "37.448151,-120.622475"
+    },
+    {
         "fullstartdate": "202512172300",
         "date": "20251218",
         "url": "https://www.bing.com/th?id=OHR.StarLanterns_FR-FR0647392410_1920x1080.jpg",
@@ -68,16 +79,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SpeckledPoinsettia_FR-FR0741474217",
         "copyright": "Plante Poinsettia dite Étoile de Noël (© DigiPub/Getty Images)",
         "copyrightKeyword": "Poinsettia plante",
-        "hsh": "7e5c765db7f7450e308a7f1d1773e939",
-        "description": "Sous le ciel pâle de décembre, une plante flamboyante illumine les rebords de fenêtres : le poinsettia, surnommé « Étoile de Noël ». Ses bractées rouges éclatantes rappellent la chaleur des feux de cheminée. Originaire des collines du Mexique, il fascinait déjà les Aztèques qui en tiraient des teintures et des remèdes contre la fièvre. Au XIXe siècle, le diplomate américain Joel Roberts Poinsett l’a rapporté dans son pays. Peu à peu, la plante est devenue un symbole des fêtes, surtout grâce à la culture intensive initiée par la famille Ecke en Californie dans les années 1920."
-    },
-    {
-        "fullstartdate": "202512102300",
-        "date": "20251211",
-        "url": "https://www.bing.com/th?id=OHR.EverestGlow_FR-FR9669906927_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.EverestGlow_FR-FR9669906927",
-        "copyright": "Le sommet du mont Everest au coucher du soleil, vu depuis Renjo La, Népal (© shoults/Alamy)",
-        "copyrightKeyword": "Journée internationale de la montagne",
-        "hsh": "e22bc7badd152ae36fe35574267f69cf"
+        "hsh": "7e5c765db7f7450e308a7f1d1773e939"
     }
 ]

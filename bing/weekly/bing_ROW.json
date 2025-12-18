@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202512180800",
+        "date": "20251218",
+        "url": "https://www.bing.com/th?id=OHR.CathedralValley_EN-US5270905846_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.CathedralValley_EN-US5270905846",
+        "copyright": "Temple of the Sun, Capitol Reef National Park, Utah (© Austin Cronnelly/TANDEM Stills + Motion)",
+        "copyrightKeyword": "Capitol Reef National Park",
+        "hsh": "1f2a09d845ce26661f4dbda3b77702c8",
+        "description": "Rock layers formed over millions of years and a massive bend in the Earth's crust give this desert a rare window into geologic history. This is Capitol Reef National Park in Utah, where sandstone cliffs and canyons preserve a striking record of the planet's past. December 18 marks the anniversary of its designation as a national park in 1971. Today's featured image highlights the sandstone monoliths of Cathedral Valley, including the Temple of the Sun, part of this extraordinary, protected landscape.",
+        "maplink": "38.08773,-111.135483"
+    },
+    {
         "fullstartdate": "202512170800",
         "date": "20251217",
         "url": "https://www.bing.com/th?id=OHR.FrostySquirrel_EN-US5169660143_1920x1080.jpg",
@@ -69,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.EverestGlow_EN-US6131667612",
         "copyright": "Summit of Mount Everest at sunset, seen from Renjo La, Nepal (© shoults/Alamy)",
         "copyrightKeyword": "International Mountain Day",
-        "hsh": "d679d2bcd1c1cd442bbce739bf561188",
-        "description": "Every December 11, we celebrate International Mountain Day, honoring the majestic peaks that shape our planet and the glaciers that support life. From the rolling Alps to the towering Himalayas, mountains cover nearly a quarter of Earth's land and host 15% of the world's population and nearly half of its biodiversity hotspots. Mount Everest, the world's highest peak at over 29,000 feet, stands as a symbol of human aspiration and natural beauty. Its glaciers feed rivers sustaining millions, showing that mountains are more than scenery—they are lifelines.",
-        "maplink": "27.98806,86.925"
-    },
-    {
-        "fullstartdate": "202512100800",
-        "date": "20251210",
-        "url": "https://www.bing.com/th?id=OHR.CordobaCathedral_EN-US6045311068_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.CordobaCathedral_EN-US6045311068",
-        "copyright": "Interior of the Mosque-Cathedral of Córdoba, Andalusia, Spain (© Elena Zolotova/Getty Images)",
-        "copyrightKeyword": "Mosque Cathedral of Cordoba",
-        "hsh": "5676efc20ca94c65aa408aabf742ed2f"
+        "hsh": "d679d2bcd1c1cd442bbce739bf561188"
     }
 ]

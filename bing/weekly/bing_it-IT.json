@@ -1,12 +1,23 @@
 [
     {
+        "fullstartdate": "202512182300",
+        "date": "20251219",
+        "url": "https://www.bing.com/th?id=OHR.BormioItaly_IT-IT9940500837_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BormioItaly_IT-IT9940500837",
+        "copyright": "Paesaggio innevato a Bormio, Sondrio, Lombardia (© Roberto Moiola/Getty Images)",
+        "copyrightKeyword": "Bormio",
+        "hsh": "561c4a9c9cc91b0439287ea10eafa649",
+        "description": "Bormio non è soltanto un comune di montagna: è come una conchiglia incastonata tra le Alpi, che custodisce voci di valli e passi. Qui, ai piedi del Passo dello Stelvio, da secoli si intrecciano i sentieri delle comunità, come fili che compongono un tessuto alpino. Le sue pietre e i suoi silenzi raccontano un paesaggio che non divide, ma unisce, trasformando l’asprezza dell’altitudine in un ponte di vita e di memoria.",
+        "maplink": "46.46925,10.37217"
+    },
+    {
         "fullstartdate": "202512172300",
         "date": "20251218",
         "url": "https://www.bing.com/th?id=OHR.CathedralValley_IT-IT9862752275_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.CathedralValley_IT-IT9862752275",
         "copyright": "Tempio del Sole, Parco Nazionale Capitol Reef, Utah, USA (© Austin Cronnelly/TANDEM Stills + Motion)",
         "copyrightKeyword": "Parco Nazionale di Capitol Reef USA",
-        "hsh": "de46a1ffffbff19afa757bf3eb96469f",
+        "hsh": "f590ca05fc955fa4f0e32b481578193f",
         "description": "In mezzo all’inverno, quando tutto sembra avvolto dal bianco, nasce il desiderio di un colore diverso. Il rosso, che da sempre accompagna il Natale, in questo caso si accende nelle rocce del deserto dello Utah. Nel Capitol Reef National Park la Terra si apre come un libro e mostra strati di arenaria che raccontano milioni di anni, canyon che custodiscono il respiro di mari scomparsi, monoliti che si innalzano come cattedrali di pietra. Ogni curva della Waterpocket Fold diventa una pagina viva, un segno inciso nella crosta terrestre che ricorda quanto la storia del pianeta sia ancora presente sotto i nostri occhi. In mezzo a queste forme scolpite dal tempo, la memoria umana si intreccia con quella naturale. Ci sono le incisioni rupestri lasciate dagli indigeni lungo il fiume Fremont, i frutteti dei pionieri che hanno sfidato il deserto e, oggi, la tutela di un parco nazionale che celebra insieme la forza della natura e le tracce dell’uomo.",
         "maplink": "38.08773,-111.135483"
     },
@@ -17,7 +28,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.FrostySquirrel_IT-IT9640811523",
         "copyright": "Scoiattolo rosso nel Northumberland, Inghilterra (© Michael_Conrad/Getty Images)",
         "copyrightKeyword": "Scoiattolo eurasiatico",
-        "hsh": "fa6dc358c1438a59b5f18290ac3c05a4",
+        "hsh": "01f374a47e9291e1ed6ebbee76ef5496",
         "description": "Chi riesce davvero a resistere a quello sguardo curioso? Sul ramo innevato di un pino, lo scoiattolo rosso eurasiatico stringe una pigna come fosse un tesoro segreto. Piccolo acrobata dell’inverno, si muove leggero tra i rami, raccogliendo semi, noci e funghi. D’estate banchetta con nuove scoperte, mentre d’inverno si affida alle provviste nascoste con pazienza.",
         "maplink": "55.16667,-2"
     },
@@ -70,16 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SpeckledPoinsettia_IT-IT1139304078",
         "copyright": "Stella di Natale (© DigiPub/Getty Images)",
         "copyrightKeyword": "Giornata della Poinsettia",
-        "hsh": "8885907a54b9f64e2caf60c8bf4afcc1",
-        "description": "Alcune piante si accontentano di restare silenziose sui davanzali. Ma lei è la stella del Natale e pretende la scena. Questa diva possiede negli USA persino una sua festa: il Giorno Nazionale della Stella di Natale, celebrato il 12 dicembre. Prima di diventare la regina delle decorazioni natalizie, ha percorso un lungo viaggio. Molto tempo prima di illuminare i salotti, cresceva libera nelle terre del Messico, dove gli Aztechi la usavano per tingere e curare. Poi, negli anni Venti dell’Ottocento, il diplomatico statunitense Joel Roberts Poinsett la scoprì, se ne innamorò e la portò con sé. Da lì, il resto è storia e botanica."
-    },
-    {
-        "fullstartdate": "202512102300",
-        "date": "20251211",
-        "url": "https://www.bing.com/th?id=OHR.EverestGlow_IT-IT0574844074_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.EverestGlow_IT-IT0574844074",
-        "copyright": "La vetta del Monte Everest al tramonto, vista da Renjo La, Nepal (© shoults/Alamy)",
-        "copyrightKeyword": "Una montagna",
-        "hsh": "d700ff23a58aff04d3f87c3ad0440f37"
+        "hsh": "8885907a54b9f64e2caf60c8bf4afcc1"
     }
 ]
