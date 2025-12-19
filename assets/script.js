@@ -487,13 +487,14 @@ function openLightbox(item) {
   const copyrightText = item.copyright || 'No copyright information available';
   if (item.maplink) {
     // 提取 copyright 前半部分（ 之前的内容）
-    const locationName = copyrightText.split('(')[0].trim();
+    // const locationName = copyrightText.split('(')[0].trim();
     // 将坐标中的逗号改为波浪号
-    const coordinates = item.maplink.replace(',', '~');
+    // const coordinates = item.maplink.replace(',', '~');
     // 构建地图链接
-    const mapUrl = `https://www.bing.com/maps/search?cp=${coordinates}&lvl=9.5&style=r&q=${encodeURIComponent(locationName)}`;
+    // const mapUrl = `https://www.bing.com/maps/search?cp=${coordinates}&lvl=9.5&style=r&q=${encodeURIComponent(locationName)}`;
+    const mapUrl = `https://www.bing.com/maps/search?q=${item.maplink}&style=h`;
     
-    lbCopy.innerHTML = `${copyrightText} <a href="${mapUrl}" target="_blank" class="map-link" title="View on Map"><i class="fa-solid fa-location-dot"></i></a>`;
+    lbCopy.innerHTML = `${copyrightText} <a href="${mapUrl}" target="_blank" class="map-link" title="View on world map (approximate location)"><i class="fa-solid fa-location-dot"></i></a>`;
   } else {
     lbCopy.textContent = copyrightText;
   }
