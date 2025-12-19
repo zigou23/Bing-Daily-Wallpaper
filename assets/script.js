@@ -483,7 +483,12 @@ function openLightbox(item) {
   const dateStr = `${item.date.substring(0,4)}-${item.date.substring(4,6)}-${item.date.substring(6,8)}`;
   lbTitle.textContent = item.copyrightKeyword || item.copyright?.split('(')[0]?.trim() || 'Bing Wallpaper';
   lbDate.textContent = dateStr;
-  lbCopy.textContent = item.copyright || 'No copyright information available';
+  const copyrightText = item.copyright || 'No copyright information available';
+  if (item.maplink) {
+    lbCopy.innerHTML = `${copyrightText} <a href="https://www.bing.com/maps/search?q=${item.maplink}" target="_blank" class="map-link" title="View on Map"><i class="fa-solid fa-location-dot"></i></a>`;
+  } else {
+    lbCopy.textContent = copyrightText;
+  }
   lbDesc.textContent = item.description || "No description available";
 
   const setupBtn = (btn, type) => {

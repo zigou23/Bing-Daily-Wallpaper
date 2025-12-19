@@ -520,6 +520,45 @@ body.archive-mode .card:hover {
   color: #bebebe;
   margin-bottom: 15px;
 }
+/* Map Link Button */
+.map-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 8px;
+  padding: 4px 8px;
+  background: rgba(0, 120, 215, 0.2);
+  border: 1px solid rgba(0, 120, 215, 0.4);
+  border-radius: 6px;
+  color: gray;
+  text-decoration: none;
+  font-size: 0.85rem;
+  transition: all 0.2s;
+  vertical-align: middle;
+}
+
+.map-link:hover {
+  background: rgba(0, 120, 215, 0.4);
+  border-color: #0078d7;
+  color: #66b3ff;
+  transform: translateY(-1px);
+}
+
+.map-link i {
+  font-size: 0.9rem;
+}
+
+body.archive-mode .map-link {
+  background: rgba(215, 120, 0, 0.2);
+  border-color: rgba(215, 120, 0, 0.4);
+  color: #ffb366;
+}
+
+body.archive-mode .map-link:hover {
+  background: rgba(215, 120, 0, 0.4);
+  border-color: var(--archive-color);
+  color: #ffc285;
+}
 
 #lb-desc {
   font-size: 13px;
