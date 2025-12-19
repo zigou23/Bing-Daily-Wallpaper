@@ -486,12 +486,22 @@ function openLightbox(item) {
   lbCopy.textContent = item.copyright || 'No copyright information available';
   lbDesc.textContent = item.description || "No description available";
 
-  btnUHD.href = getResUrl(item, 'uhd');
-  btnHD.href = getResUrl(item, 'full');
-  if (btnWallpaper) {
-    btnWallpaper.href = getResUrl(item, 'wallpaper');
-  }
-  btnMobile.href = getResUrl(item, 'mobile');
+  const setupBtn = (btn, type) => {
+    if (!btn) return;
+    
+    // 保留 href 方便右键"复制链接"，但主要逻辑由 onclick 接管
+    let url = getResUrl(item, type);
+    if (url.startsWith('/')) url = 'https://www.bing.com' + url;
+    btn.href = url;
+    
+    // 绑定点击事件
+    btn.onclick = (e) => handleDownload(e, item, type);
+  };
+
+  setupBtn(btnUHD, 'uhd');
+  setupBtn(btnHD, 'full');
+  setupBtn(btnWallpaper, 'wallpaper');
+  setupBtn(btnMobile, 'mobile');
 }
 
 function closeLightbox() {
@@ -575,3 +585,80 @@ window.addEventListener('click', function(event) {
 dropdownMenu.addEventListener('click', function(event) {
   event.stopPropagation();
 });
+
+function getDownloadFilename(item, type) {
+  let name = "BingWallpaper";
+  // 尝试从 urlbase 提取 ID 名称 (例如 OHR.CathedralValley_EN-US5270905846)
+  if (item.urlbase) {
+    const match = item.urlbase.match(/OHR\.([a-zA-Z0-9_-]+)/);
+    if (match && match[1]) {
+      // 去掉末尾的数字，提取纯名称
+      name = match[1].replace(/\d+$/, '');
+    }
+  }
+
+  const date = item.date; // 例如 20251218
+  
+  // 映射分辨率后缀
+  const suffixMap = {
+    'uhd': 'UHD',
+    'full': '1080p',
+    'wallpaper': 'wallpaper',
+    'mobile': 'mobile'
+  };
+  const suffix = suffixMap[type] || 'image';
+
+  return `${name}_${date}_${suffix}.jpg`;
+}
+
+// 2. 下载处理核心逻辑
+async function handleDownload(event, item, type) {
+  event.preventDefault(); // 阻止浏览器直接跳转
+  const btn = event.currentTarget;
+  
+  // 简单的加载反馈
+  const originalContent = btn.innerHTML;
+  btn.innerHTML = '<i class="fa-solid fa-spinner fa-spin"></i>';
+  btn.style.pointerEvents = 'none';
+
+  try {
+    let url = getResUrl(item, type);
+    // 确保是绝对路径 (如果 getResUrl 返回相对路径，且你需要使用 Bing 原链)
+    if (url.startsWith('/')) {
+        url = 'https://www.bing.com' + url;
+    }
+
+    // 发起请求检查状态
+    // fetch 默认是 GET，也可以用 { method: 'HEAD' } 仅检查头部，
+    // 但为了重命名我们需要文件内容，所以直接 GET，如果状态不对抛出错误。
+    const response = await fetch(url);
+    
+    if (response.status !== 200) {
+      throw new Error(`HTTP Status ${response.status}`);
+    }
+
+    // 获取 Blob 数据以重命名
+    const blob = await response.blob();
+    const blobUrl = URL.createObjectURL(blob);
+    const filename = getDownloadFilename(item, type);
+
+    // 创建临时链接触发下载弹窗
+    const a = document.createElement('a');
+    a.href = blobUrl;
+    a.download = filename;
+    document.body.appendChild(a);
+    a.click();
+    
+    // 清理
+    document.body.removeChild(a);
+    URL.revokeObjectURL(blobUrl);
+
+  } catch (err) {
+    // 错误弹窗
+    alert(`下载失败: 图片无法访问 (${err.message})`);
+  } finally {
+    // 恢复按钮状态
+    btn.innerHTML = originalContent;
+    btn.style.pointerEvents = 'auto';
+  }
+}
