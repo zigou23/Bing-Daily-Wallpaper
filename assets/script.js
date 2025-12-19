@@ -159,6 +159,7 @@ function init() {
     filterData(val, currentSearchQuery, 1);
   });
 
+  // 单选1.搜索输入框事件，带防抖1s
   searchInput.addEventListener('input', (e) => {
     const query = e.target.value.trim();
     if (searchDebounceTimer) {
@@ -172,6 +173,17 @@ function init() {
       searchInput.classList.remove('searching');
     }, 1000);
   });
+
+  // 单选2.移除 input 事件监听，改用 keydown 监听回车键
+  // searchInput.addEventListener('keydown', (e) => {
+  //   if (e.key === 'Enter') {
+  //     const query = e.target.value.trim();
+  //     currentSearchQuery = query;
+  //     updateQuery({ search: query || null, page: 1 });
+  //     filterData(monthSelect.value, query, 1);
+  //     searchInput.blur(); // 收起手机键盘
+  //   }
+  // });
 
   closeLb.addEventListener('click', () => {
     closeLightbox();
@@ -238,7 +250,9 @@ function updateQuery(updates) {
   if (parseInt(params.get('page')) === 1) params.delete('page');
 
   const newUrl = window.location.pathname + (params.toString() ? '?' + params.toString() : '');
-  history.pushState(null, '', newUrl);
+  // history.pushState(null, '', newUrl);
+  // 使用 replaceState 避免过多历史记录
+  history.replaceState(null, '', newUrl);
 }
 
 // 核心函数
