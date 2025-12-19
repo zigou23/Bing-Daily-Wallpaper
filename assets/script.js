@@ -494,7 +494,7 @@ function openLightbox(item) {
     // const mapUrl = `https://www.bing.com/maps/search?cp=${coordinates}&lvl=9.5&style=r&q=${encodeURIComponent(locationName)}`;
     const mapUrl = `https://www.bing.com/maps/search?q=${item.maplink}&style=h`;
     
-    lbCopy.innerHTML = `${copyrightText} <a href="${mapUrl}" target="_blank" class="map-link" title="View on world map (approximate location)" onclick="return confirm('Note: This shows an approximate location on the world map. The exact coordinates may not be precise. Continue?');"><i class="fa-solid fa-location-dot"></i></a>`;
+    lbCopy.innerHTML = `${copyrightText} <a href="${mapUrl}" target="_blank" class="map-link" title="View on world map (approximate location)"><i class="fa-solid fa-location-dot"></i></a>`;
   } else {
     lbCopy.textContent = copyrightText;
   }
