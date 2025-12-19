@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202512192300",
+        "date": "20251220",
+        "url": "https://www.bing.com/th?id=OHR.FetNav_FR-FR1160112574_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FetNav_FR-FR1160112574",
+        "copyright": "Cirque de Mafate, Dos d'Ane, Île de la Réunion (© Gael Fontaine/Alamy)",
+        "copyrightKeyword": "Fête réunionnaise de la liberté",
+        "hsh": "33246287eb9ed02a9d0968521e7767ad",
+        "description": "Pour contraster avec la grisaille et le froid de la métropole, voici un peu de soleil venu de l’océan Indien ! Le 20 décembre, l’île de La Réunion célèbre la Fèt Kaf, jour de liberté et de mémoire. Ici, au cœur du cirque de Mafate, entre les montagnes sculptées par les volcans et les ravines verdoyantes, les chants, les tambours et les danses maloya résonnent jusqu’aux crêtes.",
+        "maplink": "37.448151,-120.622475"
+    },
+    {
         "fullstartdate": "202512182300",
         "date": "20251219",
         "url": "https://www.bing.com/th?id=OHR.YosemiteWinter_FR-FR0908929457_1920x1080.jpg",
@@ -69,16 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.RacletteDay_FR-FR1340553802",
         "copyright": "Vue sur un village de montagne illuminé, France (© Dario Berardi/500px)",
         "copyrightKeyword": "Journée de la raclette",
-        "hsh": "5b3f7a1ae38ffe0e5bd46497821f934a",
-        "description": "Les toits enneigés fument doucement, l’air embaume le pin et le feu de bois, et l’on devine cette promesse dorée : la raclette. À l’intérieur des chalets, les rires se mêlent au grésillement du fromage qui fond lentement, coulant sur les pommes de terre comme un souvenir chaud d’enfance."
-    },
-    {
-        "fullstartdate": "202512112300",
-        "date": "20251212",
-        "url": "https://www.bing.com/th?id=OHR.SpeckledPoinsettia_FR-FR0741474217_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SpeckledPoinsettia_FR-FR0741474217",
-        "copyright": "Plante Poinsettia dite Étoile de Noël (© DigiPub/Getty Images)",
-        "copyrightKeyword": "Poinsettia plante",
-        "hsh": "7e5c765db7f7450e308a7f1d1773e939"
+        "hsh": "5b3f7a1ae38ffe0e5bd46497821f934a"
     }
 ]

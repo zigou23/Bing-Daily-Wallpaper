@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202512190500",
+        "date": "20251219",
+        "url": "https://www.bing.com/th?id=OHR.BormioItaly_EN-CA1256491790_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BormioItaly_EN-CA1256491790",
+        "copyright": "Snow-covered landscape at Bormio, Lombardy, Italy (© Roberto Moiola/Getty Images)",
+        "copyrightKeyword": "Bormio Italy",
+        "hsh": "579745f887114357072bb4b0ac3bfd6e",
+        "description": "Bormio is a mountain town in northern Italy's Lombardy region, nestled in the Alps near the Stelvio Pass. This location has connected communities across mountain valleys for centuries, shaping how people live and move through the region. Today's image features Bormio's winter landscape, a reflection of its high-altitude setting and enduring bond with the surrounding peaks.",
+        "maplink": "46.46925,10.37217"
+    },
+    {
         "fullstartdate": "202512180500",
         "date": "20251218",
         "url": "https://www.bing.com/th?id=OHR.CathedralValley_EN-CA1097326086_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SuspensionLights_EN-CA1736218976",
         "copyright": "Illuminated Capilano Suspension Bridge Park, Vancouver, British Columbia (© Brian Caissie/Getty Images)",
         "copyrightKeyword": "Capilano Suspension Bridge Park",
-        "hsh": "e9dbfabe7fd47023b7babc87d3662570",
-        "description": "Some bridges are feats of engineering; others feel more like an adventure. Vancouver's Capilano Suspension Bridge Park leans into both. The bridge spans almost 140 metres across the Capilano River and sits 70 metres above it, held by strong cables that give a gentle sway as you walk. The idea took shape in 1889, when Scottish civil engineer George Grant Mackay built the first version using hemp rope and cedar planks. Wire cables replaced the original materials in 1903, and the site slowly expanded into a popular outdoor spot cherished by many.",
-        "maplink": "49.342865,-123.114899"
-    },
-    {
-        "fullstartdate": "202512110500",
-        "date": "20251211",
-        "url": "https://www.bing.com/th?id=OHR.EverestGlow_EN-CA4280192102_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.EverestGlow_EN-CA4280192102",
-        "copyright": "The summit of Mount Everest at sunset, seen from Renjo La, Nepal (© shoults/Alamy)",
-        "copyrightKeyword": "International Mountain Day",
-        "hsh": "3dd64270c8daab2eea588dbbcccd0455"
+        "hsh": "e9dbfabe7fd47023b7babc87d3662570"
     }
 ]

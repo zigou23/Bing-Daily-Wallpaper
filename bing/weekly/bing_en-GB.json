@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202512190000",
+        "date": "20251219",
+        "url": "https://www.bing.com/th?id=OHR.BormioItaly_EN-GB1277241027_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BormioItaly_EN-GB1277241027",
+        "copyright": "Snow-covered landscape at Bormio, Lombardy, Italy (© Roberto Moiola/Getty Images)",
+        "copyrightKeyword": "Bormio Italy",
+        "hsh": "4f88f06378cc042ed2b79a143941cb51",
+        "description": "Bormio is a mountain town in northern Italy's Lombardy region, nestled in the Alps near the Stelvio Pass. This location has connected communities across mountain valleys for centuries, shaping how people live and move through the region. Today's image features Bormio's winter landscape, a reflection of its high-altitude setting and enduring bond with the surrounding peaks.",
+        "maplink": "46.46925,10.37217"
+    },
+    {
         "fullstartdate": "202512180000",
         "date": "20251218",
         "url": "https://www.bing.com/th?id=OHR.CathedralValley_EN-GB1105265816_1920x1080.jpg",
@@ -71,16 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SpeckledPoinsettia_EN-GB9791433495",
         "copyright": "Spotted poinsettia (© DigiPub/Getty Images)",
         "copyrightKeyword": "National Poinsettia Day",
-        "hsh": "7dec39baf441bef66443cf431ed873bc",
-        "description": "Some plants simply sit quietly on windowsills. The poinsettia? It demands the spotlight. Bright, bold and as red as Rudolph's nose, this December diva even has its own holiday—National Poinsettia Day, celebrated on December 12. Prior to becoming a popular Christmas decoration, this shrub had quite a journey. Long before it appeared in living rooms, it grew wild in Mexico, where the Aztecs used it for dyes and medicine. Then, in the 1820s, US diplomat Joel Roberts Poinsett spotted the plant, fell for its charm and sent it home. The rest, as they say, is history—and botany."
-    },
-    {
-        "fullstartdate": "202512110000",
-        "date": "20251211",
-        "url": "https://www.bing.com/th?id=OHR.EverestGlow_EN-GB7184566187_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.EverestGlow_EN-GB7184566187",
-        "copyright": "The summit of Mount Everest at sunset, seen from Renjo La, Nepal (© shoults/Alamy)",
-        "copyrightKeyword": "International Mountain Day",
-        "hsh": "24693660f0f2c36f666a6488855e619d"
+        "hsh": "7dec39baf441bef66443cf431ed873bc"
     }
 ]

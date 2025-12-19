@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202512192300",
+        "date": "20251220",
+        "url": "https://www.bing.com/th?id=OHR.StarLanterns_ES-ES4365009466_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.StarLanterns_ES-ES4365009466",
+        "copyright": "Lámparas de estrellas navideñas de papel, Alemania (© artas/Getty Images)",
+        "copyrightKeyword": "Estrella de Moravia",
+        "hsh": "fee0c378051f66bc02b7c4144005cad7",
+        "description": "A medida que se acerca la Navidad, las lámparas en forma de estrella llenan balcones, escaparates y mercadillos navideños como en la Plaza Mayor de Madrid. Su luz atraviesa las largas noches de invierno y envuelve calles y hogares en alegría, color y una cálida sensación de unión. Detrás de estas decoraciones, sin embargo, hay una historia tan brillante como ellas."
+    },
+    {
         "fullstartdate": "202512182300",
         "date": "20251219",
         "url": "https://www.bing.com/th?id=OHR.BormioItaly_ES-ES9743879453_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.YosemiteWinter_ES-ES3697194370",
         "copyright": "Río Merced, Parque Nacional de Yosemite, California, EE. UU. (© Ron and Patty Thomas/Getty Images)",
         "copyrightKeyword": "Parque nacional de Yosemite",
-        "hsh": "3511512ed38127faa3143e8fdd17ba7f",
-        "description": "Toda obra maestra necesita un trazo que la una. En el Parque Nacional de Yosemite, en Estados Unidos, ese trazo es el río Merced, que refleja acantilados de granito, bosques de pinos y cascadas en su superficie. Considerado un río salvaje y escénico, nace en lo alto de la Sierra Nevada y desciende unos 230 km hacia el valle de Yosemite antes de llegar al Valle Central de California."
-    },
-    {
-        "fullstartdate": "202512112300",
-        "date": "20251212",
-        "url": "https://www.bing.com/th?id=OHR.SpeckledPoinsettia_ES-ES3605658250_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SpeckledPoinsettia_ES-ES3605658250",
-        "copyright": "Flor de pascua manchada (© DigiPub/Getty Images)",
-        "copyrightKeyword": "Euphorbia pulcherrima",
-        "hsh": "afa5c6cd9c8f625df61bbb910e41be12"
+        "hsh": "3511512ed38127faa3143e8fdd17ba7f"
     }
 ]

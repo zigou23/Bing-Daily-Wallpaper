@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202512190500",
+        "date": "20251219",
+        "url": "https://www.bing.com/th?id=OHR.BormioItaly_FR-CA9819049708_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BormioItaly_FR-CA9819049708",
+        "copyright": "Paysage enneigé à Bormio, Lombardie, Italie (© Roberto Moiola/Getty Images)",
+        "copyrightKeyword": "Bormio Italie",
+        "hsh": "12037724697c3892afa496239b00405a",
+        "description": "Blottie à 1 200 mètres d’altitude, la station de ski italienne de Bormio scintille telle une flamme dans l’immensité glacée. Ici, l’hiver sculpte le paysage et rythme la vie depuis des siècles. Au loin, le col du Stelvio relie les vallées, un passage mythique emprunté dès l’époque romaine, bien avant que la route actuelle ne soit tracée au XIXᵉ siècle.",
+        "maplink": "46.46925,10.37217"
+    },
+    {
         "fullstartdate": "202512180500",
         "date": "20251218",
         "url": "https://www.bing.com/th?id=OHR.CathedralValley_FR-CA9473137738_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SuspensionLights_FR-CA6920947835",
         "copyright": "Le pont suspsendu de Capilano et son parc illuminés, Vancouver, Colombie-Britannique (© Brian Caissie/Getty Images)",
         "copyrightKeyword": "Pont Suspendu Capilano",
-        "hsh": "ddf1003d3e77307988158c85c29f2fe4",
-        "description": "Certains ponts sont de véritables exploits d’ingénierie; d’autres ressemblent à une aventure. Le pont suspendu de Capilano, dans le parc du même nom, à Vancouver, incarne les deux. Le pont s’étend sur près de 140 mètres au-dessus de la rivière Capilano, suspendu à 70 mètres de hauteur par de solides câbles qui ondulent doucement sous vos pas. L’idée a pris forme en 1889, quand l’ingénieur civil écossais George Grant Mackay a construit la première version avec des cordes de chanvre et des planches de cèdre. En 1903, les câbles d’acier ont remplacé les matériaux d’origine, et le site est devenu un lieu de plein air prisé.",
-        "maplink": "49.342865,123.114899"
-    },
-    {
-        "fullstartdate": "202512110500",
-        "date": "20251211",
-        "url": "https://www.bing.com/th?id=OHR.EverestGlow_FR-CA8671922583_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.EverestGlow_FR-CA8671922583",
-        "copyright": "Le sommet du mont Everest au coucher du soleil, vu depuis Renjo La, Népal (© shoults/Alamy)",
-        "copyrightKeyword": "Journée internationale de la montagne",
-        "hsh": "3f4a016f7505203d65b288039faf35d3"
+        "hsh": "ddf1003d3e77307988158c85c29f2fe4"
     }
 ]
