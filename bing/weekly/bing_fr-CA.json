@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202512200500",
+        "date": "20251220",
+        "url": "https://www.bing.com/th?id=OHR.StarLanterns_FR-CA0069939651_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.StarLanterns_FR-CA0069939651",
+        "copyright": "Étoiles de Herrnhut, Allemagne (© artas/Getty Images)",
+        "copyrightKeyword": "Noël",
+        "hsh": "f677b8ab4993d7df74015bfbeb67fd00",
+        "description": "C’est en Saxe, au sud-est de l’Allemagne, que naquit une tradition lumineuse. Au début du XIXᵉ siècle, dans un internat morave à Niesky, un professeur de mathématiques invita ses élèves à créer une figure géométrique en papier : une étoile. De cet exercice jaillit la première « Herrnhuter Stern », devenue symbole de l’Avent."
+    },
+    {
         "fullstartdate": "202512190500",
         "date": "20251219",
         "url": "https://www.bing.com/th?id=OHR.BormioItaly_FR-CA9819049708_1920x1080.jpg",
@@ -70,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.YosemiteWinter_FR-CA7190961355",
         "copyright": "Rivière Merced, parc national de Yosemite, Californie, États-Unis (© Ron and Patty Thomas/Getty Images)",
         "copyrightKeyword": "Rivière Merced Californie États-Unis",
-        "hsh": "e909a23ef780ad4ba648efb83797ac3a",
-        "description": "Aux États-Unis, elle traverse le parc national de Yosemite, joyau de la Sierra Nevada. Longue de 230 kilomètres, elle prend sa source dans les neiges fondues et serpente entre des falaises de granit, des pins et des prairies, pour se jeter dans la vallée centrale de Californie. Par sa puissance et sa quiétude, elle évoque le Saguenay, au Québec : un courant de vie qui façonne la roche et apaise l’esprit.",
-        "maplink": "37.448151,-120.622475"
-    },
-    {
-        "fullstartdate": "202512120500",
-        "date": "20251212",
-        "url": "https://www.bing.com/th?id=OHR.SuspensionLights_FR-CA6920947835_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SuspensionLights_FR-CA6920947835",
-        "copyright": "Le pont suspsendu de Capilano et son parc illuminés, Vancouver, Colombie-Britannique (© Brian Caissie/Getty Images)",
-        "copyrightKeyword": "Pont Suspendu Capilano",
-        "hsh": "ddf1003d3e77307988158c85c29f2fe4"
+        "hsh": "e909a23ef780ad4ba648efb83797ac3a"
     }
 ]

@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202512202300",
+        "date": "20251221",
+        "url": "https://www.bing.com/th?id=OHR.WinterCovadonga_ES-ES5041137538_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WinterCovadonga_ES-ES5041137538",
+        "copyright": "Lago de Covadonga, Asturias, España (© emiliozv/Getty Images)",
+        "copyrightKeyword": "Solsticio de invierno",
+        "hsh": "25aa52bc39e1aef2561eaf23a1ee693a",
+        "description": "¿Alguna vez has sentido que la noche no iba a terminar? Eso es porque el solsticio de invierno está haciendo su magia. Hoy es un momento muy especial: la noche más larga del año y el día más breve en el hemisferio norte. En Asturias, el día durará casi 9 horas de luz, dejando una noche de poco más de 15 horas."
+    },
+    {
         "fullstartdate": "202512192300",
         "date": "20251220",
         "url": "https://www.bing.com/th?id=OHR.StarLanterns_ES-ES4365009466_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ReindeerFinland_ES-ES3822671431",
         "copyright": "Reno durante la nevada invernal, Laponia, Finlandia (© Roberto Moiola/Getty Images)",
         "copyrightKeyword": "Renos",
-        "hsh": "69d7a2e7b920f12e4b59028cadc4035e",
-        "description": "Pocas criaturas evocan tanta magia invernal como los renos, también llamados caribúes. En Laponia, donde su número supera al de las personas, estos animales recorren libremente bosques y tundras que parecen sacados de un cuento. Y hablando de cuentos, en España muchos recordamos a Rodolfo, el reno de la nariz roja, creado por Robert L. May, cuya historia ha acompañado a generaciones y sigue despertando sonrisas cada diciembre."
-    },
-    {
-        "fullstartdate": "202512122300",
-        "date": "20251213",
-        "url": "https://www.bing.com/th?id=OHR.YosemiteWinter_ES-ES3697194370_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.YosemiteWinter_ES-ES3697194370",
-        "copyright": "Río Merced, Parque Nacional de Yosemite, California, EE. UU. (© Ron and Patty Thomas/Getty Images)",
-        "copyrightKeyword": "Parque nacional de Yosemite",
-        "hsh": "3511512ed38127faa3143e8fdd17ba7f"
+        "hsh": "69d7a2e7b920f12e4b59028cadc4035e"
     }
 ]
