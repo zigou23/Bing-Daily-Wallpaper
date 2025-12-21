@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202512210500",
+        "date": "20251221",
+        "url": "https://www.bing.com/th?id=OHR.SwedenSolstice_FR-CA0269299029_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SwedenSolstice_FR-CA0269299029",
+        "copyright": "Lumière de l’aube à travers les arbres givrés, Suède (© Schon/Getty Images)",
+        "copyrightKeyword": "solstice d'hiver",
+        "hsh": "3b75e5794688a5bb661125f04999b956",
+        "description": "Au cœur d’une forêt suédoise, les arbres scintillent comme des cierges de glace. C’est le solstice d’hiver, ce moment suspendu où le jour se cache derrière la nuit la plus longue de l’année. Le Soleil, si bas à l’horizon, effleure la Terre d’un dernier salut avant son lent retour."
+    },
+    {
         "fullstartdate": "202512200500",
         "date": "20251220",
         "url": "https://www.bing.com/th?id=OHR.StarLanterns_FR-CA0069939651_1920x1080.jpg",
@@ -70,16 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.TuftedTitmouse_FR-CA8502944575",
         "copyright": "Mésange bicolore perchée sur des branches de pin, Massachusetts, États-Unis (© Tim Laman/NPL/Minden Pictures)",
         "copyrightKeyword": "Mésange bicolore",
-        "hsh": "40846103a61429aec34feebf026d824a",
-        "description": "Chaque hiver, de mi-décembre à début janvier, des milliers de passionnés troquent les décorations pour des jumelles : c’est le Recensement des oiseaux de Noël, une tradition née en 1900 grâce à l’ornithologue Frank M. Chapman. Chapman aux États-Unis. Dans un cercle de 24 kilomètres, chaque oiseau aperçu est compté, comme cette mésange bicolore photographiée dans le Massachusetts, minuscule flamme de vie sur la neige."
-    },
-    {
-        "fullstartdate": "202512130500",
-        "date": "20251213",
-        "url": "https://www.bing.com/th?id=OHR.YosemiteWinter_FR-CA7190961355_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.YosemiteWinter_FR-CA7190961355",
-        "copyright": "Rivière Merced, parc national de Yosemite, Californie, États-Unis (© Ron and Patty Thomas/Getty Images)",
-        "copyrightKeyword": "Rivière Merced Californie États-Unis",
-        "hsh": "e909a23ef780ad4ba648efb83797ac3a"
+        "hsh": "40846103a61429aec34feebf026d824a"
     }
 ]

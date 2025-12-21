@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202512210800",
+        "date": "20251221",
+        "url": "https://www.bing.com/th?id=OHR.SwedenSolstice_EN-US5470044971_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SwedenSolstice_EN-US5470044971",
+        "copyright": "Dawn light through frosty trees, Sweden (© Schon/Getty Images)",
+        "copyrightKeyword": "Winter solstice",
+        "hsh": "482bf52290bd774bf376e3fcfbaffe0b",
+        "description": "Ever felt as if the night just wouldn't end? That's the winter solstice working its magic. It is the shortest day and longest night of the year in the Northern Hemisphere, occurring around December 21 or 22. In the Southern Hemisphere, the same happens around June 21 or 22. It marks the moment when one of Earth's poles tilts farthest from the sun. From that instant, daylight slowly begins to lengthen again."
+    },
+    {
         "fullstartdate": "202512200800",
         "date": "20251220",
         "url": "https://www.bing.com/th?id=OHR.StarLanterns_EN-US5419993556_1920x1080.jpg",
@@ -70,16 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.TuftedTitmouse_EN-US4835376471",
         "copyright": "Tufted titmouse perched on pine boughs, Massachusetts (© Tim Laman/NPL/Minden Pictures)",
         "copyrightKeyword": "Audubon Christmas bird count",
-        "hsh": "252cfea6c8a498ddd073cf52783f185c",
-        "description": "Each December, thousands swap wrapping paper for binoculars and step outside for a different kind of holiday tradition: the Audubon Christmas Bird Count. Instead of hunting for bargains, they hunt for birds—with pencils, rather than pellets. Started in 1900 by ornithologist Frank M. Chapman, the count offered a peaceful alternative to the Christmas 'side hunts,' where people competed to shoot the most animals. Chapman had a better idea: count them instead. Over a century later, that simple shift has grown into the world's longest-running citizen-science project."
-    },
-    {
-        "fullstartdate": "202512130800",
-        "date": "20251213",
-        "url": "https://www.bing.com/th?id=OHR.YosemiteWinter_EN-US4786605896_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.YosemiteWinter_EN-US4786605896",
-        "copyright": "Merced River, Yosemite National Park, California (© Ron and Patty Thomas/Getty Images)",
-        "copyrightKeyword": "Merced River",
-        "hsh": "793795550bba662bc6d3d1de48e4c883"
+        "hsh": "252cfea6c8a498ddd073cf52783f185c"
     }
 ]
