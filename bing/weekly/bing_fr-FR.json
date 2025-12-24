@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202512242300",
+        "date": "20251225",
+        "url": "https://www.bing.com/th?id=OHR.SantaGlobe_FR-FR4387473652_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SantaGlobe_FR-FR4387473652",
+        "copyright": "Boules à neige sur un marché de Noël à Heidelberg, Allemagne (© George Pachantouris/Getty Images)",
+        "copyrightKeyword": "jour de Noël",
+        "hsh": "4032ba1e40048ca90132b93e2f146268",
+        "description": "Sous le ciel d’hiver d’Heidelberg, en Allemagne, les lumières des chalets se reflètent sur des rangées de boules à neige. Chacune renferme un univers miniature : un Père Noël figé dans sa ronde, une forêt étincelante, une promesse d’enfance. Dans cette ville romantique bordée par le Neckar, le marché de Noël emplit la vieille place de son parfum d’épices et de bois chaud.",
+        "maplink": "49.402892,8.679985"
+    },
+    {
         "fullstartdate": "202512232300",
         "date": "20251224",
         "url": "https://www.bing.com/th?id=OHR.ElmauChapel_FR-FR3119291708_1920x1080.jpg",
@@ -69,16 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.StarLanterns_FR-FR0647392410",
         "copyright": "Étoiles de Herrnhut, Allemagne (© artas/Getty Images)",
         "copyrightKeyword": "Noël",
-        "hsh": "5f4e7e2930d319009929dfcaa72dc415",
-        "description": "C'est en Saxe, dans le sud-est de l'Allemagne, qu'est née une tradition qui a traversé les frontières. Au début du XIXe siècle, dans un internat morave de Niesky, un professeur proposa à ses élèves un exercice de géométrie : créer une étoile en papier. De cette idée est née la première « Herrnhuter Stern », devenue le symbole de l’Avent. Plus tard, à Herrnhut, des artisans fondèrent une manufacture qui perpétue encore aujourd'hui ce savoir-faire. Les étoiles, désormais à vingt-cinq pointes, sont façonnées en papier ou en plastique et se déclinent en rouge, blanc ou or."
-    },
-    {
-        "fullstartdate": "202512162300",
-        "date": "20251217",
-        "url": "https://www.bing.com/th?id=OHR.FrostySquirrel_FR-FR0291090241_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FrostySquirrel_FR-FR0291090241",
-        "copyright": "Écureuil roux d’Eurasie dans le Northumberland, Angleterre (© Michael_Conrad/Getty Images)",
-        "copyrightKeyword": "Écureuil roux",
-        "hsh": "7a06ab628bb43fe8a0570971e1d7ee68"
+        "hsh": "5f4e7e2930d319009929dfcaa72dc415"
     }
 ]

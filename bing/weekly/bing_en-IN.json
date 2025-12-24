@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202512241830",
+        "date": "20251225",
+        "url": "https://www.bing.com/th?id=OHR.SantaGlobe_EN-IN8671777119_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SantaGlobe_EN-IN8671777119",
+        "copyright": "Snow globes at a Christmas market in Heidelberg, Germany (© George Pachantouris/Getty Images)",
+        "copyrightKeyword": "Christmas",
+        "hsh": "50031b3501de98b89d09564a43121724",
+        "description": "Beneath Heidelberg's winter sky in Germany, stalls sparkle with snow globes, each capturing the spirit of the season in a miniature world. Today, Christmas—a Christian celebration of faith, light and togetherness—invites us to welcome warmth and joy into the coldest days of the year. Across continents, candles glow on windowsills and garlands twine through homes and streets. Evergreen trees stand adorned, their branches heavy with ornaments and gifts waiting quietly beneath.",
+        "maplink": "49.402892,8.679985"
+    },
+    {
         "fullstartdate": "202512231830",
         "date": "20251224",
         "url": "https://www.bing.com/th?id=OHR.ElmauChapel_EN-IN8516225171_1920x1080.jpg",
@@ -68,17 +79,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.GopuramVirupaksha_EN-IN6686101876",
         "copyright": "Granite rocks and gopuram of the Virupaksha Temple, Hampi, Karnataka (© Skouatroulio/Getty Images)",
         "copyrightKeyword": "Virupaksha Temple Karnataka",
-        "hsh": "eeaa15c74295341428f19063175cc80a",
-        "description": "Hampi has a way of telling its story without saying much. The valley is filled with massive granite boulders that look untouched by time, and between them rises the gopuram of the Virupaksha Temple, the tall gateway tower that defines its skyline. The rocks are far older than the empire that once ruled here, shaped by natural forces long before a city ever existed. The gopuram, pale and geometric against the rugged terrain, gives the landscape a clear point of focus. Together they form a view that is both stark and striking, the kind that stays with you even after a quick glance.",
-        "maplink": "15.33517,76.45872"
-    },
-    {
-        "fullstartdate": "202512161830",
-        "date": "20251217",
-        "url": "https://www.bing.com/th?id=OHR.FrostySquirrel_EN-IN6548700158_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FrostySquirrel_EN-IN6548700158",
-        "copyright": "Eurasian red squirrel in Northumberland, England (© Michael_Conrad/Getty Images)",
-        "copyrightKeyword": "Eurasian Red Squirrel",
-        "hsh": "a17bcbdbe54baa2436e023a8f4f7365f"
+        "hsh": "eeaa15c74295341428f19063175cc80a"
     }
 ]

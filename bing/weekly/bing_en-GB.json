@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202512240000",
+        "date": "20251224",
+        "url": "https://www.bing.com/th?id=OHR.ElmauChapel_EN-GB2006634958_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ElmauChapel_EN-GB2006634958",
+        "copyright": "Snowy chapel with Christmas tree in the Bavarian Alps, Germany (© mauritius images GmbH/Alamy)",
+        "copyrightKeyword": "Christmas Eve",
+        "hsh": "3840750a44eb5847e1fcaf4c3c641960",
+        "description": "As Christmas Eve arrives, millions embrace customs that connect us to our roots—or introduce us to entirely new cultures. In snowy regions like the Bavarian Alps in Germany—a frost-kissed landscape seen in today's image—festive lights glow against winter's chill. Elsewhere, the sun blazes brightly: think of the Caribbean, Australia or Brazil, where Christmas often means golden beaches instead of frosty mornings.",
+        "maplink": "47.64,11.77"
+    },
+    {
         "fullstartdate": "202512230000",
         "date": "20251223",
         "url": "https://www.bing.com/th?id=OHR.ReindeerFinland_EN-GB1843825252_1920x1080.jpg",
@@ -68,17 +79,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.FrostySquirrel_EN-GB0927848700",
         "copyright": "Eurasian red squirrel in Northumberland, England (© Michael_Conrad/Getty Images)",
         "copyrightKeyword": "Eurasian Red Squirrel",
-        "hsh": "77acae99a869b95ce014a1d15de98de4",
-        "description": "Who could resist that squishy face? A Eurasian red squirrel perches on a snowy pine branch, paws clutching a pine cone like it's the last snack on Earth. These little acrobats stay busy collecting nuts, seeds and fungi—feasting on fresh finds in summer and on stored cones through winter.",
-        "maplink": "55.16667,-2"
-    },
-    {
-        "fullstartdate": "202512160000",
-        "date": "20251216",
-        "url": "https://www.bing.com/th?id=OHR.ChristmasGnomes_EN-GB0782931323_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ChristmasGnomes_EN-GB0782931323",
-        "copyright": "Handmade gnomes at a Christmas market (© Veronika Seppanen/Shutterstock)",
-        "copyrightKeyword": "Gnomes",
-        "hsh": "6d76274366d81ad3e544550bac1c845c"
+        "hsh": "77acae99a869b95ce014a1d15de98de4"
     }
 ]
