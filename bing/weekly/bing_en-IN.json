@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202512251830",
+        "date": "20251226",
+        "url": "https://www.bing.com/th?id=OHR.WiltshireDawn_EN-IN8926452812_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WiltshireDawn_EN-IN8926452812",
+        "copyright": "Salisbury Cathedral, Wiltshire, England (© Julian Elliott Photography/Getty Images)",
+        "copyrightKeyword": "Boxing Day",
+        "hsh": "baf71b6464b1841797866b8576035e8e",
+        "description": "In England there is a day called Boxing Day that follows Christmas and its charm lies in how quietly it arrives. No countdowns. No frantic unwrapping. Just a pause on 26 December after the festive rush for families and friends alike. The tradition began in Victorian Britain when households prepared Christmas boxes for workers and tradespeople offering coins or essentials as gestures of thanks. Churches opened their alms boxes as well turning the day into one of small thoughtful giving and shared goodwill.",
+        "maplink": "51.064991,-1.797319"
+    },
+    {
         "fullstartdate": "202512241830",
         "date": "20251225",
         "url": "https://www.bing.com/th?id=OHR.SantaGlobe_EN-IN8671777119_1920x1080.jpg",
@@ -68,17 +79,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BormioItaly_EN-IN7065763250",
         "copyright": "Snow-covered landscape at Bormio, Lombardy, Italy (© Roberto Moiola/Getty Images)",
         "copyrightKeyword": "Bormio Italy",
-        "hsh": "86838a976d6f1d191093da22e8e8a641",
-        "description": "Bormio is a mountain town in northern Italy's Lombardy region, nestled in the Alps near the Stelvio Pass. This location has connected communities across mountain valleys for centuries, shaping how people live and move through the region. Today's image features Bormio's winter landscape, a reflection of its high-altitude surroundings and enduring bond with the surrounding peaks.",
-        "maplink": "46.46925,10.37217"
-    },
-    {
-        "fullstartdate": "202512171830",
-        "date": "20251218",
-        "url": "https://www.bing.com/th?id=OHR.GopuramVirupaksha_EN-IN6686101876_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.GopuramVirupaksha_EN-IN6686101876",
-        "copyright": "Granite rocks and gopuram of the Virupaksha Temple, Hampi, Karnataka (© Skouatroulio/Getty Images)",
-        "copyrightKeyword": "Virupaksha Temple Karnataka",
-        "hsh": "eeaa15c74295341428f19063175cc80a"
+        "hsh": "86838a976d6f1d191093da22e8e8a641"
     }
 ]

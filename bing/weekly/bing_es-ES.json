@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202512252300",
+        "date": "20251226",
+        "url": "https://www.bing.com/th?id=OHR.WiltshireDawn_ES-ES4611953486_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WiltshireDawn_ES-ES4611953486",
+        "copyright": "Catedral de Salisbury, Wiltshire, Inglaterra (© Julian Elliott Photography/Getty Images)",
+        "copyrightKeyword": "Catedral de Salisbury",
+        "hsh": "6175215d407fe5510497d638d1880623",
+        "description": "Hoy contemplamos la majestuosa Catedral de Salisbury, ubicada en Wiltshire, Inglaterra. Esta obra maestra del gótico inglés se alza con elegancia desde el siglo XIII, destacando por su aguja, la más alta del Reino Unido con 123 metros. Su construcción, realizada en apenas 38 años, es un logro excepcional para la época. Además de su imponente arquitectura, Salisbury guarda uno de los tesoros más valiosos de la historia: una copia original de la Carta Magna de 1215, símbolo de derechos y libertades. Rodeada por el pintoresco Close, la catedral no solo es un lugar de culto, sino también un espacio donde la historia, el arte y la espiritualidad se entrelazan, atrayendo a visitantes de todo el mundo."
+    },
+    {
         "fullstartdate": "202512242300",
         "date": "20251225",
         "url": "https://www.bing.com/th?id=OHR.SantaGlobe_ES-ES4718622311_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BormioItaly_ES-ES9743879453",
         "copyright": "Paisaje nevado en Bormio, Lombardía, Italia (© Roberto Moiola/Getty Images)",
         "copyrightKeyword": "Bormio Italia",
-        "hsh": "fb85063cb0290e98215a1a6a4d784c11",
-        "description": "Bormio es una localidad de montaña situada en Lombardía, al norte de Italia, enclavada en los Alpes y muy cerca del paso de Stelvio. Esta posición ha unido durante siglos a las comunidades de los valles alpinos y ha marcado su forma de vida, sus rutas y su historia. Su paisaje invernal refleja la altitud del entorno y el estrecho vínculo de la ciudad con los picos que la rodean."
-    },
-    {
-        "fullstartdate": "202512172300",
-        "date": "20251218",
-        "url": "https://www.bing.com/th?id=OHR.SwedenSolstice_ES-ES4279169138_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SwedenSolstice_ES-ES4279169138",
-        "copyright": "Luz del amanecer a través de árboles helados, Suecia (© Schon/Getty Images)",
-        "copyrightKeyword": "Suecia",
-        "hsh": "ff8e04a91235272594c3b2c297a500cf"
+        "hsh": "fb85063cb0290e98215a1a6a4d784c11"
     }
 ]

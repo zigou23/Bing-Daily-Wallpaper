@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202512251500",
+        "date": "20251226",
+        "url": "https://www.bing.com/th?id=OHR.WiltshireDawn_JA-JP8756136772_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WiltshireDawn_JA-JP8756136772",
+        "copyright": "ソールズベリー大聖堂, イングランド (© Julian Elliott Photography/Getty Images)",
+        "copyrightKeyword": "ソールズベリー大聖堂",
+        "hsh": "ee168e9d80a31228afc9daa1c736a982",
+        "description": "今日 12 月 26 日はボクシング・デー。イギリスやカナダなど、主にコモンウェルス諸国（英連邦諸国）で祝われる休日です。その起源には諸説ありますが、クリスマスにも仕事をする必要のあった使用人たちに対し、雇用主が休暇を与え、感謝の贈り物を箱に入れて渡したことが始まりともいわれています。現在では、バーゲンセールが行われたり、スポーツ観戦などを楽しむ地域もあります…",
+        "maplink": "51.064991,-1.797319"
+    },
+    {
         "fullstartdate": "202512241500",
         "date": "20251225",
         "url": "https://www.bing.com/th?id=OHR.SantaGlobe_JA-JP3196648040_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BormioItaly_JA-JP1791938778",
         "copyright": "ボルミオ, イタリア ロンバルディア州 (© Roberto Moiola/Getty Images)",
         "copyrightKeyword": "イタリア ボルミオ",
-        "hsh": "e665a6fdb57ac2649e3b9a7bd7be6563",
-        "description": "イタリア北部、ロンバルディア州に位置するボルミオ。雄大なアルプスの山々に囲まれたこの町は、北側がスイスとの国境線に位置しており、古くから交易の要衝として栄えてきました。ロマネスク様式の教会や石造りの家々など、中世の町並みが今も残っています…",
-        "maplink": "46.708012,10.393023"
-    },
-    {
-        "fullstartdate": "202512171500",
-        "date": "20251218",
-        "url": "https://www.bing.com/th?id=OHR.CathedralValley_JA-JP1654490549_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.CathedralValley_JA-JP1654490549",
-        "copyright": "太陽の神殿, 米国 ユタ州 (© Austin Cronnelly/TANDEM Stills + Motion)",
-        "copyrightKeyword": "Temple of The Sun and Moon",
-        "hsh": "09be3bc4a0dbc53859d6e64fb57738d5"
+        "hsh": "e665a6fdb57ac2649e3b9a7bd7be6563"
     }
 ]

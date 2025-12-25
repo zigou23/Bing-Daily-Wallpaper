@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202512252300",
+        "date": "20251226",
+        "url": "https://www.bing.com/th?id=OHR.WiltshireDawn_IT-IT1269440144_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WiltshireDawn_IT-IT1269440144",
+        "copyright": "Cattedrale di Salisbury, Wiltshire, Inghilterra (© Julian Elliott Photography/Getty Images)",
+        "copyrightKeyword": "Boxing Day",
+        "hsh": "d46150ce2b9bbc908122a67e6edad34e",
+        "description": "La magia del Boxing Day sta proprio nella sua leggerezza. È una festa insolita, che porta con sé un invito silenzioso: «Una pausa, una tavola imbandita di avanzi, un respiro condiviso.» Celebrato il 26 dicembre nel Regno Unito e in diversi Paesi del Commonwealth, rappresenta una sorta di decompressione collettiva, un momento di calma dopo che il Natale ha già svolto tutto il lavoro più gravoso. Le sue radici affondano nell’epoca vittoriana, quando le famiglie preparavano le cosiddette “Christmas boxes” per lavoratori e commercianti: piccoli segni di gratitudine che potevano essere monete o beni di prima necessità.",
+        "maplink": "51.064991,-1.797319"
+    },
+    {
         "fullstartdate": "202512242300",
         "date": "20251225",
         "url": "https://www.bing.com/th?id=OHR.MilanoNatale_IT-IT0776124040_1920x1080.jpg",
@@ -67,17 +78,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BormioItaly_IT-IT9940500837",
         "copyright": "Paesaggio innevato a Bormio, Sondrio, Lombardia (© Roberto Moiola/Getty Images)",
         "copyrightKeyword": "Bormio",
-        "hsh": "561c4a9c9cc91b0439287ea10eafa649",
-        "description": "Bormio non è soltanto un comune di montagna: è come una conchiglia incastonata tra le Alpi, che custodisce voci di valli e passi. Qui, ai piedi del Passo dello Stelvio, da secoli si intrecciano i sentieri delle comunità, come fili che compongono un tessuto alpino. Le sue pietre e i suoi silenzi raccontano un paesaggio che non divide, ma unisce, trasformando l’asprezza dell’altitudine in un ponte di vita e di memoria.",
-        "maplink": "46.46925,10.37217"
-    },
-    {
-        "fullstartdate": "202512172300",
-        "date": "20251218",
-        "url": "https://www.bing.com/th?id=OHR.CathedralValley_IT-IT9862752275_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.CathedralValley_IT-IT9862752275",
-        "copyright": "Tempio del Sole, Parco Nazionale Capitol Reef, Utah, USA (© Austin Cronnelly/TANDEM Stills + Motion)",
-        "copyrightKeyword": "Parco Nazionale di Capitol Reef USA",
-        "hsh": "f590ca05fc955fa4f0e32b481578193f"
+        "hsh": "561c4a9c9cc91b0439287ea10eafa649"
     }
 ]

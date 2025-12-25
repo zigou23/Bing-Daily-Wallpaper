@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202512250500",
+        "date": "20251225",
+        "url": "https://www.bing.com/th?id=OHR.XmasTree_FR-CA7882563077_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.XmasTree_FR-CA7882563077",
+        "copyright": "Sapins de Noël dans le Vieux-Québec (© Jean Surprenant/Getty Images)",
+        "copyrightKeyword": "Noël",
+        "hsh": "0b7afd43eb56cd571f37b21222f8a0f8",
+        "description": "Sous le ciel clair d’un hiver canadien, ce sont les lumières des sapins de Noël — sur les places publiques, sur les pelouses de quartier et à travers les fenêtres des salons — qui illuminent l’hiver. Du Cavalcade of Lights à Toronto au Festival of Lights du VanDusen Garden à Vancouver, les communautés se rassemblent autour de ces conifères décorés, partageant chaleur et convivialité durant les semaines les plus froides de l’année. Noël — une fête de foi, de lumière et de rassemblement — invite cette gaieté dans les maisons. Les guirlandes serpentent dans les corridors, les chandelles diffusent une douce lueur dans les pièces communes, le gui s’accroche aux embrasures et les couronnes des portes d’entrée accueillent les invités.",
+        "maplink": "46.81611,71.22417"
+    },
+    {
         "fullstartdate": "202512240500",
         "date": "20251224",
         "url": "https://www.bing.com/th?id=OHR.ElmauChapel_FR-CA1701868165_1920x1080.jpg",
@@ -68,17 +79,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.CathedralValley_FR-CA9473137738",
         "copyright": "Temple du Soleil, parc national de Capitol Reef, Utah, États-Unis (© Austin Cronnelly/TANDEM Stills + Motion)",
         "copyrightKeyword": "Parc national de Capitol Reef",
-        "hsh": "619df2f9419a18dee6bf16abdc3b3c8f",
-        "description": "Dans les vastes étendues du sud de l'Utah, les falaises de grès du parc national américain de Capitol Reef s'embrasent sous le soleil couchant. Ici, la Terre se dévoile en strates, telles les pages d'un livre vieux de millions d'années. La Waterpocket Fold, immense pliure de la croûte terrestre, raconte les secousses et les silences d’un monde en formation. Devant toi se dressent les monolithes de Cathedral Valley, dont le majestueux Temple of the Sun, rouge, silencieux et presque sacré.",
-        "maplink": "38.08773,111.135483"
-    },
-    {
-        "fullstartdate": "202512170500",
-        "date": "20251217",
-        "url": "https://www.bing.com/th?id=OHR.FrostySquirrel_FR-CA9290666519_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FrostySquirrel_FR-CA9290666519",
-        "copyright": "Écureuil roux d’Eurasie dans le Northumberland, Angleterre (© Michael_Conrad/Getty Images)",
-        "copyrightKeyword": "Écureuil roux",
-        "hsh": "194dacdc45176dc54c2d7975b1561a89"
+        "hsh": "619df2f9419a18dee6bf16abdc3b3c8f"
     }
 ]

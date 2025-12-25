@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202512250000",
+        "date": "20251225",
+        "url": "https://www.bing.com/th?id=OHR.SantaGlobe_EN-GB2190475589_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SantaGlobe_EN-GB2190475589",
+        "copyright": "Snow globes at a Christmas market in Heidelberg, Germany (© George Pachantouris/Getty Images)",
+        "copyrightKeyword": "Christmas",
+        "hsh": "7d1998c599c8749b7fb2b917c5110e59",
+        "description": "Beneath Heidelberg's winter sky in Germany, stalls sparkle with snow globes, each capturing the spirit of the season in a miniature world. Today, Christmas—a Christian celebration of faith, light and togetherness—invites us to welcome warmth and joy into the coldest days of the year. Across continents, candles glow on windowsills and garlands twine through homes and streets. Evergreen trees stand adorned, their branches heavy with ornaments and gifts waiting quietly beneath.",
+        "maplink": "49.402892,8.679985"
+    },
+    {
         "fullstartdate": "202512240000",
         "date": "20251224",
         "url": "https://www.bing.com/th?id=OHR.ElmauChapel_EN-GB2006634958_1920x1080.jpg",
@@ -68,17 +79,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.CathedralValley_EN-GB1105265816",
         "copyright": "Temple of the Sun, Capitol Reef National Park, Utah, USA (© Austin Cronnelly/TANDEM Stills + Motion)",
         "copyrightKeyword": "Capitol Reef National Park",
-        "hsh": "ccb5c8e0e193e71fcd28d91f9942ea10",
-        "description": "Rock layers formed over millions of years and a massive bend in the Earth's crust give this desert a rare window into geologic history. This is Capitol Reef National Park in Utah, United States, where sandstone cliffs and canyons preserve a striking record of the planet's past. December 18 marks the anniversary of its designation as a national park in 1971. Today's featured image highlights the sandstone monoliths of Cathedral Valley, including the Temple of the Sun, part of this extraordinary, protected landscape.",
-        "maplink": "38.08773,-111.135483"
-    },
-    {
-        "fullstartdate": "202512170000",
-        "date": "20251217",
-        "url": "https://www.bing.com/th?id=OHR.FrostySquirrel_EN-GB0927848700_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FrostySquirrel_EN-GB0927848700",
-        "copyright": "Eurasian red squirrel in Northumberland, England (© Michael_Conrad/Getty Images)",
-        "copyrightKeyword": "Eurasian Red Squirrel",
-        "hsh": "77acae99a869b95ce014a1d15de98de4"
+        "hsh": "ccb5c8e0e193e71fcd28d91f9942ea10"
     }
 ]
