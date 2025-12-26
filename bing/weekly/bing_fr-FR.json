@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202512262300",
+        "date": "20251227",
+        "url": "https://www.bing.com/th?id=OHR.SuperiorIceMN_FR-FR4676327003_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SuperiorIceMN_FR-FR4676327003",
+        "copyright": "Plaques de glace sur le lac Supérieur, Minnesota, États-Unis (© wanderluster/Getty Images)",
+        "copyrightKeyword": "Lac Supérieur États Unis",
+        "hsh": "cff7d4433a92eb3993b0aa1e316804ac",
+        "description": "Quand l’hiver s’empare du lac Supérieur, au nord du Minnesota, aux États-Unis, le rivage se métamorphose en une mosaïque de plaques cristallines. Ces fines feuilles de glace, fragilisées par les variations de température, se fracturent, dérivent et s’empilent sous l’impulsion du vent. Le résultat : un paysage de bleus translucides et d’éclats argentés, où la lumière accroche chaque arête comme sur une sculpture éphémère.",
+        "maplink": "46.786549,-92.098114"
+    },
+    {
         "fullstartdate": "202512252300",
         "date": "20251226",
         "url": "https://www.bing.com/th?id=OHR.NuukGreenland_FR-FR4321343444_1920x1080.jpg",
@@ -69,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.FetNav_FR-FR1160112574",
         "copyright": "Cirque de Mafate, Dos d'Ane, Île de la Réunion (© Gael Fontaine/Alamy)",
         "copyrightKeyword": "Fête réunionnaise de la liberté",
-        "hsh": "33246287eb9ed02a9d0968521e7767ad",
-        "description": "Pour contraster avec la grisaille et le froid de la métropole, voici un peu de soleil venu de l’océan Indien ! Le 20 décembre, l’île de La Réunion célèbre la Fèt Kaf, jour de liberté et de mémoire. Ici, au cœur du cirque de Mafate, entre les montagnes sculptées par les volcans et les ravines verdoyantes, les chants, les tambours et les danses maloya résonnent jusqu’aux crêtes.",
-        "maplink": "37.448151,-120.622475"
-    },
-    {
-        "fullstartdate": "202512182300",
-        "date": "20251219",
-        "url": "https://www.bing.com/th?id=OHR.YosemiteWinter_FR-FR0908929457_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.YosemiteWinter_FR-FR0908929457",
-        "copyright": "Rivière Merced, parc national de Yosemite, Californie, États-Unis (© Ron and Patty Thomas/Getty Images)",
-        "copyrightKeyword": "Rivière Merced Californie États-Unis",
-        "hsh": "1d7ee410ff0d01c23f32d0cb584d849e"
+        "hsh": "33246287eb9ed02a9d0968521e7767ad"
     }
 ]
