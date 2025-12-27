@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202512272300",
+        "date": "20251228",
+        "url": "https://www.bing.com/th?id=OHR.RuffedLemur_DE-DE7591770209_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.RuffedLemur_DE-DE7591770209",
+        "copyright": "Schwarzweißer Vari auf Madagaskar (© Cyrielle Beaubois/Getty Images)",
+        "copyrightKeyword": "Lemuren",
+        "hsh": "f1053ab7648d0db7ed012fc93e73f21c",
+        "description": "Wussten Sie, dass der Schwarzweiße Vari zu den wichtigsten „Gärtnern“ Madagaskars gehört? Diese auffälligen Lemuren, deren laute Rufe durch die Regenwälder schallen, leben ausschließlich auf Madagaskar. Beim Fressen verbreiten sie Samen und tragen so entscheidend dazu bei, dass sich der Wald regenerieren kann. Manche Pflanzen sind sogar direkt auf sie angewiesen.",
+        "maplink": "-20,47"
+    },
+    {
         "fullstartdate": "202512262300",
         "date": "20251227",
         "url": "https://www.bing.com/th?id=OHR.SuperiorIceMN_DE-DE3366559163_1920x1080.jpg",
@@ -70,16 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SwedenSolstice_DE-DE1312651216",
         "copyright": "Morgendämmerung durch frostige Bäume, Schweden (© Schon/Getty Images)",
         "copyrightKeyword": "Wintersonnenwende",
-        "hsh": "e0b233f76f00ca1584a5d4a7f710e0ba",
-        "description": "Die Wintersonnenwende markiert den Moment, an dem die Sonne ihre tiefste Position am Himmel erreicht und somit die längste Nacht des Jahres auf der Nordhalbkugel einleitet. Dieses Phänomen wurde von alten Kulturen als Symbol für Erneuerung und Hoffnung gefeiert, denn nach der Dunkelheit beginnt die langsame Rückkehr des Lichts."
-    },
-    {
-        "fullstartdate": "202512192300",
-        "date": "20251220",
-        "url": "https://www.bing.com/th?id=OHR.StarLanterns_DE-DE0755319910_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.StarLanterns_DE-DE0755319910",
-        "copyright": "Weihnachtsstern-Laternen, Deutschland (© artas/Getty Images)",
-        "copyrightKeyword": "Herrnhuter Stern",
-        "hsh": "ec8c807da62e21b9f49ae7db6fd81ee7"
+        "hsh": "e0b233f76f00ca1584a5d4a7f710e0ba"
     }
 ]
