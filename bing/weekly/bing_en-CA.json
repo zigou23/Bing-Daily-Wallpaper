@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202512280500",
+        "date": "20251228",
+        "url": "https://www.bing.com/th?id=OHR.RuffedLemur_EN-CA4162667065_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.RuffedLemur_EN-CA4162667065",
+        "copyright": "Black-and-white ruffed lemur in Madagascar (© Cyrielle Beaubois/Getty Images)",
+        "copyrightKeyword": "Black-and-white ruffed lemur",
+        "hsh": "0a919ade14416d7ff4ce89509535318e",
+        "description": "One moment the canopy is still, and the next, a burst of black and white shoots through it like a living exclamation mark. That's the black-and-white ruffed lemur, a primate that doesn't shy away from announcing itself with raucous calls. Its coat comes in bold patches, and the thick ruff frames its face. Roughly 92% of the lemur's diet is fruit, with leaves, nectar, seeds and the occasional fungus making up the rest. When trees are heavy with figs and other seasonal offerings, this creature moves quickly through the dense forest. As it laps up nectar, pollen sticks to its snout, turning it into one of the habitat's most effective pollinators.",
+        "maplink": "-20,47"
+    },
+    {
         "fullstartdate": "202512270500",
         "date": "20251227",
         "url": "https://www.bing.com/th?id=OHR.SuperiorIceMN_EN-CA3067089531_1920x1080.jpg",
@@ -70,16 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SwedenSolstice_EN-CA1532001237",
         "copyright": "Dawn light through frosty trees, Sweden (© Schon/Getty Images)",
         "copyrightKeyword": "Winter solstice",
-        "hsh": "3de66ad1d7cf9f150ebfe246f3530ca5",
-        "description": "Ever felt as if the night just wouldn't end? That's the winter solstice working its magic. It is the shortest day and longest night of the year in the Northern Hemisphere, occurring around December 21 or 22. In the Southern Hemisphere, the same happens around June 21 or 22. It marks the moment when one of Earth's poles tilts farthest from the sun. From that instant, daylight slowly begins to lengthen again."
-    },
-    {
-        "fullstartdate": "202512200500",
-        "date": "20251220",
-        "url": "https://www.bing.com/th?id=OHR.StarLanterns_EN-CA1404976374_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.StarLanterns_EN-CA1404976374",
-        "copyright": "Paper Christmas star lanterns, Germany (© artas/Getty Images)",
-        "copyrightKeyword": "Moravian star",
-        "hsh": "b356f6263633fafac9a475004bfa9120"
+        "hsh": "3de66ad1d7cf9f150ebfe246f3530ca5"
     }
 ]

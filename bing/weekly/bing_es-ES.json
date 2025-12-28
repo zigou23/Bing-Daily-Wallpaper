@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202512282300",
+        "date": "20251229",
+        "url": "https://www.bing.com/th?id=OHR.AniTurkey_ES-ES0462839984_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AniTurkey_ES-ES0462839984",
+        "copyright": "Iglesia de San Gregorio en las ruinas de Ani, Kars, Turquía (© Kenan Talas/Getty Images)",
+        "copyrightKeyword": "Ani en Kars Turquía",
+        "hsh": "1c3f15cb24842fcce051576706873862",
+        "description": "En una meseta azotada por el viento, en el este de Turquía y junto a la frontera con Armenia, las ruinas de Ani se recortan nítidas en el horizonte. La Iglesia de San Gregorio, construida en piedra volcánica oscura, aún eleva su torre cilíndrica como un faro que vela sobre el silencio de la llanura. En otro tiempo, Ani fue llamada la “Ciudad de las 1.001 Iglesias”; sus arquitectos experimentaban con arcos, cúpulas, fachadas y geometrías que inspirarían tradiciones lejanas, incluso el gótico europeo. Entre grietas y ruinas, su huella sigue viva."
+    },
+    {
         "fullstartdate": "202512272300",
         "date": "20251228",
         "url": "https://www.bing.com/th?id=OHR.RuffedLemur_ES-ES4805768745_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.NutcrackerAnkara_ES-ES4457376290",
         "copyright": "“El Cascanueces” interpretado por la Ópera y Ballet Estatal de Turquía en Ankara, Turquía (© Anadolu/Getty Images)",
         "copyrightKeyword": "Ópera y Ballet Estatal de Turquía",
-        "hsh": "8983b7c47250f1894b8bf13de073751b",
-        "description": "A medida que se acerca la Navidad, cada atardecer se llena de un resplandor de luces festivas que nos preparan para la magia de la temporada. Ese mismo espíritu impregna “El Cascanueces”, una de las obras teatrales más queridas del mundo. La historia, ambientada en Nochebuena, comienza cuando Clara recibe un cascanueces como regalo. Al dormirse la familia, la niña inicia un viaje fantástico junto a su muñeco: lucha contra el Rey Ratón y recorre la maravillosa Tierra de los Dulces."
-    },
-    {
-        "fullstartdate": "202512202300",
-        "date": "20251221",
-        "url": "https://www.bing.com/th?id=OHR.WinterCovadonga_ES-ES5041137538_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WinterCovadonga_ES-ES5041137538",
-        "copyright": "Lago de Covadonga, Asturias, España (© emiliozv/Getty Images)",
-        "copyrightKeyword": "Solsticio de invierno",
-        "hsh": "25aa52bc39e1aef2561eaf23a1ee693a"
+        "hsh": "8983b7c47250f1894b8bf13de073751b"
     }
 ]
