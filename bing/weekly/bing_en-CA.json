@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202512290500",
+        "date": "20251229",
+        "url": "https://www.bing.com/th?id=OHR.AniTurkey_EN-CA0360895261_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AniTurkey_EN-CA0360895261",
+        "copyright": "St. Gregory Church in Ani Ruins, Kars, Türkiye (© Kenan Talas/Getty Images)",
+        "copyrightKeyword": "Ani Ruins",
+        "hsh": "53646826fc991d770b8c85b072f7030d",
+        "description": "On a windswept plateau in eastern Türkiye, along the border with Armenia, the ruins of the ancient city of Ani rise from the landscape with striking clarity. A millennium ago, Ani was a thriving Armenian capital on a major Silk Road route, its fortifications and busy streets shaping trade and culture across the region. Today, the city is quiet, but its outline still carries the weight of its past.",
+        "maplink": "40.3307,42.572102"
+    },
+    {
         "fullstartdate": "202512280500",
         "date": "20251228",
         "url": "https://www.bing.com/th?id=OHR.RuffedLemur_EN-CA4162667065_1920x1080.jpg",
@@ -71,16 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.NutcrackerAnkara_EN-CA0772457204",
         "copyright": "'The Nutcracker' performed by the Turkish State Opera and Ballet in Ankara, Türkiye (© Anadolu/Getty Images)",
         "copyrightKeyword": "The Nutcracker",
-        "hsh": "ecd3b60e8a29b4602daa91bd5580a170",
-        "description": "As Christmas approaches across Canada, each sunset gives way to a soft glow of festive lights—from window candles in Toronto homes to snowy displays in prairie towns—bringing a touch of wonder and preparing us for the holiday season. One of the world's most beloved stage works, 'The Nutcracker,' is rooted in this very sense of magic. The story unfolds on Christmas Eve, when Clara receives a nutcracker as a gift. As night falls and the household drifts into sleep, the girl and her nutcracker embark on a fantastical journey—battling the Mouse King and wandering through the Land of Sweets. Among its most famous moments is the dance of the Sugar Plum Fairy, accompanied by music that has become iconic."
-    },
-    {
-        "fullstartdate": "202512210500",
-        "date": "20251221",
-        "url": "https://www.bing.com/th?id=OHR.SwedenSolstice_EN-CA1532001237_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SwedenSolstice_EN-CA1532001237",
-        "copyright": "Dawn light through frosty trees, Sweden (© Schon/Getty Images)",
-        "copyrightKeyword": "Winter solstice",
-        "hsh": "3de66ad1d7cf9f150ebfe246f3530ca5"
+        "hsh": "ecd3b60e8a29b4602daa91bd5580a170"
     }
 ]

@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202512290000",
+        "date": "20251229",
+        "url": "https://www.bing.com/th?id=OHR.AniTurkey_EN-GB1808269342_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AniTurkey_EN-GB1808269342",
+        "copyright": "St Gregory Church in Ani Ruins, Kars, Türkiye (© Kenan Talas/Getty Images)",
+        "copyrightKeyword": "Ani Ruins",
+        "hsh": "72cb00678a185558e4e2ad9c7b2c129e",
+        "description": "On a windswept plateau in eastern Türkiye, along the border with Armenia, the ruins of the ancient city of Ani rise from the landscape with striking clarity. A millennium ago, Ani was a thriving Armenian capital on a major Silk Road route, its fortifications and busy streets shaping trade and culture across the region. Today, the city is quiet, but its outline still carries the weight of its past.",
+        "maplink": "40.3307,42.572102"
+    },
+    {
         "fullstartdate": "202512280000",
         "date": "20251228",
         "url": "https://www.bing.com/th?id=OHR.RuffedLemur_EN-GB1541311205_1920x1080.jpg",
@@ -17,7 +28,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SuperiorIceMN_EN-GB1375934148",
         "copyright": "Plate ice along Lake Superior, Grand Marais, Minnesota, United States (© wanderluster/Getty Images)",
         "copyrightKeyword": "Lake Superior Minnesota",
-        "hsh": "1e9b737adb632adf6ef7e81e28a05943",
+        "hsh": "3ef912ba102ab2207e9eb8840d22f21d",
         "description": "When winter tightens its grip on Lake Superior in Minnesota, United States, the shoreline transforms into a landscape of tilted, glass-like shards known as plate ice. Thin sheets fracture under shifting temperatures, then drift and stack as the wind presses them toward land. The result is a field of translucent blues and silvers, catching the light at sharp angles and making the water's edge appear sculpted rather than frozen.",
         "maplink": "46.786549,-92.098114"
     },
@@ -28,7 +39,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.WiltshireDawn_EN-GB7071939829",
         "copyright": "Salisbury Cathedral, Wiltshire, England (© Julian Elliott Photography/Getty Images)",
         "copyrightKeyword": "Boxing Day",
-        "hsh": "326032a49c819ff4455511d1370994f9",
+        "hsh": "970c82eb58e02d922174452f0f7d7a06",
         "description": "The best thing about Boxing Day is that it doesn't ask much of you. No big countdown. No dramatic unwrapping. No last-minute dashes for batteries. It's a rare holiday that says, 'Sit down, finish your leftovers and take a moment.' Celebrated on December 26 in the United Kingdom and some Commonwealth countries, it's a national cool-down after Christmas has done all the heavy lifting. The term goes back to Victorian Britain, when households prepared Christmas boxes for workers and tradespeople—tokens of thanks that ranged from coins to essentials. Churches joined in by opening alms boxes and distributing donations.",
         "maplink": "51.064991,-1.797319"
     },
@@ -71,16 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.NutcrackerAnkara_EN-GB1726876299",
         "copyright": "'The Nutcracker' performed by the Turkish State Opera and Ballet in Ankara, Türkiye (© Anadolu/Getty Images)",
         "copyrightKeyword": "The Nutcracker",
-        "hsh": "410ef3ee9518614c481ac52c87fd0205",
-        "description": "As Christmas approaches, each sunset gives way to a glow of festive lights, bringing a touch of wonder and preparing us for the holiday season. One of the world's most beloved stage works, 'The Nutcracker,' is rooted in this very sense of magic. The story unfolds on Christmas Eve, in the midst of holiday cheer, when Clara receives a nutcracker as a gift. As night falls and the household drifts into sleep, the little girl and her nutcracker embark on a fantastical journey—battling the Mouse King and wandering through the Land of Sweets. Among its most famous moments is the dance of the Sugar Plum Fairy—the ruler of the Land of Sweets—accompanied by music that has become iconic."
-    },
-    {
-        "fullstartdate": "202512210000",
-        "date": "20251221",
-        "url": "https://www.bing.com/th?id=OHR.SwedenSolstice_EN-GB1586766616_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SwedenSolstice_EN-GB1586766616",
-        "copyright": "Dawn light through frosty trees, Sweden (© Schon/Getty Images)",
-        "copyrightKeyword": "Winter solstice",
-        "hsh": "4eb33dd5e5594378661553fd12ef9b6a"
+        "hsh": "410ef3ee9518614c481ac52c87fd0205"
     }
 ]
