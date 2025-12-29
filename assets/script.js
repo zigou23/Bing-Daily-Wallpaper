@@ -54,6 +54,7 @@ const lbCopy = document.getElementById('lb-copyright');
 const lbDesc = document.getElementById('lb-desc');
 const btnUHD = document.getElementById('btn-dl-uhd');
 const btnHD = document.getElementById('btn-dl-hd');
+const btn2K = document.getElementById('btn-dl-2k');
 const btnMobile = document.getElementById('btn-dl-mobile');
 const btnWallpaper = document.getElementById('btn-dl-wallpaper');
 const closeLb = document.querySelector('.close-lightbox');
@@ -301,6 +302,7 @@ const RESOLUTION_MAP = {
   medium:    '_800x480.jpg', //_1366x768.jpg
   full:      '_1920x1080.jpg',
   uhd:       '_UHD.jpg',
+  '2k':      '_UHD.jpg&w=2560&qlt=90',
   wallpaper: '_1920x1200.jpg',
   mobile:    '_1080x1920.jpg',
   // 定义默认后缀
@@ -514,6 +516,7 @@ function openLightbox(item) {
 
   setupBtn(btnUHD, 'uhd');
   setupBtn(btnHD, 'full');
+  setupBtn(btn2K, '2k');
   setupBtn(btnWallpaper, 'wallpaper');
   setupBtn(btnMobile, 'mobile');
 }
@@ -617,6 +620,7 @@ function getDownloadFilename(item, type) {
   const suffixMap = {
     'uhd': 'UHD',
     'full': '1080p',
+    '2k': '2K',
     'wallpaper': 'wallpaper',
     'mobile': 'mobile'
   };
