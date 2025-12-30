@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202512301830",
+        "date": "20251231",
+        "url": "https://www.bing.com/th?id=OHR.GermanyNewYear_EN-IN0096135546_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GermanyNewYear_EN-IN0096135546",
+        "copyright": "New Year's Eve, Oberbaum Bridge, Berlin, Germany (© spreephoto.de/Getty Images)",
+        "copyrightKeyword": "New Years Eve",
+        "hsh": "9f25a8228e8f41e6a764756066b0ae93",
+        "description": "Three… two… one… wait—hold that countdown. It's not New Year's yet, but the Oberbaum Bridge already feels as if Berlin in Germany hit its 'celebrate' button ahead of time. On this night, the bridge transforms from a simple river crossing into a runway where this city taxis toward midnight, engines humming, fireworks warming up and the crowd collectively practicing its 'Happy New Year!' voice.",
+        "maplink": "52.50182,13.44573"
+    },
+    {
         "fullstartdate": "202512291830",
         "date": "20251230",
         "url": "https://www.bing.com/th?id=OHR.JapanSwans_EN-IN9853925542_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ElmauChapel_EN-IN8516225171",
         "copyright": "Snowy chapel with Christmas tree in the Bavarian Alps, Germany (© mauritius images GmbH/Alamy)",
         "copyrightKeyword": "Christmas Eve",
-        "hsh": "bff7d3c716f36c4d0939ec9d114db186",
-        "description": "As Christmas Eve arrives, millions embrace customs that connect us to our roots—or introduce us to entirely new cultures. In snowy regions like the Bavarian Alps in Germany—a frost-kissed landscape seen in today's image—festive lights glow against winter's chill. Elsewhere, the sun blazes brightly: think of the Caribbean, Australia, or Brazil, where Christmas often means golden beaches instead of frosty mornings.",
-        "maplink": "47.64,11.77"
-    },
-    {
-        "fullstartdate": "202512221830",
-        "date": "20251223",
-        "url": "https://www.bing.com/th?id=OHR.ReindeerFinland_EN-IN8311415017_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ReindeerFinland_EN-IN8311415017",
-        "copyright": "Reindeer during winter snowfall, Lapland, Finland (© Roberto Moiola/Getty Images)",
-        "copyrightKeyword": "Reindeer",
-        "hsh": "1606bc9d3c322d2b68658302b240c8fc"
+        "hsh": "bff7d3c716f36c4d0939ec9d114db186"
     }
 ]
