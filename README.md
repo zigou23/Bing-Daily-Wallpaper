@@ -130,7 +130,9 @@ The `bing/weekly/` directory stores weekly wallpaper summary data for convenient
 
 ### Historical Archives
 
-`bing/old-2408/` contains historical data archives from before August 2024.
+`bing/old-2408/` contains historical data archives from before August 2024. 
+
+Portions of historical data are referenced from [zkeq/Bing-Wallpaper-Action](https://github.com/zkeq/Bing-Wallpaper-Action) and some publicly available website data. If you find any data issues, please submit an issue.
 
 ## 📅 Update Frequency
 
