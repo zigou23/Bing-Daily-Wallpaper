@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202601010500",
+        "date": "20260101",
+        "url": "https://www.bing.com/th?id=OHR.NewYearFox_EN-CA1770167062_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.NewYearFox_EN-CA1770167062",
+        "copyright": "Arctic fox sleeping (© Chansak Joe/Getty Images)",
+        "copyrightKeyword": "New Years Day",
+        "hsh": "eec0a3d0e5a7f681ed5391260aa9d354",
+        "description": "Do you feel as if you have a whole year's worth of rest to catch up on? Then you can relate to this Arctic fox, cosily tucked among the rocky outcroppings of the frozen tundra. Whether the new year greets you with biting cold or under a warm sun, take five extra minutes to stretch before diving into the 365 days ahead. Ever wondered why we have 365 days in a year? It's because the Gregorian calendar—introduced in 1582—is based on a solar year: the time it takes Earth to orbit the sun. The stars have our backs, but the plans we make for the months ahead are all on us."
+    },
+    {
         "fullstartdate": "202512310500",
         "date": "20251231",
         "url": "https://www.bing.com/th?id=OHR.NYEToronto_EN-CA2554609222_1920x1080.jpg",
@@ -71,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.XmasTree_EN-CA1915827603",
         "copyright": "Christmas trees in Old Quebec (© Jean Surprenant/Getty Images)",
         "copyrightKeyword": "Christmas",
-        "hsh": "ec4720cc2d471049dbb3942dbfde0a3b",
-        "description": "Under a crisp Canadian winter sky, it's the glow of Christmas trees—on city squares, on neighbourhood lawns and in living-room windows—that sets the season alight. From Toronto's Cavalcade of Lights to Vancouver's Festival of Lights at VanDusen Garden, communities gather around these lit evergreens, sharing warmth during the year's coldest weeks. Christmas—a celebration of faith, light and togetherness—invites people to bring that brightness indoors. Garlands wind through hallways, candles cast a soft glow across familiar rooms and mistletoe hangs in doorways while wreaths greet guests at the front door.",
-        "maplink": "46.81611,-71.22417"
-    },
-    {
-        "fullstartdate": "202512240500",
-        "date": "20251224",
-        "url": "https://www.bing.com/th?id=OHR.ElmauChapel_EN-CA2001669304_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ElmauChapel_EN-CA2001669304",
-        "copyright": "Snowy chapel with Christmas tree in the Bavarian Alps, Germany (© mauritius images GmbH/Alamy)",
-        "copyrightKeyword": "Christmas Eve",
-        "hsh": "f5f74b19e9e8fb0dd8007bcb72138757"
+        "hsh": "ec4720cc2d471049dbb3942dbfde0a3b"
     }
 ]

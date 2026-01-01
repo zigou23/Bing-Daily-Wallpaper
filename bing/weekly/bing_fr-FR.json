@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202601012300",
+        "date": "20260102",
+        "url": "https://www.bing.com/th?id=OHR.VeniceView_FR-FR1991720752_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.VeniceView_FR-FR1991720752",
+        "copyright": "Vue aérienne de Venise, Italie (© Clement Leonard/Getty Images)",
+        "copyrightKeyword": "Venise Italie",
+        "hsh": "3302eed6eb44fae3a3ed315c4d7b1a22",
+        "description": "Vue du ciel, Venise semble flotter comme un mirage, mais son âme se cache dans ses ruelles et ses canaux. Née au Ve siècle sur des îlots de la lagune, la cité a transformé des marais en empire maritime. Au Moyen Âge, elle devint le carrefour entre Orient et Occident, forgeant une richesse qui fit éclore palais gothiques, chefs-d’œuvre de la Renaissance et joyaux comme la basilique Saint-Marc, le Palais des Doges ou le Pont du Rialto.",
+        "maplink": "45.4397,12.3319"
+    },
+    {
         "fullstartdate": "202512312300",
         "date": "20260101",
         "url": "https://www.bing.com/th?id=OHR.NewYearFox_FR-FR1449445493_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.NuukGreenland_FR-FR4321343444",
         "copyright": "Nuuk, Groenland (© nevereverro/Getty Images)",
         "copyrightKeyword": "Nuuk Groenland",
-        "hsh": "04b00ef0506ebf56a6dbf506fa357d8f",
-        "description": "Imaginez une ville où le trajet quotidien longe des fjords glacés, des plaques de banquise et, parfois, les lueurs dansantes des aurores boréales. Bienvenue à Nuuk, capitale du Groenland, cœur vibrant de l’Arctique où traditions inuit et modernité nordique se rencontrent.",
-        "maplink": "64.175,-51.73333"
-    },
-    {
-        "fullstartdate": "202512242300",
-        "date": "20251225",
-        "url": "https://www.bing.com/th?id=OHR.SantaGlobe_FR-FR4387473652_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SantaGlobe_FR-FR4387473652",
-        "copyright": "Boules à neige sur un marché de Noël à Heidelberg, Allemagne (© George Pachantouris/Getty Images)",
-        "copyrightKeyword": "jour de Noël",
-        "hsh": "4032ba1e40048ca90132b93e2f146268"
+        "hsh": "04b00ef0506ebf56a6dbf506fa357d8f"
     }
 ]

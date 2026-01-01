@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202601010800",
+        "date": "20260101",
+        "url": "https://www.bing.com/th?id=OHR.NewYearFox_EN-US6422915878_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.NewYearFox_EN-US6422915878",
+        "copyright": "Arctic fox sleeping (© Chansak Joe/Getty Images)",
+        "copyrightKeyword": "New Years Day",
+        "hsh": "db58ea943a81802cf055409f5b520c82",
+        "description": "Do you feel as if you have a whole year's worth of rest to catch up on? Then you can relate to this Arctic fox, cozily tucked among the rocky outcroppings of the frozen tundra. Whether the new year greets you with biting cold or under a warm sun, take five extra minutes to stretch before diving into the 365 days ahead."
+    },
+    {
         "fullstartdate": "202512310800",
         "date": "20251231",
         "url": "https://www.bing.com/th?id=OHR.GermanyNewYear_EN-US6344260060_1920x1080.jpg",
@@ -71,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SantaGlobe_EN-US5819361091",
         "copyright": "Snow globes at a Christmas market in Heidelberg, Germany (© George Pachantouris/Getty Images)",
         "copyrightKeyword": "Christmas",
-        "hsh": "be96bcd05849a722854dafcb3790967e",
-        "description": "Beneath Heidelberg's winter sky in Germany, stalls sparkle with snow globes, each capturing the spirit of the season in a miniature world. Today, Christmas—a Christian celebration of faith, light, and togetherness—invites us to welcome warmth and joy into the coldest days of the year. Across continents, candles glow on windowsills and garlands twine through homes and streets.",
-        "maplink": "49.402892,8.679985"
-    },
-    {
-        "fullstartdate": "202512240800",
-        "date": "20251224",
-        "url": "https://www.bing.com/th?id=OHR.ElmauChapel_EN-US5704228113_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ElmauChapel_EN-US5704228113",
-        "copyright": "Snowy chapel with Christmas tree in the Bavarian Alps, Germany (© mauritius images GmbH/Alamy)",
-        "copyrightKeyword": "Christmas Eve",
-        "hsh": "4021bc5ce35a341bfb8e5cf4d5fa584a"
+        "hsh": "be96bcd05849a722854dafcb3790967e"
     }
 ]

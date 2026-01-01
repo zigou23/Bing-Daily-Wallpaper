@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202601012300",
+        "date": "20260102",
+        "url": "https://www.bing.com/th?id=OHR.VeniceView_ES-ES3506593808_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.VeniceView_ES-ES3506593808",
+        "copyright": "Vista aérea de Venecia, Véneto, Italia (© Clement Leonard/Getty Images)",
+        "copyrightKeyword": "Venecia Italia",
+        "hsh": "88f0c6fe36b5df91947e93f917e0d14a",
+        "description": "Ver Venecia desde arriba es hipnotizante, pero la verdadera magia de esta joya italiana se encuentra dentro de sus muros y canales. Fundada en el siglo V sobre un conjunto de islas de la Laguna de Venecia, la ciudad surgió de los pantanos y se convirtió en una potencia marítima. En la Edad Media, evolucionó hasta convertirse en un importante centro de comercio entre Europa y Oriente, lo que alimentó una gran riqueza y un notable crecimiento cultural. La grandeza de la ciudad se refleja en sus palacios góticos, su arte renacentista y monumentos como la basílica de San Marcos, el Palacio Ducal y el puente de Rialto."
+    },
+    {
         "fullstartdate": "202512312300",
         "date": "20260101",
         "url": "https://www.bing.com/th?id=OHR.NewYearFox_ES-ES1089834689_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.WiltshireDawn_ES-ES4611953486",
         "copyright": "Catedral de Salisbury, Wiltshire, Inglaterra (© Julian Elliott Photography/Getty Images)",
         "copyrightKeyword": "Catedral de Salisbury",
-        "hsh": "6175215d407fe5510497d638d1880623",
-        "description": "Hoy contemplamos la majestuosa Catedral de Salisbury, ubicada en Wiltshire, Inglaterra. Esta obra maestra del gótico inglés se alza con elegancia desde el siglo XIII, destacando por su aguja, la más alta del Reino Unido con 123 metros. Su construcción, realizada en apenas 38 años, es un logro excepcional para la época. Además de su imponente arquitectura, Salisbury guarda uno de los tesoros más valiosos de la historia: una copia original de la Carta Magna de 1215, símbolo de derechos y libertades. Rodeada por el pintoresco Close, la catedral no solo es un lugar de culto, sino también un espacio donde la historia, el arte y la espiritualidad se entrelazan, atrayendo a visitantes de todo el mundo."
-    },
-    {
-        "fullstartdate": "202512242300",
-        "date": "20251225",
-        "url": "https://www.bing.com/th?id=OHR.SantaGlobe_ES-ES4718622311_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SantaGlobe_ES-ES4718622311",
-        "copyright": "Bolas de nieve en un mercado navideño en Heidelberg, Alemania (© George Pachantouris/Getty Images)",
-        "copyrightKeyword": "Dia de Navidad",
-        "hsh": "8a4cd743b6f5eabd5cc8fa4b5dccb647"
+        "hsh": "6175215d407fe5510497d638d1880623"
     }
 ]

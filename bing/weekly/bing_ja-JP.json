@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202601011500",
+        "date": "20260102",
+        "url": "https://www.bing.com/th?id=OHR.VeniceView_JA-JP5599144263_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.VeniceView_JA-JP5599144263",
+        "copyright": "ヴェネツィア, イタリア (© Clement Leonard/Getty Images)",
+        "copyrightKeyword": "ヴェネツィア",
+        "hsh": "1bd3a5ec114f3888b9bf78ba978829ce",
+        "description": "ここはイタリアのヴェネツィア。その歴史は古く、5 世紀頃、異民族の侵攻から逃れたイタリア本土の人々が、アドリア海のラグーナへ避難したことから始まりました。そして、中世には東西貿易の中心地として繁栄し、強力な海上帝国へと成長しました…",
+        "maplink": "45.4397,12.3319"
+    },
+    {
         "fullstartdate": "202512311500",
         "date": "20260101",
         "url": "https://www.bing.com/th?id=OHR.NewYearSunrise2026_JA-JP4680541723_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.WiltshireDawn_JA-JP8756136772",
         "copyright": "ソールズベリー大聖堂, イングランド (© Julian Elliott Photography/Getty Images)",
         "copyrightKeyword": "ソールズベリー大聖堂",
-        "hsh": "ee168e9d80a31228afc9daa1c736a982",
-        "description": "今日 12 月 26 日はボクシング・デー。イギリスやカナダなど、主にコモンウェルス諸国（英連邦諸国）で祝われる休日です。その起源には諸説ありますが、クリスマスにも仕事をする必要のあった使用人たちに対し、雇用主が休暇を与え、感謝の贈り物を箱に入れて渡したことが始まりともいわれています。現在では、バーゲンセールが行われたり、スポーツ観戦などを楽しむ地域もあります…",
-        "maplink": "51.064991,-1.797319"
-    },
-    {
-        "fullstartdate": "202512241500",
-        "date": "20251225",
-        "url": "https://www.bing.com/th?id=OHR.SantaGlobe_JA-JP3196648040_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SantaGlobe_JA-JP3196648040",
-        "copyright": "クリスマスマーケットのスノードーム, ドイツ (© George Pachantouris/Getty Images)",
-        "copyrightKeyword": "クリスマスマーケット, ドイツ",
-        "hsh": "5ebdd342c14fed1a9a17de42f0909441"
+        "hsh": "ee168e9d80a31228afc9daa1c736a982"
     }
 ]

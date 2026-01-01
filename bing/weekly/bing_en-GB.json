@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202601010000",
+        "date": "20260101",
+        "url": "https://www.bing.com/th?id=OHR.NewYearFox_EN-GB6138913529_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.NewYearFox_EN-GB6138913529",
+        "copyright": "Arctic fox sleeping (© Chansak Joe/Getty Images)",
+        "copyrightKeyword": "New Years Day",
+        "hsh": "4333d50b5d187b4a0b07cfece647d91f",
+        "description": "Do you feel as if you have a whole year's worth of rest to catch up on? Then you can relate to this Arctic fox, cosily tucked among the rocky outcroppings of the frozen tundra. Whether the new year greets you with biting cold or under a warm sun, take five extra minutes to stretch before diving into the 365 days ahead."
+    },
+    {
         "fullstartdate": "202512310000",
         "date": "20251231",
         "url": "https://www.bing.com/th?id=OHR.Hogmanay2025_EN-GB7784153227_1920x1080.jpg",
@@ -71,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SantaGlobe_EN-GB2190475589",
         "copyright": "Snow globes at a Christmas market in Heidelberg, Germany (© George Pachantouris/Getty Images)",
         "copyrightKeyword": "Christmas",
-        "hsh": "7d1998c599c8749b7fb2b917c5110e59",
-        "description": "Beneath Heidelberg's winter sky in Germany, stalls sparkle with snow globes, each capturing the spirit of the season in a miniature world. Today, Christmas—a Christian celebration of faith, light and togetherness—invites us to welcome warmth and joy into the coldest days of the year. Across continents, candles glow on windowsills and garlands twine through homes and streets. Evergreen trees stand adorned, their branches heavy with ornaments and gifts waiting quietly beneath.",
-        "maplink": "49.402892,8.679985"
-    },
-    {
-        "fullstartdate": "202512240000",
-        "date": "20251224",
-        "url": "https://www.bing.com/th?id=OHR.ElmauChapel_EN-GB2006634958_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ElmauChapel_EN-GB2006634958",
-        "copyright": "Snowy chapel with Christmas tree in the Bavarian Alps, Germany (© mauritius images GmbH/Alamy)",
-        "copyrightKeyword": "Christmas Eve",
-        "hsh": "3840750a44eb5847e1fcaf4c3c641960"
+        "hsh": "7d1998c599c8749b7fb2b917c5110e59"
     }
 ]

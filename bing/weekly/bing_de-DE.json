@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202601012300",
+        "date": "20260102",
+        "url": "https://www.bing.com/th?id=OHR.VeniceView_DE-DE5335643211_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.VeniceView_DE-DE5335643211",
+        "copyright": "Luftaufnahme von Venedig, Italien (© Clement Leonard/Getty Images)",
+        "copyrightKeyword": "Venedig Italien",
+        "hsh": "cc62913501433dcb75e71f7f35190292",
+        "description": "Die Stadt der Kanäle, Venedig, gehört zu den faszinierendsten Reisezielen der Welt. Sie wurde auf mehr als 100 kleinen Inseln in einer Lagune der Adria errichtet und besitzt keine Straßen, sondern ein Netz von Kanälen, die mit Gondeln und Vaporetto-Booten befahren werden. Ihre Geschichte als maritime Macht im Mittelalter und in der Renaissance machte sie zu einem bedeutenden kulturellen und wirtschaftlichen Zentrum. Bemerkenswert ist, dass die Stadt auf Tausenden von Holzpfählen errichtet wurde, die die Gebäude tragen, und dass ihre Kanäle wie echte Straßen funktionieren. Heute bewundern wir auf einer Luftaufnahme die Schönheit dieser Stadt mit ihren Brücken, Kanälen und ihrer einzigartigen Architektur.",
+        "maplink": "45.4397,12.3319"
+    },
+    {
         "fullstartdate": "202512312300",
         "date": "20260101",
         "url": "https://www.bing.com/th?id=OHR.LoisachWinter_DE-DE1878852056_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.WiltshireDawn_DE-DE2989262973",
         "copyright": "Kathedrale von Salisbury, Wiltshire, England (© Julian Elliott Photography/Getty Images)",
         "copyrightKeyword": "Zweiter Weihnachtsfeiertag",
-        "hsh": "dfdd5d4bbd5a50130f1383bd6aadedb3",
-        "description": "Wussten Sie, dass am 26. Dezember in Teilen des Commonwealth, also in Ländern, die historisch mit dem Vereinigten Königreich verbunden sind, der sogenannte Boxing Day gefeiert wird? Der Brauch stammt ursprünglich aus dem viktorianischen Zeitalter in England. Damals erhielten Bedienstete und Bedürftige „Christmas Boxes“ mit kleinen Geschenken oder Geld und die Kirchen öffneten ihre Almosenboxen für Spenden.",
-        "maplink": "51.064991,-1.797319"
-    },
-    {
-        "fullstartdate": "202512242300",
-        "date": "20251225",
-        "url": "https://www.bing.com/th?id=OHR.SantaGlobe_DE-DE3146908571_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SantaGlobe_DE-DE3146908571",
-        "copyright": "Schneekugeln auf einem Weihnachtsmarkt in Heidelberg, Baden-Württemberg (© George Pachantouris/Getty Images)",
-        "copyrightKeyword": "Weihnachten",
-        "hsh": "d47b60cd5d8a20755921a57439cd175c"
+        "hsh": "dfdd5d4bbd5a50130f1383bd6aadedb3"
     }
 ]
