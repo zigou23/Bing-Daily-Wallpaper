@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202601022300",
+        "date": "20260103",
+        "url": "https://www.bing.com/th?id=OHR.LauterbrunnenValley_DE-DE9271807830_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LauterbrunnenValley_DE-DE9271807830",
+        "copyright": "Staubbachfälle in Lauterbrunnen, Kanton Bern, Schweiz (© pongnathee kluaythong/Getty Images)",
+        "copyrightKeyword": "Tolkien-Tag Januar",
+        "hsh": "20ffec3db6445d79ec7bce19a500a129",
+        "description": "Stellen Sie sich vor: Sie stehen im schweizerischen Lauterbrunnen – einem stillen Tal, eingerahmt von steilen Felswänden, über denen die Staubbachfälle wie silberne Fäden herabgleiten. Diese majestätischen Klippen, die glitzernden Wasserfälle und die klare Bergluft sollen bei dem britischen Schriftsteller J. R. R. Tolkien einen unauslöschlichen Eindruck hinterlassen und seine Vision von Rivendell, dem verborgenen Elbenrefugium in Mittelerde, inspiriert haben. Genau hier wanderte Tolkien im Jahr 1911 – lange bevor er „Der Herr der Ringe“ erschuf.",
+        "maplink": "46.591803,7.905319"
+    },
+    {
         "fullstartdate": "202601012300",
         "date": "20260102",
         "url": "https://www.bing.com/th?id=OHR.VeniceView_DE-DE5335643211_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SuperiorIceMN_DE-DE3366559163",
         "copyright": "Platteneis entlang des Oberen Sees, Grand Marais, Minnesota, USA (© wanderluster/Getty Images)",
         "copyrightKeyword": "Oberer See Minnesota",
-        "hsh": "f485389a8f838508676f0a933df1ced6",
-        "description": "Heute bewundern wir die beeindruckende Schönheit des Platteneises entlang des Oberen Sees bei Grand Marais, Minnesota, USA, ein Naturphänomen, das die Landschaft in ein winterliches Kunstwerk verwandelt. Der Obere See, der größte der Großen Seen und zugleich der flächenmäßig größte Süßwassersee der Welt, erreicht Tiefen von bis zu 406 Metern und enthält genug Wasser, um ganz Nordamerika mit mehr als 30 Zentimetern zu bedecken. Im Winter brechen extreme Temperaturen und eisige Winde die Oberfläche in riesige Eisplatten, die sich auftürmen und zerbrechen und dabei faszinierende geometrische Formen bilden. Dieses Schauspiel zieht nicht nur Fotografen und Abenteurer an, sondern erinnert auch an die Kraft und Zerbrechlichkeit der Natur in Regionen, in denen die Kälte den Horizont beherrscht.",
-        "maplink": "46.786549,-92.098114"
-    },
-    {
-        "fullstartdate": "202512252300",
-        "date": "20251226",
-        "url": "https://www.bing.com/th?id=OHR.WiltshireDawn_DE-DE2989262973_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WiltshireDawn_DE-DE2989262973",
-        "copyright": "Kathedrale von Salisbury, Wiltshire, England (© Julian Elliott Photography/Getty Images)",
-        "copyrightKeyword": "Zweiter Weihnachtsfeiertag",
-        "hsh": "dfdd5d4bbd5a50130f1383bd6aadedb3"
+        "hsh": "f485389a8f838508676f0a933df1ced6"
     }
 ]

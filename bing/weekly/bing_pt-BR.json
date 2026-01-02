@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202601020300",
+        "date": "20260102",
+        "url": "https://www.bing.com/th?id=OHR.VeniceView_PT-BR5561968411_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.VeniceView_PT-BR5561968411",
+        "copyright": "Vista aérea de Veneza, Itália (© Clement Leonard/Getty Images)",
+        "copyrightKeyword": "veneza",
+        "hsh": "6f5d10f0adc5b5262402e7cd63c959b9",
+        "description": "Vista do alto, Veneza parece um labirinto mágico cercado por água — mas seu verdadeiro encanto está nas ruas e canais históricos. Fundada no século V sobre um conjunto de ilhas na Lagoa Veneziana, a cidade nasceu em meio a áreas pantanosas e se transformou em uma potência marítima. Na Idade Média, tornou-se um centro vital de comércio entre a Europa e o Oriente, acumulando riqueza e impulsionando um florescimento cultural sem igual."
+    },
+    {
         "fullstartdate": "202601010300",
         "date": "20260101",
         "url": "https://www.bing.com/th?id=OHR.NewYearFox_PT-BR5772637703_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.WiltshireDawn_PT-BR7681463999",
         "copyright": "Catedral de Salisbury, Wiltshire, Inglaterra (© Julian Elliott Photography/Getty Images)",
         "copyrightKeyword": "boxing day, feriado secular",
-        "hsh": "ad1fdbb3bf63889ace1ca22a4e82cc0e",
-        "description": "No Brasil, o dia 26 de dezembro costuma ser apenas o “dia seguinte ao Natal”, marcado por descanso, passeios e, claro, liquidações. Mas em países como Reino Unido, Austrália, África do Sul e outros, essa data tem um nome e uma tradição própria: Boxing Day."
-    },
-    {
-        "fullstartdate": "202512250300",
-        "date": "20251225",
-        "url": "https://www.bing.com/th?id=OHR.XmasRio_PT-BR9436214235_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.XmasRio_PT-BR9436214235",
-        "copyright": "Árvore de Natal na cidade do Rio de Janeiro (© Ruy Barbosa Pinto/Getty Images)",
-        "copyrightKeyword": "o Natal",
-        "hsh": "3cfd446bb7b1e9e345349d84bf5fead9"
+        "hsh": "ad1fdbb3bf63889ace1ca22a4e82cc0e"
     }
 ]

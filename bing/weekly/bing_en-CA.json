@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202601020500",
+        "date": "20260102",
+        "url": "https://www.bing.com/th?id=OHR.VeniceView_EN-CA3561004758_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.VeniceView_EN-CA3561004758",
+        "copyright": "Aerial view of Venice, Italy (© Clement Leonard/Getty Images)",
+        "copyrightKeyword": "Venice Italy",
+        "hsh": "197e10329b3be1eefe9d338698337a88",
+        "description": "Seeing Venice from above is mesmerising, but this Italian gem's true magic lies within its walls and waterways. Founded in the 5th century on a cluster of islands in the Venetian Lagoon, the early settlement rose from marshland to become a maritime powerhouse. By the Middle Ages, it had evolved into a major hub for trade between Europe and the East, fuelling immense wealth and cultural growth. The city's grandeur shines through its Gothic palaces, Renaissance art and landmarks such as St. Mark's Basilica, the Doge's Palace and the Rialto Bridge.",
+        "maplink": "45.4397,12.3319"
+    },
+    {
         "fullstartdate": "202601010500",
         "date": "20260101",
         "url": "https://www.bing.com/th?id=OHR.NewYearFox_EN-CA1770167062_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.WiltshireDawn_EN-CA2897648825",
         "copyright": "Salisbury Cathedral, Wiltshire, England (© Julian Elliott Photography/Getty Images)",
         "copyrightKeyword": "Boxing Day",
-        "hsh": "0320a04ee4894490aeb1cd5cbb2f2182",
-        "description": "The best thing about Boxing Day is that it doesn't ask much of you. No big countdown. No dramatic unwrapping. No last-minute dashes for batteries. It's a rare holiday that says, 'Sit down, finish your leftovers and take a moment.' Celebrated on December 26 in Canada, United Kingdom and some Commonwealth countries, it's a national cool-down after Christmas has done all the heavy lifting. The term goes back to Victorian Britain, when households prepared Christmas boxes for workers and tradespeople—tokens of thanks that ranged from coins to essentials. Churches joined in by opening alms boxes and distributing donations.",
-        "maplink": "51.064991,-1.797319"
-    },
-    {
-        "fullstartdate": "202512250500",
-        "date": "20251225",
-        "url": "https://www.bing.com/th?id=OHR.XmasTree_EN-CA1915827603_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.XmasTree_EN-CA1915827603",
-        "copyright": "Christmas trees in Old Quebec (© Jean Surprenant/Getty Images)",
-        "copyrightKeyword": "Christmas",
-        "hsh": "ec4720cc2d471049dbb3942dbfde0a3b"
+        "hsh": "0320a04ee4894490aeb1cd5cbb2f2182"
     }
 ]
