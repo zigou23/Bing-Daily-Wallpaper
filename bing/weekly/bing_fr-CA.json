@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202601030500",
+        "date": "20260103",
+        "url": "https://www.bing.com/th?id=OHR.LauterbrunnenValley_FR-CA9163124101_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LauterbrunnenValley_FR-CA9163124101",
+        "copyright": "Chute de Staubbach à Lauterbrunnen, canton de Berne, Suisse (© pongnathee kluaythong/Getty Images)",
+        "copyrightKeyword": "JRR Tolkien",
+        "hsh": "824148c99fc7b10f2c69b3825161d1db",
+        "description": "Au cœur de la vallée suisse de Lauterbrunnen, quand le soleil d’hiver effleure les falaises et que la chute de Staubbach se déploie en voile d’argent, on comprend pourquoi tant de voyageurs parlent de révélation. Avec ses 297 mètres, cette cascade est l’un des plus spectaculaires d’Europe. Elle a inspiré Goethe et, bien plus tard, un jeune randonneur anglais : J.R.R. Tolkien. En 1911, à 19 ans, il arpenta ces sentiers sans imaginer que ces parois abruptes et ces forêts nourriraient la vision de Fondcombe, le refuge elfique des Monts Brumeux du célèbre roman « Le Seigneur des Anneaux ».",
+        "maplink": "46.591803,7.905319"
+    },
+    {
         "fullstartdate": "202601020500",
         "date": "20260102",
         "url": "https://www.bing.com/th?id=OHR.VeniceView_FR-CA2042016307_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SuperiorIceMN_FR-CA4583430929",
         "copyright": "Plaques de glace sur le lac Supérieur, Minnesota, États-Unis (© wanderluster/Getty Images)",
         "copyrightKeyword": "Lac Supérieur États Unis",
-        "hsh": "aa1c760680c6212f3afc83a8ff80872d",
-        "description": "Quand l’hiver s’empare du lac Supérieur, au nord du Minnesota, aux États-Unis, le rivage se métamorphose en une mosaïque de plaques cristallines. Ces fines feuilles de glace, fragilisées par les variations de température, se fracturent, dérivent et s’empilent sous l’impulsion du vent. Le résultat : un paysage de bleus translucides et d’éclats argentés, où la lumière accroche chaque arête comme sur une sculpture éphémère.",
-        "maplink": "46.786549,-92.098114"
-    },
-    {
-        "fullstartdate": "202512260500",
-        "date": "20251226",
-        "url": "https://www.bing.com/th?id=OHR.WiltshireDawn_FR-CA4133487819_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WiltshireDawn_FR-CA4133487819",
-        "copyright": "Cathédrale de Salisbury, Wiltshire, Angleterre (© Julian Elliott Photography/Getty Images)",
-        "copyrightKeyword": "Boxing Day",
-        "hsh": "d82d76a6555274957b705c6cedef07a6"
+        "hsh": "aa1c760680c6212f3afc83a8ff80872d"
     }
 ]

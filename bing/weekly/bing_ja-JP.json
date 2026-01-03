@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202601031500",
+        "date": "20260104",
+        "url": "https://www.bing.com/th?id=OHR.KingMountain_JA-JP5338011772_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.KingMountain_JA-JP5338011772",
+        "copyright": "キングスマウンテン, 米国 アラスカ州 (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)",
+        "copyrightKeyword": "Kings Mountain, Alaska",
+        "hsh": "d6e31257532049f5861dcf3849a38cdb",
+        "description": "米国アラスカ州南部に広がる雄大なチュガッチ山脈。全長約 402km、幅約 97km に及び、平均標高は約 1,221m です。山頂の多くは標高が特別に高いわけではありませんが、アラスカ湾沿いに位置するため、世界でも有数の降雪地域であり、場所によっては年間降雪量が 1,500cm を超えることもあります…",
+        "maplink": "61.888011,-148.473576"
+    },
+    {
         "fullstartdate": "202601021500",
         "date": "20260103",
         "url": "https://www.bing.com/th?id=OHR.LauterbrunnenValley_JA-JP5166517859_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MistyPineForest_JA-JP0902135263",
         "copyright": "アルザス地域圏の森, フランス (© alekseystemmer/Getty Images)",
         "copyrightKeyword": "アルザス地域圏",
-        "hsh": "25419a9df151865353ee3d57a3d1a131",
-        "description": "フランスの北東部に位置するアルザス地域圏。長い間、フランスとドイツの間で領有権が争われてきた地域で、文化や建築に両国の影響が色濃く残っています。首府ストラスブールには世界遺産に登録された旧市街と壮麗な大聖堂があり、人気の観光地として多くの人々を魅了しています…",
-        "maplink": "48.5,7.5"
-    },
-    {
-        "fullstartdate": "202512261500",
-        "date": "20251227",
-        "url": "https://www.bing.com/th?id=OHR.SuperiorIceMN_JA-JP0628295807_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SuperiorIceMN_JA-JP0628295807",
-        "copyright": "凍結するスペリオル湖, 米国 ミネソタ州 (© wanderluster/Getty Images)",
-        "copyrightKeyword": "凍結するスペリオル湖",
-        "hsh": "669f2865d77025832350a2bae12d190b"
+        "hsh": "25419a9df151865353ee3d57a3d1a131"
     }
 ]

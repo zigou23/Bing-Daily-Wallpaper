@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202601030800",
+        "date": "20260103",
+        "url": "https://www.bing.com/th?id=OHR.LauterbrunnenValley_EN-US6594933852_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LauterbrunnenValley_EN-US6594933852",
+        "copyright": "Staubbach Falls at Lauterbrunnen, Canton of Bern, Switzerland (© pongnathee kluaythong/Getty Images)",
+        "copyrightKeyword": "JRR Tolkien Day",
+        "hsh": "8d1d7f62ef11d8ea4b7a9e312d06a839",
+        "description": "Our picture of the day takes us to the Swiss village of Lauterbrunnen, where the Staubbach Falls shimmers in the distance beyond a quiet alpine valley. This is the landscape a young traveler, J.R.R. Tolkien, crossed during a hiking trip in 1911, long before he became the storyteller behind 'The Lord of the Rings' and 'The Hobbit.' Its soaring cliffs, silver waterfalls, and crisp mountain air left a lasting impression and are believed to have inspired his vision of Rivendell, the elven refuge hidden deep in Middle-earth.",
+        "maplink": "46.591803,7.905319"
+    },
+    {
         "fullstartdate": "202601020800",
         "date": "20260102",
         "url": "https://www.bing.com/th?id=OHR.VeniceView_EN-US3244163136_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SuperiorIceMN_EN-US5952266924",
         "copyright": "Plate ice along Lake Superior, Grand Marais, Minnesota (© wanderluster/Getty Images)",
         "copyrightKeyword": "Lake Superior Minnesota",
-        "hsh": "4113c42d1010f7cbf1aeb1c553b3da00",
-        "description": "When winter tightens its grip on Lake Superior in Minnesota, the shoreline transforms into a landscape of tilted, glass-like shards known as plate ice. Thin sheets fracture under shifting temperatures, then drift and stack as the wind presses them toward land. The result is a field of translucent blues and silvers, catching the light at sharp angles and making the water's edge appear sculpted rather than frozen.",
-        "maplink": "46.786549,-92.098114"
-    },
-    {
-        "fullstartdate": "202512260800",
-        "date": "20251226",
-        "url": "https://www.bing.com/th?id=OHR.WiltshireDawn_EN-US5663179833_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WiltshireDawn_EN-US5663179833",
-        "copyright": "Salisbury Cathedral, Wiltshire, England (© Julian Elliott Photography/Getty Images)",
-        "copyrightKeyword": "Boxing Day",
-        "hsh": "880bdcc06f9c9505349f3c8714048764"
+        "hsh": "4113c42d1010f7cbf1aeb1c553b3da00"
     }
 ]
