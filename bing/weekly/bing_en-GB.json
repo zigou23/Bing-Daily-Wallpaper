@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202601040000",
+        "date": "20260104",
+        "url": "https://www.bing.com/th?id=OHR.KingMountain_EN-GB6606181740_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.KingMountain_EN-GB6606181740",
+        "copyright": "Kings Mountain, Chugach Mountains, Alaska, United States (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)",
+        "copyrightKeyword": "Kings Mountain Chugach Mountains",
+        "hsh": "7cc4ab2321cd0fdd9ae339a9e993de99",
+        "description": "Kings Mountain in Chugach Mountains of Alaska, United States, isn't just another bump on the horizon—it's the kind of rugged beauty that makes you slow down and stare. Rising over 1,700 metres and sitting roughly 22 miles northeast of Palmer, this peak towers over mile 75 of the Glenn Highway, a route famous for its dramatic scenery. Its slopes bear the marks of ancient glaciers, etched into ridges and valleys that seem tailor-made for adventure.",
+        "maplink": "61.17,-145.33"
+    },
+    {
         "fullstartdate": "202601030000",
         "date": "20260103",
         "url": "https://www.bing.com/th?id=OHR.LauterbrunnenValley_EN-GB6435045286_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.RuffedLemur_EN-GB1541311205",
         "copyright": "Black-and-white ruffed lemur in Madagascar (© Cyrielle Beaubois/Getty Images)",
         "copyrightKeyword": "Black and white ruffed lemur",
-        "hsh": "a8e2f96069d03c280ae9d0fc77729971",
-        "description": "One moment the canopy is still and the next a burst of black and white shoots through it like a living exclamation mark. That's the black-and-white ruffed lemur, a primate that doesn't shy away from announcing itself with raucous calls. Its coat comes in bold patches and the thick ruff frames its face.",
-        "maplink": "-20,47"
-    },
-    {
-        "fullstartdate": "202512270000",
-        "date": "20251227",
-        "url": "https://www.bing.com/th?id=OHR.SuperiorIceMN_EN-GB1375934148_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SuperiorIceMN_EN-GB1375934148",
-        "copyright": "Plate ice along Lake Superior, Grand Marais, Minnesota, United States (© wanderluster/Getty Images)",
-        "copyrightKeyword": "Lake Superior Minnesota",
-        "hsh": "3ef912ba102ab2207e9eb8840d22f21d"
+        "hsh": "a8e2f96069d03c280ae9d0fc77729971"
     }
 ]

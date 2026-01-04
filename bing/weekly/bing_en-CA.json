@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202601040500",
+        "date": "20260104",
+        "url": "https://www.bing.com/th?id=OHR.KingMountain_EN-CA4077888886_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.KingMountain_EN-CA4077888886",
+        "copyright": "Kings Mountain, Chugach Mountains, Alaska, United States (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)",
+        "copyrightKeyword": "Kings Mountain Chugach Mountains",
+        "hsh": "010985cf950d89f9c0b670e211097f6e",
+        "description": "Kings Mountain in Alaska's Chugach Mountains isn't just another bump on the horizon—it's the kind of rugged beauty that makes you slow down and stare. Rising over 1,700 metres and sitting roughly 35 kilometres northeast of Palmer, this peak towers over mile 75 of the Glenn Highway, a route famous for its dramatic scenery. Its slopes bear the marks of ancient glaciers, etched into ridges and valleys that seem tailor-made for adventure.",
+        "maplink": "61.17,-145.33"
+    },
+    {
         "fullstartdate": "202601030500",
         "date": "20260103",
         "url": "https://www.bing.com/th?id=OHR.LauterbrunnenValley_EN-CA6661114892_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.RuffedLemur_EN-CA4162667065",
         "copyright": "Black-and-white ruffed lemur in Madagascar (© Cyrielle Beaubois/Getty Images)",
         "copyrightKeyword": "Black-and-white ruffed lemur",
-        "hsh": "0a919ade14416d7ff4ce89509535318e",
-        "description": "One moment the canopy is still, and the next, a burst of black and white shoots through it like a living exclamation mark. That's the black-and-white ruffed lemur, a primate that doesn't shy away from announcing itself with raucous calls. Its coat comes in bold patches, and the thick ruff frames its face. Roughly 92% of the lemur's diet is fruit, with leaves, nectar, seeds and the occasional fungus making up the rest. When trees are heavy with figs and other seasonal offerings, this creature moves quickly through the dense forest. As it laps up nectar, pollen sticks to its snout, turning it into one of the habitat's most effective pollinators.",
-        "maplink": "-20,47"
-    },
-    {
-        "fullstartdate": "202512270500",
-        "date": "20251227",
-        "url": "https://www.bing.com/th?id=OHR.SuperiorIceMN_EN-CA3067089531_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SuperiorIceMN_EN-CA3067089531",
-        "copyright": "Plate ice along Lake Superior, Grand Marais, Minnesota, United States (© wanderluster/Getty Images)",
-        "copyrightKeyword": "Lake Superior Minnesota",
-        "hsh": "7ccbe2882f91d89faa5ca6ffb3a8824b"
+        "hsh": "0a919ade14416d7ff4ce89509535318e"
     }
 ]

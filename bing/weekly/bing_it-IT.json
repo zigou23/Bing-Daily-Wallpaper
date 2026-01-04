@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202601042300",
+        "date": "20260105",
+        "url": "https://www.bing.com/th?id=OHR.NuukGreenland_IT-IT0748358151_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.NuukGreenland_IT-IT0748358151",
+        "copyright": "Nuuk, Groenlandia (© nevereverro/Getty Images)",
+        "copyrightKeyword": "Nuuk Groenlandia",
+        "hsh": "0152f7952631463017435699c69a378e",
+        "description": "Nuuk, capitale della Groenlandia, conserva ancora il respiro del passato: la casa di Hans Egede e la Cattedrale di legno rosso raccontano il XVIII secolo, mentre il Museo Nazionale custodisce artefatti inuit e le mummie di Qilakitsoq, silenziose testimoni di un’isola antica. Persino l’unico campo da golf artico al mondo trova spazio tra montagne e mare, come un segno di modernità in un paesaggio senza tempo.",
+        "maplink": "64.175,-51.73333"
+    },
+    {
         "fullstartdate": "202601032300",
         "date": "20260104",
         "url": "https://www.bing.com/th?id=OHR.KingMountain_IT-IT1181015259_1920x1080.jpg",
@@ -69,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AniTurkey_IT-IT1549681594",
         "copyright": "Chiesa di San Gregorio nelle rovine di Ani, Kars, Turchia (© Kenan Talas/Getty Images)",
         "copyrightKeyword": "Ani città",
-        "hsh": "aea7bbadd678f6da999cd24dd22a3190",
-        "description": "Su un altopiano battuto dal vento, nell’est della Turchia, al confine con l’Armenia, le rovine di Ani si stagliano nitide contro l’orizzonte. La Chiesa di San Gregorio, costruita in scura pietra vulcanica, innalza ancora la sua torre cilindrica, come un faro che veglia sul silenzio della pianura. Un tempo Ani era chiamata la “Città delle mille e una Chiese”: i suoi architetti sperimentavano archi e cupole, facciate e geometrie che avrebbero ispirato tradizioni lontane, fino al gotico europeo. Anche ora, tra le crepe e le rovine, la loro mano si riconosce, decisa e inconfondibile.",
-        "maplink": "40.3307,42.572102"
-    },
-    {
-        "fullstartdate": "202512272300",
-        "date": "20251228",
-        "url": "https://www.bing.com/th?id=OHR.RuffedLemur_IT-IT1435281157_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.RuffedLemur_IT-IT1435281157",
-        "copyright": "Lemure dal collare bianco e nero, Madagascar (© Cyrielle Beaubois/Getty Images)",
-        "copyrightKeyword": "Lemure varecia (Varecia variegata)",
-        "hsh": "d8c04eac2818a1a312345fb05dce3636"
+        "hsh": "aea7bbadd678f6da999cd24dd22a3190"
     }
 ]
