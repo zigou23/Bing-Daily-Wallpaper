@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202601051500",
+        "date": "20260106",
+        "url": "https://www.bing.com/th?id=OHR.NuukGreenland_JA-JP5673892352_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.NuukGreenland_JA-JP5673892352",
+        "copyright": "ヌーク, デンマーク (© nevereverro/Getty Images)",
+        "copyrightKeyword": "ヌーク, グリーンランド",
+        "hsh": "785c0e4cbf882a16c1aead38c832ed04",
+        "description": "北極圏の神秘的な島、グリーンランドの最大の都市、ヌーク。1728 年にデンマークの宣教師ハンス・エゲデによって設立されましたが、紀元前 2000 年頃には、すでにこの地には現在のイヌイットへとつながる北極圏の先住民が暮らしていました。そのため、イヌイットをはじめとする先住民の伝統とモダニティが融合した独自の雰囲気が漂っています…",
+        "maplink": "65.610133,-51.35144"
+    },
+    {
         "fullstartdate": "202601041500",
         "date": "20260105",
         "url": "https://www.bing.com/th?id=OHR.ImpalaRooibok_JA-JP8577579873_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.JapanSwans_JA-JP3625883145",
         "copyright": "古徳沼, 茨城県 那珂市 (© Martin Bailey/Shutterstock)",
         "copyrightKeyword": "古徳沼",
-        "hsh": "2f6c9343833017af24b364376e454a84",
-        "description": "夕焼けの空を優雅に渡るオオハクチョウ。夏はユーラシア大陸の北部で繁殖し、冬は日本、中国、韓国など温暖な地域に渡って越冬します。日本では北海道や東北地方の湖沼、河川でよく見られ、冬の風物詩として親しまれています…",
-        "maplink": "36.495674,140.441299"
-    },
-    {
-        "fullstartdate": "202512281500",
-        "date": "20251229",
-        "url": "https://www.bing.com/th?id=OHR.AniTurkey_JA-JP3058730246_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AniTurkey_JA-JP3058730246",
-        "copyright": "アブガムレンツ聖グリゴル教会, トルコ (© Kenan Talas/Getty Images)",
-        "copyrightKeyword": "アブガムレンツ聖グリゴル教会",
-        "hsh": "7284b5dfe57a4820fb39d9cbcdd4f695"
+        "hsh": "2f6c9343833017af24b364376e454a84"
     }
 ]

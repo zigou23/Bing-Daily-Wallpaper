@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202601052300",
+        "date": "20260106",
+        "url": "https://www.bing.com/th?id=OHR.EpiphanyDay_FR-FR4715294698_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.EpiphanyDay_FR-FR4715294698",
+        "copyright": "Château de Versailles, France (© Mistervlad/Shutterstock)",
+        "copyrightKeyword": "gallette des rois",
+        "hsh": "570acb995e58570fa57b18e1530142a2",
+        "description": "Face au Château de Versailles, chef-d’œuvre du Roi Soleil, on pense aux fastes et aux couronnes qui ont marqué l’histoire. Pourtant, le 6 janvier, une autre royauté s’invite à nos tables : celle de la galette des rois, dorée comme les salons du palais. Cette tradition, héritière des Saturnales romaines, s’est transformée en fête chrétienne célébrant l’Épiphanie et la visite des Rois mages.",
+        "maplink": "48.804878,2.120357"
+    },
+    {
         "fullstartdate": "202601042300",
         "date": "20260105",
         "url": "https://www.bing.com/th?id=OHR.ImpalaRooibok_FR-FR4421344601_1920x1080.jpg",
@@ -71,16 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.JapanSwans_FR-FR9912215229",
         "copyright": "Cygnes chanteurs, Kotoku, Japon (© Martin Bailey/Shutterstock)",
         "copyrightKeyword": "Cygnes chanteurs",
-        "hsh": "bb05a2adcb4b3d83eae82c29bbf5e7bd",
-        "description": "Quand l’hiver s’installe au Japon, un frisson parcourt les lacs avant même que le vent ne souffle. Puis, un cri clair fend le silence : les cygnes chanteurs sont arrivés. Leur appel puissant glisse sur l’eau, réveillant la saison froide. Ces voyageurs venus de Sibérie et de l’Extrême-Orient russe choisissent les rives japonaises comme refuge pour leurs eaux et leur nourriture."
-    },
-    {
-        "fullstartdate": "202512282300",
-        "date": "20251229",
-        "url": "https://www.bing.com/th?id=OHR.AniTurkey_FR-FR6681755589_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AniTurkey_FR-FR6681755589",
-        "copyright": "Église Saint-Grégoire à Ani, Kars, Turquie (© Kenan Talas/Getty Images)",
-        "copyrightKeyword": "ruines Ani Turquie",
-        "hsh": "9402fc9fc3f4f314020b52b6f09531b7"
+        "hsh": "bb05a2adcb4b3d83eae82c29bbf5e7bd"
     }
 ]
