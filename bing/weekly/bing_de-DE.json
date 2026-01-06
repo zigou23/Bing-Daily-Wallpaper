@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202601062300",
+        "date": "20260107",
+        "url": "https://www.bing.com/th?id=OHR.OldRockArch_DE-DE1434072687_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.OldRockArch_DE-DE1434072687",
+        "copyright": "Turret Arch, eingerahmt vom North Window im Arches-Nationalpark, Utah, USA (© Jim Patterson/TANDEM Stills + Motion)",
+        "copyrightKeyword": "Arches-Nationalpark Steinbögen",
+        "hsh": "050678b17d9b30887b99743289a4058d",
+        "description": "Im Arches-Nationalpark in Utah, USA, erhebt sich der Turret Arch wie ein steinernes Tor in längst vergangene Zeiten. Vom North Window aus betrachtet, wirkt die Szenerie wie ein lebendiges Gemälde: rote Sandsteinbögen, sanft vom Schnee überzogen, heben sich dramatisch vor dem tiefblauen Winterhimmel ab. Vor rund 150 Millionen Jahren lagerten sich hier gewaltige Sanddünen in flachen Meeren ab. Über Jahrmillionen formten Wind, Wasser und Frost die charakteristischen Öffnungen, die heute Besucher aus aller Welt in Staunen versetzen. Die klare Winterluft intensiviert die Farben, und die stille Weite des Parks lässt die Dimensionen der Erdgeschichte spürbar werden – ein Ort, an dem Zeit greifbar wird.",
+        "maplink": "39.319587,-109.759965"
+    },
+    {
         "fullstartdate": "202601052300",
         "date": "20260106",
         "url": "https://www.bing.com/th?id=OHR.NuukGreenland_DE-DE1784214919_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.GermanyNewYear_DE-DE8479244811",
         "copyright": "Silvester, Oberbaumbrücke, Berlin (© spreephoto.de/Getty Images)",
         "copyrightKeyword": "Silvester",
-        "hsh": "a545e92e3e5721bb0d01ce3ca9a6ed25",
-        "description": "Der Jahreswechsel rückt näher und Berlin bereitet sich auf eine Nacht voller Energie und Begegnungen vor. Das heutige Bild zeigt die Oberbaumbrücke, umrahmt von einem farbenprächtigen Feuerwerk – eine eindrucksvolle Mischung aus Geschichte und Gegenwart. Einst Grenzübergang, steht die Brücke heute für Offenheit und Zusammengehörigkeit und ist ein beliebter Ort, um die Lichter über der Spree zu genießen.",
-        "maplink": "52.50182,13.44573"
-    },
-    {
-        "fullstartdate": "202512292300",
-        "date": "20251230",
-        "url": "https://www.bing.com/th?id=OHR.JapanSwans_DE-DE3934541892_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.JapanSwans_DE-DE3934541892",
-        "copyright": "Singschwäne, Kotoku-Teich, Japan (© Martin Bailey/Shutterstock)",
-        "copyrightKeyword": "Singschwan",
-        "hsh": "f0e31d1780bd38f1163dc840e3491589"
+        "hsh": "a545e92e3e5721bb0d01ce3ca9a6ed25"
     }
 ]

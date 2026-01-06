@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202601060500",
+        "date": "20260106",
+        "url": "https://www.bing.com/th?id=OHR.NuukGreenland_EN-CA9507473966_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.NuukGreenland_EN-CA9507473966",
+        "copyright": "Nuuk, Greenland (© nevereverro/Getty Images)",
+        "copyrightKeyword": "Nuuk Greenland",
+        "hsh": "eb880b05c90fa5b2182f0897b49566cf",
+        "description": "Picture a city where your daily commute offers views of fjords, drifting ice and the Northern Lights. That's everyday life in Nuuk, the capital of Greenland—a small yet spirited Arctic hub blending Inuit heritage with Nordic modernity. Founded in 1728 by Danish-Norwegian missionary Hans Egede, it began as a small settlement called Godthaab—'Good Hope.'",
+        "maplink": "64.175,-51.73333"
+    },
+    {
         "fullstartdate": "202601050500",
         "date": "20260105",
         "url": "https://www.bing.com/th?id=OHR.ImpalaRooibok_EN-CA4394396103_1920x1080.jpg",
@@ -71,16 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.JapanSwans_EN-CA0491937119",
         "copyright": "Whooper swans, Kotoku Pond, Japan (© Martin Bailey/Shutterstock)",
         "copyrightKeyword": "Whooper swans",
-        "hsh": "314091af524fa4aac832e2b4bcc2472c",
-        "description": "In Japan's colder months, there's a morning moment when stillness breaks—not with wind or footsteps, but with a bright, rolling call that sweeps across the water. Whooper swans have touched down. One loud whoop—and winter suddenly feels awake. These birds migrate from Siberia and the Russian Far East, choosing Japan as their seasonal home because its lakes offer what long-distance travellers crave: open water, steady food and a safe place to rest. One of their favourite destinations is Kotoku Pond in the Kantō region on Japan's largest island."
-    },
-    {
-        "fullstartdate": "202512290500",
-        "date": "20251229",
-        "url": "https://www.bing.com/th?id=OHR.AniTurkey_EN-CA0360895261_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AniTurkey_EN-CA0360895261",
-        "copyright": "St. Gregory Church in Ani Ruins, Kars, Türkiye (© Kenan Talas/Getty Images)",
-        "copyrightKeyword": "Ani Ruins",
-        "hsh": "53646826fc991d770b8c85b072f7030d"
+        "hsh": "314091af524fa4aac832e2b4bcc2472c"
     }
 ]
