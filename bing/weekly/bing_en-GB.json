@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202601070000",
+        "date": "20260107",
+        "url": "https://www.bing.com/th?id=OHR.OldRockArch_EN-GB3921180413_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.OldRockArch_EN-GB3921180413",
+        "copyright": "Turret Arch framed by North Window in Arches National Park, Utah, United States (© Jim Patterson/TANDEM Stills + Motion)",
+        "copyrightKeyword": "Arches National Park Windows",
+        "hsh": "3ccc56c57f9a33d99fef7db07e88d8db",
+        "description": "Today is a day that puts time into perspective. Old Rock Day highlights the vast geological processes that have shaped our world since its earliest eras. In Arches National Park, Utah, United States, Turret Arch—seen through North Window—offers a striking reminder: landscapes can take hundreds of millions of years to assemble. The Entrada Sandstone that forms these arches began as shifting dunes and shallow seas long before erosion carved today's shapes. Even so, these formations are relatively young. Most rocks on Earth disappear over time because plate tectonics, erosion and volcanism continually recycle the crust. Only the planet's ancient continental shields preserve truly old material. Canada's Acasta Gneiss, about 4 billion years old, is the oldest known rock still rooted where it formed.",
+        "maplink": "39.319587,-109.759965"
+    },
+    {
         "fullstartdate": "202601060000",
         "date": "20260106",
         "url": "https://www.bing.com/th?id=OHR.NuukGreenland_EN-GB6899770664_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.Hogmanay2025_EN-GB7784153227",
         "copyright": "National Monument of Scotland, Edinburgh (© Serge_Bertasius/iStock/Getty Images)",
         "copyrightKeyword": "Hogmanay",
-        "hsh": "b8c75529daebe384c772287a1ff6dfbc",
-        "description": "Three… two… one… Hold that countdown—Scotland has its own way of ending the year, and it's called Hogmanay. Today, while most places squeeze their celebrations into a single night, Scotland stretches New Year's into a marathon of fire, music and tradition that can last three days. Hogmanay grew from winter rituals and Viking influence, becoming the main year-end festival when Christmas took a quieter back seat.",
-        "maplink": "55.95475,-3.1819"
-    },
-    {
-        "fullstartdate": "202512300000",
-        "date": "20251230",
-        "url": "https://www.bing.com/th?id=OHR.JapanSwans_EN-GB2256410683_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.JapanSwans_EN-GB2256410683",
-        "copyright": "Whooper swans, Kotoku Pond, Japan (© Martin Bailey/Shutterstock)",
-        "copyrightKeyword": "Whooper swans",
-        "hsh": "1416049ee8c1fd77322539da4e201363"
+        "hsh": "b8c75529daebe384c772287a1ff6dfbc"
     }
 ]

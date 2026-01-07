@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202601070800",
+        "date": "20260107",
+        "url": "https://www.bing.com/th?id=OHR.OldRockArch_EN-US2422589534_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.OldRockArch_EN-US2422589534",
+        "copyright": "Turret Arch framed by North Window in Arches National Park, Utah (© Jim Patterson/TANDEM Stills + Motion)",
+        "copyrightKeyword": "Arches National Park Windows",
+        "hsh": "f12e6a6d651f4d90794ba1f4c72f8b3a",
+        "description": "Today is a day that puts time into perspective. Old Rock Day highlights the vast geological processes that have shaped our world since its earliest eras. In Arches National Park, Utah, Turret Arch—seen through North Window—offers a striking reminder: landscapes can take hundreds of millions of years to assemble. The Entrada Sandstone that forms these arches began as shifting dunes and shallow seas long before erosion carved today's shapes. Even so, these formations are relatively young. Most rocks on Earth disappear over time because plate tectonics, erosion, and volcanism continually recycle the crust. Only the planet's ancient continental shields preserve truly old material. Canada's Acasta Gneiss, about 4 billion years old, is the oldest known rock still rooted where it formed.",
+        "maplink": "39.319587,-109.759965"
+    },
+    {
         "fullstartdate": "202601060800",
         "date": "20260106",
         "url": "https://www.bing.com/th?id=OHR.NuukGreenland_EN-US6879869782_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.GermanyNewYear_EN-US6344260060",
         "copyright": "New Year's Eve, Oberbaum Bridge, Berlin, Germany (© spreephoto.de/Getty Images)",
         "copyrightKeyword": "New Year's Eve",
-        "hsh": "6cf19389db52133b43d3eea63175f8ca",
-        "description": "Three… two… one… wait—hold that countdown. It's not New Year's yet, but the Oberbaum Bridge already feels as if Berlin hit its 'celebrate' button ahead of time. On this night, the bridge transforms from a simple river crossing into a runway where this city taxis toward midnight, engines humming, fireworks warming up, and the crowd collectively practicing its 'Happy New Year!' voice.",
-        "maplink": "52.50182,13.44573"
-    },
-    {
-        "fullstartdate": "202512300800",
-        "date": "20251230",
-        "url": "https://www.bing.com/th?id=OHR.JapanSwans_EN-US6228421340_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.JapanSwans_EN-US6228421340",
-        "copyright": "Whooper swans, Kotoku Pond, Japan (© Martin Bailey/Shutterstock)",
-        "copyrightKeyword": "Whooper swans",
-        "hsh": "801dc22821ab6d838894ef9abba17e1e"
+        "hsh": "6cf19389db52133b43d3eea63175f8ca"
     }
 ]
