@@ -1,12 +1,23 @@
 [
     {
+        "fullstartdate": "202601080500",
+        "date": "20260108",
+        "url": "https://www.bing.com/th?id=OHR.StarlingBrighton2025_EN-CA7438825716_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.StarlingBrighton2025_EN-CA7438825716",
+        "copyright": "Starling murmuration over the ruins of Brighton's West Pier, England (© Philip Reeve/Photodisc/Getty Images)",
+        "copyrightKeyword": "Starlings",
+        "hsh": "d9216939d14fe66458ad751013842e98",
+        "description": "When a bird is called a starling, you'd expect it to be a bit of a show-off. True to its name, this little creature knows how to steal the spotlight. From shimmering feathers that glint green and purple in the sun to its ability to mimic sounds, the starling is the headline act. Originally native to Europe and Asia, the common starling has spread across the globe.",
+        "maplink": "50.822063,-0.152842"
+    },
+    {
         "fullstartdate": "202601070500",
         "date": "20260107",
         "url": "https://www.bing.com/th?id=OHR.OldRockArch_EN-CA5672779401_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.OldRockArch_EN-CA5672779401",
         "copyright": "Turret Arch framed by North Window in Arches National Park, Utah, United States (© Jim Patterson/TANDEM Stills + Motion)",
         "copyrightKeyword": "Arches National Park Windows",
-        "hsh": "1fc64cb5ebb73725ab8f79260bd31757",
+        "hsh": "c0a48b919969a83d701fa9a09d8aa536",
         "description": "Today is a day that puts time into perspective. Old Rock Day highlights the vast geological processes that have shaped our world since its earliest eras. In Arches National Park, Utah, Turret Arch—seen through North Window—offers a striking reminder: landscapes can take hundreds of millions of years to assemble. The Entrada Sandstone that forms these arches began as shifting dunes and shallow seas long before erosion carved today's shapes. Even so, these formations are relatively young. Most rocks on Earth disappear over time because plate tectonics, erosion and volcanism continually recycle the crust. Only the planet's ancient continental shields preserve truly old material. Canada's Acasta Gneiss, about 4 billion years old, is the oldest known rock still rooted where it formed.",
         "maplink": "39.319587,-109.759965"
     },
@@ -72,16 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.NewYearFox_EN-CA1770167062",
         "copyright": "Arctic fox sleeping (© Chansak Joe/Getty Images)",
         "copyrightKeyword": "New Years Day",
-        "hsh": "eec0a3d0e5a7f681ed5391260aa9d354",
-        "description": "Do you feel as if you have a whole year's worth of rest to catch up on? Then you can relate to this Arctic fox, cosily tucked among the rocky outcroppings of the frozen tundra. Whether the new year greets you with biting cold or under a warm sun, take five extra minutes to stretch before diving into the 365 days ahead. Ever wondered why we have 365 days in a year? It's because the Gregorian calendar—introduced in 1582—is based on a solar year: the time it takes Earth to orbit the sun. The stars have our backs, but the plans we make for the months ahead are all on us."
-    },
-    {
-        "fullstartdate": "202512310500",
-        "date": "20251231",
-        "url": "https://www.bing.com/th?id=OHR.NYEToronto_EN-CA2554609222_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.NYEToronto_EN-CA2554609222",
-        "copyright": "New Year's Eve fireworks in Toronto (© LeoPatrizi/Getty Images)",
-        "copyrightKeyword": "New Years Eve",
-        "hsh": "a7f698e1137d3009b1c70b26de8c746a"
+        "hsh": "eec0a3d0e5a7f681ed5391260aa9d354"
     }
 ]

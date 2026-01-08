@@ -1,12 +1,23 @@
 [
     {
+        "fullstartdate": "202601082300",
+        "date": "20260109",
+        "url": "https://www.bing.com/th?id=OHR.MuirWoodsMonument_IT-IT0714561824_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MuirWoodsMonument_IT-IT0714561824",
+        "copyright": "Alberi di sequoia nel Muir Woods National Monument, California, USA (© photo by canderson/Getty Images)",
+        "copyrightKeyword": "Il Muir Woods National Monument",
+        "hsh": "3a15a6cb4e4ec06532331b2998f16ff0",
+        "description": "Entrate nel regno dei giganti, in cui un solo tronco racchiude secoli di storia e le sequoie costiere del Muir Woods National Monument, nello stato americano della California, si innalzano come colonne di una cattedrale naturale. Qui gli alberi più alti della Terra raggiungono quasi 80 metri. Molti hanno tra i 600 e gli 800 anni, alcuni superano il millennio, eppure sono ancora considerati “giovani” per una specie capace di vivere fino a 2.000 anni. La loro longevità è un prodigio di adattamento: infatti, una corteccia resistente li difende dal fuoco e dai parassiti, le radici si intrecciano con quelle vicine per stabilità, la nebbia estiva li disseta e i tronchi caduti nutrono nuova vita.",
+        "maplink": "37.897026,-122.581123"
+    },
+    {
         "fullstartdate": "202601072300",
         "date": "20260108",
         "url": "https://www.bing.com/th?id=OHR.StarlingBrighton2025_IT-IT4386633806_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.StarlingBrighton2025_IT-IT4386633806",
         "copyright": "Storni sopra le rovine del West Pier di Brighton, Inghilterra (© Philip Reeve/Photodisc/Getty Images)",
         "copyrightKeyword": "Sturnidi",
-        "hsh": "f6e38ef7f151e528d4f43b1886e2f049",
+        "hsh": "5d03845f96cb6362fa5578e97efdb466",
         "description": "Quando un uccello porta il nome di storno, ci si aspetta che ami mettersi in mostra. Fedele al suo nome, questa piccola creatura sa come rubare la scena. Dalle piume scintillanti che riflettono verde e viola al sole, fino alla sua capacità di imitare i suoni, lo storno è il protagonista assoluto. Originario dell’Europa e dell’Asia, lo storno comune si è diffuso in tutto il mondo. Nel XIX secolo, un gruppo di questi uccelli fu introdotto a Central Park, a New York, da un appassionato di specie citate nelle opere di Shakespeare.",
         "maplink": "50.822063,-0.152842"
     },
@@ -17,7 +28,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.OldRockArch_IT-IT4777755103",
         "copyright": "Arco Turret, North Window, Arches National Park, Utah, USA (© Jim Patterson/TANDEM Stills + Motion)",
         "copyrightKeyword": "Parco Nazionale degli Arches",
-        "hsh": "0d4c9c1a891ddc671828b9e107d107f5",
+        "hsh": "4f4d5992ef12f9ecf5093d72a07681d0",
         "description": "Nel cuore dell’Arches National Park, nello stato americano dello Utah, il Turret Arch appare incorniciato dal North Window come un portale verso un tempo remoto. Le rocce geologiche di Entrada Sandstone raccontano una storia che inizia milioni di anni fa, quando dune mobili e mari poco profondi si trasformarono lentamente in pietra. L’erosione, paziente e instancabile, ha scolpito archi e forme che sembrano opere d’arte naturali, sospese tra cielo e deserto. Camminare tra queste strutture è come attraversare un paesaggio che sfida la misura umana del tempo. Ogni curva, ogni arco, è il risultato di ere geologiche che hanno plasmato la Terra con forza e delicatezza.",
         "maplink": "39.319587,-109.759965"
     },
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ImpalaRooibok_IT-IT2418246080",
         "copyright": "Branco di impala, Riserva naturale di Londolozi, Sudafrica (© Mint Images/Getty Images)",
         "copyrightKeyword": "Impala antilope",
-        "hsh": "2a127ce4b9e8fea615be5e442e3fc48c",
-        "description": "Prima ancora che gli impala scattino tra i cespugli, vigili e nervosi, la Riserva Naturale di Londolozi, in Sudafrica, li accoglie come un palcoscenico antico. Le femmine e i piccoli si stringono in branchi, mentre i maschi si contendono i territori con ardore. La loro vita segue il ciclo delle stagioni, con sei o sette mesi di gestazione e, all’inizio dell’estate, un nuovo battito di zoccoli che illumina la pianura. Sempre pronti a fuggire, sempre sospesi tra la grazia e la minaccia, sanno che leopardi, leoni e ghepardi li osservano nell’ombra. Non sono solo i predatori a mettere alla prova la loro esistenza, perché la siccità e la pressione sugli spazi naturali li costringono a un’eterna danza di adattamento. È allora che questa riserva diventa rifugio, custode di un equilibrio fragile.",
-        "maplink": "-24.796972,31.500053"
-    },
-    {
-        "fullstartdate": "202512312300",
-        "date": "20260101",
-        "url": "https://www.bing.com/th?id=OHR.NewYearFox_IT-IT2197998427_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.NewYearFox_IT-IT2197998427",
-        "copyright": "Volpe artica che dorme (© Chansak Joe/Getty Images)",
-        "copyrightKeyword": "Primo dell’ anno",
-        "hsh": "0e46a6978d746aedee47bf5dae01ab08"
+        "hsh": "2a127ce4b9e8fea615be5e442e3fc48c"
     }
 ]

@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202601081500",
+        "date": "20260109",
+        "url": "https://www.bing.com/th?id=OHR.MuirWoodsMonument_JA-JP8497438583_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MuirWoodsMonument_JA-JP8497438583",
+        "copyright": "ミュアウッズ国定公園, 米国 カリフォルニア州 (© photo by canderson/Getty Images)",
+        "copyrightKeyword": "ミュアウッズ国定公園",
+        "hsh": "d0626ac27c57cd3724ccc04dac1aad2a",
+        "description": "ここはミュアウッズ国定公園。米国カリフォルニア州に位置し、原生のセコイアの森を保護している地域です。1908 年の今日、1 月 9 日に国定公園として指定されました。セコイアは地球上で最も高い木といわれており、現存する世界最高の個体は約 115m にも達します。また、樹齢は 600 ～ 800 年が一般的ですが、2,000 年以上の個体もあります…",
+        "maplink": "37.897026,-122.581123"
+    },
+    {
         "fullstartdate": "202601071500",
         "date": "20260108",
         "url": "https://www.bing.com/th?id=OHR.StarlingBrighton2025_JA-JP6092282753_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.VeniceView_JA-JP5599144263",
         "copyright": "ヴェネツィア, イタリア (© Clement Leonard/Getty Images)",
         "copyrightKeyword": "ヴェネツィア",
-        "hsh": "1bd3a5ec114f3888b9bf78ba978829ce",
-        "description": "ここはイタリアのヴェネツィア。その歴史は古く、5 世紀頃、異民族の侵攻から逃れたイタリア本土の人々が、アドリア海のラグーナへ避難したことから始まりました。そして、中世には東西貿易の中心地として繁栄し、強力な海上帝国へと成長しました…",
-        "maplink": "45.4397,12.3319"
-    },
-    {
-        "fullstartdate": "202512311500",
-        "date": "20260101",
-        "url": "https://www.bing.com/th?id=OHR.NewYearSunrise2026_JA-JP4680541723_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.NewYearSunrise2026_JA-JP4680541723",
-        "copyright": "えびす岩・大黒岩, 北海道 (© Ambling Images/Alamy)",
-        "copyrightKeyword": "えびす岩・大黒岩",
-        "hsh": "2fe3c9d3c0ef659b509730a3de706b99"
+        "hsh": "1bd3a5ec114f3888b9bf78ba978829ce"
     }
 ]

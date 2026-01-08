@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202601080000",
+        "date": "20260108",
+        "url": "https://www.bing.com/th?id=OHR.TuftedTitmouse_EN-GB7363670202_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TuftedTitmouse_EN-GB7363670202",
+        "copyright": "Tufted titmouse perched on pine boughs, Massachusetts, United States (© Tim Laman/NPL/Minden Pictures)",
+        "copyrightKeyword": "Tufted titmouse",
+        "hsh": "e7845b2275a3b3984d6792dcc0e8175a",
+        "description": "Peter-peter-peter! That's your first clue that a tufted titmouse is nearby. Don't be fooled by its small size—this grey little bird is the neighbourhood's feathered detective, hopping from branch to branch, eyes sharp, crest on high. Tufted titmice are part acrobat and part gourmet. They scour trees for insects, seeds and nuts, sometimes stashing their finds for later. Their signature black forehead patch and pointy crest give them a distinctive 'hoodie-and-attitude' look, making them easy to spot if you pause and watch closely.",
+        "maplink": "42.3,-71.8"
+    },
+    {
         "fullstartdate": "202601070000",
         "date": "20260107",
         "url": "https://www.bing.com/th?id=OHR.OldRockArch_EN-GB3921180413_1920x1080.jpg",
@@ -72,16 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.NewYearFox_EN-GB6138913529",
         "copyright": "Arctic fox sleeping (© Chansak Joe/Getty Images)",
         "copyrightKeyword": "New Years Day",
-        "hsh": "4333d50b5d187b4a0b07cfece647d91f",
-        "description": "Do you feel as if you have a whole year's worth of rest to catch up on? Then you can relate to this Arctic fox, cosily tucked among the rocky outcroppings of the frozen tundra. Whether the new year greets you with biting cold or under a warm sun, take five extra minutes to stretch before diving into the 365 days ahead."
-    },
-    {
-        "fullstartdate": "202512310000",
-        "date": "20251231",
-        "url": "https://www.bing.com/th?id=OHR.Hogmanay2025_EN-GB7784153227_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.Hogmanay2025_EN-GB7784153227",
-        "copyright": "National Monument of Scotland, Edinburgh (© Serge_Bertasius/iStock/Getty Images)",
-        "copyrightKeyword": "Hogmanay",
-        "hsh": "b8c75529daebe384c772287a1ff6dfbc"
+        "hsh": "4333d50b5d187b4a0b07cfece647d91f"
     }
 ]
