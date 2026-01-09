@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202601092300",
+        "date": "20260110",
+        "url": "https://www.bing.com/th?id=OHR.MatterhornSunrise_DE-DE7583590264_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MatterhornSunrise_DE-DE7583590264",
+        "copyright": "Das Matterhorn spiegelt sich bei Sonnenaufgang im Stellisee, Zermatt, Schweiz (© Andy Trowbridge/naturepl.com)",
+        "copyrightKeyword": "Matterhorn",
+        "hsh": "94158cdc9578717123b41f14c4b09614",
+        "description": "Es gibt Orte, die einen sofort ehrfürchtig staunen lassen. Dazu gehört der Anblick des Matterhorns, das sich im glatten Wasser des Stellisees spiegelt. Als markanter Gipfel der Walliser Alpen, einem der eindrucksvollsten Gebirgszüge des westlichen Alpenbogens, thront der 4.478 Meter hohe Berg an der Schweizer-italienischen Grenze. Er zieht Menschen aus aller Welt an, die gleichermaßen die Ruhe der Natur und das Abenteuer suchen.",
+        "maplink": "45.98361,7.658333"
+    },
+    {
         "fullstartdate": "202601082300",
         "date": "20260109",
         "url": "https://www.bing.com/th?id=OHR.LynxBavariaSnow_DE-DE0416366629_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LauterbrunnenValley_DE-DE9271807830",
         "copyright": "Staubbachfälle in Lauterbrunnen, Kanton Bern, Schweiz (© pongnathee kluaythong/Getty Images)",
         "copyrightKeyword": "Tolkien-Tag Januar",
-        "hsh": "20ffec3db6445d79ec7bce19a500a129",
-        "description": "Stellen Sie sich vor: Sie stehen im schweizerischen Lauterbrunnen – einem stillen Tal, eingerahmt von steilen Felswänden, über denen die Staubbachfälle wie silberne Fäden herabgleiten. Diese majestätischen Klippen, die glitzernden Wasserfälle und die klare Bergluft sollen bei dem britischen Schriftsteller J. R. R. Tolkien einen unauslöschlichen Eindruck hinterlassen und seine Vision von Rivendell, dem verborgenen Elbenrefugium in Mittelerde, inspiriert haben. Genau hier wanderte Tolkien im Jahr 1911 – lange bevor er „Der Herr der Ringe“ erschuf.",
-        "maplink": "46.591803,7.905319"
-    },
-    {
-        "fullstartdate": "202601012300",
-        "date": "20260102",
-        "url": "https://www.bing.com/th?id=OHR.VeniceView_DE-DE5335643211_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.VeniceView_DE-DE5335643211",
-        "copyright": "Luftaufnahme von Venedig, Italien (© Clement Leonard/Getty Images)",
-        "copyrightKeyword": "Venedig Italien",
-        "hsh": "cc62913501433dcb75e71f7f35190292"
+        "hsh": "20ffec3db6445d79ec7bce19a500a129"
     }
 ]
