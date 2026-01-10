@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202601102300",
+        "date": "20260111",
+        "url": "https://www.bing.com/th?id=OHR.BlueMorocco_IT-IT0979277662_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BlueMorocco_IT-IT0979277662",
+        "copyright": "Le mura blu di Chefchaouen, Marocco (© AnetteAndersen/Getty Images)",
+        "copyrightKeyword": "Chefchaouen Morocco",
+        "hsh": "8e6238f04f8cfd8c32bd4029dd6cf91f",
+        "description": "L’11 gennaio 1944 il Marocco compì un passo audace verso la libertà. Sessantasei leader firmarono la Proclamazione d’Indipendenza, chiedendo la fine del dominio coloniale francese e spagnolo e affermando il diritto del Paese alla sovranità. Quel manifesto, sostenuto dal sultano Mohammed V, fu consegnato non solo alle autorità coloniali, ma anche ai rappresentanti degli Stati Uniti, del Regno Unito e dell’Unione Sovietica, segno che la lotta marocchina apparteneva al grande coro mondiale per l’autodeterminazione. La repressione non spense il movimento, e nel 1956 il Marocco conquistò l’indipendenza, aprendo una nuova pagina nella storia del Nord Africa.",
+        "maplink": "35.17139,-5.269722"
+    },
+    {
         "fullstartdate": "202601092300",
         "date": "20260110",
         "url": "https://www.bing.com/th?id=OHR.MatterhornSunrise_IT-IT0909125260_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.KingMountain_IT-IT1181015259",
         "copyright": "Kings Mountain, Montagne Chugach, Alaska, USA (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)",
         "copyrightKeyword": "Montagne Chugach Alaska",
-        "hsh": "735c31e586075e2dc8a7abdc081049d0",
-        "description": "Kings Mountain, nelle Chugach Mountains dell’Alaska, non è soltanto un rilievo all’orizzonte: è una bellezza selvaggia che vi invita a rallentare e a contemplare. Con i suoi circa 1.770 metri di altezza, situata circa 35 chilometri a nord-est di Palmer, questa cima domina il miglio 75 della Glenn Highway, una strada celebre per i suoi scenari drammatici. I suoi pendii portano ancora i segni degli antichi ghiacciai, scolpiti in creste e vallate che sembrano disegnate per l’avventura.",
-        "maplink": "61.17,-145.33"
-    },
-    {
-        "fullstartdate": "202601022300",
-        "date": "20260103",
-        "url": "https://www.bing.com/th?id=OHR.LauterbrunnenValley_IT-IT1107060773_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LauterbrunnenValley_IT-IT1107060773",
-        "copyright": "Cascata di Staubbach a Lauterbrunnen, Cantone di Berna, Svizzera (© pongnathee kluaythong/Getty Images)",
-        "copyrightKeyword": "Cascata di Staubbach",
-        "hsh": "93b6d96c949f67cd3051a498eb381dc6"
+        "hsh": "735c31e586075e2dc8a7abdc081049d0"
     }
 ]
