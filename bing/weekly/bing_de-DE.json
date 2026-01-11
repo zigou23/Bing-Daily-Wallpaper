@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202601112300",
+        "date": "20260112",
+        "url": "https://www.bing.com/th?id=OHR.SnowOtters_DE-DE8031426610_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SnowOtters_DE-DE8031426610",
+        "copyright": "Eurasischer Fischotter mit Jungtier, Estland (© Sven Zacek/naturepl.com)",
+        "copyrightKeyword": "Eurasischer Fischotter",
+        "hsh": "555316b2b2a9317631833d74561cd22f",
+        "description": "Ein Blick in die glitzernden Gesichter, die aus dem Schnee auftauchen, genügt, um zu spüren, dass hier ein Winterabenteuer beginnt. Estland zählt heute zu den wichtigsten Lebensräumen des Eurasischen Fischotters. Klare, nährstoffarme Flüsse, ausgedehnte Moore und eine reichhaltige Ostseeküste bieten ideale Bedingungen. Es ist daher kein Zufall, dass die Art dort 2024 zum „Tier des Jahres“ gewählt wurde. Während der Fischotter global als potenziell gefährdet gilt, haben sich die estnischen Bestände in den letzten Jahrzehnten von etwa 300 auf rund 2.000 Tiere erholt.",
+        "maplink": "58.752377,25.331907"
+    },
+    {
         "fullstartdate": "202601102300",
         "date": "20260111",
         "url": "https://www.bing.com/th?id=OHR.BlueMorocco_DE-DE7800774459_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ImpalaRooibok_DE-DE9831044106",
         "copyright": "Eine Herde Impalas, Londolozi-Wildreservat, Südafrika (© Mint Images/Getty Images)",
         "copyrightKeyword": "Impala Antelope",
-        "hsh": "2d2f9602227f72e7ac6d72bef6ad51c6",
-        "description": "Londolozi im Herzen des Sabi-Sand-Reservats in Südafrika ist weit mehr als nur ein Safari-Ziel: Es gilt als Pionierregion für nachhaltigen Naturschutz. Das 150 km² große Gebiet bietet seit fast 100 Jahren Raum für Forschung, Schutz und Artenvielfalt. Als Teil eines offenen Ökosystems, das nahtlos in den Kruger-Nationalpark übergeht, ermöglicht Londolozi den freien Zug der Wildtiere, ohne dass Zäune Elefanten, Nashörner, Löwen, Leoparden, Zebras und viele Antilopenarten aufhalten würden. Unter ihnen befinden sich auch die anmutigen Impalas, die auf dem heutigen Bild zu sehen sind.",
-        "maplink": "-24.796972,31.500053"
-    },
-    {
-        "fullstartdate": "202601032300",
-        "date": "20260104",
-        "url": "https://www.bing.com/th?id=OHR.KingMountain_DE-DE9482861580_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.KingMountain_DE-DE9482861580",
-        "copyright": "Kings Mountain, Chugach Mountains, Alaska, USA (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)",
-        "copyrightKeyword": "Kings Mountain Chugach Mountains USA",
-        "hsh": "776620dc6bd9534b111796dadfb4e679"
+        "hsh": "2d2f9602227f72e7ac6d72bef6ad51c6"
     }
 ]

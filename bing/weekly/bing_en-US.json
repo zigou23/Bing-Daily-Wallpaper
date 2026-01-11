@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202601110800",
+        "date": "20260111",
+        "url": "https://www.bing.com/th?id=OHR.BlueMorocco_EN-US0026059455_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BlueMorocco_EN-US0026059455",
+        "copyright": "Blue walls of Chefchaouen, Morocco (© AnetteAndersen/Getty Images)",
+        "copyrightKeyword": "Chefchaouen Morocco",
+        "hsh": "280fab27536f0d4c60eaef7d4934fd22",
+        "description": "On January 11, 1944, Morocco took a bold step toward freedom. Sixty-six leaders signed the Proclamation of Independence, demanding an end to French and Spanish colonial rule and affirming the country's right to sovereignty. This manifesto, backed by Sultan Mohammed V, was presented not only to colonial authorities but also to representatives of the US, UK, and the former Soviet Union—a signal that Morocco's struggle was part of a global call for self-determination. Though repression followed, the movement endured, and by 1956 Morocco achieved full independence, marking a turning point in North African history.",
+        "maplink": "35.17139,-5.269722"
+    },
+    {
         "fullstartdate": "202601100800",
         "date": "20260110",
         "url": "https://www.bing.com/th?id=OHR.MatterhornSunrise_EN-US9978097106_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.KingMountain_EN-US6730743729",
         "copyright": "Kings Mountain, Chugach Mountains, Alaska (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)",
         "copyrightKeyword": "Kings Mountain Chugach Mountains",
-        "hsh": "4b8f294efdde0af2c43ef1e21071f8cc",
-        "description": "Kings Mountain in Alaska's Chugach Mountains isn't just another bump on the horizon—it's the kind of rugged beauty that makes you slow down and stare. Rising over 5,800 feet and sitting roughly 22 miles northeast of Palmer, this peak towers over mile 75 of the Glenn Highway, a route famous for its dramatic scenery. Its slopes bear the marks of ancient glaciers, etched into ridges and valleys that seem tailor-made for adventure.",
-        "maplink": "61.17,-145.33"
-    },
-    {
-        "fullstartdate": "202601030800",
-        "date": "20260103",
-        "url": "https://www.bing.com/th?id=OHR.LauterbrunnenValley_EN-US6594933852_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LauterbrunnenValley_EN-US6594933852",
-        "copyright": "Staubbach Falls at Lauterbrunnen, Canton of Bern, Switzerland (© pongnathee kluaythong/Getty Images)",
-        "copyrightKeyword": "JRR Tolkien Day",
-        "hsh": "8d1d7f62ef11d8ea4b7a9e312d06a839"
+        "hsh": "4b8f294efdde0af2c43ef1e21071f8cc"
     }
 ]
