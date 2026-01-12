@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202601122300",
+        "date": "20260113",
+        "url": "https://www.bing.com/th?id=OHR.WalesWinter_FR-FR5382261184_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WalesWinter_FR-FR5382261184",
+        "copyright": "Vallée de Clwyd, Pays de Galles (© Valerie Blencowe/Getty Images)",
+        "copyrightKeyword": "Hen Galan Pays de Galles",
+        "hsh": "604d419c2b4e32e407a7de81512d71e4",
+        "description": "Alors que beaucoup remballent leurs bonnes résolutions dès la première semaine de janvier, le Pays de Galles, quant à lui, aime prolonger la magie. Hen Galan, le « Vieux Nouvel An », est célébré le 13 janvier dans certaines vallées, notamment celle de Gwaun. Cette date vient du calendrier julien, conservé longtemps après que le reste de la Grande-Bretagne ait adopté le calendrier grégorien.",
+        "maplink": "53.114487,-3.413844"
+    },
+    {
         "fullstartdate": "202601112300",
         "date": "20260112",
         "url": "https://www.bing.com/th?id=OHR.SnowOtters_FR-FR5221259508_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.EpiphanyDay_FR-FR4715294698",
         "copyright": "Château de Versailles, France (© Mistervlad/Shutterstock)",
         "copyrightKeyword": "gallette des rois",
-        "hsh": "570acb995e58570fa57b18e1530142a2",
-        "description": "Face au Château de Versailles, chef-d’œuvre du Roi Soleil, on pense aux fastes et aux couronnes qui ont marqué l’histoire. Pourtant, le 6 janvier, une autre royauté s’invite à nos tables : celle de la galette des rois, dorée comme les salons du palais. Cette tradition, héritière des Saturnales romaines, s’est transformée en fête chrétienne célébrant l’Épiphanie et la visite des Rois mages.",
-        "maplink": "48.804878,2.120357"
-    },
-    {
-        "fullstartdate": "202601042300",
-        "date": "20260105",
-        "url": "https://www.bing.com/th?id=OHR.ImpalaRooibok_FR-FR4421344601_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ImpalaRooibok_FR-FR4421344601",
-        "copyright": "Troupeau d’impalas, réserve de Londolozi, Afrique du Sud (© Mint Images/Getty Images)",
-        "copyrightKeyword": "Impala antilope",
-        "hsh": "8388fe5c3214e315c2e034ad3919ec13"
+        "hsh": "570acb995e58570fa57b18e1530142a2"
     }
 ]

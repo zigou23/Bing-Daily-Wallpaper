@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202601120500",
+        "date": "20260112",
+        "url": "https://www.bing.com/th?id=OHR.SnowOtters_FR-CA7154091849_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SnowOtters_FR-CA7154091849",
+        "copyright": "Une loutre d’Europe et son petit, Estonie (© Sven Zacek/naturepl.com)",
+        "copyrightKeyword": "loutre europe",
+        "hsh": "0337996b9ac979746713d9a0291f0e75",
+        "description": "Ce ne sont pas les traces dans la neige qui trahissent leur présence, mais ces museaux givrés qui émergent comme s’ils découvraient l’hiver. L’Estonie est l’un des meilleurs refuges pour la loutre d’Europe, grâce à ses vastes zones humides et son littoral riche en proies. Espèce protégée, elle a été désignée « Animal de l’année » en 2024. Longtemps menacée, sa population est passée de moins de 300 individus avant 2000 à près de 2 000 aujourd’hui.",
+        "maplink": "58.752377,25.331907"
+    },
+    {
         "fullstartdate": "202601110500",
         "date": "20260111",
         "url": "https://www.bing.com/th?id=OHR.BlueMorocco_FR-CA7024452230_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ImpalaRooibok_FR-CA8935585663",
         "copyright": "Troupeau d’impalas, réserve de Londolozi, Afrique du Sud (© Mint Images/Getty Images)",
         "copyrightKeyword": "Impala antilope",
-        "hsh": "fc2423b1280ef6e10aabd9d802178b50",
-        "description": "Dans les herbes blondes de la réserve de Londolozi, en Afrique du Sud, un troupeau d’impalas avance avec la grâce d’une vague silencieuse. Créée en 1926, cette réserve privée de 14 000 hectares (140 km²) fait partie du Sabi Sand, en bordure du parc national Kruger. Depuis les années 1970, elle s’est engagée dans la conservation active, permettant à la faune de circuler librement entre les deux territoires grâce à l’absence de clôtures.",
-        "maplink": "-24.796972,31.500053"
-    },
-    {
-        "fullstartdate": "202601040500",
-        "date": "20260104",
-        "url": "https://www.bing.com/th?id=OHR.KingMountain_FR-CA8588334566_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.KingMountain_FR-CA8588334566",
-        "copyright": "Mont Kings, montagnes Chugach, Alaska, États-Unis (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)",
-        "copyrightKeyword": "montagnes Chugach",
-        "hsh": "9bf49d9d8bb53c67221ab72963637862"
+        "hsh": "fc2423b1280ef6e10aabd9d802178b50"
     }
 ]

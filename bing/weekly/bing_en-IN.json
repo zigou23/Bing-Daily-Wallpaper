@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202601121830",
+        "date": "20260113",
+        "url": "https://www.bing.com/th?id=OHR.WalesWinter_EN-IN9185157435_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WalesWinter_EN-IN9185157435",
+        "copyright": "Vale of Clwyd, Wales (© Valerie Blencowe/Getty Images)",
+        "copyrightKeyword": "Hen Galan Wales",
+        "hsh": "07460beeb94690fb60c9735a33672c84",
+        "description": "Most people wrap up their New Year plans by the first week of January. Wales, however, has a charming habit of saying, 'Hold on—we've got one more celebration left.' Enter Hen Galan, the 'Old New Year,' observed on 13 January in parts of Wales, most famously in the Gwaun Valley. The date survives from the old Julian calendar, kept long after the rest of Britain adopted the Gregorian one.",
+        "maplink": "53.114487,-3.413844"
+    },
+    {
         "fullstartdate": "202601111830",
         "date": "20260112",
         "url": "https://www.bing.com/th?id=OHR.SnowOtters_EN-IN9025656973_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.NuukGreenland_EN-IN2229697854",
         "copyright": "Nuuk, Greenland (© nevereverro/Getty Images)",
         "copyrightKeyword": "Nuuk Greenland",
-        "hsh": "4d1c8bb62df6ceac59732f689e814820",
-        "description": "Picture a city where your daily commute offers views of fjords, drifting ice and the Northern Lights. That's everyday life in Nuuk, the capital of Greenland—a small yet spirited Arctic hub blending Inuit heritage with Nordic modernity. Founded in 1728 by Danish-Norwegian missionary Hans Egede, it began as a small settlement called Godthaab—'Good Hope.'",
-        "maplink": "64.175,-51.73333"
-    },
-    {
-        "fullstartdate": "202601041830",
-        "date": "20260105",
-        "url": "https://www.bing.com/th?id=OHR.ImpalaRooibok_EN-IN2071803879_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ImpalaRooibok_EN-IN2071803879",
-        "copyright": "A herd of impalas, Londolozi Game Reserve, South Africa (© Mint Images/Getty Images)",
-        "copyrightKeyword": "Impala antelope",
-        "hsh": "747be0dff40f695c7b0f5ac08a9e9cb8"
+        "hsh": "4d1c8bb62df6ceac59732f689e814820"
     }
 ]

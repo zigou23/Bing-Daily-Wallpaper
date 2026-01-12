@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202601122300",
+        "date": "20260113",
+        "url": "https://www.bing.com/th?id=OHR.WalesWinter_DE-DE8247163112_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WalesWinter_DE-DE8247163112",
+        "copyright": "Tal von Clwyd, Wales (© Valerie Blencowe/Getty Images)",
+        "copyrightKeyword": "Hen Galan Wales",
+        "hsh": "32c698115fe7d76407d5bdc2ac54d19c",
+        "description": "Manchmal lohnt es sich, den Kalender neu zu betrachten, um alte Geschichten zu entdecken. In Wales geschieht dies mit Hen Calan, dem „Alten Neujahr“, das am 13. Januar gefeiert wird. Der Brauch hängt ursprünglich mit dem Übergang vom julianischen zum gregorianischen Kalender zusammen, der 1752 in Großbritannien vollzogen wurde und das Neujahrsdatum veränderte. Hen Calan ist in Wales allgemein bekannt, hat sich jedoch vor allem im abgeschiedenen Gwaun Valley in seiner ursprünglichen Form erhalten.",
+        "maplink": "53.114487,-3.413844"
+    },
+    {
         "fullstartdate": "202601112300",
         "date": "20260112",
         "url": "https://www.bing.com/th?id=OHR.SnowOtters_DE-DE8031426610_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.NuukGreenland_DE-DE1784214919",
         "copyright": "Nuuk, Grönland (© nevereverro/Getty Images)",
         "copyrightKeyword": "Nuuk Grönland",
-        "hsh": "46cae0eece574f9673912d1398dd4689",
-        "description": "Polarlichter tanzen am Himmel, die Natur zeigt ihre stille Größe – willkommen in Nuuk! Die Hauptstadt Grönlands liegt eingebettet zwischen majestätischen Fjorden und dem Zauber des Nordlichts. Seit ihrer Gründung 1728 durch Hans Egede verbindet die Stadt Inuit-Traditionen mit nordischem Flair. Historische Orte wie das Hans-Egede-Haus und die rote Kathedrale erzählen von vergangenen Zeiten, während das Grönländische Nationalmuseum mit Artefakten und den Mumien von Qilakitsoq beeindruckt.",
-        "maplink": "64.175,-51.73333"
-    },
-    {
-        "fullstartdate": "202601042300",
-        "date": "20260105",
-        "url": "https://www.bing.com/th?id=OHR.ImpalaRooibok_DE-DE9831044106_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ImpalaRooibok_DE-DE9831044106",
-        "copyright": "Eine Herde Impalas, Londolozi-Wildreservat, Südafrika (© Mint Images/Getty Images)",
-        "copyrightKeyword": "Impala Antelope",
-        "hsh": "2d2f9602227f72e7ac6d72bef6ad51c6"
+        "hsh": "46cae0eece574f9673912d1398dd4689"
     }
 ]

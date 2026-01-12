@@ -1,12 +1,23 @@
 [
     {
+        "fullstartdate": "202601121500",
+        "date": "20260113",
+        "url": "https://www.bing.com/th?id=OHR.WalesWinter_JA-JP9906263295_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WalesWinter_JA-JP9906263295",
+        "copyright": "クレイド渓谷, イギリス ウェールズ (© Valerie Blencowe/Getty Images)",
+        "copyrightKeyword": "Vale of Clwyd",
+        "hsh": "73ae9e4cf4886fb7139d88a2b80428cf",
+        "description": "今日 1 月 13 日は「ヘン・ガラン」と呼ばれるイギリス、ウェールズの旧正月です。現在世界で使われているのはグレゴリオ暦ですが、ウェールズの一部の地域、特にグワウン渓谷ではユリウス暦に基づく習慣が今も続けられています。この日になると、子どもたちは歌を歌いながら近隣の住民に新年の挨拶をし、お返しに小銭やお菓子をもらいます…",
+        "maplink": "53.114487,-3.413844"
+    },
+    {
         "fullstartdate": "202601111500",
         "date": "20260112",
-        "url": "https://www.bing.com/th?id=OHR.SkiDay2026_JA-JP1055394608_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SkiDay2026_JA-JP1055394608",
+        "url": "https://www.bing.com/th?id=OHR.SkiDay2026_JA-JP2908444802_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SkiDay2026_JA-JP2908444802",
         "copyright": "ガーラ湯沢スキー場, 新潟県 (© Metta Bunkeaw/Alamy)",
-        "copyrightKeyword": "ガーラ湯沢",
-        "hsh": "b4c3f2c53e9519a3a6be02ea97e289ca",
+        "copyrightKeyword": "Yuzawaski",
+        "hsh": "3b6d4705f041cbc32db875b5064a48cb",
         "description": "今日、1 月 12 日は「スキーの日」。1911 年（明治 44 年）の今日、当時のオーストリア・ハンガリー帝国の武官、テオドール・フォン・レルヒ少佐が日本の軍人にアルペンスキー術を指導しました。その後、スキー術が軍人から民間へと伝えられたことで、全国各地に「スキー」が普及したため、1994 年に、1 月 12 日が「スキーの日」として制定されました…",
         "maplink": "36.922943,138.75174"
     },
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.NuukGreenland_JA-JP5673892352",
         "copyright": "ヌーク, デンマーク (© nevereverro/Getty Images)",
         "copyrightKeyword": "ヌーク, グリーンランド",
-        "hsh": "785c0e4cbf882a16c1aead38c832ed04",
-        "description": "北極圏の神秘的な島、グリーンランドの最大の都市、ヌーク。1728 年にデンマークの宣教師ハンス・エゲデによって設立されましたが、紀元前 2000 年頃には、すでにこの地には現在のイヌイットへとつながる北極圏の先住民が暮らしていました。そのため、イヌイットをはじめとする先住民の伝統とモダニティが融合した独自の雰囲気が漂っています…",
-        "maplink": "65.610133,-51.35144"
-    },
-    {
-        "fullstartdate": "202601041500",
-        "date": "20260105",
-        "url": "https://www.bing.com/th?id=OHR.ImpalaRooibok_JA-JP8577579873_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ImpalaRooibok_JA-JP8577579873",
-        "copyright": "ロンドロジ私営動物保護区, 南アフリカ (© Mint Images/Getty Images)",
-        "copyrightKeyword": "Impala",
-        "hsh": "bb1baef0972dcfbaf556852f68ffc490"
+        "hsh": "785c0e4cbf882a16c1aead38c832ed04"
     }
 ]
