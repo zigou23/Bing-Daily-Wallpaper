@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202601131500",
+        "date": "20260114",
+        "url": "https://www.bing.com/th?id=OHR.PalamidiFortress_JA-JP0089449076_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PalamidiFortress_JA-JP0089449076",
+        "copyright": "パラミディ要塞, ギリシャ (© George Pachantouris/Getty Images)",
+        "copyrightKeyword": "パラミディ要塞",
+        "hsh": "fa5a2d65d5be7d9201ca9a6adac4bb95",
+        "description": "今日は米国の「階段の日」。エレベーターやエスカレーターを使わずに階段を使い、健康を促進することを目的とした啓発イベントで、毎年 1 月の第 2 水曜日に行われます。今日は、階段を使ってより健康的な生活への一歩を踏み出しましょう…",
+        "maplink": "37.562377,22.803872"
+    },
+    {
         "fullstartdate": "202601121500",
         "date": "20260113",
         "url": "https://www.bing.com/th?id=OHR.WalesWinter_JA-JP9906263295_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.OldRockArch_JA-JP5889672492",
         "copyright": "アーチーズ国立公園, 米国 ユタ州 (© Jim Patterson/TANDEM Stills + Motion)",
         "copyrightKeyword": "アーチーズ国立公園",
-        "hsh": "996ac3ff18a311db327be2f407e38d1e",
-        "description": "自然の彫刻美術館とも言えるアーチーズ国立公園。米国ユタ州に位置するこの公園には、風と水の力によって長い年月をかけて形成された 2,000 を超える岩のアーチが点在しています。代表的なものには、ユタ州のシンボルとなっているデリケート・アーチや、公園内最大で全長 100m を超えるランドスケープ・アーチがあります…",
-        "maplink": "39.44358,-109.530067"
-    },
-    {
-        "fullstartdate": "202601051500",
-        "date": "20260106",
-        "url": "https://www.bing.com/th?id=OHR.NuukGreenland_JA-JP5673892352_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.NuukGreenland_JA-JP5673892352",
-        "copyright": "ヌーク, デンマーク (© nevereverro/Getty Images)",
-        "copyrightKeyword": "ヌーク, グリーンランド",
-        "hsh": "785c0e4cbf882a16c1aead38c832ed04"
+        "hsh": "996ac3ff18a311db327be2f407e38d1e"
     }
 ]

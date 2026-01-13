@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202601130500",
+        "date": "20260113",
+        "url": "https://www.bing.com/th?id=OHR.WalesWinter_FR-CA8107586040_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WalesWinter_FR-CA8107586040",
+        "copyright": "Vallée de Clwyd, Pays de Galles (© Valerie Blencowe/Getty Images)",
+        "copyrightKeyword": "Hen Galan Pays de Galles",
+        "hsh": "1c74770b184c7f8764add9b01ce0a9af",
+        "description": "Alors que beaucoup remballent leurs bonnes résolutions dès la première semaine de janvier, le Pays de Galles, quant à lui, aime prolonger la magie. Hen Galan, le « Vieux Nouvel An », est célébré le 13 janvier dans certaines vallées, notamment celle de Gwaun. Cette date vient du calendrier julien, conservé longtemps après que le reste de la Grande-Bretagne ait adopté le calendrier grégorien.",
+        "maplink": "53.114487,-3.413844"
+    },
+    {
         "fullstartdate": "202601120500",
         "date": "20260112",
         "url": "https://www.bing.com/th?id=OHR.SnowOtters_FR-CA7154091849_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.NuukGreenland_FR-CA9105709937",
         "copyright": "Nuuk, Groenland (© nevereverro/Getty Images)",
         "copyrightKeyword": "Nuuk Groenland",
-        "hsh": "16d4373f4c98e048164f687590a6ebfa",
-        "description": "À Nuuk, au Groenland, l’hiver enveloppe la ville d’un calme presque sacré. Les maisons colorées semblent veiller les unes sur les autres, comme dans certains villages nordiques du Canada, où la neige est autant un défi qu’une compagne familière. Ici, chaque déplacement offre un tableau mouvant : plaques de glace dérivantes, silhouettes de montagnes sculptées par les vents, et parfois, le frémissement d’une aurore qui effleure le ciel tel un voile en suspendu.",
-        "maplink": "64.175,-51.73333"
-    },
-    {
-        "fullstartdate": "202601050500",
-        "date": "20260105",
-        "url": "https://www.bing.com/th?id=OHR.ImpalaRooibok_FR-CA8935585663_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ImpalaRooibok_FR-CA8935585663",
-        "copyright": "Troupeau d’impalas, réserve de Londolozi, Afrique du Sud (© Mint Images/Getty Images)",
-        "copyrightKeyword": "Impala antilope",
-        "hsh": "fc2423b1280ef6e10aabd9d802178b50"
+        "hsh": "16d4373f4c98e048164f687590a6ebfa"
     }
 ]
