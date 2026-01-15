@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202601150500",
+        "date": "20260115",
+        "url": "https://www.bing.com/th?id=OHR.ReineSunrise_EN-CA3470666612_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ReineSunrise_EN-CA3470666612",
+        "copyright": "The fishing village of Reine, Norway (© Roberto Moiola/Cavan Images/SuperStock)",
+        "copyrightKeyword": "Reine",
+        "hsh": "ad0ae456dc3decadeefa367c28148ff4",
+        "description": "Tucked deep within Norway's Arctic Circle, Reine feels like the kind of place you see on a postcard and assume can't possibly be real. But it is. This small fishing village of about 300 residents is known for its steep mountains, calm fjords and bright red rorbuer—traditional fishermen's cabins—that dot the shoreline. Despite its size, Reine draws thousands of visitors each year.",
+        "maplink": "67.932465,13.088768"
+    },
+    {
         "fullstartdate": "202601140500",
         "date": "20260114",
         "url": "https://www.bing.com/th?id=OHR.PalamidiFortress_EN-CA2999989915_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.StarlingBrighton2025_EN-CA7438825716",
         "copyright": "Starling murmuration over the ruins of Brighton's West Pier, England (© Philip Reeve/Photodisc/Getty Images)",
         "copyrightKeyword": "Starlings",
-        "hsh": "d9216939d14fe66458ad751013842e98",
-        "description": "When a bird is called a starling, you'd expect it to be a bit of a show-off. True to its name, this little creature knows how to steal the spotlight. From shimmering feathers that glint green and purple in the sun to its ability to mimic sounds, the starling is the headline act. Originally native to Europe and Asia, the common starling has spread across the globe.",
-        "maplink": "50.822063,-0.152842"
-    },
-    {
-        "fullstartdate": "202601070500",
-        "date": "20260107",
-        "url": "https://www.bing.com/th?id=OHR.OldRockArch_EN-CA5672779401_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.OldRockArch_EN-CA5672779401",
-        "copyright": "Turret Arch framed by North Window in Arches National Park, Utah, United States (© Jim Patterson/TANDEM Stills + Motion)",
-        "copyrightKeyword": "Arches National Park Windows",
-        "hsh": "c0a48b919969a83d701fa9a09d8aa536"
+        "hsh": "41243201fbdb0257c7eea580b39e1d06"
     }
 ]

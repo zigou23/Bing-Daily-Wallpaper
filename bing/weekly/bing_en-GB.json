@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202601150000",
+        "date": "20260115",
+        "url": "https://www.bing.com/th?id=OHR.ReineSunrise_EN-GB2185341004_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ReineSunrise_EN-GB2185341004",
+        "copyright": "The fishing village of Reine, Norway (© Roberto Moiola/Cavan Images/SuperStock)",
+        "copyrightKeyword": "Reine",
+        "hsh": "f03e1c5f42b55750802e338473dd5eea",
+        "description": "Tucked deep within Norway's Arctic Circle, Reine feels like the kind of place you see on a postcard and assume can't possibly be real. But it is. This small fishing village of about 300 residents is known for its steep mountains, calm fjords and bright red rorbuer—traditional fishermen's cabins—that dot the shoreline. Despite its size, Reine draws thousands of visitors each year.",
+        "maplink": "67.932465,13.088768"
+    },
+    {
         "fullstartdate": "202601140000",
         "date": "20260114",
         "url": "https://www.bing.com/th?id=OHR.PalamidiFortress_EN-GB2038729302_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.TuftedTitmouse_EN-GB7363670202",
         "copyright": "Tufted titmouse perched on pine boughs, Massachusetts, United States (© Tim Laman/NPL/Minden Pictures)",
         "copyrightKeyword": "Tufted titmouse",
-        "hsh": "e7845b2275a3b3984d6792dcc0e8175a",
-        "description": "Peter-peter-peter! That's your first clue that a tufted titmouse is nearby. Don't be fooled by its small size—this grey little bird is the neighbourhood's feathered detective, hopping from branch to branch, eyes sharp, crest on high. Tufted titmice are part acrobat and part gourmet. They scour trees for insects, seeds and nuts, sometimes stashing their finds for later. Their signature black forehead patch and pointy crest give them a distinctive 'hoodie-and-attitude' look, making them easy to spot if you pause and watch closely.",
-        "maplink": "42.3,-71.8"
-    },
-    {
-        "fullstartdate": "202601070000",
-        "date": "20260107",
-        "url": "https://www.bing.com/th?id=OHR.OldRockArch_EN-GB3921180413_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.OldRockArch_EN-GB3921180413",
-        "copyright": "Turret Arch framed by North Window in Arches National Park, Utah, United States (© Jim Patterson/TANDEM Stills + Motion)",
-        "copyrightKeyword": "Arches National Park Windows",
-        "hsh": "3ccc56c57f9a33d99fef7db07e88d8db"
+        "hsh": "e7845b2275a3b3984d6792dcc0e8175a"
     }
 ]
