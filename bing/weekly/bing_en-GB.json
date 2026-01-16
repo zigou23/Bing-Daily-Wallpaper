@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202601160000",
+        "date": "20260116",
+        "url": "https://www.bing.com/th?id=OHR.EtoshaLeopard_EN-GB2310527142_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.EtoshaLeopard_EN-GB2310527142",
+        "copyright": "Leopard at Etosha National Park, Namibia (© Norbert Achtelik/Cavan Images)",
+        "copyrightKeyword": "Leopard",
+        "hsh": "d1afa913af590152004b2eb7b868d132",
+        "description": "If you've ever watched a wildlife documentary, you know the moment: the camera pans across a quiet savannah, and suddenly a leopard appears as if it has been there all along. That quiet reveal says everything about how these cats operate. They move with precision, slipping through grass and branches without making a sound. Their build, muscular but lean, helps them climb, sprint and hide in plain sight. Their rosetted coats? No two patterns match, each serving as natural camouflage from sunrise to moonlight.",
+        "maplink": "-18.98073,15.762634"
+    },
+    {
         "fullstartdate": "202601150000",
         "date": "20260115",
         "url": "https://www.bing.com/th?id=OHR.ReineSunrise_EN-GB2185341004_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MuirWoodsMonument_EN-GB2101130312",
         "copyright": "Giant redwood trees in Muir Woods National Monument, California, USA (© photo by canderson/Getty Images)",
         "copyrightKeyword": "Muir Woods National Monument",
-        "hsh": "c5634fcf3bf39df94419835fded0efe7",
-        "description": "Step into the realm of giants. Try embracing a BFG (Big Friendly Giant) as you wrap your arms around a thousand years of wisdom in a single tree trunk. Welcome to Muir Woods National Monument—established on this day in 1908—a majestic hall of coastal redwoods just north of San Francisco, in California, United States. These towering redwoods are the tallest trees on Earth—one here stretches about 80 metres, roughly the height of 43 people stacked head to toe. Most are 600–800 years old, and some have stood for over a millennium, yet they're still considered 'young' for a species that can live for 2,000 years.",
-        "maplink": "37.897026,-122.581123"
-    },
-    {
-        "fullstartdate": "202601080000",
-        "date": "20260108",
-        "url": "https://www.bing.com/th?id=OHR.TuftedTitmouse_EN-GB7363670202_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.TuftedTitmouse_EN-GB7363670202",
-        "copyright": "Tufted titmouse perched on pine boughs, Massachusetts, United States (© Tim Laman/NPL/Minden Pictures)",
-        "copyrightKeyword": "Tufted titmouse",
-        "hsh": "e7845b2275a3b3984d6792dcc0e8175a"
+        "hsh": "c5634fcf3bf39df94419835fded0efe7"
     }
 ]
