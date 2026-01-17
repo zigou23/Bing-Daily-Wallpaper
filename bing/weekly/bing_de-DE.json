@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202601172300",
+        "date": "20260118",
+        "url": "https://www.bing.com/th?id=OHR.WhiteSandsNM_DE-DE0810654725_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WhiteSandsNM_DE-DE0810654725",
+        "copyright": "White-Sands-Nationalpark, New Mexico, USA (© Francesco Carucci/Getty Images)",
+        "copyrightKeyword": "White-Sands-Nationalpark New Mexico",
+        "hsh": "c893d96a5fb31c4edd3f94703d0aaec6",
+        "description": "Auf den ersten Blick wirkt der White‑Sands‑Nationalpark im US‑Bundesstaat New Mexico wie eine verschneite Landschaft aus kühlen, weißen Dünen, die das Auge mühelos täuschen. Tatsächlich aber besteht er aus feinem Gipssand, der seit 1933 unter Schutz steht und das weltweit größte Gipssandfeld bildet. Die über Jahrtausende zerriebenen Kristalle reflektieren das Sonnenlicht so stark, dass sich die Oberfläche selbst im Hochsommer überraschend kühl anfühlt. Im Tularosa‑Becken erstreckt sich dieser hell leuchtende Landstrich über rund 712 Quadratkilometer. Unter dem gleißenden Weiß verbirgt sich jedoch eine weit ältere Geschichte: Fossile menschliche Fußspuren, begleitet von Mammuts und Riesenfaultieren, erzählen von eiszeitlichen Wanderungen.",
+        "maplink": "32.787247,-106.325661"
+    },
+    {
         "fullstartdate": "202601162300",
         "date": "20260117",
         "url": "https://www.bing.com/th?id=OHR.NaplesBasilica_DE-DE0460748064_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BlueMorocco_DE-DE7800774459",
         "copyright": "Blaue Mauern von Chefchaouen, Marokko (© AnetteAndersen/Getty Images)",
         "copyrightKeyword": "Chefchaouen Marokko",
-        "hsh": "df42664c942238d880b665bcfc50221a",
-        "description": "Manche Orte wirken wie ein aufgeschlagenes Geschichtsbuch. Ein Blick auf die blaue Stadt Chefchaouen in Marokko mit ihren Terrassen, verwinkelten Gassen und ihrer ruhigen Atmosphäre genügt, um zu spüren, dass Geschichte hier nicht nur erzählt, sondern erlebt wird. Marokko setzte im Jahr 1944 ein bedeutendes Zeichen, als 66 Unterzeichner, angeführt von Sultan Mohammed V., das Ende der kolonialen Herrschaft forderten. Trotz Repressionen führte dieser Schritt im Jahr 1956 zur Unabhängigkeit und steht bis heute symbolisch für den Wunsch nach Selbstbestimmung.",
-        "maplink": "35.17139,-5.269722"
-    },
-    {
-        "fullstartdate": "202601092300",
-        "date": "20260110",
-        "url": "https://www.bing.com/th?id=OHR.MatterhornSunrise_DE-DE7583590264_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MatterhornSunrise_DE-DE7583590264",
-        "copyright": "Das Matterhorn spiegelt sich bei Sonnenaufgang im Stellisee, Zermatt, Schweiz (© Andy Trowbridge/naturepl.com)",
-        "copyrightKeyword": "Matterhorn",
-        "hsh": "94158cdc9578717123b41f14c4b09614"
+        "hsh": "df42664c942238d880b665bcfc50221a"
     }
 ]
