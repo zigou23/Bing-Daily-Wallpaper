@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202601180500",
+        "date": "20260118",
+        "url": "https://www.bing.com/th?id=OHR.WhiteSandsNM_EN-CA4611672923_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WhiteSandsNM_EN-CA4611672923",
+        "copyright": "White Sands National Park, New Mexico, United States (© Francesco Carucci/Getty Images)",
+        "copyrightKeyword": "White Sands National Park New Mexico",
+        "hsh": "68585510936bdd926fdd5333887bad9e",
+        "description": "If 'Frozen' traded ice for sand, the result would look a lot like White Sands National Park in New Mexico—cool, white dunes that deceive the eye at first glance. It became a national monument on this day in 1933, established to protect a rare geological phenomenon: the world's largest gypsum dunefield. These dunes were formed from gypsum crystals that broke down over thousands of years, creating bright waves that stay cool even in summer.",
+        "maplink": "32.787247,-106.325661"
+    },
+    {
         "fullstartdate": "202601170500",
         "date": "20260117",
         "url": "https://www.bing.com/th?id=OHR.NaplesBasilica_EN-CA4228859638_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BlueMorocco_EN-CA0359516885",
         "copyright": "Blue walls of Chefchaouen, Morocco (© AnetteAndersen/Getty Images)",
         "copyrightKeyword": "Chefchaouen Morocco",
-        "hsh": "07b14af22c881ae19357ac61888471b4",
-        "description": "On January 11, 1944, Morocco took a bold step toward freedom. Sixty-six leaders signed the Proclamation of Independence, demanding an end to French and Spanish colonial rule and affirming the country's right to sovereignty. This manifesto, backed by Sultan Mohammed V, was presented not only to colonial authorities but also to representatives of the US, UK and the former Soviet Union—a signal that Morocco's struggle was part of a global call for self-determination. Though repression followed, the movement endured, and by 1956 Morocco achieved full independence, marking a turning point in North African history.",
-        "maplink": "35.17139,-5.269722"
-    },
-    {
-        "fullstartdate": "202601100500",
-        "date": "20260110",
-        "url": "https://www.bing.com/th?id=OHR.MatterhornSunrise_EN-CA0041343667_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MatterhornSunrise_EN-CA0041343667",
-        "copyright": "The Matterhorn reflected in Lake Stellisee at sunrise, Zermatt, Switzerland (© Andy Trowbridge/naturepl.com)",
-        "copyrightKeyword": "Matterhorn",
-        "hsh": "251734a5b1c046739fd9e595b2d7061d"
+        "hsh": "07b14af22c881ae19357ac61888471b4"
     }
 ]

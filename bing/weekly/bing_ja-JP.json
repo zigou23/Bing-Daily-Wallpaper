@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202601181500",
+        "date": "20260119",
+        "url": "https://www.bing.com/th?id=OHR.ExternsteineSunset_JA-JP0787932101_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ExternsteineSunset_JA-JP0787932101",
+        "copyright": "エクスターンシュタイネ岩塔群, ドイツ (© Michael Sroka/Getty Images)",
+        "copyrightKeyword": "エクスターンシュタイネ岩塔群",
+        "hsh": "5cdcd9000bb5e0027f69a911383ba828",
+        "description": "今日の画像はエクスターンシュタイネ岩塔群。約 7000 万年前の地殻変動によって形成された砂岩の奇岩群で、ドイツ西部・ノルトライン＝ヴェストファーレン州の「トイトブルクの森」の中心部にそびえています。岩の高さは最大で 35m に達し、周囲の森林を見下ろすその姿は圧巻です…",
+        "maplink": "51.878971,8.930806"
+    },
+    {
         "fullstartdate": "202601171500",
         "date": "20260118",
         "url": "https://www.bing.com/th?id=OHR.WhiteSandsNM_JA-JP0644225456_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SkiDay2026_JA-JP2908444802",
         "copyright": "ガーラ湯沢スキー場, 新潟県 (© Metta Bunkeaw/Alamy)",
         "copyrightKeyword": "Yuzawaski",
-        "hsh": "3b6d4705f041cbc32db875b5064a48cb",
-        "description": "今日、1 月 12 日は「スキーの日」。1911 年（明治 44 年）の今日、当時のオーストリア・ハンガリー帝国の武官、テオドール・フォン・レルヒ少佐が日本の軍人にアルペンスキー術を指導しました。その後、スキー術が軍人から民間へと伝えられたことで、全国各地に「スキー」が普及したため、1994 年に、1 月 12 日が「スキーの日」として制定されました…",
-        "maplink": "36.922943,138.75174"
-    },
-    {
-        "fullstartdate": "202601101500",
-        "date": "20260111",
-        "url": "https://www.bing.com/th?id=OHR.BlueMorocco_JA-JP9617982350_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BlueMorocco_JA-JP9617982350",
-        "copyright": "シャウエン, モロッコ (© AnetteAndersen/Getty Images)",
-        "copyrightKeyword": "シャウエン",
-        "hsh": "7a7c27841f800f6ff265c32d5361c264"
+        "hsh": "3b6d4705f041cbc32db875b5064a48cb"
     }
 ]
