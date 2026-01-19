@@ -1,12 +1,23 @@
 [
     {
+        "fullstartdate": "202601192300",
+        "date": "20260120",
+        "url": "https://www.bing.com/th?id=OHR.IciclePenguin_FR-FR1509326905_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.IciclePenguin_FR-FR1509326905",
+        "copyright": "Un manchot papou, Île Petermann, Antarctique (© Paul Souders/DanitaDelimont.com/Alamy)",
+        "copyrightKeyword": "Manchot papou",
+        "hsh": "24de8e20244438d4c2418d3b51f66970",
+        "description": "Sous une voûte glacée d’un bleu cristallin, la silhouette d’un manchot papou fend les eaux polaires. Agile et racé, c’est l’un des meilleurs nageurs de son espèce : ses puissantes nageoires le propulsent à plus de 35 km/h, lui permettant ainsi d’échapper aux prédateurs et de parcourir de vastes étendues pour chercher sa nourriture. Son bec orangé, sa posture droite et ses taches blanches sur le sommet de sa tête le distinguent du reste de la faune des rivages de l’Antarctique.",
+        "maplink": "65.16666,-64.16666"
+    },
+    {
         "fullstartdate": "202601182300",
         "date": "20260119",
         "url": "https://www.bing.com/th?id=OHR.BubblesAbraham_FR-FR1152470154_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.BubblesAbraham_FR-FR1152470154",
         "copyright": "Le lac Abraham en hiver, Alberta, Canada (© Luis F Arevalo/Getty Images)",
         "copyrightKeyword": "Lac Abraham Canada",
-        "hsh": "3652e2ed1c92bbc5217d648d18dd0558",
+        "hsh": "4d37241d7ea4f6319b025a504609e94e",
         "description": "Sous la glace, le temps semble figé. Des bulles blanches s’empilent comme des perles dans un cristal limpide : bienvenue au lac Abraham, le plus grand réservoir d’eau d’Alberta, niché dans les plaines de Kootenay, au pied des majestueuses Rocheuses canadiennes. Ici, l’hiver emprisonne un souffle invisible : le méthane.",
         "maplink": "52.22361,-116.4272"
     },
@@ -17,7 +28,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.WhiteSandsNM_FR-FR3833859459",
         "copyright": "Parc National des White Sands, Nouveau-Mexique, États-Unis (© Francesco Carucci/Getty Images)",
         "copyrightKeyword": "White Sands Nouveau Mexique",
-        "hsh": "06051546a8198969eb1328fdc09ae83d",
+        "hsh": "1807325189e7b7f8c29d8f25a0e197aa",
         "description": "Imaginez un désert blanc qui scintille comme de la neige : nous voici à White Sands, au cœur du Nouveau-Mexique (États-Unis). Ici, les dunes ne sont pas de sable ordinaire comme celui de notre Dune du Pilat, mais de gypse, formées par des cristaux érodés durant des millénaires. Elles s’étendent sur 712 km², restant fraîches même sous le soleil brûlant, tel un mirage glacé au milieu du désert.",
         "maplink": "32.787247,-106.325661"
     },
@@ -28,7 +39,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.NaplesBasilica_FR-FR0794724932",
         "copyright": "Basilique San Francesco di Paola, Naples, Italie (© javarman3/Getty Images)",
         "copyrightKeyword": "Basilique San Francesco di Paola Naples",
-        "hsh": "5bedf958af26870ec362f3ca169f872a",
+        "hsh": "12e0644afb28555803d889a4a65a905d",
         "description": "Déambuler dans Naples, c’est comme feuilleter un livre d’histoire grandeur nature. Les galeries voûtées, les colonnades majestueuses et les dômes inspirés de l’Antiquité s’élèvent comme des chapitres sculptés dans la pierre. À chaque rue de la ville italienne, le décor change : façades baroques, cours néoclassiques baignées de lumière… Puis, soudain, une silhouette romaine se dévoile : la basilique San Francesco di Paola, majestueuse gardienne de la Piazza del Plebiscito.",
         "maplink": "41.385051,14.241363"
     },
@@ -39,7 +50,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DeerWinter_FR-FR9698040180",
         "copyright": "Cerfs cachés dans la forêt (© AB Photography/Getty images)",
         "copyrightKeyword": "cerf forêt",
-        "hsh": "2aa5dc238c6a442c5c49eab93821908a",
+        "hsh": "e1181bf17c649b0a90d856bde2bfd23f",
         "description": "En hiver, la forêt française se fait plus silencieuse, presque solennelle. Sous les branches nues et la lumière pâle, le cerf avance avec lenteur, économisant chaque geste. Le froid resserre le monde vivant, et lui, grand seigneur des bois, s’adapte. Son pelage s’épaissit, sa couleur se fond dans les gris et les bruns de la saison, le rendant presque invisible entre hêtres et sapins."
     },
     {
@@ -49,7 +60,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ReineSunrise_FR-FR6255114546",
         "copyright": "Le village pêcheur de Reine, Norvège (© Roberto Moiola/Cavan Images/SuperStock)",
         "copyrightKeyword": "Reine village",
-        "hsh": "f0dc88e9fb9f18f0a368fd158316d896",
+        "hsh": "b30bfc40568e16bf7e88ed6c82bf36cf",
         "description": "Blotti au cœur du cercle polaire arctique, Reine semble tout droit sortie d’une carte postale. Et pourtant, ce village de pêcheurs norvégien, niché dans l’archipel des Lofoten, existe bel et bien. Ses cabanes rouges, les rorbuer, s’alignent au bord des fjords tranquilles, dominés par des montagnes abruptes qui se reflètent dans des eaux glacées. À peine 300 habitants y vivent, mais chaque année, des milliers de voyageurs viennent découvrir ce décor hors du temps.",
         "maplink": "67.932465,13.088768"
     },
@@ -60,7 +71,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PalamidiFortress_FR-FR5605647086",
         "copyright": "Les escaliers de la forteresse de Palamède, Nafplio, Grèce (© George Pachantouris/Getty Images)",
         "copyrightKeyword": "forteresse Palamède",
-        "hsh": "94af021aba330b7fc882f649dfe415f9",
+        "hsh": "95632f252a054659f443c181ad494c9f",
         "description": "Surplombant Nafplio à 216 mètres d’altitude, la forteresse de Palamède, située en Grèce, est un chef-d’œuvre vénitien achevé en 1714. Ses huit bastions, conçus pour résister de manière indépendante, racontent une histoire de stratégie et de courage : tombée aux mains des Ottomans un an après sa construction, elle fut reprise par les Grecs en 1822, qui baptisèrent ses bastions du nom de héros antiques comme Achille et Léonidas.",
         "maplink": "37.562377,22.803872"
     },
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.WalesWinter_FR-FR5382261184",
         "copyright": "Vallée de Clwyd, Pays de Galles (© Valerie Blencowe/Getty Images)",
         "copyrightKeyword": "Hen Galan Pays de Galles",
-        "hsh": "604d419c2b4e32e407a7de81512d71e4",
-        "description": "Alors que beaucoup remballent leurs bonnes résolutions dès la première semaine de janvier, le Pays de Galles, quant à lui, aime prolonger la magie. Hen Galan, le « Vieux Nouvel An », est célébré le 13 janvier dans certaines vallées, notamment celle de Gwaun. Cette date vient du calendrier julien, conservé longtemps après que le reste de la Grande-Bretagne ait adopté le calendrier grégorien.",
-        "maplink": "53.114487,-3.413844"
-    },
-    {
-        "fullstartdate": "202601112300",
-        "date": "20260112",
-        "url": "https://www.bing.com/th?id=OHR.SnowOtters_FR-FR5221259508_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SnowOtters_FR-FR5221259508",
-        "copyright": "Une loutre d’Europe et son petit, Estonie (© Sven Zacek/naturepl.com)",
-        "copyrightKeyword": "loutre europe",
-        "hsh": "fe35f6e4e2ca197527edf8c37c832832"
+        "hsh": "d0881c6da7edbf22cd28123b88a55850"
     }
 ]
