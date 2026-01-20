@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202601200300",
+        "date": "20260120",
+        "url": "https://www.bing.com/th?id=OHR.IciclePenguin_PT-BR0423220256_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.IciclePenguin_PT-BR0423220256",
+        "copyright": "Pinguim-gentoo, Ilha Petermann, Antártida (© Paul Souders/DanitaDelimont.com/Alamy)",
+        "copyrightKeyword": "Dia da Conscientização do Pinguim",
+        "hsh": "a1b79c14585adb0903cf5804cc107315",
+        "description": "Os pinguins prosperam em algumas das águas mais frias da Terra. Na imagem, vemos um pinguim-gentoo sob um arco de gelo azul cintilante, sua silhueta destacada contra o mundo congelado da Antártida. O Dia da Conscientização do Pinguim, celebrado em 20 de janeiro, chama atenção para essas aves que trazem vida, som e personalidade às costas mais geladas do planeta."
+    },
+    {
         "fullstartdate": "202601190300",
         "date": "20260119",
         "url": "https://www.bing.com/th?id=OHR.AlterPara_PT-BR8119560973_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.WalesWinter_PT-BR5293630006",
         "copyright": "Vale de Clwyd, País de Gales (© Valerie Blencowe/Getty Images)",
         "copyrightKeyword": "hen galan no País de Gales",
-        "hsh": "d51473010731959ba77be321ca89f24b",
-        "description": "Enquanto a maioria das pessoas encerra os planos de Ano Novo na primeira semana de janeiro, o País de Gales tem um costume curioso: é o Hen Galan, o “Ano Novo Antigo”, celebrado em 13 de janeiro em algumas regiões. A data vem do antigo calendário juliano, mantido mesmo após o restante do Reino Unido adotar o calendário gregoriano."
-    },
-    {
-        "fullstartdate": "202601120300",
-        "date": "20260112",
-        "url": "https://www.bing.com/th?id=OHR.SnowOtters_PT-BR2784694559_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SnowOtters_PT-BR2784694559",
-        "copyright": "Lontra-europeia e filhote, Estônia (© Sven Zacek/naturepl.com)",
-        "copyrightKeyword": "Lontra europeia",
-        "hsh": "30d0f2299ac59a2aaf8bbaea5d17853d"
+        "hsh": "d51473010731959ba77be321ca89f24b"
     }
 ]

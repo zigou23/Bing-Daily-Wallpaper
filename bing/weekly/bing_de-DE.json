@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202601202300",
+        "date": "20260121",
+        "url": "https://www.bing.com/th?id=OHR.BerrySquirrel_DE-DE1679110073_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BerrySquirrel_DE-DE1679110073",
+        "copyright": "Eurasisches Eichhörnchen (© Galina Jacyna/Getty Images)",
+        "copyrightKeyword": "Eurasisches Eichhörnchen",
+        "hsh": "6777f42c956f2bdbb1147bdae920dcf7",
+        "description": "Im glitzernden Winterwald huscht ein kleiner Akrobat durch den Schnee. Das Eurasische Eichhörnchen bewegt sich geschickt zwischen Ästen und Boden, sein dichtes, rötlich-braunes Fell sowie die markanten Ohrpinsel schützen es zuverlässig vor der Kälte. Sein buschiger Schwanz dient ihm als Balancehilfe und an frostigen Tagen sogar als wärmende Decke. In Deutschland ist das Eichhörnchen weit verbreitet, von den Alpen bis an die Küsten. Als heimische Art steht es unter strengem Gesetzesschutz, der das Fangen, Verletzen oder Stören der Tiere untersagt."
+    },
+    {
         "fullstartdate": "202601192300",
         "date": "20260120",
         "url": "https://www.bing.com/th?id=OHR.IciclePenguin_DE-DE1468306141_1920x1080.jpg",
@@ -72,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PalamidiFortress_DE-DE8463442485",
         "copyright": "Die Treppe der Festung Palamidi, Nafplio, Griechenland (© George Pachantouris/Getty Images)",
         "copyrightKeyword": "Palamidi Festung",
-        "hsh": "d66e3be111316345ae16341cf98b4891",
-        "description": "Wer den Aufstieg wagt, wird nicht nur mit einer atemberaubenden Aussicht belohnt, sondern erfährt auch ein Stück europäischer Wehrgeschichte. Über der griechischen Hafenstadt Nafplio thront die Festung Palamidi, eine venezianische Anlage aus dem Jahr 1714, die 216 Meter über der Stadt liegt. Ihr System aus acht Bastionen war so entworfen, dass jede Einheit auch dann weiterkämpfen konnte, wenn eine benachbarte Bastion fiel. Dies ist ein Musterbeispiel frühneuzeitlicher Militärarchitektur. 1715 nahmen die Osmanen die Festung ein, doch 1822 eroberte Griechenland sie zurück und benannte einzelne Bastionen nach Helden wie Achilles oder Leonidas. Berühmt ist der Treppenweg, der lange als „999 Stufen“ überliefert war, tatsächlich aber 857 Stufen umfasst. Der Anstieg ist anspruchsvoll, wird aber mit einem weiten Panorama über den Argolischen Golf belohnt. Von oben ist zu sehen, wie klug Mauern, Scharten und Höhenlinien miteinander verzahnt sind.",
-        "maplink": "37.562377,22.803872"
-    },
-    {
-        "fullstartdate": "202601122300",
-        "date": "20260113",
-        "url": "https://www.bing.com/th?id=OHR.WalesWinter_DE-DE8247163112_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WalesWinter_DE-DE8247163112",
-        "copyright": "Tal von Clwyd, Wales (© Valerie Blencowe/Getty Images)",
-        "copyrightKeyword": "Hen Galan Wales",
-        "hsh": "32c698115fe7d76407d5bdc2ac54d19c"
+        "hsh": "d66e3be111316345ae16341cf98b4891"
     }
 ]

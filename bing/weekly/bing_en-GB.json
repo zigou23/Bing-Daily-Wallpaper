@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202601200000",
+        "date": "20260120",
+        "url": "https://www.bing.com/th?id=OHR.IciclePenguin_EN-GB5926075380_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.IciclePenguin_EN-GB5926075380",
+        "copyright": "Gentoo penguin, Petermann Island, Antarctica (© Paul Souders/DanitaDelimont.com/Alamy)",
+        "copyrightKeyword": "Penguin Awareness Day",
+        "hsh": "e74f2797d7bc3f41f6b61e1740321507",
+        "description": "Penguins thrive in some of Earth's coldest waters. Today's image shows a gentoo penguin beneath a vault of shimmering blue ice, its sharp silhouette etched against the frozen world around it. Penguin Awareness Day, observed on 20 January, shines a spotlight on the birds that bring life, noise and personality to Earth's iciest coastlines.",
+        "maplink": "-65.16666,-64.16666"
+    },
+    {
         "fullstartdate": "202601190000",
         "date": "20260119",
         "url": "https://www.bing.com/th?id=OHR.BubblesAbraham_EN-GB2806407133_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.WalesWinter_EN-GB1888088613",
         "copyright": "Vale of Clwyd, Wales (© Valerie Blencowe/Getty Images)",
         "copyrightKeyword": "Hen Galan Wales",
-        "hsh": "6d655e470a93df84d80b479c6a1df5d7",
-        "description": "Most people wrap up their New Year plans by the first week of January. Wales, however, has a charming habit of saying, 'Hold on—we've got one more celebration left.' Enter Hen Galan, the 'Old New Year,' observed on 13 January 13 in parts of Wales, most famously in the Gwaun Valley. The date survives from the old Julian calendar, kept long after the rest of Britain adopted the Gregorian one.",
-        "maplink": "53.114487,-3.413844"
-    },
-    {
-        "fullstartdate": "202601120000",
-        "date": "20260112",
-        "url": "https://www.bing.com/th?id=OHR.SnowOtters_EN-GB1734376903_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SnowOtters_EN-GB1734376903",
-        "copyright": "Eurasian otter and pup, Estonia (© Sven Zacek/naturepl.com)",
-        "copyrightKeyword": "Eurasian otter",
-        "hsh": "d4e8fa74a12928f38210a9c00b5c6a82"
+        "hsh": "6d655e470a93df84d80b479c6a1df5d7"
     }
 ]
