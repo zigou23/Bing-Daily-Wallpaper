@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202601210000",
+        "date": "20260121",
+        "url": "https://www.bing.com/th?id=OHR.BerrySquirrel_EN-GB6028511849_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BerrySquirrel_EN-GB6028511849",
+        "copyright": "Eurasian red squirrel (© Galina Jacyna/Getty Images)",
+        "copyrightKeyword": "Squirrel Day",
+        "hsh": "0835f709a15dea6294b0a31145e295ff",
+        "description": "Today's image shows a Eurasian red squirrel perched in the snow, displaying the winter fur and tufted ears that make this species so striking. Native to forests across Europe and parts of Asia, red squirrels rely on seeds, nuts and fungi, stashing food in scattered caches and building nests high in hollow trees to survive the colder months."
+    },
+    {
         "fullstartdate": "202601200000",
         "date": "20260120",
         "url": "https://www.bing.com/th?id=OHR.IciclePenguin_EN-GB5926075380_1920x1080.jpg",
@@ -72,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PalamidiFortress_EN-GB2038729302",
         "copyright": "The staircase of the Fortress of Palamidi, Nafplio, Greece (© George Pachantouris/Getty Images)",
         "copyrightKeyword": "Palamidi Fortress",
-        "hsh": "3c3d20fd001e7a26d03c3d9d683352d4",
-        "description": "Some landmarks invite you in. This one makes you work for it—857 steps, eight bastions and centuries of power plays later, the Fortress of Palamidi still believes history should be earned the hard way. Rising 216 metres above the city of Nafplio in Greece, this Venetian-built stronghold dates to 1714. Each bastion of this impressive fortification is designed as an independent unit so that if one fell, the others could still be defended. The Ottomans captured the fortress a year after completion, and Greece reclaimed it in 1822, renaming the bastions after heroes like Achilles and Leonidas. Today, visitors often test themselves on the fortress's famous staircase—once believed to have 999 steps, though the actual count is 857. At the top, sweeping views of the Argolic Gulf make every step worthwhile.",
-        "maplink": "37.562377,22.803872"
-    },
-    {
-        "fullstartdate": "202601130000",
-        "date": "20260113",
-        "url": "https://www.bing.com/th?id=OHR.WalesWinter_EN-GB1888088613_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WalesWinter_EN-GB1888088613",
-        "copyright": "Vale of Clwyd, Wales (© Valerie Blencowe/Getty Images)",
-        "copyrightKeyword": "Hen Galan Wales",
-        "hsh": "6d655e470a93df84d80b479c6a1df5d7"
+        "hsh": "3c3d20fd001e7a26d03c3d9d683352d4"
     }
 ]

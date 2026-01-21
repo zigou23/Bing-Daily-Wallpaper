@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202601210500",
+        "date": "20260121",
+        "url": "https://www.bing.com/th?id=OHR.BerrySquirrel_FR-CA1112427108_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BerrySquirrel_FR-CA1112427108",
+        "copyright": "Écureuil roux d’Eurasie (© Galina Jacyna/Getty Images)",
+        "copyrightKeyword": "Journée de l'Écureuil",
+        "hsh": "d197f1115845647255dacc4bcbba424b",
+        "description": "De l’autre côté de l’Atlantique, dans la blancheur hivernale, surgit d’un bond un petit animal couleur caramel : l’écureuil roux d’Eurasie. Ses oreilles ornées de pinceaux soyeux et son pelage épais lui donnent une allure presque féerique. Agile et discret, tout comme son cousin nord-américain, l’écureuil roux du Canada, il parcourt les forêts de feuillus et de conifères en sautant de branche en branche avec une précision étonnante. Son régime est varié : graines, noix, cônes de pin, baies et même les champignons. Avant l’arrivée du grand froid, il enfouit ses provisions dans de nombreux recoins et bâtit son nid douillet, appelé « drey », au creux des arbres ou dans les fourches des branches."
+    },
+    {
         "fullstartdate": "202601200500",
         "date": "20260120",
         "url": "https://www.bing.com/th?id=OHR.IciclePenguin_FR-CA0847968880_1920x1080.jpg",
@@ -72,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PalamidiFortress_FR-CA8335359960",
         "copyright": "Les escaliers de la forteresse de Palamède, Nafplio, Grèce (© George Pachantouris/Getty Images)",
         "copyrightKeyword": "forteresse Palamède",
-        "hsh": "c5277634b99455ae0a5083cc86ed21e7",
-        "description": "Alors que beaucoup remballent leurs bonnes résolutions dès la première semaine de janvier, le Pays de Galles, quant à lui, aime prolonger la magie. Hen Galan, le « Vieux Nouvel An », est célébré le 13 janvier dans certaines vallées, notamment celle de Gwaun. Cette date vient du calendrier julien, conservé longtemps après que le reste de la Grande-Bretagne ait adopté le calendrier grégorien.",
-        "maplink": "53.114487,-3.413844"
-    },
-    {
-        "fullstartdate": "202601130500",
-        "date": "20260113",
-        "url": "https://www.bing.com/th?id=OHR.WalesWinter_FR-CA8107586040_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WalesWinter_FR-CA8107586040",
-        "copyright": "Vallée de Clwyd, Pays de Galles (© Valerie Blencowe/Getty Images)",
-        "copyrightKeyword": "Hen Galan Pays de Galles",
-        "hsh": "1c74770b184c7f8764add9b01ce0a9af"
+        "hsh": "c5277634b99455ae0a5083cc86ed21e7"
     }
 ]

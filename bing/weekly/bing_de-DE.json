@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202601212300",
+        "date": "20260122",
+        "url": "https://www.bing.com/th?id=OHR.Mimramfootbridge_DE-DE7428215729_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.Mimramfootbridge_DE-DE7428215729",
+        "copyright": "Mimram-Fußgängerbrücke über den Rhein zwischen Frankreich und Deutschland (© Leonid Andronov/Alamy)",
+        "copyrightKeyword": "Deutsch-Französischer Tag",
+        "hsh": "42beb59b6546960a0e23f109c305897b",
+        "description": "Wussten Sie, dass eine Brücke mehr sein kann als nur Stahl und Beton? Sie kann ein Symbol für Freundschaft und Frieden sein. Genau das verkörpert die Mimram-Fußgängerbrücke (Passerelle des Deux Rives), die sich elegant über den Rhein spannt und die Städte Kehl und Straßburg verbindet. Heute, am Deutsch-Französischen Tag, feiern wir nicht nur die geografische Nähe, sondern auch eine Partnerschaft, die seit Jahrzehnten Europa prägt.",
+        "maplink": "48.56908,7.803603"
+    },
+    {
         "fullstartdate": "202601202300",
         "date": "20260121",
         "url": "https://www.bing.com/th?id=OHR.BerrySquirrel_DE-DE1679110073_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ReineSunrise_DE-DE8669629627",
         "copyright": "Das Fischerdorf Reine, Norwegen (© Roberto Moiola/Cavan Images/SuperStock)",
         "copyrightKeyword": "Reine",
-        "hsh": "db40cbddcdb8824fd90928b1f1664941",
-        "description": "Manchmal entdeckt man einen Ort, der wirkt, als sei er einem Bilderbuch entsprungen. Reine ist genau so ein Ort. Das kleine Fischerdorf im norwegischen Polarkreis mit rund 300 Einwohnern fasziniert mit seinen roten Rorbuer, traditionellen Fischerhütten auf Stelzen, die heute als gemütliche Unterkünfte dienen. Umgeben von stillen Fjorden und Bergen, die steil aus dem Wasser ragen, erzählt Reine von einer langen Geschichte des Fischfangs. Seit dem 18. Jahrhundert wird hier Stockfisch in der klaren Polarluft getrocknet.",
-        "maplink": "67.932465,13.088768"
-    },
-    {
-        "fullstartdate": "202601132300",
-        "date": "20260114",
-        "url": "https://www.bing.com/th?id=OHR.PalamidiFortress_DE-DE8463442485_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PalamidiFortress_DE-DE8463442485",
-        "copyright": "Die Treppe der Festung Palamidi, Nafplio, Griechenland (© George Pachantouris/Getty Images)",
-        "copyrightKeyword": "Palamidi Festung",
-        "hsh": "d66e3be111316345ae16341cf98b4891"
+        "hsh": "db40cbddcdb8824fd90928b1f1664941"
     }
 ]

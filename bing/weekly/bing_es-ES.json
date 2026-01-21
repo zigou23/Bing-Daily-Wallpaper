@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202601212300",
+        "date": "20260122",
+        "url": "https://www.bing.com/th?id=OHR.KarlovyVary_ES-ES6866349820_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.KarlovyVary_ES-ES6866349820",
+        "copyright": "Karlovy Vary, Bohemia, República Checa (© Henryk Sadura/Getty Images)",
+        "copyrightKeyword": "Karlovy Vary ciudad Checa",
+        "hsh": "b697b4b0765407c7dfc29e4006b7510b",
+        "description": "En la imagen, el invierno cubre Karlovy Vary, en la República Checa, un valle pintoresco que forjó su identidad alrededor de las aguas termales que surgen entre sus colinas. La ciudad homónima remonta sus orígenes a los relatos de Carlos IV, rey de Bohemia y, más tarde, emperador romano, quien descubrió aquí una piscina de vapor en el siglo XIV. Este hallazgo temprano marcó el inicio del camino de la ciudad hacia su fama como balneario."
+    },
+    {
         "fullstartdate": "202601202300",
         "date": "20260121",
         "url": "https://www.bing.com/th?id=OHR.FITUR_ES-ES6773132633_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ReineSunrise_ES-ES5820604211",
         "copyright": "El pueblo pesquero de Reine, Noruega (© Roberto Moiola/Cavan Images/SuperStock)",
         "copyrightKeyword": "Reine",
-        "hsh": "7228ed0f70a00aa767cc3e7e0caa0403",
-        "description": "Reine, en el archipiélago de Lofoten, es uno de los pueblos pesqueros más fotografiados de Noruega. Situado sobre la isla de Moskenesøya y rodeado de montañas escarpadas, su historia como centro comercial y pesquero se remonta al siglo XVIII. En la actualidad, conserva su esencia tradicional gracias a sus rorbuer, las antiguas cabañas de pescadores que aún se alinean junto al agua, y a una pequeña comunidad de aproximadamente 300 personas."
-    },
-    {
-        "fullstartdate": "202601132300",
-        "date": "20260114",
-        "url": "https://www.bing.com/th?id=OHR.PalamidiFortress_ES-ES5609140401_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PalamidiFortress_ES-ES5609140401",
-        "copyright": "Escalera de la Fortaleza de Palamidi, en Nauplia, Grecia (© George Pachantouris/Getty Images)",
-        "copyrightKeyword": "Fortaleza de Palamidi",
-        "hsh": "24b1fe45803a604ae255f3cc98e5b7f3"
+        "hsh": "7228ed0f70a00aa767cc3e7e0caa0403"
     }
 ]

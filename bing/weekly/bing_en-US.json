@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202601210800",
+        "date": "20260121",
+        "url": "https://www.bing.com/th?id=OHR.BerrySquirrel_EN-US0798771452_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BerrySquirrel_EN-US0798771452",
+        "copyright": "Eurasian red squirrel (© Galina Jacyna/Getty Images)",
+        "copyrightKeyword": "Squirrel Day",
+        "hsh": "98061db8c190bc8627e91f9c7a3a00b3",
+        "description": "Today's image shows a Eurasian red squirrel perched in the snow, displaying the winter fur and tufted ears that make this species so striking. Native to forests across Europe and parts of Asia, red squirrels rely on seeds, nuts, and fungi, stashing food in scattered caches and building nests high in hollow trees to survive the colder months."
+    },
+    {
         "fullstartdate": "202601200800",
         "date": "20260120",
         "url": "https://www.bing.com/th?id=OHR.IciclePenguin_EN-US0727591285_1920x1080.jpg",
@@ -72,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PalamidiFortress_EN-US0244863129",
         "copyright": "The staircase of the Fortress of Palamidi, Nafplio, Greece (© George Pachantouris/Getty Images)",
         "copyrightKeyword": "Palamidi fortress",
-        "hsh": "1dd0bd9efe492fae5ff7d38b7d020f64",
-        "description": "National Take the Stairs Day, observed on the second Wednesday of January, encourages everyone to add small bursts of movement to daily life. Choosing stairs instead of elevators, or fitting in a short walk or bike ride, helps build healthier habits. With millions living with chronic lung disease and air quality concerns growing, simple actions that strengthen our bodies matter more than ever.",
-        "maplink": "37.562377,22.803872"
-    },
-    {
-        "fullstartdate": "202601130800",
-        "date": "20260113",
-        "url": "https://www.bing.com/th?id=OHR.WalesWinter_EN-US0191348069_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WalesWinter_EN-US0191348069",
-        "copyright": "Vale of Clwyd, Wales (© Valerie Blencowe/Getty Images)",
-        "copyrightKeyword": "Hen Galan Wales",
-        "hsh": "1f9a7c95cc933fdedf4aee4a063f71ab"
+        "hsh": "1dd0bd9efe492fae5ff7d38b7d020f64"
     }
 ]
