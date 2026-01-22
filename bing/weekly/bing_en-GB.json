@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202601220000",
+        "date": "20260122",
+        "url": "https://www.bing.com/th?id=OHR.KarlovyVary_EN-GB6157843860_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.KarlovyVary_EN-GB6157843860",
+        "copyright": "Karlovy Vary, Bohemia, Czechia (© Henryk Sadura/Getty Images)",
+        "copyrightKeyword": "Karlovy Vary",
+        "hsh": "cf9b42cd844010c768a75bb941e089bd",
+        "description": "In today's image, winter settles over Karlovy Vary in Czechia, a pastel valley that built its identity around the hot springs rising through its hills. The eponymous city traces its beginnings to accounts of Charles IV, then king of Bohemia (a historic region of Czechia) and later Roman Emperor, encountering a steaming pool here in the 14th century, an early moment that set this quiet part of Bohemia on the path to becoming a spa retreat.",
+        "maplink": "50.23056,12.8725"
+    },
+    {
         "fullstartdate": "202601210000",
         "date": "20260121",
         "url": "https://www.bing.com/th?id=OHR.BerrySquirrel_EN-GB6028511849_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ReineSunrise_EN-GB2185341004",
         "copyright": "The fishing village of Reine, Norway (© Roberto Moiola/Cavan Images/SuperStock)",
         "copyrightKeyword": "Reine",
-        "hsh": "f03e1c5f42b55750802e338473dd5eea",
-        "description": "Tucked deep within Norway's Arctic Circle, Reine feels like the kind of place you see on a postcard and assume can't possibly be real. But it is. This small fishing village of about 300 residents is known for its steep mountains, calm fjords and bright red rorbuer—traditional fishermen's cabins—that dot the shoreline. Despite its size, Reine draws thousands of visitors each year.",
-        "maplink": "67.932465,13.088768"
-    },
-    {
-        "fullstartdate": "202601140000",
-        "date": "20260114",
-        "url": "https://www.bing.com/th?id=OHR.PalamidiFortress_EN-GB2038729302_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PalamidiFortress_EN-GB2038729302",
-        "copyright": "The staircase of the Fortress of Palamidi, Nafplio, Greece (© George Pachantouris/Getty Images)",
-        "copyrightKeyword": "Palamidi Fortress",
-        "hsh": "3c3d20fd001e7a26d03c3d9d683352d4"
+        "hsh": "f03e1c5f42b55750802e338473dd5eea"
     }
 ]
