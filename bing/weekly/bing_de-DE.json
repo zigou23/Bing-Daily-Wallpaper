@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202601232300",
+        "date": "20260124",
+        "url": "https://www.bing.com/th?id=OHR.AndermattSwiss_DE-DE4290950061_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AndermattSwiss_DE-DE4290950061",
+        "copyright": "Andermatt in den Schweizer Alpen (© Xantana/Getty Images)",
+        "copyrightKeyword": "Andermatt Schweiz",
+        "hsh": "ad913d9b29b7cf9d906ea15d207244fb",
+        "description": "Im Herzen der Schweizer Alpen liegt Andermatt – ein Ort, an dem Natur, Tradition und alpine Kultur auf besondere Weise miteinander verbunden sind. Das traditionsreiche Bergdorf liegt im Urserental auf rund 1.440 Metern Höhe und war schon früh ein zentraler Verkehrsknotenpunkt. Die legendären Alpenpässe Gotthard, Furka und Oberalp verbinden hier Regionen und Kulturen, nicht zuletzt auch die Schweiz mit dem süddeutschen Raum. Im Winter verwandelt sich Andermatt in ein eindrucksvolles Schneeparadies.",
+        "maplink": "46.62049,8.6314"
+    },
+    {
         "fullstartdate": "202601222300",
         "date": "20260123",
         "url": "https://www.bing.com/th?id=OHR.IcelandSheep_DE-DE7690872056_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.NaplesBasilica_DE-DE0460748064",
         "copyright": "Basilika San Francesco di Paola, Neapel, Italien (© javarman3/Getty Images)",
         "copyrightKeyword": "San Francesco di Paola Neapel",
-        "hsh": "4c77d7779103265896f8d8b7215f7676",
-        "description": "Ein Spaziergang über die großen Plätze Neapels in Italien gleicht einer Reise durch die Jahrhunderte. Zwischen Arkaden, Säulen und Kuppeln entfaltet sich eine sich ständig wandelnde Architektur: Barocke Fassaden weichen weiten klassizistischen Höfen, während sich enge Gassen zu großzügigen Räumen öffnen. Schließlich erreicht man die Piazza del Plebiscito, die mit ihrer Weite, Helligkeit und Größe beeindruckt. Gegenüber fällt ein Bau ins Auge, der fast römisch wirkt, nämlich die Basilica di San Francesco di Paola.",
-        "maplink": "41.385051,14.241363"
-    },
-    {
-        "fullstartdate": "202601152300",
-        "date": "20260116",
-        "url": "https://www.bing.com/th?id=OHR.EtoshaLeopard_DE-DE0061843984_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.EtoshaLeopard_DE-DE0061843984",
-        "copyright": "Leopard im Etosha-Nationalpark, Namibia (© Norbert Achtelik/Cavan Images)",
-        "copyrightKeyword": "Leopard",
-        "hsh": "bfe1ce31fb79b90c22b1ae0e1ee2adfd"
+        "hsh": "4c77d7779103265896f8d8b7215f7676"
     }
 ]
