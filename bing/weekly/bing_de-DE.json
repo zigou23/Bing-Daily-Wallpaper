@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202601242300",
+        "date": "20260125",
+        "url": "https://www.bing.com/th?id=OHR.BurnsPark_DE-DE8456925914_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BurnsPark_DE-DE8456925914",
+        "copyright": "Burns National Heritage Park, Ayr, Ayrshire, Schottland (© Alister Firth/Alamy)",
+        "copyrightKeyword": "Burns Supper Robert Burns Schottland",
+        "hsh": "23fed69606fd0f0d84124e1f0b1ef5d6",
+        "description": "Jedes Jahr am 25. Januar gedenken Menschen in Schottland und auf der ganzen Welt Robert Burns, dem Nationaldichter des Landes. An seinem Geburtstag findet traditionell die sogenannte Burns Night statt – ein Abend, der Humor, Tradition und geselliges Beisammensein verbindet und auch als Burns Supper bekannt ist. Im Mittelpunkt steht dabei oft Haggis, eine herzhafte Spezialität aus Fleisch, Hafer und Gewürzen, die mit Neeps (Steckrüben) und Tatties (Kartoffelpüree) serviert wird. Es werden Gedichte von Burns vorgetragen, Whisky ausgeschenkt und nicht selten gemeinsam „Auld Lang Syne“ angestimmt.",
+        "maplink": "55.427528,-4.634584"
+    },
+    {
         "fullstartdate": "202601232300",
         "date": "20260124",
         "url": "https://www.bing.com/th?id=OHR.AndermattSwiss_DE-DE4290950061_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.WhiteSandsNM_DE-DE0810654725",
         "copyright": "White-Sands-Nationalpark, New Mexico, USA (© Francesco Carucci/Getty Images)",
         "copyrightKeyword": "White-Sands-Nationalpark New Mexico",
-        "hsh": "c893d96a5fb31c4edd3f94703d0aaec6",
-        "description": "Auf den ersten Blick wirkt der White‑Sands‑Nationalpark im US‑Bundesstaat New Mexico wie eine verschneite Landschaft aus kühlen, weißen Dünen, die das Auge mühelos täuschen. Tatsächlich aber besteht er aus feinem Gipssand, der seit 1933 unter Schutz steht und das weltweit größte Gipssandfeld bildet. Die über Jahrtausende zerriebenen Kristalle reflektieren das Sonnenlicht so stark, dass sich die Oberfläche selbst im Hochsommer überraschend kühl anfühlt. Im Tularosa‑Becken erstreckt sich dieser hell leuchtende Landstrich über rund 712 Quadratkilometer. Unter dem gleißenden Weiß verbirgt sich jedoch eine weit ältere Geschichte: Fossile menschliche Fußspuren, begleitet von Mammuts und Riesenfaultieren, erzählen von eiszeitlichen Wanderungen.",
-        "maplink": "32.787247,-106.325661"
-    },
-    {
-        "fullstartdate": "202601162300",
-        "date": "20260117",
-        "url": "https://www.bing.com/th?id=OHR.NaplesBasilica_DE-DE0460748064_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.NaplesBasilica_DE-DE0460748064",
-        "copyright": "Basilika San Francesco di Paola, Neapel, Italien (© javarman3/Getty Images)",
-        "copyrightKeyword": "San Francesco di Paola Neapel",
-        "hsh": "4c77d7779103265896f8d8b7215f7676"
+        "hsh": "c893d96a5fb31c4edd3f94703d0aaec6"
     }
 ]

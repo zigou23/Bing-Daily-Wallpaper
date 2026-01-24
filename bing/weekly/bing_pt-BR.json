@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202601240300",
+        "date": "20260124",
+        "url": "https://www.bing.com/th?id=OHR.AndermattSwiss_PT-BR2683096769_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AndermattSwiss_PT-BR2683096769",
+        "copyright": "Vila de Andermatt nos Alpes, Suíça (© Xantana/Getty Images)",
+        "copyrightKeyword": "Andermatt na Suíça",
+        "hsh": "18496e06a436f59823201aef0f61b57d",
+        "description": "Se você sonha em viajar para a Suíça, venha descobrir Andermatt, esta charmosa vila alpina a 1.437 metros de altitude. Localizada no Vale Urseren, ela conecta regiões e culturas por meio dos famosos passes Gotthard, Furka e Oberalp."
+    },
+    {
         "fullstartdate": "202601230300",
         "date": "20260123",
         "url": "https://www.bing.com/th?id=OHR.IcelandSheep_PT-BR6680059407_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.NaplesBasilica_PT-BR5152958001",
         "copyright": "Basílica de São Francisco de Paula, Nápoles, Itália (© javarman3/Getty Images)",
         "copyrightKeyword": "Basílica de São Francisco de Paula, Nápoles",
-        "hsh": "ff172c8d76c36d5167c4d9e1d2aa2e30",
-        "description": "Ao caminhar por qualquer grande praça de Nápoles, na Itália, a história da cidade salta aos olhos. Galerias arqueadas, colunatas imponentes e cúpulas que remetem à arquitetura antiga disputam sua atenção. Cada rua revela um estilo diferente: fachadas barrocas compactas dão lugar a amplos pátios neoclássicos. Ao chegar a uma praça ampla com um edifício que, à primeira vista, parece romano, você está na Basílica de São Francisco de Paula, nossa imagem do dia, localizada no lado oeste da Piazza del Plebiscito."
-    },
-    {
-        "fullstartdate": "202601160300",
-        "date": "20260116",
-        "url": "https://www.bing.com/th?id=OHR.EtoshaLeopard_PT-BR5495755355_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.EtoshaLeopard_PT-BR5495755355",
-        "copyright": "Leopardo no Parque Nacional Etosha, Namíbia (© Norbert Achtelik/Cavan Images)",
-        "copyrightKeyword": "Parque Nacional Etosha",
-        "hsh": "870a37970f0cbd4e41004d99d392905a"
+        "hsh": "ff172c8d76c36d5167c4d9e1d2aa2e30"
     }
 ]

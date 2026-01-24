@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202601240000",
+        "date": "20260124",
+        "url": "https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_EN-GB3790300139_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_EN-GB3790300139",
+        "copyright": "Red kite in snow (© Carl Mckie/500px/Getty Images)",
+        "copyrightKeyword": "Big Garden Birdwatch",
+        "hsh": "f1682d830b1bfd24ea18ddbbacef48be",
+        "description": "Every January, gardens across the United Kingdom turn into open-air theatres. The performers arrive uninvited, refuse encores and steal snacks without apology. Welcome to Big Garden Birdwatch—the one weekend when staring out of the window is officially productive."
+    },
+    {
         "fullstartdate": "202601230000",
         "date": "20260123",
         "url": "https://www.bing.com/th?id=OHR.IcelandSheep_EN-GB3300540353_1920x1080.jpg",
@@ -71,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.NaplesBasilica_EN-GB2516304754",
         "copyright": "Basilica of San Francesco di Paola, Naples, Italy (© javarman3/Getty Images)",
         "copyrightKeyword": "San Francesco di Paola Naples",
-        "hsh": "a3f7f69d1c461bfbdcd16108b326057e",
-        "description": "Walk into any large square in Naples, Italy, and the city's history comes into focus. Arched galleries, sweeping colonnades and domes that echo ancient architecture compete for your attention. Every street shifts in style—compact Baroque facades give way to broad Neoclassical courtyards. Continue exploring and you will arrive at a wide square with a building that appears Roman at first sight. That's the Basilica of San Francesco di Paola, located on the west side of Piazza del Plebiscito.",
-        "maplink": "41.385051,14.241363"
-    },
-    {
-        "fullstartdate": "202601160000",
-        "date": "20260116",
-        "url": "https://www.bing.com/th?id=OHR.EtoshaLeopard_EN-GB2310527142_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.EtoshaLeopard_EN-GB2310527142",
-        "copyright": "Leopard at Etosha National Park, Namibia (© Norbert Achtelik/Cavan Images)",
-        "copyrightKeyword": "Leopard",
-        "hsh": "d1afa913af590152004b2eb7b868d132"
+        "hsh": "a3f7f69d1c461bfbdcd16108b326057e"
     }
 ]
