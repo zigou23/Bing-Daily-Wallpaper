@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202601252300",
+        "date": "20260126",
+        "url": "https://www.bing.com/th?id=OHR.NeuschwansteinWinter_DE-DE8806606737_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.NeuschwansteinWinter_DE-DE8806606737",
+        "copyright": "Schneebedecktes Schloss Neuschwanstein bei Hohenschwangau, Bayern (© www.fredconcha.com @ All Rights Reserved/Getty Images)",
+        "copyrightKeyword": "Schloss Neuschwanstein",
+        "hsh": "cf1fcfa7bde1271aea401ac7b0fdb164",
+        "description": "Kaum ein Schloss hat die Fantasie der Menschen weltweit so sehr geprägt wie Neuschwanstein – und das nicht nur in Bayern. Walt Disney ließ sich bei der Gestaltung des Dornröschen-Schlosses im kalifornischen Disneyland von diesem Anblick inspirieren. Heute ragt das Bauwerk hoch über Hohenschwangau und die verschneiten Allgäuer Wälder empor und wirkt wie ein Tor in eine andere Zeit.",
+        "maplink": "47.557838,10.749735"
+    },
+    {
         "fullstartdate": "202601242300",
         "date": "20260125",
         "url": "https://www.bing.com/th?id=OHR.BurnsPark_DE-DE8456925914_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BubblesAbraham_DE-DE1244248308",
         "copyright": "Gefrorener Abraham Lake, Alberta, Kanada (© Luis F Arevalo/Getty Images)",
         "copyrightKeyword": "Abraham Lake, Alberta",
-        "hsh": "fdfe946965edf1aa52023ca6e44eed6e",
-        "description": "Wenn der Winter über die Rocky Mountains in der kanadischen Provinz Alberta zieht, verwandelt sich der Abraham Lake in ein Naturwunder, das fast unwirklich scheint. Unter der glasklaren Eisfläche erstarren Hunderte weiße Blasen in unterschiedlichen Formen und Schichten. Diese spektakulären Muster entstehen, wenn im Wasser versunkene Pflanzen Methan freisetzen. Bei stark fallenden Temperaturen steigen die Gasblasen nach oben, gefrieren jedoch in aufeinanderliegenden Schichten und bilden so ein einzigartiges, beinahe grafisches Muster, das weltweit Fotografen und Naturbegeisterte anzieht.",
-        "maplink": "52.22361,-116.4272"
-    },
-    {
-        "fullstartdate": "202601172300",
-        "date": "20260118",
-        "url": "https://www.bing.com/th?id=OHR.WhiteSandsNM_DE-DE0810654725_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WhiteSandsNM_DE-DE0810654725",
-        "copyright": "White-Sands-Nationalpark, New Mexico, USA (© Francesco Carucci/Getty Images)",
-        "copyrightKeyword": "White-Sands-Nationalpark New Mexico",
-        "hsh": "c893d96a5fb31c4edd3f94703d0aaec6"
+        "hsh": "fdfe946965edf1aa52023ca6e44eed6e"
     }
 ]

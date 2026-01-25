@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202601251830",
+        "date": "20260126",
+        "url": "https://www.bing.com/th?id=OHR.RepublicDay2026_EN-IN4289196268_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.RepublicDay2026_EN-IN4289196268",
+        "copyright": "Balloons released during the 2021 Republic Day parade in New Delhi (© T. Narayan/Bloomberg/Getty Images)",
+        "copyrightKeyword": "Republic Day",
+        "hsh": "c97132e23ed9c9438693b5ee7a3c44b0",
+        "description": "Republic Day, observed on 26 January, marks the moment India formally became a republic in 1950. Independence had come three years earlier, but this date signalled a clear shift into a new national phase. It established how the country would govern itself and how public life would be organised in the future. Over time, this day has become a fixed point in India's calendar, balancing historical memory with present-day observance."
+    },
+    {
         "fullstartdate": "202601241830",
         "date": "20260125",
         "url": "https://www.bing.com/th?id=OHR.BurnsPark_EN-IN8501702945_1920x1080.jpg",
@@ -72,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BubblesAbraham_EN-IN0433961351",
         "copyright": "Frozen Abraham Lake, Alberta, Canada (© Luis F Arevalo/Getty Images)",
         "copyrightKeyword": "Abraham Lake Alberta",
-        "hsh": "f980703ba908e110c153fa038bb92106",
-        "description": "The surface looks busy, but everything else is still. White bubbles stack under clear ice as if time stalled halfway through a reaction. Unusual? Yes. Mysterious? Only until you look closer. This is Abraham Lake, the largest reservoir in Alberta, Canada. It is located in the Kootenay Plains area of the Canadian Rockies' front range, where winter captures gas in mid-escape.",
-        "maplink": "52.22361,-116.4272"
-    },
-    {
-        "fullstartdate": "202601171830",
-        "date": "20260118",
-        "url": "https://www.bing.com/th?id=OHR.WhiteSandsNM_EN-IN0223535829_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WhiteSandsNM_EN-IN0223535829",
-        "copyright": "White Sands National Park, New Mexico, United States (© Francesco Carucci/Getty Images)",
-        "copyrightKeyword": "White Sands National Park New Mexico",
-        "hsh": "5bfb0d6219adc3f6c8f5ccfddcb451d2"
+        "hsh": "f980703ba908e110c153fa038bb92106"
     }
 ]
