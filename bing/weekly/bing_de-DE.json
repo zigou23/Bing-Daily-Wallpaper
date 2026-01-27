@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202601272300",
+        "date": "20260128",
+        "url": "https://www.bing.com/th?id=OHR.WhanganuiPark_DE-DE0122183899_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WhanganuiPark_DE-DE0122183899",
+        "copyright": "Whanganui-Nationalpark, Retaruke, Neuseeland (© Matthew Micah Wright/Getty Images)",
+        "copyrightKeyword": "Whanganui-Nationalpark Neuseeland",
+        "hsh": "42e82c0204e4c646ee050e40d4741b5b",
+        "description": "Wer unberührte Natur sucht, findet im Whanganui-Nationalpark in Neuseeland eine Landschaft voller Stille und Tiefe. Der 1986 gegründete Park auf der Nordinsel umfasst rund 740 Quadratkilometer und wird vom mächtigen Whanganui River geprägt, der sich in weiten, ruhigen Bögen durch dichten, immergrünen Wald windet. Obwohl der Fluss offiziell außerhalb der Parkgrenzen liegt, bestimmt er das Wesen dieser Region. Besonders deutlich zeigt sich das entlang der Whanganui Journey, die zu den offiziellen „Great Walks“ des Landes zählt.",
+        "maplink": "-39.58333,175.0833"
+    },
+    {
         "fullstartdate": "202601262300",
         "date": "20260127",
         "url": "https://www.bing.com/th?id=OHR.DalmationPelicans_DE-DE9659953215_1920x1080.jpg",
@@ -72,16 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BerrySquirrel_DE-DE1679110073",
         "copyright": "Eurasisches Eichhörnchen (© Galina Jacyna/Getty Images)",
         "copyrightKeyword": "Eurasisches Eichhörnchen",
-        "hsh": "6777f42c956f2bdbb1147bdae920dcf7",
-        "description": "Im glitzernden Winterwald huscht ein kleiner Akrobat durch den Schnee. Das Eurasische Eichhörnchen bewegt sich geschickt zwischen Ästen und Boden, sein dichtes, rötlich-braunes Fell sowie die markanten Ohrpinsel schützen es zuverlässig vor der Kälte. Sein buschiger Schwanz dient ihm als Balancehilfe und an frostigen Tagen sogar als wärmende Decke. In Deutschland ist das Eichhörnchen weit verbreitet, von den Alpen bis an die Küsten. Als heimische Art steht es unter strengem Gesetzesschutz, der das Fangen, Verletzen oder Stören der Tiere untersagt."
-    },
-    {
-        "fullstartdate": "202601192300",
-        "date": "20260120",
-        "url": "https://www.bing.com/th?id=OHR.IciclePenguin_DE-DE1468306141_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.IciclePenguin_DE-DE1468306141",
-        "copyright": "Eselspinguin, Petermann-Insel, Antarktis (© Paul Souders/DanitaDelimont.com/Alamy)",
-        "copyrightKeyword": "Pinguin-Tag Januar",
-        "hsh": "b0ad43b6a6bf0f24a7600ab121b188d2"
+        "hsh": "6777f42c956f2bdbb1147bdae920dcf7"
     }
 ]
