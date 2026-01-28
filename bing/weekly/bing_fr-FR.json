@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202601282300",
+        "date": "20260129",
+        "url": "https://www.bing.com/th?id=OHR.MilwaukeeHall_FR-FR8690417570_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MilwaukeeHall_FR-FR8690417570",
+        "copyright": "L'atrium ouvert de huit étages du Milwaukee City Hall, Wisconsin, États-Unis (© lavin photography/Getty Images)",
+        "copyrightKeyword": "Milwaukee ville",
+        "hsh": "2dc2847869eb160a7517896910fe1fd7",
+        "description": "Si vous avez déjà visité Milwaukee et levé les yeux en flânant dans son centre-ville, votre regard s’est très probablement posé sur l’impressionnant City Hall. Achevé en 1895, ce chef-d’œuvre de style Renaissance flamande ne se contente pas de dominer la ville : il en incarne l’âme. Pendant près de huit décennies, il fut le plus haut édifice de Milwaukee, symbole d’une cité en plein essor. Son architecte, Henry C. Koch, y a mêlé des influences germaniques à l’histoire locale, hommage à la forte empreinte allemande qui façonna le quartier, un peu comme nos hôtels de ville français, tels ceux de Lille ou de Lyon, porteurs de l’identité d’une cité.",
+        "maplink": "43.041759,-87.909752"
+    },
+    {
         "fullstartdate": "202601272300",
         "date": "20260128",
         "url": "https://www.bing.com/th?id=OHR.WhanganuiPark_FR-FR8047545940_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.KarlovyVary_FR-FR4051423733",
         "copyright": "Karlovy Vary, Bohême, Tchéquie (© Henryk Sadura/Getty Images)",
         "copyrightKeyword": "Karlovy Vary",
-        "hsh": "34525ba368d82455b719668a1ef3d4eb",
-        "description": "L’hiver enveloppe Karlovy Vary d’un voile pastel, au cœur d’une vallée façonnée par la chaleur des sources qui jaillissent sous ses collines. Cette ville nichée en Bohême (actuelle Tchéquie) doit son destin à une rencontre fortuite : au XIVᵉ siècle, Charles IV, roi de Bohême et futur empereur romain, y découvre une eau fumante. Ce moment marque alors le début d’une histoire intimement liée au bien-être.",
-        "maplink": "50.23056,12.8725"
-    },
-    {
-        "fullstartdate": "202601202300",
-        "date": "20260121",
-        "url": "https://www.bing.com/th?id=OHR.BerrySquirrel_FR-FR1330095052_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BerrySquirrel_FR-FR1330095052",
-        "copyright": "Écureuil roux d’Eurasie (© Galina Jacyna/Getty Images)",
-        "copyrightKeyword": "Journée de l'Écureuil",
-        "hsh": "d2bb24f02a6d86a6fb488e412fc09e5c"
+        "hsh": "34525ba368d82455b719668a1ef3d4eb"
     }
 ]
