@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202601290800",
+        "date": "20260129",
+        "url": "https://www.bing.com/th?id=OHR.MilwaukeeHall_EN-US9990591477_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MilwaukeeHall_EN-US9990591477",
+        "copyright": "The eight-story open atrium of Milwaukee City Hall, Wisconsin (© lavin photography/Getty Images)",
+        "copyrightKeyword": "Milwaukee city",
+        "hsh": "8e310a6dbe6ec521f85480315c8aaf4e",
+        "description": "If you've ever wandered through downtown Milwaukee and looked up in awe, chances are you were staring at the iconic Milwaukee City Hall. Completed in 1895, this towering Flemish Renaissance Revival masterpiece doesn't just dominate the skyline; it defines it. For nearly eight decades, it stood as the city's tallest building, a title it proudly held until 1973. Designed by architect Henry C. Koch, this hall blends German-inspired architecture with Milwaukee's own historic influences. That connection isn't accidental—its design pays tribute to the city's strong German heritage, which shaped much of the surrounding neighborhood as well.",
+        "maplink": "43.041759,-87.909752"
+    },
+    {
         "fullstartdate": "202601280800",
         "date": "20260128",
         "url": "https://www.bing.com/th?id=OHR.WhanganuiPark_EN-US9741312204_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.KarlovyVary_EN-US0856094511",
         "copyright": "Karlovy Vary, Bohemia, Czechia (© Henryk Sadura/Getty Images)",
         "copyrightKeyword": "Karlovy Vary",
-        "hsh": "4782673b1aa782973949fb14ef5229d3",
-        "description": "In today's image, winter settles over Karlovy Vary in Czechia, a pastel valley that built its identity around the hot springs rising through its hills. The eponymous city traces its beginnings to accounts of Charles IV, then king of Bohemia (a historic region of Czechia) and later Roman Emperor, encountering a steaming pool here in the 14th century, an early moment that set this quiet part of Bohemia on the path to becoming a spa retreat.",
-        "maplink": "50.23056,12.8725"
-    },
-    {
-        "fullstartdate": "202601210800",
-        "date": "20260121",
-        "url": "https://www.bing.com/th?id=OHR.BerrySquirrel_EN-US0798771452_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BerrySquirrel_EN-US0798771452",
-        "copyright": "Eurasian red squirrel (© Galina Jacyna/Getty Images)",
-        "copyrightKeyword": "Squirrel Day",
-        "hsh": "98061db8c190bc8627e91f9c7a3a00b3"
+        "hsh": "4782673b1aa782973949fb14ef5229d3"
     }
 ]

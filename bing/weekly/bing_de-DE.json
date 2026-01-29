@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202601292300",
+        "date": "20260130",
+        "url": "https://www.bing.com/th?id=OHR.StMichaelsCornwall_DE-DE4570450459_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.StMichaelsCornwall_DE-DE4570450459",
+        "copyright": "St. Michael’s Mount in Marazion, Cornwall, England (© Baxter Bradford/robertharding/Getty Images)",
+        "copyrightKeyword": "St Michaels Mount",
+        "hsh": "7e7a0617fe79bd9fa382a0dcfa16d277",
+        "description": "Vor der Küste Cornwalls erhebt sich eine kleine Insel aus dem Meer, die nur bei Ebbe mit dem Festland verbunden ist. Mehrmals am Tag wird ein jahrhundertealter Granitdamm freigelegt, über den einst Pilger und Fischer gingen. So erreicht man St. Michael’s Mount, eine Gezeiteninsel vor Marazion im englischen Cornwall. Heute wird sie vom National Trust betreut, und seit dem 17. Jahrhundert lebt hier die Familie St. Aubyn. Auf kleinem Raum treffen Mythen, mittelalterliche Geschichte und eindrucksvolle Küstenlandschaften aufeinander.",
+        "maplink": "50.794376,-5.751882"
+    },
+    {
         "fullstartdate": "202601282300",
         "date": "20260129",
         "url": "https://www.bing.com/th?id=OHR.MilwaukeeHall_DE-DE1517819604_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.IcelandSheep_DE-DE7690872056",
         "copyright": "Weidende Schafe im Schnee, Island (© Christophe Lehenaff/Getty Images)",
         "copyrightKeyword": "Island Mittwinterfest",
-        "hsh": "943f336a7f6dffa68699da0f779b5dcb",
-        "description": "Wenn der Winter Island mit eisiger Klarheit überzieht, verwandelt das Þorrablót die dunkelste Zeit des Jahres in ein Fest voller Wärme und kulturellen Selbstbewusstseins. Das traditionsreiche Mittwinterfest, dessen Name auf die mythologische Gestalt Þorri zurückgeht, reicht bis in die Wikingerzeit zurück. Ursprünglich baten die Menschen damit die Götter um Schutz, heute rückt die bewusste Pflege des Erbes in den Fokus.",
-        "maplink": "65,-19"
-    },
-    {
-        "fullstartdate": "202601212300",
-        "date": "20260122",
-        "url": "https://www.bing.com/th?id=OHR.Mimramfootbridge_DE-DE7428215729_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.Mimramfootbridge_DE-DE7428215729",
-        "copyright": "Mimram-Fußgängerbrücke über den Rhein zwischen Frankreich und Deutschland (© Leonid Andronov/Alamy)",
-        "copyrightKeyword": "Deutsch-Französischer Tag",
-        "hsh": "42beb59b6546960a0e23f109c305897b"
+        "hsh": "943f336a7f6dffa68699da0f779b5dcb"
     }
 ]
