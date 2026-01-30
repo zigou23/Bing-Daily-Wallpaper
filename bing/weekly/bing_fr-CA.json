@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202601300500",
+        "date": "20260130",
+        "url": "https://www.bing.com/th?id=OHR.WinterludeKimono_FR-CA9880865878_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WinterludeKimono_FR-CA9880865878",
+        "copyright": "« Kimono » sculpté par Hiroaki Kimura et Masaki Takahashi du Japon, Bal de Neige 2010, Ottawa, Gatineau, Canada (© PensiveDragon/Shutterstock)",
+        "copyrightKeyword": "Bal de Neige Canada",
+        "hsh": "29fb1d1de9350b1ea31222fc5e469945",
+        "description": "Le Bal de Neige commence aujourd’hui à Ottawa-Gatineau! Enfilez vos mitaines, habillez-vous chaudement et venez profiter des joies de l’hiver. Créé en 1979 par la Commission de la capitale nationale, le festival voulait rendre la saison froide plus attrayante et rapprocher les gens plutôt que les isoler — une idée qui tient toujours.",
+        "maplink": "45.42472,-75.695"
+    },
+    {
         "fullstartdate": "202601290500",
         "date": "20260129",
         "url": "https://www.bing.com/th?id=OHR.MilwaukeeHall_FR-CA5023663635_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.IcelandSheep_FR-CA9355432333",
         "copyright": "Des moutons dans la neige, Islande (© Christophe Lehenaff/Getty Images)",
         "copyrightKeyword": "Thorrablot Islande",
-        "hsh": "85d2c565880e78d77ef802e2b174467c",
-        "description": "Lorsque janvier enveloppe l’Islande de son souffle glacé, une chaleur inattendue s’invite dans les foyers : le Þorrablót. Héritée des Vikings, cette fête hivernale, jadis offrande aux dieux pour traverser la rigueur des saisons, est aujourd’hui un hymne à la convivialité et à la mémoire. C’est un hommage à une époque où la survie dépendait de l’ingéniosité et du lien communautaire.",
-        "maplink": "65,-19"
-    },
-    {
-        "fullstartdate": "202601220500",
-        "date": "20260122",
-        "url": "https://www.bing.com/th?id=OHR.KarlovyVary_FR-CA1267212524_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.KarlovyVary_FR-CA1267212524",
-        "copyright": "Karlovy Vary, Bohème, Tchéquie (© Henryk Sadura/Getty Images)",
-        "copyrightKeyword": "Karlovy Vary",
-        "hsh": "1bdd1fe0bde1063b871eaeecae342037"
+        "hsh": "85d2c565880e78d77ef802e2b174467c"
     }
 ]
