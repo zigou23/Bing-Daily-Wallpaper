@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202601312300",
+        "date": "20260201",
+        "url": "https://www.bing.com/th?id=OHR.Olinda_DE-DE3587898033_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.Olinda_DE-DE3587898033",
+        "copyright": "Buntes Haus in Olinda, Brasilien (© Robert Pekar/Alamy)",
+        "copyrightKeyword": "Olinda, Brasilien",
+        "hsh": "3c5fc48b078beb1bfd664cce962cc497",
+        "description": "Farbe prägt das Stadtbild von Olinda. Das auf dem Bild gezeigte Haus mit seinen kräftigen, klaren Farben steht exemplarisch für eine Stadt, in der Geschichte und Kreativität eng miteinander verbunden sind. Olinda wurde im 16. Jahrhundert im heutigen Bundesstaat Pernambuco im Nordosten Brasiliens als Kolonialsiedlung gegründet und entwickelte sich zu einem bedeutenden kulturellen Zentrum. Bis heute prägen portugiesische Architektur, afro-brasilianische Traditionen und jahrhundertelanger künstlerischer Ausdruck das Erscheinungsbild der Stadt. Die hügelige Altstadt ist geprägt von farbigen Fassaden, barocken Kirchen und schmalen Kopfsteinpflasterstraßen.",
+        "maplink": "-7.99186,-34.858752"
+    },
+    {
         "fullstartdate": "202601302300",
         "date": "20260131",
         "url": "https://www.bing.com/th?id=OHR.EtoshaZebra_DE-DE4542235434_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BurnsPark_DE-DE8456925914",
         "copyright": "Burns National Heritage Park, Ayr, Ayrshire, Schottland (© Alister Firth/Alamy)",
         "copyrightKeyword": "Burns Supper Robert Burns Schottland",
-        "hsh": "23fed69606fd0f0d84124e1f0b1ef5d6",
-        "description": "Jedes Jahr am 25. Januar gedenken Menschen in Schottland und auf der ganzen Welt Robert Burns, dem Nationaldichter des Landes. An seinem Geburtstag findet traditionell die sogenannte Burns Night statt – ein Abend, der Humor, Tradition und geselliges Beisammensein verbindet und auch als Burns Supper bekannt ist. Im Mittelpunkt steht dabei oft Haggis, eine herzhafte Spezialität aus Fleisch, Hafer und Gewürzen, die mit Neeps (Steckrüben) und Tatties (Kartoffelpüree) serviert wird. Es werden Gedichte von Burns vorgetragen, Whisky ausgeschenkt und nicht selten gemeinsam „Auld Lang Syne“ angestimmt.",
-        "maplink": "55.427528,-4.634584"
-    },
-    {
-        "fullstartdate": "202601232300",
-        "date": "20260124",
-        "url": "https://www.bing.com/th?id=OHR.AndermattSwiss_DE-DE4290950061_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AndermattSwiss_DE-DE4290950061",
-        "copyright": "Andermatt in den Schweizer Alpen (© Xantana/Getty Images)",
-        "copyrightKeyword": "Andermatt Schweiz",
-        "hsh": "ad913d9b29b7cf9d906ea15d207244fb"
+        "hsh": "23fed69606fd0f0d84124e1f0b1ef5d6"
     }
 ]
