@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202602011500",
+        "date": "20260202",
+        "url": "https://www.bing.com/th?id=OHR.AlpineMarmots_JA-JP1553270450_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AlpineMarmots_JA-JP1553270450",
+        "copyright": "アルプスマーモット, オーストリア (© Raimund Linke/Getty Images)",
+        "copyrightKeyword": "グラウンドホッグデー",
+        "hsh": "161f2f4f0a8eae54e30edd249079fb16",
+        "description": "今日、2 月 2 日はグラウンドホッグデー。主に北米で行われる、春の訪れを占う日です。冬眠から目覚めたグラウンドホッグが巣穴から出たとき、自分の影を見て驚いて巣穴に戻れば、その後もしばらく冬が続くとされ、影を見ずに外にとどまれば、春の到来が近いとされています…",
+        "maplink": "47.135559,12.32529"
+    },
+    {
         "fullstartdate": "202601311500",
         "date": "20260201",
         "url": "https://www.bing.com/th?id=OHR.Echasse_JA-JP1351434706_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BubblesAbraham_JA-JP9895459899",
         "copyright": "アブラハムレイク, カナダ (© Luis F Arevalo/Getty Images)",
         "copyrightKeyword": "アブラハムレイク",
-        "hsh": "52c2fd433eb1a2559ac3f76414a02566",
-        "description": "ここはアブラハムレイク。カナダ・アルバータ州に造られた人工湖で、面積は約 53.7km² に及ぶ同州最大の貯水池です。ロッキー山脈特有の岩粉によって生まれる美しいターコイズブルーの湖水が広がり、周囲の山々を映し出す絶景スポットとして人気です…",
-        "maplink": "52.22361,-116.4272"
-    },
-    {
-        "fullstartdate": "202601241500",
-        "date": "20260125",
-        "url": "https://www.bing.com/th?id=OHR.BurnsPark_JA-JP9708968769_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BurnsPark_JA-JP9708968769",
-        "copyright": "バーンズ国立遺産公園, スコットランド (© Alister Firth/Alamy)",
-        "copyrightKeyword": "Burns National Heritage Park",
-        "hsh": "e5c3ae84792ab5df0dc2448c42a108ab"
+        "hsh": "52c2fd433eb1a2559ac3f76414a02566"
     }
 ]

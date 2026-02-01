@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202602012300",
+        "date": "20260202",
+        "url": "https://www.bing.com/th?id=OHR.AlpineMarmots_DE-DE4432571270_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AlpineMarmots_DE-DE4432571270",
+        "copyright": "Alpenmurmeltiere, Nationalpark Hohe Tauern, Österreich (© Raimund Linke/Getty Images)",
+        "copyrightKeyword": "Alpenmurmeltiere",
+        "hsh": "80399661977cfe8ec1c9c00622ebdade",
+        "description": "Vor der beeindruckenden Bergkulisse des Nationalparks Hohe Tauern in Österreich zeigen sich die Alpenmurmeltiere von ihrer neugierigen Seite. Die geselligen Nagetiere verbringen den Sommer auf alpinen Wiesen, wo sie Nahrung sammeln und im Familienverband leben. Den Winter über halten sie in ihren weit verzweigten Bauen eine mehrmonatige Winterruhe. Sobald die ersten warmen Tage einsetzen, erscheinen sie wieder an der Oberfläche. Dieses Naturereignis gilt vielerorts als stiller Hinweis auf den nahenden Frühling.",
+        "maplink": "47.135559,12.32529"
+    },
+    {
         "fullstartdate": "202601312300",
         "date": "20260201",
         "url": "https://www.bing.com/th?id=OHR.Olinda_DE-DE3587898033_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.NeuschwansteinWinter_DE-DE8806606737",
         "copyright": "Schneebedecktes Schloss Neuschwanstein bei Hohenschwangau, Bayern (© www.fredconcha.com @ All Rights Reserved/Getty Images)",
         "copyrightKeyword": "Schloss Neuschwanstein",
-        "hsh": "cf1fcfa7bde1271aea401ac7b0fdb164",
-        "description": "Kaum ein Schloss hat die Fantasie der Menschen weltweit so sehr geprägt wie Neuschwanstein – und das nicht nur in Bayern. Walt Disney ließ sich bei der Gestaltung des Dornröschen-Schlosses im kalifornischen Disneyland von diesem Anblick inspirieren. Heute ragt das Bauwerk hoch über Hohenschwangau und die verschneiten Allgäuer Wälder empor und wirkt wie ein Tor in eine andere Zeit.",
-        "maplink": "47.557838,10.749735"
-    },
-    {
-        "fullstartdate": "202601242300",
-        "date": "20260125",
-        "url": "https://www.bing.com/th?id=OHR.BurnsPark_DE-DE8456925914_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BurnsPark_DE-DE8456925914",
-        "copyright": "Burns National Heritage Park, Ayr, Ayrshire, Schottland (© Alister Firth/Alamy)",
-        "copyrightKeyword": "Burns Supper Robert Burns Schottland",
-        "hsh": "23fed69606fd0f0d84124e1f0b1ef5d6"
+        "hsh": "cf1fcfa7bde1271aea401ac7b0fdb164"
     }
 ]
