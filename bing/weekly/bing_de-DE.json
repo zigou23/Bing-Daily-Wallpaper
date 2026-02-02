@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202602022300",
+        "date": "20260203",
+        "url": "https://www.bing.com/th?id=OHR.FanetteIsland_DE-DE2043843466_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FanetteIsland_DE-DE2043843466",
+        "copyright": "Emerald Bay und Fannette Island, Lake Tahoe, Kalifornien, USA (© Bill Stevenson/Cavan Images)",
+        "copyrightKeyword": "Fannette Island Kalifornien",
+        "hsh": "3010eeb082b4e0f92ac7e84994a95a66",
+        "description": "Lake Tahoe an der Grenze zwischen Kalifornien und Nevada in den USA erzählt Geschichten aus Jahrtausenden. Das Becken entstand in der Eiszeit, als tektonische Kräfte und Gletscher die Landschaft formten. Jahrtausendelang lebten hier die Washoe, die den See als Lebensraum nutzten, der ihnen je nach Jahreszeit unterschiedliche Ressourcen bot. Später kamen Goldsucher, Dampfschiffe überquerten das Wasser, und Lake Tahoe wandelte sich vom Industriezentrum zu einem beliebten Rückzugsort in den Bergen der Sierra Nevada. Die Emerald Bay, wie auf dem Bild zu sehen, ist eine der meistfotografierten Buchten des Sees. Ihr flacheres Wasser leuchtet besonders hell, und am Grund liegen historische Boote und Lastkähne, die heute zum Emerald Bay State Park gehören.",
+        "maplink": "38.95409,-120.1007"
+    },
+    {
         "fullstartdate": "202602012300",
         "date": "20260202",
         "url": "https://www.bing.com/th?id=OHR.AlpineMarmots_DE-DE4432571270_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DalmationPelicans_DE-DE9659953215",
         "copyright": "Krauskopfpelikane, Kerkini-See, Griechenland (© Guy Edwardes/naturepl.com)",
         "copyrightKeyword": "Krauskopfpelikane",
-        "hsh": "6e40e979591627851fa103ec15da0cb1",
-        "description": "Wenn der Winter klare Linien in die Landschaft zeichnet, wird der Kerkini-See in Nordgriechenland zur Bühne eines besonderen Naturschauspiels. In dieser Jahreszeit lassen sich Krauskopfpelikane hier aus nächster Nähe beobachten. Mit ihren imposanten Silhouetten gleiten sie beinahe schwerelos über das ruhige Wasser. Mit einer Flügelspannweite von über drei Metern zählen sie zu den größten flugfähigen Vögeln der Welt und am Kerkini-See zeigen sie sich von ihrer eindrucksvollsten Seite.",
-        "maplink": "41.199512,23.15332"
-    },
-    {
-        "fullstartdate": "202601252300",
-        "date": "20260126",
-        "url": "https://www.bing.com/th?id=OHR.NeuschwansteinWinter_DE-DE8806606737_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.NeuschwansteinWinter_DE-DE8806606737",
-        "copyright": "Schneebedecktes Schloss Neuschwanstein bei Hohenschwangau, Bayern (© www.fredconcha.com @ All Rights Reserved/Getty Images)",
-        "copyrightKeyword": "Schloss Neuschwanstein",
-        "hsh": "cf1fcfa7bde1271aea401ac7b0fdb164"
+        "hsh": "6e40e979591627851fa103ec15da0cb1"
     }
 ]

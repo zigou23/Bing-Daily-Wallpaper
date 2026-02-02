@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202602022300",
+        "date": "20260203",
+        "url": "https://www.bing.com/th?id=OHR.FanetteIsland_ES-ES4459822597_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FanetteIsland_ES-ES4459822597",
+        "copyright": "Bahía Esmeralda e isla Fannette, lago Tahoe, California, EE. UU. (© Bill Stevenson/Cavan Images)",
+        "copyrightKeyword": "Isla Fannette",
+        "hsh": "eb4a7cebd15614cb2ba677245b36f4a1",
+        "description": "En la imagen de hoy descubrimos la Bahía Esmeralda y la isla Fannette, en el lago Tahoe, en California (Estados Unidos). Este enclave destaca por el contraste entre el azul profundo del agua y las laderas cubiertas de pinos que descienden hasta la orilla. En lo alto de la pequeña isla se conservan las ruinas de la antigua \"Casa de té\" construida en los años veinte, un pequeño refugio de piedra que ofrecía a sus visitantes una vista privilegiada del entorno. El relieve abrupto y la claridad del agua crean una sensación de calma que invita a imaginar cómo era la vida en este rincón remoto cuando aún se llegaba a la isla en pequeñas embarcaciones a remo o motor. El ambiente alpino y el silencio que envuelve la escena transmiten una belleza que parece suspendida en el tiempo."
+    },
+    {
         "fullstartdate": "202602012300",
         "date": "20260202",
         "url": "https://www.bing.com/th?id=OHR.AlpineMarmots_ES-ES4070068615_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DalmationPelicans_ES-ES2127597270",
         "copyright": "Pelícanos ceñudos, Lago Kerkini, Grecia (© Guy Edwardes/naturepl.com)",
         "copyrightKeyword": "Pelícano ceñudo",
-        "hsh": "27d3a1b4d244ca1024e2097212096598",
-        "description": "El invierno en el lago Kerkini, en el norte de Grecia, regala algunas de las mejores vistas de pelícanos ceñudos de Europa. Sus enormes siluetas se deslizan en grupos compactos sobre las aguas tranquilas, dejando patente su impresionante tamaño. Con más de tres metros de envergadura, figuran entre las aves voladoras más grandes del mundo. Las condiciones invernales del lago permiten observarlos a corta distancia, con nitidez y continuidad."
-    },
-    {
-        "fullstartdate": "202601252300",
-        "date": "20260126",
-        "url": "https://www.bing.com/th?id=OHR.Navarra_ES-ES9772390059_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.Navarra_ES-ES9772390059",
-        "copyright": "Ochagavía cubierta de nieve, Navarra, España (© PhotosTime/Getty Images)",
-        "copyrightKeyword": "Ochagavía en Navarra",
-        "hsh": "6596986f21bf2e6025b341d16a2fe990"
+        "hsh": "27d3a1b4d244ca1024e2097212096598"
     }
 ]

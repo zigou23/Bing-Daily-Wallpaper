@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202602020800",
+        "date": "20260202",
+        "url": "https://www.bing.com/th?id=OHR.AlpineMarmots_EN-US0200342638_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AlpineMarmots_EN-US0200342638",
+        "copyright": "Alpine marmots, Hohe Tauern National Park, Austria (© Raimund Linke/Getty Images)",
+        "copyrightKeyword": "Groundhog Day tradition",
+        "hsh": "980067e3d6f16184894167a6abd2aec4",
+        "description": "Every February 2, the world turns its eyes to a furry little forecaster with a penchant for popping out of holes: the groundhog. Legend has it that if this pint-sized predictor sees its shadow, winter drags on for six more weeks. No shadow? Spring is just around the corner. It's a quirky tradition that turns a small rodent into a celebrity meteorologist.",
+        "maplink": "47.135559,12.32529"
+    },
+    {
         "fullstartdate": "202602010800",
         "date": "20260201",
         "url": "https://www.bing.com/th?id=OHR.ArmyNurses_EN-US0165759491_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.NeuschwansteinWinter_EN-US9407713688",
         "copyright": "Neuschwanstein Castle, Bavaria, Germany (© www.fredconcha.com @ All Rights Reserved/Getty Images)",
         "copyrightKeyword": "neuschwanstein castle",
-        "hsh": "2eed825d16fbf0b8ae008ae85fda51a6",
-        "description": "The story of Neuschwanstein Castle begins with the dreams of King Ludwig II of Bavaria, who imagined a retreat inspired by medieval legends and grand operas. Set among mountains and forests, the castle rises with delicate towers and intricate stonework that seem to float above the valley. Although construction started in the nineteenth century, the palace was never fully completed, which adds to its aura of mystery.",
-        "maplink": "47.643485,10.754464"
-    },
-    {
-        "fullstartdate": "202601250800",
-        "date": "20260125",
-        "url": "https://www.bing.com/th?id=OHR.BurnsPark_EN-US9363066918_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BurnsPark_EN-US9363066918",
-        "copyright": "Burns National Heritage Park, Ayr, Ayrshire, Scotland (© Alister Firth/Alamy)",
-        "copyrightKeyword": "Burns night Robert Burns",
-        "hsh": "b1e8b4e049724d8a1856a02f0a0452ef"
+        "hsh": "2eed825d16fbf0b8ae008ae85fda51a6"
     }
 ]
