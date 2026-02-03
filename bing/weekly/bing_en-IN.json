@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202602031830",
+        "date": "20260204",
+        "url": "https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_EN-IN1823015725_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_EN-IN1823015725",
+        "copyright": "Red kite in snow (© Carl Mckie/500px/Getty Images)",
+        "copyrightKeyword": "Red kite bird",
+        "hsh": "2c65320bc57d80c374121abed8e41773",
+        "description": "Red kites are striking birds of prey known for their reddish‑brown bodies, pale heads and long, forked tails that help them steer with impressive precision. Mostly found in Europe, they thrive in countries such as the United Kingdom, Spain, France and Germany. The Chiltern Hills in England are one of the biggest conservation success stories: once nearly wiped out there, the birds rebounded after chicks from Spain were released in the late 1980s and early 1990s."
+    },
+    {
         "fullstartdate": "202602021830",
         "date": "20260203",
         "url": "https://www.bing.com/th?id=OHR.FanetteIsland_EN-IN1597160991_1920x1080.jpg",
@@ -72,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.WhanganuiPark_EN-IN0247027182",
         "copyright": "Whanganui National Park, Retaruke, New Zealand (© Matthew Micah Wright/Getty Images)",
         "copyrightKeyword": "Whanganui National Park New Zealand",
-        "hsh": "536384545c74140c0c2f758b5719b126",
-        "description": "Whanganui National Park showcases one of New Zealand's most distinctive river landscapes. Established in 1986, the park covers about 741 square kilometres across the central North Island, with the Whanganui River tracing long, quiet bends through dense forest. Although the river is not officially within the park's boundaries, it shapes nearly everything around it, including the Whanganui Journey—one of New Zealand's designated Great Walks.",
-        "maplink": "-39.58333,175.0833"
-    },
-    {
-        "fullstartdate": "202601261830",
-        "date": "20260127",
-        "url": "https://www.bing.com/th?id=OHR.DalmationPelicans_EN-IN8609760555_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DalmationPelicans_EN-IN8609760555",
-        "copyright": "Dalmatian pelicans, Lake Kerkini, Greece (© Guy Edwardes/naturepl.com)",
-        "copyrightKeyword": "Dalmatian pelicans",
-        "hsh": "40eaed09e8d88a86bbe8e62f2b926854"
+        "hsh": "536384545c74140c0c2f758b5719b126"
     }
 ]

@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202602032300",
+        "date": "20260204",
+        "url": "https://www.bing.com/th?id=OHR.HamburgSpeicherstadt_DE-DE2204805313_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.HamburgSpeicherstadt_DE-DE2204805313",
+        "copyright": "Speicherstadt in der Dämmerung, Hamburg (© bluejayphoto/Getty Images)",
+        "copyrightKeyword": "Hamburg Speicherstadt",
+        "hsh": "66322ba5bd6a7e5cf6ecc26534e050ec",
+        "description": "Wenn die Dämmerung über Hamburg hereinbricht, verwandelt sich die Speicherstadt in ein leuchtendes Labyrinth aus Wasserwegen und historischen Backsteinfassaden. Warmes Licht spiegelt sich in den Kanälen und zwischen Giebeln, Brücken und Türmchen entfaltet sich ein Panorama, das die Architektur der Jahrhundertwende in der Hansestadt eindrucksvoll zur Geltung bringt.",
+        "maplink": "53.544655,9.99651"
+    },
+    {
         "fullstartdate": "202602022300",
         "date": "20260203",
         "url": "https://www.bing.com/th?id=OHR.FanetteIsland_DE-DE2043843466_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.WhanganuiPark_DE-DE0122183899",
         "copyright": "Whanganui-Nationalpark, Retaruke, Neuseeland (© Matthew Micah Wright/Getty Images)",
         "copyrightKeyword": "Whanganui-Nationalpark Neuseeland",
-        "hsh": "42e82c0204e4c646ee050e40d4741b5b",
-        "description": "Wer unberührte Natur sucht, findet im Whanganui-Nationalpark in Neuseeland eine Landschaft voller Stille und Tiefe. Der 1986 gegründete Park auf der Nordinsel umfasst rund 740 Quadratkilometer und wird vom mächtigen Whanganui River geprägt, der sich in weiten, ruhigen Bögen durch dichten, immergrünen Wald windet. Obwohl der Fluss offiziell außerhalb der Parkgrenzen liegt, bestimmt er das Wesen dieser Region. Besonders deutlich zeigt sich das entlang der Whanganui Journey, die zu den offiziellen „Great Walks“ des Landes zählt.",
-        "maplink": "-39.58333,175.0833"
-    },
-    {
-        "fullstartdate": "202601262300",
-        "date": "20260127",
-        "url": "https://www.bing.com/th?id=OHR.DalmationPelicans_DE-DE9659953215_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DalmationPelicans_DE-DE9659953215",
-        "copyright": "Krauskopfpelikane, Kerkini-See, Griechenland (© Guy Edwardes/naturepl.com)",
-        "copyrightKeyword": "Krauskopfpelikane",
-        "hsh": "6e40e979591627851fa103ec15da0cb1"
+        "hsh": "42e82c0204e4c646ee050e40d4741b5b"
     }
 ]
