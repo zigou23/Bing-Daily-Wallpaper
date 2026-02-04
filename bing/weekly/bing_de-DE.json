@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202602042300",
+        "date": "20260205",
+        "url": "https://www.bing.com/th?id=OHR.MaltaSalt_DE-DE3076934153_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MaltaSalt_DE-DE3076934153",
+        "copyright": "Salzpfannen auf der Insel Gozo, Malta (© Marius Roman/Getty Images)",
+        "copyrightKeyword": "Gozo Malta",
+        "hsh": "d80523961d8a0a1b66eaba5163bd5cde",
+        "description": "Die Xwejni Bay auf der maltesischen Insel Gozo wirkt wie eine stille Choreografie aus Meer, Stein und Sonne. Vor Jahrhunderten begannen Familien damit, die weichen Kalksteinplatten der Küste zu bearbeiten und ein Raster aus flachen Becken anzulegen. Bei jeder Welle füllt sich ein Teil der Becken mit Meerwasser, das anschließend in der Sonne verdunstet – zurück bleibt naturbelassenes Mittelmeersalz. Die warmen, trockenen Sommer Maltas schaffen dafür ideale Bedingungen, sodass hier eine bis heute lebendige Tradition der Salzgewinnung begann. Die ersten Kristalle bilden sich meist im Mai, wenn die Erntesaison startet. In Handarbeit wird das Salz geharkt, zusammengefegt und in kleinen Haufen getrocknet.",
+        "maplink": "36.045,14.25889"
+    },
+    {
         "fullstartdate": "202602032300",
         "date": "20260204",
         "url": "https://www.bing.com/th?id=OHR.HamburgSpeicherstadt_DE-DE2204805313_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MilwaukeeHall_DE-DE1517819604",
         "copyright": "Achtstöckiges offenes Atrium im Rathaus von Milwaukee, Wisconsin, USA (© lavin photography/Getty Images)",
         "copyrightKeyword": "Milwaukee Stadt USA",
-        "hsh": "0c4e2dfdd459efd5b31a31df19ff27a0",
-        "description": "Wer durch das Rathaus von Milwaukee im US‑Bundesstaat Wisconsin geht und nach oben blickt, erlebt einen außergewöhnlichen Anblick. Das achtstöckige, offene Atrium steigt wie ein leuchtender Schacht in die Höhe und wirkt mit seinen warmen Lichtfarben, dem filigranen Eisenwerk und dem großen Glasdach gleichzeitig historisch und überraschend modern. Die Milwaukee City Hall wurde 1895 im Stil der flämischen Neorenaissance fertiggestellt und prägte über Jahrzehnte die Skyline der Stadt. Henry C. Koch orientierte sich an deutschen Vorbildern, wie dem Hamburger Rathaus, was an der Turmsilhouette und den dekorativen Details sichtbar wird. Sie verweisen auf die starke deutsche Einwanderung, die Milwaukee im 19. Jahrhundert geprägt hat.",
-        "maplink": "43.041759,-87.909752"
-    },
-    {
-        "fullstartdate": "202601272300",
-        "date": "20260128",
-        "url": "https://www.bing.com/th?id=OHR.WhanganuiPark_DE-DE0122183899_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WhanganuiPark_DE-DE0122183899",
-        "copyright": "Whanganui-Nationalpark, Retaruke, Neuseeland (© Matthew Micah Wright/Getty Images)",
-        "copyrightKeyword": "Whanganui-Nationalpark Neuseeland",
-        "hsh": "42e82c0204e4c646ee050e40d4741b5b"
+        "hsh": "0c4e2dfdd459efd5b31a31df19ff27a0"
     }
 ]

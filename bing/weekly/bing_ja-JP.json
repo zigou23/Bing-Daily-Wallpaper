@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202602041500",
+        "date": "20260205",
+        "url": "https://www.bing.com/th?id=OHR.MaltaSalt_JA-JP9601510868_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MaltaSalt_JA-JP9601510868",
+        "copyright": "ゴゾ島, マルタ共和国 (© Marius Roman/Getty Images)",
+        "copyrightKeyword": "ゴゾ島の塩田",
+        "hsh": "54a71b65b327c9df51751e12bafa22c2",
+        "description": "地中海の中心に浮かぶマルタ共和国。その第 2 の島であるゴゾ島は、マルタ本島からフェリーで約 25 分とアクセスが良く、素朴で自然豊かな雰囲気が魅力です。美しい海辺の村や歴史的なチタデル要塞、「奇跡の声」で人々の病を癒したといわれるタ・ピーヌ教会など、見どころが多くあります…",
+        "maplink": "36.047119,14.252599"
+    },
+    {
         "fullstartdate": "202602031500",
         "date": "20260204",
         "url": "https://www.bing.com/th?id=OHR.Risshun2026_JA-JP6581085415_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MilwaukeeHall_JA-JP0738561179",
         "copyright": "ミルウォーキー市庁舎, 米国 ウィスコンシン州 (© lavin photography/Getty Images)",
         "copyrightKeyword": "ミルウォーキー市庁舎",
-        "hsh": "fc762c1aca8a1fa81188cf37c1b45ca7",
-        "description": "ミルウォーキーは、米国ウィスコンシン州に位置する同州最大の都市で、ミシガン湖西岸に面している水辺の街です。19 世紀の開拓期に発展し、その歴史の中で形成されたドイツ系移民文化が現在も色濃く残るビール醸造の街として知られています。また、日本ではアニメ「あらいぐまラスカル」の舞台の 1 つとしても親しまれています…",
-        "maplink": "43.041759,-87.909752"
-    },
-    {
-        "fullstartdate": "202601271500",
-        "date": "20260128",
-        "url": "https://www.bing.com/th?id=OHR.WhanganuiPark_JA-JP0176066803_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WhanganuiPark_JA-JP0176066803",
-        "copyright": "ワンガヌイ国立公園, ニュージーランド (© Matthew Micah Wright/Getty Images)",
-        "copyrightKeyword": "ワンガヌイ国立公園",
-        "hsh": "e7920c5004ae811029a50509a2504465"
+        "hsh": "fc762c1aca8a1fa81188cf37c1b45ca7"
     }
 ]

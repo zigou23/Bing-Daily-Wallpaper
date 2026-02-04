@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202602042300",
+        "date": "20260205",
+        "url": "https://www.bing.com/th?id=OHR.MaltaSalt_FR-FR2211478643_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MaltaSalt_FR-FR2211478643",
+        "copyright": "Les marais salants de Gozo, Malte (© Marius Roman/Getty Images)",
+        "copyrightKeyword": "Gozo Malte",
+        "hsh": "82763cf368f3eab5d88012f1eb34aa0d",
+        "description": "Imaginez un rivage où l’histoire des vagues s’imprime à chaque marée. À Xwejni Bay, sur l’île de Gozo, la seconde île de l’archipel maltais, le littoral calcaire se transforme en un damier de bassins taillés à la main, vestiges d’un savoir-faire transmis depuis des siècles. À chaque marée, l’eau s’y dépose, puis le soleil méditerranéen opère sa magie : il évapore doucement l’eau, laissant derrière lui des cristaux de sel purs.",
+        "maplink": "36.045,14.25889"
+    },
+    {
         "fullstartdate": "202602032300",
         "date": "20260204",
         "url": "https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_FR-FR1936767123_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MilwaukeeHall_FR-FR8690417570",
         "copyright": "L'atrium ouvert de huit étages du Milwaukee City Hall, Wisconsin, États-Unis (© lavin photography/Getty Images)",
         "copyrightKeyword": "Milwaukee ville",
-        "hsh": "2dc2847869eb160a7517896910fe1fd7",
-        "description": "Si vous avez déjà visité Milwaukee et levé les yeux en flânant dans son centre-ville, votre regard s’est très probablement posé sur l’impressionnant City Hall. Achevé en 1895, ce chef-d’œuvre de style Renaissance flamande ne se contente pas de dominer la ville : il en incarne l’âme. Pendant près de huit décennies, il fut le plus haut édifice de Milwaukee, symbole d’une cité en plein essor. Son architecte, Henry C. Koch, y a mêlé des influences germaniques à l’histoire locale, hommage à la forte empreinte allemande qui façonna le quartier, un peu comme nos hôtels de ville français, tels ceux de Lille ou de Lyon, porteurs de l’identité d’une cité.",
-        "maplink": "43.041759,-87.909752"
-    },
-    {
-        "fullstartdate": "202601272300",
-        "date": "20260128",
-        "url": "https://www.bing.com/th?id=OHR.WhanganuiPark_FR-FR8047545940_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WhanganuiPark_FR-FR8047545940",
-        "copyright": "Parc National de Whanganui, Retaruke, Nouvelle-Zélande (© Matthew Micah Wright/Getty Images)",
-        "copyrightKeyword": "Parc National Whanganui",
-        "hsh": "200a8cc87bb5490f7089d18dd4ec1aee"
+        "hsh": "2dc2847869eb160a7517896910fe1fd7"
     }
 ]
