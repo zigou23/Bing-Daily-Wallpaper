@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202602060500",
+        "date": "20260206",
+        "url": "https://www.bing.com/th?id=OHR.GiauPass_FR-CA5570284241_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GiauPass_FR-CA5570284241",
+        "copyright": "Le Ra Gusela, col de Giau Pass, près de Cortina d'Ampezzo, Italie (© Tomasz Podolski/Getty Images)",
+        "copyrightKeyword": "Jeux Olympiques hiver 2026",
+        "hsh": "ada94e823ca191650e0e14c232a03160",
+        "description": "Les Jeux olympiques d’hiver 2026 s’ouvrent aujourd’hui, et rares sont les paysages qui incarnent mieux leur esprit que les Dolomites. Dominant le col de Giau, le Ra Gusela, sommet italien culminant à 2 595 mètres, se dresse comme une flèche de calcaire au-dessus des vallées enneigées. Ses parois abruptes, sculptées par le vent et le temps, imposent une présence brute qui rappelle, à leur manière, les reliefs de la Gaspésie où la roche plonge vers la neige et la mer.",
+        "maplink": "46.44809,12.01492"
+    },
+    {
         "fullstartdate": "202602050500",
         "date": "20260205",
         "url": "https://www.bing.com/th?id=OHR.MaltaSalt_FR-CA8173669385_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.WinterludeKimono_FR-CA9880865878",
         "copyright": "« Kimono » sculpté par Hiroaki Kimura et Masaki Takahashi du Japon, Bal de Neige 2010, Ottawa, Gatineau, Canada (© PensiveDragon/Shutterstock)",
         "copyrightKeyword": "Bal de Neige Canada",
-        "hsh": "29fb1d1de9350b1ea31222fc5e469945",
-        "description": "Le Bal de Neige commence aujourd’hui à Ottawa-Gatineau! Enfilez vos mitaines, habillez-vous chaudement et venez profiter des joies de l’hiver. Créé en 1979 par la Commission de la capitale nationale, le festival voulait rendre la saison froide plus attrayante et rapprocher les gens plutôt que les isoler — une idée qui tient toujours.",
-        "maplink": "45.42472,-75.695"
-    },
-    {
-        "fullstartdate": "202601290500",
-        "date": "20260129",
-        "url": "https://www.bing.com/th?id=OHR.MilwaukeeHall_FR-CA5023663635_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MilwaukeeHall_FR-CA5023663635",
-        "copyright": "L'atrium ouvert de huit étages du Milwaukee City Hall, Wisconsin, États-Unis (© lavin photography/Getty Images)",
-        "copyrightKeyword": "Milwaukee ville",
-        "hsh": "bd5194f70f6ed2360b679c9a7cedcca0"
+        "hsh": "29fb1d1de9350b1ea31222fc5e469945"
     }
 ]

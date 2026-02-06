@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202602060800",
+        "date": "20260206",
+        "url": "https://www.bing.com/th?id=OHR.GiauPass_EN-US1580552183_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GiauPass_EN-US1580552183",
+        "copyright": "Ra Gusela peak at Giau Pass, near Cortina d'Ampezzo, Italy (© Tomasz Podolski/Getty Images)",
+        "copyrightKeyword": "Winter Olympics 2026",
+        "hsh": "718ba06ea5634da0f2499a99f854a412",
+        "description": "The 2026 Winter Olympics begin today, and few settings capture their spirit better than the Dolomites. Rising sharply above the Giau Pass, the 8,514-foot Ra Gusela peak delivers the kind of dramatic alpine scenery that defines the Milano-Cortina 2026 Games—a joint edition hosted by Milan and Cortina d'Ampezzo, blending metropolitan energy with deep alpine heritage.",
+        "maplink": "46.44809,12.01492"
+    },
+    {
         "fullstartdate": "202602050800",
         "date": "20260205",
         "url": "https://www.bing.com/th?id=OHR.MaltaSalt_EN-US0310458987_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.StMichaelsCornwall_EN-US0036057583",
         "copyright": "St. Michael's Mount in Marazion, Cornwall, England (© Baxter Bradford/robertharding/Getty Images)",
         "copyrightKeyword": "St Michaels Mount",
-        "hsh": "a03e002c1e91b5c0133252b9bec51025",
-        "description": "Picture a small island rising from the Cornish sea, connected to the mainland only when the tide retreats. For a few hours a day, you can wander across a centuries-old granite causeway made smooth by pilgrims and fishermen. This is St. Michael's Mount, just off the coast of Marazion, in Cornwall, England. Managed by the National Trust and home to the St. Aubyn family since the 1600s, the mount blends myth, medieval history, and sweeping coastal views.",
-        "maplink": "50.794376,-5.751882"
-    },
-    {
-        "fullstartdate": "202601290800",
-        "date": "20260129",
-        "url": "https://www.bing.com/th?id=OHR.MilwaukeeHall_EN-US9990591477_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MilwaukeeHall_EN-US9990591477",
-        "copyright": "The eight-story open atrium of Milwaukee City Hall, Wisconsin (© lavin photography/Getty Images)",
-        "copyrightKeyword": "Milwaukee city",
-        "hsh": "8e310a6dbe6ec521f85480315c8aaf4e"
+        "hsh": "a03e002c1e91b5c0133252b9bec51025"
     }
 ]
