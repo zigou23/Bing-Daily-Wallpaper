@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202602070500",
+        "date": "20260207",
+        "url": "https://www.bing.com/th?id=OHR.SalarUyuni_FR-CA1655211138_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SalarUyuni_FR-CA1655211138",
+        "copyright": "Salar d'Uyuni, Bolivie (© Abstract Aerial Art/Getty Images)",
+        "copyrightKeyword": "Salar d'Uyuni Bolivie",
+        "hsh": "01780c1e8bc1998477859178da756014",
+        "description": "Perché sur l’Altiplano bolivien, le Salar d'Uyuni ne prend pas la peine de se présenter : il surgit d’un coup, lumineux comme une frontière entre deux mondes. Plus grand désert de sel au monde, il s’étire sur des milliers de kilomètres carrés, à près de 3 600 mètres d’altitude. Lorsque la saison des pluies arrive, une fine couche d’eau se dépose sur le sol et transforme l’endroit en miroir géant. On en perd presque la notion du haut et du bas, un peu comme lors des matins d’hiver au Québec où les surfaces lisses et brillantes des lacs gelés semblent prolonger le ciel.",
+        "maplink": "-20.33333,-67.7"
+    },
+    {
         "fullstartdate": "202602060500",
         "date": "20260206",
         "url": "https://www.bing.com/th?id=OHR.GiauPass_FR-CA5570284241_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.EtoshaZebra_FR-CA0133466363",
         "copyright": "Des zèbres des plaines, Parc National d’Etosha, Namibie (© Mogens Trolle/Shutterstock)",
         "copyrightKeyword": "zèbres des plaines",
-        "hsh": "12fe1595ff65bb728286fbd6f90b1348",
-        "description": "Certains animaux se fondent dans la nature… Mais pas les zèbres. Avec leurs rayures noires et blanches, le camouflage semble difficile. Pourtant, il s’agit là d’un véritable chef-d’œuvre d’ingéniosité. Le 31 janvier, la Journée internationale du zèbre leur rend hommage, rappelant que ces équidés africains sont bien plus qu’une robe aux motifs graphiques.",
-        "maplink": "-18.980263,15.762602"
-    },
-    {
-        "fullstartdate": "202601300500",
-        "date": "20260130",
-        "url": "https://www.bing.com/th?id=OHR.WinterludeKimono_FR-CA9880865878_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WinterludeKimono_FR-CA9880865878",
-        "copyright": "« Kimono » sculpté par Hiroaki Kimura et Masaki Takahashi du Japon, Bal de Neige 2010, Ottawa, Gatineau, Canada (© PensiveDragon/Shutterstock)",
-        "copyrightKeyword": "Bal de Neige Canada",
-        "hsh": "29fb1d1de9350b1ea31222fc5e469945"
+        "hsh": "12fe1595ff65bb728286fbd6f90b1348"
     }
 ]

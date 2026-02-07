@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202602072300",
+        "date": "20260208",
+        "url": "https://www.bing.com/th?id=OHR.CorfuGreece_IT-IT2512677240_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.CorfuGreece_IT-IT2512677240",
+        "copyright": "Corfù, Grecia (© whitewizzard/Getty Images)",
+        "copyrightKeyword": "Corfù Grecia",
+        "hsh": "0418c8c49ea9d145995e9dc66cc2efbb",
+        "description": "L’isola di Corfù, in Grecia, vi accoglie di notte con un’intensità silenziosa, tra facciate in pietra che catturano la luce calda dei lampioni, mura di fortezze che si stagliano nette e vicoli stretti che si aprono come un labirinto vissuto. La Città Vecchia non appare soltanto storica, ma si percepisce come un luogo abitato, modellata da secoli di culture intrecciate e dal ritmo lento della vita isolana dopo il tramonto.",
+        "maplink": "39.6,19.87"
+    },
+    {
         "fullstartdate": "202602062300",
         "date": "20260207",
         "url": "https://www.bing.com/th?id=OHR.SalarUyuni_IT-IT0441176057_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.Olinda_IT-IT4333912850",
         "copyright": "Casa colorata, Olinda, Pernambuco, Brasile (© Robert Pekar/Alamy)",
         "copyrightKeyword": "Olinda Pernambuco Brasile",
-        "hsh": "ac8ecccc53aa5ebe7d33c814782231bb",
-        "description": "Stanchi del freddo che non dà tregua? Chi di voi sente già il richiamo dell’estate, della luce che scalda la pelle e della brezza marina che profuma di libertà? Qui a Olinda, il colore e il calore si sentono a casa. Fondata nel XVI secolo, nello stato di Pernambuco, nel nord-est del Brasile, Olinda è cresciuta da roccaforte coloniale a faro culturale, modellata dall’architettura portoghese, dalle tradizioni afro-brasiliane e da secoli di espressione artistica. Le sue colline si snodano tra facciate pastello, chiese barocche e strette strade acciottolate che sembrano invitarvi a perdervi più che a correre.",
-        "maplink": "-7.995016,-34.851332"
-    },
-    {
-        "fullstartdate": "202601302300",
-        "date": "20260131",
-        "url": "https://www.bing.com/th?id=OHR.EtoshaZebra_IT-IT4234811619_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.EtoshaZebra_IT-IT4234811619",
-        "copyright": "Zebre delle pianure, Parco Nazionale di Etosha, Namibia (© Mogens Trolle/Shutterstock)",
-        "copyrightKeyword": "Zebra di pianura",
-        "hsh": "55fa4c782aa139d158539d159bcf84f2"
+        "hsh": "ac8ecccc53aa5ebe7d33c814782231bb"
     }
 ]
