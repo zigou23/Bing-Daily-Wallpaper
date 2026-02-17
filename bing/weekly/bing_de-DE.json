@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202602172300",
+        "date": "20260218",
+        "url": "https://www.bing.com/th?id=OHR.PrzewalskisHorse_DE-DE2303566149_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PrzewalskisHorse_DE-DE2303566149",
+        "copyright": "Przewalski-Pferde (© Nemyrivskyi Viacheslav/Getty Images)",
+        "copyrightKeyword": "Przewalski-Pferd",
+        "hsh": "b6c72565ede9170695c7c48a46603ec8",
+        "description": "Wildheit in ihrer reinsten Form zeigt sich im Przewalski-Pferd. Es gilt als die letzte wirklich wilde Pferdeart der Erde. Einst durch die Steppen Zentralasiens ziehend, verschwand es in den 1960er-Jahren aus der Natur, weil Jagd, Lebensraumverlust und Konkurrenz durch Viehhaltung seinen Bestand drastisch dezimierten. Sein Überleben verdankt die Art einer kleinen Gruppe, die im frühen 20. Jahrhundert eingefangen wurde und zur Grundlage aller heutigen Tiere wurde."
+    },
+    {
         "fullstartdate": "202602162300",
         "date": "20260217",
         "url": "https://www.bing.com/th?id=OHR.NewYearLantern_DE-DE3336246364_1920x1080.jpg",
@@ -70,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BadwaterFlats_DE-DE3152128237",
         "copyright": "Salzpfannen im Badwater Basin, Death‑Valley‑Nationalpark, Kalifornien, USA (© Jim Patterson/TANDEM Stills + Motion)",
         "copyrightKeyword": "Death-Valley-Nationalpark",
-        "hsh": "685ee0d2a73c3fed4566b8083e8f5759",
-        "description": "Kaum ein Ort überrascht so sehr wie das Death Valley, jener eindrucksvolle Wüstenraum an der Grenze zwischen den US‑Bundesstaaten Kalifornien und Nevada, wo die Landschaft einen beinahe unwirklichen Charakter annimmt. Auf rund 13.848 Quadratkilometern treffen weite Salzflächen, Sandfelder und farbige Felsformationen aufeinander. Die Höhenunterschiede zählen zu den extremsten in Nordamerika: vom Badwater Basin, das 86 Meter unter dem Meeresspiegel liegt und sich – wie auf dem heutigen Bild zu sehen – bis zum Horizont in weißen Salzmustern ausbreitet, bis zum Telescope Peak, der auf 3.368 Meter ansteigt.",
-        "maplink": "36.25028,-116.8258"
-    },
-    {
-        "fullstartdate": "202602092300",
-        "date": "20260210",
-        "url": "https://www.bing.com/th?id=OHR.IbizaIslets_DE-DE2745456055_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.IbizaIslets_DE-DE2745456055",
-        "copyright": "Felsinseln Es Vedrà und Es Vedranell, Ibiza, Spanien (© L. Apolli/Getty Images)",
-        "copyrightKeyword": "Es Vedra Ibiza",
-        "hsh": "5d7e20e36cbe97275c597c6d3087a904"
+        "hsh": "685ee0d2a73c3fed4566b8083e8f5759"
     }
 ]

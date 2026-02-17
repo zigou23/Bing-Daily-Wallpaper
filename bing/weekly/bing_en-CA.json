@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202602170500",
+        "date": "20260217",
+        "url": "https://www.bing.com/th?id=OHR.NewYearLantern_EN-CA1106555722_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.NewYearLantern_EN-CA1106555722",
+        "copyright": "Red lanterns celebrating Chinese New Year (© Gins Wang/Getty Images)",
+        "copyrightKeyword": "Chinese New Year",
+        "hsh": "74fa0882cb8fea819357e9f7a423b886",
+        "description": "Chinese New Year, also known as the Spring Festival, marks the beginning of a new year on the traditional Chinese lunisolar calendar. This calendar follows the phases of the moon and the rhythms of the seasons. Red lanterns—like the ones shown in today's image—are widely associated with the celebration. The holiday falls on the new moon between January 21 and February 20 and has been observed for more than 2,000 years. In 2024, UNESCO added the Spring Festival to its Intangible Cultural Heritage of Humanity list, recognising its cultural and historical importance."
+    },
+    {
         "fullstartdate": "202602160500",
         "date": "20260216",
         "url": "https://www.bing.com/th?id=OHR.BanffWinter_EN-CA0779166638_1920x1080.jpg",
@@ -71,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.IbizaIslets_EN-CA9725218583",
         "copyright": "Islets of Es Vedrà and Es Vedranell, Ibiza, Spain (© L. Apolli/Getty Images)",
         "copyrightKeyword": "Es Vedra Ibiza",
-        "hsh": "1c857c30fd1e0658f7a8af67f117f1ea",
-        "description": "Just southwest of Ibiza, Spain, lie the uninhabited islets of Es Vedrà and Es Vedranell. Part of a protected nature reserve, these dramatic rock formations are admired for their ecological value and visual impact. Es Vedrà rises around 400 metres straight from the sea, its sheer limestone cliffs resembling a mountain range. Nearby, the jagged outline of Es Vedranell has earned it the nickname 'sleeping dragon,' appearing to guard its larger sibling.",
-        "maplink": "38.867802,1.198694"
-    },
-    {
-        "fullstartdate": "202602090500",
-        "date": "20260209",
-        "url": "https://www.bing.com/th?id=OHR.LeopardCat_EN-CA5823948981_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LeopardCat_EN-CA5823948981",
-        "copyright": "Amur leopard cat, Russia (© Valeriy Maleev/naturepl.com)",
-        "copyrightKeyword": "Leopard cat",
-        "hsh": "3d62683f0feb4d1057d6592aec860faf"
+        "hsh": "1c857c30fd1e0658f7a8af67f117f1ea"
     }
 ]
