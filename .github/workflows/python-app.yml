@@ -1,0 +1,39 @@
+name: Download and Push Image
+on:
+  schedule:
+    - cron: '1 23 * * *'
+  workflow_dispatch:
+
+jobs:
+  download_and_push:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      # with:
+      #   python-version: '3.x'
+
+    - name: Install requests
+      run: pip install requests
+
+    - name: run bingjson
+      run: python ./python/bing_260204.py
+
+    - name: Commit and Push
+        # git config --global user.name "${{ github.actor }}"
+        # git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+      run: |
+        git status
+        git diff
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git add .
+        git commit -m "Add JSON at $(date +'%Y-%m-%d %H:%M:%S')"
+        git push
+      
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

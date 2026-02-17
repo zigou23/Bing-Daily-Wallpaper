@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="icon" href="assets/favicon.png" sizes="64x64" type="image/png">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bing Wallpaper Archive - Historical Collection</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="assets/style.css">
+</head>
+<body data-mode="archive" class="archive-mode">
+    <div id="loading" class="loading-overlay">
+        <div class="spinner"></div>
+    </div>
+
+    <div class="container">
+        <!-- Archive Notice -->
+        <div class="archive-notice">
+            <i class="fa-solid fa-box-archive"></i>
+            <div class="archive-notice-text">
+                <strong>Historical Archive</strong>
+                <small>This collection contains historical Bing wallpapers (2019/2021-2024). Some images may no longer be available.</small>
+            </div>
+        </div>
+
+        <header class="header">
+            <div class="brand" onclick="window.location.href = window.location.pathname">
+                <i class="fa-solid fa-clock-rotate-left"></i>
+                Bing Archive
+                <span class="archive-badge">OLD DATA</span>
+            </div>
+            <div class="controls">
+                <div class="control-group">
+                    <i class="fa-solid fa-globe"></i>
+                    <select id="region-select"></select>
+                </div>
+                <div class="control-group">
+                    <i class="fa-regular fa-calendar-days"></i>
+                    <select id="month-select"></select>
+                </div>
+                <div class="control-group">
+                    <i class="fa-solid fa-magnifying-glass"></i>
+                    <input type="text" id="search-input" placeholder="Search title, description...">
+                </div>
+                <a href="index.html" class="control-btn current" title="Current Gallery">
+                    <i class="fa-solid fa-images"></i>
+                </a>
+                <a href="https://github.com/zigou23/Bing-Daily-Wallpaper" target="_blank" class="control-btn">
+                    <i class="fa-brands fa-github"></i>
+                </a>
+            </div>
+        </header>
+
+        <main id="gallery-grid" class="gallery"></main>
+        <div id="pagination" class="pagination"></div>
+
+        <footer class="footer">
+            Historical Archive (2021-2024) • Data source: Github @zigou23
+        </footer>
+    </div>
+
+    <div id="lightbox" class="lightbox">
+        <button class="close-lightbox"><i class="fa-solid fa-xmark"></i></button>
+        <div class="lightbox-content">
+            <img id="lightbox-img" src="" alt="Full View">
+            <div id="lightbox-error" class="lightbox-error">
+                <i class="fa-solid fa-image-slash"></i>
+                <div class="lightbox-error-title">Image Not Available</div>
+                <div class="lightbox-error-text">This historical image is no longer available.</div>
+            </div>
+            <div class="lightbox-details">
+                <h2 id="lb-title">Title</h2>
+                <div class="lb-meta">
+                    <span id="lb-date"></span> • <span id="lb-copyright"></span>
+                </div>
+                <p id="lb-desc">Description...</p>
+                <div class="download-group">
+                    <a id="btn-dl-uhd" href="#" target="_blank" class="dl-btn uhd">
+                        <i class="fa-solid fa-circle-down"></i> UHD
+                    </a>
+                    <a id="btn-dl-hd" href="#" target="_blank" class="dl-btn hd">
+                        <i class="fa-solid fa-download"></i> 1080P
+                    </a>
+                    <div class="dl-btn-group">
+                        <div class="dl-btn more">
+                            <i class="fa-solid fa-download"></i> More
+                        </div>
+                        <div class="dl-dropdown">
+                            <a id="btn-dl-2k" href="#" target="_blank" class="dl-dropdown-item">
+                                <i class="fa-solid fa-image"></i> 2K (2560px)
+                            </a>
+                            <a id="btn-dl-wallpaper" href="#" target="_blank" class="dl-dropdown-item">
+                                <i class="fa-solid fa-desktop"></i> Wallpaper
+                            </a>
+                            <a id="btn-dl-mobile" href="#" target="_blank" class="dl-dropdown-item">
+                                <i class="fa-solid fa-mobile-screen"></i> Mobile
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="assets/script.js"></script>
+</body>
+</html>
