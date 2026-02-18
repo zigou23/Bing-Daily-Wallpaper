@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202602180500",
+        "date": "20260218",
+        "url": "https://www.bing.com/th?id=OHR.PrzewalskisHorse_EN-CA1440158754_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PrzewalskisHorse_EN-CA1440158754",
+        "copyright": "Przewalski's horses (© Nemyrivskyi Viacheslav/Getty Images)",
+        "copyrightKeyword": "Przewalskis horse",
+        "hsh": "070e0a8e31cbd80fa958eebf64e01d06",
+        "description": "This species missed the domestication memo and kept going on its own terms. Say hello to Przewalski's horse, considered the last truly wild horse on Earth. Once widespread across Central Asia, it disappeared from the wild in the 1960s after decades of hunting, habitat loss and competition with livestock. Its survival depended on an unlikely lifeline: a small number of individuals captured by early 20th‑century collectors, which became the foundation of all modern Przewalski's horses."
+    },
+    {
         "fullstartdate": "202602170500",
         "date": "20260217",
         "url": "https://www.bing.com/th?id=OHR.NewYearLantern_EN-CA1106555722_1920x1080.jpg",
@@ -70,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BadwaterFlats_EN-CA8544222126",
         "copyright": "Salt flats in Badwater Basin, Death Valley National Park, California, United States (© Jim Patterson/TANDEM Stills + Motion)",
         "copyrightKeyword": "Death Valley National Park",
-        "hsh": "74498407b51c8a11406f12a606b3ee56",
-        "description": "Death Valley National Park challenges first impressions. Spanning more than 13,760 square kilometres across California and Nevada, it is the largest national park in the contiguous United States. Across this vast expanse, salt flats, volcanic hills, sweeping sand dunes and distant snow-capped peaks create a landscape shaped by time and extremes. From the soaring heights of Telescope Peak, which rises over 3,350 metres above the desert floor, to the depths of Badwater Basin, 86 metres below sea level, the park is a study in contrasts.",
-        "maplink": "36.25028,-116.8258"
-    },
-    {
-        "fullstartdate": "202602100500",
-        "date": "20260210",
-        "url": "https://www.bing.com/th?id=OHR.IbizaIslets_EN-CA9725218583_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.IbizaIslets_EN-CA9725218583",
-        "copyright": "Islets of Es Vedrà and Es Vedranell, Ibiza, Spain (© L. Apolli/Getty Images)",
-        "copyrightKeyword": "Es Vedra Ibiza",
-        "hsh": "1c857c30fd1e0658f7a8af67f117f1ea"
+        "hsh": "74498407b51c8a11406f12a606b3ee56"
     }
 ]

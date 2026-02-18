@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202602182300",
+        "date": "20260219",
+        "url": "https://www.bing.com/th?id=OHR.GiauPass_IT-IT5498738884_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GiauPass_IT-IT5498738884",
+        "copyright": "Cima Ra Gusela, Passo Giau, Cortina d'Ampezzo, Veneto (© Tomasz Podolski/Getty Images)",
+        "copyrightKeyword": "Ra Gusela",
+        "hsh": "7515fab0c70d37bf546da854ad82f58e",
+        "description": "La luce del mattino accarezza le vette e Cima Ra Gusela si staglia maestosa sopra il Passo Giau, nel cuore delle Dolomiti di Cortina d’Ampezzo. La roccia chiara si innalza verticalmente verso il cielo, mentre i pendii circostanti si vestono di neve immacolata, pronta a riflettere ogni raggio di sole. L’aria frizzante porta con sé il profumo del bosco e il silenzio della montagna, interrotto solo dal fruscio della neve sotto gli scarponi o dal canto lontano di qualche uccello.",
+        "maplink": "46.44809,12.01492"
+    },
+    {
         "fullstartdate": "202602172300",
         "date": "20260218",
         "url": "https://www.bing.com/th?id=OHR.PrzewalskisHorse_IT-IT6104947665_1920x1080.jpg",
@@ -69,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DarwinBooby_IT-IT4879885475",
         "copyright": "Sula dai piedi azzurri, Isole Galápagos, Ecuador (© Karine Aigner/TANDEM Stills + Motion)",
         "copyrightKeyword": "Darwin Day",
-        "hsh": "e2612e07106d163b193df3370c6165bd",
-        "description": "Il “Darwin Day” celebra più di un compleanno, celebra un cambio di prospettiva. Le osservazioni di Charles Darwin collegarono variazione, sopravvivenza degli individui meglio adattati e ereditarietà, creando uno schema su cui la scienza continua a costruire. La sua eredità si fonda su anni di studio — dai fringuelli ai fossili, dai crostacei ai molluschi — e sul riconoscere schemi che altri avevano trascurato. Quando, nel 1859, fu pubblicato “L’origine delle specie”, Darwin offrì un quadro per comprendere come le specie evolvono attraverso la selezione naturale.",
-        "maplink": "0.901976,-91.166857"
-    },
-    {
-        "fullstartdate": "202602102300",
-        "date": "20260211",
-        "url": "https://www.bing.com/th?id=OHR.BadwaterFlats_IT-IT4791088413_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BadwaterFlats_IT-IT4791088413",
-        "copyright": "Saline nel Badwater Basin, Valle della Morte, California, USA (© Jim Patterson/TANDEM Stills + Motion)",
-        "copyrightKeyword": "Valle della Morte",
-        "hsh": "a4714a4bd85e54489f9c4f9d6f536eb0"
+        "hsh": "e2612e07106d163b193df3370c6165bd"
     }
 ]

@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202602181500",
+        "date": "20260219",
+        "url": "https://www.bing.com/th?id=OHR.DragonsEyeRock_JA-JP3484187300_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.DragonsEyeRock_JA-JP3484187300",
+        "copyright": "ウッタクレイヴ海岸, ノルウェー (© reisegraf/Getty Images)",
+        "copyrightKeyword": "ウッタクレイヴ海岸",
+        "hsh": "27912972c72a7335112717dd89e2a2c4",
+        "description": "ノルウェー・ロフォーテン諸島にあるウッタクレイヴは、わずか 22 人の住民が暮らす小さな集落です。険しい山々とターコイズブルーの海に囲まれ、白砂のビーチとごつごつした岩場が織りなす風景が特徴であり、さらに、冬はオーロラ観測の名所としても知られています…",
+        "maplink": "68.209267,13.506241"
+    },
+    {
         "fullstartdate": "202602171500",
         "date": "20260218",
         "url": "https://www.bing.com/th?id=OHR.PrzewalskisHorse_JA-JP3314314525_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.Olinda_JA-JP1273177244",
         "copyright": "オリンダ歴史地区, ブラジル (© Robert Pekar/Alamy)",
         "copyrightKeyword": "オリンダ歴史地区",
-        "hsh": "0bd2307c8af04d2fea71970b21ba700f",
-        "description": "オリンダは、ブラジル北東部ペルナンブコ州にある美しい都市です。16 世紀に築かれた植民都市を基盤に発展し、その後ポルトガル建築やアフリカ系ブラジル文化など、長い年月をかけて育まれた芸術表現が重なり合う歴史都市として知られています。1982 年には「オリンダ歴史地区」としてユネスコ世界遺産に登録されました…",
-        "maplink": "-7.99186,-34.858752"
-    },
-    {
-        "fullstartdate": "202602101500",
-        "date": "20260211",
-        "url": "https://www.bing.com/th?id=OHR.MitoPlumFestival2026_JA-JP1087345056_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MitoPlumFestival2026_JA-JP1087345056",
-        "copyright": "白梅の花 (© EarthScapeImageGraphy/Getty Images)",
-        "copyrightKeyword": "白梅の花",
-        "hsh": "fa8c394b8afccb17cd5927843b03dc70"
+        "hsh": "0bd2307c8af04d2fea71970b21ba700f"
     }
 ]

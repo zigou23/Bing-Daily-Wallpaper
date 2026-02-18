@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202602180000",
+        "date": "20260218",
+        "url": "https://www.bing.com/th?id=OHR.PrzewalskisHorse_EN-GB1150597463_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PrzewalskisHorse_EN-GB1150597463",
+        "copyright": "Przewalski's horses (© Nemyrivskyi Viacheslav/Getty Images)",
+        "copyrightKeyword": "Przewalskis horse",
+        "hsh": "00b38948d170237af45e0896399e84a6",
+        "description": "This species missed the domestication memo and kept going on its own terms. Say hello to Przewalski's horse, considered the last truly wild horse on Earth. Once widespread across Central Asia, it disappeared from the wild in the 1960s after decades of hunting, habitat loss and competition with livestock. Its survival depended on an unlikely lifeline: a small number of individuals captured by early 20th‑century collectors, which became the foundation of all modern Przewalski's horses."
+    },
+    {
         "fullstartdate": "202602170000",
         "date": "20260217",
         "url": "https://www.bing.com/th?id=OHR.NewYearLantern_EN-GB0911837862_1920x1080.jpg",
@@ -70,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BadwaterFlats_EN-GB7497288557",
         "copyright": "Salt flats in Badwater Basin, Death Valley National Park, California, USA (© Jim Patterson/TANDEM Stills + Motion)",
         "copyrightKeyword": "Death Valley National Park",
-        "hsh": "b178b67b901f82c3c20cfdfba077654c",
-        "description": "Death Valley National Park challenges first impressions. Spanning more than 3.4 million acres (1.34 million hectares) across California and Nevada in the United States, it is the largest national park in the contiguous United States. Across this vast expanse, salt flats, volcanic hills, sweeping sand dunes and distant snowcapped peaks create a landscape shaped by time and extremes. From the soaring heights of Telescope Peak, which rises over 3,300 metres above the desert floor, to the depths of Badwater Basin, 86 metres below sea level, the park is a study in contrasts.",
-        "maplink": "36.25028,-116.8258"
-    },
-    {
-        "fullstartdate": "202602100000",
-        "date": "20260210",
-        "url": "https://www.bing.com/th?id=OHR.IbizaIslets_EN-GB7236526241_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.IbizaIslets_EN-GB7236526241",
-        "copyright": "Islets of Es Vedrà and Es Vedranell, Ibiza, Spain (© L. Apolli/Getty Images)",
-        "copyrightKeyword": "Es Vedra Ibiza",
-        "hsh": "0d5c80ea518824e236c008e5e58d0f6c"
+        "hsh": "b178b67b901f82c3c20cfdfba077654c"
     }
 ]

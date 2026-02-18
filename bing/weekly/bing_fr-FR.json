@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202602182300",
+        "date": "20260219",
+        "url": "https://www.bing.com/th?id=OHR.DragonsEyeRock_FR-FR6691267699_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.DragonsEyeRock_FR-FR6691267699",
+        "copyright": "Dragon's Eye, formation rocheuse sur la plage d’Uttakleiv, Norvège (© reisegraf/Getty Images)",
+        "copyrightKeyword": "plage d’Uttakleiv Norvège",
+        "hsh": "d661feb3ca3aabd0ad62661ad950b6d2",
+        "description": "Le « Dragon’s Eye » (« Œil de dragon » en français) semble évoquer un mythe ancien, et sur la plage norvégienne d’Uttakleiv, dans les îles Lofoten, on comprend aussitôt pourquoi. Nichée dans un socle de roches métamorphiques vieilles de millions d’années, la formation semble palpiter sous la lumière arctique, comme si le paysage lui-même observait les visiteurs. Façonnée durant des millénaires par la glace et les marées, elle est devenue l’un des spectacles naturels les plus envoûtants du nord de la Norvège.",
+        "maplink": "68.209267,13.506241"
+    },
+    {
         "fullstartdate": "202602172300",
         "date": "20260218",
         "url": "https://www.bing.com/th?id=OHR.PrzewalskisHorse_FR-FR3326076723_1920x1080.jpg",
@@ -69,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DarwinBooby_FR-FR2410210068",
         "copyright": "Fou à pieds bleus, Îles Galapagos, Équateur (© Karine Aigner/TANDEM Stills + Motion)",
         "copyrightKeyword": "Journée Darwin",
-        "hsh": "a9117848a3afe8b648434cc773c17929",
-        "description": "La Journée Darwin est plus qu’une date : elle marque un tournant dans notre manière de comprendre le vivant. En observant les variations, l’héritage et l’adaptation, Darwin a mis en lumière un fil conducteur que la science continue d’affiner. Ses années passées à étudier pinsons, fossiles et invertébrés lui ont permis d’identifier des scénarios que d’autres n’avaient pas vus. Dans « L’Origine des espèces », paru en 1859, il explique comment les espèces se transforment au fil du temps — un tournant scientifique comparable, pour l’histoire française, à la révolution conceptuelle qu’ont représentée les travaux de Buffon.",
-        "maplink": "0.901976,-91.166857"
-    },
-    {
-        "fullstartdate": "202602102300",
-        "date": "20260211",
-        "url": "https://www.bing.com/th?id=OHR.NiceFestival_FR-FR9995350802_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.NiceFestival_FR-FR9995350802",
-        "copyright": "Détails d’un masque du Carnaval de Nice, Alpes-Maritimes (© litchi cyril photographe/Shutterstock)",
-        "copyrightKeyword": "Carnaval de Nice",
-        "hsh": "276f5a2dc47326bf0228cba9cf743ea8"
+        "hsh": "a9117848a3afe8b648434cc773c17929"
     }
 ]

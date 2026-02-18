@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202602181830",
+        "date": "20260219",
+        "url": "https://www.bing.com/th?id=OHR.DragonsEyeRock_EN-IN0197810656_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.DragonsEyeRock_EN-IN0197810656",
+        "copyright": "The Dragon's Eye rock formation at Uttakleiv Beach, Norway (© reisegraf/Getty Images)",
+        "copyrightKeyword": "Uttakleiv Beach Norway",
+        "hsh": "c12c06846f58838dcf729aa213d1f74a",
+        "description": "Dragon's Eye sounds like something pulled from legend, and standing on Norway's Uttakleiv Beach in the Lofoten Islands, it's easy to see why. The formation, carved into ancient rock and framed by sand and sea, looks uncannily alive, as though the land itself is watching you. Shaped over thousands of years by ice and water, it has become one of the region's most captivating sights.",
+        "maplink": "68.209267,13.506241"
+    },
+    {
         "fullstartdate": "202602171830",
         "date": "20260218",
         "url": "https://www.bing.com/th?id=OHR.PrzewalskisHorse_EN-IN0103844198_1920x1080.jpg",
@@ -69,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DarwinBooby_EN-IN9220190564",
         "copyright": "Blue-footed booby, Galápagos Islands, Ecuador (© Karine Aigner/TANDEM Stills + Motion)",
         "copyrightKeyword": "Darwin Day",
-        "hsh": "d69e510211d2f483f4a1ffa370dfa429",
-        "description": "Darwin Day marks more than a birthday—it marks a shift in thinking. Charles Darwin's observations connected variation, the survival of individuals best suited to their environment, and inheritance in ways science still builds on. His legacy rests on years of studying variation—finches, fossils, barnacles—and recognising patterns others had overlooked. When 'On the Origin of Species' was published in 1859, it offered a framework explaining how species evolve through natural selection.",
-        "maplink": "0.901976,-91.166857"
-    },
-    {
-        "fullstartdate": "202602101830",
-        "date": "20260211",
-        "url": "https://www.bing.com/th?id=OHR.BadwaterFlats_EN-IN9151471412_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BadwaterFlats_EN-IN9151471412",
-        "copyright": "Salt flats in Badwater Basin, Death Valley National Park, California, United States (© Jim Patterson/TANDEM Stills + Motion)",
-        "copyrightKeyword": "Death Valley National Park",
-        "hsh": "942daa205d4cbfd60c124fabf42c105d"
+        "hsh": "d69e510211d2f483f4a1ffa370dfa429"
     }
 ]

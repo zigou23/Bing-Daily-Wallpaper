@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202602182300",
+        "date": "20260219",
+        "url": "https://www.bing.com/th?id=OHR.GranadaAlhambra_ES-ES3338584785_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GranadaAlhambra_ES-ES3338584785",
+        "copyright": "La Alhambra durante el invierno en Granada (© David Skinner/Getty Images)",
+        "copyrightKeyword": "Alhambra, conjunto palaciego en Granada",
+        "hsh": "97273859b20728d825e39fec1ee37db1",
+        "description": "La Alhambra durante el invierno en Granada conserva su carácter y convoca una lectura pausada de su historia. Es un momento propicio para recordar por qué este conjunto palaciego y fortaleza se convirtió en emblema cultural y en uno de los monumentos más visitados de España."
+    },
+    {
         "fullstartdate": "202602172300",
         "date": "20260218",
         "url": "https://www.bing.com/th?id=OHR.PrzewalskisHorse_ES-ES3293960401_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DarwinBooby_ES-ES2893793809",
         "copyright": "Piquero de patas azules, Islas Galápagos, Ecuador (© Karine Aigner/TANDEM Stills + Motion)",
         "copyrightKeyword": "Día de Darwin",
-        "hsh": "ef0e0a855240f7bddf1e8d760af1cbd5",
-        "description": "Hoy celebramos el Día de Darwin y aprovechamos para observar con curiosidad y rigor la diversidad del mundo natural. Esta fecha nos recuerda que las especies cambian con el tiempo mediante procesos que podemos estudiar y comprender. La selección natural sigue siendo una idea poderosa para explicar la adaptación y el origen de rasgos que ayudan a sobrevivir y a reproducirse. Asimismo, destaca la importancia del trabajo paciente de la observación y la evidencia, y cómo cada organismo, en su entorno, contribuye a la gran historia de la vida en la Tierra."
-    },
-    {
-        "fullstartdate": "202602102300",
-        "date": "20260211",
-        "url": "https://www.bing.com/th?id=OHR.ReinaCarnaval_ES-ES2850086580_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ReinaCarnaval_ES-ES2850086580",
-        "copyright": "Vista del atardecer de San Andrés y Playa de Las Teresitas, Tenerife (© EP-stock/Getty Images)",
-        "copyrightKeyword": "Gala de la Reina del Carnaval de Tenerife 2026",
-        "hsh": "21c0ffe8bdc977b7c1b73a315468529d"
+        "hsh": "ef0e0a855240f7bddf1e8d760af1cbd5"
     }
 ]
