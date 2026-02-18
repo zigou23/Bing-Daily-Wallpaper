@@ -1,0 +1,97 @@
+{
+  "years": {
+    "2019": {
+      "regions": {
+        "bing_en-US": 365
+      }
+    },
+    "2020": {
+      "regions": {
+        "bing_en-US": 366
+      }
+    },
+    "2021": {
+      "regions": {
+        "bing_en-US": 366
+      }
+    },
+    "2022": {
+      "regions": {
+        "bing_de-DE": 248,
+        "bing_en-CA": 247,
+        "bing_en-GB": 247,
+        "bing_en-IN": 248,
+        "bing_en-US": 365,
+        "bing_fr-FR": 248,
+        "bing_it-IT": 248,
+        "bing_ja-JP": 248,
+        "bing_zh-CN": 248
+      }
+    },
+    "2023": {
+      "regions": {
+        "bing_de-DE": 365,
+        "bing_en-CA": 365,
+        "bing_en-GB": 364,
+        "bing_en-IN": 365,
+        "bing_en-US": 365,
+        "bing_fr-FR": 365,
+        "bing_it-IT": 365,
+        "bing_ja-JP": 365,
+        "bing_zh-CN": 365
+      }
+    },
+    "2024": {
+      "regions": {
+        "bing_ROW": 155,
+        "bing_de-DE": 366,
+        "bing_en-CA": 366,
+        "bing_en-GB": 365,
+        "bing_en-IN": 366,
+        "bing_en-US": 366,
+        "bing_es-ES": 155,
+        "bing_fr-CA": 154,
+        "bing_fr-FR": 366,
+        "bing_it-IT": 366,
+        "bing_ja-JP": 366,
+        "bing_pt-BR": 154,
+        "bing_zh-CN": 366
+      }
+    },
+    "2025": {
+      "regions": {
+        "bing_ROW": 365,
+        "bing_de-DE": 365,
+        "bing_en-CA": 365,
+        "bing_en-GB": 365,
+        "bing_en-IN": 365,
+        "bing_en-US": 365,
+        "bing_es-ES": 365,
+        "bing_fr-CA": 365,
+        "bing_fr-FR": 365,
+        "bing_it-IT": 365,
+        "bing_ja-JP": 365,
+        "bing_pt-BR": 365,
+        "bing_zh-CN": 365
+      }
+    },
+    "2026": {
+      "regions": {
+        "bing_ROW": 47,
+        "bing_de-DE": 48,
+        "bing_en-CA": 47,
+        "bing_en-GB": 47,
+        "bing_en-IN": 48,
+        "bing_en-US": 47,
+        "bing_es-ES": 48,
+        "bing_fr-CA": 47,
+        "bing_fr-FR": 48,
+        "bing_it-IT": 48,
+        "bing_ja-JP": 48,
+        "bing_pt-BR": 47,
+        "bing_zh-CN": 48
+      }
+    }
+  },
+  "currentYear": 2026
+}

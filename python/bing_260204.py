@@ -457,5 +457,46 @@ def cleanup_previous_year_data():
 # 执行清理
 cleanup_previous_year_data()
 
+# ====== 新增：自动生成 data_index.json ======
+def generate_data_index():
+    """
+    扫描 bing/ 下所有年份目录，统计每个区域的 JSON 文件记录数，
+    生成 data_index.json 供 archive.html 使用。
+    """
+    print("\n========== Generating data_index.json ==========")
+    base_dir = './bing'
+    result = {}
+    
+    for y in sorted(os.listdir(base_dir)):
+        year_dir = os.path.join(base_dir, y)
+        if not (y.isdigit() and os.path.isdir(year_dir)):
+            continue
+        json_files = [f for f in os.listdir(year_dir) if f.endswith('.json')]
+        if not json_files:
+            continue
+        
+        regions = {}
+        for f in sorted(json_files):
+            region_code = f.replace('.json', '')
+            try:
+                with open(os.path.join(year_dir, f), 'r', encoding='utf-8') as fp:
+                    data = json.load(fp)
+                regions[region_code] = len(data)
+            except Exception as e:
+                print(f"  Warning: Failed to read {year_dir}/{f}: {e}")
+                continue
+        
+        result[y] = {"regions": regions}
+        print(f"  {y}: {regions}")
+    
+    index = {"years": result, "currentYear": current_year}
+    out_path = os.path.join(base_dir, 'data_index.json')
+    with open(out_path, 'w', encoding='utf-8') as f:
+        json.dump(index, f, indent=2, ensure_ascii=False)
+    print(f"✓ Wrote {out_path}")
+
+# 执行生成索引
+generate_data_index()
+
 print("\n========== All languages processed ==========")
 print("Ends time: ", datetime.now(timezone.utc))
