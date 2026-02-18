@@ -9,19 +9,19 @@ const ARCHIVE_CONFIG = {
 };
 
 const REGIONS = [
-    { code: "bing_ROW", label: "🌍 Rest of World" },
-    { code: "bing_en-US", label: "🇺🇸 United States" },
-    { code: "bing_en-GB", label: "🇬🇧 United Kingdom" },
-    { code: "bing_en-CA", label: "🇨🇦 Canada (EN)" },
-    { code: "bing_en-IN", label: "🇮🇳 India" },
-    { code: "bing_de-DE", label: "🇩🇪 Germany" },
-    { code: "bing_fr-FR", label: "🇫🇷 France" },
-    { code: "bing_fr-CA", label: "🇨🇦 Canada (FR)" },
-    { code: "bing_es-ES", label: "🇪🇸 Spain" },
-    { code: "bing_it-IT", label: "🇮🇹 Italy" },
-    { code: "bing_pt-BR", label: "🇧🇷 Brazil" },
-    { code: "bing_ja-JP", label: "🇯🇵 Japan" },
-    { code: "bing_zh-CN", label: "🇨🇳 China" }
+    { code: "bing_ROW", flag: null, label: "Rest of World" },
+    { code: "bing_en-US", flag: "us", label: "United States" },
+    { code: "bing_en-GB", flag: "gb", label: "United Kingdom" },
+    { code: "bing_en-CA", flag: "ca", label: "Canada (EN)" },
+    { code: "bing_en-IN", flag: "in", label: "India" },
+    { code: "bing_de-DE", flag: "de", label: "Germany" },
+    { code: "bing_fr-FR", flag: "fr", label: "France" },
+    { code: "bing_fr-CA", flag: "ca", label: "Canada (FR)" },
+    { code: "bing_es-ES", flag: "es", label: "Spain" },
+    { code: "bing_it-IT", flag: "it", label: "Italy" },
+    { code: "bing_pt-BR", flag: "br", label: "Brazil" },
+    { code: "bing_ja-JP", flag: "jp", label: "Japan" },
+    { code: "bing_zh-CN", flag: "cn", label: "China" }
 ];
 
 // 全局变量
@@ -98,7 +98,10 @@ const lazyObserver = new IntersectionObserver((entries, observer) => {
 
 async function init() {
     populateRegionSelect();
-    setupMobileSearch();
+    setupResponsiveControls();
+    setupNavMenu();
+    setupAutoTheme();
+    setupThemeToggle();
 
     const params = new URLSearchParams(window.location.search);
 
@@ -123,6 +126,7 @@ async function init() {
     }
     regionSelect.value = defRegion;
     currentRegion = defRegion;
+    setRegion(defRegion);
 
     // 加载索引和当前年数据
     loadingEl.classList.add('show');
@@ -399,6 +403,7 @@ async function applyStateFromURL() {
     if (regionParam && regionParam !== currentRegion) {
         regionSelect.value = regionParam;
         currentRegion = regionParam;
+        setRegion(regionParam);
         yearCache = {};
         const currentYear = String(dataIndex.currentYear);
         await loadYearData(currentYear, regionParam);
@@ -464,37 +469,118 @@ function updateQuery(updates) {
 // ============ 核心函数 ============
 
 function populateRegionSelect() {
+    // Keep hidden <select> in sync
     regionSelect.innerHTML = REGIONS.map(r => `<option value="${r.code}">${r.label}</option>`).join('');
+
+    // Build custom dropdown
+    const dropdown = document.getElementById('region-dropdown');
+    if (!dropdown) return;
+    dropdown.innerHTML = REGIONS.map(r => {
+        const flagImg = r.flag
+            ? `<img src="https://flagcdn.com/20x15/${r.flag}.png" alt="${r.label}" class="region-flag-item">`
+            : `<span class="region-globe">🌍</span>`;
+        return `<div class="region-item" data-code="${r.code}">${flagImg}<span>${r.label}</span></div>`;
+    }).join('');
+
+    dropdown.querySelectorAll('.region-item').forEach(item => {
+        item.addEventListener('click', () => {
+            const code = item.dataset.code;
+            setRegion(code);
+            dropdown.classList.remove('open');
+            regionSelect.dispatchEvent(new Event('change'));
+        });
+    });
+
+    const btn = document.getElementById('region-btn');
+    if (btn) {
+        btn.addEventListener('click', (e) => {
+            e.stopPropagation();
+            dropdown.classList.toggle('open');
+        });
+    }
+
+    document.addEventListener('click', () => dropdown.classList.remove('open'));
 }
 
-function setupMobileSearch() {
-    const searchGroup = searchInput.closest('.control-group');
-    if (!searchGroup) return;
-
-    searchGroup.classList.add('search-group');
-    const searchIcon = searchGroup.querySelector('i');
-
-    if (!searchIcon) return;
-
-    searchIcon.addEventListener('click', (e) => {
-        if (window.innerWidth <= 600) {
-            e.stopPropagation();
-            searchGroup.classList.add('active');
-            setTimeout(() => searchInput.focus(), 100);
+function setRegion(code) {
+    regionSelect.value = code;
+    const r = REGIONS.find(x => x.code === code) || REGIONS[0];
+    const flagEl = document.getElementById('region-flag');
+    const labelEl = document.getElementById('region-label');
+    if (flagEl) {
+        if (r.flag) {
+            flagEl.src = `https://flagcdn.com/20x15/${r.flag}.png`;
+            flagEl.alt = r.label;
+            flagEl.style.display = '';
+        } else {
+            flagEl.style.display = 'none';
         }
+    }
+    if (labelEl) labelEl.textContent = r.label;
+}
+
+function setupResponsiveControls() {
+    const headerControls = document.getElementById('header-controls');
+    const mobileControls = document.getElementById('mobile-controls');
+    if (!headerControls || !mobileControls) return;
+
+    const searchWrapper = searchInput.closest('.search-wrapper') || searchInput;
+    const regionPicker = document.getElementById('region-picker') || regionSelect;
+    const mql = window.matchMedia('(max-width: 850px)');
+
+    function moveControls(isMobile) {
+        const target = isMobile ? mobileControls : headerControls;
+        target.appendChild(searchWrapper);
+        target.appendChild(regionPicker);
+        target.appendChild(monthSelect);
+    }
+
+    moveControls(mql.matches);
+    mql.addEventListener('change', (e) => moveControls(e.matches));
+}
+
+function setupNavMenu() {
+    const btn = document.getElementById('nav-menu-btn');
+    const dropdown = document.getElementById('nav-dropdown');
+    if (!btn || !dropdown) return;
+
+    btn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        dropdown.classList.toggle('show');
     });
 
     document.addEventListener('click', (e) => {
-        if (window.innerWidth <= 600) {
-            if (!searchGroup.contains(e.target)) {
-                searchGroup.classList.remove('active');
-            }
+        if (!dropdown.contains(e.target) && e.target !== btn) {
+            dropdown.classList.remove('show');
         }
     });
+}
 
-    window.addEventListener('resize', () => {
-        if (window.innerWidth > 600) {
-            searchGroup.classList.remove('active');
+function setupAutoTheme() {
+    function applyTheme() {
+        const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+        const hour = new Date().getHours();
+        if (!prefersDark && hour >= 8 && hour < 20) {
+            document.body.classList.add('light-mode');
+        } else {
+            document.body.classList.remove('light-mode');
+        }
+    }
+    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', applyTheme);
+}
+
+function setupThemeToggle() {
+    const btn = document.getElementById('theme-toggle');
+    if (!btn) return;
+    const icon = btn.querySelector('i');
+    if (document.body.classList.contains('light-mode') && icon) {
+        icon.classList.replace('fa-moon', 'fa-sun');
+    }
+    btn.addEventListener('click', () => {
+        document.body.classList.toggle('light-mode');
+        const isLight = document.body.classList.contains('light-mode');
+        if (icon) {
+            icon.classList.replace(isLight ? 'fa-moon' : 'fa-sun', isLight ? 'fa-sun' : 'fa-moon');
         }
     });
 }

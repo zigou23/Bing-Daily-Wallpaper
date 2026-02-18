@@ -14,6 +14,14 @@
 </head>
 
 <body data-mode="archive2">
+    <script>(function () {
+            var prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+            var hour = new Date().getHours();
+            if (!prefersDark && hour >= 8 && hour < 20) {
+                document.body.classList.add('light-mode');
+            }
+        })()</script>
+
     <!-- Loading Overlay -->
     <div id="loading" class="loading-overlay">
         <div class="spinner"></div>
@@ -22,30 +30,49 @@
     <div class="container">
         <!-- Header -->
         <header class="header">
-            <div class="brand" onclick="window.location.href = window.location.pathname">
-                <i class="fa-solid fa-image"></i>
-                Bing Gallery
-            </div>
-            <div class="controls">
-                <div class="control-group">
-                    <i class="fa-solid fa-globe"></i>
-                    <select id="region-select"></select>
+            <div class="header-top">
+                <div class="brand" onclick="window.location.href = window.location.pathname">
+                    <i class="fa-solid fa-clock-rotate-left"></i>
+                    Archive Gallery
                 </div>
-                <div class="control-group">
-                    <i class="fa-regular fa-calendar-days"></i>
-                    <select id="month-select"></select>
+                <div class="header-controls" id="header-controls">
+                    <div class="search-wrapper">
+                        <input type="text" id="search-input" class="inline-search" placeholder="Search...">
+                        <i class="fa-solid fa-magnifying-glass search-icon"></i>
+                    </div>
+                    <div class="region-picker" id="region-picker">
+                        <button class="region-btn" id="region-btn" type="button">
+                            <img class="region-flag" id="region-flag" src="" alt="">
+                            <span id="region-label"></span>
+                            <i class="fa-solid fa-chevron-down region-chevron"></i>
+                        </button>
+                        <div class="region-dropdown" id="region-dropdown"></div>
+                    </div>
+                    <select id="region-select" class="inline-select" style="display:none"></select>
+                    <select id="month-select" class="inline-select"></select>
                 </div>
-                <div class="control-group">
-                    <i class="fa-solid fa-magnifying-glass"></i>
-                    <input type="text" id="search-input" placeholder="Search title, description...">
+                <div class="menu-wrapper">
+                    <button class="action-btn" id="theme-toggle" title="Toggle theme">
+                        <i class="fa-solid fa-moon"></i>
+                    </button>
+                    <button class="action-btn" id="nav-menu-btn" title="Menu">
+                        <i class="fa-solid fa-bars"></i>
+                    </button>
+                    <div class="nav-dropdown" id="nav-dropdown">
+                        <div class="mobile-controls" id="mobile-controls"></div>
+                        <div class="nav-divider mobile-divider"></div>
+                        <a href="index.html">
+                            <i class="fa-solid fa-images"></i> Latest Gallery
+                        </a>
+                        <a href="old.html">
+                            <i class="fa-solid fa-box-archive"></i> Old Gallery
+                        </a>
+                        <div class="nav-divider"></div>
+                        <a href="https://github.com/zigou23/Bing-Daily-Wallpaper" target="_blank">
+                            <i class="fa-brands fa-github"></i> GitHub
+                        </a>
+                    </div>
                 </div>
-                <a href="index.html" class="control-btn" title="Latest Gallery">
-                    <i class="fa-solid fa-images"></i>
-                </a>
-                <a href="https://github.com/zigou23/Bing-Daily-Wallpaper" target="_blank" class="control-btn"
-                    title="View on GitHub">
-                    <i class="fa-brands fa-github"></i>
-                </a>
             </div>
         </header>
 

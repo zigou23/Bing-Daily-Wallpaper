@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <link rel="icon" href="assets/favicon.png" sizes="64x64" type="image/png">
@@ -11,7 +12,17 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="stylesheet" href="assets/style.css">
 </head>
+
 <body data-mode="archive" class="archive-mode">
+    <script>(function () {
+            var prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+            var hour = new Date().getHours();
+            if (!prefersDark && hour >= 8 && hour < 20) {
+                document.body.classList.add('light-mode');
+            }
+        })()</script>
+
+    <!-- Loading Overlay -->
     <div id="loading" class="loading-overlay">
         <div class="spinner"></div>
     </div>
@@ -22,48 +33,77 @@
             <i class="fa-solid fa-box-archive"></i>
             <div class="archive-notice-text">
                 <strong>Historical Archive</strong>
-                <small>This collection contains historical Bing wallpapers (2019/2021-2024). Some images may no longer be available.</small>
+                <small>This collection contains historical Bing wallpapers (2019/2021-2024). Some images may no longer
+                    be available.</small>
             </div>
         </div>
 
+        <!-- Header -->
         <header class="header">
-            <div class="brand" onclick="window.location.href = window.location.pathname">
-                <i class="fa-solid fa-clock-rotate-left"></i>
-                Bing Archive
-                <span class="archive-badge">OLD DATA</span>
-            </div>
-            <div class="controls">
-                <div class="control-group">
-                    <i class="fa-solid fa-globe"></i>
-                    <select id="region-select"></select>
+            <div class="header-top">
+                <div class="brand" onclick="window.location.href = window.location.pathname">
+                    <i class="fa-solid fa-clock-rotate-left"></i>
+                    Bing Archive
+                    <span class="archive-badge">OLD DATA</span>
                 </div>
-                <div class="control-group">
-                    <i class="fa-regular fa-calendar-days"></i>
-                    <select id="month-select"></select>
+                <div class="header-controls" id="header-controls">
+                    <div class="search-wrapper">
+                        <input type="text" id="search-input" class="inline-search" placeholder="Search...">
+                        <i class="fa-solid fa-magnifying-glass search-icon"></i>
+                    </div>
+                    <div class="region-picker" id="region-picker">
+                        <button class="region-btn" id="region-btn" type="button">
+                            <img class="region-flag" id="region-flag" src="" alt="">
+                            <span id="region-label"></span>
+                            <i class="fa-solid fa-chevron-down region-chevron"></i>
+                        </button>
+                        <div class="region-dropdown" id="region-dropdown"></div>
+                    </div>
+                    <select id="region-select" class="inline-select" style="display:none"></select>
+                    <select id="month-select" class="inline-select"></select>
                 </div>
-                <div class="control-group">
-                    <i class="fa-solid fa-magnifying-glass"></i>
-                    <input type="text" id="search-input" placeholder="Search title, description...">
+                <div class="menu-wrapper">
+                    <button class="action-btn" id="theme-toggle" title="Toggle theme">
+                        <i class="fa-solid fa-moon"></i>
+                    </button>
+                    <button class="action-btn" id="nav-menu-btn" title="Menu">
+                        <i class="fa-solid fa-bars"></i>
+                    </button>
+                    <div class="nav-dropdown" id="nav-dropdown">
+                        <div class="mobile-controls" id="mobile-controls"></div>
+                        <div class="nav-divider mobile-divider"></div>
+                        <a href="index.html">
+                            <i class="fa-solid fa-images"></i> Latest Gallery
+                        </a>
+                        <a href="archive.html">
+                            <i class="fa-solid fa-clock-rotate-left"></i> Archive Gallery
+                        </a>
+                        <div class="nav-divider"></div>
+                        <a href="https://github.com/zigou23/Bing-Daily-Wallpaper" target="_blank">
+                            <i class="fa-brands fa-github"></i> GitHub
+                        </a>
+                    </div>
                 </div>
-                <a href="index.html" class="control-btn current" title="Current Gallery">
-                    <i class="fa-solid fa-images"></i>
-                </a>
-                <a href="https://github.com/zigou23/Bing-Daily-Wallpaper" target="_blank" class="control-btn">
-                    <i class="fa-brands fa-github"></i>
-                </a>
             </div>
         </header>
 
+        <!-- Gallery -->
         <main id="gallery-grid" class="gallery"></main>
+
+        <!-- Pagination -->
         <div id="pagination" class="pagination"></div>
 
+        <!-- Footer -->
         <footer class="footer">
             Historical Archive (2021-2024) • Data source: Github @zigou23
         </footer>
     </div>
 
+    <!-- Lightbox -->
     <div id="lightbox" class="lightbox">
-        <button class="close-lightbox"><i class="fa-solid fa-xmark"></i></button>
+        <button class="close-lightbox">
+            <i class="fa-solid fa-xmark"></i>
+        </button>
         <div class="lightbox-content">
             <img id="lightbox-img" src="" alt="Full View">
             <div id="lightbox-error" class="lightbox-error">
@@ -106,4 +146,5 @@
     </div>
     <script src="assets/script.js"></script>
 </body>
+
 </html>

@@ -15,19 +15,19 @@ const CONFIG = {
 };
 
 const REGIONS = [
-  { code: "bing_ROW", label: "🌍 Rest of World" },
-  { code: "bing_en-US", label: "🇺🇸 United States" },
-  { code: "bing_en-GB", label: "🇬🇧 United Kingdom" },
-  { code: "bing_en-CA", label: "🇨🇦 Canada (EN)" },
-  { code: "bing_en-IN", label: "🇮🇳 India" },
-  { code: "bing_de-DE", label: "🇩🇪 Germany" },
-  { code: "bing_fr-FR", label: "🇫🇷 France" },
-  { code: "bing_fr-CA", label: "🇨🇦 Canada (FR)" },
-  { code: "bing_es-ES", label: "🇪🇸 Spain" },
-  { code: "bing_it-IT", label: "🇮🇹 Italy" },
-  { code: "bing_pt-BR", label: "🇧🇷 Brazil" },
-  { code: "bing_ja-JP", label: "🇯🇵 Japan" },
-  { code: "bing_zh-CN", label: "🇨🇳 China" }
+  { code: "bing_ROW", flag: null, label: "Rest of World" },
+  { code: "bing_en-US", flag: "us", label: "United States" },
+  { code: "bing_en-GB", flag: "gb", label: "United Kingdom" },
+  { code: "bing_en-CA", flag: "ca", label: "Canada (EN)" },
+  { code: "bing_en-IN", flag: "in", label: "India" },
+  { code: "bing_de-DE", flag: "de", label: "Germany" },
+  { code: "bing_fr-FR", flag: "fr", label: "France" },
+  { code: "bing_fr-CA", flag: "ca", label: "Canada (FR)" },
+  { code: "bing_es-ES", flag: "es", label: "Spain" },
+  { code: "bing_it-IT", flag: "it", label: "Italy" },
+  { code: "bing_pt-BR", flag: "br", label: "Brazil" },
+  { code: "bing_ja-JP", flag: "jp", label: "Japan" },
+  { code: "bing_zh-CN", flag: "cn", label: "China" }
 ];
 
 // 全局变量
@@ -69,7 +69,7 @@ const lazyObserver = new IntersectionObserver((entries, observer) => {
       const img = entry.target;
       if (img.dataset.src) {
         img.src = img.dataset.src;
-        
+
         // 存档模式需要处理错误
         if (config === CONFIG.archive) {
           img.onerror = () => {
@@ -77,12 +77,12 @@ const lazyObserver = new IntersectionObserver((entries, observer) => {
             const errorPlaceholder = img.parentElement.querySelector('.image-error');
             if (errorPlaceholder) errorPlaceholder.classList.add('show');
           };
-          
+
           // 检测占位图：Bing 的占位图通常是小尺寸正方形（如 80x80, 557x557）
           img.onload = () => {
-            const isPlaceholder = (img.naturalWidth === img.naturalHeight) && 
-                                  (img.naturalWidth <= 600);
-            
+            const isPlaceholder = (img.naturalWidth === img.naturalHeight) &&
+              (img.naturalWidth <= 600);
+
             if (isPlaceholder) {
               img.classList.add('error');
               const errorPlaceholder = img.parentElement.querySelector('.image-error');
@@ -94,7 +94,7 @@ const lazyObserver = new IntersectionObserver((entries, observer) => {
         } else {
           img.onload = () => img.classList.add('loaded');
         }
-        
+
         img.removeAttribute('data-src');
         observer.unobserve(img);
       }
@@ -109,19 +109,22 @@ function init() {
   // 检测模式
   const mode = document.body.dataset.mode || 'normal';
   config = CONFIG[mode];
-  
+
   populateRegionSelect();
-  setupMobileSearch(); // 设置移动端搜索
-  
+  setupResponsiveControls();
+  setupAutoTheme();
+  setupThemeToggle();
+  setupNavMenu();
+
   const params = new URLSearchParams(window.location.search);
-  
+
   // 确定区域
   let defRegion = params.get('country');
   if (!defRegion) {
     const lang = navigator.language;
     defRegion = "bing_ROW";
     const match = REGIONS.find(r => r.code === `bing_${lang}`);
-    if(match) defRegion = match.code;
+    if (match) defRegion = match.code;
     else if (lang.includes('zh')) defRegion = "bing_zh-CN";
     else if (lang.includes('en')) defRegion = "bing_en-US";
     else if (lang.includes('ja')) defRegion = "bing_ja-JP";
@@ -129,13 +132,14 @@ function init() {
     else if (lang.includes('fr')) defRegion = "bing_fr-FR";
     else if (lang.includes('es')) defRegion = "bing_es-ES";
   }
-  
+
   // 验证区域
   if (![...regionSelect.options].some(o => o.value === defRegion)) {
     defRegion = "bing_ROW";
   }
   regionSelect.value = defRegion;
   currentRegion = defRegion;
+  setRegion(defRegion);
 
   // 加载数据
   loadData(defRegion).then(() => {
@@ -190,9 +194,9 @@ function init() {
     closeLightbox();
     updateQuery({ photo: null });
   });
-  
+
   document.addEventListener('keydown', (e) => {
-    if(e.key === "Escape") {
+    if (e.key === "Escape") {
       closeLightbox();
       updateQuery({ photo: null });
     }
@@ -206,23 +210,24 @@ function init() {
 // 状态管理
 async function applyStateFromURL() {
   const params = new URLSearchParams(window.location.search);
-  
+
   const regionParam = params.get('country');
   if (regionParam && regionParam !== currentRegion) {
     regionSelect.value = regionParam;
     currentRegion = regionParam;
+    setRegion(regionParam);
     await loadData(regionParam);
   }
 
   const dateParam = params.get('date') || 'all';
   monthSelect.value = dateParam;
-  
+
   const searchParam = params.get('search') || '';
   searchInput.value = searchParam;
   currentSearchQuery = searchParam;
 
   const pageParam = parseInt(params.get('page')) || 1;
-  
+
   filterData(dateParam, searchParam, pageParam);
 
   const photoParam = params.get('photo');
@@ -237,7 +242,7 @@ async function applyStateFromURL() {
 
 function updateQuery(updates) {
   const params = new URLSearchParams(window.location.search);
-  
+
   for (const [key, value] of Object.entries(updates)) {
     if (value === null || value === 'all') {
       if (key === 'date' && value === 'all') params.delete(key);
@@ -247,7 +252,7 @@ function updateQuery(updates) {
       params.set(key, value);
     }
   }
-  
+
   if (parseInt(params.get('page')) === 1) params.delete('page');
 
   const newUrl = window.location.pathname + (params.toString() ? '?' + params.toString() : '');
@@ -258,55 +263,144 @@ function updateQuery(updates) {
 
 // 核心函数
 function populateRegionSelect() {
+  // Keep hidden <select> in sync for value reading
   regionSelect.innerHTML = REGIONS.map(r => `<option value="${r.code}">${r.label}</option>`).join('');
+
+  // Build custom dropdown
+  const dropdown = document.getElementById('region-dropdown');
+  if (!dropdown) return;
+  dropdown.innerHTML = REGIONS.map(r => {
+    const flagImg = r.flag
+      ? `<img src="https://flagcdn.com/20x15/${r.flag}.png" alt="${r.label}" class="region-flag-item">`
+      : `<span class="region-globe">🌍</span>`;
+    return `<div class="region-item" data-code="${r.code}">${flagImg}<span>${r.label}</span></div>`;
+  }).join('');
+
+  // Item click
+  dropdown.querySelectorAll('.region-item').forEach(item => {
+    item.addEventListener('click', () => {
+      const code = item.dataset.code;
+      setRegion(code);
+      document.getElementById('region-dropdown').classList.remove('open');
+      // Trigger the existing change handler
+      regionSelect.dispatchEvent(new Event('change'));
+    });
+  });
+
+  // Toggle button
+  const btn = document.getElementById('region-btn');
+  if (btn) {
+    btn.addEventListener('click', (e) => {
+      e.stopPropagation();
+      dropdown.classList.toggle('open');
+    });
+  }
+
+  // Close on outside click
+  document.addEventListener('click', () => dropdown.classList.remove('open'));
 }
 
-// 移动端搜索框展开功能
-function setupMobileSearch() {
-  const searchGroup = searchInput.closest('.control-group');
-  if (!searchGroup) return;
-  
-  searchGroup.classList.add('search-group');
-  const searchIcon = searchGroup.querySelector('i');
-  
-  if (!searchIcon) return;
-  
-  // 点击图标展开搜索框
-  searchIcon.addEventListener('click', (e) => {
-    if (window.innerWidth <= 600) {
-      e.stopPropagation();
-      searchGroup.classList.add('active');
-      setTimeout(() => searchInput.focus(), 100);
+function setRegion(code) {
+  regionSelect.value = code;
+  const r = REGIONS.find(x => x.code === code) || REGIONS[0];
+  const flagEl = document.getElementById('region-flag');
+  const labelEl = document.getElementById('region-label');
+  if (flagEl) {
+    if (r.flag) {
+      flagEl.src = `https://flagcdn.com/20x15/${r.flag}.png`;
+      flagEl.alt = r.label;
+      flagEl.style.display = '';
+    } else {
+      flagEl.style.display = 'none';
+    }
+  }
+  if (labelEl) labelEl.textContent = r.label;
+}
+
+// 响应式控件移动
+function setupResponsiveControls() {
+  const headerControls = document.getElementById('header-controls');
+  const mobileControls = document.getElementById('mobile-controls');
+  if (!headerControls || !mobileControls) return;
+
+  const searchWrapper = searchInput.closest('.search-wrapper') || searchInput;
+  const regionPicker = document.getElementById('region-picker') || regionSelect;
+  const mql = window.matchMedia('(max-width: 850px)');
+
+  function moveControls(isMobile) {
+    const target = isMobile ? mobileControls : headerControls;
+    target.appendChild(searchWrapper);
+    target.appendChild(regionPicker);
+    target.appendChild(monthSelect);
+  }
+
+  moveControls(mql.matches);
+  mql.addEventListener('change', (e) => moveControls(e.matches));
+}
+
+// 自动日夜主题
+function setupAutoTheme() {
+  function applyTheme() {
+    const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+    const hour = new Date().getHours();
+    // System dark → dark. Otherwise time-based: 8AM–8PM → light, else dark.
+    if (!prefersDark && hour >= 8 && hour < 20) {
+      document.body.classList.add('light-mode');
+    } else {
+      document.body.classList.remove('light-mode');
+    }
+  }
+
+  // Listen for system theme changes
+  window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', applyTheme);
+}
+
+// 手动主题切换
+function setupThemeToggle() {
+  const btn = document.getElementById('theme-toggle');
+  if (!btn) return;
+  const icon = btn.querySelector('i');
+  // Sync icon with current state
+  if (document.body.classList.contains('light-mode') && icon) {
+    icon.classList.replace('fa-moon', 'fa-sun');
+  }
+  btn.addEventListener('click', () => {
+    document.body.classList.toggle('light-mode');
+    const isLight = document.body.classList.contains('light-mode');
+    if (icon) {
+      icon.classList.replace(isLight ? 'fa-moon' : 'fa-sun', isLight ? 'fa-sun' : 'fa-moon');
     }
   });
-  
-  // 点击外部区域关闭搜索框
+}
+
+// 导航菜单
+function setupNavMenu() {
+  const btn = document.getElementById('nav-menu-btn');
+  const dropdown = document.getElementById('nav-dropdown');
+  if (!btn || !dropdown) return;
+
+  btn.addEventListener('click', (e) => {
+    e.stopPropagation();
+    dropdown.classList.toggle('show');
+  });
+
   document.addEventListener('click', (e) => {
-    if (window.innerWidth <= 600) {
-      if (!searchGroup.contains(e.target)) {
-        searchGroup.classList.remove('active');
-      }
-    }
-  });
-  
-  // 监听窗口大小变化
-  window.addEventListener('resize', () => {
-    if (window.innerWidth > 600) {
-      searchGroup.classList.remove('active');
+    if (!dropdown.contains(e.target)) {
+      dropdown.classList.remove('show');
     }
   });
 }
 
 const RESOLUTION_MAP = {
-  thumb:     '_1920x1080.jpg&w=557', //_800x480.jpg
-  medium:    '_800x480.jpg', //_1366x768.jpg
-  full:      '_1920x1080.jpg',
-  uhd:       '_UHD.jpg',
-  '2k':      '_UHD.jpg&w=2560&qlt=90',
+  thumb: '_1920x1080.jpg&w=557', //_800x480.jpg
+  medium: '_800x480.jpg', //_1366x768.jpg
+  full: '_1920x1080.jpg',
+  uhd: '_UHD.jpg',
+  '2k': '_UHD.jpg&w=2560&qlt=90',
   wallpaper: '_1920x1200.jpg',
-  mobile:    '_1080x1920.jpg',
+  mobile: '_1080x1920.jpg',
   // 定义默认后缀
-  default:   '_1920x1080.jpg'
+  default: '_1920x1080.jpg'
 };
 // 根据分辨率类型获取图片URL
 function getResUrl(item, type) {
@@ -324,17 +418,17 @@ async function loadData(regionCode) {
       res = await fetch(`${config.fallbackBase}${regionCode}.json`);
     }
     allData = await res.json();
-    
+
     // 去重
     const seen = new Set();
     allData = allData.filter(item => {
-      if(seen.has(item.date)) return false;
+      if (seen.has(item.date)) return false;
       seen.add(item.date);
       return true;
     });
 
     populateMonthDropdown();
-    
+
   } catch (err) {
     console.error(err);
     galleryGrid.innerHTML = '<h3 style="color:white;text-align:center;">Unable to load data</h3>';
@@ -348,13 +442,13 @@ function populateMonthDropdown() {
   monthSelect.innerHTML = '<option value="all">All Months</option>';
   const months = new Set();
   allData.forEach(item => {
-    if(item.date && item.date.length >= 6) months.add(item.date.substring(0, 6));
+    if (item.date && item.date.length >= 6) months.add(item.date.substring(0, 6));
   });
-  
+
   Array.from(months).sort().reverse().forEach(m => {
     const opt = document.createElement('option');
     opt.value = m;
-    opt.textContent = `${m.substring(0,4)} ${m.substring(4,6)}`;
+    opt.textContent = `${m.substring(0, 4)} ${m.substring(4, 6)}`;
     monthSelect.appendChild(opt);
   });
   if (currentVal) monthSelect.value = currentVal;
@@ -365,14 +459,14 @@ function filterData(monthVal, searchQuery, page) {
   if (monthVal && monthVal !== 'all') {
     data = data.filter(item => item.date.startsWith(monthVal));
   }
-  
+
   if (searchQuery) {
     const query = searchQuery.toLowerCase();
     data = data.filter(item => {
       const title = (item.copyrightKeyword || item.copyright || '').toLowerCase();
       const desc = (item.description || '').toLowerCase();
       const copyright = (item.copyright || '').toLowerCase();
-      
+
       // 提取URL中的关键词
       // 例如: "https://www.bing.com/th?id=OHR.EverestGlow_EN-IN2485244668"
       // 提取 "EverestGlow" 部分
@@ -385,14 +479,14 @@ function filterData(monthVal, searchQuery, page) {
           urlKeyword = match[1].toLowerCase();
         }
       }
-      
-      return title.includes(query) || 
-             desc.includes(query) || 
-             copyright.includes(query) ||
-             urlKeyword.includes(query);
+
+      return title.includes(query) ||
+        desc.includes(query) ||
+        copyright.includes(query) ||
+        urlKeyword.includes(query);
     });
   }
-  
+
   filteredData = data;
   currentPage = page || 1;
   renderGallery();
@@ -401,7 +495,7 @@ function filterData(monthVal, searchQuery, page) {
 
 function renderGallery() {
   galleryGrid.innerHTML = '';
-  
+
   const start = (currentPage - 1) * config.itemsPerPage;
   const end = start + config.itemsPerPage;
   const pageItems = filteredData.slice(start, end);
@@ -415,10 +509,10 @@ function renderGallery() {
     const card = document.createElement('div');
     const isFeatured = config.enableFeatured && (currentPage === 1 && index === 0);
     card.className = `card ${isFeatured ? 'featured' : ''}`;
-    
+
     const imgUrl = isFeatured ? getResUrl(item, 'medium') : getResUrl(item, 'thumb');
-    const dateStr = `${item.date.substring(0,4)}-${item.date.substring(4,6)}-${item.date.substring(6,8)}`;
-    const year = item.date.substring(0,4);
+    const dateStr = `${item.date.substring(0, 4)}-${item.date.substring(4, 6)}-${item.date.substring(6, 8)}`;
+    const year = item.date.substring(0, 4);
     const title = item.copyrightKeyword || item.copyright?.split('(')[0]?.trim() || 'Bing Wallpaper';
 
     // 存档模式显示年份徽章和错误占位符
@@ -456,12 +550,12 @@ function renderGallery() {
 
 function openLightbox(item) {
   lightbox.classList.add('show');
-  
+
   if (lbError) lbError.classList.remove('show');
-  
+
   const isPortrait = window.innerHeight > window.innerWidth;
   const imgSrc = isPortrait ? getResUrl(item, 'mobile') : getResUrl(item, 'full');
-  
+
   lbImg.src = imgSrc;
   lbImg.style.display = 'block';
 
@@ -482,7 +576,7 @@ function openLightbox(item) {
     };
   }
 
-  const dateStr = `${item.date.substring(0,4)}-${item.date.substring(4,6)}-${item.date.substring(6,8)}`;
+  const dateStr = `${item.date.substring(0, 4)}-${item.date.substring(4, 6)}-${item.date.substring(6, 8)}`;
   lbTitle.textContent = item.copyrightKeyword || item.copyright?.split('(')[0]?.trim() || 'Bing Wallpaper';
   lbDate.textContent = dateStr;
   // 处理 copyright 和 maplink
@@ -495,7 +589,7 @@ function openLightbox(item) {
     // 构建地图链接
     // const mapUrl = `https://www.bing.com/maps/search?cp=${coordinates}&lvl=9.5&style=r&q=${encodeURIComponent(locationName)}`;
     const mapUrl = `https://www.bing.com/maps/search?q=${item.maplink}&style=h`;
-    
+
     lbCopy.innerHTML = `${copyrightText} <a href="${mapUrl}" target="_blank" class="map-link" title="View on world map (approximate location)"><i class="fa-solid fa-location-dot"></i></a>`;
   } else {
     lbCopy.textContent = copyrightText;
@@ -504,12 +598,12 @@ function openLightbox(item) {
 
   const setupBtn = (btn, type) => {
     if (!btn) return;
-    
+
     // 保留 href 方便右键"复制链接"，但主要逻辑由 onclick 接管
     let url = getResUrl(item, type);
     if (url.startsWith('/')) url = 'https://www.bing.com' + url;
     btn.href = url;
-    
+
     // 绑定点击事件
     btn.onclick = (e) => handleDownload(e, item, type);
   };
@@ -540,7 +634,7 @@ function renderPagination() {
       renderGallery();
       renderPagination();
       updateQuery({ page: p });
-      window.scrollTo({top:0, behavior:'smooth'});
+      window.scrollTo({ top: 0, behavior: 'smooth' });
     }
     paginationEl.appendChild(btn);
   };
@@ -553,53 +647,37 @@ function renderPagination() {
   }
 
   addBtn(1);
-  if(currentPage > 4) addDots();
+  if (currentPage > 4) addDots();
 
   let start = Math.max(2, currentPage - 2);
   let end = Math.min(totalPages - 1, currentPage + 2);
 
-  if(currentPage < 5) end = Math.min(totalPages - 1, 5);
-  if(currentPage > totalPages - 4) start = Math.max(2, totalPages - 4);
+  if (currentPage < 5) end = Math.min(totalPages - 1, 5);
+  if (currentPage > totalPages - 4) start = Math.max(2, totalPages - 4);
 
-  for(let i=start; i<=end; i++) addBtn(i);
+  for (let i = start; i <= end; i++) addBtn(i);
 
-  if(currentPage < totalPages - 3) addDots();
-  if(totalPages > 1) addBtn(totalPages);
+  if (currentPage < totalPages - 3) addDots();
+  if (totalPages > 1) addBtn(totalPages);
 }
 
 document.addEventListener('DOMContentLoaded', init);
 
-moreBtnGroup.addEventListener('click', function(event) {
+moreBtnGroup.addEventListener('click', function (event) {
   event.stopPropagation();
-  event.preventDefault();
-  
-  // 切换显示状态
-  var isShowing = dropdownMenu.classList.contains('show');
+  // 清除可能残留的内联样式，确保 CSS class 完全控制显示
+  dropdownMenu.style.visibility = '';
+  dropdownMenu.style.opacity = '';
   dropdownMenu.classList.toggle('show');
-  
-  // 确保样式正确应用（兼容旧版浏览器）
-  if (!isShowing) {
-    setTimeout(function() {
-      dropdownMenu.style.visibility = 'visible';
-      dropdownMenu.style.opacity = '1';
-    }, 10);
-  }
 });
 
-window.addEventListener('click', function(event) {
-  if (dropdownMenu.classList.contains('show')) {
-    dropdownMenu.classList.remove('show');
-    // 延迟隐藏以配合过渡动画
-    setTimeout(function() {
-      if (!dropdownMenu.classList.contains('show')) {
-        dropdownMenu.style.visibility = 'hidden';
-        dropdownMenu.style.opacity = '0';
-      }
-    }, 200);
-  }
+window.addEventListener('click', function () {
+  dropdownMenu.classList.remove('show');
+  dropdownMenu.style.visibility = '';
+  dropdownMenu.style.opacity = '';
 });
 
-dropdownMenu.addEventListener('click', function(event) {
+dropdownMenu.addEventListener('click', function (event) {
   event.stopPropagation();
 });
 
@@ -615,7 +693,7 @@ function getDownloadFilename(item, type) {
   }
 
   const date = item.date; // 例如 20251218
-  
+
   // 映射分辨率后缀
   const suffixMap = {
     'uhd': 'UHD',
@@ -633,7 +711,7 @@ function getDownloadFilename(item, type) {
 async function handleDownload(event, item, type) {
   event.preventDefault(); // 阻止浏览器直接跳转
   const btn = event.currentTarget;
-  
+
   // 简单的加载反馈
   const originalContent = btn.innerHTML;
   btn.innerHTML = '<i class="fa-solid fa-spinner fa-spin"></i>';
@@ -643,14 +721,14 @@ async function handleDownload(event, item, type) {
     let url = getResUrl(item, type);
     // 确保是绝对路径 (如果 getResUrl 返回相对路径，且你需要使用 Bing 原链)
     if (url.startsWith('/')) {
-        url = 'https://www.bing.com' + url;
+      url = 'https://www.bing.com' + url;
     }
 
     // 发起请求检查状态
     // fetch 默认是 GET，也可以用 { method: 'HEAD' } 仅检查头部，
     // 但为了重命名我们需要文件内容，所以直接 GET，如果状态不对抛出错误。
     const response = await fetch(url);
-    
+
     if (response.status !== 200) {
       throw new Error(`HTTP Status ${response.status}`);
     }
@@ -666,7 +744,7 @@ async function handleDownload(event, item, type) {
     a.download = filename;
     document.body.appendChild(a);
     a.click();
-    
+
     // 清理
     document.body.removeChild(a);
     URL.revokeObjectURL(blobUrl);
