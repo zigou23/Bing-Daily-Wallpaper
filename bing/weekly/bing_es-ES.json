@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202602192300",
+        "date": "20260220",
+        "url": "https://www.bing.com/th?id=OHR.AdamsFirefall_ES-ES3757807854_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AdamsFirefall_ES-ES3757807854",
+        "copyright": "Cascada Horsetail, parque nacional de Yosemite, California, EE. UU. (© Jorge Villalba/Getty Images)",
+        "copyrightKeyword": "Cascada Horsetail",
+        "hsh": "e52068b0ca8244ba25de6ef0007a516f",
+        "description": "La imagen de hoy muestra la impresionante cascada Horsetail en el parque nacional de Yosemite, en California (Estados Unidos). Una cascada que parece hecha de fuego, ya que el agua cae teñida de tonos naranjas y rojizos cuando la luz del atardecer incide con el ángulo justo, creando una ilusión óptica poco común. Este efecto solo se da durante algunos días de febrero y depende de que haya cielo despejado y suficiente caudal. La cascada Horsetail es estacional, aparece tras el deshielo y alcanza un desnivel cercano a los 650 metros.",
+        "maplink": "37.729841,-119.628648"
+    },
+    {
         "fullstartdate": "202602182300",
         "date": "20260219",
         "url": "https://www.bing.com/th?id=OHR.GranadaAlhambra_ES-ES3338584785_1920x1080.jpg",
@@ -66,16 +77,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.FriendshipBridge_ES-ES2971245764",
         "copyright": "Tercer Puente de la Amistad entre Tailandia y Laos (© chaiyut samsuk/Getty Images)",
         "copyrightKeyword": "Tercer Puente de la Amistad Tailandia",
-        "hsh": "9ac1e4e6e8ba251f9f20d577c5231ba9",
-        "description": "El Tercer Puente de la Amistad entre Tailandia y Laos es una obra concebida para conectar y facilitar el encuentro entre dos países vecinos. La imagen de hoy muestra su perfil sobrio y funcional, tendido sobre el río Mekong como una línea continua que acorta distancias y tiempos. Es un puente de hormigón cuya vocación, sencilla y a la vez poderosa, es unir orillas. Su arquitectura discreta responde a esa utilidad primordial. No busca deslumbrar con gestos llamativos, sino ofrecer seguridad, continuidad y confianza a quienes lo cruzan cada día. Observado de cerca, el tablero se entiende como un corredor abierto que vuelve cotidianos los viajes que antes exigían desvíos o esperas."
-    },
-    {
-        "fullstartdate": "202602112300",
-        "date": "20260212",
-        "url": "https://www.bing.com/th?id=OHR.DarwinBooby_ES-ES2893793809_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DarwinBooby_ES-ES2893793809",
-        "copyright": "Piquero de patas azules, Islas Galápagos, Ecuador (© Karine Aigner/TANDEM Stills + Motion)",
-        "copyrightKeyword": "Día de Darwin",
-        "hsh": "ef0e0a855240f7bddf1e8d760af1cbd5"
+        "hsh": "9ac1e4e6e8ba251f9f20d577c5231ba9"
     }
 ]
