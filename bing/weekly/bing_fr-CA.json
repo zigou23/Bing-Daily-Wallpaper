@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202602200500",
+        "date": "20260220",
+        "url": "https://www.bing.com/th?id=OHR.AdamsFirefall_FR-CA5596610084_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AdamsFirefall_FR-CA5596610084",
+        "copyright": "La chute d’Horsetail, Parc national de Yosemite, Californie, États-Unis (© Jorge Villalba/Getty Images)",
+        "copyrightKeyword": "chute Horsetail Yosemite",
+        "hsh": "a87848d0e01d46c835c6b9da1578e9c6",
+        "description": "Aujourd’hui, on célèbre l’anniversaire d’Ansel Adams, le photographe qui a façonné notre regard sur le Parc national de Yosemite, en Californie (États-Unis). Parmi les merveilles de ce parc sculpté par le granite, l’eau et la lumière, une vue presque irréelle continue de captiver les visiteurs : celle de « Firefall », la cascade de feu.",
+        "maplink": "37.729841,-119.628648"
+    },
+    {
         "fullstartdate": "202602190500",
         "date": "20260219",
         "url": "https://www.bing.com/th?id=OHR.DragonsEyeRock_FR-CA6892198253_1920x1080.jpg",
@@ -69,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.FriendshipBridge_FR-CA7118708178",
         "copyright": "Troisième pont de l’amitié lao-thaïlandaise reliant le Laos et la Thaïlande (© chaiyut samsuk/Getty Images)",
         "copyrightKeyword": "Troisième pont de l’amitié lao-thaïlandaise",
-        "hsh": "05f6c29eb54d5096783f95cfee480eb2",
-        "description": "Avant les ponts, les rivières rythmaient nos déplacements. Puis les humains ont tracé de nouvelles trajectoires. Ce basculement met en lumière l’importance de liens transfrontaliers tels que le troisième pont de l’amitié lao-thaïlandaise. Ce dernier franchit le Mékong grâce à une structure en poutre-caisson, stable et efficace face au puissant courant du fleuve. Une prouesse qui rappelle, à l’échelle québécoise, les ponts irremplaçables qui relient les rives du Saint-Laurent.",
-        "maplink": "16.600522,104.740271"
-    },
-    {
-        "fullstartdate": "202602120500",
-        "date": "20260212",
-        "url": "https://www.bing.com/th?id=OHR.DarwinBooby_FR-CA5256691798_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DarwinBooby_FR-CA5256691798",
-        "copyright": "Fou à pieds bleus, Îles Galapagos, Équateur (© Karine Aigner/TANDEM Stills + Motion)",
-        "copyrightKeyword": "Journée Darwin",
-        "hsh": "091488d25524dbf276d9457c83ea6f9f"
+        "hsh": "05f6c29eb54d5096783f95cfee480eb2"
     }
 ]

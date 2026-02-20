@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202602202300",
+        "date": "20260221",
+        "url": "https://www.bing.com/th?id=OHR.TetonFox_ES-ES3808150258_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TetonFox_ES-ES3808150258",
+        "copyright": "Zorro rojo bajo la nieve, parque nacional de Grand Teton, Wyoming, EE. UU. (© Radomir Jakubowski/naturepl.com)",
+        "copyrightKeyword": "Zorro rojo",
+        "hsh": "da3f23eb22695ebd9374a072572414f5",
+        "description": "El zorro rojo es uno de los mamíferos más adaptables del planeta. Habita bosques, montañas y llanuras, y puede sobrevivir tanto en climas extremos como cerca de zonas humanas. Destaca por su oído fino, capaz de detectar presas bajo la nieve, y por su inteligencia, que le permite memorizar rutas y esconder alimento para más tarde. Su espesa cola le sirve de abrigo y de equilibrio cuando corre o salta, mientras que su pelaje varía con la estación y el entorno.",
+        "maplink": "43.790948,-110.681668"
+    },
+    {
         "fullstartdate": "202602192300",
         "date": "20260220",
         "url": "https://www.bing.com/th?id=OHR.AdamsFirefall_ES-ES3757807854_1920x1080.jpg",
@@ -67,16 +78,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ValentineHearts_ES-ES3038334122",
         "copyright": "Corazones sangrantes (© Dorene Hookey/Cavan Images)",
         "copyrightKeyword": "Día de San Valentín",
-        "hsh": "f9665cab41001f0e28454aa3beab7063",
-        "description": "El 14 de febrero celebramos el Día de San Valentín, una fecha dedicada al cariño y a los gestos que hacen la vida más luminosa. No se trata solo de regalos ni de grandes declaraciones, sino de la oportunidad de reconocer la ternura que compartimos con quien nos acompaña. Es un momento propicio para detenerse y agradecer las pequeñas cosas que se construyen en el día a día, esas que dan calidez al invierno y dejan una huella serena en la memoria."
-    },
-    {
-        "fullstartdate": "202602122300",
-        "date": "20260213",
-        "url": "https://www.bing.com/th?id=OHR.FriendshipBridge_ES-ES2971245764_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FriendshipBridge_ES-ES2971245764",
-        "copyright": "Tercer Puente de la Amistad entre Tailandia y Laos (© chaiyut samsuk/Getty Images)",
-        "copyrightKeyword": "Tercer Puente de la Amistad Tailandia",
-        "hsh": "9ac1e4e6e8ba251f9f20d577c5231ba9"
+        "hsh": "f9665cab41001f0e28454aa3beab7063"
     }
 ]

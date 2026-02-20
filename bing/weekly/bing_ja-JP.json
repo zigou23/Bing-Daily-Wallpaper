@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202602201500",
+        "date": "20260221",
+        "url": "https://www.bing.com/th?id=OHR.TetonFox_JA-JP8453720368_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TetonFox_JA-JP8453720368",
+        "copyright": "アカギツネ, 米国 ワイオミング州 (© Radomir Jakubowski/naturepl.com)",
+        "copyrightKeyword": "アカギツネ",
+        "hsh": "7f9ac4c3d28b53d5749c5ed4dbd90a2c",
+        "description": "今日の画像は、米国ワイオミング州のグランド・ティトン国立公園に生息するアカギツネ。音を吸収する雪の中でも鋭い聴覚で獲物の気配を感じ取り、静かに待ち構えるハンターです。イヌ科ではあるものの、体の特徴やその行動は猫に似ているとされています。炎のように赤い冬毛は白銀の風景に鮮やかに映え、厳しい冬を生き抜く野生動物の力強さを感じさせてくれます。",
+        "maplink": "43.790948,-110.681668"
+    },
+    {
         "fullstartdate": "202602191500",
         "date": "20260220",
         "url": "https://www.bing.com/th?id=OHR.AdamsFirefall_JA-JP8340862281_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ValentineHearts_JA-JP1565993875",
         "copyright": "ハート型のケマンソウ, カナダ オンタリオ州 (© Dorene Hookey/Cavan Images)",
         "copyrightKeyword": "ケマンソウ",
-        "hsh": "cab67d5d2917e7055e4fc920d036fafa",
-        "description": "今日 2 月 14 日は恋人たちの日、バレンタインデーです。日本を含め多くの国で、大切な人に感謝を示したり、贈り物をしたりする日として知られています。その正確な起源は不明ですが、古代ローマの冬至祭の一つであるルペルカーリア祭や聖バレンタイン祭といった、いくつかの古代の祭りと関連していると考えられています…",
-        "maplink": "44.23056,-76.48111"
-    },
-    {
-        "fullstartdate": "202602121500",
-        "date": "20260213",
-        "url": "https://www.bing.com/th?id=OHR.FriendshipBridge_JA-JP1407443629_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FriendshipBridge_JA-JP1407443629",
-        "copyright": "第3タイ・ラオス友好橋 (© chaiyut samsuk/Getty Images)",
-        "copyrightKeyword": "第3タイ・ラオス友好橋",
-        "hsh": "7d1d77bfeaa5083096e8d59fb15f5659"
+        "hsh": "cab67d5d2917e7055e4fc920d036fafa"
     }
 ]
