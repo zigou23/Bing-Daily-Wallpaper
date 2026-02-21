@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202602212300",
+        "date": "20260222",
+        "url": "https://www.bing.com/th?id=OHR.MamTorSunrise_DE-DE1078293930_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MamTorSunrise_DE-DE1078293930",
+        "copyright": "Mam Tor, Derbyshire, England (© john finney photography/Getty Images)",
+        "copyrightKeyword": "Mam Tor Berg",
+        "hsh": "757c6b395aaa1914360b2592be032435",
+        "description": "Warum wird ein Berg der „Zitternde Berg“ genannt? Mam Tor, oberhalb von Castleton in der englischen Grafschaft Derbyshire gelegen, liefert die Antwort eindrucksvoll. Der 517 Meter hohe Berg befindet sich im Peak District, dem ältesten Nationalpark des Vereinigten Königreichs, der sich über rund 1.400 Quadratkilometer erstreckt. Sein Name stammt aus dem Altenglischen. „Mam“ bedeutet „Mutter“ und verweist auf die kleineren Hügel, die sich um den Hauptgipfel scharen. Unter der Oberfläche ist Mam Tor jedoch ständig in Bewegung. Seit Jahrhunderten rutschen hier Schiefer- und Sandsteinschichten talwärts. Diese Instabilität führte Ende der 1970er‑Jahre zur endgültigen Aufgabe der wichtigen Verbindungsstraße A625. Ihre Reste gelten heute als ungewöhnliches Fotomotiv.",
+        "maplink": "53.387242,-1.819306"
+    },
+    {
         "fullstartdate": "202602202300",
         "date": "20260221",
         "url": "https://www.bing.com/th?id=OHR.TetonFox_DE-DE7543648384_1920x1080.jpg",
@@ -69,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MontereyHumpbacks_DE-DE4095114088",
         "copyright": "Buckelwale in der Monterey Bay, Kalifornien, USA (© Kiliii Fish/Cavan Images)",
         "copyrightKeyword": "Wale",
-        "hsh": "99a26c53b38c647e74bddd27ee1a3f2e",
-        "description": "Wale sind nicht nur majestätische Meeresbewohner, sondern auch der Motor unserer Ozeane. Durch ihre Wanderungen und Ausscheidungen verteilen sie Nährstoffe, die das Wachstum von Phytoplankton fördern und somit ganze Nahrungsketten stabilisieren. Forscher bezeichnen diesen Prozess als „Whale Pump“.",
-        "maplink": "36.8,-121.9"
-    },
-    {
-        "fullstartdate": "202602132300",
-        "date": "20260214",
-        "url": "https://www.bing.com/th?id=OHR.ValentineHearts_DE-DE3786630140_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ValentineHearts_DE-DE3786630140",
-        "copyright": "Tränendes Herz (© Dorene Hookey/Cavan Images)",
-        "copyrightKeyword": "Valentinstag",
-        "hsh": "35677c36d511a405c1f2d5b8d23b8a45"
+        "hsh": "99a26c53b38c647e74bddd27ee1a3f2e"
     }
 ]

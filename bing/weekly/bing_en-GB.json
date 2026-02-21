@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202602210000",
+        "date": "20260221",
+        "url": "https://www.bing.com/th?id=OHR.TetonFox_EN-GB1287383886_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TetonFox_EN-GB1287383886",
+        "copyright": "Red fox, Grand Teton National Park, Wyoming, United States (© Radomir Jakubowski/naturepl.com)",
+        "copyrightKeyword": "Red fox",
+        "hsh": "beb70bc3105b293296fd52c5f22d43d4",
+        "description": "A red fox standing in the snowfall of Grand Teton National Park is more than a picturesque moment—it offers a glimpse into the resilience of one of North America's most adaptable predators. This small carnivore is instantly recognisable by its sharp gaze and thick, fiery coat that helps it thrive even in Wyoming's harsh winter conditions. Snow muffles sound, yet the animal's extraordinary hearing allows it to detect prey moving beneath the surface. You can almost imagine it pausing amid the drifting flakes, ears rotating, body perfectly still, waiting for the faintest rustle.",
+        "maplink": "43.790948,-110.681668"
+    },
+    {
         "fullstartdate": "202602200000",
         "date": "20260220",
         "url": "https://www.bing.com/th?id=OHR.AdamsFirefall_EN-GB5806562123_1920x1080.jpg",
@@ -70,16 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ValentineHearts_EN-GB9308860747",
         "copyright": "Bleeding hearts (© Dorene Hookey/Cavan Images)",
         "copyrightKeyword": "Valentines Day",
-        "hsh": "2776516899aa83e19080d8c92f99c728",
-        "description": "Valentine's Day celebrates the heart in all its forms—love that is bold or tender, hopeful or quietly vulnerable. Few symbols capture this emotion as naturally as the bleeding heart flower, pictured here. With its unmistakable heart-shaped blooms, the plant emerges each spring, growing up to 60 centimetres tall and spreading nearly 75 centimetres wide, creating a graceful, almost poetic display."
-    },
-    {
-        "fullstartdate": "202602130000",
-        "date": "20260213",
-        "url": "https://www.bing.com/th?id=OHR.FriendshipBridge_EN-GB8080277679_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FriendshipBridge_EN-GB8080277679",
-        "copyright": "Third Thai-Lao Friendship Bridge connecting Laos and Thailand (© chaiyut samsuk/Getty Images)",
-        "copyrightKeyword": "Third Thai Lao Friendship Bridge",
-        "hsh": "890d8a81156d5a61284aa651080788e2"
+        "hsh": "2776516899aa83e19080d8c92f99c728"
     }
 ]

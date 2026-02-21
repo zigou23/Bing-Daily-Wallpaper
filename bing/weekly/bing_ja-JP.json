@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202602211500",
+        "date": "20260222",
+        "url": "https://www.bing.com/th?id=OHR.MamTorSunrise_JA-JP8500587140_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MamTorSunrise_JA-JP8500587140",
+        "copyright": "マム・トーの丘, イングランド (© john finney photography/Getty Images)",
+        "copyrightKeyword": "マム・トーの丘",
+        "hsh": "90bcba24b7d270b37b543cddc253a40e",
+        "description": "マム・トーは、イングランド・ダービーシャー州のピーク・ディストリクト国立公園内にある標高 517m の丘です。「母なる丘」を意味し、東斜面で繰り返される地滑りによって麓に無数の「小さな丘」が生まれたことが名前の由来となっています。また、丘の周囲には四つの洞窟もあり、雄大な景観と歩きやすい尾根道が楽しめることから、この地を代表する散策スポットとして親しまれています。",
+        "maplink": "53.387242,-1.819306"
+    },
+    {
         "fullstartdate": "202602201500",
         "date": "20260221",
         "url": "https://www.bing.com/th?id=OHR.TetonFox_JA-JP8453720368_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MontereyHumpbacks_JA-JP5360073142",
         "copyright": "海面から飛び出すザトウクジラ, 米国 カリフォルニア州 (© Kiliii Fish/Cavan Images)",
         "copyrightKeyword": "海面から飛び出すザトウクジラ",
-        "hsh": "f1b354b3778e7a62d70529529c001afe",
-        "description": "今日 2 月 15 日は「ワールド・ホエール・デイ」。毎年 2 月の第 3 日曜日にハワイのマウイ島を中心に祝われるクジラの記念日です。ザトウクジラがアラスカ海域から南下し、この時期にハワイの沖合でよく見られることから制定されました…",
-        "maplink": "37.133235,-121.776746"
-    },
-    {
-        "fullstartdate": "202602131500",
-        "date": "20260214",
-        "url": "https://www.bing.com/th?id=OHR.ValentineHearts_JA-JP1565993875_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ValentineHearts_JA-JP1565993875",
-        "copyright": "ハート型のケマンソウ, カナダ オンタリオ州 (© Dorene Hookey/Cavan Images)",
-        "copyrightKeyword": "ケマンソウ",
-        "hsh": "cab67d5d2917e7055e4fc920d036fafa"
+        "hsh": "f1b354b3778e7a62d70529529c001afe"
     }
 ]
