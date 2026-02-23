@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202602232300",
+        "date": "20260224",
+        "url": "https://www.bing.com/th?id=OHR.TulumLilies_DE-DE2753544781_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TulumLilies_DE-DE2753544781",
+        "copyright": "Seerosen im Gran Cenote, Tulum, Mexiko (© Christian Vizl/Tandem Stills + Motion)",
+        "copyrightKeyword": "Gran Cenote Tulum Mexiko",
+        "hsh": "7b39aedc616460451e3dafe5c1d95336",
+        "description": "Seerosen auf spiegelglattem Wasser und eine verborgene Welt darunter prägen den Gran Cenote bei Tulum in Mexiko. Die natürliche Karsthöhle entstand vor Tausenden von Jahren, als Kalkgestein einstürzte. Dadurch wurde der Weg für das Grundwasser frei, sodass sich ein Süßwasserbecken bildete, das heute mit einem weit verzweigten Höhlensystem verbunden ist.",
+        "maplink": "20.246545,-87.464165"
+    },
+    {
         "fullstartdate": "202602222300",
         "date": "20260223",
         "url": "https://www.bing.com/th?id=OHR.BavariaEgret_DE-DE1964732811_1920x1080.jpg",
@@ -69,16 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.NewYearLantern_DE-DE3336246364",
         "copyright": "Rote Laternen zum chinesischen Neujahr (© Gins Wang/Getty Images)",
         "copyrightKeyword": "Chinesisches Neujahrsfest",
-        "hsh": "63c893455d59bf7f43cb69dbb315711c",
-        "description": "Wenn die ersten roten Laternen die Nacht erhellen, beginnt das chinesische Neujahrsfest voller Hoffnung und Tradition. Es richtet sich nach dem lunisolaren Kalender, der sich an Mondphasen und Jahreszeiten orientiert. Deshalb gibt es kein festes Datum, sondern das Neujahr fällt jedes Jahr auf einen Neumond zwischen dem 21. Januar und dem 20. Februar. Seit über zwei Jahrtausenden prägt dieses Frühlingsfest das Leben von Millionen Menschen und 2024 wurde es von der UNESCO als immaterielles Kulturerbe der Menschheit anerkannt. Die Feierlichkeiten dauern 15 Tage, vom Neujahrsabend bis zum Laternenfest am ersten Vollmond. Jede Phase bringt eigene Bräuche hervor: Feuerwerk, rote Dekorationen und festliche Speisen symbolisieren Glück, Familie und Neubeginn."
-    },
-    {
-        "fullstartdate": "202602152300",
-        "date": "20260216",
-        "url": "https://www.bing.com/th?id=OHR.RoseMondayCologne_DE-DE4534942479_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.RoseMondayCologne_DE-DE4534942479",
-        "copyright": "Rosenmontagszug in Köln, Nordrhein-Westfalen (© mauritius images GmbH/Alamy)",
-        "copyrightKeyword": "Rosenmontag",
-        "hsh": "db6caa7a20abd92e388ffb06ceae2e1f"
+        "hsh": "63c893455d59bf7f43cb69dbb315711c"
     }
 ]

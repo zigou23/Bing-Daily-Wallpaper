@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202602230000",
+        "date": "20260223",
+        "url": "https://www.bing.com/th?id=OHR.BavariaEgret_EN-GB1955700244_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BavariaEgret_EN-GB1955700244",
+        "copyright": "Great white egret, Upper Bavaria, Germany (© Konrad Wothe/naturepl.com)",
+        "copyrightKeyword": "Great white egret",
+        "hsh": "954d0bca2e91d2a85d1cdd97551402c6",
+        "description": "The great egret is a striking large heron, easily recognisable by its pure white plumage, long neck and sharp yellow bill. Known for its cosmopolitan distribution, it occupies habitats around the world and adapts well to many aquatic environments. Adults measure about 94–104 centimetres in body length, with a wingspan of 1.3 to 1.5 metres and weigh about a kilogram, giving them a tall, elegant silhouette—roughly chest‑high when compared to a 2‑metre-tall person. As carnivores, they feed primarily on fish but also take amphibians, insects, small mammals and occasionally reptiles. Their patient hunting style, standing motionless before striking with sudden precision, is one of their most distinctive traits."
+    },
+    {
         "fullstartdate": "202602220000",
         "date": "20260222",
         "url": "https://www.bing.com/th?id=OHR.MamTorSunrise_EN-GB1525919580_1920x1080.jpg",
@@ -70,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.JorvikVikingFestival2026_EN-GB0705464256",
         "copyright": "York, England (© CHUNYIP WONG/iStock/Getty Images)",
         "copyrightKeyword": "Jorvik Viking Centre",
-        "hsh": "a2ebcce01468b36763c91e9223dd72f0",
-        "description": "If winter had a battle cry, it would sound like a horn blast echoing across cobbles. Each February, the Jorvik Viking Festival in York turns history into a living, shouting, occasionally bearded event. Run by the team behind the Jorvik Viking Centre, the festival celebrates the city's past as Jórvík—from 16 to 22 February this year—a major Viking settlement from the 9th century.",
-        "maplink": "53.957703,-1.09373"
-    },
-    {
-        "fullstartdate": "202602150000",
-        "date": "20260215",
-        "url": "https://www.bing.com/th?id=OHR.MontereyHumpbacks_EN-GB9754437276_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MontereyHumpbacks_EN-GB9754437276",
-        "copyright": "Humpback whales, Monterey Bay, California, United States (© Kiliii Fish/Cavan Images)",
-        "copyrightKeyword": "Whale",
-        "hsh": "ed3adc4ebfbe74f876c6e1f62705ca76"
+        "hsh": "a2ebcce01468b36763c91e9223dd72f0"
     }
 ]

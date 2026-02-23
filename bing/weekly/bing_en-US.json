@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202602230800",
+        "date": "20260223",
+        "url": "https://www.bing.com/th?id=OHR.BavariaEgret_EN-US2697995103_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BavariaEgret_EN-US2697995103",
+        "copyright": "Great white egret, Upper Bavaria, Germany (© Konrad Wothe/naturepl.com)",
+        "copyrightKeyword": "Great white egret",
+        "hsh": "5e9f1cba8d689338d6d8a0548e49129c",
+        "description": "The great egret is a striking large heron, easily recognizable by its pure white plumage, long neck, and sharp yellow bill. Known for its cosmopolitan distribution, it occupies habitats around the world and adapts well to many aquatic environments. Adults measure about 37 to 41 inches in body length, with a wingspan of 4.3 to 4.8 feet, and weigh about 2.2 pounds, giving them a tall, elegant silhouette—roughly chest‑high when compared to a 6‑foot-tall person. As carnivores, they feed primarily on fish but also take amphibians, insects, small mammals, and occasionally reptiles. Their patient hunting style, standing motionless before striking with sudden precision, is one of their most distinctive traits."
+    },
+    {
         "fullstartdate": "202602220800",
         "date": "20260222",
         "url": "https://www.bing.com/th?id=OHR.MamTorSunrise_EN-US2655534073_1920x1080.jpg",
@@ -70,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PresidentsDay_EN-US6598155144",
         "copyright": "Lincoln Memorial, Washington, DC (© Westend61/Getty Images)",
         "copyrightKeyword": "Presidents Day",
-        "hsh": "afcd8b1b4fab850c85f2eb139c9d0b9a",
-        "description": "Presidents' Day is observed on the third Monday of February and is officially recognized at the federal level as Washington's Birthday. The holiday was originally celebrated on February 22, George Washington's birthday, before being rescheduled under the Uniform Monday Holiday Act. Passed in 1968 and implemented in 1971, the Act shifted several federal holidays to Mondays, creating standardized long weekends. Washington's Birthday was among those affected, which moved the observance away from Washington's actual birthday and allowed its meaning to broaden over time.",
-        "maplink": "38.889286,-77.050179"
-    },
-    {
-        "fullstartdate": "202602150800",
-        "date": "20260215",
-        "url": "https://www.bing.com/th?id=OHR.MontereyHumpbacks_EN-US6328970690_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MontereyHumpbacks_EN-US6328970690",
-        "copyright": "Humpback whales in Monterey Bay, California (© Kiliii Fish/Cavan Images)",
-        "copyrightKeyword": "Whale",
-        "hsh": "45a36c77504c7021d7b838029d67fe0b"
+        "hsh": "afcd8b1b4fab850c85f2eb139c9d0b9a"
     }
 ]
