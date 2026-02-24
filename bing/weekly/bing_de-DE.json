@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202602242300",
+        "date": "20260225",
+        "url": "https://www.bing.com/th?id=OHR.MendenhallCave_DE-DE4105330129_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MendenhallCave_DE-DE4105330129",
+        "copyright": "Eishöhle im Mendenhall‑Gletscher, Alaska, USA (© Designpics/Adobe Stock)",
+        "copyrightKeyword": "Mendenhall‑Gletscher",
+        "hsh": "6262d5a1a6f8ab48495a8fd4074bd99d",
+        "description": "Blaues Licht durchdringt das Eis und lässt eine vergängliche Welt entstehen. Im Inneren des Mendenhall-Gletschers in Alaska, USA, öffnen sich Eishöhlen, die fast unwirklich wirken. Nur wenige Kilometer von Juneau entfernt liegt dieser mächtige Gletscher, dessen stille Räume aus über Jahrhunderte verdichtetem Eis geformt wurden. Er reicht rund 21 Kilometer vom Juneau-Eisfeld ins Tal hinab und verändert dabei stetig seine Gestalt. Seine intensive Färbung entsteht durch die hohe Dichte des Eises, welche vor allem leuchtende Blautöne sichtbar macht.",
+        "maplink": "59.373014,-134.506836"
+    },
+    {
         "fullstartdate": "202602232300",
         "date": "20260224",
         "url": "https://www.bing.com/th?id=OHR.TulumLilies_DE-DE2753544781_1920x1080.jpg",
@@ -70,16 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PrzewalskisHorse_DE-DE2303566149",
         "copyright": "Przewalski-Pferde (© Nemyrivskyi Viacheslav/Getty Images)",
         "copyrightKeyword": "Przewalski-Pferd",
-        "hsh": "b6c72565ede9170695c7c48a46603ec8",
-        "description": "Wildheit in ihrer reinsten Form zeigt sich im Przewalski-Pferd. Es gilt als die letzte wirklich wilde Pferdeart der Erde. Einst durch die Steppen Zentralasiens ziehend, verschwand es in den 1960er-Jahren aus der Natur, weil Jagd, Lebensraumverlust und Konkurrenz durch Viehhaltung seinen Bestand drastisch dezimierten. Sein Überleben verdankt die Art einer kleinen Gruppe, die im frühen 20. Jahrhundert eingefangen wurde und zur Grundlage aller heutigen Tiere wurde."
-    },
-    {
-        "fullstartdate": "202602162300",
-        "date": "20260217",
-        "url": "https://www.bing.com/th?id=OHR.NewYearLantern_DE-DE3336246364_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.NewYearLantern_DE-DE3336246364",
-        "copyright": "Rote Laternen zum chinesischen Neujahr (© Gins Wang/Getty Images)",
-        "copyrightKeyword": "Chinesisches Neujahrsfest",
-        "hsh": "63c893455d59bf7f43cb69dbb315711c"
+        "hsh": "b6c72565ede9170695c7c48a46603ec8"
     }
 ]

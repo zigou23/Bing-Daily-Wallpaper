@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202602242300",
+        "date": "20260225",
+        "url": "https://www.bing.com/th?id=OHR.MendenhallCave_ES-ES4408750630_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MendenhallCave_ES-ES4408750630",
+        "copyright": "Cueva de hielo en el glaciar Mendenhall, Alaska, EE. UU. (© Designpics/Adobe Stock)",
+        "copyrightKeyword": "Glaciar Mendenhall",
+        "hsh": "d8bd2404b8fb33a2ace9fee4620b5887",
+        "description": "La cueva de hielo del glaciar Mendenhall, en Alaska, es una cavidad efímera excavada por el agua de deshielo bajo el propio glaciar. Sus paredes de un azul intenso cambian de forma cada año debido al movimiento del hielo y al aumento de las temperaturas. Caminar por su interior es recorrer un paisaje vivo que puede desaparecer de una temporada a otra.",
+        "maplink": "59.373014,-134.506836"
+    },
+    {
         "fullstartdate": "202602232300",
         "date": "20260224",
         "url": "https://www.bing.com/th?id=OHR.TulumLilies_ES-ES4152870735_1920x1080.jpg",
@@ -70,16 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PrzewalskisHorse_ES-ES3293960401",
         "copyright": "Caballos de Przewalski (© Nemyrivskyi Viacheslav/Getty Images)",
         "copyrightKeyword": "Caballo de Przewalski",
-        "hsh": "3f17b5ef5db5f6bad1dcda00d1e71568",
-        "description": "El caballo de Przewalski es el último caballo verdaderamente salvaje que se conoce. Originario de las estepas de Mongolia, conserva rasgos primitivos como la crin erizada y la capa parda con franja dorsal marcada. Su historia es un símbolo de resiliencia porque estuvo extinto en la naturaleza durante décadas y logró regresar gracias a programas de cría y reintroducción. La especie muestra gran rusticidad, resiste inviernos rigurosos y conserva una genética diferenciada respecto a las razas domésticas, lo que la convierte en un referente de conservación global. Tal y como se observa en la imagen de hoy, su porte compacto y su mirada alerta revelan una especie adaptada a climas extremos y a la vida en manadas donde la cohesión y la vigilancia constante son esenciales."
-    },
-    {
-        "fullstartdate": "202602162300",
-        "date": "20260217",
-        "url": "https://www.bing.com/th?id=OHR.NewYearLantern_ES-ES3189574771_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.NewYearLantern_ES-ES3189574771",
-        "copyright": "Faroles rojos para celebrar el Año Nuevo chino (© Gins Wang/Getty Images)",
-        "copyrightKeyword": "Año Nuevo chino",
-        "hsh": "fd7aadd28747684d148b7cda0fbd6022"
+        "hsh": "3f17b5ef5db5f6bad1dcda00d1e71568"
     }
 ]
