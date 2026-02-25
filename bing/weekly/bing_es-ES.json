@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202602252300",
+        "date": "20260226",
+        "url": "https://www.bing.com/th?id=OHR.GrandSunset_ES-ES4658848615_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GrandSunset_ES-ES4658848615",
+        "copyright": "Gran Cañón y río Colorado, Arizona, EE. UU. (© Matt Anderson Photography/Getty Images)",
+        "copyrightKeyword": "Gran Cañón",
+        "hsh": "4589383e3943c9fb6469581a2c50f8aa",
+        "description": "El Gran Cañón se extiende como una escultura majestuosa en el norte de Arizona, Estados Unidos, resultado de millones de años de erosión paciente. Sus paredes revelan capas de roca que narran la historia geológica del continente, con colores cambiantes según la luz y la hora del día. La magnitud del paisaje desafía la escala humana y transmite una sensación de profundidad y silencio difíciles de olvidar, donde el viento y la piedra parecen dialogar sin prisa.",
+        "maplink": "36.05159,-112.106194"
+    },
+    {
         "fullstartdate": "202602242300",
         "date": "20260225",
         "url": "https://www.bing.com/th?id=OHR.MendenhallCave_ES-ES4408750630_1920x1080.jpg",
@@ -71,16 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.GranadaAlhambra_ES-ES3338584785",
         "copyright": "La Alhambra durante el invierno en Granada (© David Skinner/Getty Images)",
         "copyrightKeyword": "Alhambra, conjunto palaciego en Granada",
-        "hsh": "97273859b20728d825e39fec1ee37db1",
-        "description": "La Alhambra durante el invierno en Granada conserva su carácter y convoca una lectura pausada de su historia. Es un momento propicio para recordar por qué este conjunto palaciego y fortaleza se convirtió en emblema cultural y en uno de los monumentos más visitados de España."
-    },
-    {
-        "fullstartdate": "202602172300",
-        "date": "20260218",
-        "url": "https://www.bing.com/th?id=OHR.PrzewalskisHorse_ES-ES3293960401_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PrzewalskisHorse_ES-ES3293960401",
-        "copyright": "Caballos de Przewalski (© Nemyrivskyi Viacheslav/Getty Images)",
-        "copyrightKeyword": "Caballo de Przewalski",
-        "hsh": "3f17b5ef5db5f6bad1dcda00d1e71568"
+        "hsh": "97273859b20728d825e39fec1ee37db1"
     }
 ]

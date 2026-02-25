@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202602252300",
+        "date": "20260226",
+        "url": "https://www.bing.com/th?id=OHR.BrockenSunrise_DE-DE4032299807_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BrockenSunrise_DE-DE4032299807",
+        "copyright": "Sonnenaufgang auf dem Brocken, Nationalpark Harz, Sachsen‑Anhalt (© imageBROKER/AVTG/Getty Images)",
+        "copyrightKeyword": "Brocken Berg Harz",
+        "hsh": "3777ca071d8c8ad1a2fd52c8cce13a27",
+        "description": "In weiches Morgenlicht getaucht zeigt sich der Brocken von seiner ruhigen Seite. Von den Granitklippen der Teufelskanzel reicht der Blick weit über bewaldete Höhen, während in den Tälern noch letzte Nebelfelder liegen. Mit 1.141 Metern ist er der höchste Berg des Harzes und eine der markantesten Landmarken Norddeutschlands. Der Nationalpark rund um den Brocken ist geprägt von dichten Wäldern, offenen Hochlagen und häufig wechselhaftem Wetter. Durch die exponierte Lage entstehen hier besonders am frühen Morgen eindrucksvolle Lichtstimmungen.",
+        "maplink": "51.799422,10.615694"
+    },
+    {
         "fullstartdate": "202602242300",
         "date": "20260225",
         "url": "https://www.bing.com/th?id=OHR.MendenhallCave_DE-DE4105330129_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DragonsEyeRock_DE-DE6085575680",
         "copyright": "Die Felsformation Dragon’s Eye am Strand von Uttakleiv, Norwegen (© reisegraf/Getty Images)",
         "copyrightKeyword": "Uttakleiv Strand Norwegen",
-        "hsh": "a713d08adb4b14f32eb14a3f75a110bf",
-        "description": "Was blickt uns hier an? Ein Auge? Ein Drache? Oder ein stiller Zeuge der Erdgeschichte? Nicht ohne Grund trägt diese Felsformation am Strand von Uttakleiv auf den Lofoten in Norwegen den Namen „Dragon’s Eye“. Sie sieht aus wie das Auge eines Drachen, das aus der Tiefe der Zeit zurückschaut. Doch hinter diesem geheimnisvollen Eindruck steckt Geologie.",
-        "maplink": "68.209267,13.506241"
-    },
-    {
-        "fullstartdate": "202602172300",
-        "date": "20260218",
-        "url": "https://www.bing.com/th?id=OHR.PrzewalskisHorse_DE-DE2303566149_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PrzewalskisHorse_DE-DE2303566149",
-        "copyright": "Przewalski-Pferde (© Nemyrivskyi Viacheslav/Getty Images)",
-        "copyrightKeyword": "Przewalski-Pferd",
-        "hsh": "b6c72565ede9170695c7c48a46603ec8"
+        "hsh": "a713d08adb4b14f32eb14a3f75a110bf"
     }
 ]
