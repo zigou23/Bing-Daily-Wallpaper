@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202602270300",
+        "date": "20260227",
+        "url": "https://www.bing.com/th?id=OHR.ArcitcCub_PT-BR4178932499_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ArcitcCub_PT-BR4178932499",
+        "copyright": "Filhote de urso-polar sobre o gelo, Refúgio Nacional de Vida Selvagem do Ártico, Alasca, Estados Unidos (© Steven Kazlowski/naturepl.com)",
+        "copyrightKeyword": "dia do urso polar",
+        "hsh": "565ef5c25cf32eb6072586a646335973",
+        "description": "Sabe por que o Dia Internacional do Urso-Polar é celebrado hoje? A imagem deste filhote no Alasca tem a resposta. É nesta época do ano que as fêmeas cavam na neve tocas de até 4 metros para dar à luz filhotes pequenos e frágeis, que nascem com cerca de 500 gramas e são totalmente dependentes. Esses berçários subterrâneos funcionam como refúgios térmicos naturais e protegem mãe e filhotes do frio extremo, que pode chegar a -50 °C. Em poucos meses, os pequenos ganham força e triplicam de peso antes de encarar o Ártico na primavera."
+    },
+    {
         "fullstartdate": "202602260300",
         "date": "20260226",
         "url": "https://www.bing.com/th?id=OHR.GrandSunset_PT-BR8623216224_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AdamsFirefall_PT-BR4725440029",
         "copyright": "Horsetail Fall no Parque Nacional de Yosemite, Califórnia, EUA (© Jorge Villalba/Getty Images)",
         "copyrightKeyword": "cascata de fogo em Yosemite",
-        "hsh": "34920830c079dc164d92ad38b8117383",
-        "description": "Fotógrafos não apenas registram paisagens; eles transformam como as vemos. Nos Estados Unidos, cem anos atrás, Ansel Adams eternizou o Parque Nacional de Yosemite, na Califórnia, em preto e branco. Um de seus temas foi El Capitan, monólito de granito que desafia escaladores com seus mais de 900 metros verticais. Décadas depois, Galen Rowell capturou a efêmera Cascata de Fogo, na borda leste de El Capitan. Visto na imagem do dia, o fenômeno luminoso acontece quando, por alguns dias em fevereiro, o pôr do sol sobre a Horsetail Fall parece transformar a água em lava."
-    },
-    {
-        "fullstartdate": "202602190300",
-        "date": "20260219",
-        "url": "https://www.bing.com/th?id=OHR.DragonsEyeRock_PT-BR9453939614_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DragonsEyeRock_PT-BR9453939614",
-        "copyright": "Formação rochosa Olho do Dragão na praia de Uttakleiv, Noruega (© reisegraf/Getty Images)",
-        "copyrightKeyword": "Olho Do Dragão na Noruega",
-        "hsh": "52ef1cd2716e3d44e6dcda44027f5387"
+        "hsh": "34920830c079dc164d92ad38b8117383"
     }
 ]
