@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202602282300",
+        "date": "20260301",
+        "url": "https://www.bing.com/th?id=OHR.BalearesDay_ES-ES6059429912_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BalearesDay_ES-ES6059429912",
+        "copyright": "Ibiza, Islas Baleares (© tokar/Shutterstock)",
+        "copyrightKeyword": "Día de las Islas Baleares",
+        "hsh": "d5e3e303af41a6f7dc25ab290033ca2c",
+        "description": "Cada 1 de marzo se celebra el Día de las Islas Baleares, una jornada que recuerda la entrada en vigor del Estatuto de Autonomía en 1983 y reivindica la identidad compartida de Mallorca, Menorca, Ibiza y Formentera. Es un día festivo en todo el archipiélago, marcado por actos institucionales, actividades culturales y la puesta en valor de tradiciones locales. La imagen aérea de Ibiza refleja esa diversidad insular, con un paisaje donde el mar define el ritmo de la vida y conecta historia, naturaleza y cultura mediterránea.",
+        "maplink": "38.90884,1.432392"
+    },
+    {
         "fullstartdate": "202602272300",
         "date": "20260228",
         "url": "https://www.bing.com/th?id=OHR.andaluciasevilla_ES-ES3883487322_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MamTorSunrise_ES-ES3653407360",
         "copyright": "Colina de Mam Tor, Derbyshire, Inglaterra (© john finney photography/Getty Images)",
         "copyrightKeyword": "Colina de Mam Tor",
-        "hsh": "f2bc63c30aff7bef0de636fff7a02168",
-        "description": "Apodada \"la montaña temblorosa\" por los continuos deslizamientos de sus laderas, la colina de Mam Tor domina el paisaje con su silueta de 517 metros de altura. La combinación de rocas calizas y margas explica su inestabilidad y la textura escalonada de las pendientes. La cumbre es un balcón abierto al cielo y al viento con senderos definidos y un itinerario de arista muy apreciado por caminantes y amantes de la fotografía. En días claros se distingue un mosaico de praderas, muros de piedra y aldeas.",
-        "maplink": "53.387242,-1.819306"
-    },
-    {
-        "fullstartdate": "202602202300",
-        "date": "20260221",
-        "url": "https://www.bing.com/th?id=OHR.TetonFox_ES-ES3808150258_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.TetonFox_ES-ES3808150258",
-        "copyright": "Zorro rojo bajo la nieve, parque nacional de Grand Teton, Wyoming, EE. UU. (© Radomir Jakubowski/naturepl.com)",
-        "copyrightKeyword": "Zorro rojo",
-        "hsh": "da3f23eb22695ebd9374a072572414f5"
+        "hsh": "f2bc63c30aff7bef0de636fff7a02168"
     }
 ]
