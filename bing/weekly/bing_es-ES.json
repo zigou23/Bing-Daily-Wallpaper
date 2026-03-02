@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202603022300",
+        "date": "20260303",
+        "url": "https://www.bing.com/th?id=OHR.BabyElephant_ES-ES6456256988_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BabyElephant_ES-ES6456256988",
+        "copyright": "Cría de elefante africano jugando con su madre, Reserva Nacional Masái Mara, Kenia (© Denis-Huot/naturepl.com)",
+        "copyrightKeyword": "Día Mundial de la Vida Silvestre 2026",
+        "hsh": "f4f52e99bdbdd27a300e67a05d4051ce",
+        "description": "Hoy, como cada 3 de marzo, celebramos el Día Mundial de la Vida Silvestre, proclamado por la ONU en 2013 en homenaje al aniversario de la firma de CITES en 1973. La biodiversidad sostiene nuestra alimentación, el agua que bebemos, la salud y las economías locales. Se estima que cerca de un millón de especies enfrentan riesgo de extinción por actividades humanas y la pérdida de hábitats. Proteger la naturaleza es esencial para la estabilidad del clima y el bienestar de las comunidades.",
+        "maplink": "-1.529493,35.170876"
+    },
+    {
         "fullstartdate": "202603012300",
         "date": "20260302",
         "url": "https://www.bing.com/th?id=OHR.OloupenaFalls_ES-ES6219064265_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.TulumLilies_ES-ES4152870735",
         "copyright": "Nenúfares en el Gran Cenote, Tulum, México (© Christian Vizl/Tandem Stills + Motion)",
         "copyrightKeyword": "Gran Cenote",
-        "hsh": "fa1a67b73387a0e9f140515750ce4ba4",
-        "description": "En el Gran Cenote de Tulum, los nenúfares flotan sobre aguas dulces de origen kárstico iluminadas por haces de luz natural. Sus hojas redondas crean sombras en la superficie y ayudan a regular la temperatura, mientras ofrecen refugio a peces, insectos y pequeños crustáceos. Estas plantas contribuyen al equilibrio del cenote al filtrar nutrientes y limitar la proliferación de algas. Algunas especies locales abren sus flores con el sol y se cierran al caer la tarde, un ritmo diario ligado a la polinización y a la estabilidad del ecosistema.",
-        "maplink": "20.246545,-87.464165"
-    },
-    {
-        "fullstartdate": "202602222300",
-        "date": "20260223",
-        "url": "https://www.bing.com/th?id=OHR.BavariaEgret_ES-ES3880948724_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BavariaEgret_ES-ES3880948724",
-        "copyright": "Garza blanca, Alta Baviera, Alemania (© Konrad Wothe/naturepl.com)",
-        "copyrightKeyword": "Garza blanca",
-        "hsh": "039beaff303a4e32d33debce94f90cb4"
+        "hsh": "fa1a67b73387a0e9f140515750ce4ba4"
     }
 ]

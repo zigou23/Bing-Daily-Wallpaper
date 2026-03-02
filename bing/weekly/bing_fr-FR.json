@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202603022300",
+        "date": "20260303",
+        "url": "https://www.bing.com/th?id=OHR.BabyElephant_FR-FR5508838935_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BabyElephant_FR-FR5508838935",
+        "copyright": "Bébé éléphant jouant avec sa mère, Réserve nationale du Masai Mara, Kenya (© Denis-Huot/naturepl.com)",
+        "copyrightKeyword": "Journée mondiale de la vie sauvage 2026",
+        "hsh": "d21b0baede7b2655e112ecf3f76fa9c6",
+        "description": "Aujourd’hui, la Journée mondiale de la vie sauvage nous rappelle à quel point notre bien-être repose sur la nature qui nous entoure. Le thème de cette année met en lumière les plantes médicinales et aromatiques, ces espèces qui soignent, apaisent, parfument et nourrissent depuis des siècles. Des dizaines de milliers d’entre elles sont récoltées à travers le monde, mais beaucoup subissent la pression des pertes d’habitats et des prélèvements excessifs, ce qui rend leur protection indispensable.",
+        "maplink": "-1.529493,35.170876"
+    },
+    {
         "fullstartdate": "202603012300",
         "date": "20260302",
         "url": "https://www.bing.com/th?id=OHR.SamuiThailand_FR-FR4647225820_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.TulumLilies_FR-FR7339039793",
         "copyright": "Des nénuphars au Gran Cenote, Tulum, Mexique (© Christian Vizl/Tandem Stills + Motion)",
         "copyrightKeyword": "Gran Cenote Mexique Tulum",
-        "hsh": "5aa0b289cd292663ee4c2dcf0dd76a12",
-        "description": "Le Grand Cenote de Tulum dévoile un monde suspendu entre terre et eau. Ce puits naturel né de l’effondrement du calcaire il y a des millénaires s’est peu à peu rempli d’une eau si limpide qu’on la croirait faite d’air. À la surface, les nénuphars s’étalent comme de petites îles immobiles. Héritiers d’une lignée végétale très ancienne, ils filtrent la lumière et offrent refuge aux minuscules créatures qui s’activent sous la surface. Leurs fleurs, discrètes mais ingénieuses, orchestrent leurs parfums et leurs couleurs pour attirer pollinisateurs et brises légères.",
-        "maplink": "20.246545,-87.464165"
-    },
-    {
-        "fullstartdate": "202602222300",
-        "date": "20260223",
-        "url": "https://www.bing.com/th?id=OHR.BavariaEgret_FR-FR5715271621_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BavariaEgret_FR-FR5715271621",
-        "copyright": "La grande aigrette, Haute-Bavière, Allemagne (© Konrad Wothe/naturepl.com)",
-        "copyrightKeyword": "grande aigrette",
-        "hsh": "a86f8e55c2d0805d919354d0a6f327e5"
+        "hsh": "5aa0b289cd292663ee4c2dcf0dd76a12"
     }
 ]
