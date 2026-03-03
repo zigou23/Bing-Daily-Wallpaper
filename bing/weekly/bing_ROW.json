@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202603030800",
+        "date": "20260303",
+        "url": "https://www.bing.com/th?id=OHR.BabyElephant_EN-US3103670102_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BabyElephant_EN-US3103670102",
+        "copyright": "African elephant calf playing with its mother, Masai Mara National Reserve, Kenya (© Denis-Huot/naturepl.com)",
+        "copyrightKeyword": "World Wildlife Day 2026",
+        "hsh": "55e652e73a432a15ca7355b594334a28",
+        "description": "Today is World Wildlife Day, a United Nations observance that invites us to reflect on our well-being's deep connection to the natural world. This year's theme focuses on medicinal and aromatic plants (MAPs)—species used in traditional healing, modern medicine, cosmetics, and food. The UN estimates that between 50,000 and 70,000 MAP species are harvested globally, with 70-95% of people in many developing countries relying on them for primary health care. However, many of these plants face mounting threats from habitat loss, overharvesting, and illegal trade, making sustainable use essential for their future.",
+        "maplink": "-1.529493,35.170876"
+    },
+    {
         "fullstartdate": "202603020800",
         "date": "20260302",
         "url": "https://www.bing.com/th?id=OHR.SamuiThailand_EN-US3008233136_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.TulumLilies_EN-US2766347819",
         "copyright": "Water lilies at Grand Cenote, Tulum, Mexico (© Christian Vizl/Tandem Stills + Motion)",
         "copyrightKeyword": "grand cenote tulum",
-        "hsh": "2e692d376ec1680a516f902277d81c58",
-        "description": "Floating lilies, glass-clear pools, and a hidden world below: welcome to the Grand Cenote in Tulum, Mexico. This natural sinkhole formed thousands of years ago when collapsing rock let aquifer waters in. Over time, the chamber filled with clear freshwater that now connects a vast underground system of caves. At first, our eyes rest on the still surface. The water lilies we see in the image float without hurry, their broad leaves catching sunlight while supporting rich ecosystems underneath. These botanical wonders belong to one of the oldest flowering lineages on Earth, dating back more than 125 million years—older than most dinosaurs. Each bloom has evolved clever tricks to attract pollinators—beetles, bees, flies, and even the wind—using scent, shape, and timing to ensure survival in still water.",
-        "maplink": "20.246545,-87.464165"
-    },
-    {
-        "fullstartdate": "202602230800",
-        "date": "20260223",
-        "url": "https://www.bing.com/th?id=OHR.BavariaEgret_EN-US2697995103_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BavariaEgret_EN-US2697995103",
-        "copyright": "Great white egret, Upper Bavaria, Germany (© Konrad Wothe/naturepl.com)",
-        "copyrightKeyword": "Great white egret",
-        "hsh": "5e9f1cba8d689338d6d8a0548e49129c"
+        "hsh": "2e692d376ec1680a516f902277d81c58"
     }
 ]

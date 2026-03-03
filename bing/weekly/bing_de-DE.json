@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202603032300",
+        "date": "20260304",
+        "url": "https://www.bing.com/th?id=OHR.RilaCrocuses_DE-DE6081650633_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.RilaCrocuses_DE-DE6081650633",
+        "copyright": "Violette Krokusse an den Sieben Rila‑Seen, Bulgarien (© Maya Karkalicheva/Getty Images)",
+        "copyrightKeyword": "Sieben Rila-Seen Bulgarien",
+        "hsh": "55bc26997027929e6d1b4ac7ab286860",
+        "description": "Sobald in den Rila-Bergen im Südwesten Bulgariens der Schnee zu schmelzen beginnt, zeigt sich ein besonderer Frühlingsbote: violette Krokusse, die in kleinen Gruppen aus der Erde sprießen. Rund um die Sieben Rila-Seen bilden sie in den Frühlingsmonaten ein farbenfrohes Muster und durchbrechen die winterliche Stille. Die Region liegt im Nationalpark Rila, dem größten des Landes. Der Park schützt über 120 dauerhafte und rund 30 saisonale Gletscherseen, deren klares Wasser Moore, Hochweiden und seltene alpine Pflanzen speist, ein empfindliches Ökosystem, das im Frühjahr langsam wieder zum Leben erwacht.",
+        "maplink": "42.204161,23.312577"
+    },
+    {
         "fullstartdate": "202603022300",
         "date": "20260303",
         "url": "https://www.bing.com/th?id=OHR.BabyElephant_DE-DE5859439374_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MendenhallCave_DE-DE4105330129",
         "copyright": "Eishöhle im Mendenhall‑Gletscher, Alaska, USA (© Designpics/Adobe Stock)",
         "copyrightKeyword": "Mendenhall‑Gletscher",
-        "hsh": "6262d5a1a6f8ab48495a8fd4074bd99d",
-        "description": "Blaues Licht durchdringt das Eis und lässt eine vergängliche Welt entstehen. Im Inneren des Mendenhall-Gletschers in Alaska, USA, öffnen sich Eishöhlen, die fast unwirklich wirken. Nur wenige Kilometer von Juneau entfernt liegt dieser mächtige Gletscher, dessen stille Räume aus über Jahrhunderte verdichtetem Eis geformt wurden. Er reicht rund 21 Kilometer vom Juneau-Eisfeld ins Tal hinab und verändert dabei stetig seine Gestalt. Seine intensive Färbung entsteht durch die hohe Dichte des Eises, welche vor allem leuchtende Blautöne sichtbar macht.",
-        "maplink": "59.373014,-134.506836"
-    },
-    {
-        "fullstartdate": "202602232300",
-        "date": "20260224",
-        "url": "https://www.bing.com/th?id=OHR.TulumLilies_DE-DE2753544781_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.TulumLilies_DE-DE2753544781",
-        "copyright": "Seerosen im Gran Cenote, Tulum, Mexiko (© Christian Vizl/Tandem Stills + Motion)",
-        "copyrightKeyword": "Gran Cenote Tulum Mexiko",
-        "hsh": "7b39aedc616460451e3dafe5c1d95336"
+        "hsh": "6262d5a1a6f8ab48495a8fd4074bd99d"
     }
 ]
