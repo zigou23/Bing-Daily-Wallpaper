@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202603041500",
+        "date": "20260305",
+        "url": "https://www.bing.com/th?id=OHR.GoremeTwilight_JA-JP8961447363_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GoremeTwilight_JA-JP8961447363",
+        "copyright": "ギョレメ国立公園, トルコ (© ONNAJA/Getty Images)",
+        "copyrightKeyword": "ギョレメ国立公園",
+        "hsh": "811b41b1777d7a50aaaab10d76d53819",
+        "description": "ここは、トルコ・カッパドキア地方の中心に位置するギョレメ国立公園。火山活動によって生まれた地形を風や水が何千年もかけて削った「妖精の煙突」と呼ばれる奇岩群で知られています。また、岩を掘って造られた住居や教会が点在します。そして教会内部には 11 世紀頃に完成したフレスコ画が多数残されており、「ギョレメ国立公園とカッパドキアの岩窟群」として世界遺産に登録されています。地質と文化、現代の暮らしが交差するカッパドキア観光の玄関口です。",
+        "maplink": "38.64296,34.828777"
+    },
+    {
         "fullstartdate": "202603031500",
         "date": "20260304",
         "url": "https://www.bing.com/th?id=OHR.RilaCrocuses_JA-JP8929761168_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.GrandSunset_JA-JP8711394757",
         "copyright": "グランドキャニオン国立公園, 米国 アリゾナ州 (© Matt Anderson Photography/Getty Images)",
         "copyrightKeyword": "グランドキャニオン国立公園",
-        "hsh": "85effffa7d1a6400c2d84ced7443e7cb",
-        "description": "米国アリゾナ州に位置するグランドキャニオン国立公園は、1919 年の今日、2 月 26 日に国立公園に指定されました。この公園は、コロラド川が数百万年にわたって削り出した壮大な峡谷で形成されており、299 種以上の野鳥や 74 種の哺乳動物など、多種多様な動物が多く生息しています。また、世界で最も多くの化石が発見された場所でもあり、1979 年には世界遺産に登録されました。",
-        "maplink": "36.05159,-112.106194"
-    },
-    {
-        "fullstartdate": "202602241500",
-        "date": "20260225",
-        "url": "https://www.bing.com/th?id=OHR.MendenhallCave_JA-JP8678792509_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MendenhallCave_JA-JP8678792509",
-        "copyright": "メンデンホール氷河の氷の洞窟, 米国 アラスカ州 (© Designpics/Adobe Stock)",
-        "copyrightKeyword": "メンデンホール氷河の氷の洞窟",
-        "hsh": "167b038a7a6627bae175686583b76402"
+        "hsh": "85effffa7d1a6400c2d84ced7443e7cb"
     }
 ]

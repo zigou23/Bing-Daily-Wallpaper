@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202603042300",
+        "date": "20260305",
+        "url": "https://www.bing.com/th?id=OHR.GoremeTwilight_DE-DE6248447800_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GoremeTwilight_DE-DE6248447800",
+        "copyright": "Abendstimmung über Göreme, Kappadokien, Türkei (© ONNAJA/Getty Images)",
+        "copyrightKeyword": "Göreme Türkei",
+        "hsh": "a5dba02e8ad0eff67b6177dd1caeb548",
+        "description": "Wenn der Abend über Göreme in der türkischen Region Kappadokien hereinbricht, verwandelt sich die Landschaft in ein faszinierendes Lichterspiel. Über Jahrtausende haben Wind und Temperaturschwankungen aus weichem Tuffstein die berühmten Feenkamine geformt. Dieses UNESCO‑Welterbe beeindruckt nicht nur durch seine außergewöhnliche Geologie, sondern auch durch eine tief reichende Geschichte. Unter der Oberfläche erstreckt sich ein weit verzweigtes Netz unterirdischer Städte und mehr als 600 Höhlenkirchen, von denen einige noch gut erhaltene Fresken zeigen.",
+        "maplink": "38.64296,34.828777"
+    },
+    {
         "fullstartdate": "202603032300",
         "date": "20260304",
         "url": "https://www.bing.com/th?id=OHR.RilaCrocuses_DE-DE6081650633_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BrockenSunrise_DE-DE4032299807",
         "copyright": "Sonnenaufgang auf dem Brocken, Nationalpark Harz, Sachsen‑Anhalt (© imageBROKER/AVTG/Getty Images)",
         "copyrightKeyword": "Brocken Berg Harz",
-        "hsh": "3777ca071d8c8ad1a2fd52c8cce13a27",
-        "description": "In weiches Morgenlicht getaucht zeigt sich der Brocken von seiner ruhigen Seite. Von den Granitklippen der Teufelskanzel reicht der Blick weit über bewaldete Höhen, während in den Tälern noch letzte Nebelfelder liegen. Mit 1.141 Metern ist er der höchste Berg des Harzes und eine der markantesten Landmarken Norddeutschlands. Der Nationalpark rund um den Brocken ist geprägt von dichten Wäldern, offenen Hochlagen und häufig wechselhaftem Wetter. Durch die exponierte Lage entstehen hier besonders am frühen Morgen eindrucksvolle Lichtstimmungen.",
-        "maplink": "51.799422,10.615694"
-    },
-    {
-        "fullstartdate": "202602242300",
-        "date": "20260225",
-        "url": "https://www.bing.com/th?id=OHR.MendenhallCave_DE-DE4105330129_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MendenhallCave_DE-DE4105330129",
-        "copyright": "Eishöhle im Mendenhall‑Gletscher, Alaska, USA (© Designpics/Adobe Stock)",
-        "copyrightKeyword": "Mendenhall‑Gletscher",
-        "hsh": "6262d5a1a6f8ab48495a8fd4074bd99d"
+        "hsh": "3777ca071d8c8ad1a2fd52c8cce13a27"
     }
 ]
