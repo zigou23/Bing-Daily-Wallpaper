@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202603051830",
+        "date": "20260306",
+        "url": "https://www.bing.com/th?id=OHR.WaveDenmark_EN-IN9929501446_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WaveDenmark_EN-IN9929501446",
+        "copyright": "The Wave residential building, Vejle, Denmark (© Frank Bach/Alamy)",
+        "copyrightKeyword": "The Wave building Vejle Denmark",
+        "hsh": "a8bbaefdb3cf27ef71bf1db933910d47",
+        "description": "Architecture blends art and technology, expressed through the built form. While many designs focus primarily on function, some buildings give equal weight to visual impact. A strong example is The Wave building complex in Vejle, Denmark, where sculptural design and practical housing come together seamlessly.",
+        "maplink": "55.709099,9.5561"
+    },
+    {
         "fullstartdate": "202603041830",
         "date": "20260305",
         "url": "https://www.bing.com/th?id=OHR.GoremeTwilight_EN-IN4959585189_1920x1080.jpg",
@@ -60,7 +71,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.OloupenaFalls_EN-IN2487636294",
         "copyright": "Olo'upena Falls, island of Moloka'i, Hawaii, United States (© Andrew Aylett/Getty Images)",
         "copyrightKeyword": "Molokai",
-        "hsh": "ea9e9283d42777772331e8dd656592e7",
+        "hsh": "a9f158421523f5ef66857703c2836eb0",
         "description": "Moloka'i, often called the most Hawaiian of the islands, offers a slower rhythm shaped by nature and strong community ties. Formed by volcanic activity more than a million years ago, the island covers about 673 square kilometres and rises from the Pacific Ocean in long ridges and broad valleys. Unlike its busier neighbours, Moloka'i has resisted large-scale development, preserving a strong sense of local cohesion where families, traditions and stewardship of the land encapsulate central values. Life here focuses on the ocean, the land and stories passed down through generations.",
         "maplink": "21.16472,-156.8595"
     },
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ArcitcCub_EN-IN8577759989",
         "copyright": "Polar bear cub walking across pack ice, Arctic National Wildlife Refuge, Alaska, United States (© Steven Kazlowski/naturepl.com)",
         "copyrightKeyword": "International Polar Bear Day",
-        "hsh": "1fc60bfcb76d5d71deff0b8db013363d",
-        "description": "International Polar Bear Day underscores how closely these Arctic giants are tied to their frozen realms. Celebrated on February 27, the day shines a light on polar bears and the rapidly changing world beneath their paws. The world's largest land carnivores roam across vast icy landscapes, sometimes covering hundreds of kilometres in search of food. They're perfectly adapted to life on sea ice, with large paws that can span more than 30 centimetres and help them swim for kilometres.",
-        "maplink": "68.75,-143.5"
-    },
-    {
-        "fullstartdate": "202602251830",
-        "date": "20260226",
-        "url": "https://www.bing.com/th?id=OHR.GrandSunset_EN-IN1771406239_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.GrandSunset_EN-IN1771406239",
-        "copyright": "Grand Canyon and the Colorado River, Arizona, United States (© Matt Anderson Photography/Getty Images)",
-        "copyrightKeyword": "Grand Canyon National Park USA",
-        "hsh": "b992f2c8cc754422708584bbeedd73b3"
+        "hsh": "95c7995138e531ab4fe5c9802b45b2c7"
     }
 ]
