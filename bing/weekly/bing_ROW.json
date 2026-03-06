@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202603060800",
+        "date": "20260306",
+        "url": "https://www.bing.com/th?id=OHR.WaveDenmark_EN-US6550970747_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WaveDenmark_EN-US6550970747",
+        "copyright": "The Wave residential building, Vejle, Denmark (© Frank Bach/Alamy)",
+        "copyrightKeyword": "The Wave building Vejle Denmark",
+        "hsh": "f9376d02d736f6e2f39bce12818934ba",
+        "description": "Architecture blends art and technology, expressed through the built form. While many designs focus primarily on function, some buildings give equal weight to visual impact. A strong example is The Wave building complex in Vejle, Denmark, where sculptural design and practical housing come together seamlessly.",
+        "maplink": "55.709099,9.5561"
+    },
+    {
         "fullstartdate": "202603050800",
         "date": "20260305",
         "url": "https://www.bing.com/th?id=OHR.GoremeTwilight_EN-US3224835148_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ArcitcCub_EN-US2529097123",
         "copyright": "Polar bear cub walking across pack ice, Arctic National Wildlife Refuge, Alaska (© Steven Kazlowski/naturepl.com)",
         "copyrightKeyword": "International Polar Bear Day",
-        "hsh": "c2246847ac9fb140d3cba91c63ea7957",
-        "description": "International Polar Bear Day underscores how closely these Arctic giants are tied to their frozen realms. Celebrated on February 27, the day shines a light on polar bears and the rapidly changing world beneath their paws. The world's largest land carnivores roam across vast icy landscapes, sometimes covering hundreds of miles in search of food. They're perfectly adapted to life on sea ice, with large paws that can span nearly a foot and help them swim for miles.",
-        "maplink": "68.75,-143.5"
-    },
-    {
-        "fullstartdate": "202602260800",
-        "date": "20260226",
-        "url": "https://www.bing.com/th?id=OHR.GrandSunset_EN-US2473517741_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.GrandSunset_EN-US2473517741",
-        "copyright": "Grand Canyon and the Colorado River, Arizona (© Matt Anderson Photography/Getty Images)",
-        "copyrightKeyword": "Grand Canyon National Park USA",
-        "hsh": "96fffadfa32782ec21a11d11e8d1d279"
+        "hsh": "c2246847ac9fb140d3cba91c63ea7957"
     }
 ]

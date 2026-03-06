@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202603060300",
+        "date": "20260306",
+        "url": "https://www.bing.com/th?id=OHR.WaveDenmark_PT-BR4401858909_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WaveDenmark_PT-BR4401858909",
+        "copyright": "Edifício residencial The Wave, Vejle, Dinamarca (© Frank Bach/Alamy)",
+        "copyrightKeyword": "Vejle Dinamarca",
+        "hsh": "9f741ee84aada0a6b870903dc530df34",
+        "description": "Arquitetura é cálculo, sim — mas também sabe ser espetáculo. Na imagem, o conjunto The Wave, em Vejle, na Dinamarca, é a prova viva: cinco torres residenciais ondulam à beira do fiorde como se o concreto tivesse aprendido a nadar. Nada de linhas retas previsíveis. Cada bloco sobe e desce em curvas contínuas, seguindo o desenho das colinas ao redor e o balanço das águas ao lado. Projetado pelo escritório Henning Larsen, o complexo vai além do impacto visual. Passarelas públicas, píer e áreas abertas costuram a orla à cidade, transformando moradia em espaço de convivência."
+    },
+    {
         "fullstartdate": "202603050300",
         "date": "20260305",
         "url": "https://www.bing.com/th?id=OHR.GoremeTwilight_PT-BR7913040689_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ArcitcCub_PT-BR4178932499",
         "copyright": "Filhote de urso-polar sobre o gelo, Refúgio Nacional de Vida Selvagem do Ártico, Alasca, Estados Unidos (© Steven Kazlowski/naturepl.com)",
         "copyrightKeyword": "dia do urso polar",
-        "hsh": "565ef5c25cf32eb6072586a646335973",
-        "description": "Sabe por que o Dia Internacional do Urso-Polar é celebrado hoje? A imagem deste filhote no Alasca tem a resposta. É nesta época do ano que as fêmeas cavam na neve tocas de até 4 metros para dar à luz filhotes pequenos e frágeis, que nascem com cerca de 500 gramas e são totalmente dependentes. Esses berçários subterrâneos funcionam como refúgios térmicos naturais e protegem mãe e filhotes do frio extremo, que pode chegar a -50 °C. Em poucos meses, os pequenos ganham força e triplicam de peso antes de encarar o Ártico na primavera."
-    },
-    {
-        "fullstartdate": "202602260300",
-        "date": "20260226",
-        "url": "https://www.bing.com/th?id=OHR.GrandSunset_PT-BR8623216224_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.GrandSunset_PT-BR8623216224",
-        "copyright": "Grand Canyon e o Rio Colorado, Arizona, Estados Unidos (© Matt Anderson Photography/Getty Images)",
-        "copyrightKeyword": "grand canyon estados unidos",
-        "hsh": "e45e479ca1448ab8732efe52787e48d9"
+        "hsh": "565ef5c25cf32eb6072586a646335973"
     }
 ]

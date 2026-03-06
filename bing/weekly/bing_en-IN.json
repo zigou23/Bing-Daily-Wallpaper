@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202603061830",
+        "date": "20260307",
+        "url": "https://www.bing.com/th?id=OHR.MontereyHumpbacks_EN-IN8212450706_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MontereyHumpbacks_EN-IN8212450706",
+        "copyright": "Humpback whales, Monterey Bay, California, United States (© Kiliii Fish/Cavan Images)",
+        "copyrightKeyword": "Humpback whales",
+        "hsh": "a4a4ca08e2b14059b011cfabf5c99242",
+        "description": "Humpback whales are easily recognisable by their long pectoral fins and are known for their complex songs associated with breeding behaviour. Their predictable migrations bring them close to shore, turning them into both a cultural marker of the season and a focal point for early conservation efforts.",
+        "maplink": "36.8,-121.9"
+    },
+    {
         "fullstartdate": "202603051830",
         "date": "20260306",
         "url": "https://www.bing.com/th?id=OHR.WaveDenmark_EN-IN9929501446_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.OloupenaFalls_EN-IN2487636294",
         "copyright": "Olo'upena Falls, island of Moloka'i, Hawaii, United States (© Andrew Aylett/Getty Images)",
         "copyrightKeyword": "Molokai",
-        "hsh": "a9f158421523f5ef66857703c2836eb0",
-        "description": "Moloka'i, often called the most Hawaiian of the islands, offers a slower rhythm shaped by nature and strong community ties. Formed by volcanic activity more than a million years ago, the island covers about 673 square kilometres and rises from the Pacific Ocean in long ridges and broad valleys. Unlike its busier neighbours, Moloka'i has resisted large-scale development, preserving a strong sense of local cohesion where families, traditions and stewardship of the land encapsulate central values. Life here focuses on the ocean, the land and stories passed down through generations.",
-        "maplink": "21.16472,-156.8595"
-    },
-    {
-        "fullstartdate": "202602261830",
-        "date": "20260227",
-        "url": "https://www.bing.com/th?id=OHR.ArcitcCub_EN-IN8577759989_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ArcitcCub_EN-IN8577759989",
-        "copyright": "Polar bear cub walking across pack ice, Arctic National Wildlife Refuge, Alaska, United States (© Steven Kazlowski/naturepl.com)",
-        "copyrightKeyword": "International Polar Bear Day",
-        "hsh": "95c7995138e531ab4fe5c9802b45b2c7"
+        "hsh": "a9f158421523f5ef66857703c2836eb0"
     }
 ]
