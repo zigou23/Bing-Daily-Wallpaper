@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202603072300",
+        "date": "20260308",
+        "url": "https://www.bing.com/th?id=OHR.StuttgartSchlossplatz_DE-DE6255862063_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.StuttgartSchlossplatz_DE-DE6255862063",
+        "copyright": "Neues Schloss am Schlossplatz in Stuttgart, Baden‑Württemberg (© Jorg Greuel/Getty Images)",
+        "copyrightKeyword": "Baden-Württemberg Landtagswahl 2026",
+        "hsh": "5db286f5df96c5cd524ad8f834b3a819",
+        "description": "Heute richtet sich der Blick auf Baden‑Württemberg, wo die Bürgerinnen und Bürger einen neuen Landtag wählen. Im drittgrößten Bundesland Deutschlands gilt erstmals ein reformiertes Wahlrecht mit zwei Stimmen. Zudem dürfen Jugendliche ab 16 Jahren an der Wahl teilnehmen.",
+        "maplink": "48.777107,9.180769"
+    },
+    {
         "fullstartdate": "202603062300",
         "date": "20260307",
         "url": "https://www.bing.com/th?id=OHR.PacificRimNP_DE-DE6585110286_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BalearesDay_DE-DE6256697714",
         "copyright": "Ibiza, Balearische Inseln, Spanien (© tokar/Shutterstock)",
         "copyrightKeyword": "Ibiza Stadt",
-        "hsh": "ac2a2763ea443c71097cdad418d6eece",
-        "description": "Die Balearischen Inseln gehören seit Jahren zu den bevorzugten Reisezielen vieler Menschen in Deutschland. Der jährliche „Tag der Balearen“ rückt diese zu Spanien gehörende Inselgruppe – Mallorca, Menorca, Ibiza und Formentera – in den Mittelpunkt und erinnert zugleich an das Autonomiestatut, das am 1. März 1983 die Grundlage für ihre heutige Selbstverwaltung legte. Das kulturelle Erbe der Balearen hat sich über Jahrhunderte entlang des Mittelmeers entwickelt. Traditionelle Musik, handwerkliche Techniken und eine ausgeprägte Service‑ und Gastkultur prägen den Alltag.",
-        "maplink": "38.90884,1.432392"
-    },
-    {
-        "fullstartdate": "202602272300",
-        "date": "20260228",
-        "url": "https://www.bing.com/th?id=OHR.OloupenaFalls_DE-DE5017042185_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.OloupenaFalls_DE-DE5017042185",
-        "copyright": "Oloʻupena‑Wasserfälle an der Nordküste der Insel Molokaʻi, Hawaii, USA (© Andrew Aylett/Getty Images)",
-        "copyrightKeyword": "Molokai Hawaii",
-        "hsh": "4ea291d94d6489ed45d00cd127f04468"
+        "hsh": "ac2a2763ea443c71097cdad418d6eece"
     }
 ]

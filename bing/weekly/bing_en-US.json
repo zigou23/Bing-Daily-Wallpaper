@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202603070800",
+        "date": "20260307",
+        "url": "https://www.bing.com/th?id=OHR.BrockenSunrise_EN-US8849518575_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BrockenSunrise_EN-US8849518575",
+        "copyright": "Sunrise on the Brocken, Harz National Park, Germany (© imageBROKER/AVTG/Getty Images)",
+        "copyrightKeyword": "Harz National Park",
+        "hsh": "38c388eef16835f26c30bd693bf5c6bc",
+        "description": "Imagine reaching the Brocken in Harz National Park, Germany, as clouds slide across the ridge. With the sun behind you, mist ahead—then a giant, haloed shadow forms. Ever wondered why climbers once feared this sight? The phenomenon, called the Brocken spectre, is an eerie natural optical effect that occurs when sunlight projects a person's shadow onto cloud or fog. Rising about 1,141 metres, the Brocken is the highest peak in northern Germany and has long inspired folklore, including tales of witches gathering here during Walpurgis Night.",
+        "maplink": "51.799422,10.615694"
+    },
+    {
         "fullstartdate": "202603060800",
         "date": "20260306",
         "url": "https://www.bing.com/th?id=OHR.WaveDenmark_EN-US6550970747_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.OloupenaFalls_EN-US2862358887",
         "copyright": "Olo'upena Falls, island of Moloka'i, Hawaii (© Andrew Aylett/Getty Images)",
         "copyrightKeyword": "Molokai",
-        "hsh": "bd57b1aca81600b14697b36c2b80f1e6",
-        "description": "Moloka'i, often called the most Hawaiian of the islands, offers a slower rhythm shaped by nature and strong community ties. Formed by volcanic activity more than a million years ago, the island covers about 260 square miles and rises from the Pacific Ocean in long ridges and broad valleys. Unlike its busier neighbors, Moloka'i has resisted large-scale development, preserving a strong sense of local cohesion where families, traditions, and stewardship of the land encapsulate central values. Life here focuses on the ocean, the land, and stories passed down through generations.",
-        "maplink": "21.16472,-156.8595"
-    },
-    {
-        "fullstartdate": "202602270800",
-        "date": "20260227",
-        "url": "https://www.bing.com/th?id=OHR.ArcitcCub_EN-US2529097123_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ArcitcCub_EN-US2529097123",
-        "copyright": "Polar bear cub walking across pack ice, Arctic National Wildlife Refuge, Alaska (© Steven Kazlowski/naturepl.com)",
-        "copyrightKeyword": "International Polar Bear Day",
-        "hsh": "c2246847ac9fb140d3cba91c63ea7957"
+        "hsh": "bd57b1aca81600b14697b36c2b80f1e6"
     }
 ]
