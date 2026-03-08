@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202603080700",
+        "date": "20260308",
+        "url": "https://www.bing.com/th?id=OHR.UlmClock_EN-US6692804943_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.UlmClock_EN-US6692804943",
+        "copyright": "Astronomical clock at Town Hall of the City of Ulm, Germany (© Tomekbudujedomek/Getty Images)",
+        "copyrightKeyword": "daylight saving time",
+        "hsh": "7c4cc0872c48f35d642bf62220023fd7",
+        "description": "Every March, Daylight Saving Time begins in most of the United States, shifting clocks forward to maximize daylight. The idea can be traced back to 1784, when Benjamin Franklin humorously suggested earlier rising to conserve candle use. The US adopted Daylight Saving Time much later in 1918 as an energy-saving measure during World War I. After years of uneven observance, the Uniform Time Act of 1966 established a nationwide standard for seasonal clock changes. While most states observe Daylight Saving Time today, Hawaii and Arizona (with the exception of the Navajo Nation) do not, citing minimal daylight variation and climate concerns. Several US territories also remain on standard time year-round.",
+        "maplink": "48.397026,9.993355"
+    },
+    {
         "fullstartdate": "202603070800",
         "date": "20260307",
         "url": "https://www.bing.com/th?id=OHR.BrockenSunrise_EN-US8849518575_1920x1080.jpg",
@@ -72,16 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SuffragettesNY_EN-US2900175138",
         "copyright": "Suffragette celebrations, August 27, 1920, New York City (© Keystone/Hulton Archive/Getty Images)",
         "copyrightKeyword": "Womens History Month",
-        "hsh": "208e8c34a86ba7e5da018d3abf2be32a",
-        "description": "March welcomes the promise of spring and the celebration of Women's History Month, honoring trailblazers who changed history and continue to inspire future generations. It also amplifies emerging voices that lead us toward equality, showing that progress remains possible. Let's celebrate women—bold thinkers, innovators, and leaders—who prove that meaningful change begins with determination."
-    },
-    {
-        "fullstartdate": "202602280800",
-        "date": "20260228",
-        "url": "https://www.bing.com/th?id=OHR.OloupenaFalls_EN-US2862358887_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.OloupenaFalls_EN-US2862358887",
-        "copyright": "Olo'upena Falls, island of Moloka'i, Hawaii (© Andrew Aylett/Getty Images)",
-        "copyrightKeyword": "Molokai",
-        "hsh": "bd57b1aca81600b14697b36c2b80f1e6"
+        "hsh": "208e8c34a86ba7e5da018d3abf2be32a"
     }
 ]
