@@ -1,12 +1,23 @@
 [
     {
+        "fullstartdate": "202603090400",
+        "date": "20260309",
+        "url": "https://www.bing.com/th?id=OHR.NappingSeal_EN-CA7649170923_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.NappingSeal_EN-CA7649170923",
+        "copyright": "Grey seal sleeping on the beach, Orkney Islands, Scotland (© Andrew Mason/Minden Pictures)",
+        "copyrightKeyword": "Napping day",
+        "hsh": "f3920d8eb603b823c49d7086931bed6b",
+        "description": "National Napping Day couldn't be better timed. It falls on the Monday after Daylight Saving Time begins, when clocks move forward and we all lose an hour of sleep. Consider today an official excuse to slow down and make up for it. The sleeping grey seal in this image, spotted along Scotland's coast, is a fitting reminder for the day: rest matters.",
+        "maplink": "59,-3"
+    },
+    {
         "fullstartdate": "202603080500",
         "date": "20260308",
         "url": "https://www.bing.com/th?id=OHR.UlmClock_EN-CA0107157724_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.UlmClock_EN-CA0107157724",
         "copyright": "Astronomical clock at Town Hall of the City of Ulm, Germany (© Tomekbudujedomek/Getty Images)",
         "copyrightKeyword": "Daylight Saving Time",
-        "hsh": "acb7ce51cefd912c16f938fff638e398",
+        "hsh": "eb9a17f541b72400730ed8540e44b72e",
         "description": "Every March, Daylight Saving Time begins across most of Canada, shifting clocks forward by one hour to extend evening daylight. The seasonal change has historically been linked to making better use of natural light and reducing energy use during longer spring and summer days. The idea can be traced back to 1784, when Benjamin Franklin humorously suggested earlier rising to conserve candle use. Most provinces and territories follow the shift, though Saskatchewan and a few communities in British Columbia and Nunavut remain on standard time throughout the year. The time change is known for disrupting sleep patterns, which is why the Monday after the clock change is informally known as Napping Day.",
         "maplink": "48.397026,9.993355"
     },
@@ -17,7 +28,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BrockenSunrise_EN-CA3220764261",
         "copyright": "Sunrise on the Brocken, Harz National Park, Germany (© imageBROKER/AVTG/Getty Images)",
         "copyrightKeyword": "Harz National Park",
-        "hsh": "802f9c843088b9d04563ef726a716c5f",
+        "hsh": "444e134f34e5dc44b76f0cdc4a58fadb",
         "description": "Imagine reaching the Brocken in Harz National Park, Germany, as clouds slide across the ridge. With the sun behind you, mist ahead—then a giant, haloed shadow forms. Ever wondered why climbers once feared this sight? The phenomenon, called the Brocken spectre, is an eerie natural optical effect that occurs when sunlight projects a person's shadow onto cloud or fog. Rising about 1,141 metres, the Brocken is the highest peak in northern Germany and has long inspired folklore, including tales of witches gathering here during Walpurgis Night.",
         "maplink": "51.799072,10.61556"
     },
@@ -28,7 +39,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.WaveDenmark_EN-CA6114936639",
         "copyright": "The Wave residential building, Vejle, Denmark (© Frank Bach/Alamy)",
         "copyrightKeyword": "The Wave building Vejle Denmark",
-        "hsh": "5b416d48159d82870a6dab355f811b3c",
+        "hsh": "27d8c59c73ea6a5b057eee0857ba6f30",
         "description": "Architecture blends art and technology, expressed through the built form. While many designs focus primarily on function, some buildings give equal weight to visual impact. A strong example is The Wave building complex in Vejle, Denmark, where sculptural design and practical housing come together seamlessly.",
         "maplink": "55.709099,9.5561"
     },
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SamuiThailand_EN-CA7437752481",
         "copyright": "Harbour and longtail boats at Ko Samui, Thailand (© Foto2rich/Shutterstock)",
         "copyrightKeyword": "Ko Samui Thailand",
-        "hsh": "02e0033cdaf9fe6c481fa6b30b80e850",
-        "description": "Do not be fooled by how simple Ko Samui's longtail boats look from a distance; decades of local ingenuity have shaped their slender frames. These vessels, known in Thailand as 'ruea hang yao,' emerged in the early 20th century, when fishermen repurposed vehicle engines to navigate shallow waters that larger boats couldn't reach. Handcrafted plank by plank, each boat reflects generations of skill. Their hulls burst with bold, striking colours, while decorative cloth and flowers often crown the bows—Buddhist blessings meant to safeguard both the boat and its crew.",
-        "maplink": "9.48921,99.991724"
-    },
-    {
-        "fullstartdate": "202603010500",
-        "date": "20260301",
-        "url": "https://www.bing.com/th?id=OHR.OwlonGuard_EN-CA7496212614_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.OwlonGuard_EN-CA7496212614",
-        "copyright": "Snowy owl near the Canadian Rockies (© www.harshadventure.com/Moment/Getty Images)",
-        "copyrightKeyword": "Snowy owl",
-        "hsh": "3e273f3b891d7507d66f7e156e78cd77"
+        "hsh": "02e0033cdaf9fe6c481fa6b30b80e850"
     }
 ]

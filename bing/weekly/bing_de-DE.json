@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202603092300",
+        "date": "20260310",
+        "url": "https://www.bing.com/th?id=OHR.SpringIceland_DE-DE6750493768_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SpringIceland_DE-DE6750493768",
+        "copyright": "Geothermisches Becken Bláhver in Hveravellir, Island (© Juan Maria Coy Vergara/Getty Images)",
+        "copyrightKeyword": "Blahver Quelle Island",
+        "hsh": "8fe87f1a8e9226e8ad25c0415927c836",
+        "description": "Wer das isländische Hochland durchquert, trifft in Hveravellir auf Bláhver, ein natürliches, geothermisch erhitztes Becken in leuchtendem Blau. Es liegt zwischen den Gletschern Langjökull und Hofsjökull und macht die intensive vulkanische Aktivität unter Islands Oberfläche sichtbar. Die kräftige Färbung des Wassers geht auf mineral- und silikatreiche Bestandteile zurück, die aus dem Erdinneren aufsteigen und das Licht an der Oberfläche reflektieren. In der Umgebung färben Schwefel, Eisenoxide und andere Mineralien den Boden in Weiß-, Rot- und Ockertönen.",
+        "maplink": "64.865398,-19.559103"
+    },
+    {
         "fullstartdate": "202603082300",
         "date": "20260309",
         "url": "https://www.bing.com/th?id=OHR.NappingSeal_DE-DE4413060426_1920x1080.jpg",
@@ -17,7 +28,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.StuttgartSchlossplatz_DE-DE6255862063",
         "copyright": "Neues Schloss am Schlossplatz in Stuttgart, Baden‑Württemberg (© Jorg Greuel/Getty Images)",
         "copyrightKeyword": "Baden-Württemberg Landtagswahl 2026",
-        "hsh": "5db286f5df96c5cd524ad8f834b3a819",
+        "hsh": "50403d875b3ce10ee17f05f31ef83d74",
         "description": "Heute richtet sich der Blick auf Baden‑Württemberg, wo die Bürgerinnen und Bürger einen neuen Landtag wählen. Im drittgrößten Bundesland Deutschlands gilt erstmals ein reformiertes Wahlrecht mit zwei Stimmen. Zudem dürfen Jugendliche ab 16 Jahren an der Wahl teilnehmen.",
         "maplink": "48.777107,9.180769"
     },
@@ -28,7 +39,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PacificRimNP_DE-DE6585110286",
         "copyright": "Pacific Rim National Park Reserve, Vancouver Island, Kanada (© EmilyNorton/Getty Images)",
         "copyrightKeyword": "Pacific Rim National Park Reserve Kanada",
-        "hsh": "d72dfeb18e664075d570ddbd9a5f5541",
+        "hsh": "14388af3118c025a19a09905d1bf4df7",
         "description": "Das Pacific Rim National Park Reserve an der Westküste von Vancouver Island schützt eine der markantesten Küstenlandschaften Kanadas. Weite Sandstrände, felsige Buchten und vorgelagerte Inseln münden hier in den offenen Pazifik, während im Hinterland dichte, gemäßigte Regenwälder dominieren. Wind, Wellen und Gezeiten formen die Landschaft fortlaufend und machen die Dynamik der Küste deutlich.",
         "maplink": "49.068329,-125.753273"
     },
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BabyElephant_DE-DE5859439374",
         "copyright": "Afrikanisches Elefantenkalb mit Mutter im Masai‑Mara‑Nationalreservat, Kenia (© Denis-Huot/naturepl.com)",
         "copyrightKeyword": "Tag des Artenschutzes 2026",
-        "hsh": "39153fde2ad262eccf9ae96b945bd5e7",
-        "description": "Der Tag des Artenschutzes erinnert uns daran, wie eng unser Wohlergehen mit einer intakten Natur verbunden ist. Auf dem Bild sehen wir einen Afrikanischen Elefanten mit seinem Jungtier. Elefanten verbreiten Samen, halten Landschaften im Gleichgewicht und sichern so das Überleben zahlreicher Pflanzenarten. Vor diesem Hintergrund rücken anlässlich des Aktionstages Heil‑ und Aromapflanzen in den Fokus. Weltweit werden Schätzungen der Vereinten Nationen zufolge rund 50.000 bis 70.000 Arten für die traditionelle Medizin, die Kosmetik oder die Lebensmittelproduktion genutzt.",
-        "maplink": "-1.529493,35.170876"
-    },
-    {
-        "fullstartdate": "202603012300",
-        "date": "20260302",
-        "url": "https://www.bing.com/th?id=OHR.SamuiThailand_DE-DE5695333511_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SamuiThailand_DE-DE5695333511",
-        "copyright": "Hafen und Longtail‑Boote auf Ko Samui, Thailand (© Foto2rich/Shutterstock)",
-        "copyrightKeyword": "Ko Samui Thailand",
-        "hsh": "aa2aa6e18a88aaeea5703bc315765cc0"
+        "hsh": "39153fde2ad262eccf9ae96b945bd5e7"
     }
 ]
