@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202603110000",
+        "date": "20260311",
+        "url": "https://www.bing.com/th?id=OHR.PeachBloom_EN-GB7084568493_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PeachBloom_EN-GB7084568493",
+        "copyright": "Peach trees in bloom, Cieza, Murcia, Spain (© Juan Maria Coy Vergara/Getty Images)",
+        "copyrightKeyword": "Cieza Spain",
+        "hsh": "d146c5e1996913eb4dbaea87f234c053",
+        "description": "Spring hits differently in Cieza. It doesn't gently unfold—it erupts with colour. Between February and March, this small city in Spain's Murcia region is the epicentre of 'La Floración,' the flowering of peach trees. In a matter of days, more than 12,000 acres (5,000 hectares)—Spain's largest municipal peach production—transform into the sea of colour we see in today's image.",
+        "maplink": "38.239372,-1.418669"
+    },
+    {
         "fullstartdate": "202603100000",
         "date": "20260310",
         "url": "https://www.bing.com/th?id=OHR.SpringIceland_EN-GB6911172002_1920x1080.jpg",
@@ -28,7 +39,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PortlandBlossoms_EN-GB6516927034",
         "copyright": "Cherry blossoms at Tom McCall Waterfront Park, Portland, Oregon, United States (© Eric Vogt/Tandem Stills + Motion)",
         "copyrightKeyword": "Tom McCall Waterfront Park",
-        "hsh": "5f1356aaac574e8e1a7ae451e42e91cc",
+        "hsh": "ea9c9bd4dc4f856296d1c92b5d5c676c",
         "description": "Tom McCall Waterfront Park, a 36-acre (15-hectare) urban oasis along the Willamette River in Portland, Oregon in the United States, is one of the city's most beloved green spaces. Each spring—typically from mid-March to early April—it transforms into a sea of soft pink and white as cherry blossoms bloom. These vibrant trees along scenic walking paths offer a peaceful escape in the heart of the city. The park also features notable landmarks like Salmon Street Springs, an interactive fountain with numerous water jets and the Portland Saturday Market, a favourite local destination.",
         "maplink": "45.522743,-122.669754"
     },
@@ -39,7 +50,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BrockenSunrise_EN-GB9355519414",
         "copyright": "The Brocken, Harz National Park, Germany (© imageBROKER/AVTG/Getty Images)",
         "copyrightKeyword": "Harz National Park",
-        "hsh": "387196b859f999ac27336ef7436fe8a1",
+        "hsh": "da361641d7ee1c8835e13db469c9f99d",
         "description": "Imagine reaching the Brocken in Harz National Park, Germany, as clouds slide across the ridge. With the sun behind you, mist ahead—then a giant, haloed shadow forms. Ever wondered why climbers once feared this sight? The phenomenon, called the Brocken spectre, is an eerie natural optical effect that occurs when sunlight projects a person's shadow onto cloud or fog. Rising about 1,141 metres, the Brocken is the highest peak in northern Germany and has long inspired folklore, including tales of witches gathering here during Walpurgis Night.",
         "maplink": "51.799072,10.61556"
     },
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.RilaCrocuses_EN-GB6687558312",
         "copyright": "Purple crocus flowers, Seven Rila Lakes, Bulgaria (© Maya Karkalicheva/Getty Images)",
         "copyrightKeyword": "Seven Rila Lakes Bulgaria",
-        "hsh": "d44bfae5274da8629709be5132e1ccd3",
-        "description": "As winter's grip on the Rila Mountains of southwestern Bulgaria begins to loosen, crocuses push through the thinning snow, signalling the arrival of spring in the country's highest mountain range. These early bloomers use stored nutrients to quickly grow in cold conditions, completing much of their life cycle before taller plants emerge. Their clustered blossoms unfurl over alpine meadows in sweeping purple ribbons, creating a striking contrast with bright snowfields and crisp morning light.",
-        "maplink": "42.204161,23.312577"
-    },
-    {
-        "fullstartdate": "202603030000",
-        "date": "20260303",
-        "url": "https://www.bing.com/th?id=OHR.BabyElephant_EN-GB6477641376_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BabyElephant_EN-GB6477641376",
-        "copyright": "African elephant calf playing with its mother, Masai Mara National Reserve, Kenya (© Denis-Huot/naturepl.com)",
-        "copyrightKeyword": "World Wildlife Day 2026",
-        "hsh": "1ea475882c6d78db7deee28743165a92"
+        "hsh": "d44bfae5274da8629709be5132e1ccd3"
     }
 ]
