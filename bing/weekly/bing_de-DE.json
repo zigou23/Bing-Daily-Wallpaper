@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202603142300",
+        "date": "20260315",
+        "url": "https://www.bing.com/th?id=OHR.KoenigsseeFog_DE-DE0451394349_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.KoenigsseeFog_DE-DE0451394349",
+        "copyright": "Königssee bei Schönau am Königssee, Bayern (© EyeEm Mobile GmbH/Getty Images)",
+        "copyrightKeyword": "Königssee Bayern",
+        "hsh": "823da978ff676fec8240f795d79be2e3",
+        "description": "Wenn sich am frühen Morgen Nebel über den Königssee legt, wirkt die Landschaft beinahe zeitlos. Der langgestreckte Gebirgssee im Südosten Bayerns liegt eingebettet zwischen den steilen Felswänden der Berchtesgadener Alpen. Große Teile des Sees gehören zum Nationalpark Berchtesgaden, dem einzigen Alpennationalpark Deutschlands, in dem die Natur sich weitgehend frei entwickeln kann.",
+        "maplink": "47.549999,12.967"
+    },
+    {
         "fullstartdate": "202603132300",
         "date": "20260314",
         "url": "https://www.bing.com/th?id=OHR.CornwallDolmen_DE-DE0215801252_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.StuttgartSchlossplatz_DE-DE6255862063",
         "copyright": "Neues Schloss am Schlossplatz in Stuttgart, Baden‑Württemberg (© Jorg Greuel/Getty Images)",
         "copyrightKeyword": "Baden-Württemberg Landtagswahl 2026",
-        "hsh": "50403d875b3ce10ee17f05f31ef83d74",
-        "description": "Heute richtet sich der Blick auf Baden‑Württemberg, wo die Bürgerinnen und Bürger einen neuen Landtag wählen. Im drittgrößten Bundesland Deutschlands gilt erstmals ein reformiertes Wahlrecht mit zwei Stimmen. Zudem dürfen Jugendliche ab 16 Jahren an der Wahl teilnehmen.",
-        "maplink": "48.777107,9.180769"
-    },
-    {
-        "fullstartdate": "202603062300",
-        "date": "20260307",
-        "url": "https://www.bing.com/th?id=OHR.PacificRimNP_DE-DE6585110286_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PacificRimNP_DE-DE6585110286",
-        "copyright": "Pacific Rim National Park Reserve, Vancouver Island, Kanada (© EmilyNorton/Getty Images)",
-        "copyrightKeyword": "Pacific Rim National Park Reserve Kanada",
-        "hsh": "14388af3118c025a19a09905d1bf4df7"
+        "hsh": "50403d875b3ce10ee17f05f31ef83d74"
     }
 ]
