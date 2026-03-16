@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202603160400",
+        "date": "20260316",
+        "url": "https://www.bing.com/th?id=OHR.AuroraIsland_EN-CA8332911364_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AuroraIsland_EN-CA8332911364",
+        "copyright": "Aurora over Spirit Island on Maligne Lake, Jasper National Park, Alberta (© Mumemories/istock/Getty Images)",
+        "copyrightKeyword": "Maligne Lake Canada",
+        "hsh": "cc032602863452d8d34de424cc06a2ce",
+        "description": "This is the kind of landscape that makes maps feel suddenly more interesting. Evening settles quietly over Maligne Lake in Jasper National Park, Alberta. As temperatures drop, the surface stills, mirroring snow-dusted peaks that formed during the last Ice Age. Stretching about 22 kilometres, the lake owes its existence to glacial movement that carved the valley and left behind meltwater basins. Today, cold, oxygen-rich freshwater sustains ecosystems that include species such as lake trout and mountain whitefish. Boat cruises and paddling routes offer one of the best ways to view Spirit Island, the small but widely photographed landmark featured in the image.",
+        "maplink": "52.873398,-117.954308"
+    },
+    {
         "fullstartdate": "202603150400",
         "date": "20260315",
         "url": "https://www.bing.com/th?id=OHR.PacificRimNP_EN-CA7886674430_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.NappingSeal_EN-CA7649170923",
         "copyright": "Grey seal sleeping on the beach, Orkney Islands, Scotland (© Andrew Mason/Minden Pictures)",
         "copyrightKeyword": "Napping day",
-        "hsh": "f3920d8eb603b823c49d7086931bed6b",
-        "description": "National Napping Day couldn't be better timed. It falls on the Monday after Daylight Saving Time begins, when clocks move forward and we all lose an hour of sleep. Consider today an official excuse to slow down and make up for it. The sleeping grey seal in this image, spotted along Scotland's coast, is a fitting reminder for the day: rest matters.",
-        "maplink": "59,-3"
-    },
-    {
-        "fullstartdate": "202603080500",
-        "date": "20260308",
-        "url": "https://www.bing.com/th?id=OHR.UlmClock_EN-CA0107157724_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.UlmClock_EN-CA0107157724",
-        "copyright": "Astronomical clock at Town Hall of the City of Ulm, Germany (© Tomekbudujedomek/Getty Images)",
-        "copyrightKeyword": "Daylight Saving Time",
-        "hsh": "eb9a17f541b72400730ed8540e44b72e"
+        "hsh": "f3920d8eb603b823c49d7086931bed6b"
     }
 ]
