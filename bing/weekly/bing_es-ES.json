@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202603192300",
+        "date": "20260320",
+        "url": "https://www.bing.com/th?id=OHR.Equinox_ES-ES5576771883_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.Equinox_ES-ES5576771883",
+        "copyright": "Abubilla descansando sobre una piedra (© Brais Seara/Getty Images)",
+        "copyrightKeyword": "Equinoccio de primavera 2026",
+        "hsh": "39fadb384c7cfbe9a4a85759b577ae24",
+        "description": "La llegada del equinoccio de primavera marca un momento de equilibrio en el calendario y también una señal para muchas aves que retoman antiguos recorridos. Entre ellas destaca la abubilla, reconocible por su plumaje cálido y la cresta que despliega como un abanico. Su presencia en marzo no es casual porque forma parte de las poblaciones migratorias que regresan entre finales de febrero y abril para ocupar de nuevo sus zonas de cría en regiones templadas."
+    },
+    {
         "fullstartdate": "202603182300",
         "date": "20260319",
         "url": "https://www.bing.com/th?id=OHR.EchidnaAustralia_ES-ES3815108716_1920x1080.jpg",
@@ -71,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.VendeeVaults_ES-ES2432885875",
         "copyright": "Bóvedas de la iglesia de Notre-Dame de Bon-Port, Les Sables-d'Olonne, Francia (© Helmut Meyer zur Capellen/Alamy)",
         "copyrightKeyword": "Notre-Dame de Bon-Port Francia",
-        "hsh": "ee13276582f8b6ace095a74cdf986f70",
-        "description": "Las bóvedas de la iglesia de Notre-Dame de Bon-Port en Les Sables-d'Olonne, Francia, muestran un diseño gótico asociado a la tradición francesa con arcos apuntados que realzan la verticalidad del templo y una estructura iniciada en 1646 según documentación histórica. La piedra clara y la organización del espacio generan una sensación de amplitud que refleja el espíritu religioso de una comunidad marinera que en el siglo XVII buscaba protección espiritual antes de embarcarse en largas travesías.",
-        "maplink": "46.496203,-1.786035"
-    },
-    {
-        "fullstartdate": "202603112300",
-        "date": "20260312",
-        "url": "https://www.bing.com/th?id=OHR.SunbitternEcuador_ES-ES1944682433_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SunbitternEcuador_ES-ES1944682433",
-        "copyright": "Garza de sol exhibiéndose en el nido, Ecuador (© Andy Rouse/naturepl.com)",
-        "copyrightKeyword": "Garza de sol",
-        "hsh": "d3c98cd99fd4347e8b2a031842114a29"
+        "hsh": "ee13276582f8b6ace095a74cdf986f70"
     }
 ]
