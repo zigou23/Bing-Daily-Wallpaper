@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202603202300",
+        "date": "20260321",
+        "url": "https://www.bing.com/th?id=OHR.LeteaForest_DE-DE7781976340_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LeteaForest_DE-DE7781976340",
+        "copyright": "Letea-Wald, Donaudelta, Rumänien (© Wild Wonders of Europe/Widstrand/Nature Picture Library)",
+        "copyrightKeyword": "Internationaler Tag des Waldes",
+        "hsh": "11f995ec152830593d2447f74d31d611",
+        "description": "Wälder zählen zu den verlässlichsten Verbündeten unseres Planeten. Sie speichern CO₂, stabilisieren Böden, filtern Wasser und bieten einer enormen Vielfalt an Arten Lebensraum. Auch in Deutschland prägen sie die Landschaft: Rund ein Drittel des Landes ist bewaldet – von den alten Buchenbeständen der UNESCO‑Welterbegebiete bis zu den Höhenzügen des Schwarzwalds. Doch Stürme, Dürreperioden und Schädlingsbefall zeigen, wie empfindlich diese Ökosysteme geworden sind."
+    },
+    {
         "fullstartdate": "202603192300",
         "date": "20260320",
         "url": "https://www.bing.com/th?id=OHR.SpringSnowdrops_DE-DE7059027908_1920x1080.jpg",
@@ -70,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.CornwallDolmen_DE-DE0215801252",
         "copyright": "Lanyon Quoit, neolithischer Dolmen in Cornwall, England (© Helen Hotson/Alamy)",
         "copyrightKeyword": "Pi-Tag",
-        "hsh": "c663db693202ee6eb0da11d0f14c6b41",
-        "description": "Wussten Sie, dass wir heute den Pi‑Tag feiern? Jedes Jahr am 14. März rückt diese besondere Kreiszahl in den Mittelpunkt. Das Datum steht für die ersten Stellen von π, nämlich 3,14. Seit Jahrhunderten fasziniert die unendliche, nicht periodische Zahl Mathematikbegeisterte auf der ganzen Welt. Schon lange bevor schriftliche Formeln entstanden, nutzten frühere Kulturen geometrische Prinzipien ganz praktisch in ihrem Alltag.",
-        "maplink": "50.147726,-5.599093"
-    },
-    {
-        "fullstartdate": "202603122300",
-        "date": "20260313",
-        "url": "https://www.bing.com/th?id=OHR.VendeeVaults_DE-DE9788483793_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.VendeeVaults_DE-DE9788483793",
-        "copyright": "Gewölbe der Kirche Notre‑Dame‑de‑Bon‑Port, Les Sables‑d’Olonne, Frankreich (© Helmut Meyer zur Capellen/Alamy)",
-        "copyrightKeyword": "Les-Sables Frankreich",
-        "hsh": "c7fe323594ed41b03dec96a72943010a"
+        "hsh": "c663db693202ee6eb0da11d0f14c6b41"
     }
 ]
