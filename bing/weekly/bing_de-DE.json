@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202603222300",
+        "date": "20260323",
+        "url": "https://www.bing.com/th?id=OHR.SonoranStorm_DE-DE8439783088_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SonoranStorm_DE-DE8439783088",
+        "copyright": "Gewitter über Saguaro-Kakteen, Sonora-Wüste, Arizona, USA (© Jack Dykinga/Nature Picture Library)",
+        "copyrightKeyword": "Welttag der Meteorologie",
+        "hsh": "2bb59cd93bae4b504cf400bb46761e2a",
+        "description": "Gewitter zählen zu den spektakulärsten Wetterphänomenen unserer Erde. Sie bilden sich plötzlich, setzen enorme Energie frei und ziehen mit ihren hellen Blitzen die Aufmerksamkeit auf sich. Wer ihre Entstehung versteht, kann Risiken besser einschätzen und sicherer leben. Der Welttag der Meteorologie erinnert an die Gründung der Weltorganisation für Meteorologie im Jahr 1950 und betont die Bedeutung verlässlicher Wetter‑, Klima‑ und Wasserdienste – von Unwetterwarnungen bis zur langfristigen Klimabeobachtung. Das diesjährige Motto lautet: „Heute beobachten, morgen schützen.“",
+        "maplink": "32.248009,-112.91613"
+    },
+    {
         "fullstartdate": "202603212300",
         "date": "20260322",
         "url": "https://www.bing.com/th?id=OHR.TanganyikaWater_DE-DE8174589395_1920x1080.jpg",
@@ -70,16 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PandaForest_DE-DE0631054848",
         "copyright": "Großer Panda beim Bambusfressen, China (© Entwicklungsknecht/Getty Images)",
         "copyrightKeyword": "Großer Panda",
-        "hsh": "2db9b1b4b3972a8d4eed9dd6f5be9008",
-        "description": "Mit ihrem markanten schwarz-weißen Fell sind Große Pandas, auch Riesenpandas genannt, weltweit zu einem Symbol für erfolgreichen Naturschutz geworden. In ihrer Heimat China leben sie vor allem in nebelreichen Bergwäldern mit dichten Bambusbeständen, von denen sie sich nahezu ausschließlich ernähren. Da Bambus nur wenig Energie liefert, verbringen Pandas einen Großteil ihres Tages mit Fressen und anschließender Ruhe. Lange Zeit galt die Art als stark gefährdet. Der Verlust geeigneter Lebensräume und ihre geringe Fortpflanzungsrate ließen die Bestände deutlich schrumpfen. Durch umfassende Schutzmaßnahmen, darunter die Ausweisung neuer Schutzgebiete und die bessere Vernetzung von Bambuswäldern, konnte sich die Population in den vergangenen Jahren jedoch langsam erholen."
-    },
-    {
-        "fullstartdate": "202603142300",
-        "date": "20260315",
-        "url": "https://www.bing.com/th?id=OHR.KoenigsseeFog_DE-DE0451394349_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.KoenigsseeFog_DE-DE0451394349",
-        "copyright": "Königssee bei Schönau am Königssee, Bayern (© EyeEm Mobile GmbH/Getty Images)",
-        "copyrightKeyword": "Königssee Bayern",
-        "hsh": "823da978ff676fec8240f795d79be2e3"
+        "hsh": "2db9b1b4b3972a8d4eed9dd6f5be9008"
     }
 ]

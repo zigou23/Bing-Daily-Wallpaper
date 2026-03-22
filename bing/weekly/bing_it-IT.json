@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202603222300",
+        "date": "20260323",
+        "url": "https://www.bing.com/th?id=OHR.SonoranStorm_IT-IT4419770010_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SonoranStorm_IT-IT4419770010",
+        "copyright": "Saguaro e tempesta, Deserto di Sonora, Arizona, USA (© Jack Dykinga/Nature Picture Library)",
+        "copyrightKeyword": "Giornata Mondiale del Meteo",
+        "hsh": "6e71bf0279d45aeb5ac3d9942a0bddc7",
+        "description": "La forza della natura è più evidente nelle tempeste potenti. Spaventoso? Sì. Affascinante? Ancora di più. Imparare a comprendere e rispettare queste forze aiuta l'umanità a vivere in sicurezza. Questo concetto è al centro della “Giornata Mondiale della Meteorologia”, che si celebra ogni anno il 23 marzo, commemorando la fondazione dell'Organizzazione Meteorologica Mondiale nel 1950 e sottolineando come i servizi meteorologici, climatici e idrici proteggano le vite e supportino le decisioni quotidiane, dai bollettini di allerta meteo alla pianificazione climatica a lungo termine.",
+        "maplink": "32.248009,-112.91613"
+    },
+    {
         "fullstartdate": "202603212300",
         "date": "20260322",
         "url": "https://www.bing.com/th?id=OHR.TanganyikaWater_IT-IT3818481809_1920x1080.jpg",
@@ -69,16 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PandaForest_IT-IT6604612571",
         "copyright": "Panda gigante che mangia bambù, Cina (© Entwicklungsknecht/Getty Images)",
         "copyrightKeyword": "Panda gigante",
-        "hsh": "b8d77f63064953fb26bbf7240c354631",
-        "description": "Tra i rami di bambù e le montagne velate della Cina, il panda gigante incarna oggi una delle storie più emblematiche della conservazione della natura. Il 16 marzo, con la “Giornata Mondiale del Panda”, questa specie simbolo torna al centro dell’attenzione, insieme alle sfide che continuano a metterne alla prova la sopravvivenza. Endemici della Cina, i panda hanno rischiato seriamente l’estinzione a causa della frammentazione dell’habitat e dei bassi tassi di riproduzione. Gli sforzi congiunti della comunità internazionale stanno lentamente dando frutti, ma il percorso è tutt’altro che concluso."
-    },
-    {
-        "fullstartdate": "202603142300",
-        "date": "20260315",
-        "url": "https://www.bing.com/th?id=OHR.PacificRimNP_IT-IT0253430752_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PacificRimNP_IT-IT0253430752",
-        "copyright": "Riserva del Parco Nazionale Pacific Rim, Isola di Vancouver, Canada (© EmilyNorton/Getty Images)",
-        "copyrightKeyword": "Isola di Vancouver Canada",
-        "hsh": "8fde2dff02638888fc014698a6246796"
+        "hsh": "b8d77f63064953fb26bbf7240c354631"
     }
 ]
