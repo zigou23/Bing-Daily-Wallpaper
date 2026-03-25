@@ -124,10 +124,10 @@ def update_and_merge_images(existing_images, new_images, date_field='date', uniq
 
 
 # 定义语言代码列表
-languages = ['en-ROW', 'en-US', 'en-CA', 'en-GB', 'en-IN', 'es-ES', 'fr-FR', 'fr-CA', 'it-IT', 'ja-JP', 'pt-BR', 'de-DE', 'zh-CN']
+languages = ['zh-TW', 'en-US', 'en-CA', 'en-GB', 'en-IN', 'es-ES', 'fr-FR', 'fr-CA', 'it-IT', 'ja-JP', 'pt-BR', 'de-DE', 'zh-CN']
 
 # 定义需要使用 startdate 的语言
-USE_STARTDATE_LANGUAGES = ['en-CA', 'en-GB', 'en-US', 'fr-CA', 'pt-BR', 'en-ROW']
+USE_STARTDATE_LANGUAGES = ['en-CA', 'en-GB', 'en-US', 'fr-CA', 'pt-BR', 'zh-TW']
 
 # 获取当前年份（用于清理逻辑）
 current_year = datetime.now().year
@@ -169,7 +169,7 @@ for lang in languages:
     # 语言不支持,会使用通用 ROW 数据(仅用于文件命名)
     original_lang = lang
     file_lang = lang
-    if (lang == "en-ROW"): 
+    if (lang == "zh-TW"): 
         file_lang = "ROW"
     
     # 检查是否使用 startdate
