@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202603272300",
+        "date": "20260328",
+        "url": "https://www.bing.com/th?id=OHR.CapeBuffalo_DE-DE9916963289_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.CapeBuffalo_DE-DE9916963289",
+        "copyright": "Afrikanischer Büffel, Ngorongoro-Krater, Tansania (© jesuss8/500px/Getty Images)",
+        "copyrightKeyword": "Afrikanischer Büffel",
+        "hsh": "10c953acfae41057448dd99374efb844",
+        "description": "Der Afrikanische Büffel zählt zu den eindrucksvollsten Großsäugern des Kontinents. Im Ngorongoro‑Schutzgebiet im Norden Tansanias, einem UNESCO‑Welterbe, durchstreifen diese kräftigen Tiere Savannen, Feuchtgebiete und offene Graslandschaften. Ihre breiten, geschwungenen Hörner und ihre mächtige Statur verleihen ihnen einen festen Platz unter den „Big Five“ der afrikanischen Wildtiere und machen sie zu einem Symbol für Stärke und Ausdauer in der Wildnis Ostafrikas.",
+        "maplink": "-3.064646,35.381698"
+    },
+    {
         "fullstartdate": "202603262300",
         "date": "20260327",
         "url": "https://www.bing.com/th?id=OHR.RadioCityHall_DE-DE9579600716_1920x1080.jpg",
@@ -71,16 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LeteaForest_DE-DE7781976340",
         "copyright": "Letea-Wald, Donaudelta, Rumänien (© Wild Wonders of Europe/Widstrand/Nature Picture Library)",
         "copyrightKeyword": "Internationaler Tag des Waldes",
-        "hsh": "11f995ec152830593d2447f74d31d611",
-        "description": "Wälder zählen zu den verlässlichsten Verbündeten unseres Planeten. Sie speichern CO₂, stabilisieren Böden, filtern Wasser und bieten einer enormen Vielfalt an Arten Lebensraum. Auch in Deutschland prägen sie die Landschaft: Rund ein Drittel des Landes ist bewaldet – von den alten Buchenbeständen der UNESCO‑Welterbegebiete bis zu den Höhenzügen des Schwarzwalds. Doch Stürme, Dürreperioden und Schädlingsbefall zeigen, wie empfindlich diese Ökosysteme geworden sind."
-    },
-    {
-        "fullstartdate": "202603192300",
-        "date": "20260320",
-        "url": "https://www.bing.com/th?id=OHR.SpringSnowdrops_DE-DE7059027908_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SpringSnowdrops_DE-DE7059027908",
-        "copyright": "Schneeglöckchen im Frühling (© klagyivik/Getty Images)",
-        "copyrightKeyword": "Früh­jahrs-Tag­und­nacht­glei­che",
-        "hsh": "c5a3e3478a92f49e64eacbb6e238233b"
+        "hsh": "11f995ec152830593d2447f74d31d611"
     }
 ]
