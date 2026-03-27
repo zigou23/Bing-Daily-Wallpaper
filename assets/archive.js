@@ -915,7 +915,7 @@ async function handleDownload(event, item, type) {
         URL.revokeObjectURL(blobUrl);
 
     } catch (err) {
-        alert(`下载失败: 图片无法访问 (${err.message})`);
+        alert(`Download Failed: Image Inaccessible (${err.message})`);
     } finally {
         btn.innerHTML = originalContent;
         btn.style.pointerEvents = 'auto';

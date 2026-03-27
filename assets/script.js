@@ -751,7 +751,7 @@ async function handleDownload(event, item, type) {
 
   } catch (err) {
     // 错误弹窗
-    alert(`下载失败: 图片无法访问 (${err.message})`);
+    alert(`Download Failed: Image Inaccessible (${err.message})`);
   } finally {
     // 恢复按钮状态
     btn.innerHTML = originalContent;
