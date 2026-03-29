@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202603292200",
+        "date": "20260330",
+        "url": "https://www.bing.com/th?id=OHR.DolomitiSpring_IT-IT3295923422_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.DolomitiSpring_IT-IT3295923422",
+        "copyright": "Lago Federa, Cortina d'Ampezzo, Belluno, Veneto (© Elena-studio/iStock)",
+        "copyrightKeyword": "Lago Federa",
+        "hsh": "0b575e7a1f4e7c1803ac9dee610983a5",
+        "description": "La primavera inizia a farsi sentire al Lago Federa, uno specchio d’acqua incastonato tra le Dolomiti sopra Cortina d'Ampezzo, a circa 2.038 metri di quota. Ai piedi delle maestose vette circostanti, la superficie riflette cime frastagliate che all’inizio di aprile conservano ancora ampie striature di neve. Il ghiaccio invernale si ritira lentamente lungo le rive e lo specchio lacustre, limpido e freddo, torna a incresparsi sotto le prime brezze miti.",
+        "maplink": "46.568309,12.086547"
+    },
+    {
         "fullstartdate": "202603282300",
         "date": "20260329",
         "url": "https://www.bing.com/th?id=OHR.PeggysLighthouse_IT-IT5137466865_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SonoranStorm_IT-IT4419770010",
         "copyright": "Saguaro e tempesta, Deserto di Sonora, Arizona, USA (© Jack Dykinga/Nature Picture Library)",
         "copyrightKeyword": "Giornata Mondiale del Meteo",
-        "hsh": "6e71bf0279d45aeb5ac3d9942a0bddc7",
-        "description": "La forza della natura è più evidente nelle tempeste potenti. Spaventoso? Sì. Affascinante? Ancora di più. Imparare a comprendere e rispettare queste forze aiuta l'umanità a vivere in sicurezza. Questo concetto è al centro della “Giornata Mondiale della Meteorologia”, che si celebra ogni anno il 23 marzo, commemorando la fondazione dell'Organizzazione Meteorologica Mondiale nel 1950 e sottolineando come i servizi meteorologici, climatici e idrici proteggano le vite e supportino le decisioni quotidiane, dai bollettini di allerta meteo alla pianificazione climatica a lungo termine.",
-        "maplink": "32.248009,-112.91613"
-    },
-    {
-        "fullstartdate": "202603212300",
-        "date": "20260322",
-        "url": "https://www.bing.com/th?id=OHR.TanganyikaWater_IT-IT3818481809_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.TanganyikaWater_IT-IT3818481809",
-        "copyright": "Lago Tanganyika, Africa (© BEST-BACKGROUNDS/NASA/Shutterstock)",
-        "copyrightKeyword": "Giornata mondiale dell acqua",
-        "hsh": "9c82d6210e84ad6bd38f96894aca84bf"
+        "hsh": "6e71bf0279d45aeb5ac3d9942a0bddc7"
     }
 ]
