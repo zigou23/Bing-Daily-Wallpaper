@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202604011830",
+        "date": "20260402",
+        "url": "https://www.bing.com/th?id=OHR.WildflowerValley_EN-IN5256127708_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WildflowerValley_EN-IN5256127708",
+        "copyright": "Wildflower bloom, Central Valley, California, United States (© Jeff Lewis/Tandem Stills + Motion)",
+        "copyrightKeyword": "Central Valley California",
+        "hsh": "9030257e484640b916f7465e44d22bb5",
+        "description": "Spring announces itself across California's Central Valley in the United States with the first bursts of wildflowers following the winter rains. Stretching more than 700 kilometres from north to south and covering about 52,000 square kilometres, the valley is one of the world's most productive agricultural regions. In early spring, however, an older identity briefly resurfaces. From March through April, native annuals such as goldfields, tidy tips and owl's clover quickly germinate once temperature and soil moisture are optimal. They race to complete their life cycles before the long dry season begins.",
+        "maplink": "40.522843,-122.240585"
+    },
+    {
         "fullstartdate": "202603311830",
         "date": "20260401",
         "url": "https://www.bing.com/th?id=OHR.SanchiMP_EN-IN5100905412_1920x1080.jpg",
@@ -17,7 +28,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ParadiseCave_EN-IN4544625926",
         "copyright": "Paradise Cave, Phong Nha-Ke Bang National Park, Vietnam (© Pakawat Thongcharoen/Getty Images)",
         "copyrightKeyword": "Paradise Cave Vietnam",
-        "hsh": "f71105343cad71bb576a1ef7ee91d761",
+        "hsh": "b49aa4024928fa7c48906440bcf8bb17",
         "description": "Paradise Cave makes a powerful first impression the moment visitors step inside. This vast limestone cavern lies deep within Phong Nha-Ke Bang National Park in central Vietnam, a region marked by rugged mountains and countless hidden caves. Stretching over 30 kilometres, Paradise Cave is one of Asia's longest dry caves, and its scale is immediately apparent. High ceilings rise above the walkways, and layered patterns formed by mineral-rich water over millions of years line the walls.",
         "maplink": "16.835573,106.743552"
     },
@@ -28,7 +39,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.IndiaCranes_EN-IN2980482639",
         "copyright": "Demoiselle cranes, India (© Axel Gomille/Nature Picture Library)",
         "copyrightKeyword": "Demoiselle cranes",
-        "hsh": "b11f96a22ff7edf906459876ca655ac8",
+        "hsh": "443909ce9e545a7c891bedfc69c64bf8",
         "description": "The demoiselle crane is a small yet striking migratory bird found across Central Asia, from its breeding grounds in the steppes of Kazakhstan, Mongolia and northern China, to their wintering grounds in India, Nepal and parts of Africa. With its elegant appearance—slender neck, long legs and beautiful plumage—it is often considered one of the most graceful crane species. They are known for their intricate courtship dances, during which pairs engage in synchronised movements and calls, creating a beautiful spectacle."
     },
     {
@@ -71,16 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LoganCreek_EN-IN3774408675",
         "copyright": "Logan Creek Suspension Bridge, West Coast Trail, Canada (© Tandem Stock/Adobe Stock)",
         "copyrightKeyword": "West Coast Trail hike",
-        "hsh": "47275123577ed45baffaa725fe90259d",
-        "description": "Running along the remote southwest coast of Vancouver Island in Canada, the West Coast Trail is one of the country's most legendary hikes. Located in British Columbia's Pacific Rim National Park Reserve, the trail stretches about 75 kilometres through rainforest, beaches and rocky shoreline. It was established in 1907 as a lifesaving route for shipwreck survivors along what sailors once called the 'Graveyard of the Pacific.'"
-    },
-    {
-        "fullstartdate": "202603241830",
-        "date": "20260325",
-        "url": "https://www.bing.com/th?id=OHR.ManateeSpring_EN-IN3602464122_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ManateeSpring_EN-IN3602464122",
-        "copyright": "Juvenile manatees in a freshwater spring, Crystal River, Florida, United States (© Gregory Sweeney/Getty Images)",
-        "copyrightKeyword": "Manatee Appreciation Day",
-        "hsh": "e3033515742d492f9ca9362a08087be1"
+        "hsh": "47275123577ed45baffaa725fe90259d"
     }
 ]

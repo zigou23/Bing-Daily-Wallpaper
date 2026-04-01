@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202604012200",
+        "date": "20260402",
+        "url": "https://www.bing.com/th?id=OHR.WildflowerValley_ES-ES3227890644_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WildflowerValley_ES-ES3227890644",
+        "copyright": "Floración silvestre, Valle Central, California, EE. UU. (© Jeff Lewis/Tandem Stills + Motion)",
+        "copyrightKeyword": "Valle Central de California",
+        "hsh": "40f4b1c28b8aaf62da0aefecdeb6706b",
+        "description": "La imagen de hoy nos traslada al Valle Central de California, en Estados Unidos, donde las flores generan un mosaico vibrante que anuncia la llegada de la primavera. Este fenómeno se intensifica en los años de lluvias generosas, cuando el suelo retiene la humedad necesaria para que la vegetación brote con fuerza. En estas llanuras fértiles, el color avanza como una ola silenciosa que se expande colina a colina y crea un paisaje efímero que depende de un equilibrio delicado entre temperatura, precipitaciones y luz. La floración atrae a científicos y aficionados que observan cómo cada temporada revela combinaciones distintas y patrones que cambian según las variaciones del clima.",
+        "maplink": "40.522843,-122.240585"
+    },
+    {
         "fullstartdate": "202603312200",
         "date": "20260401",
         "url": "https://www.bing.com/th?id=OHR.JapaneseTreeFrog_ES-ES2872201795_1920x1080.jpg",
@@ -70,16 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LoganCreek_ES-ES0815625351",
         "copyright": "Puente colgante de Logan Creek, West Coast Trail, Canadá (© Tandem Stock/Adobe Stock)",
         "copyrightKeyword": "West Coast Trail Canadá",
-        "hsh": "c703dfba064d0f86691065a88c8556ec",
-        "description": "El puente colgante de Logan Creek en el West Coast Trail, Canadá, es uno de esos pasos que convierten una travesía costera en una aventura memorable. Sustituyó a un cruce más rudimentario y hoy se integra en el bosque lluvioso como una pasarela aérea que regala vistas al cauce y al océano cercano. Su instalación en un entorno remoto exigió transportar piezas por aire y trabajar en ventanas de buen tiempo, lo que añade una historia de ingeniería a la experiencia del senderista. Solo se accede caminando por el West Coast Trail, lo que preserva su carácter de joya escondida entre brumas, acantilados y mareas."
-    },
-    {
-        "fullstartdate": "202603242300",
-        "date": "20260325",
-        "url": "https://www.bing.com/th?id=OHR.ManateeSpring_ES-ES0435279848_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ManateeSpring_ES-ES0435279848",
-        "copyright": "Manatíes en un manantial de agua dulce, Crystal River, Florida, EE. UU. (© Gregory Sweeney/Getty Images)",
-        "copyrightKeyword": "Manatí",
-        "hsh": "4e254d259e06e6a259281c9019bcaab4"
+        "hsh": "c703dfba064d0f86691065a88c8556ec"
     }
 ]
