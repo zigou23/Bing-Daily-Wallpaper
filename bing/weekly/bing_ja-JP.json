@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202604021500",
+        "date": "20260403",
+        "url": "https://www.bing.com/th?id=OHR.ArmbrugBridge_JA-JP3428221440_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ArmbrugBridge_JA-JP3428221440",
+        "copyright": "アルムブルグ橋, オランダ (© Alexander Spatari/Getty Images)",
+        "copyrightKeyword": "アルムブルグ橋",
+        "hsh": "714f873564404ec0e466a8fcfc63d9ca",
+        "description": "オランダ・アムステルダムのアルムブルグ橋は、オウデザイズ・フォールブルガルという運河に架かるコンクリート橋です。1538 年に建造され、1988 年に現在の姿へと改修されました。運河沿いに並ぶ歴史的な建物を一望できるため、多くの芸術家や写真家に人気のスポットとなっています。橋自体はシンプルですが、場所と場所をつなぐ役割にとどまらず、人々を街の歴史や文化と結びつける存在となっています。",
+        "maplink": "52.375378,4.900051"
+    },
+    {
         "fullstartdate": "202604011500",
         "date": "20260402",
         "url": "https://www.bing.com/th?id=OHR.MagnoliaBloom2026_JA-JP8135720992_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SakuraDay2026_JA-JP6970025028",
         "copyright": "日本一早い桜、沖縄 (© @hapidayss/Getty Images)",
         "copyrightKeyword": "日本一早い桜",
-        "hsh": "5741e75c26d39f75aeeb9a303fdfcfbc",
-        "description": "今日 3 月 27 日は「さくらの日」。日本さくらの会が 1992 年に制定した桜の記念日で、七十二候の「桜始開」の頃にもあたり、暦の上では桜が咲き始める時期とされています。そして、画像の桜並木は、早咲きの桜として知られるカンヒザクラが咲く沖縄で撮影されました。沖縄では、本州とは逆に桜前線が北から南へと南下するのが特徴で、本島北部では、1 月から 2 月上旬にかけて見頃を迎えます。",
-        "maplink": "26.496021,127.961555"
-    },
-    {
-        "fullstartdate": "202603251500",
-        "date": "20260326",
-        "url": "https://www.bing.com/th?id=OHR.LoganCreek_JA-JP4033681513_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LoganCreek_JA-JP4033681513",
-        "copyright": "ローガン・クリーク吊り橋, カナダ (© Tandem Stock/Adobe Stock)",
-        "copyrightKeyword": "Logan Creek Suspension Bridge, West Coast Trail",
-        "hsh": "4f319bb98b82f15e12e8769647b46e98"
+        "hsh": "5741e75c26d39f75aeeb9a303fdfcfbc"
     }
 ]

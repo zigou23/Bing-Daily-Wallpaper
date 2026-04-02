@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202604020400",
+        "date": "20260402",
+        "url": "https://www.bing.com/th?id=OHR.WildflowerValley_EN-CA5205263100_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WildflowerValley_EN-CA5205263100",
+        "copyright": "Wildflower bloom, Central Valley, California, United States (© Jeff Lewis/Tandem Stills + Motion)",
+        "copyrightKeyword": "Central Valley California",
+        "hsh": "a8b6b2e6cbec15792b31ae28b62c5e5d",
+        "description": "Spring announces itself across California's Central Valley with the first bursts of wildflowers following the winter rains. Stretching about 720 kilometres from north to south and covering approximately 51,800 square kilometres, the valley is one of the world's most productive agricultural regions. In early spring, however, an older identity briefly resurfaces. From March through April, native annuals such as goldfields, tidy tips and owl's clover quickly germinate once temperature and soil moisture are optimal. They race to complete their life cycles before the long dry season begins.",
+        "maplink": "40.522843,-122.240585"
+    },
+    {
         "fullstartdate": "202604010400",
         "date": "20260401",
         "url": "https://www.bing.com/th?id=OHR.JapaneseTreeFrog_EN-CA4832337394_1920x1080.jpg",
@@ -70,16 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LoganCreek_EN-CA2859190085",
         "copyright": "Logan Creek Suspension Bridge, West Coast Trail, British Columbia (© Tandem Stock/Adobe Stock)",
         "copyrightKeyword": "West Coast Trail hike",
-        "hsh": "caff2877d27659e31a7fd820e152af46",
-        "description": "Running along the remote southwest coast of Vancouver Island, the West Coast Trail is one of the country's most legendary hikes. Located in British Columbia's Pacific Rim National Park Reserve, the trail stretches about 76 kilometres through rainforest, beaches and rocky shoreline. It was established in 1907 as a lifesaving route for shipwreck survivors along what sailors once called the 'Graveyard of the Pacific.'"
-    },
-    {
-        "fullstartdate": "202603250400",
-        "date": "20260325",
-        "url": "https://www.bing.com/th?id=OHR.AlbertaSnowMts_EN-CA2560376751_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AlbertaSnowMts_EN-CA2560376751",
-        "copyright": "Pine trees reflected in the Forgetmenot Pond in Kananaskis Country, Alberta (© chinaface/Getty images)",
-        "copyrightKeyword": "Kananaskis Country Alberta",
-        "hsh": "50019f11dc56ce09888165e3f2d6df2d"
+        "hsh": "caff2877d27659e31a7fd820e152af46"
     }
 ]

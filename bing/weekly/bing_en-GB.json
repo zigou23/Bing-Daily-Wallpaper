@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202604022300",
+        "date": "20260402",
+        "url": "https://www.bing.com/th?id=OHR.ArmbrugBridge_EN-GB4782396202_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ArmbrugBridge_EN-GB4782396202",
+        "copyright": "Armbrug bridge, Amsterdam, Netherlands (© Alexander Spatari/Getty Images)",
+        "copyrightKeyword": "Armbrug bridge Amsterdam",
+        "hsh": "f178773ec2433e4815ed4a95643f699c",
+        "description": "Some bridges in Amsterdam just get you across a canal. The Armbrug does more—it seems to wave hello as you pass. Nestled over the Oudezijds Voorburgwal canal, its name, meaning 'arm bridge,' refers to the nearby Oudezijds Armsteeg (Old Side Arm Alley), not a literal limb, but it's easy to imagine it greeting cyclists and pedestrians along the way.",
+        "maplink": "52.375378,4.900051"
+    },
+    {
         "fullstartdate": "202604012300",
         "date": "20260401",
         "url": "https://www.bing.com/th?id=OHR.WildflowerValley_EN-GB6670488836_1920x1080.jpg",
@@ -74,15 +85,5 @@
         "hsh": "5299dc6b3201a1191e158413053a4c46",
         "description": "At first glance, there's no doubt that the interior of Radio City Music Hall pulls you in and cranks up the excitement. It feels like stepping straight into the sun in the middle of New York City, United States—an Art Deco fever dream of how the 1930s imagined the future. This rush of awe is celebrated every 27 March as World Theatre Day.",
         "maplink": "40.759968,-73.979912"
-    },
-    {
-        "fullstartdate": "202603260000",
-        "date": "20260326",
-        "url": "https://www.bing.com/th?id=OHR.LoganCreek_EN-GB4805516529_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LoganCreek_EN-GB4805516529",
-        "copyright": "Logan Creek Suspension Bridge, West Coast Trail, Canada (© Tandem Stock/Adobe Stock)",
-        "copyrightKeyword": "West Coast Trail hike",
-        "hsh": "97c344e22e5a007c22ad6b9df0b6d68a",
-        "description": "Running along the remote southwest coast of Vancouver Island in Canada, the West Coast Trail is one of the country's most legendary hikes. Located in British Columbia's Pacific Rim National Park Reserve, the trail stretches about 47 miles through rainforest, beaches and rocky shoreline. It was established in 1907 as a lifesaving route for shipwreck survivors along what sailors once called the 'Graveyard of the Pacific.'"
     }
 ]

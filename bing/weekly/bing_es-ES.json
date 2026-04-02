@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202604022200",
+        "date": "20260403",
+        "url": "https://www.bing.com/th?id=OHR.ArmbrugBridge_ES-ES5113545309_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ArmbrugBridge_ES-ES5113545309",
+        "copyright": "Puente Armbrug, Ámsterdam, Países Bajos (© Alexander Spatari/Getty Images)",
+        "copyrightKeyword": "Puente Armbrug Ámsterdam Países Bajos",
+        "hsh": "e5886b841e02e55f8932a1ba62a7e579",
+        "description": "El puente Armbrug forma parte del entramado cotidiano de Ámsterdam, donde los canales marcan el ritmo de la ciudad. Se trata de un puente levadizo discreto, pensado más para la vida diaria que para el gesto monumental, pero esencial para permitir el paso de embarcaciones y peatones. Su nombre alude directamente a su mecanismo móvil, que se eleva como un brazo para abrir el canal. Integrado en el paisaje urbano, combina funcionalidad y sencillez, recordando la estrecha relación entre la ciudad y el agua.",
+        "maplink": "52.375378,4.900051"
+    },
+    {
         "fullstartdate": "202604012200",
         "date": "20260402",
         "url": "https://www.bing.com/th?id=OHR.WildflowerValley_ES-ES3227890644_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.RadioCityHall_ES-ES3762716953",
         "copyright": "Radio City Music Hall en Nueva York, EE. UU. (© Clarence Holmes Photography/Alamy)",
         "copyrightKeyword": "Día Mundial del Teatro",
-        "hsh": "1534e6d3e4c141039ef8758f642e9f0c",
-        "description": "Cada 27 de marzo se celebra el Día Mundial del Teatro, una fecha que resalta la importancia de los escenarios y el modo en que el arte escénico acompaña la vida cultural de tantas ciudades. Es un día para reconocer la creatividad de quienes trabajan delante y detrás del telón y para recordar cómo las funciones en vivo continúan despertando emociones únicas.",
-        "maplink": "40.759968,-73.979912"
-    },
-    {
-        "fullstartdate": "202603252300",
-        "date": "20260326",
-        "url": "https://www.bing.com/th?id=OHR.LoganCreek_ES-ES0815625351_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LoganCreek_ES-ES0815625351",
-        "copyright": "Puente colgante de Logan Creek, West Coast Trail, Canadá (© Tandem Stock/Adobe Stock)",
-        "copyrightKeyword": "West Coast Trail Canadá",
-        "hsh": "c703dfba064d0f86691065a88c8556ec"
+        "hsh": "1534e6d3e4c141039ef8758f642e9f0c"
     }
 ]

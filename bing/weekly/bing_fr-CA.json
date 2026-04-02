@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202604020400",
+        "date": "20260402",
+        "url": "https://www.bing.com/th?id=OHR.WildflowerValley_FR-CA7932282806_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WildflowerValley_FR-CA7932282806",
+        "copyright": "Fleurs sauvages, Vallée Centrale, Californie, États-Unis (© Jeff Lewis/Tandem Stills + Motion)",
+        "copyrightKeyword": "Vallée Centrale Californie",
+        "hsh": "12035ac3cfd8a0fecc267799987da47d",
+        "description": "La Vallée Centrale (« Central Valley ») de Californie, aux États-Unis, s’éveille au printemps sous les premières poussées de fleurs sauvages, nées des pluies hivernales. Ce long ruban fertile d’environ 700 kilomètres fascine le monde depuis des générations. Mais en mars et avril, une mémoire plus ancienne refait surface. Des fleurs annuelles indigènes — boutons d’or, Tidy Tips (Layia platyglossa), trèfles — jaillissent dès que la chaleur et l’humidité s’accordent, pressées d’achever leur cycle avant l’été aride.",
+        "maplink": "40.522843,-122.240585"
+    },
+    {
         "fullstartdate": "202604010400",
         "date": "20260401",
         "url": "https://www.bing.com/th?id=OHR.JapaneseTreeFrog_FR-CA3742504467_1920x1080.jpg",
@@ -70,16 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LoganCreek_FR-CA0824084585",
         "copyright": "Pont suspendu de Logan Creek, Sentier de la Côte-Ouest (© Tandem Stock/Adobe Stock)",
         "copyrightKeyword": "Sentier de la Côte Ouest",
-        "hsh": "af0d3fdb3a5723ecad921a36207bc860",
-        "description": "Au sud de l’île de Vancouver, le sentier de la Côte-Ouest serpente entre forêt pluviale, plages battues par le vent et falaises rocheuses. Long d’environ 75 kilomètres, il traverse la Réserve de parc national Pacific Rim, en Colombie-Britannique. Créé en 1907, le sentier servait autrefois de voie de secours pour les naufragés du redouté « cimetière du Pacifique »."
-    },
-    {
-        "fullstartdate": "202603250400",
-        "date": "20260325",
-        "url": "https://www.bing.com/th?id=OHR.AlbertaSnowMts_FR-CA5655798971_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AlbertaSnowMts_FR-CA5655798971",
-        "copyright": "Pins se reflétant sur l’étang Forgetmenot, Kananaskis Country, Alberta (© chinaface/Getty images)",
-        "copyrightKeyword": "Kananaskis Country Alberta",
-        "hsh": "c064122b169e2c1ca0f5777872ccf35f"
+        "hsh": "af0d3fdb3a5723ecad921a36207bc860"
     }
 ]

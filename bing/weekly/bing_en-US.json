@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202604020700",
+        "date": "20260402",
+        "url": "https://www.bing.com/th?id=OHR.WildflowerValley_EN-US6579657743_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WildflowerValley_EN-US6579657743",
+        "copyright": "Wildflower bloom, Central Valley, California (© Jeff Lewis/Tandem Stills + Motion)",
+        "copyrightKeyword": "Central Valley California",
+        "hsh": "303860a83220a2ee4808df5b9a09ba67",
+        "description": "Spring announces itself across California's Central Valley with the first bursts of wildflowers following the winter rains. Stretching roughly 450 miles from north to south and covering about 20,000 square miles, the valley is one of the world's most productive agricultural regions. In early spring, however, an older identity briefly resurfaces. From March through April, native annuals such as goldfields, tidy tips, and owl's clover quickly germinate once temperature and soil moisture are optimal. They race to complete their life cycles before the long dry season begins.",
+        "maplink": "40.522843,-122.240585"
+    },
+    {
         "fullstartdate": "202604010700",
         "date": "20260401",
         "url": "https://www.bing.com/th?id=OHR.JapaneseTreeFrog_EN-US6527297660_1920x1080.jpg",
@@ -70,16 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LoganCreek_EN-US6075548781",
         "copyright": "Logan Creek Suspension Bridge, West Coast Trail, Canada (© Tandem Stock/Adobe Stock)",
         "copyrightKeyword": "West Coast Trail hike",
-        "hsh": "9554185b1fe871743a04e93d3a57df41",
-        "description": "Running along the remote southwest coast of Vancouver Island in Canada, the West Coast Trail is one of the country's most legendary hikes. Located in British Columbia's Pacific Rim National Park Reserve, the trail stretches about 47 miles through rainforest, beaches, and rocky shoreline. It was established in 1907 as a lifesaving route for shipwreck survivors along what sailors once called the 'Graveyard of the Pacific.'"
-    },
-    {
-        "fullstartdate": "202603250700",
-        "date": "20260325",
-        "url": "https://www.bing.com/th?id=OHR.ManateeSpring_EN-US1203685327_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ManateeSpring_EN-US1203685327",
-        "copyright": "Juvenile manatees in a freshwater spring, Crystal River, Florida (© Gregory Sweeney/Getty Images)",
-        "copyrightKeyword": "Manatee Appreciation Day",
-        "hsh": "a234c9d543fad0e0151d056f6fc31351"
+        "hsh": "9554185b1fe871743a04e93d3a57df41"
     }
 ]

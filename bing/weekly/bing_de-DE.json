@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202604022200",
+        "date": "20260403",
+        "url": "https://www.bing.com/th?id=OHR.ArmbrugBridge_DE-DE4018943683_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ArmbrugBridge_DE-DE4018943683",
+        "copyright": "Armbrug‑Brücke, Amsterdam, Niederlande (© Alexander Spatari/Getty Images)",
+        "copyrightKeyword": "Armbrug‑Brücke Amsterdam",
+        "hsh": "c7e3434fac8fd173aa882aa2cdfb66a5",
+        "description": "Nicht alle Brücken sind spektakulär, manche überzeugen jedoch durch ihre Atmosphäre. Ein Beispiel ist die Armbrug in Amsterdam, die Besucher begrüßt, wenn sie den Oudezijds Voorburgwal überqueren. Sie verdankt ihren Namen der Oudezijds Armsteeg, einer schmalen, historischen Gasse in der Altstadt, die seit Jahrhunderten die Häuserblöcke rund um die Warmoesstraat mit den Grachten verbindet. Die Brücke selbst ist schlicht und solide gebaut und auf den Alltag ausgelegt.",
+        "maplink": "52.375378,4.900051"
+    },
+    {
         "fullstartdate": "202604012200",
         "date": "20260402",
         "url": "https://www.bing.com/th?id=OHR.WildflowerValley_DE-DE5324757091_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.RadioCityHall_DE-DE9579600716",
         "copyright": "Radio City Music Hall in New York City, USA (© Clarence Holmes Photography/Alamy)",
         "copyrightKeyword": "Welttheatertag",
-        "hsh": "ff60785b818be2a7971023b7bd5fe41d",
-        "description": "Manchmal genügt ein erster Blick, um zu spüren, wie sehr ein Ort die Fantasie beflügelt. Das Innere der Radio City Music Hall mit seinen warmen Farben und geschwungenen Linien entführt in den Glanz des New York der 1930er‑Jahre. Dieses Bild fängt genau jene Faszination ein, die jedes Jahr am 27. März im Mittelpunkt des Welttheatertags steht.",
-        "maplink": "40.759968,-73.979912"
-    },
-    {
-        "fullstartdate": "202603252300",
-        "date": "20260326",
-        "url": "https://www.bing.com/th?id=OHR.LoganCreek_DE-DE9430213551_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LoganCreek_DE-DE9430213551",
-        "copyright": "Logan Creek Suspension Bridge, West Coast Trail, Kanada (© Tandem Stock/Adobe Stock)",
-        "copyrightKeyword": "West Coast Trail Wanderweg",
-        "hsh": "b53539dec3ec11b2dda09a33e6407302"
+        "hsh": "ff60785b818be2a7971023b7bd5fe41d"
     }
 ]

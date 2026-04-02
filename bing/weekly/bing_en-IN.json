@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202604021830",
+        "date": "20260403",
+        "url": "https://www.bing.com/th?id=OHR.ArmbrugBridge_EN-IN5224260925_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ArmbrugBridge_EN-IN5224260925",
+        "copyright": "Armbrug bridge, Amsterdam, Netherlands (© Alexander Spatari/Getty Images)",
+        "copyrightKeyword": "Armbrug bridge Amsterdam",
+        "hsh": "e9456da988281fbf229fa2f01ef90e30",
+        "description": "Some bridges in Amsterdam just get you across a canal. The Armbrug does more—it seems to wave hello as you pass. Nestled over the Oudezijds Voorburgwal canal, its name, meaning 'arm bridge,' refers to the nearby Oudezijds Armsteeg (Old Side Arm Alley), not a literal limb, but it's easy to imagine it greeting cyclists and pedestrians along the way.",
+        "maplink": "52.375378,4.900051"
+    },
+    {
         "fullstartdate": "202604011830",
         "date": "20260402",
         "url": "https://www.bing.com/th?id=OHR.WildflowerValley_EN-IN5256127708_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.RadioCityHall_EN-IN3942844565",
         "copyright": "Radio City Music Hall in New York City, United States (© Clarence Holmes Photography/Alamy)",
         "copyrightKeyword": "World Theatre Day",
-        "hsh": "9f735708a69c0a4bcd0c78095d672c86",
-        "description": "At first glance, there's no doubt that the interior of Radio City Music Hall pulls you in and cranks up the excitement. It feels like stepping straight into the sun in the middle of New York City, United States—an Art Deco fever dream of how the 1930s imagined the future. This rush of awe is celebrated every 27 March as World Theatre Day.",
-        "maplink": "40.759968,-73.979912"
-    },
-    {
-        "fullstartdate": "202603251830",
-        "date": "20260326",
-        "url": "https://www.bing.com/th?id=OHR.LoganCreek_EN-IN3774408675_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LoganCreek_EN-IN3774408675",
-        "copyright": "Logan Creek Suspension Bridge, West Coast Trail, Canada (© Tandem Stock/Adobe Stock)",
-        "copyrightKeyword": "West Coast Trail hike",
-        "hsh": "47275123577ed45baffaa725fe90259d"
+        "hsh": "9f735708a69c0a4bcd0c78095d672c86"
     }
 ]
