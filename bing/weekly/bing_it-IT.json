@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202604032200",
+        "date": "20260404",
+        "url": "https://www.bing.com/th?id=OHR.CastleBlossoms_IT-IT1656060709_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.CastleBlossoms_IT-IT1656060709",
+        "copyright": "Castello di Hirosaki con fiori di ciliegio, Hirosaki, Giappone (© Glenn Waters/Getty Images)",
+        "copyrightKeyword": "Castello Hirosaki",
+        "hsh": "5a0e62ab8b952c1b6406918d06e5c8f9",
+        "description": "Benvenuti nella terra del Sol Levante. Il Castello di Hirosaki, completato nel 1611 sotto il dominio del clan Tsugaru, un’influente famiglia di samurai, è uno degli esempi più suggestivi di architettura feudale giapponese. Nel corso dei secoli, incendi, riparazioni e ricostruzioni ne hanno trasformato l’aspetto, ma la fortezza rimase in uso fino alla fine del sistema feudale nel XIX secolo. Più che una semplice reliquia, il castello testimonia il potere locale e l’eleganza del design del periodo Edo. In Giappone queste strutture non erano solo difese militari, ma anche centri amministrativi e simboli dell’autorità dei daimyo.",
+        "maplink": "40.609463,140.467545"
+    },
+    {
         "fullstartdate": "202604022200",
         "date": "20260403",
         "url": "https://www.bing.com/th?id=OHR.ArmbrugBridge_IT-IT1501163550_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.CapeBuffalo_IT-IT4967996112",
         "copyright": "Bufalo africano, Cratere di Ngorongoro, Tanzania (© jesuss8/500px/Getty Images)",
         "copyrightKeyword": "Syncerus caffer",
-        "hsh": "1efd63055f335921e33136ded55e0393",
-        "description": "Il bufalo africano, creatura potente e imponente, popola le savane e le zone umide della Tanzania, in particolare all’interno della Ngorongoro Conservation Area (NCA). Conosciuto per le sue grandi corna ricurve e la mole massiccia, è uno dei “Big Five” africani (bufalo, elefante, leopardo, rinoceronte, leone) ed è ampiamente rispettato per la forza e resistenza. La NCA, sito del Patrimonio Mondiale dell’UNESCO, offre uno scenario spettacolare e ricco dal punto di vista ecologico per osservare questi formidabili erbivori.",
-        "maplink": "-3.064646,35.381698"
-    },
-    {
-        "fullstartdate": "202603262300",
-        "date": "20260327",
-        "url": "https://www.bing.com/th?id=OHR.RadioCityHall_IT-IT8882732527_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.RadioCityHall_IT-IT8882732527",
-        "copyright": "Radio City Music Hall, New York City, USA (© Clarence Holmes Photography/Alamy)",
-        "copyrightKeyword": "Giornata Mondiale del Teatro",
-        "hsh": "6aac17bdce3777c368c88990f3f57386"
+        "hsh": "1efd63055f335921e33136ded55e0393"
     }
 ]
