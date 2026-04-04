@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202604042200",
+        "date": "20260405",
+        "url": "https://www.bing.com/th?id=OHR.LithuaniaEggs_ES-ES5469812629_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LithuaniaEggs_ES-ES5469812629",
+        "copyright": "Coloridos huevos de Pascua artesanales de madera, Vilna, Lituania (© maximkabb/Getty Images)",
+        "copyrightKeyword": "Domingo de Pascua",
+        "hsh": "7eafb1fe5f28e88731d92360cc7eb657",
+        "description": "Domingo de Pascua se vive como una fiesta de primavera, de mesa compartida y de detalles hechos con calma. Una de sus costumbres más queridas es decorar huevos, pintándolos o tiñéndolos, y jugando con motivos geométricos y florales. El gesto es sencillo, pero convierte una tarde cualquiera en un plan creativo y familiar. También es una excusa para estrenar la luz de la temporada y llenar la casa de pequeñas piezas únicas."
+    },
+    {
         "fullstartdate": "202604032200",
         "date": "20260404",
         "url": "https://www.bing.com/th?id=OHR.GrouseGuff_ES-ES5279399090_1920x1080.jpg",
@@ -69,17 +79,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.Sevillaweek_ES-ES1707696944",
         "copyright": "Catedral de Sevilla, Andalucía (© sedmak/Getty Images)",
         "copyrightKeyword": "Semana Santa 2026",
-        "hsh": "18e1b3fc37d4108d95a421ce5058ac4e",
-        "description": "El inicio de la Semana Santa marca un cambio sutil en la atmósfera. Las ciudades españolas empiezan a mostrar un ritmo diferente y el visitante percibe esa mezcla de expectación y tradición que caracteriza estos días. La imagen de la Catedral de Sevilla sirve como puerta de entrada a un patrimonio que combina historia, arte y una forma única de vivir la cultura.",
-        "maplink": "37.3848,-5.9892"
-    },
-    {
-        "fullstartdate": "202603272300",
-        "date": "20260328",
-        "url": "https://www.bing.com/th?id=OHR.CapeBuffalo_ES-ES1313712620_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.CapeBuffalo_ES-ES1313712620",
-        "copyright": "Búfalo africano, cráter del Ngorongoro, Tanzania (© jesuss8/500px/Getty Images)",
-        "copyrightKeyword": "Búfalo africano",
-        "hsh": "3f76ff28e68d05e2e0439966c181c76f"
+        "hsh": "18e1b3fc37d4108d95a421ce5058ac4e"
     }
 ]

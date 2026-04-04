@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202604042300",
+        "date": "20260404",
+        "url": "https://www.bing.com/th?id=OHR.LithuaniaEggs_EN-GB6303335759_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LithuaniaEggs_EN-GB6303335759",
+        "copyright": "Colourful handmade wooden Easter eggs, Vilnius, Lithuania (© maximkabb/Getty Images)",
+        "copyrightKeyword": "Easter Sunday",
+        "hsh": "ecb64b609d73eede77ea4f3bc39763dc",
+        "description": "What follows 40 days of waiting is not a spectacle, but a chapter rooted in belief. Easter Sunday arrives at the end of Lent, carrying forward ideas of life over death and the promise of renewal. For Christians, today marks the resurrection of Jesus Christ and brings Holy Week to a close. It's a turning point, both spiritual and symbolic."
+    },
+    {
         "fullstartdate": "202604032300",
         "date": "20260403",
         "url": "https://www.bing.com/th?id=OHR.NPFortnight2026_EN-GB6135344631_1920x1080.jpg",
@@ -74,16 +84,5 @@
         "hsh": "95ae20c716443dbe65898a2c816f7c41",
         "description": "At 1 a.m. today, time performs a magic trick. Blink, and it's 2 a.m. That missing hour marks the start of British Summer Time (BST), when the clocks in the United Kingdom move forward to make the most of longer spring and summer days.",
         "maplink": "51.513824,-0.140751"
-    },
-    {
-        "fullstartdate": "202603280000",
-        "date": "20260328",
-        "url": "https://www.bing.com/th?id=OHR.CapeBuffalo_EN-GB5085555398_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.CapeBuffalo_EN-GB5085555398",
-        "copyright": "African buffalo, Ngorongoro Crater, Tanzania (© jesuss8/500px/Getty Images)",
-        "copyrightKeyword": "African buffalo",
-        "hsh": "2f8a6d90ce2c26d13c7b41cc5769adf1",
-        "description": "The African buffalo, a powerful and imposing creature, roams the savannas and wetlands of Tanzania, particularly within the Ngorongoro Conservation Area (NCA). Known for their large, curved horns and massive size, they are one of Africa's 'Big Five' (buffalo, elephant, leopard, rhino, lion) and are widely respected for their strength and resilience. The NCA, a UNESCO World Heritage Site, offers a dramatic and ecologically rich setting for observing these formidable herbivores.",
-        "maplink": "-3.064646,35.381698"
     }
 ]
