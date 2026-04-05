@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202604050700",
+        "date": "20260405",
+        "url": "https://www.bing.com/th?id=OHR.LithuaniaEggs_EN-US5074250791_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LithuaniaEggs_EN-US5074250791",
+        "copyright": "Colorful handmade wooden Easter eggs, Vilnius, Lithuania (© maximkabb/Getty Images)",
+        "copyrightKeyword": "Easter Sunday",
+        "hsh": "6f11a81a3648f4f2e43e084afeaa5d49",
+        "description": "What follows 40 days of waiting is not a spectacle, but a chapter rooted in belief. Easter Sunday arrives at the end of Lent, carrying forward ideas of life over death and the promise of renewal. For Christians, today marks the resurrection of Jesus Christ and brings Holy Week to a close. It's a turning point, both spiritual and symbolic."
+    },
+    {
         "fullstartdate": "202604040700",
         "date": "20260404",
         "url": "https://www.bing.com/th?id=OHR.GrouseGuff_EN-US4212457538_1920x1080.jpg",
@@ -69,17 +79,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PeggysLighthouse_EN-US6365734559",
         "copyright": "Peggy's Point Lighthouse, Atlantic Coast, Nova Scotia, Canada (© Prashanth Bala/Shutterstock)",
         "copyrightKeyword": "Peggys Point Lighthouse",
-        "hsh": "9cfe50dab2dc55d804d1035370e1334d",
-        "description": "Peggy's Cove is a small yet captivating village on the rugged coast of Nova Scotia that offers a glimpse of life by the sea. The village's most famous landmark is Peggy's Point Lighthouse—also known as Peggy's Cove Lighthouse—first established in 1868 and replaced by the current structure in 1915. For over a century, it has guided ships through the ever-changing Atlantic waters, serving as a timeless symbol of coastal life. The surrounding landscape, with its windswept beauty and crashing waves, feels almost untouched by time.",
-        "maplink": "44.492264,-63.918158"
-    },
-    {
-        "fullstartdate": "202603280700",
-        "date": "20260328",
-        "url": "https://www.bing.com/th?id=OHR.CapeBuffalo_EN-US6304011521_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.CapeBuffalo_EN-US6304011521",
-        "copyright": "African buffalo, Ngorongoro Crater, Tanzania (© jesuss8/500px/Getty Images)",
-        "copyrightKeyword": "African buffalo",
-        "hsh": "5c8290d9644cbea71905fd8f9cdbffcb"
+        "hsh": "9cfe50dab2dc55d804d1035370e1334d"
     }
 ]

@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202604052200",
+        "date": "20260406",
+        "url": "https://www.bing.com/th?id=OHR.CastleBlossoms_DE-DE0573709826_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.CastleBlossoms_DE-DE0573709826",
+        "copyright": "Burg Hirosaki mit Kirschblüten, Hirosaki, Japan (© Glenn Waters/Getty Images)",
+        "copyrightKeyword": "Japanische Burg",
+        "hsh": "50145f32e3f96f5544dc7ff36eadf5ce",
+        "description": "Ein Blick nach Nordjapan um das Jahr 1600 zeigt eine Welt, in der Burgen das Zentrum des öffentlichen Lebens bildeten. Sie dienten als Verwaltungszentren, schützten Handelswege und waren fest in den Alltag eingebunden. Daran knüpft der japanische Burgentag an, der jedes Jahr am 6. April begangen wird. Der Hintergrund ist ein Wortspiel: Vier und sechs heißen im Japanischen „shi“ und „ro“ – zusammen ergeben sie „shiro“, das Wort für Burg.",
+        "maplink": "40.609463,140.467545"
+    },
+    {
         "fullstartdate": "202604042200",
         "date": "20260405",
         "url": "https://www.bing.com/th?id=OHR.SorbianEasterEggs_DE-DE8747014000_1920x1080.jpg",
@@ -69,16 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.IndiaCranes_DE-DE4037064772",
         "copyright": "Jungfernkraniche, Indien (© Axel Gomille/Nature Picture Library)",
         "copyrightKeyword": "Jungfernkranich",
-        "hsh": "b35556f3c5104b1ceef87275577d05b8",
-        "description": "Schon seine Silhouette verrät, warum der Jungfernkranich als einer der elegantesten Kraniche gilt. Mit seinem schlanken Hals, den langen Beinen und dem fein gezeichneten Gefieder wirkt er beinahe schwerelos, besonders im warmen Licht der Abendsonne. Eindrucksvoll sind auch seine geschmeidigen Balztänze, bei denen sich die Paare in synchronen Sprüngen und Rufen präsentieren. Obwohl er zu den kleinsten Kranichen der Welt zählt, legt er erstaunliche Distanzen zurück: Von den weiten Steppen Kasachstans zieht er zu seinen Winterquartieren in Indien, Nepal und Teilen Afrikas."
-    },
-    {
-        "fullstartdate": "202603282300",
-        "date": "20260329",
-        "url": "https://www.bing.com/th?id=OHR.UlmClock_DE-DE3821756896_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.UlmClock_DE-DE3821756896",
-        "copyright": "Astronomische Uhr am Rathaus von Ulm, Baden‑Württemberg (© Tomekbudujedomek/Getty Images)",
-        "copyrightKeyword": "Sommerzeit",
-        "hsh": "074503cd8c2c7012269c7f0818843af8"
+        "hsh": "b35556f3c5104b1ceef87275577d05b8"
     }
 ]
