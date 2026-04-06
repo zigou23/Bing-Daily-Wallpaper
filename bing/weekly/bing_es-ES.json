@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202604062200",
+        "date": "20260407",
+        "url": "https://www.bing.com/th?id=OHR.BeaverPortrait_ES-ES5819494132_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BeaverPortrait_ES-ES5819494132",
+        "copyright": "Castor europeo, Alemania (© Andyworks/Getty Images)",
+        "copyrightKeyword": "Castor europeo",
+        "hsh": "3bff685e5763d36e49a0b20a8747f759",
+        "description": "El castor europeo es una de las especies más singulares de la fauna alemana. Deja una huella inconfundible en ríos y humedales mediante árboles roídos y diques construidos con ramas y barro. Es famoso por sus incisivos anaranjados, reforzados con hierro, que crecen sin parar y le permiten talar árboles con gran precisión. Sus presas crean lagunas que benefician a aves, anfibios y peces, por lo que se le considera un verdadero ingeniero del ecosistema."
+    },
+    {
         "fullstartdate": "202604052200",
         "date": "20260406",
         "url": "https://www.bing.com/th?id=OHR.CastleBlossoms_ES-ES5659720575_1920x1080.jpg",
@@ -69,17 +79,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ParadiseCave_ES-ES7693918794",
         "copyright": "Gruta de Paraíso, Parque Nacional Phong Nha-Kẻ Bàng, Vietnam (© Pakawat Thongcharoen/Getty Images)",
         "copyrightKeyword": "Gruta de Paraíso Vietnam",
-        "hsh": "839c021c4543c41af555389fff7d1d28",
-        "description": "La Gruta de Paraíso se abre en el corazón del Parque Nacional Phong Nha-Kẻ Bàng (Vietnam), como un corredor de luz tenue y silencio mineral. Sus galerías se despliegan con una armonía natural que parece surgida de un sueño antiguo y sereno. Las estalactitas y estalagmitas forman figuras que evocan templos olvidados y paisajes petrificados creados por el tiempo y el agua. La amplitud de algunas cámaras acentúa la sensación de entrar en un mundo aparte donde cada forma cuenta una historia que la naturaleza ha escrito con paciencia infinita. La atmósfera es fresca y envolvente y la luz resalta los matices de piedra que cambian a cada paso.",
-        "maplink": "16.835573,106.743552"
-    },
-    {
-        "fullstartdate": "202603292200",
-        "date": "20260330",
-        "url": "https://www.bing.com/th?id=OHR.IndiaCranes_ES-ES2181628479_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.IndiaCranes_ES-ES2181628479",
-        "copyright": "Grullas damiselas, India (© Axel Gomille/Nature Picture Library)",
-        "copyrightKeyword": "Grulla damisela",
-        "hsh": "fbdd5ebee3d9c1d287e750758ad23323"
+        "hsh": "839c021c4543c41af555389fff7d1d28"
     }
 ]

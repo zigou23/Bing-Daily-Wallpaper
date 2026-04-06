@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202604062300",
+        "date": "20260406",
+        "url": "https://www.bing.com/th?id=OHR.BeaverPortrait_EN-GB6712196855_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BeaverPortrait_EN-GB6712196855",
+        "copyright": "Beaver, Germany (© Andyworks/Getty Images)",
+        "copyrightKeyword": "Beaver rodent",
+        "hsh": "bb2233a34e7c09a34acae6f2e1747986",
+        "description": "International Beaver Day, celebrated on 7 April, recognises a hardworking little engineer quietly building a better world—one stick at a time. The beaver—buck-toothed, paddle-tailed and famously industrious—has been reshaping freshwater landscapes for millions of years. With their iron-reinforced orange incisors, these skilled rodents cut down trees and build dams that slow the flow of water, improve its quality and create wetlands that support a remarkable diversity of life. Their sturdy lodges, made of branches and mud, have underwater entrances that protect them from predators and keep their families safe."
+    },
+    {
         "fullstartdate": "202604052300",
         "date": "20260405",
         "url": "https://www.bing.com/th?id=OHR.CastleBlossoms_EN-GB6482644898_1920x1080.jpg",
@@ -71,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ParadiseCave_EN-GB6349854312",
         "copyright": "Paradise Cave, Phong Nha-Ke Bang National Park, Vietnam (© Pakawat Thongcharoen/Getty Images)",
         "copyrightKeyword": "Paradise Cave Vietnam",
-        "hsh": "6b9d638ddc10d38d112e61c60f69d445",
-        "description": "Paradise Cave makes a powerful first impression the moment visitors step inside. This vast limestone cavern lies deep within Phong Nha-Ke Bang National Park in central Vietnam, a region marked by rugged mountains and countless hidden caves. Stretching over 19 miles, Paradise Cave is one of Asia's longest dry caves, and its scale is immediately apparent. High ceilings rise above the walkways, and layered patterns formed by mineral-rich water over millions of years line the walls.",
-        "maplink": "16.835573,106.743552"
-    },
-    {
-        "fullstartdate": "202603292300",
-        "date": "20260329",
-        "url": "https://www.bing.com/th?id=OHR.IndiaCranes_EN-GB3610624769_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.IndiaCranes_EN-GB3610624769",
-        "copyright": "Demoiselle cranes, India (© Axel Gomille/Nature Picture Library)",
-        "copyrightKeyword": "Demoiselle cranes",
-        "hsh": "7b03db1043b0677aa57e44bf301df719"
+        "hsh": "6b9d638ddc10d38d112e61c60f69d445"
     }
 ]

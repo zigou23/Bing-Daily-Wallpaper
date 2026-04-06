@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202604062200",
+        "date": "20260407",
+        "url": "https://www.bing.com/th?id=OHR.BeaverPortrait_DE-DE0531168900_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BeaverPortrait_DE-DE0531168900",
+        "copyright": "Biber, Deutschland (© Andyworks/Getty Images)",
+        "copyrightKeyword": "Biber Nagetiere",
+        "hsh": "0c6046ccdc7040eb0873d9eda7d4a24f",
+        "description": "Am 7. April feiern wir den Internationalen Tag des Bibers – ein guter Anlass, diesen fleißigen Landschaftsarchitekten näher kennenzulernen. Mit seinen kräftigen, orangefarbenen Schneidezähnen und dem breiten Schwanz formt der Biber Wasserlandschaften wie kaum ein anderes Tier. Durch das Fällen von Bäumen und den Bau von Dämmen entstehen Teiche und Feuchtgebiete, die zahlreichen Arten Lebensraum bieten."
+    },
+    {
         "fullstartdate": "202604052200",
         "date": "20260406",
         "url": "https://www.bing.com/th?id=OHR.CastleBlossoms_DE-DE0573709826_1920x1080.jpg",
@@ -69,17 +79,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ParadiseCave_DE-DE0326941666",
         "copyright": "Paradise Cave, Nationalpark Phong Nha‑Ke Bang, Vietnam (© Pakawat Thongcharoen/Getty Images)",
         "copyrightKeyword": "Paradise Cave Vietnam",
-        "hsh": "bbac3bd046df84f7991a57d9eaf77acf",
-        "description": "Die Paradise Cave (auch „Paradieshöhle“) im Nationalpark Phong Nha‑Ke Bang beeindruckt bereits nach den ersten Schritten. Die weitläufige Kalksteinhöhle liegt tief in Zentralvietnam in einer Landschaft aus schroffen Bergen und verborgenen Karstkammern. Mit einer Länge von rund 31 Kilometern zählt sie zu den längsten trockenen Höhlen Asiens – diese Dimensionen sind sofort spürbar. Über den Wegen öffnen sich mächtige Hallen, während die Wände über Millionen von Jahren gewachsenen Tropfsteinstrukturen geprägt sind.",
-        "maplink": "16.835573,106.743552"
-    },
-    {
-        "fullstartdate": "202603292200",
-        "date": "20260330",
-        "url": "https://www.bing.com/th?id=OHR.IndiaCranes_DE-DE4037064772_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.IndiaCranes_DE-DE4037064772",
-        "copyright": "Jungfernkraniche, Indien (© Axel Gomille/Nature Picture Library)",
-        "copyrightKeyword": "Jungfernkranich",
-        "hsh": "b35556f3c5104b1ceef87275577d05b8"
+        "hsh": "bbac3bd046df84f7991a57d9eaf77acf"
     }
 ]
