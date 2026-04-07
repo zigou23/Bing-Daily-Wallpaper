@@ -1,12 +1,23 @@
 [
     {
+        "fullstartdate": "202604072200",
+        "date": "20260408",
+        "url": "https://www.bing.com/th?id=OHR.SeattleSunrise_IT-IT2054215926_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SeattleSunrise_IT-IT2054215926",
+        "copyright": "Seattle, Washington, USA (© Jim Patterson/Tandem Stills + Motion)",
+        "copyrightKeyword": "Seattle",
+        "hsh": "95f7984723321c34575a8ee157af9e40",
+        "description": "Il lungomare di Seattle, nello Stato americano di Washington, sembra sospeso tra mare e cielo, illuminato da una luce soffusa. La città prende il nome dal capo Si'ahl, leader dei popoli Duwamish e Suquamish. Strade ripide conducono ai moli su Elliott Bay, dominati dallo Space Needle, mentre il Pike Place Market, fondato nel 1907, resta il cuore della vita cittadina e delle sue tradizioni. Seattle è stata anche la culla di grandi icone musicali: qui nacque Jimi Hendrix, destinato a rivoluzionare la chitarra elettrica.",
+        "maplink": "47.60323,-122.330276"
+    },
+    {
         "fullstartdate": "202604062200",
         "date": "20260407",
         "url": "https://www.bing.com/th?id=OHR.BeaverPortrait_IT-IT2053120485_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.BeaverPortrait_IT-IT2053120485",
         "copyright": "Castoro, Germania (© Andyworks/Getty Images)",
         "copyrightKeyword": "Castoro animale",
-        "hsh": "8abbb46ebc02601cf535af47e9410122",
+        "hsh": "b804c8dd930ba39fdbad177dd90ec861",
         "description": "La «Giornata internazionale del castoro», celebrata il 7 aprile, rende omaggio a questo piccolo ma instancabile ingegnere che migliora il mondo, un ramo alla volta. Con i loro incisivi sporgenti e rinforzati come il ferro, la coda a pala e la proverbiale laboriosità, i castori trasformano i paesaggi d'acqua dolce da milioni di anni. Abbattono gli alberi e costruiscono dighe che rallentano il flusso dei corsi d’acqua, li purificano e creano zone umide ricche di vita."
     },
     {
@@ -70,16 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.JapaneseTreeFrog_IT-IT5938893273",
         "copyright": "Raganella giapponese, Ipomea rosa (© Tetsuya Tanooka/Getty Images)",
         "copyrightKeyword": "Raganella giapponese",
-        "hsh": "b79f453d217856dd21d3109853722038",
-        "description": "Oggi è il pesce d’aprile… ma qui il pesce non c’entra nulla! Niente scherzi: la protagonista è una piccola rana che sembra uscita da una fiaba. Le rane svolgono un ruolo fondamentale negli ecosistemi, aiutano a controllare gli insetti e costituiscono preziosi indicatori della salute ambientale, perché la loro pelle permeabile reagisce rapidamente ai cambiamenti dell’acqua e dell’aria. Quando le rane stanno bene, spesso significa che anche l’ambiente che le circonda è in equilibrio."
-    },
-    {
-        "fullstartdate": "202603302200",
-        "date": "20260331",
-        "url": "https://www.bing.com/th?id=OHR.ParadiseCave_IT-IT3577786918_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ParadiseCave_IT-IT3577786918",
-        "copyright": "Paradise Cave, Parco Nazionale di Phong Nha-Kẻ Bàng, Vietnam (© Pakawat Thongcharoen/Getty Images)",
-        "copyrightKeyword": "Paradise Cave Vietnam",
-        "hsh": "d2727c448bc6b576a0a7c91fc364f6c5"
+        "hsh": "b79f453d217856dd21d3109853722038"
     }
 ]

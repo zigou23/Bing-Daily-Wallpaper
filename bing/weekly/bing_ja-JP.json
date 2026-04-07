@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202604071500",
+        "date": "20260408",
+        "url": "https://www.bing.com/th?id=OHR.SeattleSunrise_JA-JP6952248899_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SeattleSunrise_JA-JP6952248899",
+        "copyright": "シアトル市のウォーターフロント, 米国 ワシントン州 (© Jim Patterson/Tandem Stills + Motion)",
+        "copyrightKeyword": "シアトル市のウォーターフロント",
+        "hsh": "90e23f8c73364f03c18bf1ea4ade47e2",
+        "description": "ここは、米国ワシントン州北西部に位置するシアトル。市名は、この地に先住していたネイティブ・アメリカン、スクアミシュ族のシアトル酋長の名前に由来します。古くから貿易港として栄え、グローバルに展開する企業の誕生した地としても知られています。また、緑豊かな森林と自然に囲まれているため、「エメラルド・シティ」の愛称でも親しまれています。",
+        "maplink": "47.60323,-122.330276"
+    },
+    {
         "fullstartdate": "202604061500",
         "date": "20260407",
         "url": "https://www.bing.com/th?id=OHR.BeaverPortrait_JA-JP3724788571_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.WildflowerValley_JA-JP7238318324",
         "copyright": "セントラル・バレー, 米国 カリフォルニア州 (© Jeff Lewis/Tandem Stills + Motion)",
         "copyrightKeyword": "セントラル・バレー",
-        "hsh": "3aeb403ea43882944c89655a5f948227",
-        "description": "ここは米国カリフォルニア州のセントラル・バレー。現在は約 5 万 km² の面積を誇る世界有数の農業地帯ですが、かつては原生の野花に覆われた草原でした。今でも春になると、カリフォルニアポピーをはじめ、さまざまな野花が芽吹き、色とりどりの花が咲き乱れます。数週間だけ、現代の農地と、かつて野花に覆われていた草原の風景が重なって現れます。",
-        "maplink": "40.522843,-122.240585"
-    },
-    {
-        "fullstartdate": "202603301500",
-        "date": "20260331",
-        "url": "https://www.bing.com/th?id=OHR.ParadiseCave_JA-JP9838102190_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ParadiseCave_JA-JP9838102190",
-        "copyright": "天国の洞, ベトナム (© Pakawat Thongcharoen/Getty Images)",
-        "copyrightKeyword": "天国の洞",
-        "hsh": "db05e66d6671b6597b3f905f9e0271cd"
+        "hsh": "3aeb403ea43882944c89655a5f948227"
     }
 ]
