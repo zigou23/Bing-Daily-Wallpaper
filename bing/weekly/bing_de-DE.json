@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202604082200",
+        "date": "20260409",
+        "url": "https://www.bing.com/th?id=OHR.WalesWaterfall_DE-DE3914943057_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WalesWaterfall_DE-DE3914943057",
+        "copyright": "Wasserfall Sgwd yr Eira, Bannau-Brycheiniog-Nationalpark, Wales (© Guy Edwardes/Nature Picture Library)",
+        "copyrightKeyword": "Bannau-Brycheiniog-Nationalpark",
+        "hsh": "a1a3cfe6807dffdd1c3ae0ed7fe28017",
+        "description": "Der Wasserfall Sgwd yr Eira stürzt in klaren Linien über eine Felswand im Süden von Wales. Sein walisischer Name bedeutet „Wasserfall des Schnees“ und verweist auf den hellen Schleier, der über den dunklen Stein gleitet. Besonders an diesem Ort ist die unmittelbare Nähe: Ein schmaler Pfad führt direkt hinter den Wasserfall, sodass man ihn aus einer seltenen Perspektive erleben kann – mit dem Klang, dem Licht und der kühlen Gischt ganz nah.",
+        "maplink": "51.78174,-3.554824"
+    },
+    {
         "fullstartdate": "202604072200",
         "date": "20260408",
         "url": "https://www.bing.com/th?id=OHR.SeattleSunrise_DE-DE4194725859_1920x1080.jpg",
@@ -69,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.WildflowerValley_DE-DE5324757091",
         "copyright": "Wildblumenblüte, Central Valley, Kalifornien, USA (© Jeff Lewis/Tandem Stills + Motion)",
         "copyrightKeyword": "Kalifornisches Längstal",
-        "hsh": "c487de045de3eb36118294954d0b4c09",
-        "description": "Mit dem Frühling erwacht im Kalifornischen Längstal (Central Valley) ein besonderes Naturschauspiel. Das über 700 Kilometer lange Tal, eines der wichtigsten landwirtschaftlichen Zentren der USA, zeigt im März und April eine ganz andere Seite. Dann beginnen unzählige heimische Wildblumen zu keimen, sobald Regen, Bodenfeuchte und Temperaturen günstig zusammenwirken. Viele dieser Arten gehören zum ursprünglichen Grasland, das einst große Teile des Tals prägte und heute nur noch in Schutzgebieten, auf ungenutzten Flächen oder als schmale Streifen zwischen Feldern erhalten ist. Ihre Samen können jahrzehntelang im Boden ruhen und geduldig auf den Moment warten, an dem die Bedingungen stimmen.",
-        "maplink": "40.522843,-122.240585"
-    },
-    {
-        "fullstartdate": "202603312200",
-        "date": "20260401",
-        "url": "https://www.bing.com/th?id=OHR.JapaneseTreeFrog_DE-DE8961418037_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.JapaneseTreeFrog_DE-DE8961418037",
-        "copyright": "Japanischer Laubfrosch in einer rosa Prunkwinde (© Tetsuya Tanooka/Getty Images)",
-        "copyrightKeyword": "Japanischer Laubfrosch",
-        "hsh": "de70e42454b48fc81d40e47ead7b3aaa"
+        "hsh": "c487de045de3eb36118294954d0b4c09"
     }
 ]
