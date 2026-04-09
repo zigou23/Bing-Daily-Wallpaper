@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202604090700",
+        "date": "20260409",
+        "url": "https://www.bing.com/th?id=OHR.WalesWaterfall_EN-US7187055503_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WalesWaterfall_EN-US7187055503",
+        "copyright": "Sgwd yr Eira waterfall, Bannau Brycheiniog National Park, Wales (© Guy Edwardes/Nature Picture Library)",
+        "copyrightKeyword": "Bannau Brycheiniog National Park",
+        "hsh": "fd4885bbc711d89100a24be977015fef",
+        "description": "Water spills in clean lines at Sgwd yr Eira, one of South Wales' most distinctive waterfalls. Its Welsh name means 'Waterfall of Snow,' referring to the pale curtain of water sliding over the rock face. What sets this waterfall apart is access. A narrow path leads visitors behind the falling water, immersing them in sound, light, and movement at close range. Sgwd yr Eira lies within Bannau Brycheiniog National Park, often called 'Waterfall Country' for its network of rivers and falls carved into wooded gorges. Well-marked trails connect this waterfall to others along the River Hepste, making it a popular stop on longer hikes. Above the valleys, the landscape opens into rolling moorland and long ridgelines where upland paths are shaped by wind and changing weather. These contrasts define the park, where open, exposed uplands give way to sheltered water, tying the landscape together.",
+        "maplink": "51.78174,-3.554824"
+    },
+    {
         "fullstartdate": "202604080700",
         "date": "20260408",
         "url": "https://www.bing.com/th?id=OHR.SeattleSunrise_EN-US6729754002_1920x1080.jpg",
@@ -69,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.WildflowerValley_EN-US6579657743",
         "copyright": "Wildflower bloom, Central Valley, California (© Jeff Lewis/Tandem Stills + Motion)",
         "copyrightKeyword": "Central Valley California",
-        "hsh": "303860a83220a2ee4808df5b9a09ba67",
-        "description": "Spring announces itself across California's Central Valley with the first bursts of wildflowers following the winter rains. Stretching roughly 450 miles from north to south and covering about 20,000 square miles, the valley is one of the world's most productive agricultural regions. In early spring, however, an older identity briefly resurfaces. From March through April, native annuals such as goldfields, tidy tips, and owl's clover quickly germinate once temperature and soil moisture are optimal. They race to complete their life cycles before the long dry season begins.",
-        "maplink": "40.522843,-122.240585"
-    },
-    {
-        "fullstartdate": "202604010700",
-        "date": "20260401",
-        "url": "https://www.bing.com/th?id=OHR.JapaneseTreeFrog_EN-US6527297660_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.JapaneseTreeFrog_EN-US6527297660",
-        "copyright": "Japanese tree frog in a pink morning glory (© Tetsuya Tanooka/Getty Images)",
-        "copyrightKeyword": "National Frog Month",
-        "hsh": "23d14cf9501ce40edca20437f5f98e4b"
+        "hsh": "303860a83220a2ee4808df5b9a09ba67"
     }
 ]
