@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202604112200",
+        "date": "20260412",
+        "url": "https://www.bing.com/th?id=OHR.SpaceTrails_DE-DE4428560014_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SpaceTrails_DE-DE4428560014",
+        "copyright": "Lichterspuren der Erde, aufgenommen von der Internationalen Raumstation (© NASA)",
+        "copyrightKeyword": "Internationaler Tag der bemannten Raumfahrt",
+        "hsh": "17678ce55ed1293fad7a050e56d46ac6",
+        "description": "Der Internationale Tag der bemannten Raumfahrt erinnert an einen Wendepunkt der Menschheitsgeschichte. Am 12. April 1961 umkreiste Juri Gagarin erstmals die Erde und kehrte sicher zurück – ein Ereignis, das den Beginn der modernen Raumfahrt markierte. Ein deutscher Meilenstein folgte 1978, als Sigmund Jähn im Rahmen des sowjetischen Interkosmos‑Programms als erster Deutscher ins All flog. Während seines Aufenthalts führte er wissenschaftliche Experimente durch und sammelte Erfahrungen, die den internationalen Austausch in der Raumfahrt förderten."
+    },
+    {
         "fullstartdate": "202604102200",
         "date": "20260411",
         "url": "https://www.bing.com/th?id=OHR.PlayaPapagayo_DE-DE0494036913_1920x1080.jpg",
@@ -71,16 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SorbianEasterEggs_DE-DE8747014000",
         "copyright": "Bunt bemalte sorbische Ostereier aus Deutschland (© Mark Poltermann/Getty Images)",
         "copyrightKeyword": "Ostersonntag",
-        "hsh": "5d39f840a9aec6ae25493c5e6b400d18",
-        "description": "Der Ostersonntag markiert für viele Menschen einen Moment des Innehaltens. Nach den dunklen Winterwochen steht das Fest für Aufbruch, Zuversicht und neues Leben. In Deutschland sind damit verschiedene Traditionen verbunden: Eier werden gefärbt und versteckt, und vielerorts versammeln sich Menschen rund um Osterfeuer, die symbolisch für Reinigung, Licht und den Übergang in den Frühling stehen. Ostern wird so zu einer stillen Zeit des Wandels – geprägt von Besinnung, Gemeinschaft und dem Bewahren alter Bräuche."
-    },
-    {
-        "fullstartdate": "202604032200",
-        "date": "20260404",
-        "url": "https://www.bing.com/th?id=OHR.GrouseGuff_DE-DE7947498839_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.GrouseGuff_DE-DE7947498839",
-        "copyright": "Birkhähne auf einem Balzplatz, Estland (© Sven Zacek/Nature Picture Library)",
-        "copyrightKeyword": "Birkhuhn",
-        "hsh": "3155b4d4ecab8e4f779c1b83ad342e5d"
+        "hsh": "5d39f840a9aec6ae25493c5e6b400d18"
     }
 ]
