@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202604122200",
+        "date": "20260413",
+        "url": "https://www.bing.com/th?id=OHR.BorregoStars_FR-FR4220178429_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BorregoStars_FR-FR4220178429",
+        "copyright": "La Voie lactée au-dessus du parc d’État du désert d’Anza-Borrego, Californie, États-Unis (© Kevin Key/Slworking/Getty Images)",
+        "copyrightKeyword": "Voie lactée",
+        "hsh": "a52198d49808e9d1551d5d80760d1062",
+        "description": "Lorsque les lumières s’éteignent, l’univers peut enfin briller à nouveau. Chaque mois d’avril, la Semaine internationale du ciel étoilé nous invite à redécouvrir la nuit et à mieux comprendre pourquoi elle mérite d’être protégée. Depuis 2003, cet événement nous rappelle que l’excès de lumière artificielle perturbe la faune, notre sommeil, notre consommation d’énergie… et notre capacité à voir les étoiles. Réduire l’éclairage ne signifie pas renoncer à la sécurité : il suffit de mieux éclairer, pas davantage.",
+        "maplink": "33.100494,-116.301331"
+    },
+    {
         "fullstartdate": "202604112200",
         "date": "20260412",
         "url": "https://www.bing.com/th?id=OHR.SpaceTrails_FR-FR5305463637_1920x1080.jpg",
@@ -69,16 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LithuaniaEggs_FR-FR0098459124",
         "copyright": "Œufs de Pâques décorés à la main, Vilnius, Lituanie (© maximkabb/Getty Images)",
         "copyrightKeyword": "Lundi de Pâques",
-        "hsh": "eb1e75cc2050d72660125344eb601470",
-        "description": "Après quarante jours de retenue et un week-end de célébrations, le Lundi de Pâques arrive comme un souffle d’air frais. Moins solennel que la veille, il prolonge pourtant l’idée de renouveau : un jour où l’on s’éloigne doucement de la symbolique religieuse pour renouer avec la nature et le temps partagé. Dans certaines régions, ce lundi évoque encore les anciennes processions rurales ou les premiers pique-niques de printemps."
-    },
-    {
-        "fullstartdate": "202604042200",
-        "date": "20260405",
-        "url": "https://www.bing.com/th?id=OHR.PontArdeche_FR-FR1915151137_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PontArdeche_FR-FR1915151137",
-        "copyright": "Pont d’Arc, Ardèche (© Gael Fontaine/Getty Images)",
-        "copyrightKeyword": "arche naturelle Pont d’Arc Ardèche",
-        "hsh": "a7c1bda1e6aaf3ff06e176a42d0ab2d3"
+        "hsh": "eb1e75cc2050d72660125344eb601470"
     }
 ]
