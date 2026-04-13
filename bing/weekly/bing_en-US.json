@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202604130700",
+        "date": "20260413",
+        "url": "https://www.bing.com/th?id=OHR.BorregoStars_EN-US8252825773_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BorregoStars_EN-US8252825773",
+        "copyright": "Milky Way over Anza-Borrego Desert State Park, California (© Kevin Key/Slworking)/Getty Images)",
+        "copyrightKeyword": "International Dark Sky Week",
+        "hsh": "071a0eac65c6016fbf278548b9349781",
+        "description": "When the lights go down, the universe puts on a show. International Dark Sky Week, celebrated each April, invites everyone to rediscover the night and learn why darkness is worth protecting. Launched in 2003, the week highlights how excessive artificial light affects wildlife, human health, energy use, and our ability to see the stars. Fewer lights don't mean less safety—smart, well-designed lighting can do both.",
+        "maplink": "33.100494,-116.301331"
+    },
+    {
         "fullstartdate": "202604120700",
         "date": "20260412",
         "url": "https://www.bing.com/th?id=OHR.SpaceTrails_EN-US8009082939_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.CastleBlossoms_EN-US6202844131",
         "copyright": "Hirosaki Castle with cherry blossoms, Hirosaki, Japan (© Glenn Waters/Getty Images)",
         "copyrightKeyword": "Japanese castle",
-        "hsh": "bda9e72ee50dbbd6a7ea44dd3592e1e6",
-        "description": "Picture northern Japan in the early 1600s. Castles stood at the crossroads of politics, trade, and governance. Across generations, they came to reflect not only moments of tension, but also endurance, adaptation, and everyday life. Castle Day, celebrated on April 6, was created to highlight that layered past. The day uses a simple phonetic link—shi (4) and ro (6)—to form Shiro-no-Hi, because 'shiro' means castle in Japanese. It's a reminder that castles had serious jobs long before they had cinematic appeal.",
-        "maplink": "40.609463,140.467545"
-    },
-    {
-        "fullstartdate": "202604050700",
-        "date": "20260405",
-        "url": "https://www.bing.com/th?id=OHR.LithuaniaEggs_EN-US5074250791_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LithuaniaEggs_EN-US5074250791",
-        "copyright": "Colorful handmade wooden Easter eggs, Vilnius, Lithuania (© maximkabb/Getty Images)",
-        "copyrightKeyword": "Easter Sunday",
-        "hsh": "6f11a81a3648f4f2e43e084afeaa5d49"
+        "hsh": "bda9e72ee50dbbd6a7ea44dd3592e1e6"
     }
 ]
