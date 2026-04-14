@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202604142200",
+        "date": "20260415",
+        "url": "https://www.bing.com/th?id=OHR.VanGoghFields_DE-DE5579767701_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.VanGoghFields_DE-DE5579767701",
+        "copyright": "Van-Gogh-Ausstellung in den Carrières des Lumières, Les Baux‑de‑Provence, Frankreich (© Patrick Aventurier/Getty Images)",
+        "copyrightKeyword": "Weltkunsttag",
+        "hsh": "1d2e3faa02a4c2b827f4c2cbb65db992",
+        "description": "Kunst begleitet uns überall – in Bildern, Räumen und Ideen, die unsere Wahrnehmung herausfordern. Der Weltkunsttag am 15. April erinnert daran, wie sehr Kreativität unsere Kultur prägt und ständig neue Ausdrucksformen findet. Ein eindrucksvolles Beispiel dafür ist die immersive Van‑Gogh‑Inszenierung in den Carrières des Lumières im südfranzösischen Les Baux‑de‑Provence, wo seine Werke 2019–2020 über monumentale Steinwände projiziert wurden und Besuchern das Gefühl gaben, mitten in den Bildern zu stehen und förmlich durch die Pinselstriche zu wandeln."
+    },
+    {
         "fullstartdate": "202604132200",
         "date": "20260414",
         "url": "https://www.bing.com/th?id=OHR.OcellarisClownfish_DE-DE4824723739_1920x1080.jpg",
@@ -70,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SeattleSunrise_DE-DE4194725859",
         "copyright": "Seattle, Washington, USA (© Jim Patterson/Tandem Stills + Motion)",
         "copyrightKeyword": "Seattle USA",
-        "hsh": "1bdc8724674f960b7f34d649985eec68",
-        "description": "Über Seattle im US-Bundesstaat Washington liegt ein warmes Licht, das die Uferlinie sanft modelliert. Die Piers reichen weit in die Elliott Bay hinein, während sich die Stadt dahinter über die ansteigenden Straßen den Hügel hinaufzieht. Über der Skyline setzt die Space Needle einen markanten Akzent und ist längst zu einem Sinnbild der Region geworden. Seattle verdankt seinen Namen Chief Si’ahl, einem Anführer der Duwamish und Suquamish, deren Geschichte eng mit diesem Küstenabschnitt verbunden ist. Oberhalb der Waterfront befindet sich der Pike Place Market, der seit 1907 ein Ort des Handels und der Begegnung ist.",
-        "maplink": "47.60323,-122.330276"
-    },
-    {
-        "fullstartdate": "202604062200",
-        "date": "20260407",
-        "url": "https://www.bing.com/th?id=OHR.BeaverPortrait_DE-DE0531168900_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BeaverPortrait_DE-DE0531168900",
-        "copyright": "Biber, Deutschland (© Andyworks/Getty Images)",
-        "copyrightKeyword": "Biber Nagetiere",
-        "hsh": "0c6046ccdc7040eb0873d9eda7d4a24f"
+        "hsh": "1bdc8724674f960b7f34d649985eec68"
     }
 ]
