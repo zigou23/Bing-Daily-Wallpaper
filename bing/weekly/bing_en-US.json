@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202604150700",
+        "date": "20260415",
+        "url": "https://www.bing.com/th?id=OHR.VanGoghFields_EN-US8748933044_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.VanGoghFields_EN-US8748933044",
+        "copyright": "The Carrières des Lumières exhibit of Vincent Van Gogh, Les Baux-de-Provence, France (© Patrick Aventurier/Getty Images)",
+        "copyrightKeyword": "World Art Day",
+        "hsh": "7686b646b69e95c95f4fe156ca781c02",
+        "description": "Art surrounds us. Creativity and self-expression are part of human identity and mold our past and future. While some might dedicate their lives to the arts, others are the recipients of what artists channel. World Art Day on April 15 celebrates this ever-flowing link between artistic creations and society that shapes our cultures."
+    },
+    {
         "fullstartdate": "202604140700",
         "date": "20260414",
         "url": "https://www.bing.com/th?id=OHR.OcellarisClownfish_EN-US8509728179_1920x1080.jpg",
@@ -71,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SeattleSunrise_EN-US6729754002",
         "copyright": "Seattle, Washington (© Jim Patterson/Tandem Stills + Motion)",
         "copyrightKeyword": "Seattle",
-        "hsh": "4ba2fe468c0a83879954d429775829fb",
-        "description": "Seattle's waterfront seems suspended between sea and sky as soft light settles on the horizon. The city is named after Chief Si'ahl, a leader of the Duwamish and Suquamish peoples, whose legacy remains important to the region's identity. Steep streets lead down to piers that sweep across Elliott Bay. Rising above the shoreline, the Space Needle stands out as the city's most recognizable landmark. Pike Place Market, founded in 1907, overlooks the waterfront and continues to anchor daily life and long-held traditions.",
-        "maplink": "47.60323,-122.330276"
-    },
-    {
-        "fullstartdate": "202604070700",
-        "date": "20260407",
-        "url": "https://www.bing.com/th?id=OHR.BeaverPortrait_EN-US6459336252_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BeaverPortrait_EN-US6459336252",
-        "copyright": "Beaver, Germany (© Andyworks/Getty Images)",
-        "copyrightKeyword": "beaver rodent",
-        "hsh": "742190ac62a0a32cbc4a45ed45776210"
+        "hsh": "4ba2fe468c0a83879954d429775829fb"
     }
 ]
