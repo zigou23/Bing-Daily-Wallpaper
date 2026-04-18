@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202604180400",
+        "date": "20260418",
+        "url": "https://www.bing.com/th?id=OHR.MaoiStatues_EN-CA3351921457_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MaoiStatues_EN-CA3351921457",
+        "copyright": "Moai statue quarry, Rano Raraku, Easter Island, Chile (© Gavin Hellier/Alamy)",
+        "copyrightKeyword": "World Heritage Day",
+        "hsh": "ed8b2b86e6a51ec1f93a4b8d5d7528dc",
+        "description": "Today, on World Heritage Day, attention turns to places that tell humanity's shared story—protected for their exceptional cultural or natural value. One of them rises from volcanic stone on Easter Island, Chile. At Rano Raraku, the slopes of an extinct volcano became the workshop where nearly all of the island's famous moai were carved. The image captures this remarkable quarry, where half-finished figures emerge from the rock, frozen mid-creation.",
+        "maplink": "-27.127001,-109.292099"
+    },
+    {
         "fullstartdate": "202604170400",
         "date": "20260417",
         "url": "https://www.bing.com/th?id=OHR.FlyingFoxMom_EN-CA2731028083_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.StanleySakura_EN-CA3455290957",
         "copyright": "A canopy of cherry blossoms in Stanley Park, Vancouver (© WendyNordvikCarr/Getty Images)",
         "copyrightKeyword": "Sakura Days Japan Fair",
-        "hsh": "d6ec08cd737644b1269d08a27dcdf7d5",
-        "description": "Every spring, a gentle colour shift sweeps through Vancouver and other provinces. Streets and parks begin to blush pink as hundreds of cherry trees bloom—many descended from ornamental varieties gifted by Japan during the 20th century. For a few weeks, petals drift through the air like confetti. Ever noticed how the city seems to pause for them? Cameras and phones out? Yep, that moment has arrived.",
-        "maplink": "49.304268,-123.144257"
-    },
-    {
-        "fullstartdate": "202604100400",
-        "date": "20260410",
-        "url": "https://www.bing.com/th?id=OHR.FoxSiblings_EN-CA3037431100_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FoxSiblings_EN-CA3037431100",
-        "copyright": "Two young red foxes at Karula National Park, Estonia (© Sven Zacek/Nature Picture Library)",
-        "copyrightKeyword": "Siblings day",
-        "hsh": "305f9d597461a4836d20b6ff87c42160"
+        "hsh": "d6ec08cd737644b1269d08a27dcdf7d5"
     }
 ]

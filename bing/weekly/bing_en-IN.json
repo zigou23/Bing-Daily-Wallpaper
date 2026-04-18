@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202604181830",
+        "date": "20260419",
+        "url": "https://www.bing.com/th?id=OHR.SpitiValley2026_EN-IN0228621600_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SpitiValley2026_EN-IN0228621600",
+        "copyright": "Spiti Valley, Himachal Pradesh (© Rahul Wedpathak/500px/Getty Images)",
+        "copyrightKeyword": "Spiti Valley",
+        "hsh": "a438ff65ec57c96447e6ed34490182d9",
+        "description": "Some places greet you gently. Spiti Valley starts by taking your breath away—literally. Sitting above 3,000 metres in Himachal Pradesh near the Tibetan border, this cold desert largely skips rain and goes straight to extremes.",
+        "maplink": "32.246815,78.035095"
+    },
+    {
         "fullstartdate": "202604171830",
         "date": "20260418",
         "url": "https://www.bing.com/th?id=OHR.MaoiStatues_EN-IN8684829616_1920x1080.jpg",
@@ -71,16 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SpaceTrails_EN-IN2633640541",
         "copyright": "City lights streak below, taken from the International Space Station (© NASA)",
         "copyrightKeyword": "International Day of Human Space Flight",
-        "hsh": "21170bad5c629088de61cd61b5082195",
-        "description": "Today, the world marks the International Day of Human Space Flight, a United Nations observance honouring the first human journey into space and the start of the space age for humanity. The date recalls 12 April, 1961, when Yuri Gagarin orbited Earth, proving that people could leave the planet and return safely."
-    },
-    {
-        "fullstartdate": "202604101830",
-        "date": "20260411",
-        "url": "https://www.bing.com/th?id=OHR.PlayaPapagayo_EN-IN2411013538_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PlayaPapagayo_EN-IN2411013538",
-        "copyright": "Papagayo Beach, Lanzarote, Canary Islands, Spain (© Gavin Hellier/Getty Images)",
-        "copyrightKeyword": "Lanzarote Canary Islands Spain",
-        "hsh": "9f351a01bc0895c86d8f6a449a0353df"
+        "hsh": "21170bad5c629088de61cd61b5082195"
     }
 ]
