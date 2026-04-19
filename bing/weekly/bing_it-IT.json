@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202604192200",
+        "date": "20260420",
+        "url": "https://www.bing.com/th?id=OHR.SunsetKiva_IT-IT3389674511_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SunsetKiva_IT-IT3389674511",
+        "copyright": "Tramonto nel parco nazionale delle Canyonlands, Moab, Utah, USA (© Jason Hatfield/Tandem Stills + Motion)",
+        "copyrightKeyword": "Parco Nazionale delle Canyonlands",
+        "hsh": "240fb2227d52b0a72f336506736b30d9",
+        "description": "Nel cuore selvaggio dello Stato americano dello Utah, dove la notte accende il deserto, il parco nazionale di Canyonlands, vicino a Moab, ricorda che l’avventura continua anche dopo il tramonto. Quando la luce svanisce, i fiumi Colorado e Green si snodano tra canyon scolpiti, altipiani e guglie rocciose. Grazie alla posizione remota e al ridotto inquinamento luminoso, il cielo si trasforma in un tappeto di stelle. Designato come «International Dark Sky Park», è ideale per osservare la Via Lattea, visibile anche da semplici punti panoramici.",
+        "maplink": "38.213604,-109.902534"
+    },
+    {
         "fullstartdate": "202604182200",
         "date": "20260419",
         "url": "https://www.bing.com/th?id=OHR.TranBA_IT-IT3445564294_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BorregoStars_IT-IT3311374255",
         "copyright": "La Via Lattea sopra l'Anza-Borrego Desert State Park, California, USA (© Kevin Key/Slworking/Getty Images)",
         "copyrightKeyword": "Il cielo",
-        "hsh": "1905363dabb48bc87fb90b797aa975da",
-        "description": "Quando le luci si spengono, l’universo dà spettacolo. La «Settimana internazionale del cielo scuro», celebrata ogni aprile, invita a riscoprire la notte e a comprendere le ragioni per cui il buio vada protetto. L'iniziativa, lanciata nel 2003, evidenzia come l’eccessiva luce artificiale influisca sulla fauna, sulla salute, sul risparmio energetico e sull’osservazione degli astri. Una riduzione dei punti luce non comporta necessariamente una minore sicurezza; al contrario, un’illuminazione intelligente può garantire entrambi i benefici.",
-        "maplink": "33.100494,-116.301331"
-    },
-    {
-        "fullstartdate": "202604112200",
-        "date": "20260412",
-        "url": "https://www.bing.com/th?id=OHR.SpaceTrails_IT-IT2393301171_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SpaceTrails_IT-IT2393301171",
-        "copyright": "Luci della città scorrono sotto, immortalate dalla Stazione Spaziale  Internazionale (© NASA)",
-        "copyrightKeyword": "Giornata internazionale del volo spaziale umano",
-        "hsh": "0c36000a1ab3aab90670d07643761055"
+        "hsh": "1905363dabb48bc87fb90b797aa975da"
     }
 ]
