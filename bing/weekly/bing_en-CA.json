@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202604200400",
+        "date": "20260420",
+        "url": "https://www.bing.com/th?id=OHR.MapleExtraction_EN-CA4012556624_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MapleExtraction_EN-CA4012556624",
+        "copyright": "Buckets on maple trees collecting sap for maple syrup (© capecodphoto/Getty Images)",
+        "copyrightKeyword": "Maple syrup",
+        "hsh": "e2d1dd5e5e6f8b582738b264dfee6b44",
+        "description": "Have you ever enjoyed a plate of pancakes drizzled with maple syrup? That sweet pour starts its journey on a maple tree, following a very particular rhythm in nature. In late winter, sugar maple trees are tapped when days rise above freezing and nights drop below—this freeze–thaw cycle pushes sap through the tree. The clear sap is collected, then boiled down for hours—about 40 litres to make just 1 litre of syrup. The season is brief, often lasting only a few weeks between February and April, so timing matters. Traditional buckets still exist, though many producers now use vacuum tubing to improve efficiency."
+    },
+    {
         "fullstartdate": "202604190400",
         "date": "20260419",
         "url": "https://www.bing.com/th?id=OHR.TranBA_EN-CA3645190031_1920x1080.jpg",
@@ -71,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BorregoStars_EN-CA4735972360",
         "copyright": "Milky Way over Anza-Borrego Desert State Park, California, United States (© Kevin Key/Slworking)/Getty Images)",
         "copyrightKeyword": "International Dark Sky Week",
-        "hsh": "c03739aa9b4eadb854686074edc18bca",
-        "description": "When the lights go down, the universe puts on a show. International Dark Sky Week, celebrated each April, invites everyone to rediscover the night and learn why darkness is worth protecting. Launched in 2003, the week highlights how excessive artificial light affects wildlife, human health, energy use and our ability to see the stars. Fewer lights don't mean less safety—smart, well-designed lighting can do both.",
-        "maplink": "33.100494,-116.301331"
-    },
-    {
-        "fullstartdate": "202604120400",
-        "date": "20260412",
-        "url": "https://www.bing.com/th?id=OHR.SpaceTrails_EN-CA4327583525_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SpaceTrails_EN-CA4327583525",
-        "copyright": "City lights streak below, taken from the International Space Station (© NASA)",
-        "copyrightKeyword": "International Day of Human Space Flight",
-        "hsh": "59efa0ab9563951aa75f8e8be6af3347"
+        "hsh": "c03739aa9b4eadb854686074edc18bca"
     }
 ]

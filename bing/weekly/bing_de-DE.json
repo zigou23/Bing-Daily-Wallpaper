@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202604202200",
+        "date": "20260421",
+        "url": "https://www.bing.com/th?id=OHR.SpringHedgehog_DE-DE1345910488_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SpringHedgehog_DE-DE1345910488",
+        "copyright": "Europäischer Igel, Frankreich (© Klein & Hubert/Nature Picture Library)",
+        "copyrightKeyword": "Europäischer Igel",
+        "hsh": "d2f894287a7552a3e4abaaf4da22a5eb",
+        "description": "Mit dem Frühling zeigt sich ein vertrauter Bewohner unserer Landschaften. Der Europäische Igel, der hier in Frankreich zu sehen ist, ist ein überwiegend nachtaktives Tier, das meist allein lebt. Mit seiner feinen Nase und seinem guten Gehör durchstreift er Wiesen, Gärten und Waldränder auf der Suche nach Insekten, Würmern oder Schnecken. Droht Gefahr, zieht er sich zusammen und formt eine schützende Stachelkugel – eine einfache, aber wirkungsvolle Strategie. Nach dem Winterschlaf kehren Igel in vielen Teilen Europas in ihre Reviere zurück. Ihr Stoffwechsel fährt nun wieder hoch und sie müssen rasch neue Energiereserven aufbauen."
+    },
+    {
         "fullstartdate": "202604192200",
         "date": "20260420",
         "url": "https://www.bing.com/th?id=OHR.SaarbrueckenRathaus_DE-DE1197352085_1920x1080.jpg",
@@ -71,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.OcellarisClownfish_DE-DE4824723739",
         "copyright": "Gewöhnlicher Clownfisch in einer Seeanemone, Raja-Ampat-Inseln, Indonesien (© Magnus Lundgren/Nature Picture Library)",
         "copyrightKeyword": "Seeanemone",
-        "hsh": "f27f312d7f139de7fcc12c61f0c7337b",
-        "description": "Manchmal entfalten sich die faszinierendsten Naturbeziehungen in Momenten, die man leicht übersehen könnte. Seeanemonen wirken wie filigrane Unterwasserblumen, doch sie sind Tiere und eng mit Quallen und Korallen verwandt. Fest verankert auf Felsen oder Riffen nutzen sie ihre Tentakel mit winzigen Nesselzellen, um Beute zu fangen, was für die meisten Fische gefährlich wird. Auf dem Bild lugt ein Gewöhnlicher Clownfisch aus seiner Wirtsanemone in den Raja‑Ampat‑Inseln Indonesiens hervor, einem abgelegenen Archipel im westlichen Pazifik und Teil des Korallendreiecks. Eine spezielle Schleimschicht schützt den Fisch vor den Nesselzellen und macht die Anemone zu einem sicheren Zufluchtsort. Im Gegenzug profitiert sie von Schutz und Futterresten. Solche Partnerschaften zeigen, wie fein abgestimmt das Zusammenleben im Korallenriff ist.",
-        "maplink": "-0.233312,130.507889"
-    },
-    {
-        "fullstartdate": "202604122200",
-        "date": "20260413",
-        "url": "https://www.bing.com/th?id=OHR.ChiffchaffSpring_DE-DE4997065919_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ChiffchaffSpring_DE-DE4997065919",
-        "copyright": "Zilpzalp, Deutschland (© Andyworks/Getty Images)",
-        "copyrightKeyword": "Zilpzalp",
-        "hsh": "7f2c8433b102577c64b88dfad63e15af"
+        "hsh": "f27f312d7f139de7fcc12c61f0c7337b"
     }
 ]

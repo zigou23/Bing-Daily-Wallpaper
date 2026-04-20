@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202604200300",
+        "date": "20260420",
+        "url": "https://www.bing.com/th?id=OHR.SunsetKiva_PT-BR9614863102_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SunsetKiva_PT-BR9614863102",
+        "copyright": "Pôr do sol no Parque Nacional de Canyonlands, Moab, Utah, Estados Unidos (© Jason Hatfield/Tandem Stills + Motion)",
+        "copyrightKeyword": "Parque Nacional de Canyonlands",
+        "hsh": "1682d29c102e02166147997a94ac5f34",
+        "description": "Que tal trocar a rotina por poeira de trilha e um teto de estrelas? No Parque Nacional de Canyonlands, em Utah, Estados Unidos, o cenário da imagem combina cânions e noites tão escuras que parecem recém-inventadas. Quando o sol se despede, o parque vira um observatório natural: a Via Láctea surge inteira, sem pedir licença. Não por acaso, Canyonlands tem o título de Parque Internacional de Céu Escuro, concedido pela DarkSky International a áreas com proteção rigorosa contra poluição luminosa e alta qualidade de céu noturno. Com pouca luz artificial, basta um mirante ou uma caminhada curta para assistir a um show de estrelas que a cidade costuma esconder."
+    },
+    {
         "fullstartdate": "202604190300",
         "date": "20260419",
         "url": "https://www.bing.com/th?id=OHR.InDay_PT-BR0410116846_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BorregoStars_PT-BR7203223722",
         "copyright": "Via Láctea sobre o Parque Estadual do Deserto de Anza-Borrego, Califórnia, Estados Unidos (© Kevin Key/Slworking/Getty Images)",
         "copyrightKeyword": "Semana Internacional do Ceu Escuro",
-        "hsh": "411e0965c860b4cd6b5bd36e30cad14f",
-        "description": "Apagou a luz? O universo agradece. Abril traz a Semana Internacional do Céu Escuro, criada em 2003 para lembrar que a noite também precisa de proteção. Iluminação artificial em excesso confunde aves migratórias, altera ciclos de insetos e até bagunça nosso sono. A ideia, claro, não é viver no breu. Planejando bem, dá para iluminar ruas e casas sem roubar o brilho das estrelas."
-    },
-    {
-        "fullstartdate": "202604120300",
-        "date": "20260412",
-        "url": "https://www.bing.com/th?id=OHR.SpaceTrails_PT-BR7404949008_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SpaceTrails_PT-BR7404949008",
-        "copyright": "Luzes vistas da Estação Espacial Internacional (© NASA)",
-        "copyrightKeyword": "Dia Internacional do Voo Espacial Humano",
-        "hsh": "0a3a27aa7bbf0a0da70f5bf2f17596f1"
+        "hsh": "411e0965c860b4cd6b5bd36e30cad14f"
     }
 ]
