@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202604210700",
+        "date": "20260421",
+        "url": "https://www.bing.com/th?id=OHR.SpringHedgehog_EN-US1312133826_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SpringHedgehog_EN-US1312133826",
+        "copyright": "European hedgehog, France (© Klein & Hubert/Nature Picture Library)",
+        "copyrightKeyword": "european hedgehog",
+        "hsh": "5e9e3724c006b5793a5f6867285b66df",
+        "description": "Spring arrives with a small, spiky ambassador: the European hedgehog, spotted here in France. Part cuddle, part survival gear, this tiny forager is mostly nocturnal and usually solitary, guided mainly by smell and sound. Its job description is simple: roam, sniff through leaf litter, and vacuum up invertebrates like worms, beetles, slugs, and caterpillars—the kind of snacks that keep ecosystems running and gardeners smiling. When danger shows up, it doesn't negotiate or flee. It curls into a tight ball and lets its spines do the talking."
+    },
+    {
         "fullstartdate": "202604200700",
         "date": "20260420",
         "url": "https://www.bing.com/th?id=OHR.SunsetKiva_EN-US1031978429_1920x1080.jpg",
@@ -70,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.OcellarisClownfish_EN-US8509728179",
         "copyright": "Common clownfish in a sea anemone, Raja Ampat Islands, Indonesia (© Magnus Lundgren/Nature Picture Library)",
         "copyrightKeyword": "sea anemone",
-        "hsh": "1fe6d252e53d1ad3beacf8fde9fe9733",
-        "description": "Sea anemones may look like underwater flowers, but they're actually animals—close relatives of jellyfish and corals. Anchored to rocks or reefs, they use a sticky base and a crown of waving tentacles armed with tiny stingers to capture passing prey. Those stings can paralyze small fish, yet one famous neighbor is immune.",
-        "maplink": "-0.233312,130.507889"
-    },
-    {
-        "fullstartdate": "202604130700",
-        "date": "20260413",
-        "url": "https://www.bing.com/th?id=OHR.BorregoStars_EN-US8252825773_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BorregoStars_EN-US8252825773",
-        "copyright": "Milky Way over Anza-Borrego Desert State Park, California (© Kevin Key/Slworking)/Getty Images)",
-        "copyrightKeyword": "International Dark Sky Week",
-        "hsh": "071a0eac65c6016fbf278548b9349781"
+        "hsh": "1fe6d252e53d1ad3beacf8fde9fe9733"
     }
 ]

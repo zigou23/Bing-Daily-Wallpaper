@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202604212200",
+        "date": "20260422",
+        "url": "https://www.bing.com/th?id=OHR.TartuEstonia_ES-ES2455762289_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TartuEstonia_ES-ES2455762289",
+        "copyright": "Reserva natural de Alam-Pedja, condado de Tartu, Estonia (© Sven Zacek/Nature Picture Library)",
+        "copyrightKeyword": "Día de la Tierra",
+        "hsh": "bff8566e1a5f7d1fb51b24b8ad58ab85",
+        "description": "El Día de la Tierra se celebra cada 22 de abril como una jornada dedicada a reflexionar sobre la relación entre la humanidad y el planeta. Desde su creación, esta fecha invita a tomar conciencia del valor de los ecosistemas y de la necesidad de protegerlos mediante gestos cotidianos y acciones colectivas.",
+        "maplink": "58.466962,26.199884"
+    },
+    {
         "fullstartdate": "202604202200",
         "date": "20260421",
         "url": "https://www.bing.com/th?id=OHR.SpringHedgehog_ES-ES2233278672_1920x1080.jpg",
@@ -70,16 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.VanGoghFields_ES-ES6924277283",
         "copyright": "La exposición Carrières des Lumières de Vincent van Gogh, Les Baux-de-Provence, Francia (© Patrick Aventurier/Getty Images)",
         "copyrightKeyword": "Día Mundial del Arte",
-        "hsh": "957d57363794aa35bff7c719c9cf0eb5",
-        "description": "Hoy, 15 de abril, se celebra el Día Mundial del Arte. Una fecha que recuerda el nacimiento de Leonardo da Vinci y destaca el papel del arte como lenguaje universal. Esta jornada invita a detenernos, observar y reflexionar sobre la creatividad humana, capaz de conectar culturas, épocas y miradas a través de pinturas y esculturas."
-    },
-    {
-        "fullstartdate": "202604132200",
-        "date": "20260414",
-        "url": "https://www.bing.com/th?id=OHR.OcellarisClownfish_ES-ES6754950938_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.OcellarisClownfish_ES-ES6754950938",
-        "copyright": "Pez payaso en una anémona de mar, islas Raja Ampat, Indonesia (© Magnus Lundgren/Nature Picture Library)",
-        "copyrightKeyword": "Pez payaso",
-        "hsh": "9263e321b5dc033e1aa50bd37737ee97"
+        "hsh": "957d57363794aa35bff7c719c9cf0eb5"
     }
 ]
