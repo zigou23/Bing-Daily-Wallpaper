@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202604222200",
+        "date": "20260423",
+        "url": "https://www.bing.com/th?id=OHR.HathawayCottage_DE-DE1846813831_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.HathawayCottage_DE-DE1846813831",
+        "copyright": "Anne Hathaway’s Cottage, Stratford‑upon‑Avon, England (© David Steele/Shutterstock)",
+        "copyrightKeyword": "Shakespeare‑Tag",
+        "hsh": "22d5d906e233993328d5af247943b1b7",
+        "description": "Der heutige Tag steht im Zeichen von William Shakespeare, einem der einflussreichsten Dramatiker der Literaturgeschichte. Der Shakespeare-Tag fällt auf dieses Datum, da Shakespeare am 23. April 1616 starb und dieser Tag zugleich als sein traditionell angenommenes Geburtsdatum im Jahr 1564 gilt. Seine Werke – von „Hamlet” bis „Romeo und Julia” – gehören bis heute zum festen Repertoire von Bühnen weltweit und prägen Theater, Unterricht und Sprache weit über den englischsprachigen Raum hinaus. Viele seiner Wendungen sind bis heute im alltäglichen Sprachgebrauch präsent und zeugen von der anhaltenden Wirkung seines Schaffens.",
+        "maplink": "52.190984,-1.732059"
+    },
+    {
         "fullstartdate": "202604212200",
         "date": "20260422",
         "url": "https://www.bing.com/th?id=OHR.TartuEstonia_DE-DE1682620724_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SkagitTulips_DE-DE0725960684",
         "copyright": "Tulpenfelder im Skagit Valley, Washington, USA (© Alan Majchrowicz/Getty Images)",
         "copyrightKeyword": "Skagit Valley Washington USA",
-        "hsh": "eb77617a762e9914632acd745176b1db",
-        "description": "Es gibt Landschaften, die sofort gute Laune machen – und Tulpenfelder gehören ganz sicher dazu. Im Skagit Valley im US‑Bundesstaat Washington ziehen sich bunte Streifen über weite Felder, als hätte jemand den Frühling großzügig über die Landschaft ausgegossen. Die Felder wirken nahezu endlos und laden dazu ein, kurz innezuhalten und die Farben auf sich wirken zu lassen. In der Region gibt es zwar auch ein bekanntes Tulpenfestival, doch die eigentliche Magie entsteht direkt auf den Feldern: in den klaren Linien, der Weite und dem ständigen Wechselspiel von Licht und Farbe.",
-        "maplink": "48.5,-122.033"
-    },
-    {
-        "fullstartdate": "202604142200",
-        "date": "20260415",
-        "url": "https://www.bing.com/th?id=OHR.VanGoghFields_DE-DE5579767701_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.VanGoghFields_DE-DE5579767701",
-        "copyright": "Van-Gogh-Ausstellung in den Carrières des Lumières, Les Baux‑de‑Provence, Frankreich (© Patrick Aventurier/Getty Images)",
-        "copyrightKeyword": "Weltkunsttag",
-        "hsh": "1d2e3faa02a4c2b827f4c2cbb65db992"
+        "hsh": "eb77617a762e9914632acd745176b1db"
     }
 ]
