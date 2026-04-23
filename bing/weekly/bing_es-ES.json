@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202604232200",
+        "date": "20260424",
+        "url": "https://www.bing.com/th?id=OHR.SlashPine_ES-ES3586366517_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SlashPine_ES-ES3586366517",
+        "copyright": "Bosque de pinares, Parque Nacional de los Everglades, Florida, EE. UU. (© Mary Liz Austin/Alamy)",
+        "copyrightKeyword": "Parque Nacional de los Everglades",
+        "hsh": "159bb49f67d8bf323e3f67f7d87a58a8",
+        "description": "Los pinares rocosos del Parque Nacional de los Everglades, en Florida, son uno de los paisajes más singulares del sur de Estados Unidos. Se desarrollan sobre ligeras elevaciones que permanecen fuera de las inundaciones estacionales, lo que permite el crecimiento de pinares abiertos con un sotobosque denso de palmito. Este entorno combina humedad, calor y suelos pobres, creando un refugio clave para aves, reptiles y pequeños mamíferos. La alternancia entre zonas secas y áreas encharcadas define un ecosistema dinámico, donde el fuego natural y el agua desempeñan un papel esencial en el equilibrio del paisaje.",
+        "maplink": "25.400611,-80.658833"
+    },
+    {
         "fullstartdate": "202604222200",
         "date": "20260423",
         "url": "https://www.bing.com/th?id=OHR.SantJordiBook_ES-ES2987257129_1920x1080.jpg",
@@ -69,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.FlyingFoxMom_ES-ES8542062394",
         "copyright": "Murciélago de cabeza gris llevando a su cría, Parque Yarra Bend, Australia (© Doug Gimesy/Nature Picture Library)",
         "copyrightKeyword": "Murciélago de cabeza gris",
-        "hsh": "5544e6bd7531a89d187a223a3cfce732",
-        "description": "Hoy contemplamos un murciélago de cabeza gris que cruza el cielo con su cría aferrada al cuerpo, en una escena tan insólita como tierna sobre el Parque Yarra Bend, en Australia. Esta especie, también llamada zorro volador, es de las más grandes y llama la atención por su cabeza plateada y sus grandes ojos. Se alimenta sobre todo de frutos y néctar, por lo que ayuda a dispersar semillas y a polinizar, mientras descansa en colonias ruidosas durante el día. Las crías nacen en primavera y, al principio, viajan pegadas a la madre en sus desplazamientos nocturnos.",
-        "maplink": "-37.798065,145.012222"
-    },
-    {
-        "fullstartdate": "202604152200",
-        "date": "20260416",
-        "url": "https://www.bing.com/th?id=OHR.SkagitTulips_ES-ES7111199326_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SkagitTulips_ES-ES7111199326",
-        "copyright": "Campos de tulipanes del valle de Skagit, Washington, EE. UU. (© Alan Majchrowicz/Getty Images)",
-        "copyrightKeyword": "Valle de Skagit",
-        "hsh": "69c4bd16c67c84cb4c56df169eb9d428"
+        "hsh": "5544e6bd7531a89d187a223a3cfce732"
     }
 ]

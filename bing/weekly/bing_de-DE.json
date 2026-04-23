@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202604232200",
+        "date": "20260424",
+        "url": "https://www.bing.com/th?id=OHR.GalapagosPenguins_DE-DE2195733852_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GalapagosPenguins_DE-DE2195733852",
+        "copyright": "Galápagos‑Pinguine beim Schwimmen, Galapagosinseln, Ecuador (© Henley Spiers/Nature Picture Library)",
+        "copyrightKeyword": "Galápagos-Pinguin",
+        "hsh": "4047d2d49a6ca9160da3bd5c7813fe3b",
+        "description": "Pinguine werden meist mit eisigen Regionen in Verbindung gebracht, doch die Galápagos‑Pinguine bilden eine bemerkenswerte Ausnahme. Als einzige Pinguinart reicht ihr natürliches Verbreitungsgebiet bis nördlich des Äquators. Beheimatet sind sie ausschließlich auf den Galapagosinseln, einem vulkanischen Archipel, das rund 1.000 Kilometer vor der Küste Ecuadors liegt.",
+        "maplink": "-0.859397,-91.215904"
+    },
+    {
         "fullstartdate": "202604222200",
         "date": "20260423",
         "url": "https://www.bing.com/th?id=OHR.HathawayCottage_DE-DE1846813831_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.FlyingFoxMom_DE-DE9791519824",
         "copyright": "Graukopf‑Flughund mit Jungtier, Yarra Bend Park, Melbourne, Australien (© Doug Gimesy/Nature Picture Library)",
         "copyrightKeyword": "Flughunde",
-        "hsh": "643019535744758b718b66db37a793b1",
-        "description": "Hoch oben in den Baumwipfeln klammert sich ein Jungtier fest an den Bauch seiner Mutter. Der Graukopf‑Flughund gehört zu den größten Vertretern der Fledertiere und ist in Australien heimisch. Obwohl er mit Fledermäusen verwandt ist, unterscheidet er sich deutlich von ihnen. Flughunde zählen zu einer eigenen Gruppe innerhalb der Fledertiere und nutzen in der Regel keine Echoortung. Stattdessen orientieren sie sich mithilfe ihres ausgeprägten Seh‑ und Geruchssinns, was eine Anpassung an ihre überwiegend pflanzliche Ernährung darstellt.",
-        "maplink": "-37.798065,145.012222"
-    },
-    {
-        "fullstartdate": "202604152200",
-        "date": "20260416",
-        "url": "https://www.bing.com/th?id=OHR.SkagitTulips_DE-DE0725960684_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SkagitTulips_DE-DE0725960684",
-        "copyright": "Tulpenfelder im Skagit Valley, Washington, USA (© Alan Majchrowicz/Getty Images)",
-        "copyrightKeyword": "Skagit Valley Washington USA",
-        "hsh": "eb77617a762e9914632acd745176b1db"
+        "hsh": "643019535744758b718b66db37a793b1"
     }
 ]

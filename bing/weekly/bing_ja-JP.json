@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202604231500",
+        "date": "20260424",
+        "url": "https://www.bing.com/th?id=OHR.SlashPine_JA-JP0980166238_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SlashPine_JA-JP0980166238",
+        "copyright": "エバーグレーズ国立公園, 米国 フロリダ州 (© Mary Liz Austin/Alamy)",
+        "copyrightKeyword": "アーバーデイ",
+        "hsh": "2e81bf251cb72014ee9d4e4f0fddf85b",
+        "description": "今日 4 月 24 日は米国のアーバーデイ（植樹祭）。1872 年に始まり、毎年 4 月の最終金曜日に祝われています。最初の開催日には、およそ 100 万本の木が植えられたといわれています。そして画像は、米国フロリダ州にあるエバーグレーズ国立公園。ユネスコの世界遺産に登録されており、オークやマツなどの木々や様々な野草といった豊かな植生を誇る世界最大級の湿地帯の一つです。",
+        "maplink": "25.286996,-80.898707"
+    },
+    {
         "fullstartdate": "202604221500",
         "date": "20260423",
         "url": "https://www.bing.com/th?id=OHR.HathawayCottage_JA-JP0891184783_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.FlyingFoxMom_JA-JP9261315523",
         "copyright": "ハイイロオオコウモリ, オーストラリア (© Doug Gimesy/Nature Picture Library)",
         "copyrightKeyword": "国際コウモリ感謝の日",
-        "hsh": "ea101fa5228b26214f371af7f8eabe26",
-        "description": "今日、4 月 17 日は「国際コウモリ感謝の日」です。日本ではあまりなじみがない記念日ですが、果物や昆虫を食べて生態系を支えているコウモリへの理解を深め、保全への意識を高めることを目的としています。そして画像は、オーストラリアで撮影された、赤ちゃんを抱えるハイイロオオコウモリ。オーストラリア最大級のコウモリで、翼は広げると 1m 以上にもなります。また、コウモリが使うことで知られる反響定位（エコーロケーション）は使用しない種であり、鋭い視覚と嗅覚を使って飛びます。",
-        "maplink": "-37.79762,145.012239"
-    },
-    {
-        "fullstartdate": "202604151500",
-        "date": "20260416",
-        "url": "https://www.bing.com/th?id=OHR.SkagitTulips_JA-JP9152402510_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SkagitTulips_JA-JP9152402510",
-        "copyright": "スカジットバレー, 米国 ワシントン州 (© Alan Majchrowicz/Getty Images)",
-        "copyrightKeyword": "スカジットバレー・チューリップフェスティバル",
-        "hsh": "061aa7545d91eefba982528a0de5ff6c"
+        "hsh": "ea101fa5228b26214f371af7f8eabe26"
     }
 ]
