@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202604240400",
+        "date": "20260424",
+        "url": "https://www.bing.com/th?id=OHR.SlashPine_EN-CA5488126378_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SlashPine_EN-CA5488126378",
+        "copyright": "Forest hammock of slash pine and saw palmetto, Everglades National Park, Florida, United States (© Mary Liz Austin/Alamy)",
+        "copyrightKeyword": "Arbor Day",
+        "hsh": "4a7d5520b93fdfa7080ce801eae2312e",
+        "description": "Arbor Day celebrates the quiet power of trees—the way they steady ecosystems, shelter wildlife, cool cities and shape the environments we rely on every day. Observed in the United States on the last Friday in April, the day encourages communities there—and in many other countries, where dates vary with the growing season—to plant, protect and care for forests of every kind.",
+        "maplink": "25.400611,-80.658833"
+    },
+    {
         "fullstartdate": "202604230400",
         "date": "20260423",
         "url": "https://www.bing.com/th?id=OHR.HathawayCottage_EN-CA5163724238_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.FlyingFoxMom_EN-CA2731028083",
         "copyright": "Grey-headed flying fox carrying her pup, Yarra Bend Park, Australia (© Doug Gimesy/Nature Picture Library)",
         "copyrightKeyword": "Bats",
-        "hsh": "8e8695f29db9326d6a87ebaed9f6d4b0",
-        "description": "On April 17, International Bat Appreciation Day flips its cape to the planet's night shift: bats. With more than 1,400 species on every continent except Antarctica, these winged mammals keep ecosystems balanced. They've been on Earth for over 50 million years, and only three species are true vampires. Found only in the Americas, these bats feed on blood, while the rest survive on insects, fruit, nectar or pollen. In Canada, bats such as the little brown bat and the big brown bat play a key role in controlling insect populations, consuming vast numbers of mosquitoes and agricultural pests each night, supporting both forests and farmlands.",
-        "maplink": "-37.798065,145.012222"
-    },
-    {
-        "fullstartdate": "202604160400",
-        "date": "20260416",
-        "url": "https://www.bing.com/th?id=OHR.Wildflowerbloom_EN-CA6661555631_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.Wildflowerbloom_EN-CA6661555631",
-        "copyright": "Blooming lupines in Newfoundland (© Nature, Parks/Outdoor/Shutterstock)",
-        "copyrightKeyword": "Lupinus",
-        "hsh": "b92ea88fbee920897ca75de3a4283eae"
+        "hsh": "8e8695f29db9326d6a87ebaed9f6d4b0"
     }
 ]
