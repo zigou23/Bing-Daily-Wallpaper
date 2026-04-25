@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202604252300",
+        "date": "20260425",
+        "url": "https://www.bing.com/th?id=OHR.AppleBlossoms_EN-GB5436574714_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AppleBlossoms_EN-GB5436574714",
+        "copyright": "Pink apple blossoms, Avila Beach, California, United States (© Mimi Ditchie Photography/Getty Images)",
+        "copyrightKeyword": "Apple tree",
+        "hsh": "8481183644cae9231fd9c720fc83d9a7",
+        "description": "Spring brings apple trees to life with clouds of soft pink blossoms. Their delicate petals brighten orchards and hillsides, standing out against clear blue skies as the season shifts from winter towards warmer days. These blooms attract pollinators such as bees and butterflies, helping fruit trees produce the apples that will grow later in the year.",
+        "maplink": "35.177404,-120.733528"
+    },
+    {
         "fullstartdate": "202604242300",
         "date": "20260424",
         "url": "https://www.bing.com/th?id=OHR.GalapagosPenguins_EN-GB4960104210_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.HathawayCottage_EN-GB5798947669",
         "copyright": "Anne Hathaway's cottage and garden, Stratford-upon-Avon, England (© David Steele/Shutterstock)",
         "copyrightKeyword": "Anne Hathaway cottage",
-        "hsh": "6350c7e6a5ad80df8df2cc399a81843a",
-        "description": "Today's image shows Anne Hathaway's cottage in Stratford‑upon‑Avon, England, the childhood home of Shakespeare's future wife. This 15th-century thatched cottage, now preserved as a museum, offers a rare glimpse into the domestic world that surrounded the young playwright.",
-        "maplink": "52.190984,-1.732059"
-    },
-    {
-        "fullstartdate": "202604172300",
-        "date": "20260417",
-        "url": "https://www.bing.com/th?id=OHR.MaoiStatues_EN-GB2286908744_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MaoiStatues_EN-GB2286908744",
-        "copyright": "Moai statue quarry, Rano Raraku, Easter Island, Chile (© Gavin Hellier/Alamy)",
-        "copyrightKeyword": "World Heritage Day",
-        "hsh": "3296b0f6c07298277624777a59f9531d"
+        "hsh": "6350c7e6a5ad80df8df2cc399a81843a"
     }
 ]
