@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202604262200",
+        "date": "20260427",
+        "url": "https://www.bing.com/th?id=OHR.MilanGalleria_IT-IT4692336131_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MilanGalleria_IT-IT4692336131",
+        "copyright": "Cupola di vetro della Galleria Vittorio Emanuele II, Milano (© PhillipMinnis/iStock/Getty Images)",
+        "copyrightKeyword": "Galleria Vittorio Emanuele II",
+        "hsh": "39266d030602636f820d6d2908e9cb23",
+        "description": "Nel cuore di Milano, la Galleria Vittorio Emanuele II è uno dei passaggi coperti più celebri d’Europa. Inaugurata nel 1867 su progetto di Giuseppe Mengoni, collega piazza del Duomo a piazza della Scala attraverso un’elegante struttura in ferro e vetro. Si distingue per la volta luminosa e per il pavimento a mosaico, dove spiccano gli stemmi delle principali città italiane. Tra negozi storici, caffè e ristoranti, si incontra il celebre Camparino in Galleria, aperto nel 1915 da Davide Campari, icona dell’aperitivo milanese e mondiale.",
+        "maplink": "45.466179,9.18992"
+    },
+    {
         "fullstartdate": "202604252200",
         "date": "20260426",
         "url": "https://www.bing.com/th?id=OHR.AppleBlossoms_IT-IT2955443064_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SunsetKiva_IT-IT3389674511",
         "copyright": "Tramonto nel parco nazionale delle Canyonlands, Moab, Utah, USA (© Jason Hatfield/Tandem Stills + Motion)",
         "copyrightKeyword": "Parco Nazionale delle Canyonlands",
-        "hsh": "240fb2227d52b0a72f336506736b30d9",
-        "description": "Nel cuore selvaggio dello Stato americano dello Utah, dove la notte accende il deserto, il parco nazionale di Canyonlands, vicino a Moab, ricorda che l’avventura continua anche dopo il tramonto. Quando la luce svanisce, i fiumi Colorado e Green si snodano tra canyon scolpiti, altipiani e guglie rocciose. Grazie alla posizione remota e al ridotto inquinamento luminoso, il cielo si trasforma in un tappeto di stelle. Designato come «International Dark Sky Park», è ideale per osservare la Via Lattea, visibile anche da semplici punti panoramici.",
-        "maplink": "38.213604,-109.902534"
-    },
-    {
-        "fullstartdate": "202604182200",
-        "date": "20260419",
-        "url": "https://www.bing.com/th?id=OHR.TranBA_IT-IT3445564294_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.TranBA_IT-IT3445564294",
-        "copyright": "Spiaggia di Espelho, Trancoso, Bahia, Brasile (© Marcelo Nacinovic/Getty Images)",
-        "copyrightKeyword": "Trancoso un distretto nella municipalità",
-        "hsh": "309d92d8f45609f12ee5650be0818bab"
+        "hsh": "240fb2227d52b0a72f336506736b30d9"
     }
 ]
