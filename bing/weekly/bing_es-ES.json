@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202604272200",
+        "date": "20260428",
+        "url": "https://www.bing.com/th?id=OHR.AndeanBear_ES-ES0586629243_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AndeanBear_ES-ES0586629243",
+        "copyright": "Oso andino descansando en un árbol, Ecuador (© Andy Rouse/Nature Picture Library)",
+        "copyrightKeyword": "Oso andino",
+        "hsh": "82eaa9c728022eda5a8a154a368c001f",
+        "description": "El oso andino, también llamado oso de anteojos, es el único oso que habita en Sudamérica y una de las especies más emblemáticas de Ecuador. Vive en bosques nublados y montañas andinas, donde pasa gran parte del tiempo entre los árboles, descansando o alimentándose de frutos, bromelias y brotes. Su pelaje oscuro y las manchas claras alrededor de los ojos lo hacen inconfundible. Es una especie solitaria y discreta, fundamental para el equilibrio del ecosistema, ya que dispersa semillas y contribuye a la regeneración del bosque. En Ecuador ocupa un papel clave en la conservación de los Andes y es símbolo de la riqueza natural del país."
+    },
+    {
         "fullstartdate": "202604262200",
         "date": "20260427",
         "url": "https://www.bing.com/th?id=OHR.MilanGalleria_ES-ES0426841525_1920x1080.jpg",
@@ -71,16 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SpringHedgehog_ES-ES2233278672",
         "copyright": "Erizo europeo, Francia (© Klein & Hubert/Nature Picture Library)",
         "copyrightKeyword": "Erizo europeo",
-        "hsh": "4d564b48c1871dadaf8d6f934eabea02",
-        "description": "El erizo europeo es un habitante discreto de los paisajes rurales y periurbanos de Francia. Presente en praderas, setos y jardines, este pequeño mamífero nocturno se mueve al anochecer en busca de insectos, lombrices y otros invertebrados, guiado por un olfato fino y un oído atento. Su andar tranquilo contrasta con la eficacia de sus púas."
-    },
-    {
-        "fullstartdate": "202604192200",
-        "date": "20260420",
-        "url": "https://www.bing.com/th?id=OHR.FlamencoSevilla_ES-ES8411080911_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FlamencoSevilla_ES-ES8411080911",
-        "copyright": "Castañuelas flamencas (© LUNAMARINA/Getty Images)",
-        "copyrightKeyword": "Feria Sevilla 2026",
-        "hsh": "a4fc968ebfbbc061de637e5292427de8"
+        "hsh": "4d564b48c1871dadaf8d6f934eabea02"
     }
 ]

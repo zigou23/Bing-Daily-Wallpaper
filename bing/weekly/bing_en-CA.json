@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202604270400",
+        "date": "20260427",
+        "url": "https://www.bing.com/th?id=OHR.MilanGalleria_EN-CA9394952547_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MilanGalleria_EN-CA9394952547",
+        "copyright": "The glass dome of Galleria Vittorio Emanuele II, Milan, Italy (© PhillipMinnis/Getty Images)",
+        "copyrightKeyword": "Galleria Vittorio Emanuele II Milan Italy",
+        "hsh": "ead9335d8b2f77fb90634a37ffa0529d",
+        "description": "Designed by architect Giuseppe Mengoni and completed in 1877, the Galleria Vittorio Emanuele II in Milan, Italy, is one of the world's oldest and most famous shopping arcades. Located between Piazza del Duomo and Piazza della Scala, it features a stunning glass-and-iron roof and an elegant, octagonal layout. Affectionately known as 'Milan's living room,' the Galleria is home to high-end boutiques, historic cafés such as Caffè Biffi and Camparino in Galleria, and renowned restaurants.",
+        "maplink": "45.466179,9.18992"
+    },
+    {
         "fullstartdate": "202604260400",
         "date": "20260426",
         "url": "https://www.bing.com/th?id=OHR.AppleBlossoms_EN-CA6292160620_1920x1080.jpg",
@@ -71,16 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MapleExtraction_EN-CA4012556624",
         "copyright": "Buckets on maple trees collecting sap for maple syrup (© capecodphoto/Getty Images)",
         "copyrightKeyword": "Maple syrup",
-        "hsh": "e2d1dd5e5e6f8b582738b264dfee6b44",
-        "description": "Have you ever enjoyed a plate of pancakes drizzled with maple syrup? That sweet pour starts its journey on a maple tree, following a very particular rhythm in nature. In late winter, sugar maple trees are tapped when days rise above freezing and nights drop below—this freeze–thaw cycle pushes sap through the tree. The clear sap is collected, then boiled down for hours—about 40 litres to make just 1 litre of syrup. The season is brief, often lasting only a few weeks between February and April, so timing matters. Traditional buckets still exist, though many producers now use vacuum tubing to improve efficiency."
-    },
-    {
-        "fullstartdate": "202604190400",
-        "date": "20260419",
-        "url": "https://www.bing.com/th?id=OHR.TranBA_EN-CA3645190031_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.TranBA_EN-CA3645190031",
-        "copyright": "Mirror Beach, Porto Seguro, Bahia, Brazil (© Marcelo Nacinovic/Getty Images)",
-        "copyrightKeyword": "Bahia Brazil",
-        "hsh": "b23765f3f237588552a84106caac58ba"
+        "hsh": "e2d1dd5e5e6f8b582738b264dfee6b44"
     }
 ]
