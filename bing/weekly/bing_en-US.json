@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202604290700",
+        "date": "20260429",
+        "url": "https://www.bing.com/th?id=OHR.BelemTowerBank_EN-US2528466391_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BelemTowerBank_EN-US2528466391",
+        "copyright": "Belém Tower on the bank of the Tagus River, Lisbon, Portugal (© f9photos/Getty Images)",
+        "copyrightKeyword": "Belem Tower",
+        "hsh": "d96f98c2e7df7a7505558b663e9176ee",
+        "description": "Ships leaving Lisbon once passed a small stone tower before meeting the wide Atlantic. That tower, standing on the bank of the Tagus River, served as both a guardian and a farewell. Say hello to Belém Tower—a fortress that watched Portugal sail into the Age of Exploration.",
+        "maplink": "38.69165,-9.215943"
+    },
+    {
         "fullstartdate": "202604280700",
         "date": "20260428",
         "url": "https://www.bing.com/th?id=OHR.AndeanBear_EN-US2465945308_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.TartuEstonia_EN-US1627168155",
         "copyright": "Alam-Pedja Nature Reserve in Tartu County, Estonia (© Sven Zacek/Nature Picture Library)",
         "copyrightKeyword": "Earth Day",
-        "hsh": "e80c009174ec8e0ea6613fe0419e459f",
-        "description": "Earth Day didn't knock gently. It kicked the door wide open. In 1970, oil‑soaked beaches, burning rivers, and toxic air mobilized millions into street protests. When looking away was no longer an option, conservation was forced onto political agendas, sparking landmark environmental laws and flipping planet‑care from fringe concern to global priority. Every April 22, over 190 countries pause, reflect, and reassess.",
-        "maplink": "58.466962,26.199884"
-    },
-    {
-        "fullstartdate": "202604210700",
-        "date": "20260421",
-        "url": "https://www.bing.com/th?id=OHR.SpringHedgehog_EN-US1312133826_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SpringHedgehog_EN-US1312133826",
-        "copyright": "European hedgehog, France (© Klein & Hubert/Nature Picture Library)",
-        "copyrightKeyword": "european hedgehog",
-        "hsh": "5e9e3724c006b5793a5f6867285b66df"
+        "hsh": "e80c009174ec8e0ea6613fe0419e459f"
     }
 ]
