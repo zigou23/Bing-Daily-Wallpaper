@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202604302200",
+        "date": "20260501",
+        "url": "https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_IT-IT6995398128_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_IT-IT6995398128",
+        "copyright": "Faro di Tŵr Mawr, isola di Llanddwyn, Anglesey, Galles (© Lukas Bischoff/Getty Images)",
+        "copyrightKeyword": "Isola di Ynys Llanddwyn",
+        "hsh": "25156647401cba91000a86e34325b37a",
+        "description": "A volte sono i luoghi silenziosi a restare più a lungo nella memoria, proprio come il faro di Tŵr Mawr. Sorge dal 1845 su Ynys Llanddwyn, una piccola isola tidale al largo di Anglesey (Ynys Môn), sulla costa gallese, che durante l’alta marea rimane temporaneamente separata dalla terraferma. Con un’altezza di poco superiore ai dieci metri, Tŵr Mawr non è un colosso imponente, ma un punto di riferimento ricco di carattere. In passato guidava le navi attraverso le impegnative acque dello stretto di Menai, contribuendo alla navigazione sicura in una delle aree marittime più difficili della regione.",
+        "maplink": "53.13707,-4.412761"
+    },
+    {
         "fullstartdate": "202604292200",
         "date": "20260430",
         "url": "https://www.bing.com/th?id=OHR.DutchTulips_IT-IT3654570550_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SlashPine_IT-IT3134964767",
         "copyright": "Pini nel parco nazionale delle Everglades, Florida, USA (© Mary Liz Austin/Alamy)",
         "copyrightKeyword": "Parco nazionale delle Everglades",
-        "hsh": "1c9c03f59695ca140f71c732614bb7e7",
-        "description": "Nel parco nazionale delle Everglades, nello Stato americano della Florida, le pinete sopraelevate si ergono sopra le vaste paludi e le praterie che formano uno dei più grandi sistemi di zone umide del mondo. I pini di Elliott e le palme nane creano boschi aperti che contrastano con le distese d’acqua e le mangrovie, offrendo rifugio a numerose specie e sostenendo l’equilibrio di questo ecosistema subtropicale.",
-        "maplink": "25.400611,-80.658833"
-    },
-    {
-        "fullstartdate": "202604222200",
-        "date": "20260423",
-        "url": "https://www.bing.com/th?id=OHR.HathawayCottage_IT-IT3206612879_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.HathawayCottage_IT-IT3206612879",
-        "copyright": "Cottage di Anne Hathaway, Stratford-upon-Avon, Inghilterra (© David Steele/Shutterstock)",
-        "copyrightKeyword": "William Shakespeare",
-        "hsh": "2ffbb7763e89fca7ed3d6949ca7c9c72"
+        "hsh": "1c9c03f59695ca140f71c732614bb7e7"
     }
 ]

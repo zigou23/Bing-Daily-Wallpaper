@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202604302200",
+        "date": "20260501",
+        "url": "https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_ES-ES5064200815_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_ES-ES5064200815",
+        "copyright": "Faro de Tŵr Mawr en la isla de Llanddwyn, en Anglesey, Gales (© Lukas Bischoff/Getty Images)",
+        "copyrightKeyword": "Faro de Tŵr Mawr",
+        "hsh": "ee1f79eb97f5422c5254ea3f75082305",
+        "description": "El faro de Tŵr Mawr se alza en la pequeña isla de Llanddwyn, en Anglesey, frente a la costa noroeste de Gales. La construcción, de piedra blanca y forma sencilla, comenzó a funcionar para guiar a los barcos que navegaban por el estrecho de Menai, un paso conocido por sus corrientes y bancos de arena. Aunque su nombre en galés puede traducirse como \"torre grande\", el faro no es muy alto. Sin embargo, su posición sobre un promontorio rocoso hace que destaque claramente sobre el mar.",
+        "maplink": "53.13707,-4.412761"
+    },
+    {
         "fullstartdate": "202604292200",
         "date": "20260430",
         "url": "https://www.bing.com/th?id=OHR.DutchTulips_ES-ES1084356423_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SlashPine_ES-ES3586366517",
         "copyright": "Bosque de pinares, Parque Nacional de los Everglades, Florida, EE. UU. (© Mary Liz Austin/Alamy)",
         "copyrightKeyword": "Parque Nacional de los Everglades",
-        "hsh": "159bb49f67d8bf323e3f67f7d87a58a8",
-        "description": "Los pinares rocosos del Parque Nacional de los Everglades, en Florida, son uno de los paisajes más singulares del sur de Estados Unidos. Se desarrollan sobre ligeras elevaciones que permanecen fuera de las inundaciones estacionales, lo que permite el crecimiento de pinares abiertos con un sotobosque denso de palmito. Este entorno combina humedad, calor y suelos pobres, creando un refugio clave para aves, reptiles y pequeños mamíferos. La alternancia entre zonas secas y áreas encharcadas define un ecosistema dinámico, donde el fuego natural y el agua desempeñan un papel esencial en el equilibrio del paisaje.",
-        "maplink": "25.400611,-80.658833"
-    },
-    {
-        "fullstartdate": "202604222200",
-        "date": "20260423",
-        "url": "https://www.bing.com/th?id=OHR.SantJordiBook_ES-ES2987257129_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SantJordiBook_ES-ES2987257129",
-        "copyright": "Rosa roja dentro de un libro abierto (© Albert Cabezas/Getty Images)",
-        "copyrightKeyword": "Día de Sant Jordi",
-        "hsh": "553e2ca808aa008846592fbe3182418e"
+        "hsh": "159bb49f67d8bf323e3f67f7d87a58a8"
     }
 ]

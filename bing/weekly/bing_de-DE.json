@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202604302200",
+        "date": "20260501",
+        "url": "https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_DE-DE3505547766_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_DE-DE3505547766",
+        "copyright": "Leuchtturm Tŵr Mawr, Ynys Llanddwyn, Anglesey, Wales (© Lukas Bischoff/Getty Images)",
+        "copyrightKeyword": "Leuchtturm Twr Mawr",
+        "hsh": "a4a15de5ab1b3c735006ff074cabaf40",
+        "description": "Manchmal sind es die stillen Orte, die lange im Gedächtnis bleiben – so wie der Leuchtturm Tŵr Mawr. Er steht seit 1845 auf Ynys Llanddwyn, einer kleinen Gezeiteninsel vor Anglesey (Ynys Môn) an der walisischen Küste, die bei Flut zeitweise vom Festland abgeschnitten wird. Mit einer Höhe von etwas mehr als zehn Metern ist Tŵr Mawr kein imposanter Koloss, sondern ein Orientierungspunkt mit Charakter. Früher wies er Schiffen den Weg durch die anspruchsvolle Menai-Meerenge und trug so zur sicheren Navigation in einem der schwierigsten Seegebiete der Region bei. Seine konische Form erinnert an eine alte Windmühle und erzählt von frühen technischen Lösungen.",
+        "maplink": "53.13707,-4.412761"
+    },
+    {
         "fullstartdate": "202604292200",
         "date": "20260430",
         "url": "https://www.bing.com/th?id=OHR.DutchTulips_DE-DE6573946518_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.GalapagosPenguins_DE-DE2195733852",
         "copyright": "Galápagos‑Pinguine beim Schwimmen, Galapagosinseln, Ecuador (© Henley Spiers/Nature Picture Library)",
         "copyrightKeyword": "Galápagos-Pinguin",
-        "hsh": "4047d2d49a6ca9160da3bd5c7813fe3b",
-        "description": "Pinguine werden meist mit eisigen Regionen in Verbindung gebracht, doch die Galápagos‑Pinguine bilden eine bemerkenswerte Ausnahme. Als einzige Pinguinart reicht ihr natürliches Verbreitungsgebiet bis nördlich des Äquators. Beheimatet sind sie ausschließlich auf den Galapagosinseln, einem vulkanischen Archipel, das rund 1.000 Kilometer vor der Küste Ecuadors liegt.",
-        "maplink": "-0.859397,-91.215904"
-    },
-    {
-        "fullstartdate": "202604222200",
-        "date": "20260423",
-        "url": "https://www.bing.com/th?id=OHR.HathawayCottage_DE-DE1846813831_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.HathawayCottage_DE-DE1846813831",
-        "copyright": "Anne Hathaway’s Cottage, Stratford‑upon‑Avon, England (© David Steele/Shutterstock)",
-        "copyrightKeyword": "Shakespeare‑Tag",
-        "hsh": "22d5d906e233993328d5af247943b1b7"
+        "hsh": "4047d2d49a6ca9160da3bd5c7813fe3b"
     }
 ]
