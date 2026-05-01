@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202605012200",
+        "date": "20260502",
+        "url": "https://www.bing.com/th?id=OHR.MadridRetiro_ES-ES5384378675_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MadridRetiro_ES-ES5384378675",
+        "copyright": "Monumento a Alfonso XII, Parque del Retiro, Madrid (© By Eve Livesey/Getty Images)",
+        "copyrightKeyword": "Día de la Comunidad de Madrid",
+        "hsh": "9815d17168b49b2f8fadbb907d02c152",
+        "description": "El 2 de mayo es una de las fechas más señaladas del calendario madrileño. La Comunidad de Madrid conmemora el levantamiento de 1808 contra las tropas napoleónicas, un episodio que se convirtió en símbolo de resistencia popular. Hoy la jornada se celebra con actos oficiales, cultura y calles llenas de vida.",
+        "maplink": "40.417676,-3.683009"
+    },
+    {
         "fullstartdate": "202604302200",
         "date": "20260501",
         "url": "https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_ES-ES5064200815_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.GalapagosPenguins_ES-ES3782706188",
         "copyright": "Pingüinos de las Galápagos nadando, islas Galápagos, Ecuador (© Henley Spiers/Nature Picture Library)",
         "copyrightKeyword": "Día Mundial del Pingüino",
-        "hsh": "7fbf70872c13bc1db715b9faed212ba2",
-        "description": "Cada 25 de abril se celebra el Día Mundial del Pingüino, una fecha para destacar la importancia de estas aves marinas y recordar los desafíos que enfrentan en un planeta cambiante. Habitan principalmente en el hemisferio sur y cumplen un papel clave en los ecosistemas oceánicos al reflejar la salud de los mares. El calentamiento del agua, la sobrepesca y la contaminación amenazan su alimentación y sus rutas de reproducción, por lo que la divulgación y la protección de sus hábitats resultan esenciales.",
-        "maplink": "-0.859397,-91.215904"
-    },
-    {
-        "fullstartdate": "202604232200",
-        "date": "20260424",
-        "url": "https://www.bing.com/th?id=OHR.SlashPine_ES-ES3586366517_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SlashPine_ES-ES3586366517",
-        "copyright": "Bosque de pinares, Parque Nacional de los Everglades, Florida, EE. UU. (© Mary Liz Austin/Alamy)",
-        "copyrightKeyword": "Parque Nacional de los Everglades",
-        "hsh": "159bb49f67d8bf323e3f67f7d87a58a8"
+        "hsh": "7fbf70872c13bc1db715b9faed212ba2"
     }
 ]

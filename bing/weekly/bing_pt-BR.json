@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202605010300",
+        "date": "20260501",
+        "url": "https://www.bing.com/th?id=OHR.WorkersDay_PT-BR3502974851_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WorkersDay_PT-BR3502974851",
+        "copyright": "Limpadores de janelas pendurados por cordas, Rio de Janeiro (© Buena Vista Images/Getty Images)",
+        "copyrightKeyword": "dia do trabalhador",
+        "hsh": "6c165adc27e03afc43b62695fb6dddc8",
+        "description": "O Dia do Trabalhador nasceu de um tempo em que jornadas longuíssimas eram regra, descanso era exceção e reclamar custava caro. No fim do século XIX, greves e conflitos se espalharam dos Estados Unidos para o mundo, empurrando direitos e segurança ao centro do debate. A dignidade entrou na pauta e, aos poucos, no expediente."
+    },
+    {
         "fullstartdate": "202604300300",
         "date": "20260430",
         "url": "https://www.bing.com/th?id=OHR.DutchTulips_PT-BR9358504949_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.TranBA_PT-BR9169558101",
         "copyright": "Praia do Espelho, Porto Seguro, Bahia (© Marcelo Nacinovic/Getty Images)",
         "copyrightKeyword": "Bahia Trancoso",
-        "hsh": "8128e7e2f1bd52d3e9d6ebcda449a3f0",
-        "description": "Vista de cima, a Praia do Espelho, na Bahia, parece uma aquarela que resolveu virar geografia. Falésias claras, recifes pontuando o mar e um mosaico de piscinas naturais que, na maré baixa, refletem céu e nuvens, criando o efeito espelhado que batizou o lugar. Ela fica entre os distritos de Trancoso e Caraíva, em Porto Seguro. O acesso, por estrada de terra e trilhas curtas, é um filtro natural contra multidões, reforçando a sensação de estarmos diante de um segredo bem guardado. E por muito tempo foi mesmo, restrito ao boca a boca — até entrar no radar dos viajantes nos anos 1990 e começar a ganhar espaço em listas e roteiros de viagem."
-    },
-    {
-        "fullstartdate": "202604230300",
-        "date": "20260423",
-        "url": "https://www.bing.com/th?id=OHR.HathawayCottage_PT-BR3455628548_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.HathawayCottage_PT-BR3455628548",
-        "copyright": "Chalé de Anne Hathaway, Stratford-upon-Avon, Inglaterra (© David Steele/Shutterstock)",
-        "copyrightKeyword": "Dia de Shakespeare",
-        "hsh": "0036183d06af39034260b7cc9bc68bc2"
+        "hsh": "8128e7e2f1bd52d3e9d6ebcda449a3f0"
     }
 ]

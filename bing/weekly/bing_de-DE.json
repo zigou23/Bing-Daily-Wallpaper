@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202605012200",
+        "date": "20260502",
+        "url": "https://www.bing.com/th?id=OHR.GreenJasper_DE-DE3724735614_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GreenJasper_DE-DE3724735614",
+        "copyright": "Kleiner See und Feuchtgebiet im Jasper‑Nationalpark in Alberta, Kanada (© Don White/Getty Images)",
+        "copyrightKeyword": "Jasper‑Nationalpark Alberta",
+        "hsh": "b2f4af11434dfe382855bb81975cd18a",
+        "description": "Wie wild sich Natur anfühlen kann, zeigt der Jasper‑Nationalpark in den kanadischen Rocky Mountains eindrucksvoll. Weite Täler, stille Feuchtgebiete, dichte Nadelwälder und von Gletschern gespeiste Flüsse prägen diese Landschaft in Alberta. Der Park wurde bereits zu Beginn des 20. Jahrhunderts unter Schutz gestellt und bewahrt bis heute einen spürbar ursprünglichen Charakter.",
+        "maplink": "52.873398,-117.954308"
+    },
+    {
         "fullstartdate": "202604302200",
         "date": "20260501",
         "url": "https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_DE-DE3505547766_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SlashPine_DE-DE2654946647",
         "copyright": "Waldinsel mit Sumpfkiefern und Sägepalmen, Everglades-Nationalpark, Florida, USA (© Mary Liz Austin/Alamy)",
         "copyrightKeyword": "Tag des Baumes",
-        "hsh": "52bacc7b53200235ff214677f6713774",
-        "description": "Bäume prägen Landschaften und sichern die ökologische Vielfalt. Am Tag des Baumes rücken sie auch in Deutschland besonders in den Mittelpunkt. Seit vielen Jahren nutzen Initiativen diesen Aktionstag, um mit Pflanzaktionen und Informationsveranstaltungen auf den Wert von Bäumen und Wäldern aufmerksam zu machen. Sie regulieren das Klima, verbessern die Luftqualität und bieten Lebensraum für zahlreiche Tier‑ und Pflanzenarten.",
-        "maplink": "25.400611,-80.658833"
-    },
-    {
-        "fullstartdate": "202604232200",
-        "date": "20260424",
-        "url": "https://www.bing.com/th?id=OHR.GalapagosPenguins_DE-DE2195733852_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.GalapagosPenguins_DE-DE2195733852",
-        "copyright": "Galápagos‑Pinguine beim Schwimmen, Galapagosinseln, Ecuador (© Henley Spiers/Nature Picture Library)",
-        "copyrightKeyword": "Galápagos-Pinguin",
-        "hsh": "4047d2d49a6ca9160da3bd5c7813fe3b"
+        "hsh": "52bacc7b53200235ff214677f6713774"
     }
 ]
