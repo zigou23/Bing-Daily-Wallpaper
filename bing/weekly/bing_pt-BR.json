@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202605030300",
+        "date": "20260503",
+        "url": "https://www.bing.com/th?id=OHR.MasaiLeopard_PT-BR3932185611_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MasaiLeopard_PT-BR3932185611",
+        "copyright": "Leopardo dormindo em uma árvore na Reserva Nacional Masai Mara, Quênia (© Klein & Hubert/Nature Picture Library)",
+        "copyrightKeyword": "leopardo",
+        "hsh": "ec6b0cb836caf58380813bb38a2e2fc2",
+        "description": "Um leopardo se enrola num galho no alto da savana de Masai Mara, no Quênia, como se tivesse escolhido o melhor camarote para o pôr do sol. Mestre da adaptação, ele circula por grande parte da África e por áreas da Ásia, atravessando florestas, montanhas e savanas com a mesma segurança. Cada indivíduo carrega um padrão único de manchas, como uma impressão digital, que ajuda a camuflar o corpo na paisagem. Já sua força e a estratégia entram em cena quando ele arrasta presas para o alto das árvores, reduzindo as chances de roubo por competidores e carniceiros. Noturno, esse grande felino não caça por corridas longas. Assim como a onça‑pintada no Brasil, prefere a arte da espera, do cálculo e do ataque no momento certo."
+    },
+    {
         "fullstartdate": "202605020300",
         "date": "20260502",
         "url": "https://www.bing.com/th?id=OHR.GreenJasper_PT-BR3746055245_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AppleBlossoms_PT-BR6471473214",
         "copyright": "Flores de macieira em Avila Beach, Califórnia, EUA (© Mimi Ditchie Photography/Getty Images)",
         "copyrightKeyword": "macieira",
-        "hsh": "47f1089334b7961c923af20780ca7fe6",
-        "description": "Quando a primavera assume o controle, as macieiras revelam uma nova personalidade e, de repente, flores rosadas tomam pomares e encostas, clareiam as colinas e perfumam o ar. A beleza esconde um drama logístico. Essa janela curtíssima, de uma a duas semanas, é tudo o que abelhas e outros polinizadores têm para mergulhar no trabalho, garantindo as maçãs que vão colorir árvores e mesas meses depois."
-    },
-    {
-        "fullstartdate": "202604250300",
-        "date": "20260425",
-        "url": "https://www.bing.com/th?id=OHR.GalapagosPenguins_PT-BR4013485362_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.GalapagosPenguins_PT-BR4013485362",
-        "copyright": "Pinguins-das-galápagos nadando, Ilhas Galápagos, Equador (© Henley Spiers/Nature Picture Library)",
-        "copyrightKeyword": "dia pinguim",
-        "hsh": "a9f3c303529ad11bdcc44e927e9cdce6"
+        "hsh": "47f1089334b7961c923af20780ca7fe6"
     }
 ]

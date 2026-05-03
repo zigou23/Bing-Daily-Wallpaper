@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202605032200",
+        "date": "20260504",
+        "url": "https://www.bing.com/th?id=OHR.KsarOuledSoltane_DE-DE0772664249_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.KsarOuledSoltane_DE-DE0772664249",
+        "copyright": "Ksar Ouled Soltane, Gouvernement Tataouine, Südtunesien (© Dark_Eni/Getty Images Plus)",
+        "copyrightKeyword": "Star Wars Day",
+        "hsh": "08a91d01d5d8397af77ff1560913f94f",
+        "description": "Was wie eine Filmkulisse wirkt, ist ein historischer Ort: Ksar Ouled Soltane liegt im Süden Tunesiens im Gouvernement Tataouine, nahe der Sahara. Die mehrstöckigen Speicherburgen aus Lehm wurden im 15. Jahrhundert von Berbergruppen als sichere Vorratslager errichtet. Sie schützten das Getreide vor Hitze, Diebstahl und Verderb. Mit ihrer klaren, funktionalen Architektur prägen sie bis heute die trockene Landschaft der Region.",
+        "maplink": "32.793106,10.518624"
+    },
+    {
         "fullstartdate": "202605022200",
         "date": "20260503",
         "url": "https://www.bing.com/th?id=OHR.MasaiLeopard_DE-DE1183742562_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MilanGalleria_DE-DE5963996541",
         "copyright": "Glaskuppel der Galleria Vittorio Emanuele II, Mailand, Italien (© PhillipMinnis/Getty Images)",
         "copyrightKeyword": "Galleria Vittorio Emanuele II Mailand",
-        "hsh": "1a33524f3d570f40c489fefe304c7db0",
-        "description": "Die Galleria Vittorio Emanuele II ist weit mehr als eine Einkaufspassage. Entworfen vom Architekten Giuseppe Mengoni und im Jahr 1877 fertiggestellt, setzte sie neue Maßstäbe für die Architektur und das Stadtleben Mailands. Mit ihrer gläsernen Kuppel verbindet sie bis heute zwei der wichtigsten Plätze der Stadt: die Piazza del Duomo und die Piazza della Scala.",
-        "maplink": "45.466179,9.18992"
-    },
-    {
-        "fullstartdate": "202604252200",
-        "date": "20260426",
-        "url": "https://www.bing.com/th?id=OHR.AppleBlossoms_DE-DE5754939117_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AppleBlossoms_DE-DE5754939117",
-        "copyright": "Rosafarbene Apfelblüten, Avila Beach, Kalifornien, USA (© Mimi Ditchie Photography/Getty Images)",
-        "copyrightKeyword": "Äpfel",
-        "hsh": "d1b2b150d7c8274c483a2f8060877155"
+        "hsh": "1a33524f3d570f40c489fefe304c7db0"
     }
 ]
