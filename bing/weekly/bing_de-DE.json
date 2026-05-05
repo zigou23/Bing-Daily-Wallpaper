@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202605052200",
+        "date": "20260506",
+        "url": "https://www.bing.com/th?id=OHR.BulgariaPlains_DE-DE4866806694_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BulgariaPlains_DE-DE4866806694",
+        "copyright": "Gewitter über der Ebene, Bulgarien (© Revolu7ion93/Getty Images)",
+        "copyrightKeyword": "Bulgarien",
+        "hsh": "2720b5256d934c1653753b98bc473d83",
+        "description": "Dunkle Gewitterwolken ziehen über die weiten Ebenen Bulgariens und entladen sich über einer offenen Kulturlandschaft. Die flachen Regionen im Norden und Süden des Landes zählen zu den fruchtbarsten Gebieten Südosteuropas und reagieren besonders sensibel auf plötzliche Wetterumschwünge.",
+        "maplink": "42.75,25.5"
+    },
+    {
         "fullstartdate": "202605042200",
         "date": "20260505",
         "url": "https://www.bing.com/th?id=OHR.LuebeckChairs_DE-DE4681131575_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BelemTowerBank_DE-DE6367494619",
         "copyright": "Turm von Belém am Ufer des Tejo, Lissabon, Portugal (© f9photos/Getty Images)",
         "copyrightKeyword": "Turm von Belém",
-        "hsh": "4732ee29776ffb525f624264535214e0",
-        "description": "Am Ufer des Tejo erhebt sich ein markanter Steinturm, der einst den Weg von Lissabon hinaus auf den Atlantik begleitete. Der Turm von Belém diente früher als Verteidigungsanlage und symbolischer Wächter der Stadt und erinnert heute an Portugals Aufbruch in das Zeitalter der Entdeckungen. Errichtet zu Beginn des 16. Jahrhunderts unter König Manuel I., spielte er eine zentrale Rolle beim Schutz des Hafens und der Einfahrt in den Fluss. Seine Architektur verbindet gotische Formen mit typischen Elementen des manuelinischen Stils. Maritime Motive wie Seile, Schilde, Kreuze und kunstvolle Ornamente verweisen auf Portugals enge Beziehung zum Meer und zur Seefahrt jener Zeit.",
-        "maplink": "38.69165,-9.215943"
-    },
-    {
-        "fullstartdate": "202604272200",
-        "date": "20260428",
-        "url": "https://www.bing.com/th?id=OHR.AndeanBear_DE-DE6978814593_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AndeanBear_DE-DE6978814593",
-        "copyright": "Brillenbär ruht auf einem Baum, Ecuador (© Andy Rouse/Nature Picture Library)",
-        "copyrightKeyword": "Brillenbär",
-        "hsh": "8e93f42bd54c915e3c571ea85b00077d"
+        "hsh": "4732ee29776ffb525f624264535214e0"
     }
 ]

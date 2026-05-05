@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202605052200",
+        "date": "20260506",
+        "url": "https://www.bing.com/th?id=OHR.BulgariaPlains_ES-ES6386466102_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BulgariaPlains_ES-ES6386466102",
+        "copyright": "Tormenta sobre las llanuras, Bulgaria (© Revolu7ion93/Getty Images)",
+        "copyrightKeyword": "Bulgaria",
+        "hsh": "33799391e15a5adc0c17b16d27a1ddba",
+        "description": "Situada en el sureste de Europa, en la península balcánica, Bulgaria se encuentra donde confluyen culturas antiguas, paisajes fértiles y climas cambiantes. Bajo cielos dramáticos, sus dos grandes llanuras constituyen el corazón agrícola del país: la Llanura Danubiana al norte, un territorio ondulado de campos y valles modelado por un clima templado que en verano desata tormentas poderosas, y más al sur, la Llanura Tracia Superior, más baja y cálida, donde las masas de aire mediterráneo y la humedad del río Maritsa hacen que las tormentas estivales sean intensas e imprevisibles.",
+        "maplink": "42.75,25.5"
+    },
+    {
         "fullstartdate": "202605042200",
         "date": "20260505",
         "url": "https://www.bing.com/th?id=OHR.MayoAgave_ES-ES4054314323_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BelemTowerBank_ES-ES0844655839",
         "copyright": "La Torre de Belém a orillas del río Tajo, Lisboa, Portugal (© f9photos/Getty Images)",
         "copyrightKeyword": "Torre de Belém",
-        "hsh": "ecd5d4452964a6ceb5334fe3c36ea140",
-        "description": "La Torre de Belém es uno de los grandes símbolos de Lisboa, en Portugal. Se alza junto a la desembocadura del río Tajo y fue construida a comienzos del siglo XVI como parte del sistema defensivo de la ciudad. Su arquitectura combina elementos góticos y renacentistas con el estilo manuelino, visible en sus balcones, decoraciones marítimas y torreones. Además de su función militar, la torre se convirtió en un emblema de la era de los descubrimientos portugueses, ligada a las expediciones oceánicas. Hoy es Patrimonio de la Humanidad y un punto clave para comprender la relación histórica entre Lisboa, el río y el mar.",
-        "maplink": "38.69165,-9.215943"
-    },
-    {
-        "fullstartdate": "202604272200",
-        "date": "20260428",
-        "url": "https://www.bing.com/th?id=OHR.AndeanBear_ES-ES0586629243_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AndeanBear_ES-ES0586629243",
-        "copyright": "Oso andino descansando en un árbol, Ecuador (© Andy Rouse/Nature Picture Library)",
-        "copyrightKeyword": "Oso andino",
-        "hsh": "82eaa9c728022eda5a8a154a368c001f"
+        "hsh": "ecd5d4452964a6ceb5334fe3c36ea140"
     }
 ]

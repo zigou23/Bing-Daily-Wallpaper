@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202605052200",
+        "date": "20260506",
+        "url": "https://www.bing.com/th?id=OHR.BulgariaPlains_FR-FR4904282030_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BulgariaPlains_FR-FR4904282030",
+        "copyright": "Orage sur les plaines, Bulgarie (© Revolu7ion93/Getty Images)",
+        "copyrightKeyword": "Bulgarie pays",
+        "hsh": "7dac1f8c4834227607c28daa72f5d285",
+        "description": "Située à l’est de la péninsule balkanique, la Bulgarie s’étire au carrefour de l’Europe et de l’Asie. Ici, les civilisations anciennes, les terres fertiles et les climats changeants s’entrelacent, façonnant un paysage habité depuis des millénaires.",
+        "maplink": "42.75,25.5"
+    },
+    {
         "fullstartdate": "202605042200",
         "date": "20260505",
         "url": "https://www.bing.com/th?id=OHR.MayoAgave_FR-FR5361312928_1920x1080.jpg",
@@ -49,7 +60,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LilyMay_FR-FR4501325006",
         "copyright": "Brin de muguet, Ukraine (© tomch/Getty Images Plus)",
         "copyrightKeyword": "1er mai",
-        "hsh": "733871ae7c668983ba0c40ed429259d5",
+        "hsh": "7d047aefc3085218aa61825eb86bc678",
         "description": "Le 1er mai s'impose comme une pause bienvenue au cœur du printemps. L’air est plus doux, les journées s’allongent, et le muguet fleurit dans les jardins comme sur les étals. Cette journée, devenue la Fête du Travail, trouve son origine historique dans les grandes luttes ouvrières de la fin du XIXᵉ siècle, lorsque des travailleurs, en Europe comme aux États-Unis, ont réclamé de meilleures conditions de vie et le droit au repos."
     },
     {
@@ -59,7 +70,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DutchTulips_FR-FR7047413722",
         "copyright": "Muscaris et tulipes, Keukenhof, Lisse, Pays-Bas (© Martin Ruegner/Getty Images)",
         "copyrightKeyword": "Keukenhof",
-        "hsh": "ff6dfb01bba71daab64cb7512df51fb2",
+        "hsh": "05ea8eb11cd2058c7bcaa55a74317da0",
         "description": "Imaginer qu’une fleur puisse déclencher une frénésie financière semble inconcevable. Pourtant, dans les années 1630, les tulipes ont plongé les Provinces-Unies dans une véritable fièvre. Les bulbes les plus rares, aux couleurs striées et imprévisibles, valaient parfois autant qu’une maison tant les collectionneurs recherchaient l’exception.",
         "maplink": "52.26889,4.547222"
     },
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BelemTowerBank_FR-FR7863616687",
         "copyright": "Tour de Belém au bord du Tage, Lisbonne, Portugal (© f9photos/Getty Images)",
         "copyrightKeyword": "Tour de Belém",
-        "hsh": "bef1e6adc977b89c9d569afcb29f47eb",
-        "description": "Autrefois, les navires quittant Lisbonne, au Portugal, glissaient devant une petite tour de pierre avant d’affronter l’immensité de l’Atlantique. Dressée sur la rive du Tage, elle servait autant de sentinelle que d’adieu murmuré aux marins. Voici la tour de Belém, témoin silencieux des départs qui ont marqué l’ère des grandes explorations portugaises.",
-        "maplink": "38.69165,-9.215943"
-    },
-    {
-        "fullstartdate": "202604272200",
-        "date": "20260428",
-        "url": "https://www.bing.com/th?id=OHR.AndeanBear_FR-FR7657835639_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AndeanBear_FR-FR7657835639",
-        "copyright": "Ours à lunettes se reposant dans un arbre, Équateur (© Andy Rouse/Nature Picture Library)",
-        "copyrightKeyword": "ours à lunettes",
-        "hsh": "d255829676362a78f20123ee08a86140"
+        "hsh": "bef1e6adc977b89c9d569afcb29f47eb"
     }
 ]

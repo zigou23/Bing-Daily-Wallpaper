@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202605051830",
+        "date": "20260506",
+        "url": "https://www.bing.com/th?id=OHR.BulgariaPlains_EN-IN4718054909_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BulgariaPlains_EN-IN4718054909",
+        "copyright": "Thunderstorm above the plains, Bulgaria (© Revolu7ion93/Getty Images)",
+        "copyrightKeyword": "Bulgaria",
+        "hsh": "bf065bdb21db0aac2a7b97dc92c1dcc8",
+        "description": "Located on the eastern Balkan Peninsula, Bulgaria sits at the crossroads of Europe and Asia, where ancient cultures, fertile landscapes and shifting climates converge.",
+        "maplink": "42.75,25.5"
+    },
+    {
         "fullstartdate": "202605041830",
         "date": "20260505",
         "url": "https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_EN-IN1989617864_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BelemTowerBank_EN-IN2907801378",
         "copyright": "Belém Tower on the bank of the Tagus River, Lisbon, Portugal (© f9photos/Getty Images)",
         "copyrightKeyword": "Belem Tower",
-        "hsh": "5ebf106231a97abd919a6810bbfe2652",
-        "description": "Ships leaving Lisbon once passed a small stone tower before meeting the wide Atlantic. That tower, standing on the bank of the Tagus River, served as both a guardian and a farewell. Say hello to Belém Tower—a fortress that watched Portugal sail into the Age of Exploration.",
-        "maplink": "38.69165,-9.215943"
-    },
-    {
-        "fullstartdate": "202604271830",
-        "date": "20260428",
-        "url": "https://www.bing.com/th?id=OHR.AndeanBear_EN-IN2726227738_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AndeanBear_EN-IN2726227738",
-        "copyright": "Spectacled bear resting in tree, Ecuador (© Andy Rouse/Nature Picture Library)",
-        "copyrightKeyword": "Spectacled bear",
-        "hsh": "426ca45a02eae4e8cf1a1ca40a9f8c77"
+        "hsh": "5ebf106231a97abd919a6810bbfe2652"
     }
 ]
