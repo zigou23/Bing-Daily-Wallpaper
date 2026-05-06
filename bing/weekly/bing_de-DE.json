@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202605062200",
+        "date": "20260507",
+        "url": "https://www.bing.com/th?id=OHR.Kofa_DE-DE5653026475_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.Kofa_DE-DE5653026475",
+        "copyright": "Kofa National Wildlife Refuge, Arizona, USA (© Denis Tangney Jr/Getty Images)",
+        "copyrightKeyword": "Kofa National Wildlife Refuge USA",
+        "hsh": "cac47a1382456938f0d8315450bfa733",
+        "description": "Mit dem Kofa National Wildlife Refuge erstreckt sich im Südwesten Arizonas, USA, ein weitläufiges Schutzgebiet, das von offenen Wüstenflächen, schroffen Bergzügen und einer überraschenden ökologischen Vielfalt geprägt ist. Das Gebiet liegt in der Sonora‑Wüste und wurde 1939 eingerichtet, um Dickhornschafe zu schützen, deren trittsichere Silhouetten bis heute das weite und offene Landschaftsbild prägen.",
+        "maplink": "33.237633,-114.011215"
+    },
+    {
         "fullstartdate": "202605052200",
         "date": "20260506",
         "url": "https://www.bing.com/th?id=OHR.BulgariaPlains_DE-DE4866806694_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DutchTulips_DE-DE6573946518",
         "copyright": "Traubenhyazinthen und Tulpen im Keukenhof, Lisse, Niederlande (© Martin Ruegner/Getty Images)",
         "copyrightKeyword": "Keukenhof Lisse",
-        "hsh": "5975eeb0daeb703515b3b49e931459cd",
-        "description": "Tulpen stehen heute für Frühling und Farbenpracht, doch ihre Geschichte begann mit einem außergewöhnlichen Finanzphänomen. Im 17. Jahrhundert löste die Begeisterung für seltene Zwiebeln in den Niederlanden eine beispiellose Spekulationswelle aus. Besonders gefragt waren außergewöhnliche Farben und gestreifte Muster, deren Entstehung kaum vorhersehbar war. Zeitweise wurden für einzelne Tulpen Summen gezahlt, die dem Wert eines Hauses entsprachen. Auch nachdem die sogenannte Tulpenmanie endete, blieb die Faszination für die Blume ungebrochen.",
-        "maplink": "52.26889,4.547222"
-    },
-    {
-        "fullstartdate": "202604282200",
-        "date": "20260429",
-        "url": "https://www.bing.com/th?id=OHR.BelemTowerBank_DE-DE6367494619_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BelemTowerBank_DE-DE6367494619",
-        "copyright": "Turm von Belém am Ufer des Tejo, Lissabon, Portugal (© f9photos/Getty Images)",
-        "copyrightKeyword": "Turm von Belém",
-        "hsh": "4732ee29776ffb525f624264535214e0"
+        "hsh": "5975eeb0daeb703515b3b49e931459cd"
     }
 ]

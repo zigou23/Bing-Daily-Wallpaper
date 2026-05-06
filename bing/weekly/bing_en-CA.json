@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202605060400",
+        "date": "20260506",
+        "url": "https://www.bing.com/th?id=OHR.BulgariaPlains_EN-CA6379116198_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BulgariaPlains_EN-CA6379116198",
+        "copyright": "Thunderstorm above the plains, Bulgaria (© Revolu7ion93/Getty Images)",
+        "copyrightKeyword": "Bulgaria",
+        "hsh": "11d67da6a89cc92f6811a3083b21e4f4",
+        "description": "Located on the eastern Balkan Peninsula, Bulgaria sits at the crossroads of Europe and Asia, where ancient cultures, fertile landscapes and shifting climates converge.",
+        "maplink": "42.75,25.5"
+    },
+    {
         "fullstartdate": "202605050400",
         "date": "20260505",
         "url": "https://www.bing.com/th?id=OHR.BullQuebec_EN-CA5955231847_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BelemTowerBank_EN-CA6523750356",
         "copyright": "Belém Tower on the bank of the Tagus River, Lisbon, Portugal (© f9photos/Getty Images)",
         "copyrightKeyword": "Belem Tower",
-        "hsh": "bb1e2b564556102be725185d35243389",
-        "description": "Ships leaving Lisbon once passed a small stone tower before meeting the wide Atlantic. That tower, standing on the bank of the Tagus River, served as both a guardian and a farewell. Say hello to Belém Tower—a fortress that watched Portugal sail into the Age of Exploration.",
-        "maplink": "38.69165,-9.215943"
-    },
-    {
-        "fullstartdate": "202604280400",
-        "date": "20260428",
-        "url": "https://www.bing.com/th?id=OHR.AndeanBear_EN-CA5387573161_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AndeanBear_EN-CA5387573161",
-        "copyright": "Spectacled bear resting in tree, Ecuador (© Andy Rouse/Nature Picture Library)",
-        "copyrightKeyword": "Spectacled bear",
-        "hsh": "20e703254899cb8d0305d2b1de7972fa"
+        "hsh": "bb1e2b564556102be725185d35243389"
     }
 ]

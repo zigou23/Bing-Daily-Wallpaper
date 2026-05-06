@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202605060400",
+        "date": "20260506",
+        "url": "https://www.bing.com/th?id=OHR.BulgariaPlains_FR-CA6415102284_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BulgariaPlains_FR-CA6415102284",
+        "copyright": "Orage sur les plaines, Bulgarie (© Revolu7ion93/Getty Images)",
+        "copyrightKeyword": "Bulgarie pays",
+        "hsh": "f3db6c7e0351b978951ab14a07c90ff8",
+        "description": "Située à l’est de la péninsule balkanique, la Bulgarie s’étire au carrefour de l’Europe et de l’Asie. Ici, les civilisations anciennes, les terres fertiles et les climats changeants s’entrelacent, façonnant un paysage habité depuis des millénaires.",
+        "maplink": "42.75,25.5"
+    },
+    {
         "fullstartdate": "202605050400",
         "date": "20260505",
         "url": "https://www.bing.com/th?id=OHR.BullQuebec_FR-CA6260493831_1920x1080.jpg",
@@ -48,7 +59,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_FR-CA0308784952",
         "copyright": "Phare de Tŵr Mawr, Ynys Llanddwyn, Anglesey, Pays de Galles (© Lukas Bischoff/Getty Images)",
         "copyrightKeyword": "Twr Mawr Pyas de Galles",
-        "hsh": "b24e71b07e13c9cd96882753864f4925",
+        "hsh": "cb33f854766dc132a2f2bb49403c69d5",
         "description": "À l’extrémité de l’île d’Ynys Llanddwyn, au Pays de Galles, là où la terre s’efface doucement devant la mer d’Irlande, Tŵr Mawr veille sur l’horizon, immuable. Ce modeste phare, pourtant essentiel, accomplit sa tâche : il éclaire, sans jamais chercher l’attention.",
         "maplink": "53.13707,-4.412761"
     },
@@ -59,7 +70,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DutchTulips_FR-CA7221211969",
         "copyright": "Muscaris et tulipes, Keukenhof, Lisse, Pays-Bas (© Martin Ruegner/Getty Images)",
         "copyrightKeyword": "Keukenhof",
-        "hsh": "48a5e7e290cc362d21e160ec26913792",
+        "hsh": "2aee9e7d2e059cf8cae6903636cbf78e",
         "description": "Imaginer qu’une fleur puisse déclencher une frénésie financière semble inconcevable. Pourtant, dans les années 1630, les tulipes ont plongé les Provinces-Unies dans une véritable fièvre. Les bulbes les plus rares, aux couleurs striées et imprévisibles, valaient parfois autant qu’une maison, tant les collectionneurs recherchaient l’exception.",
         "maplink": "52.26889,4.547222"
     },
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BelemTowerBank_FR-CA1177429955",
         "copyright": "Tour de Belém au bord du Tage, Lisbonne, Portugal (© f9photos/Getty Images)",
         "copyrightKeyword": "Tour de Belém",
-        "hsh": "bb2042e5b77708a9bee890d4295ded88",
-        "description": "Autrefois, les navires quittant Lisbonne, au Portugal, glissaient devant une petite tour de pierre avant d’affronter l’immensité de l’Atlantique. Dressée sur la rive du Tage, elle servait autant de sentinelle que d’adieu murmuré aux marins. Voici la tour de Belém, témoin silencieux des départs qui ont marqué l’ère des grandes explorations portugaises.",
-        "maplink": "38.69165,-9.215943"
-    },
-    {
-        "fullstartdate": "202604280400",
-        "date": "20260428",
-        "url": "https://www.bing.com/th?id=OHR.AndeanBear_FR-CA3119338378_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AndeanBear_FR-CA3119338378",
-        "copyright": "Ours à lunettes se reposant dans un arbre, Équateur (© Andy Rouse/Nature Picture Library)",
-        "copyrightKeyword": "ours à lunettes",
-        "hsh": "5ac688b9b465e23f4848e3e4960ab618"
+        "hsh": "bb2042e5b77708a9bee890d4295ded88"
     }
 ]

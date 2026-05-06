@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202605060300",
+        "date": "20260506",
+        "url": "https://www.bing.com/th?id=OHR.BulgariaPlains_PT-BR7466173362_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BulgariaPlains_PT-BR7466173362",
+        "copyright": "Tempestade sobre as planícies, Bulgária (© Revolu7ion93/Getty Images)",
+        "copyrightKeyword": "Bulgária",
+        "hsh": "0bc3de635acc654c31b440e4abda2db6",
+        "description": "A Bulgária vive um equilíbrio climático pouco comum para um país tão compacto. Situado entre a Europa e a Ásia, o território funciona como um corredor onde diferentes massas de ar entram em choque. Ao norte, a Planície do Danúbio acumula calor intenso. Ao sul, a Planície da Trácia Superior recebe a umidade que sobe do mar Egeu, atravessa o interior e deixa o ar pesado. Quando essas duas forças se encontram, o resultado aparece rápido: tempestades elétricas bem definidas, como a registrada na imagem."
+    },
+    {
         "fullstartdate": "202605050300",
         "date": "20260505",
         "url": "https://www.bing.com/th?id=OHR.MayoAgave_PT-BR7161087994_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BelemTowerBank_PT-BR9115323805",
         "copyright": "Torre de Belém às margens do rio Tejo, Lisboa, Portugal (© f9photos/Getty Images)",
         "copyrightKeyword": "torre belém",
-        "hsh": "3e50681f0470d30ae054ef73052121ee",
-        "description": "Na imagem, a Torre de Belém marca o lugar onde Lisboa terminava e o Atlântico começava. Por ali passavam os navios na época das grandes navegações, carregando esperança e mapas cheios de lacunas, no mesmo fôlego histórico que colocaria o futuro território brasileiro no radar português."
-    },
-    {
-        "fullstartdate": "202604280300",
-        "date": "20260428",
-        "url": "https://www.bing.com/th?id=OHR.AndeanBear_PT-BR8313253312_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AndeanBear_PT-BR8313253312",
-        "copyright": "Urso-de-óculos descansando em uma árvore, Equador (© Andy Rouse/Nature Picture Library)",
-        "copyrightKeyword": "urso de oculos",
-        "hsh": "6e65041e627c671b8df8bf54595edb23"
+        "hsh": "3e50681f0470d30ae054ef73052121ee"
     }
 ]
