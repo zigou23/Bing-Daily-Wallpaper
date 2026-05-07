@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202605072200",
+        "date": "20260508",
+        "url": "https://www.bing.com/th?id=OHR.GiroItaliaBici_IT-IT3447077105_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GiroItaliaBici_IT-IT3447077105",
+        "copyright": "Giro d’Italia (© LUK BENIES/Stringer/Getty Images)",
+        "copyrightKeyword": "Giro d Italia",
+        "hsh": "4553aaadfd997f1935da19fc463aca65",
+        "description": "Il Giro d’Italia è più di una corsa: è un racconto in movimento che attraversa paesaggi, storia e fatica, trasformando ogni tappa in un viaggio. Dalle strade costiere alle grandi salite alpine, ogni chilometro unisce territori diversi in una narrazione fatta di ritmo, strategia e resistenza, mentre il pubblico accompagna i corridori lungo un mosaico di città, borghi e scenari naturali."
+    },
+    {
         "fullstartdate": "202605062200",
         "date": "20260507",
         "url": "https://www.bing.com/th?id=OHR.Kofa_IT-IT0064163768_1920x1080.jpg",
@@ -71,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_IT-IT6995398128",
         "copyright": "Faro di Tŵr Mawr, isola di Llanddwyn, Anglesey, Galles (© Lukas Bischoff/Getty Images)",
         "copyrightKeyword": "Isola di Ynys Llanddwyn",
-        "hsh": "25156647401cba91000a86e34325b37a",
-        "description": "A volte sono i luoghi silenziosi a restare più a lungo nella memoria, proprio come il faro di Tŵr Mawr. Sorge dal 1845 su Ynys Llanddwyn, una piccola isola tidale al largo di Anglesey (Ynys Môn), sulla costa gallese, che durante l’alta marea rimane temporaneamente separata dalla terraferma. Con un’altezza di poco superiore ai dieci metri, Tŵr Mawr non è un colosso imponente, ma un punto di riferimento ricco di carattere. In passato guidava le navi attraverso le impegnative acque dello stretto di Menai, contribuendo alla navigazione sicura in una delle aree marittime più difficili della regione.",
-        "maplink": "53.13707,-4.412761"
-    },
-    {
-        "fullstartdate": "202604292200",
-        "date": "20260430",
-        "url": "https://www.bing.com/th?id=OHR.DutchTulips_IT-IT3654570550_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DutchTulips_IT-IT3654570550",
-        "copyright": "Giacinti e tulipani, Giardini di Keukenhof, Lisse, Paesi Bassi (© Martin Ruegner/Getty Images)",
-        "copyrightKeyword": "Tulipa",
-        "hsh": "9e4015e5086d38fbde71a2c1a337673c"
+        "hsh": "25156647401cba91000a86e34325b37a"
     }
 ]
