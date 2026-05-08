@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202605082200",
+        "date": "20260509",
+        "url": "https://www.bing.com/th?id=OHR.SkradinskiBuk_DE-DE6216835034_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SkradinskiBuk_DE-DE6216835034",
+        "copyright": "Wasserfälle von Skradinski Buk im Nationalpark Krka, Kroatien (© Amazing Aerial Agency/Adobe Stock)",
+        "copyrightKeyword": "Nationalpark Krka Kroatien",
+        "hsh": "ba9ebd9313e646596f6fa173f6e6a1a4",
+        "description": "Fließendes Wasser prägt im Nationalpark Krka seit Jahrtausenden eine Landschaft aus smaragdgrünen Becken und gestuften Kalkterrassen. Am Skradinski Buk, nahe dem Dorf Lozovac, verzweigt sich der Fluss in zahlreiche Arme, die über helle Kalkformationen durch dichten Wald in die Tiefe stürzen. So entsteht eine der eindrucksvollsten Wasserfalllandschaften Kroatiens.",
+        "maplink": "43.805592,15.963964"
+    },
+    {
         "fullstartdate": "202605072200",
         "date": "20260508",
         "url": "https://www.bing.com/th?id=OHR.SardinianDonkey_DE-DE5829201604_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.GreenJasper_DE-DE3724735614",
         "copyright": "Kleiner See und Feuchtgebiet im Jasper‑Nationalpark in Alberta, Kanada (© Don White/Getty Images)",
         "copyrightKeyword": "Jasper‑Nationalpark Alberta",
-        "hsh": "b2f4af11434dfe382855bb81975cd18a",
-        "description": "Wie wild sich Natur anfühlen kann, zeigt der Jasper‑Nationalpark in den kanadischen Rocky Mountains eindrucksvoll. Weite Täler, stille Feuchtgebiete, dichte Nadelwälder und von Gletschern gespeiste Flüsse prägen diese Landschaft in Alberta. Der Park wurde bereits zu Beginn des 20. Jahrhunderts unter Schutz gestellt und bewahrt bis heute einen spürbar ursprünglichen Charakter.",
-        "maplink": "52.873398,-117.954308"
-    },
-    {
-        "fullstartdate": "202604302200",
-        "date": "20260501",
-        "url": "https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_DE-DE3505547766_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_DE-DE3505547766",
-        "copyright": "Leuchtturm Tŵr Mawr, Ynys Llanddwyn, Anglesey, Wales (© Lukas Bischoff/Getty Images)",
-        "copyrightKeyword": "Leuchtturm Twr Mawr",
-        "hsh": "a4a15de5ab1b3c735006ff074cabaf40"
+        "hsh": "b2f4af11434dfe382855bb81975cd18a"
     }
 ]
