@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202605121500",
+        "date": "20260513",
+        "url": "https://www.bing.com/th?id=OHR.AlabamaHills_JA-JP6287825652_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AlabamaHills_JA-JP6287825652",
+        "copyright": "アラバマヒルズ, 米国 カリフォルニア州 (© Tim Fitzharris/Minden Pictures)",
+        "copyrightKeyword": "アラバマヒルズ",
+        "hsh": "49e02f551936aca3f7b14a7a0337b775",
+        "description": "ここは米国カリフォルニア州シエラネバダ山脈の東側に広がるアラバマヒルズ。この独特な地形は、約 1 億年前のプレート沈み込みに伴うマグマ活動によって形成された花崗岩類と、それ以前の火山岩が変成した岩石が、その後の長い年月にわたる風と水の侵食を受けたことで形づくられました。そして、今日の画像は丸みを帯びた花崗岩のメビウスアーチ越しに、天の川がくっきりと浮かび上がる一枚です。光害が少ないことから星空観察や夜景撮影の名所として知られ、1920 年代以降は数多くの映画やドラマのロケ地として使用されています。",
+        "maplink": "36.981191,-118.081229"
+    },
+    {
         "fullstartdate": "202605111500",
         "date": "20260512",
         "url": "https://www.bing.com/th?id=OHR.Fratercula_JA-JP6144226561_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BulgariaPlains_JA-JP4515566359",
         "copyright": "平原に現れた巨大積乱雲, ブルガリア (© Revolu7ion93/Getty Images)",
         "copyrightKeyword": "ブルガリア",
-        "hsh": "57fe0fafa52adf0982f8c8663c589c30",
-        "description": "バルカン半島東部に位置するブルガリアは、ヨーロッパとアジアの交差点にある国です。バルカン山脈によって気候が大きく分けられており、国内に広がる二つの主要な平原にその特徴がよく表れています。北部のドナウ平原は、温暖な大陸性気候で冬は寒さが厳しく、夏は高温多湿になる地域です。一方、南部のトラキア平原は、大陸性気候とエーゲ海方面から流れ込む地中海性気候の影響を受ける移行帯にあります。夏は高温になりやすく、湿った空気と地表の強い加熱によって大気が不安定となるため、雷雨を伴う夏季の嵐が平原上空で発生しやすい地域です。",
-        "maplink": "42.607399,25.485662"
-    },
-    {
-        "fullstartdate": "202605041500",
-        "date": "20260505",
-        "url": "https://www.bing.com/th?id=OHR.ChildrensDay2026_JA-JP4339103590_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ChildrensDay2026_JA-JP4339103590",
-        "copyright": "姫の沢公園, 静岡県 熱海市 (© SKY Stock/Shutterstock)",
-        "copyrightKeyword": "こどもの日",
-        "hsh": "0d0d515d1c6c394e52d9a5eeab4b496d"
+        "hsh": "57fe0fafa52adf0982f8c8663c589c30"
     }
 ]

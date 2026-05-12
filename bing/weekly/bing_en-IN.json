@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202605121830",
+        "date": "20260513",
+        "url": "https://www.bing.com/th?id=OHR.AlabamaHills_EN-IN6543590373_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AlabamaHills_EN-IN6543590373",
+        "copyright": "Arch and Milky Way, Alabama Hills, Sierra Nevada, California, United States (© Tim Fitzharris/Minden Pictures)",
+        "copyrightKeyword": "Alabama Hills",
+        "hsh": "ca5f6687c11e28ae1e2c097d119b3a35",
+        "description": "In today's image, the granite arches of the Alabama Hills frame the Milky Way over a rugged landscape in California's eastern Sierra Nevada. Famous for its rounded boulders and weathered rock formations, this area formed when molten rock cooled deep underground around 100 million years ago. Water and wind gradually shaped the stone into the smooth shapes seen today. Visitors can explore the natural arches, hike among the rocks, capture photographs of the unique landscape, ride horses or mountain bikes and enjoy seasonal displays of wildflowers.",
+        "maplink": "36.981191,-118.081229"
+    },
+    {
         "fullstartdate": "202605111830",
         "date": "20260512",
         "url": "https://www.bing.com/th?id=OHR.Fratercula_EN-IN6270767271_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BulgariaPlains_EN-IN4718054909",
         "copyright": "Thunderstorm above the plains, Bulgaria (© Revolu7ion93/Getty Images)",
         "copyrightKeyword": "Bulgaria",
-        "hsh": "bf065bdb21db0aac2a7b97dc92c1dcc8",
-        "description": "Located on the eastern Balkan Peninsula, Bulgaria sits at the crossroads of Europe and Asia, where ancient cultures, fertile landscapes and shifting climates converge.",
-        "maplink": "42.75,25.5"
-    },
-    {
-        "fullstartdate": "202605041830",
-        "date": "20260505",
-        "url": "https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_EN-IN1989617864_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_EN-IN1989617864",
-        "copyright": "Tŵr Mawr Lighthouse, Ynys Llanddwyn, Anglesey, Wales (© Lukas Bischoff/Getty Images)",
-        "copyrightKeyword": "Twr Mawr Lighthouse",
-        "hsh": "ce5c9e7cde2dcd5cc6add6372225a78b"
+        "hsh": "bf065bdb21db0aac2a7b97dc92c1dcc8"
     }
 ]

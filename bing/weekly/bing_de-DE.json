@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202605122200",
+        "date": "20260513",
+        "url": "https://www.bing.com/th?id=OHR.AlabamaHills_DE-DE8956133719_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AlabamaHills_DE-DE8956133719",
+        "copyright": "Felsbogen und Milchstraße, Alabama Hills, Sierra Nevada, Kalifornien, USA (© Tim Fitzharris/Minden Pictures)",
+        "copyrightKeyword": "Alabama Hills",
+        "hsh": "4b684e32c447947a31bec1d9b144aa11",
+        "description": "Abgerundete Granitfelsen und natürliche Bögen prägen die Landschaft der Alabama Hills im Osten Kaliforniens. Die markanten Formationen am Rande der Sierra Nevada entstanden vor rund 100 Millionen Jahren durch magmatische Prozesse und wurden anschließend über lange Zeit von Wind und Temperaturwechseln geformt. Heute bilden sie einen eindrucksvollen Rahmen für den Nachthimmel.",
+        "maplink": "36.981191,-118.081229"
+    },
+    {
         "fullstartdate": "202605112200",
         "date": "20260512",
         "url": "https://www.bing.com/th?id=OHR.Fratercula_DE-DE8669315365_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BulgariaPlains_DE-DE4866806694",
         "copyright": "Gewitter über der Ebene, Bulgarien (© Revolu7ion93/Getty Images)",
         "copyrightKeyword": "Bulgarien",
-        "hsh": "2720b5256d934c1653753b98bc473d83",
-        "description": "Dunkle Gewitterwolken ziehen über die weiten Ebenen Bulgariens und entladen sich über einer offenen Kulturlandschaft. Die flachen Regionen im Norden und Süden des Landes zählen zu den fruchtbarsten Gebieten Südosteuropas und reagieren besonders sensibel auf plötzliche Wetterumschwünge.",
-        "maplink": "42.75,25.5"
-    },
-    {
-        "fullstartdate": "202605042200",
-        "date": "20260505",
-        "url": "https://www.bing.com/th?id=OHR.LuebeckChairs_DE-DE4681131575_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LuebeckChairs_DE-DE4681131575",
-        "copyright": "Strandkörbe am Ostseestrand von Grömitz, Schleswig‑Holstein (© Sabine Lubenow/Image Professionals GmbH/Alamy)",
-        "copyrightKeyword": "Geschichte Strandkorb Ostsee",
-        "hsh": "0a814bdbdbdc1a1f7aa2ab60b1feb9b1"
+        "hsh": "2720b5256d934c1653753b98bc473d83"
     }
 ]

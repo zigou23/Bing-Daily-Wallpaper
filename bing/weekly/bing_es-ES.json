@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202605122200",
+        "date": "20260513",
+        "url": "https://www.bing.com/th?id=OHR.AlabamaHills_ES-ES6766032995_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AlabamaHills_ES-ES6766032995",
+        "copyright": "Arco y Vía Láctea, Alabama Hills, Sierra Nevada, California, EE. UU. (© Tim Fitzharris/Minden Pictures)",
+        "copyrightKeyword": "Alabama Hills Estados Unidos",
+        "hsh": "9e76bb0b52e79916f395ba8f6c00a8d0",
+        "description": "Bienvenidos a Alabama Hills, en el estado estadounidense de California. Sus formaciones de granito se originaron hace unos cien millones de años, cuando se formó el batolito de la Sierra Nevada, y con el tiempo el viento y el agua fueron erosionando la superficie hasta modelar sus redondeadas y sugerentes formas. Quienes las visitan pueden pasear entre los arcos naturales, hacer excursiones, fotografiar paisajes singulares o recorrer los senderos a caballo o en bicicleta. También pueden admirar las flores silvestres que aparecen según la temporada. La escasa contaminación lumínica convierte a estas colinas en un lugar excelente para observar el cielo nocturno.",
+        "maplink": "36.981191,-118.081229"
+    },
+    {
         "fullstartdate": "202605112200",
         "date": "20260512",
         "url": "https://www.bing.com/th?id=OHR.Fratercula_ES-ES7096599670_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BulgariaPlains_ES-ES6386466102",
         "copyright": "Tormenta sobre las llanuras, Bulgaria (© Revolu7ion93/Getty Images)",
         "copyrightKeyword": "Bulgaria",
-        "hsh": "33799391e15a5adc0c17b16d27a1ddba",
-        "description": "Situada en el sureste de Europa, en la península balcánica, Bulgaria se encuentra donde confluyen culturas antiguas, paisajes fértiles y climas cambiantes. Bajo cielos dramáticos, sus dos grandes llanuras constituyen el corazón agrícola del país: la Llanura Danubiana al norte, un territorio ondulado de campos y valles modelado por un clima templado que en verano desata tormentas poderosas, y más al sur, la Llanura Tracia Superior, más baja y cálida, donde las masas de aire mediterráneo y la humedad del río Maritsa hacen que las tormentas estivales sean intensas e imprevisibles.",
-        "maplink": "42.75,25.5"
-    },
-    {
-        "fullstartdate": "202605042200",
-        "date": "20260505",
-        "url": "https://www.bing.com/th?id=OHR.MayoAgave_ES-ES4054314323_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MayoAgave_ES-ES4054314323",
-        "copyright": "Campo de agave azul cerca de Tequila, Jalisco, México (© Brian Overcast/Alamy)",
-        "copyrightKeyword": "Cinco de Mayo",
-        "hsh": "10557a5033c2e0218e347fb357b6cf8f"
+        "hsh": "33799391e15a5adc0c17b16d27a1ddba"
     }
 ]
