@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202605131500",
+        "date": "20260514",
+        "url": "https://www.bing.com/th?id=OHR.Pitigliano_JA-JP6741766886_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.Pitigliano_JA-JP6741766886",
+        "copyright": "ピティリアーノ, イタリア (© bluejayphoto/Getty Images Plus)",
+        "copyrightKeyword": "ピティリアーノ",
+        "hsh": "089e99d4ad76641ca5c9aff1233093b3",
+        "description": "ここはイタリア・トスカーナ州南部に位置する凝灰岩の崖の上に築かれた町、ピティリアーノ。起源はエトルリア時代にさかのぼり、中世からルネサンス期にかけての建築が迷路のような路地に息づいています。かつてユダヤ人コミュニティが栄えたことから「小さなエルサレム」とも呼ばれ、シナゴーグや歴史ある墓地がその面影を今に伝えます。地元のレストランでは伝統的なトスカーナ料理を楽しめ、少し歩くだけで文化と美食が調和する時を超えた旅の魅力を体験できます。",
+        "maplink": "42.636668,11.669293"
+    },
+    {
         "fullstartdate": "202605121500",
         "date": "20260513",
         "url": "https://www.bing.com/th?id=OHR.AlabamaHills_JA-JP6287825652_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.Kofa_JA-JP4672929305",
         "copyright": "コファ国立野生生物保護区, 米国 アリゾナ州 (© Denis Tangney Jr/Getty Images)",
         "copyrightKeyword": "コファ国立野生生物保護区",
-        "hsh": "324491c2aa3ef70d33a864a276624031",
-        "description": "ここは、米国アリゾナ州南西部のソノラ砂漠に広がるコファ国立野生生物保護区です。1939 年、砂漠オオツノヒツジ（ビッグホーンシープ）を保護するために設立されました。約 2,700km² におよぶ広大な敷地には、険しい山々、火山岩がつくり出した地形、そして珍しいヤシの木が連なる峡谷など、多彩な景観が広がります。また、砂漠オオツノヒツジのほかにも、サバクゴファーガメやコヨーテ、スズメの一種であるサボテンミソサザイなど、過酷な環境に適応した野生生物がこの地に生息しています。",
-        "maplink": "33.237996,-114.011199"
-    },
-    {
-        "fullstartdate": "202605051500",
-        "date": "20260506",
-        "url": "https://www.bing.com/th?id=OHR.BulgariaPlains_JA-JP4515566359_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BulgariaPlains_JA-JP4515566359",
-        "copyright": "平原に現れた巨大積乱雲, ブルガリア (© Revolu7ion93/Getty Images)",
-        "copyrightKeyword": "ブルガリア",
-        "hsh": "57fe0fafa52adf0982f8c8663c589c30"
+        "hsh": "324491c2aa3ef70d33a864a276624031"
     }
 ]

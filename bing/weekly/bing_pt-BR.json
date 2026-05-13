@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202605130300",
+        "date": "20260513",
+        "url": "https://www.bing.com/th?id=OHR.AlabamaHills_PT-BR6088970693_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AlabamaHills_PT-BR6088970693",
+        "copyright": "Arco rochoso e Via Láctea, Alabama Hills, Sierra Nevada, Califórnia, EUA (© Tim Fitzharris/Minden Pictures)",
+        "copyrightKeyword": "Alabama Hills na Califórnia",
+        "hsh": "381ce6ed8dd3ca5c87fd34151dbaf176",
+        "description": "Em Alabama Hills, na Califórnia, Estados Unidos, arcos de granito recortam a paisagem como janelas abertas para o céu. No flanco oriental da Sierra Nevada, o relevo faz a Terra parecer outro planeta. As rochas que vemos na imagem nasceram há cerca de 100 milhões de anos e, desde então, vento e água trabalharam com paciência para esculpir curvas suaves e formas inesperadas."
+    },
+    {
         "fullstartdate": "202605120300",
         "date": "20260512",
         "url": "https://www.bing.com/th?id=OHR.Fratercula_PT-BR3505081741_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BulgariaPlains_PT-BR7466173362",
         "copyright": "Tempestade sobre as planícies, Bulgária (© Revolu7ion93/Getty Images)",
         "copyrightKeyword": "Bulgária",
-        "hsh": "0bc3de635acc654c31b440e4abda2db6",
-        "description": "A Bulgária vive um equilíbrio climático pouco comum para um país tão compacto. Situado entre a Europa e a Ásia, o território funciona como um corredor onde diferentes massas de ar entram em choque. Ao norte, a Planície do Danúbio acumula calor intenso. Ao sul, a Planície da Trácia Superior recebe a umidade que sobe do mar Egeu, atravessa o interior e deixa o ar pesado. Quando essas duas forças se encontram, o resultado aparece rápido: tempestades elétricas bem definidas, como a registrada na imagem."
-    },
-    {
-        "fullstartdate": "202605050300",
-        "date": "20260505",
-        "url": "https://www.bing.com/th?id=OHR.MayoAgave_PT-BR7161087994_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MayoAgave_PT-BR7161087994",
-        "copyright": "Campo de agave-azul perto de Tequila, Jalisco, México (© Brian Overcast/Alamy)",
-        "copyrightKeyword": "o cinco de mayo",
-        "hsh": "b297c336afc3741184f3c8757b8e2d3d"
+        "hsh": "0bc3de635acc654c31b440e4abda2db6"
     }
 ]

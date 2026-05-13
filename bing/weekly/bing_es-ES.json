@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202605132200",
+        "date": "20260514",
+        "url": "https://www.bing.com/th?id=OHR.Pitigliano_ES-ES6539419592_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.Pitigliano_ES-ES6539419592",
+        "copyright": "Ciudad medieval de Pitigliano, Toscana, Italia (© bluejayphoto/Getty Images Plus)",
+        "copyrightKeyword": "Pitigliano",
+        "hsh": "ce2aa3f7692113fe6a6f78f9accb08a1",
+        "description": "Encaramado sobre una cresta de toba en el sur de la Toscana, Italia, Pitigliano es un pequeño pueblo de orígenes etruscos, y sus calles sinuosas aún evocan el pasado, desde fortificaciones medievales hasta palacios renacentistas. Al recorrer sus estrechos callejones, se pueden sentir siglos de vida tallados en la piedra, mientras pequeñas plazas invitan a hacer pausas para tomar un café o un helado. Este pintoresco enclave puede recordarnos al pueblo de Castellfollit de la Roca en Cataluña, por su espectacular emplazamiento y su armonía con el paisaje.",
+        "maplink": "42.636668,11.669293"
+    },
+    {
         "fullstartdate": "202605122200",
         "date": "20260513",
         "url": "https://www.bing.com/th?id=OHR.AlabamaHills_ES-ES6766032995_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.Kofa_ES-ES0725925075",
         "copyright": "Refugio Nacional de Vida Silvestre de Kofa, Arizona, EE. UU. (© Denis Tangney Jr/Getty Images)",
         "copyrightKeyword": "Refugio Nacional de Vida Silvestre de Kofa Estados Unidos",
-        "hsh": "d34979f56bd4560f659cb5c225cced2e",
-        "description": "El Refugio Nacional de Vida Silvestre de Kofa, en Arizona, es una amplia extensión de desierto donde la dureza del paisaje convive con una notable diversidad de vida. Montañas áridas, llanuras pedregosas y cactus gigantes forman un escenario que parece inmóvil bajo el sol, pero que alberga fauna adaptada a condiciones extremas. Entre sus símbolos destaca el borrego cimarrón del desierto, capaz de moverse con agilidad por laderas rocosas. El área protegida también acoge aves, reptiles y pequeños mamíferos que encuentran aquí alimento y refugio.",
-        "maplink": "33.237633,-114.011215"
-    },
-    {
-        "fullstartdate": "202605052200",
-        "date": "20260506",
-        "url": "https://www.bing.com/th?id=OHR.BulgariaPlains_ES-ES6386466102_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BulgariaPlains_ES-ES6386466102",
-        "copyright": "Tormenta sobre las llanuras, Bulgaria (© Revolu7ion93/Getty Images)",
-        "copyrightKeyword": "Bulgaria",
-        "hsh": "33799391e15a5adc0c17b16d27a1ddba"
+        "hsh": "d34979f56bd4560f659cb5c225cced2e"
     }
 ]

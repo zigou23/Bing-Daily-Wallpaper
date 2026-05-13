@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202605132200",
+        "date": "20260514",
+        "url": "https://www.bing.com/th?id=OHR.Pitigliano_IT-IT4525034108_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.Pitigliano_IT-IT4525034108",
+        "copyright": "Pitigliano, Provincia di Grosseto, Toscana (© bluejayphoto/Getty Images Plus)",
+        "copyrightKeyword": "Pitigliano",
+        "hsh": "e6a7eac6cb42a623a04e2534f83f631c",
+        "description": "Adagiata su una cresta di tufo nella Toscana meridionale, Pitigliano è una piccola cittadina dal grande carattere. Le sue radici risalgono all’epoca etrusca, e le strade tortuose custodiscono ancora l’eco del passato, dalle fortificazioni medievali ai palazzi rinascimentali. Passeggiando per i suoi vicoli stretti, si percepiscono secoli di vita scolpiti nella pietra, mentre piccole piazze invitano a soste per un caffè o un gelato. Il suo stemma araldico, raffigurante uno scudo d’oro con una torre merlata d’argento su un colle, affiancata da due leoni rossi e sormontata da rose dello stesso colore, completa l’identità visiva della città.",
+        "maplink": "42.636668,11.669293"
+    },
+    {
         "fullstartdate": "202605122200",
         "date": "20260513",
         "url": "https://www.bing.com/th?id=OHR.AlabamaHills_IT-IT1042624581_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.Kofa_IT-IT0064163768",
         "copyright": "Riserva naturale nazionale di Kofa, Arizona, USA (© Denis Tangney Jr/Getty Images)",
         "copyrightKeyword": "Arizona stato federato",
-        "hsh": "586549a39e21a9d621381cbcf836f8e2",
-        "description": "Estesa nel deserto di Sonora, nello Stato americano dell’Arizona sud‑occidentale, la riserva naturale nazionale di Kofa è una terra di cime aspre, cieli immensi e una ricca biodiversità. L’area protetta fu istituita nel 1939, mentre il nome «Kofa» deriva dalla storica miniera d’oro King of Arizona, un tempo molto attiva nelle montagne vicine, il cui nome venne abbreviato fino a diventare una parola unica e memorabile.",
-        "maplink": "33.237633,-114.011215"
-    },
-    {
-        "fullstartdate": "202605052200",
-        "date": "20260506",
-        "url": "https://www.bing.com/th?id=OHR.BulgariaPlains_IT-IT9195177220_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BulgariaPlains_IT-IT9195177220",
-        "copyright": "Temporale sulle pianure, Bulgaria (© Revolu7ion93/Getty Images)",
-        "copyrightKeyword": "Bulgaria",
-        "hsh": "5bd5c6dae3a4800ce48273dd4cd49b31"
+        "hsh": "586549a39e21a9d621381cbcf836f8e2"
     }
 ]

@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202605132300",
+        "date": "20260513",
+        "url": "https://www.bing.com/th?id=OHR.Pitigliano_EN-GB3042825945_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.Pitigliano_EN-GB3042825945",
+        "copyright": "Medieval town of Pitigliano, Tuscany, Italy (© bluejayphoto/Getty Images Plus)",
+        "copyrightKeyword": "Pitigliano Tuscany",
+        "hsh": "acd6dc0d379b23fb6805ee78a3fba2f6",
+        "description": "Perched on a tufa ridge in southern Tuscany, Italy, Pitigliano is a small town with a big personality. Its roots stretch back to Etruscan times, and the winding streets still echo the past, from medieval fortifications to Renaissance palaces. Walking through its narrow alleys, you can feel centuries of life carved into the stone, while small piazzas invite pauses for coffee or gelato. This enduring treasure is often called 'Little Jerusalem' for its historic Jewish quarter, where a synagogue and historic cemetery tell stories of a once-thriving community.",
+        "maplink": "42.636668,11.669293"
+    },
+    {
         "fullstartdate": "202605122300",
         "date": "20260512",
         "url": "https://www.bing.com/th?id=OHR.AlabamaHills_EN-GB2646719010_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.Kofa_EN-GB9757705283",
         "copyright": "Kofa National Wildlife Refuge, Arizona, United States (© Denis Tangney Jr/Getty Images)",
         "copyrightKeyword": "Kofa National Wildlife Refuge",
-        "hsh": "e498b8acb3801773fb406727eded5696",
-        "description": "Stretching across the Sonoran Desert in southwestern Arizona, United States, Kofa National Wildlife Refuge is a land of sharp peaks, wide skies and surprising life. The refuge was established in 1939 to protect desert bighorn sheep, whose sure-footed silhouettes still define the rugged landscape.",
-        "maplink": "33.237633,-114.011215"
-    },
-    {
-        "fullstartdate": "202605052300",
-        "date": "20260505",
-        "url": "https://www.bing.com/th?id=OHR.BulgariaPlains_EN-GB7011360187_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BulgariaPlains_EN-GB7011360187",
-        "copyright": "Thunderstorm above the plains, Bulgaria (© Revolu7ion93/Getty Images)",
-        "copyrightKeyword": "Bulgaria",
-        "hsh": "a7e56504afb8e300d7cd4cf4afe92b7a"
+        "hsh": "e498b8acb3801773fb406727eded5696"
     }
 ]

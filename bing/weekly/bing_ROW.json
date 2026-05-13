@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202605130700",
+        "date": "20260513",
+        "url": "https://www.bing.com/th?id=OHR.AlabamaHills_ROW6449052938_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AlabamaHills_ROW6449052938",
+        "copyright": "Arch and Milky Way, Alabama Hills, Sierra Nevada, California, United States (© Tim Fitzharris/Minden Pictures)",
+        "copyrightKeyword": "Alabama Hills",
+        "hsh": "e4a919e8c10eb729244319cfaaa1aee1",
+        "description": "In today's image, the granite arches of the Alabama Hills frame the Milky Way over a rugged landscape in California's eastern Sierra Nevada, United States. Famous for its rounded boulders and weathered rock formations, this area formed when molten rock cooled deep underground around 100 million years ago. Water and wind gradually shaped the stone into the smooth shapes seen today. Visitors can explore the natural arches, hike among the rocks, capture photographs of the unique landscape, ride horses or mountain bikes and enjoy seasonal displays of wildflowers."
+    },
+    {
         "fullstartdate": "202605120700",
         "date": "20260512",
         "url": "https://www.bing.com/th?id=OHR.Fratercula_ROW2531275403_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BulgariaPlains_ROW5132279610",
         "copyright": "Thunderstorm above the plains, Bulgaria (© Revolu7ion93/Getty Images)",
         "copyrightKeyword": "Bulgaria",
-        "hsh": "16c63014d03d750be98c54696d94144f",
-        "description": "Located on the eastern Balkan Peninsula, Bulgaria sits at the crossroads of Europe and Asia, where ancient cultures, fertile landscapes and shifting climates converge."
-    },
-    {
-        "fullstartdate": "202605050700",
-        "date": "20260505",
-        "url": "https://www.bing.com/th?id=OHR.MayoAgave_ROW0279228757_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MayoAgave_ROW0279228757",
-        "copyright": "Field of blue agave near Tequila, Jalisco, Mexico (© Brian Overcast/Alamy)",
-        "copyrightKeyword": "Tequila Jalisco Mexico",
-        "hsh": "803728ced525284effa25bdacfc0a021"
+        "hsh": "16c63014d03d750be98c54696d94144f"
     }
 ]
