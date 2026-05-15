@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202605152300",
+        "date": "20260515",
+        "url": "https://www.bing.com/th?id=OHR.SmithRockPark_EN-GB6390650151_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SmithRockPark_EN-GB6390650151",
+        "copyright": "Smith Rock State Park, Oregon, United States (© Alex Ratson/Getty Images)",
+        "copyrightKeyword": "Smith Rock State Park",
+        "hsh": "b64410e4a55ca1d3141f719679803ead",
+        "description": "What do you call a place where the rocks do the climbing, and humans try to keep up? Welcome to Smith Rock State Park in Oregon, United States, where cliffs rise fast and excuses fall faster. It sits inside the 26-mile-long Crooked River Caldera, shaped by multiple volcanic eruptions. Its welded tuff cliffs are made from compressed volcanic ash that cooled under pressure. The Crooked River carved the canyon, while formations like the Spire rise over 200 metres.",
+        "maplink": "44.368233,-121.14061"
+    },
+    {
         "fullstartdate": "202605142300",
         "date": "20260514",
         "url": "https://www.bing.com/th?id=OHR.EndangeredWhales_EN-GB6066298369_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SkradinskiBuk_EN-GB0974720288",
         "copyright": "Skradinski Buk Waterfall in Krka National Park, Croatia (© Amazing Aerial Agency/Adobe Stock)",
         "copyrightKeyword": "Krka National Park Croatia",
-        "hsh": "b7e0d41a3cb70c1d768681c45c086d1b",
-        "description": "Water is the architect of Krka National Park in Croatia, shaping emerald pools and layered waterfalls along the Krka River. Today's image highlights Skradinski Buk, the park's most famous waterfall system, where multiple streams spill over travertine terraces in a dense forest near the village of Lozovac.",
-        "maplink": "43.805592,15.963964"
-    },
-    {
-        "fullstartdate": "202605072300",
-        "date": "20260507",
-        "url": "https://www.bing.com/th?id=OHR.SardinianDonkey_EN-GB0103358048_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SardinianDonkey_EN-GB0103358048",
-        "copyright": "Sardinian donkey mare and foal, France (© Klein & Hubert/Nature Picture Library)",
-        "copyrightKeyword": "Donkey animal",
-        "hsh": "2d80f5452f2115753a7b03c01d943065"
+        "hsh": "b7e0d41a3cb70c1d768681c45c086d1b"
     }
 ]

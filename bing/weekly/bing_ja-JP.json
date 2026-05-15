@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202605151500",
+        "date": "20260516",
+        "url": "https://www.bing.com/th?id=OHR.SmithRockPark_JA-JP7493165844_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SmithRockPark_JA-JP7493165844",
+        "copyright": "スミスロック州立公園, 米国 オレゴン州 (© Alex Ratson/Getty Images)",
+        "copyrightKeyword": "スミスロック州立公園",
+        "hsh": "9bb95f629bb3ced0c4b1cfa6b89c3074",
+        "description": "ここは、米国オレゴン州にあるスミスロック州立公園。度重なる火山噴火によって形成された約 41km × 27km の巨大なクルックド・リバー・カルデラ内に位置しています。クルックド川によって削られた峡谷の周囲には、火山灰からなる急峻な溶結凝灰岩の断崖が広がっています。また、イヌワシやカワウソ、ピューマなど多様な野生生物が生息しており、オレゴン州の代表的な観光名所「七つの自然の驚異」の一つとして知られています。",
+        "maplink": "44.368233,-121.14061"
+    },
+    {
         "fullstartdate": "202605141500",
         "date": "20260515",
         "url": "https://www.bing.com/th?id=OHR.EndangeredWhales_JA-JP6796432237_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SkradinskiBuk_JA-JP5511016641",
         "copyright": "スクラディンスキ・ブクの滝, クロアチア (© Amazing Aerial Agency/Adobe Stock)",
         "copyrightKeyword": "スクラディンスキ・ブクの滝",
-        "hsh": "917aab0b66b8c278f2b62a43fd9e98a9",
-        "description": "ここはクロアチアのクルカ国立公園にあるスクラディンスキ・ブクの滝。クルカ川沿いに広がるこの滝は、単一の滝ではなく、全長約 800m にわたり 17 段の石灰華（トラバーチン）段丘が連なる大規模な滝群です。公園を代表するスポットであり、近隣に整備された木製の遊歩道や橋から、滝の流れを間近に眺めることができます。この滝を中心に、クルカ国立公園は豊かな水系と野生生物の生息環境を守っています。",
-        "maplink": "43.805624,15.963898"
-    },
-    {
-        "fullstartdate": "202605071500",
-        "date": "20260508",
-        "url": "https://www.bing.com/th?id=OHR.SardinianDonkey_JA-JP4826123491_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SardinianDonkey_JA-JP4826123491",
-        "copyright": "ロバの親子, フランス (© Klein & Hubert/Nature Picture Library)",
-        "copyrightKeyword": "世界ロバの日",
-        "hsh": "bc66116d05683c62e1b3a9de0eabdbf4"
+        "hsh": "917aab0b66b8c278f2b62a43fd9e98a9"
     }
 ]
