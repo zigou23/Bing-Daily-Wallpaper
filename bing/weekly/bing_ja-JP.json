@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202605161500",
+        "date": "20260517",
+        "url": "https://www.bing.com/th?id=OHR.ShenandoahSunset_JA-JP8062281581_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ShenandoahSunset_JA-JP8062281581",
+        "copyright": "ホークスビル山, 米国 バージニア州 (© John Baggaley/Getty Images)",
+        "copyrightKeyword": "ホークスビル山",
+        "hsh": "d2dca8e62ff7705a5c257f9888859f5b",
+        "description": "米国バージニア州に位置するシェナンドー国立公園は、細長い形状をした公園です。面積は約 811km² で、1935 年の設立当初は、農耕や伐採で失われた自然を回復するため、再植林が進められました。現在は土地のほとんどが森林に覆われ、200 種以上の鳥類と 40 種以上の魚類が生息するなど多様な生態系が保たれています。そして、画像は公園内で最も標高が高いホークスビル山です。高さは 1,235m で、整備されたスカイライン・ドライブ道を利用して、山頂へ向かうトレイルの登山口にアクセスできます。",
+        "maplink": "38.554501,-78.396587"
+    },
+    {
         "fullstartdate": "202605151500",
         "date": "20260516",
         "url": "https://www.bing.com/th?id=OHR.SmithRockPark_JA-JP7493165844_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MotherCub_JA-JP7023780399",
         "copyright": "ホッキョクグマ, カナダ (© Hao Jiang/Getty Images)",
         "copyrightKeyword": "母の日",
-        "hsh": "edacf32943179d1fd32e21c415197e61",
-        "description": "今日 5 月 10 日は母の日。母親の日々の苦労をねぎらい、感謝を表す日です。そして、画像はカナダのワプスク国立公園で戯れるホッキョクグマの母子。ホッキョクグマは冬の巣穴で出産しますが、子どもが巣穴を出るまで最大で 8 ヵ月もの間絶食状態で母乳を与え、約 2 ～ 3 年かけて、母親ひとりで子を育てます。このホッキョクグマの生態は、世界でも有数の過酷な環境に生息しながらも命を守り続ける母性の尊さを伝えています。",
-        "maplink": "57.793864,-93.229021"
-    },
-    {
-        "fullstartdate": "202605081500",
-        "date": "20260509",
-        "url": "https://www.bing.com/th?id=OHR.SkradinskiBuk_JA-JP5511016641_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SkradinskiBuk_JA-JP5511016641",
-        "copyright": "スクラディンスキ・ブクの滝, クロアチア (© Amazing Aerial Agency/Adobe Stock)",
-        "copyrightKeyword": "スクラディンスキ・ブクの滝",
-        "hsh": "917aab0b66b8c278f2b62a43fd9e98a9"
+        "hsh": "edacf32943179d1fd32e21c415197e61"
     }
 ]
