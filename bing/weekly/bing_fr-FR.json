@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202605202200",
+        "date": "20260521",
+        "url": "https://www.bing.com/th?id=OHR.SichuanTea_FR-FR2758573736_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SichuanTea_FR-FR2758573736",
+        "copyright": "Plantations de thé en terrasses, Sichuan, Chine (© lzf/Shutterstock)",
+        "copyrightKeyword": "Journée internationale du thé",
+        "hsh": "da30fae81467afc8de2de98d8d177b19",
+        "description": "La Journée internationale du thé célèbre une boisson qui relie des gestes du quotidien à des paysages millénaires. Dans la province de Sichuan, au sud-ouest de la Chine, les champs de thé en terrasses émergent de la brume comme une mémoire vibrante. Ici, le thé est cultivé et consommé depuis environ 2 000 ans.",
+        "maplink": "30,103"
+    },
+    {
         "fullstartdate": "202605192200",
         "date": "20260520",
         "url": "https://www.bing.com/th?id=OHR.BumbleBee_FR-FR9421197553_1920x1080.jpg",
@@ -68,17 +79,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.Pitigliano_FR-FR6271151676",
         "copyright": "Ville médiévale de Pitigliano, Toscane, Italie (© bluejayphoto/Getty Images Plus)",
         "copyrightKeyword": "ville Pitigliano Toscane",
-        "hsh": "0286b851220f8a7302857fd437541c95",
-        "description": "Perché sur une crête de tuf volcanique au sud de la Toscane, en Italie, Pitigliano domine les vallons tel un décor sculpté dans la pierre. Héritière d’un ancien établissement étrusque, la ville déroule ses ruelles sinueuses entre remparts médiévaux et palais Renaissance. À chaque détour, la roche semble faire écho à la vie passée, tandis que de petites places invitent à s’arrêter pour un café ou une glace, dans un quotidien citadin animé.",
-        "maplink": "42.636668,11.669293"
-    },
-    {
-        "fullstartdate": "202605122200",
-        "date": "20260513",
-        "url": "https://www.bing.com/th?id=OHR.AlabamaHills_FR-FR7595844295_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AlabamaHills_FR-FR7595844295",
-        "copyright": "Voie lactée et arche naturelle, Alabama Hills, Sierra Nevada, Californie, États-Unis (© Tim Fitzharris/Minden Pictures)",
-        "copyrightKeyword": "Alabama Hills",
-        "hsh": "5f2b82afdb57e406525c829d8622e608"
+        "hsh": "0286b851220f8a7302857fd437541c95"
     }
 ]
