@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202605222300",
+        "date": "20260522",
+        "url": "https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_EN-GB5539260974_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_EN-GB5539260974",
+        "copyright": "Turtles with butterflies (© Patrick Gallet/Getty Images)",
+        "copyrightKeyword": "World Turtle Day",
+        "hsh": "f1137c02add5851216fe8b34b5f07d9c",
+        "description": "Turtles are not only fascinating animals; they also play vital roles in nature. Sea turtles help keep seagrass beds and coral reefs healthy, while freshwater and land counterparts support balanced ecosystems. Their shells are part of their skeletons, formed from dozens of fused bones, and some species navigate using Earth's magnetic field to return to the beaches where they hatched."
+    },
+    {
         "fullstartdate": "202605212300",
         "date": "20260521",
         "url": "https://www.bing.com/th?id=OHR.KauehiAtollLagoon_EN-GB5382728672_1920x1080.jpg",
@@ -70,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SmithRockPark_EN-GB6390650151",
         "copyright": "Smith Rock State Park, Oregon, United States (© Alex Ratson/Getty Images)",
         "copyrightKeyword": "Smith Rock State Park",
-        "hsh": "b64410e4a55ca1d3141f719679803ead",
-        "description": "What do you call a place where the rocks do the climbing, and humans try to keep up? Welcome to Smith Rock State Park in Oregon, United States, where cliffs rise fast and excuses fall faster. It sits inside the 26-mile-long Crooked River Caldera, shaped by multiple volcanic eruptions. Its welded tuff cliffs are made from compressed volcanic ash that cooled under pressure. The Crooked River carved the canyon, while formations like the Spire rise over 200 metres.",
-        "maplink": "44.368233,-121.14061"
-    },
-    {
-        "fullstartdate": "202605142300",
-        "date": "20260514",
-        "url": "https://www.bing.com/th?id=OHR.EndangeredWhales_EN-GB6066298369_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.EndangeredWhales_EN-GB6066298369",
-        "copyright": "A family of sperm whales, Indian Ocean (© Tony Wu/Nature Picture Library)",
-        "copyrightKeyword": "Endangered Species Day",
-        "hsh": "dc61e075519985c2444a15664eb30da6"
+        "hsh": "b64410e4a55ca1d3141f719679803ead"
     }
 ]

@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202605222200",
+        "date": "20260523",
+        "url": "https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_IT-IT6850354411_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_IT-IT6850354411",
+        "copyright": "Tartarughe e farfalle (© Patrick Gallet/Getty Images)",
+        "copyrightKeyword": "Giornata della Tartaruga",
+        "hsh": "5f2185e4efd74b7c74f80b6caa2942bb",
+        "description": "Le tartarughe sono animali affascinanti e svolgono ruoli fondamentali in natura. Aiutano a mantenere sani i letti di fanerogame marine e le barriere coralline, mentre le loro controparti d’acqua dolce e terrestri contribuiscono all’equilibrio degli ecosistemi. Il loro guscio fa parte del loro scheletro, formato da decine di ossa fuse tra loro, e alcune specie si orientano grazie al campo magnetico terrestre per tornare alle spiagge dove sono nate."
+    },
+    {
         "fullstartdate": "202605212200",
         "date": "20260522",
         "url": "https://www.bing.com/th?id=OHR.KauehiAtollLagoon_IT-IT9581557315_1920x1080.jpg",
@@ -71,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SmithRockPark_IT-IT1024044993",
         "copyright": "Smith Rock State Park, Oregon, USA (© Alex Ratson/Getty Images)",
         "copyrightKeyword": "Parco nazionale Smith Rock",
-        "hsh": "5be6b3ef0207b4504a385a9f65e96fab",
-        "description": "Oggi ci troviamo in un luogo dove le pareti sembrano arrampicarsi da sole e dove sono gli esseri umani a dover stare al loro passo. Siamo allo Smith Rock State Park, in Oregon, dove le scogliere si innalzano rapidamente e le scuse cedono ancora più in fretta. Il parco si trova all’interno della caldera del Crooked River, lunga circa 42 chilometri, modellata da una serie di eruzioni vulcaniche. Le sue falesie di tufo saldato sono formate da cenere vulcanica compressa, raffreddatasi sotto pressione. Fu il fiume Crooked a scavare il canyon, mentre formazioni come lo Spire svettano fino a 213 metri di altezza.",
-        "maplink": "44.368233,-121.14061"
-    },
-    {
-        "fullstartdate": "202605142200",
-        "date": "20260515",
-        "url": "https://www.bing.com/th?id=OHR.LenticchieNorcia_IT-IT5069422241_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LenticchieNorcia_IT-IT5069422241",
-        "copyright": "Lenticchie in fiore, Castelluccio di Norcia, Perugia, Umbria (© Rudolf Ernst/iStock/Getty Images)",
-        "copyrightKeyword": "Fioritura castelluccio",
-        "hsh": "79724848746ea9fa5a3614aa61b8bff0"
+        "hsh": "5be6b3ef0207b4504a385a9f65e96fab"
     }
 ]

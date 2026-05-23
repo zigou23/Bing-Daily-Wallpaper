@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202605222200",
+        "date": "20260523",
+        "url": "https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_DE-DE2682966963_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_DE-DE2682966963",
+        "copyright": "Schildkröten mit Schmetterlingen (© Patrick Gallet/Getty Images)",
+        "copyrightKeyword": "Welttag der Schildkröte",
+        "hsh": "e61730601329b7aabbd994624cb1ca54",
+        "description": "Sie gleiten lautlos durch Ozeane, Seen und Feuchtgebiete und erfüllen dabei Aufgaben, die für das Gleichgewicht der Natur unverzichtbar sind. Schildkröten zählen zu den ältesten heute lebenden Reptilien und spielen eine zentrale Rolle in vielen Ökosystemen. Meeresschildkröten halten Seegraswiesen und Korallenriffe gesund, während Süßwasser‑ und Landschildkröten zur Stabilität empfindlicher Lebensräume beitragen. Ihr Panzer ist kein äußeres Schutzschild, sondern ein Teil ihres Skeletts und besteht aus zahlreichen miteinander verwachsenen Knochen. Manche Arten orientieren sich zudem am Magnetfeld der Erde, um nach Jahrzehnten zu genau den Stränden zurückzukehren, an denen sie geschlüpft sind."
+    },
+    {
         "fullstartdate": "202605212200",
         "date": "20260522",
         "url": "https://www.bing.com/th?id=OHR.KauehiAtollLagoon_DE-DE7537602324_1920x1080.jpg",
@@ -38,7 +48,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SpainLighthouse_DE-DE4107700722",
         "copyright": "Leuchtturm von Formentor, Mallorca, Balearen, Spanien (© Allard Schager/Getty Images)",
         "copyrightKeyword": "Formentor Leuchtturm Spanien",
-        "hsh": "460ed32f9101a7ea92d4826a36c17dca",
+        "hsh": "0c75f40d7e60daf3bda0a3671b9cbdba",
         "description": "Weit sichtbar über dem Cap de Formentor steht der Leuchtturm von Formentor an einer der exponiertesten Küsten Mallorcas. Seit 1863 markiert er einen Ort, der nicht umsonst als „Treffpunkt der Winde“ bekannt ist. Rund 215 Meter über dem Mittelmeer gelegen, ist er von Port de Pollença aus über eine schmale, etwa 13 Kilometer lange Serpentinenstraße erreichbar. Der helle Kalkstein prägt die Landschaft und zeugt von uralten Meeren. Über Jahrmillionen wurde das Gestein angehoben und von Wind und Wasser zu steilen Wänden, Höhlen und natürlichen Bögen geformt. Diese raue Geologie verleiht der Gegend ihre stille Dramatik.",
         "maplink": "39.96139,3.212222"
     },
@@ -49,7 +59,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MuseumLondon_DE-DE5033129678",
         "copyright": "Natural History Museum, London, England (© Colm Keating/Tandem Stills + Motion)",
         "copyrightKeyword": "Natural History Museum London",
-        "hsh": "70566042d83d010325f3f04360ca9e44",
+        "hsh": "88e0f1ff8f094579fe157afe173e14f8",
         "description": "Manchmal genügt ein Schritt durch die Tür eines Museums, um der Zeit eine neue Tiefe zu verleihen. Fossilien zeugen von Leben vor Millionen von Jahren, funkelnde Edelsteine von geologischen Prozessen, die unseren Planeten formten. Museen machen solche Verbindungen sichtbar und eröffnen Räume, in denen Vergangenheit, Gegenwart und Zukunft aufeinandertreffen.",
         "maplink": "51.496716,-0.176346"
     },
@@ -71,16 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ButterflyFlower_DE-DE3210389568",
         "copyright": "Argus‑Bläuling auf einer Blüte (© Remus86/Getty Images)",
         "copyrightKeyword": "Argus‑Bläuling",
-        "hsh": "17b0e922a920894a00ca4efd57d1aa4a",
-        "description": "Kaum hat die warme Jahreszeit begonnen, flattert ein kleiner Botschafter artenreicher Landschaften durch die Wiesen: der Argus‑Bläuling, auch Geißklee‑Bläuling genannt. Er gehört zu den bekanntesten Tagfaltern Deutschlands. Die Männchen leuchten in intensivem Blau, während die Weibchen eher braun gefärbt sind. Namensgebend sind die augenähnlichen Flecken mit orangefarbenem Rand auf der Flügelunterseite. Besonders faszinierend ist sein Lebenszyklus, denn die Raupen leben in enger Gemeinschaft mit Ameisen, die sie beschützen und dafür zuckerhaltige Absonderungen erhalten."
-    },
-    {
-        "fullstartdate": "202605142200",
-        "date": "20260515",
-        "url": "https://www.bing.com/th?id=OHR.EndangeredWhales_DE-DE2753356925_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.EndangeredWhales_DE-DE2753356925",
-        "copyright": "Eine Pottwal-Familie im Indischen Ozean (© Tony Wu/Nature Picture Library)",
-        "copyrightKeyword": "Welttag der gefährdeten Arten",
-        "hsh": "abd9c81f5cff5e76c76c68117c628500"
+        "hsh": "17b0e922a920894a00ca4efd57d1aa4a"
     }
 ]
