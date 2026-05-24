@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202605242200",
+        "date": "20260525",
+        "url": "https://www.bing.com/th?id=OHR.HexenlochMill_DE-DE3552158856_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.HexenlochMill_DE-DE3552158856",
+        "copyright": "Die Hexenlochmühle im Schwarzwald bei Furtwangen, Baden‑Württemberg (© Conny Pokorny/Shutterstock)",
+        "copyrightKeyword": "Deutscher Mühlentag",
+        "hsh": "752024a72681c60be1acf58f7c77e3f6",
+        "description": "Jedes Jahr am Pfingstmontag rückt der Deutsche Mühlentag historische Wind‑ und Wassermühlen landesweit in den Fokus. Der Aktionstag erinnert daran, welche zentrale Rolle sie über Jahrhunderte hinweg für das Handwerk, die Energiegewinnung und die regionale Wirtschaft spielten – und warum ihr Erhalt bis heute von Bedeutung ist.",
+        "maplink": "48.009638,8.139676"
+    },
+    {
         "fullstartdate": "202605232200",
         "date": "20260524",
         "url": "https://www.bing.com/th?id=OHR.DolomitesPark_DE-DE0867398048_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MuseumLondon_DE-DE5033129678",
         "copyright": "Natural History Museum, London, England (© Colm Keating/Tandem Stills + Motion)",
         "copyrightKeyword": "Natural History Museum London",
-        "hsh": "88e0f1ff8f094579fe157afe173e14f8",
-        "description": "Manchmal genügt ein Schritt durch die Tür eines Museums, um der Zeit eine neue Tiefe zu verleihen. Fossilien zeugen von Leben vor Millionen von Jahren, funkelnde Edelsteine von geologischen Prozessen, die unseren Planeten formten. Museen machen solche Verbindungen sichtbar und eröffnen Räume, in denen Vergangenheit, Gegenwart und Zukunft aufeinandertreffen.",
-        "maplink": "51.496716,-0.176346"
-    },
-    {
-        "fullstartdate": "202605162200",
-        "date": "20260517",
-        "url": "https://www.bing.com/th?id=OHR.ShenandoahSunset_DE-DE3403386055_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ShenandoahSunset_DE-DE3403386055",
-        "copyright": "Hawksbill Mountain im Shenandoah‑Nationalpark, Virginia, USA (© John Baggaley/Getty Images)",
-        "copyrightKeyword": "Hawksbill Mountain USA",
-        "hsh": "354e922652175a70f2c897662dc155a6"
+        "hsh": "88e0f1ff8f094579fe157afe173e14f8"
     }
 ]

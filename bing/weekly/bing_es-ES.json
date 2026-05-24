@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202605242200",
+        "date": "20260525",
+        "url": "https://www.bing.com/th?id=OHR.HawaMahal2026_ES-ES8790916426_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.HawaMahal2026_ES-ES8790916426",
+        "copyright": "Vista de Jaipur desde el palacio Hawa Mahal, Rajastán, India (© byheaven/Getty Images)",
+        "copyrightKeyword": "Palacio Hawa Mahal",
+        "hsh": "33bc671aeda59288402bcd51191c059f",
+        "description": "Desde las ventanas del Hawa Mahal, el llamado Palacio de los Vientos, la ciudad de Jaipur (India) se despliega en tonos rosados y ocres. Esta singular fachada del siglo XVIII, llena de pequeñas celosías, fue concebida para que las mujeres de la corte pudieran observar la vida urbana sin ser vistas. A través de esas aberturas, la mirada recorre calles bulliciosas, cúpulas, mercados y azoteas que definen el carácter de la capital del Rajastán.",
+        "maplink": "26.92399,75.826668"
+    },
+    {
         "fullstartdate": "202605232200",
         "date": "20260524",
         "url": "https://www.bing.com/th?id=OHR.DolomitesPark_ES-ES7858758961_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MuseumLondon_ES-ES5275876055",
         "copyright": "Museo de Historia Natural, Londres, Inglaterra (© Colm Keating/Tandem Stills + Motion)",
         "copyrightKeyword": "Día Internacional de los Museos",
-        "hsh": "daae8b7adf7a31bfc22676cd54d6119e",
-        "description": "Cada 18 de mayo se celebra el Día Internacional de los Museos, una fecha que invita a mirar estos espacios culturales con otros ojos. Los museos no solo conservan objetos del pasado, también cuentan historias, conectan culturas y despiertan la curiosidad de quienes recorren sus salas con calma. En muchas ciudades se organizan actividades especiales, visitas nocturnas, talleres y propuestas educativas que animan a descubrir tesoros científicos, artísticos e históricos.",
-        "maplink": "51.496716,-0.176346"
-    },
-    {
-        "fullstartdate": "202605162200",
-        "date": "20260517",
-        "url": "https://www.bing.com/th?id=OHR.ShenandoahSunset_ES-ES1620430283_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ShenandoahSunset_ES-ES1620430283",
-        "copyright": "Montaña Hawksbill, Parque Nacional Shenandoah, Virginia, EE. UU. (© John Baggaley/Getty Images)",
-        "copyrightKeyword": "Montaña Hawksbill",
-        "hsh": "7cf0be5225f0d9a6319305bb6a8f9c2d"
+        "hsh": "daae8b7adf7a31bfc22676cd54d6119e"
     }
 ]

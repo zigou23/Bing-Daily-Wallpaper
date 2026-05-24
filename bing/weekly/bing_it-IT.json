@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202605242200",
+        "date": "20260525",
+        "url": "https://www.bing.com/th?id=OHR.TivoliVillaAdriana_IT-IT5000773432_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TivoliVillaAdriana_IT-IT5000773432",
+        "copyright": "Villa Adriana, Tivoli, Lazio (© SeanSavonePhoto/Adobe Stock)",
+        "copyrightKeyword": "Villa Adriana residenza imperiale",
+        "hsh": "52e837e15c3fb689b4dd2d2b7d6690a4",
+        "description": "A pochi chilometri da Roma, Villa Adriana è più di una residenza imperiale: è un paesaggio mentale. Voluta da Adriano nel II secolo d.C., nasce come rifugio e visione, lontano dal rumore del potere. Qui l’imperatore ricompone i luoghi amati nei suoi viaggi, come quelli compiuti in Grecia, Egitto e Oriente. Nascono così spazi che non imitano, ma evocano, come il Canopo, specchio d’acqua e memoria. La villa è un sistema di equilibri, tra architettura e natura, ordine e sorpresa, luce e ombra. Cupole ardite, giochi d’acqua, prospettive studiate per perdersi. Non è solo grandezza romana, ma un’idea di mondo, fluida, colta, intima.",
+        "maplink": "41.946763,12.7741"
+    },
+    {
         "fullstartdate": "202605232200",
         "date": "20260524",
         "url": "https://www.bing.com/th?id=OHR.DolomitesPark_IT-IT4272187498_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MuseumLondon_IT-IT4307019810",
         "copyright": "Museo di Storia Naturale, Londra, Inghilterra (© Colm Keating/Tandem Stills + Motion)",
         "copyrightKeyword": "giornata internazionale dei musei",
-        "hsh": "e40b30be7047b96f9157cd05705591d7",
-        "description": "Oggi celebriamo la «Giornata internazionale dei musei», nata nel 1977 per ricordare che la cultura non è qualcosa di statico, ma un organismo vivo che continua a cambiare insieme a noi. Qui ci troviamo al Natural History Museum di Londra, uno dei più iconici al mondo, ospitato in un edificio inglese del 1881 in stile neoromanico e famoso per la sua straordinaria collezione di oltre 80 milioni di reperti.",
-        "maplink": "51.496716,-0.176346"
-    },
-    {
-        "fullstartdate": "202605162200",
-        "date": "20260517",
-        "url": "https://www.bing.com/th?id=OHR.ShenandoahSunset_IT-IT1185587153_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ShenandoahSunset_IT-IT1185587153",
-        "copyright": "Monte Hawksbill, parco nazionale di Shenandoah, Virginia, USA (© John Baggaley/Getty Images)",
-        "copyrightKeyword": "Parco nazionale di Shenandoah",
-        "hsh": "34250e9ba4001ab4f3490456986eec72"
+        "hsh": "e40b30be7047b96f9157cd05705591d7"
     }
 ]
