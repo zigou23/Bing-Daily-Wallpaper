@@ -1,12 +1,22 @@
 [
     {
+        "fullstartdate": "202605252200",
+        "date": "20260526",
+        "url": "https://www.bing.com/th?id=OHR.LupineBloom_FR-FR4014773564_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LupineBloom_FR-FR4014773564",
+        "copyright": "Lupins en fleur, Californie du Nord, États-Unis (© Jeffrey Lewis/Tandem Stills + Motion)",
+        "copyrightKeyword": "Lupin fleur",
+        "hsh": "69d915e6d9e8c364f8f5e493b9517437",
+        "description": "Au printemps, la Californie du Nord, aux États-Unis, se réveille tapissée de lupins en fleur. Le bleu, le violet et le blanc ondulent sur les collines, portés par le doux climat méditerranéen. Ces fleurs sauvages deviennent alors des haltes précieuses pour les abeilles, les papillons et les coléoptères, attirés par leur nectar généreux."
+    },
+    {
         "fullstartdate": "202605242200",
         "date": "20260525",
         "url": "https://www.bing.com/th?id=OHR.HawaMahal2026_FR-FR4307485807_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.HawaMahal2026_FR-FR4307485807",
         "copyright": "Vue sur Jaipur depuis le Palais des Vents, Rajasthan, Inde (© byheaven/Getty Images)",
         "copyrightKeyword": "Palais des Vents Jaipur",
-        "hsh": "c510349ba6586ee81e1b7d3fea070d1f",
+        "hsh": "d4c1a92e2319e77f6528377d0dbc1627",
         "description": "Au cœur de Jaipur, en Inde, le Palais des Vents (Hawa Mahal) répète le même rituel depuis plus de deux siècles. Grâce à sa conception architecturale, il favorise la circulation de l’air et le rafraîchissement passif, illustrant une approche scientifique fascinante. Plus qu’un palais, c’est une merveille qui démontre une parfaite maîtrise de la ventilation naturelle, faisant honneur à son nom.",
         "maplink": "26.92399,75.826668"
     },
@@ -70,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SpainLighthouse_FR-FR9037625281",
         "copyright": "Phare de Formentor, Majorque, Îles Baléares, Espagne (© Allard Schager/Getty Images)",
         "copyrightKeyword": "Phare de Formentor Majorque",
-        "hsh": "7937c9762b4a79669fd0b61651016476",
-        "description": "À l’extrémité nord de Majorque, dans les îles Baléares (Espagne), le phare de Formentor veille sur les falaises abruptes du cap, là où les vents se croisent et sculptent l’air. Mis en service pour la première fois en 1863, il domine la Méditerranée à environ 200 mètres au-dessus des flots, au bout d’une route étroite et sinueuse depuis Port de Pollença.",
-        "maplink": "39.96139,3.212222"
-    },
-    {
-        "fullstartdate": "202605172200",
-        "date": "20260518",
-        "url": "https://www.bing.com/th?id=OHR.HatsRolandGarros_FR-FR8053000746_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.HatsRolandGarros_FR-FR8053000746",
-        "copyright": "Chapeaux de paille dans les tribunes de Roland-Garros, Paris (© Horacio Villalobos/Corbis)",
-        "copyrightKeyword": "Roland-Garros",
-        "hsh": "37d9d5521bc089ee598dc9b825800f1f"
+        "hsh": "7937c9762b4a79669fd0b61651016476"
     }
 ]

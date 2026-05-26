@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202605252200",
+        "date": "20260526",
+        "url": "https://www.bing.com/th?id=OHR.LupineBloom_ES-ES2667460285_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LupineBloom_ES-ES2667460285",
+        "copyright": "Lupinos en flor, norte de California, EE. UU. (© Jeffrey Lewis/Tandem Stills + Motion)",
+        "copyrightKeyword": "Lupino",
+        "hsh": "d2f72c5fa6bb6664d1ad440bc1b27954",
+        "description": "Cada primavera, amplias zonas del norte de California (Estados Unidos) se cubren de lupinos en flor. Sus espigas violetas, azules o rosadas aparecen entre las hierbas y transforman praderas y colinas en un mosaico intenso. Estas plantas silvestres prosperan bajo el sol suave de la estación y anuncian uno de los momentos más coloridos del paisaje."
+    },
+    {
         "fullstartdate": "202605242200",
         "date": "20260525",
         "url": "https://www.bing.com/th?id=OHR.HawaMahal2026_ES-ES8790916426_1920x1080.jpg",
@@ -70,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SpainLighthouse_ES-ES7620314804",
         "copyright": "Faro de Formentor, Mallorca, Islas Baleares (© Allard Schager/Getty Images)",
         "copyrightKeyword": "Faro de Formentor",
-        "hsh": "4c71f8a7a328fb909fd08c7c25f70517",
-        "description": "En el extremo norte de Mallorca, donde la sierra de Tramuntana cae hacia el Mediterráneo, se encuentra el faro de Formentor. Fue inaugurado en 1863 para señalizar una costa abrupta y peligrosa para la navegación. Desde su promontorio domina un paisaje de acantilados, pinares y un mar intenso que cambia de tono con el paso de la luz. El lugar transmite una sensación de aislamiento, como si la isla terminara allí y comenzara únicamente la inmensidad del horizonte.",
-        "maplink": "39.96139,3.212222"
-    },
-    {
-        "fullstartdate": "202605172200",
-        "date": "20260518",
-        "url": "https://www.bing.com/th?id=OHR.MuseumLondon_ES-ES5275876055_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MuseumLondon_ES-ES5275876055",
-        "copyright": "Museo de Historia Natural, Londres, Inglaterra (© Colm Keating/Tandem Stills + Motion)",
-        "copyrightKeyword": "Día Internacional de los Museos",
-        "hsh": "daae8b7adf7a31bfc22676cd54d6119e"
+        "hsh": "4c71f8a7a328fb909fd08c7c25f70517"
     }
 ]

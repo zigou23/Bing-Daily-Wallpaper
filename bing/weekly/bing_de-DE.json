@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202605252200",
+        "date": "20260526",
+        "url": "https://www.bing.com/th?id=OHR.LupineBloom_DE-DE3740774254_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LupineBloom_DE-DE3740774254",
+        "copyright": "Blühende Lupinen, Nordkalifornien, USA (© Jeffrey Lewis/Tandem Stills + Motion)",
+        "copyrightKeyword": "Lupinen",
+        "hsh": "f9a85845de69c0ed98b66c459d9fa94a",
+        "description": "Ein Blick auf blühende Lupinen genügt, um zu erkennen, wie eng Farbe und Funktion in der Natur miteinander verbunden sind. Im Frühling verwandeln sie Teile Nordkaliforniens in Teppiche aus Blau‑, Violett‑ und Weißtönen und prägen dort offene Landschaften. Die Pflanzen sind an mediterrane Klimabedingungen angepasst und liefern wichtigen Nektar für Bestäuber wie Bienen und Schmetterlinge. Weltweit gibt es über 200 Lupinenarten, von Küstenregionen bis hin zu Bergwiesen."
+    },
+    {
         "fullstartdate": "202605242200",
         "date": "20260525",
         "url": "https://www.bing.com/th?id=OHR.HexenlochMill_DE-DE3552158856_1920x1080.jpg",
@@ -70,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SpainLighthouse_DE-DE4107700722",
         "copyright": "Leuchtturm von Formentor, Mallorca, Balearen, Spanien (© Allard Schager/Getty Images)",
         "copyrightKeyword": "Formentor Leuchtturm Spanien",
-        "hsh": "0c75f40d7e60daf3bda0a3671b9cbdba",
-        "description": "Weit sichtbar über dem Cap de Formentor steht der Leuchtturm von Formentor an einer der exponiertesten Küsten Mallorcas. Seit 1863 markiert er einen Ort, der nicht umsonst als „Treffpunkt der Winde“ bekannt ist. Rund 215 Meter über dem Mittelmeer gelegen, ist er von Port de Pollença aus über eine schmale, etwa 13 Kilometer lange Serpentinenstraße erreichbar. Der helle Kalkstein prägt die Landschaft und zeugt von uralten Meeren. Über Jahrmillionen wurde das Gestein angehoben und von Wind und Wasser zu steilen Wänden, Höhlen und natürlichen Bögen geformt. Diese raue Geologie verleiht der Gegend ihre stille Dramatik.",
-        "maplink": "39.96139,3.212222"
-    },
-    {
-        "fullstartdate": "202605172200",
-        "date": "20260518",
-        "url": "https://www.bing.com/th?id=OHR.MuseumLondon_DE-DE5033129678_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MuseumLondon_DE-DE5033129678",
-        "copyright": "Natural History Museum, London, England (© Colm Keating/Tandem Stills + Motion)",
-        "copyrightKeyword": "Natural History Museum London",
-        "hsh": "88e0f1ff8f094579fe157afe173e14f8"
+        "hsh": "0c75f40d7e60daf3bda0a3671b9cbdba"
     }
 ]

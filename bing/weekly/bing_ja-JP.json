@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202605251500",
+        "date": "20260526",
+        "url": "https://www.bing.com/th?id=OHR.LupineBloom_JA-JP9737515603_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LupineBloom_JA-JP9737515603",
+        "copyright": "ルピナスの花, 米国 カリフォルニア州 (© Jeffrey Lewis/Tandem Stills + Motion)",
+        "copyrightKeyword": "ルピナスの花",
+        "hsh": "ab4456e35df80f6faf7515f84301ee54",
+        "description": "春が訪れると、米国・北カリフォルニアの風景は、青や紫、白に彩られたルピナスの花々によって鮮やかに一変します。ルピナスは、世界に 200 種以上が分布し、海岸沿いから山地の草原まで、多様な環境に生息しています。ただ美しく咲くだけではなく、ミツバチやチョウ、カブトムシなどにとって重要な食糧源となるほか、土壌を豊かにし、栄養分の乏しい環境でも周囲の植物の生育を助けるという役割を果たしています。",
+        "maplink": "37.254669,-119.617271"
+    },
+    {
         "fullstartdate": "202605241500",
         "date": "20260525",
         "url": "https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_JA-JP9539215085_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SpainLighthouse_JA-JP8366354857",
         "copyright": "フォルメントール灯台, スペイン (© Allard Schager/Getty Images)",
         "copyrightKeyword": "フォルメントール灯台",
-        "hsh": "8055ad0e6a5ec8817cd82309702052cf",
-        "description": "今日の画像は、スペインのマヨルカ島にあるフォルメントール灯台。バレアレス諸島最高峰の灯台で、フォルメントール岬の先端にある断崖の上、海抜 210m に位置しています。1863 年に建設され、同年に運用が開始されました。周囲の断崖は、隆起した石灰岩が風や波による侵食を受けて形づくられたもので、この地域独特の荒涼とした美しさを生み出しています。",
-        "maplink": "39.96139,3.212222"
-    },
-    {
-        "fullstartdate": "202605171500",
-        "date": "20260518",
-        "url": "https://www.bing.com/th?id=OHR.MuseumDay2026_JA-JP8089592575_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MuseumDay2026_JA-JP8089592575",
-        "copyright": "国立科学博物館, 東京 (© cowardlion/Shutterstock)",
-        "copyrightKeyword": "国際博物館の日",
-        "hsh": "6be3a57f46120d9991af4045edfdc32a"
+        "hsh": "8055ad0e6a5ec8817cd82309702052cf"
     }
 ]
