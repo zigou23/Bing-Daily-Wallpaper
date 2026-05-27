@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202605272200",
+        "date": "20260528",
+        "url": "https://www.bing.com/th?id=OHR.HwaesongFortress_ES-ES3287835347_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.HwaesongFortress_ES-ES3287835347",
+        "copyright": "Antigua muralla de la fortaleza de Hwaseong, Suwon, Corea del Sur (© aomam/Getty Images)",
+        "copyrightKeyword": "Fortaleza de Hwaseong",
+        "hsh": "1f8d4e945e2c0e9d1e6d46935738ab50",
+        "description": "La antigua muralla de la fortaleza de Hwaseong, que rodea parte de la ciudad de Suwon, es uno de los complejos defensivos mejor conservados de Corea del Sur. Fue construida a finales del siglo XVIII por orden del rey Jeongjo de la dinastía Joseon, que quiso honrar a su padre y reforzar esta zona estratégica. El muro, de casi seis kilómetros, combina piedra y ladrillo y se adapta a colinas, puertas monumentales, pabellones y baluartes que muestran un diseño militar muy avanzado para su época.",
+        "maplink": "37.289031,127.014114"
+    },
+    {
         "fullstartdate": "202605262200",
         "date": "20260527",
         "url": "https://www.bing.com/th?id=OHR.OtterDay_ES-ES3038994198_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SichuanTea_ES-ES7945062444",
         "copyright": "Terrazas de té en la provincia de Sichuan, China (© lzf/Shutterstock)",
         "copyrightKeyword": "Día Internacional del Té",
-        "hsh": "3894cd33bec83aa1f33af99c345331f8",
-        "description": "Cada 21 de mayo se celebra el Día Internacional del Té, una ocasión para reconocer la importancia cultural, social y económica de esta bebida en muchas regiones del mundo. Millones de personas la consumen a diario, pero detrás de cada taza existe una larga historia de cultivo, comercio y saber tradicional. En China, donde el té forma parte de la vida cotidiana desde hace siglos, su producción también está ligada a paisajes agrícolas de gran belleza.",
-        "maplink": "30,103"
-    },
-    {
-        "fullstartdate": "202605192200",
-        "date": "20260520",
-        "url": "https://www.bing.com/th?id=OHR.BumbleBee_ES-ES7776212975_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BumbleBee_ES-ES7776212975",
-        "copyright": "Abejorro polinizando, Worcester, Inglaterra (© SimonEastwood87/Shutterstock)",
-        "copyrightKeyword": "Día Mundial de las Abejas",
-        "hsh": "c73b3238f25b47962f2c542b3ae7057d"
+        "hsh": "3894cd33bec83aa1f33af99c345331f8"
     }
 ]

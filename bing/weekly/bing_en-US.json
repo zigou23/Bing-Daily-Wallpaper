@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202605270700",
+        "date": "20260527",
+        "url": "https://www.bing.com/th?id=OHR.OtterDay_EN-US0973120905_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.OtterDay_EN-US0973120905",
+        "copyright": "Sea otter, Kachemak Bay, Homer, Alaska (© roclwyr/Getty Images)",
+        "copyrightKeyword": "World otter day",
+        "hsh": "7fcdc9d278f091ff463d6d414034a540",
+        "description": "On World Otter Day, just look at this cutie swimming in the waters of Kachemak Bay, Alaska! Otters are captivating creatures that play an essential role in maintaining healthy ecosystems. Supported by the Otter Specialist Group (OSG)—a global network of professionals dedicated to the conservation of all 14 species—this day highlights the otter's vital contribution to nature. Known for their playful behavior and remarkable intelligence, otters are key indicators of waterway health. Sadly, they face growing challenges from habitat loss and pollution.",
+        "maplink": "59.725746,-151.141037"
+    },
+    {
         "fullstartdate": "202605260700",
         "date": "20260526",
         "url": "https://www.bing.com/th?id=OHR.LupineBloom_EN-US0920778137_1920x1080.jpg",
@@ -70,16 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BumbleBee_EN-US0634100541",
         "copyright": "Bumble bee pollinating, Worcester, England (© SimonEastwood87/Shutterstock)",
         "copyrightKeyword": "World Bee Day",
-        "hsh": "1a111367f78e9e24529e5bbf6cb7d5a2",
-        "description": "A soft buzz and a dusting of pollen can shape the future of our food. World Bee Day, observed each year on May 20, celebrates pollinators like the bumble bee pictured here during its quiet yet essential work. Unlike many insects, bumble bees use 'buzz pollination,' vibrating their flight muscles to shake pollen from flowers—a method vital for crops such as tomatoes, peppers, and blueberries."
-    },
-    {
-        "fullstartdate": "202605190700",
-        "date": "20260519",
-        "url": "https://www.bing.com/th?id=OHR.SpainLighthouse_EN-US0598364035_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SpainLighthouse_EN-US0598364035",
-        "copyright": "Formentor Lighthouse, Mallorca, Balearic Islands, Spain (© Allard Schager/Getty Images)",
-        "copyrightKeyword": "Formentor Lighthouse Spain",
-        "hsh": "bf53c616621415e5291fd16aaa0bc171"
+        "hsh": "1a111367f78e9e24529e5bbf6cb7d5a2"
     }
 ]
