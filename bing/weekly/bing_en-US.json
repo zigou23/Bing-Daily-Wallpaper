@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202605260700",
+        "date": "20260526",
+        "url": "https://www.bing.com/th?id=OHR.LupineBloom_EN-US0920778137_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LupineBloom_EN-US0920778137",
+        "copyright": "Lupine flowers in bloom, Northern California (© Jeffrey Lewis/Tandem Stills + Motion)",
+        "copyrightKeyword": "Lupinus",
+        "hsh": "447cba09fa5961f085887527e5a51b2b",
+        "description": "As spring sweeps across Northern California, the landscape is transformed by the vibrant displays of lupine flowers in shades of blue, purple, and white. Flourishing in the region's Mediterranean climate, these wildflowers provide a vital source of nectar for pollinators such as bees, butterflies, and beetles. With over 200 species found worldwide, lupines range from coastal varieties to those that thrive in mountain meadows. Beyond their striking beauty, lupines are essential to the ecosystem: by fixing nitrogen underground, they enrich soil fertility and support the growth of surrounding plants, even in nutrient-poor environments."
+    },
+    {
         "fullstartdate": "202605250700",
         "date": "20260525",
         "url": "https://www.bing.com/th?id=OHR.ArlingtonAmphitheater_EN-US0872772906_1920x1080.jpg",
@@ -70,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SpainLighthouse_EN-US0598364035",
         "copyright": "Formentor Lighthouse, Mallorca, Balearic Islands, Spain (© Allard Schager/Getty Images)",
         "copyrightKeyword": "Formentor Lighthouse Spain",
-        "hsh": "bf53c616621415e5291fd16aaa0bc171",
-        "description": "At Mallorca's far northern tip, in Spain's Balearic Islands, the Formentor Lighthouse stands on the sheer cliffs of Cap de Formentor. This exposed headland is often called the 'Meeting of the Winds.' Built in 1863 and first lit on September 30 of that year, the lighthouse rises nearly 700 feet above the Mediterranean Sea and is reached by a narrow, switchback road about 8 miles from Port de Pollença. Under your feet is pale limestone—rock formed from ancient marine life and later lifted and carved by erosion into dramatic faces, sea caves, and natural arches. This rugged geology gives rise to the area's stark beauty and sense of isolation. Want to earn the view? Follow one of the peninsula's hiking routes, or tackle the short, steep climb to Talaia d'Albercutx for a watchtower panorama before continuing to the lighthouse. Keep an eye on the slopes: wild goats, descended from early domestic herds, spring across the ledges with effortless balance.",
-        "maplink": "39.96139,3.212222"
-    },
-    {
-        "fullstartdate": "202605180700",
-        "date": "20260518",
-        "url": "https://www.bing.com/th?id=OHR.MuseumLondon_EN-US0527592013_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MuseumLondon_EN-US0527592013",
-        "copyright": "Natural History Museum, London, England (© Colm Keating/Tandem Stills + Motion)",
-        "copyrightKeyword": "International Museum Day",
-        "hsh": "96c9815c761100f520bd9e543507b407"
+        "hsh": "bf53c616621415e5291fd16aaa0bc171"
     }
 ]

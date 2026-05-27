@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202605262200",
+        "date": "20260527",
+        "url": "https://www.bing.com/th?id=OHR.OtterDay_DE-DE4262333472_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.OtterDay_DE-DE4262333472",
+        "copyright": "Seeotter in der Kachemak Bay bei Homer, Alaska, USA (© roclwyr/Getty Images)",
+        "copyrightKeyword": "Welttag der Otter",
+        "hsh": "40962226574847eedd13683624ef6e83",
+        "description": "Anlässlich des Welttags der Otter richtet sich die Aufmerksamkeit auf diesen Seeotter, der durch die ruhigen Gewässer der Kachemak Bay in Alaska, USA, gleitet. Otter wirken zwar verspielt, übernehmen aber eine zentrale Rolle im natürlichen Gleichgewicht. Als Schlüsselarten zeigen sie an, wie gesund Flüsse, Seen und Küstengewässer sind und wie gut ganze Lebensräume funktionieren. Seeotter sind insbesondere für Küstenökosysteme unverzichtbar. Sie fressen Seeigel und bewahren so ausgedehnte Kelpwälder, die zahlreichen Meereslebewesen Schutz bieten. Diese Unterwasserwälder speichern Kohlenstoff, dämpfen die Kraft der Wellen und schützen die Küste vor Erosion. Deshalb gelten Seeotter oft als stille Verbündete im Klimasystem.",
+        "maplink": "59.725746,-151.141037"
+    },
+    {
         "fullstartdate": "202605252200",
         "date": "20260526",
         "url": "https://www.bing.com/th?id=OHR.LupineBloom_DE-DE3740774254_1920x1080.jpg",
@@ -70,16 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BumbleBee_DE-DE5081297615",
         "copyright": "Hummel bei der Bestäubung, Worcester, England (© SimonEastwood87/Shutterstock)",
         "copyrightKeyword": "Weltbienentag",
-        "hsh": "ea9bf341689b53cef2f29f384c4a20a2",
-        "description": "Ein sanftes Brummen im Garten hat oft eine größere Wirkung, als man vermutet. Am Weltbienentag, der 2018 von den Vereinten Nationen ins Leben gerufen wurde, rückt die stille Arbeit der Bestäuber in den Mittelpunkt. Die hier gezeigte Hummel gehört zur Familie der Bienen und übernimmt eine besondere Aufgabe. Mithilfe der sogenannten Vibrationsbestäubung bringt sie Blüten zum Zittern und löst so den Pollen, den Pflanzen für ihre Fortpflanzung benötigen. Ohne diese Technik hätten Tomaten, Paprika oder Heidelbeeren deutlich geringere Erträge."
-    },
-    {
-        "fullstartdate": "202605182200",
-        "date": "20260519",
-        "url": "https://www.bing.com/th?id=OHR.SpainLighthouse_DE-DE4107700722_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SpainLighthouse_DE-DE4107700722",
-        "copyright": "Leuchtturm von Formentor, Mallorca, Balearen, Spanien (© Allard Schager/Getty Images)",
-        "copyrightKeyword": "Formentor Leuchtturm Spanien",
-        "hsh": "0c75f40d7e60daf3bda0a3671b9cbdba"
+        "hsh": "ea9bf341689b53cef2f29f384c4a20a2"
     }
 ]
