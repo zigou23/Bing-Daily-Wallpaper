@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202605280400",
+        "date": "20260528",
+        "url": "https://www.bing.com/th?id=OHR.HwaesongFortress_EN-CA4315257825_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.HwaesongFortress_EN-CA4315257825",
+        "copyright": "Old city wall of Hwaseong Fortress, Suwon, South Korea (© aomam/Getty Images)",
+        "copyrightKeyword": "Hwaseong Fortress Suwon",
+        "hsh": "6aed3444e0960b2d3f82be0abed536be",
+        "description": "As night settles over Suwon, South Korea, the old city wall pictured here shows that function doesn't necessarily cancel out beauty—it can create it. Built between 1794 and 1796 under King Jeongjo of the Joseon Dynasty, Hwaseong Fortress was more than a barrier. It was policy in stone: a reform-minded push for a leaner, better-run state, driven by practicality and a deeply personal motive. Jeongjo ordered its construction to honour his father while strengthening a kingdom that wanted smarter systems, not just thicker walls.",
+        "maplink": "37.289031,127.014114"
+    },
+    {
         "fullstartdate": "202605270400",
         "date": "20260527",
         "url": "https://www.bing.com/th?id=OHR.OtterDay_EN-CA7380907364_1920x1080.jpg",
@@ -69,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SichuanTea_EN-CA6152218232",
         "copyright": "Tea terraces in Sichuan Province, China (© lzf/Shutterstock)",
         "copyrightKeyword": "International Tea Day",
-        "hsh": "e90d19f40eb5777835c601de1637f209",
-        "description": "International Tea Day celebrates a drink that connects daily rituals to ancient landscapes. Just one look at the terraced tea fields of Sichuan Province, China, shows how deep those roots run. This misty region in southwest China is one of the earliest centres of tea culture, where people drank and cultivated tea more than 2,000 years ago. On nearby Mengding Mountain, a scholar named Wu Lizhen planted some of the world's first managed tea gardens during the Han Dynasty, laying the groundwork for generations of growers.",
-        "maplink": "30,103"
-    },
-    {
-        "fullstartdate": "202605200400",
-        "date": "20260520",
-        "url": "https://www.bing.com/th?id=OHR.BumbleBee_EN-CA5527051866_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BumbleBee_EN-CA5527051866",
-        "copyright": "Bumble bee pollinating, Worcester, England (© SimonEastwood87/Shutterstock)",
-        "copyrightKeyword": "World Bee Day",
-        "hsh": "80d3dc1fcae3bd6bd23985d2ffc9ee66"
+        "hsh": "e90d19f40eb5777835c601de1637f209"
     }
 ]
