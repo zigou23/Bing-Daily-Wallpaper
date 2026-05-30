@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202605292300",
+        "date": "20260529",
+        "url": "https://www.bing.com/th?id=OHR.EquusQuagga_EN-GB1868293768_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.EquusQuagga_EN-GB1868293768",
+        "copyright": "Plains zebra foal in Etosha National Park, Namibia (© Sharon Heald/Nature Picture Library)",
+        "copyrightKeyword": "Plains zebras",
+        "hsh": "534e8dc328b4b8604515b7c1d091a6ad",
+        "description": "Etosha National Park, Namibia, is not a place for soft starts, and the plains zebra foal in this image seems to get the memo. In a land this vast—nearly 8,600 square miles of salt pans and grassland—timing is everything, and hesitation is expensive. Lions, spotted hyenas, wild dogs, cheetahs and leopards constantly pressure the herd—especially the youngest—so zebras are born ready. Minutes after arrival, they're upright. Hours later, they're moving.",
+        "maplink": "-18.98073,15.762634"
+    },
+    {
         "fullstartdate": "202605282300",
         "date": "20260528",
         "url": "https://www.bing.com/th?id=OHR.SummitEverest_EN-GB1382419791_1920x1080.jpg",
@@ -71,16 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_EN-GB5539260974",
         "copyright": "Turtles with butterflies (© Patrick Gallet/Getty Images)",
         "copyrightKeyword": "World Turtle Day",
-        "hsh": "f1137c02add5851216fe8b34b5f07d9c",
-        "description": "Turtles are not only fascinating animals; they also play vital roles in nature. Sea turtles help keep seagrass beds and coral reefs healthy, while freshwater and land counterparts support balanced ecosystems. Their shells are part of their skeletons, formed from dozens of fused bones, and some species navigate using Earth's magnetic field to return to the beaches where they hatched."
-    },
-    {
-        "fullstartdate": "202605212300",
-        "date": "20260521",
-        "url": "https://www.bing.com/th?id=OHR.KauehiAtollLagoon_EN-GB5382728672_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.KauehiAtollLagoon_EN-GB5382728672",
-        "copyright": "Kauehi Atoll, Tuamotu Archipelago, French Polynesia (© WaterFrame_dpr/Alamy)",
-        "copyrightKeyword": "International Day for Biological Diversity",
-        "hsh": "3d1644da0bc982e95f0308cd5ab77a79"
+        "hsh": "f1137c02add5851216fe8b34b5f07d9c"
     }
 ]

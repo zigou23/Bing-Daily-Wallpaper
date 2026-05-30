@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202605292200",
+        "date": "20260530",
+        "url": "https://www.bing.com/th?id=OHR.EquusQuagga_DE-DE3459381022_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.EquusQuagga_DE-DE3459381022",
+        "copyright": "Steppenzebra-Fohlen im Etosha-Nationalpark, Namibia (© Sharon Heald/Nature Picture Library)",
+        "copyrightKeyword": "Steppenzebra",
+        "hsh": "56d52d795aacec7183f21d1b5f4846fa",
+        "description": "Im Etosha-Nationalpark in Namibia bedeutet jeder Anfang sofort Bewegung – das Steppenzebra-Fohlen auf diesem Bild scheint dies von Beginn an verstanden zu haben. In einer Landschaft aus Salzpfannen und Grasland ist das richtige Timing entscheidend, denn Zögern kann gefährlich sein. Löwen, Tüpfelhyänen, Wildhunde, Geparden und Leoparden setzen den Herden ständig zu, besonders den Jüngsten. Deshalb sind Zebras erstaunlich gut vorbereitet, wenn sie zur Welt kommen: Minuten nach der Geburt stehen sie bereits und folgen kurz darauf der Herde.",
+        "maplink": "-18.98073,15.762634"
+    },
+    {
         "fullstartdate": "202605282200",
         "date": "20260529",
         "url": "https://www.bing.com/th?id=OHR.SummitEverest_DE-DE3618626129_1920x1080.jpg",
@@ -71,16 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_DE-DE2682966963",
         "copyright": "Schildkröten mit Schmetterlingen (© Patrick Gallet/Getty Images)",
         "copyrightKeyword": "Welttag der Schildkröte",
-        "hsh": "e61730601329b7aabbd994624cb1ca54",
-        "description": "Sie gleiten lautlos durch Ozeane, Seen und Feuchtgebiete und erfüllen dabei Aufgaben, die für das Gleichgewicht der Natur unverzichtbar sind. Schildkröten zählen zu den ältesten heute lebenden Reptilien und spielen eine zentrale Rolle in vielen Ökosystemen. Meeresschildkröten halten Seegraswiesen und Korallenriffe gesund, während Süßwasser‑ und Landschildkröten zur Stabilität empfindlicher Lebensräume beitragen. Ihr Panzer ist kein äußeres Schutzschild, sondern ein Teil ihres Skeletts und besteht aus zahlreichen miteinander verwachsenen Knochen. Manche Arten orientieren sich zudem am Magnetfeld der Erde, um nach Jahrzehnten zu genau den Stränden zurückzukehren, an denen sie geschlüpft sind."
-    },
-    {
-        "fullstartdate": "202605212200",
-        "date": "20260522",
-        "url": "https://www.bing.com/th?id=OHR.KauehiAtollLagoon_DE-DE7537602324_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.KauehiAtollLagoon_DE-DE7537602324",
-        "copyright": "Kauehi‑Atoll, Tuamotu‑Archipel, Französisch‑Polynesien (© WaterFrame_dpr/Alamy)",
-        "copyrightKeyword": "Internationaler Tag für biologische Vielfalt",
-        "hsh": "e207bfdeb952426f402ee15988a9cef0"
+        "hsh": "e61730601329b7aabbd994624cb1ca54"
     }
 ]

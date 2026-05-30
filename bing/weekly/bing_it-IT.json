@@ -1,12 +1,23 @@
 [
     {
+        "fullstartdate": "202605292200",
+        "date": "20260530",
+        "url": "https://www.bing.com/th?id=OHR.EquusQuagga_IT-IT4668961444_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.EquusQuagga_IT-IT4668961444",
+        "copyright": "Puledro di zebra della pianura, parco nazionale di Etosha, Namibia (© Sharon Heald/Nature Picture Library)",
+        "copyrightKeyword": "Zebra della pianura",
+        "hsh": "9702d87c3d6ee8a980a36aff41c03f69",
+        "description": "Il parco nazionale di Etosha, in Namibia, non concede partenze tranquille, e il puledro di zebra delle pianure in questa immagine sembra saperlo bene. In una terra così vasta, quasi 22.000 chilometri quadrati di saline e praterie, il tempismo è tutto e ogni esitazione può costare cara. Leoni, iene maculate, cani selvatici, ghepardi e leopardi mettono costantemente alla prova il branco, soprattutto i più giovani, perciò le zebre nascono già pronte. Per questo, dopo pochi minuti sono in piedi e solo qualche ora dopo sono già in movimento.",
+        "maplink": "-18.98073,15.762634"
+    },
+    {
         "fullstartdate": "202605282200",
         "date": "20260529",
         "url": "https://www.bing.com/th?id=OHR.SummitEverest_IT-IT4333407961_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.SummitEverest_IT-IT4333407961",
         "copyright": "Monte Everest, parco nazionale di Sagarmatha, Nepal (© fotoVoyager/Getty Images)",
         "copyrightKeyword": "Parco nazionale di Sagarmatha",
-        "hsh": "3d860a0c5ac9537fa17e6b624b6d49c9",
+        "hsh": "9d55aff4c7043801a9f2db819e756496",
         "description": "Ammirate il Monte Everest mentre si staglia all’orizzonte nel parco nazionale di Sagarmatha, in Nepal, calmo e impassibile. Una vetta considerata inaccessibile fino al 29 maggio 1953, quando quella quiete fu interrotta. Dopo anni di preparativi e settimane di scalata, il neozelandese Edmund Hillary e lo sherpa Tenzing Norgay raggiunsero la cima. Furono i primi a compiere questa impresa.",
         "maplink": "27.980471,86.880623"
     },
@@ -71,16 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_IT-IT6850354411",
         "copyright": "Tartarughe e farfalle (© Patrick Gallet/Getty Images)",
         "copyrightKeyword": "Giornata della Tartaruga",
-        "hsh": "5f2185e4efd74b7c74f80b6caa2942bb",
-        "description": "Le tartarughe sono animali affascinanti e svolgono ruoli fondamentali in natura. Aiutano a mantenere sani i letti di fanerogame marine e le barriere coralline, mentre le loro controparti d’acqua dolce e terrestri contribuiscono all’equilibrio degli ecosistemi. Il loro guscio fa parte del loro scheletro, formato da decine di ossa fuse tra loro, e alcune specie si orientano grazie al campo magnetico terrestre per tornare alle spiagge dove sono nate."
-    },
-    {
-        "fullstartdate": "202605212200",
-        "date": "20260522",
-        "url": "https://www.bing.com/th?id=OHR.KauehiAtollLagoon_IT-IT9581557315_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.KauehiAtollLagoon_IT-IT9581557315",
-        "copyright": "Atollo di Kauehi, arcipelago delle Tuamotu, Polinesia francese (© WaterFrame_dpr/Alamy)",
-        "copyrightKeyword": "Biodiversità",
-        "hsh": "3034d7008b3e972dc434a4f8a8cbce30"
+        "hsh": "5f2185e4efd74b7c74f80b6caa2942bb"
     }
 ]
