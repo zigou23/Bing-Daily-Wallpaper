@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202605312200",
+        "date": "20260601",
+        "url": "https://www.bing.com/th?id=OHR.OlivaPalermo_DE-DE3024542120_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.OlivaPalermo_DE-DE3024542120",
+        "copyright": "Skyline von Palermo in der Abenddämmerung, Sizilien, Italien (© Sean Pavone/Getty Images)",
+        "copyrightKeyword": "Palermo Sizilien",
+        "hsh": "e15da4e9d4d5987b13883e4add2de216",
+        "description": "Wenn sich am Abend die Lichter über Palermo einschalten, wirkt die Stadt wie ein Mosaik aus Zeiten und Kulturen. Zwischen Meer und Bergen entfaltet sich eine Kulisse, in der sich Geschichte nicht nur betrachten, sondern regelrecht „lesen“ lässt – Schicht für Schicht, wie in einem vielschichtigen Gemälde.",
+        "maplink": "38.121254,13.359494"
+    },
+    {
         "fullstartdate": "202605302200",
         "date": "20260531",
         "url": "https://www.bing.com/th?id=OHR.RapeseedField_DE-DE3303026116_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.HexenlochMill_DE-DE3552158856",
         "copyright": "Die Hexenlochmühle im Schwarzwald bei Furtwangen, Baden‑Württemberg (© Conny Pokorny/Shutterstock)",
         "copyrightKeyword": "Deutscher Mühlentag",
-        "hsh": "752024a72681c60be1acf58f7c77e3f6",
-        "description": "Jedes Jahr am Pfingstmontag rückt der Deutsche Mühlentag historische Wind‑ und Wassermühlen landesweit in den Fokus. Der Aktionstag erinnert daran, welche zentrale Rolle sie über Jahrhunderte hinweg für das Handwerk, die Energiegewinnung und die regionale Wirtschaft spielten – und warum ihr Erhalt bis heute von Bedeutung ist.",
-        "maplink": "48.009638,8.139676"
-    },
-    {
-        "fullstartdate": "202605232200",
-        "date": "20260524",
-        "url": "https://www.bing.com/th?id=OHR.DolomitesPark_DE-DE0867398048_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DolomitesPark_DE-DE0867398048",
-        "copyright": "Naturpark Drei Zinnen, Südtirol, Italien (© Adisorn Fineday Chutikunakorn/Getty Images)",
-        "copyrightKeyword": "Europäischer Tag der Parke",
-        "hsh": "fccfd76c2f2f5d0095005e35ee52c415"
+        "hsh": "752024a72681c60be1acf58f7c77e3f6"
     }
 ]

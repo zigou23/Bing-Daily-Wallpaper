@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202605312200",
+        "date": "20260601",
+        "url": "https://www.bing.com/th?id=OHR.OlivaPalermo_ES-ES5664715455_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.OlivaPalermo_ES-ES5664715455",
+        "copyright": "Horizonte de Palermo al atardecer, Sicilia, Italia (© Sean Pavone/Getty Images)",
+        "copyrightKeyword": "Palermo",
+        "hsh": "685ec62e3e49f88697897eaddcfcbfef",
+        "description": "El centro histórico de Palermo, en Sicilia, Italia, es un mosaico de culturas que han dejado su huella durante siglos. Sus calles reflejan la convivencia de tradiciones árabes, normandas, barrocas y españolas, fruto del dominio de la Corona de Aragón y la posterior presencia hispánica, visibles en palacios, iglesias y plazas siempre animadas. Monumentos como la catedral o el Palazzo dei Normanni resumen la compleja historia de la isla y su continua mezcla de influencias artísticas y culturales.",
+        "maplink": "38.121254,13.359494"
+    },
+    {
         "fullstartdate": "202605302200",
         "date": "20260531",
         "url": "https://www.bing.com/th?id=OHR.EvergladesWetlands_ES-ES0912999305_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.HawaMahal2026_ES-ES8790916426",
         "copyright": "Vista de Jaipur desde el palacio Hawa Mahal, Rajastán, India (© byheaven/Getty Images)",
         "copyrightKeyword": "Palacio Hawa Mahal",
-        "hsh": "33bc671aeda59288402bcd51191c059f",
-        "description": "Desde las ventanas del Hawa Mahal, el llamado Palacio de los Vientos, la ciudad de Jaipur (India) se despliega en tonos rosados y ocres. Esta singular fachada del siglo XVIII, llena de pequeñas celosías, fue concebida para que las mujeres de la corte pudieran observar la vida urbana sin ser vistas. A través de esas aberturas, la mirada recorre calles bulliciosas, cúpulas, mercados y azoteas que definen el carácter de la capital del Rajastán.",
-        "maplink": "26.92399,75.826668"
-    },
-    {
-        "fullstartdate": "202605232200",
-        "date": "20260524",
-        "url": "https://www.bing.com/th?id=OHR.DolomitesPark_ES-ES7858758961_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DolomitesPark_ES-ES7858758961",
-        "copyright": "Parque natural Tre Cime, Tirol del Sur, Italia (© Adisorn Fineday Chutikunakorn/Getty Images)",
-        "copyrightKeyword": "Día Europeo de los Parques",
-        "hsh": "e441c086afe1a494eb27b0c9ba315cec"
+        "hsh": "33bc671aeda59288402bcd51191c059f"
     }
 ]

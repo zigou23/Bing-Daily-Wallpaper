@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202605312200",
+        "date": "20260601",
+        "url": "https://www.bing.com/th?id=OHR.DunseverickCastle2026_IT-IT6990234859_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.DunseverickCastle2026_IT-IT6990234859",
+        "copyright": "Castello di Dunseverick, contea di Antrim, Irlanda del Nord (© Krzysztof Rogalski/Getty Images)",
+        "copyrightKeyword": "Contea di Antrim",
+        "hsh": "b974d6cc842abefd202a8407a247dc70",
+        "description": "Al castello di Dunseverick la storia resiste, letteralmente. Frammenti di mura si aggrappano a uno sperone di basalto sospeso sull’Atlantico. Duemila anni fa questo luogo segnava la fine della Slige Midluachra, una delle cinque grandi strade d’Irlanda del Nord, e guidava i viaggiatori fino alla sede reale sulla collina di Tara. Nel V secolo si narra che San Patrizio passò di qui, e che proprio qui battezzò un uomo del posto, Olcán. La tradizione racconta anche che la Lia Fáil, la Pietra del Destino usata per incoronare i re irlandesi, partì da questa riva verso la Scozia.",
+        "maplink": "55.238358,-6.448198"
+    },
+    {
         "fullstartdate": "202605302200",
         "date": "20260531",
         "url": "https://www.bing.com/th?id=OHR.EvergladesWetlands_IT-IT8250643798_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.TivoliVillaAdriana_IT-IT5000773432",
         "copyright": "Villa Adriana, Tivoli, Lazio (© SeanSavonePhoto/Adobe Stock)",
         "copyrightKeyword": "Villa Adriana residenza imperiale",
-        "hsh": "52e837e15c3fb689b4dd2d2b7d6690a4",
-        "description": "A pochi chilometri da Roma, Villa Adriana è più di una residenza imperiale: è un paesaggio mentale. Voluta da Adriano nel II secolo d.C., nasce come rifugio e visione, lontano dal rumore del potere. Qui l’imperatore ricompone i luoghi amati nei suoi viaggi, come quelli compiuti in Grecia, Egitto e Oriente. Nascono così spazi che non imitano, ma evocano, come il Canopo, specchio d’acqua e memoria. La villa è un sistema di equilibri, tra architettura e natura, ordine e sorpresa, luce e ombra. Cupole ardite, giochi d’acqua, prospettive studiate per perdersi. Non è solo grandezza romana, ma un’idea di mondo, fluida, colta, intima.",
-        "maplink": "41.946763,12.7741"
-    },
-    {
-        "fullstartdate": "202605232200",
-        "date": "20260524",
-        "url": "https://www.bing.com/th?id=OHR.DolomitesPark_IT-IT4272187498_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DolomitesPark_IT-IT4272187498",
-        "copyright": "Parco naturale Tre Cime, Trentino-Alto Adige (© Adisorn Fineday Chutikunakorn/Getty Images)",
-        "copyrightKeyword": "Giornata europea dei parchi",
-        "hsh": "9d24ca0c432e003aec0a344dc2d3a6f6"
+        "hsh": "52e837e15c3fb689b4dd2d2b7d6690a4"
     }
 ]

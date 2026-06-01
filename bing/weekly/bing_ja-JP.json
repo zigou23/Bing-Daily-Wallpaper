@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202605311500",
+        "date": "20260601",
+        "url": "https://www.bing.com/th?id=OHR.Qinghai_JA-JP8687946851_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.Qinghai_JA-JP8687946851",
+        "copyright": "西タイジナール湖, 中国 (© Kaicheng Xu/Getty Images)",
+        "copyrightKeyword": "Xitai Jinaier Lake",
+        "hsh": "e32fd8ad768ab0f028c3f8915833de06",
+        "description": "今日の画像は、中国青海省の柴達木盆地に広がる西タイジナール湖（西台吉乃爾湖）。国道 315 号線によって分断され、同じ塩湖でありながら片方は濃い青色、もう片方は淡い緑色という幻想的な湖です。標高約 2700m の乾燥地帯に位置しており、土地の堆積物に含まれているミネラル濃度の違いによって、この独特の色合いが生み出されています。荒涼とした大地に広がる美しいこの湖は人気の観光地であり、中国屈指の絶景として知られています。",
+        "maplink": "35.668594,96.043144"
+    },
+    {
         "fullstartdate": "202605301500",
         "date": "20260531",
         "url": "https://www.bing.com/th?id=OHR.EvergladesWetlands_JA-JP7977535602_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_JA-JP9539215085",
         "copyright": "トゥール・マウル灯台, ウェールズ (© Lukas Bischoff/Getty Images)",
         "copyrightKeyword": "トゥール・マウル灯台",
-        "hsh": "883db1874225faa19a36e2a479419f7e",
-        "description": "今日の画像は、トゥール・マウル（大塔）灯台です。1845 年、ウェールズのイニス・ランドゥイン島南西端に建設された高さ 10m の塔で、円錐形の構造が特徴です。かつてはメナイ海峡の航行の目印として使われていましたが、1975 年に近くのトゥール・バック（小塔）灯台へ役割が引き継がれました。現在はイギリスにおける特別な建造物「イギリス指定建造物」として保存されています。",
-        "maplink": "53.13707,-4.412761"
-    },
-    {
-        "fullstartdate": "202605231500",
-        "date": "20260524",
-        "url": "https://www.bing.com/th?id=OHR.DolomitesPark_JA-JP9299187350_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DolomitesPark_JA-JP9299187350",
-        "copyright": "トレ・チーメ自然公園, イタリア (© Adisorn Fineday Chutikunakorn/Getty Images)",
-        "copyrightKeyword": "European Day of Parks",
-        "hsh": "dad3b91a49d2f50170d6a7091f38a5ae"
+        "hsh": "883db1874225faa19a36e2a479419f7e"
     }
 ]

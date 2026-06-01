@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202605311830",
+        "date": "20260601",
+        "url": "https://www.bing.com/th?id=OHR.OlivaPalermo_EN-IN8542997213_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.OlivaPalermo_EN-IN8542997213",
+        "copyright": "Palermo skyline, Sicily, Italy (© Sean Pavone/Getty Images)",
+        "copyrightKeyword": "Palermo",
+        "hsh": "f7d7631c5224d97c076b6cdbed7bd850",
+        "description": "Palermo, the capital of the island of Sicily in southern Italy, is a city where layers of history, art and culture meet in a vivid and sometimes chaotic harmony. Founded by the Phoenicians and later shaped by Romans, Arabs, Normans and Spaniards, it carries traces of many civilisations that passed through the Mediterranean. This rich past is visible in its architecture, from the Arab-Norman palaces and churches recognised by UNESCO to the Baroque facades that define its historic streets.",
+        "maplink": "38.121254,13.359494"
+    },
+    {
         "fullstartdate": "202605301830",
         "date": "20260531",
         "url": "https://www.bing.com/th?id=OHR.Qinghai_EN-IN1637121010_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.HawaMahal2026_EN-IN3702170011",
         "copyright": "View over Jaipur from Hawa Mahal, Rajasthan (© byheaven/Getty Images)",
         "copyrightKeyword": "Hawa Mahal",
-        "hsh": "e8aa6af5385e995031819a037a825122",
-        "description": "What if a building could breathe? In the middle of Jaipur, Hawa Mahal does exactly that—pulling in air, pushing out heat and turning architecture into a quiet science experiment. It's less a palace, more a perfectly timed exhale. And yes, it really does live up to its name: the 'Palace of Winds.'",
-        "maplink": "26.92399,75.826668"
-    },
-    {
-        "fullstartdate": "202605231830",
-        "date": "20260524",
-        "url": "https://www.bing.com/th?id=OHR.DolomitesPark_EN-IN3505043244_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DolomitesPark_EN-IN3505043244",
-        "copyright": "Tre Cime Nature Park, South Tyrol, Italy (© Adisorn Fineday Chutikunakorn/Getty Images)",
-        "copyrightKeyword": "European Day of Parks",
-        "hsh": "2150afb543fc45b9523141e94f99d0d7"
+        "hsh": "e8aa6af5385e995031819a037a825122"
     }
 ]
