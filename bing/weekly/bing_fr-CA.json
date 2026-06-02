@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606010400",
+        "date": "20260601",
+        "url": "https://www.bing.com/th?id=OHR.OlivaPalermo_FR-CA4763720725_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.OlivaPalermo_FR-CA4763720725",
+        "copyright": "Palerme au crépuscule, Sicile, Italie (© Sean Pavone/Getty Images)",
+        "copyrightKeyword": "Palerme Italie",
+        "hsh": "e5a5c7db2ea9b4e5bffd543cb1a9ad6c",
+        "description": "Capitale vibrante de la Sicile, en Italie, Palerme se dévoile comme un palimpseste méditerranéen. Fondée par les Phéniciens, puis façonnée par les Romains, les Arabes, les Normands et les Espagnols, la ville porte en elle la mémoire de civilisations entremêlées. Cette histoire se lit encore dans la pierre : palais arabo-normands classés au patrimoine mondial de l’UNESCO, églises aux lignes orientales, façades baroques baignées de lumière.",
+        "maplink": "38.121254,13.359494"
+    },
+    {
         "fullstartdate": "202605310400",
         "date": "20260531",
         "url": "https://www.bing.com/th?id=OHR.HumberRiverTrail_FR-CA4592084106_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.HawaMahal2026_FR-CA5388607060",
         "copyright": "Vue sur Jaipur depuis le Palais des Vents, Rajasthan, Inde (© byheaven/Getty Images)",
         "copyrightKeyword": "Palais des Vents Jaipur",
-        "hsh": "b365d951ad08137d6665c973b7788d1a",
-        "description": "Au cœur de Jaipur, en Inde, le Palais des Vents (Hawa Mahal) répète le même rituel depuis plus de deux siècles. Grâce à sa conception architecturale, il favorise la circulation de l’air et le rafraîchissement passif, illustrant une approche scientifique fascinante. Plus qu’un palais, c’est une merveille qui démontre une parfaite maîtrise de la ventilation naturelle, faisant honneur à son nom.",
-        "maplink": "26.92399,75.826668"
-    },
-    {
-        "fullstartdate": "202605240400",
-        "date": "20260524",
-        "url": "https://www.bing.com/th?id=OHR.MuteSwanGI_FR-CA1275165543_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MuteSwanGI_FR-CA1275165543",
-        "copyright": "Cygne tuberculé sur un plan d’eau calme (© Don White/Getty Images)",
-        "copyrightKeyword": "cygne tuberculé",
-        "hsh": "306b60d52438b9298eedb27c1c9bf91e"
+        "hsh": "b365d951ad08137d6665c973b7788d1a"
     }
 ]

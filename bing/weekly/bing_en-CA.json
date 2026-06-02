@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606010400",
+        "date": "20260601",
+        "url": "https://www.bing.com/th?id=OHR.OlivaPalermo_EN-CA6978537696_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.OlivaPalermo_EN-CA6978537696",
+        "copyright": "Palermo skyline at dusk, Sicily, Italy (© Sean Pavone/Getty Images)",
+        "copyrightKeyword": "Palermo",
+        "hsh": "d779c6ea942c101c9940c733148acfc7",
+        "description": "Palermo, the capital of the island of Sicily in southern Italy, is a city where layers of history, art and culture meet in a vivid and sometimes chaotic harmony. Founded by the Phoenicians and later shaped by Romans, Arabs, Normans and Spaniards, it carries traces of many civilisations that passed through the Mediterranean. This rich past is visible in its architecture, from the Arab-Norman palaces and churches recognised by UNESCO to the Baroque facades that define its historic streets.",
+        "maplink": "38.121254,13.359494"
+    },
+    {
         "fullstartdate": "202605310400",
         "date": "20260531",
         "url": "https://www.bing.com/th?id=OHR.HumberRiverTrails_EN-CA6657789473_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.HawaMahal2026_EN-CA6985654541",
         "copyright": "View over Jaipur from Hawa Mahal, Rajasthan (© byheaven/Getty Images)",
         "copyrightKeyword": "Hawa Mahal",
-        "hsh": "1c306e6668689584db386819e11585a2",
-        "description": "What if a building could breathe? In the middle of Jaipur, Hawa Mahal does exactly that—pulling in air, pushing out heat and turning architecture into a quiet science experiment. It's less a palace, more a perfectly timed exhale. And yes, it really does live up to its name: the 'Palace of Winds.'",
-        "maplink": "26.92399,75.826668"
-    },
-    {
-        "fullstartdate": "202605240400",
-        "date": "20260524",
-        "url": "https://www.bing.com/th?id=OHR.MuteSwanGI_EN-CA6792012530_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MuteSwanGI_EN-CA6792012530",
-        "copyright": "A mute swan reflected on tranquil waters (© Don White/Getty Images)",
-        "copyrightKeyword": "Mute swan",
-        "hsh": "90f855bc19daf0bedfa478a7c7d09725"
+        "hsh": "1c306e6668689584db386819e11585a2"
     }
 ]
