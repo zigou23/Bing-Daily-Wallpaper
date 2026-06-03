@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606022200",
+        "date": "20260603",
+        "url": "https://www.bing.com/th?id=OHR.BardenasReales_ES-ES7948885864_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BardenasReales_ES-ES7948885864",
+        "copyright": "Ciclista en el Parque Natural y Reserva de la Biosfera de las Bardenas Reales, Navarra (© Artur Debat/Getty Images)",
+        "copyrightKeyword": "Día Mundial de la Bicicleta",
+        "hsh": "d64c43f775ce0bb58e0a2a54d1d9384c",
+        "description": "Cada 3 de junio se celebra el Día Mundial de la Bicicleta, una fecha que invita a mirar este medio de transporte como símbolo de movilidad sostenible, salud y libertad. Pedalear reduce emisiones, promueve hábitos activos y permite redescubrir el territorio a un ritmo humano. Desde trayectos urbanos hasta rutas naturales, la bicicleta conecta a las personas con el entorno y con una forma de viajar más consciente, silenciosa y respetuosa con el paisaje.",
+        "maplink": "42.210213,-1.515728"
+    },
+    {
         "fullstartdate": "202606012200",
         "date": "20260602",
         "url": "https://www.bing.com/th?id=OHR.Qinghai_ES-ES1530472957_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.OtterDay_ES-ES3038994198",
         "copyright": "Nutria marina, bahía de Kachemak, Homer, Alaska, EE. UU. (© roclwyr/Getty Images)",
         "copyrightKeyword": "Nutria marina",
-        "hsh": "cbd6475a2c6e19d45ce55d7597ff42f1",
-        "description": "Hoy admiramos una nutria marina flotando en las aguas frías de la bahía de Kachemak, cerca de Homer, Alaska, Estados Unidos. Este pequeño animal descansa boca arriba mientras su denso pelaje oscuro contrasta con la superficie gris del mar. Viven casi siempre en el agua y a menudo se sujetan a las algas del bosque de kelp para no alejarse cuando flotan. También usan pequeñas piedras como herramientas para abrir conchas, un comportamiento sorprendente entre los mamíferos marinos. Su presencia resulta fundamental porque mantiene a raya a varios invertebrados que, sin control, podrían dañar estos bosques submarinos.",
-        "maplink": "59.725746,-151.141037"
-    },
-    {
-        "fullstartdate": "202605252200",
-        "date": "20260526",
-        "url": "https://www.bing.com/th?id=OHR.LupineBloom_ES-ES2667460285_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LupineBloom_ES-ES2667460285",
-        "copyright": "Lupinos en flor, norte de California, EE. UU. (© Jeffrey Lewis/Tandem Stills + Motion)",
-        "copyrightKeyword": "Lupino",
-        "hsh": "d2f72c5fa6bb6664d1ad440bc1b27954"
+        "hsh": "cbd6475a2c6e19d45ce55d7597ff42f1"
     }
 ]

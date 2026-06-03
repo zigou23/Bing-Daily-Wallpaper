@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606022300",
+        "date": "20260602",
+        "url": "https://www.bing.com/th?id=OHR.BardenasReales_EN-GB8956577575_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BardenasReales_EN-GB8956577575",
+        "copyright": "Cyclist in Bardenas Reales Natural Park and Biosphere Reserve, Navarra, Spain (© Artur Debat/Getty Images)",
+        "copyrightKeyword": "World Bicycle Day",
+        "hsh": "e6a394b49f59cfcfd04a5cb13530d4d0",
+        "description": "Your average route to work might not resemble the one in today's image, but it shouldn't stop you from pedalling. World Bicycle Day invites us to rethink what's possible on two wheels—whether the ride cuts through city streets or remote terrain. Observed every 3 June, the United Nations–backed day recognises cycling as a practical way to move, supporting health, lowering emissions and making mobility more accessible.",
+        "maplink": "42.210213,-1.515728"
+    },
+    {
         "fullstartdate": "202606012300",
         "date": "20260601",
         "url": "https://www.bing.com/th?id=OHR.Qinghai_EN-GB8807388585_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.OtterDay_EN-GB6482423127",
         "copyright": "Sea otter, Kachemak Bay, Homer, Alaska, United States (© roclwyr/Getty Images)",
         "copyrightKeyword": "World Otter Day",
-        "hsh": "b218593b9ee6a4c7f7f132c64d7892f9",
-        "description": "On World Otter Day, just look at this cutie swimming in the waters of Kachemak Bay, Alaska! Otters are captivating creatures that play an essential role in maintaining healthy ecosystems. Supported by the Otter Specialist Group (OSG)—a global network of professionals dedicated to the conservation of all 14 species—this day highlights the otter's vital contribution to nature. Known for their playful behaviour and remarkable intelligence, otters are key indicators of waterway health. Sadly, they face growing challenges from habitat loss and pollution.",
-        "maplink": "59.725746,-151.141037"
-    },
-    {
-        "fullstartdate": "202605252300",
-        "date": "20260525",
-        "url": "https://www.bing.com/th?id=OHR.LupineBloom_EN-GB6153888495_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LupineBloom_EN-GB6153888495",
-        "copyright": "Lupine flowers in bloom, Northern California, United States (© Jeffrey Lewis/Tandem Stills + Motion)",
-        "copyrightKeyword": "Lupinus",
-        "hsh": "5840a2685c32aeae247b7afbbf018a28"
+        "hsh": "b218593b9ee6a4c7f7f132c64d7892f9"
     }
 ]

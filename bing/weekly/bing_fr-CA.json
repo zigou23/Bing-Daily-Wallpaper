@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606020400",
+        "date": "20260602",
+        "url": "https://www.bing.com/th?id=OHR.Qinghai_FR-CA8995705420_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.Qinghai_FR-CA8995705420",
+        "copyright": "Route nationale 315 traversant le lac Xitai Jinaier, Province du Qinghai, Chine (© Kaicheng Xu/Getty Images)",
+        "copyrightKeyword": "bassin du Qaidam Chine",
+        "hsh": "3888d10452deba543999712caf545494",
+        "description": "Dans les hauts déserts de l’ouest chinois, le lac Xitai Jinaier déploie ses eaux salées au cœur du bassin du Qaidam, traçant un chemin presque irréel. La route nationale 315 longe et traverse certaines parties du lac, comme suspendue, donnant l’étrange sensation de rouler entre deux mondes distincts. Par temps clair, l’horizon tremble légèrement sous l’effet de la chaleur, accentuant l’illusion d’un mirage.",
+        "maplink": "35.668594,96.043144"
+    },
+    {
         "fullstartdate": "202606010400",
         "date": "20260601",
         "url": "https://www.bing.com/th?id=OHR.OlivaPalermo_FR-CA4763720725_1920x1080.jpg",
@@ -72,16 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LupineBloom_FR-CA1655481961",
         "copyright": "Lupins en fleur, Californie du Nord, États-Unis (© Jeffrey Lewis/Tandem Stills + Motion)",
         "copyrightKeyword": "Lupin fleur",
-        "hsh": "b56e48bd439da421d0e52a069765885a",
-        "description": "Au printemps, la Californie du Nord, aux États-Unis, se réveille tapissée de lupins en fleur. Le bleu, le violet et le blanc ondulent sur les collines, portés par le doux climat méditerranéen. Ces fleurs sauvages deviennent alors des haltes précieuses pour les abeilles, les papillons et les coléoptères, attirés par leur nectar généreux."
-    },
-    {
-        "fullstartdate": "202605250400",
-        "date": "20260525",
-        "url": "https://www.bing.com/th?id=OHR.HawaMahal2026_FR-CA5388607060_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.HawaMahal2026_FR-CA5388607060",
-        "copyright": "Vue sur Jaipur depuis le Palais des Vents, Rajasthan, Inde (© byheaven/Getty Images)",
-        "copyrightKeyword": "Palais des Vents Jaipur",
-        "hsh": "b365d951ad08137d6665c973b7788d1a"
+        "hsh": "b56e48bd439da421d0e52a069765885a"
     }
 ]
