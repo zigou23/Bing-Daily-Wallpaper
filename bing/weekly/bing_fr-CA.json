@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606030400",
+        "date": "20260603",
+        "url": "https://www.bing.com/th?id=OHR.BardenasReales_FR-CA5237684924_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BardenasReales_FR-CA5237684924",
+        "copyright": "Cycliste dans le parc naturel des Bardenas Reales, Navarre, Espagne (© Artur Debat/Getty Images)",
+        "copyrightKeyword": "Journée mondiale de la bicyclette",
+        "hsh": "2d20dd50dfe25703b0e5821853996926",
+        "description": "Votre trajet quotidien n’a sans doute rien à voir avec celui de l’image du jour, mais il mérite tout autant d’être parcouru à vélo. La Journée mondiale de la bicyclette, célébrée chaque 3 juin sous l’égide de l’ONU, invite à repenser nos déplacements : plus sains, moins polluants et accessibles à tous — sur deux roues.",
+        "maplink": "42.210213,-1.515728"
+    },
+    {
         "fullstartdate": "202606020400",
         "date": "20260602",
         "url": "https://www.bing.com/th?id=OHR.Qinghai_FR-CA8995705420_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.OtterDay_FR-CA6658643516",
         "copyright": "Loutre de mer, Baie de Kachemak, Homer, Alaska, États-Unis (© roclwyr/Getty Images)",
         "copyrightKeyword": "Journée mondiale de la loutre",
-        "hsh": "af1935e5cd3d616ec5ee61b0d66cd63f",
-        "description": "À l’occasion de la Journée mondiale de la loutre, lumière sur cette petite silhouette fuselée qui glisse dans les eaux froides et limpides de la baie de Kachemak, en Alaska, aux États-Unis. Entre mer et montagnes, la loutre nage avec une aisance joyeuse, joue, plonge, puis réapparaît, comme un éclat de vie dans un paysage sauvage.",
-        "maplink": "59.725746,-151.141037"
-    },
-    {
-        "fullstartdate": "202605260400",
-        "date": "20260526",
-        "url": "https://www.bing.com/th?id=OHR.LupineBloom_FR-CA1655481961_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LupineBloom_FR-CA1655481961",
-        "copyright": "Lupins en fleur, Californie du Nord, États-Unis (© Jeffrey Lewis/Tandem Stills + Motion)",
-        "copyrightKeyword": "Lupin fleur",
-        "hsh": "b56e48bd439da421d0e52a069765885a"
+        "hsh": "af1935e5cd3d616ec5ee61b0d66cd63f"
     }
 ]

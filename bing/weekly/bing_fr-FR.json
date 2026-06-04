@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202606032200",
+        "date": "20260604",
+        "url": "https://www.bing.com/th?id=OHR.PreeningEgret_FR-FR5555518390_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PreeningEgret_FR-FR5555518390",
+        "copyright": "Aigrette neigeuse, Floride centrale, États-Unis (© Donald M. Jones/Minden Pictures)",
+        "copyrightKeyword": "aigrette neigeuse",
+        "hsh": "56ca3e5fddbd469e959c65d690e7dff9",
+        "description": "Nom poétique, allure délicate. L’aigrette neigeuse se distingue par son plumage d’un blanc éclatant et ses étonnantes « pantoufles » jaunes, posées au bout de fines pattes noires. Cette apparence gracieuse a bien failli lui coûter cher : au début du XXᵉ siècle, ses plumes nuptiales, très prisées pour les chapeaux, ont mené l’espèce au bord de la disparition."
+    },
+    {
         "fullstartdate": "202606022200",
         "date": "20260603",
         "url": "https://www.bing.com/th?id=OHR.BardenasReales_FR-FR5179078081_1920x1080.jpg",
@@ -71,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.HwaesongFortress_FR-FR4479337112",
         "copyright": "Forteresse de Hwaseong, Suwon, Corée du Sud (© aomam/Getty Images)",
         "copyrightKeyword": "Forteresse de Waseong Suwon",
-        "hsh": "1cb80ae090a475e0889db05cb3ffc063",
-        "description": "À la tombée de la nuit, Suwon, en Corée du Sud, se pare d’un calme feutré. La forteresse de Hwaseong se découpe alors dans l’obscurité, élégante et puissante, rappelant que l’utilité peut engendrer la beauté. Édifiée entre 1794 et 1796 sous le règne du roi Jeongjo, cette muraille n’était pas qu’un rempart : elle incarnait une vision politique réformatrice, pragmatique, pensée pour un royaume plus efficace et plus juste.",
-        "maplink": "37.289031,127.014114"
-    },
-    {
-        "fullstartdate": "202605262200",
-        "date": "20260527",
-        "url": "https://www.bing.com/th?id=OHR.OtterDay_FR-FR4235881841_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.OtterDay_FR-FR4235881841",
-        "copyright": "Loutre de mer, Baie de Kachemak, Homer, Alaska, États-Unis (© roclwyr/Getty Images)",
-        "copyrightKeyword": "Journée mondiale de la loutre",
-        "hsh": "16b159942473235672767346d452b7e6"
+        "hsh": "1cb80ae090a475e0889db05cb3ffc063"
     }
 ]
