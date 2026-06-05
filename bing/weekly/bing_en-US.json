@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202606040700",
+        "date": "20260604",
+        "url": "https://www.bing.com/th?id=OHR.PreeningEgret_EN-US9350488148_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PreeningEgret_EN-US9350488148",
+        "copyright": "Snowy egret preening, central Florida, USA (© Donald M. Jones/Minden Pictures)",
+        "copyrightKeyword": "snowy egret",
+        "hsh": "f4cdcef26e713810819d975c799b04d0",
+        "description": "Poetic name, poetic appearance. Meet the snowy egret, whose all-white plumage and bright yellow 'slippers' on black legs give it a striking look. Once nearly wiped out by demand for its delicate breeding-season feathers—soft, lacy plumes prized for fashionable hats—conservation efforts saved its plumage."
+    },
+    {
         "fullstartdate": "202606030700",
         "date": "20260603",
         "url": "https://www.bing.com/th?id=OHR.BardenasReales_EN-US9044910730_1920x1080.jpg",
@@ -72,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.HwaesongFortress_EN-US1012626869",
         "copyright": "Old city wall of Hwaseong Fortress, Suwon, South Korea (© aomam/Getty Images)",
         "copyrightKeyword": "hwaseong fortress suwon",
-        "hsh": "3eb977efac2f017d417bcc947c09e477",
-        "description": "As night settles over Suwon, South Korea, the old city wall pictured here shows that function doesn't necessarily cancel out beauty—it can create it. Built between 1794 and 1796 under King Jeongjo of the Joseon Dynasty, Hwaseong Fortress was more than a barrier. It was policy in stone: a reform minded push for a leaner, better-run state, driven by practicality and a deeply personal motive. Jeongjo ordered its construction to honor his father while strengthening a kingdom that wanted smarter systems, not just thicker walls.",
-        "maplink": "37.289031,127.014114"
-    },
-    {
-        "fullstartdate": "202605270700",
-        "date": "20260527",
-        "url": "https://www.bing.com/th?id=OHR.OtterDay_EN-US0973120905_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.OtterDay_EN-US0973120905",
-        "copyright": "Sea otter, Kachemak Bay, Homer, Alaska (© roclwyr/Getty Images)",
-        "copyrightKeyword": "World otter day",
-        "hsh": "7fcdc9d278f091ff463d6d414034a540"
+        "hsh": "3eb977efac2f017d417bcc947c09e477"
     }
 ]

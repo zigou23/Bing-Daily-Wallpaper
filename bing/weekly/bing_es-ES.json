@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606042200",
+        "date": "20260605",
+        "url": "https://www.bing.com/th?id=OHR.CastillaLaMancha_ES-ES3536382810_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.CastillaLaMancha_ES-ES3536382810",
+        "copyright": "Molinos de Consuegra al amanecer, Castilla-La Mancha (© Paulo Costa/Getty Images)",
+        "copyrightKeyword": "Molinos de Consuegra",
+        "hsh": "9898bd80c159eac040c4887b11138074",
+        "description": "En la llanura manchega, los molinos de Consuegra se alzan como un símbolo poderoso del paisaje y de la historia de Castilla-La Mancha. Situados sobre el cerro Calderico, dominan el horizonte con sus aspas blancas que evocan escenas del pasado rural y literario. Muchos de estos molinos han sido restaurados y conservan su maquinaria original, lo que permite comprender su función tradicional en la molienda del grano.",
+        "maplink": "39.4497,-3.6073"
+    },
+    {
         "fullstartdate": "202606032200",
         "date": "20260604",
         "url": "https://www.bing.com/th?id=OHR.PreeningEgret_ES-ES8215268252_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SummitEverest_ES-ES4841461045",
         "copyright": "Cumbre del monte Everest, Parque Nacional de Sagarmatha, Nepal (© fotoVoyager/Getty Images)",
         "copyrightKeyword": "Expedición británica al Everest de 1953",
-        "hsh": "38f5b276bab7b2a467812887e51d04f9",
-        "description": "La expedición británica al monte Everest, en el Parque Nacional de Sagarmatha (Nepal) de 1953, organizada bajo el liderazgo de John Hunt, marcó un hito en la historia del alpinismo. Durante la primavera de ese año, el equipo avanzó por la vertiente sur desde Nepal, estableciendo campamentos en condiciones extremas. Tras varios intentos y una cuidadosa preparación, Edmund Hillary y Tenzing Norgay, sherpa nepalí, fueron seleccionados para el asalto final, apoyados por el esfuerzo colectivo de todos los integrantes.",
-        "maplink": "27.980471,86.880623"
-    },
-    {
-        "fullstartdate": "202605272200",
-        "date": "20260528",
-        "url": "https://www.bing.com/th?id=OHR.HwaesongFortress_ES-ES3287835347_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.HwaesongFortress_ES-ES3287835347",
-        "copyright": "Antigua muralla de la fortaleza de Hwaseong, Suwon, Corea del Sur (© aomam/Getty Images)",
-        "copyrightKeyword": "Fortaleza de Hwaseong",
-        "hsh": "1f8d4e945e2c0e9d1e6d46935738ab50"
+        "hsh": "38f5b276bab7b2a467812887e51d04f9"
     }
 ]

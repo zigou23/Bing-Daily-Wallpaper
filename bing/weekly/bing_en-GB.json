@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606042300",
+        "date": "20260604",
+        "url": "https://www.bing.com/th?id=OHR.WedLapland_EN-GB9256196437_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WedLapland_EN-GB9256196437",
+        "copyright": "View from Skierffe Mountain over the Rapadalen river delta, Sarek National Park, Laponia, Lapland, Sweden (© Robert Haasmann/Getty Images)",
+        "copyrightKeyword": "World Environment Day",
+        "hsh": "5b5324b60a04a489a6c48d5fc564abaa",
+        "description": "If nature had a 'do not disturb' sign, it would hang over Sarek National Park, often called 'the last European wilderness.' On World Environment Day, this remote corner of Swedish Lapland reminds us what the planet looks like when humans take a step back—and let the wild take the lead.",
+        "maplink": "67.28834,17.66914"
+    },
+    {
         "fullstartdate": "202606032300",
         "date": "20260603",
         "url": "https://www.bing.com/th?id=OHR.PreeningEgret_EN-GB9120612883_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SummitEverest_EN-GB1382419791",
         "copyright": "Mount Everest summit, Sagarmatha National Park, Nepal (© fotoVoyager/Getty Images)",
         "copyrightKeyword": "Mt Everest summit 1953",
-        "hsh": "43195df47e8a10a159303d7548a48bcf",
-        "description": "In Sagarmatha National Park, Nepal, Mount Everest rises into view, calm and unmoved as evening settles in. But on 29 May, 1953, that stillness was broken. After years of planning and weeks of climbing, New Zealander Edmund Hillary and Sherpa mountaineer Tenzing Norgay reached the summit. At more than 8,800 metres above sea level, they became the first people known to have stood at Earth's highest point.",
-        "maplink": "27.980471,86.880623"
-    },
-    {
-        "fullstartdate": "202605272300",
-        "date": "20260527",
-        "url": "https://www.bing.com/th?id=OHR.HwaesongFortress_EN-GB7039150905_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.HwaesongFortress_EN-GB7039150905",
-        "copyright": "Old city wall of Hwaseong Fortress, Suwon, South Korea (© aomam/Getty Images)",
-        "copyrightKeyword": "Hwaseong Fortress Suwon",
-        "hsh": "9c304eb830aa3f0dd4a9006522480a80"
+        "hsh": "43195df47e8a10a159303d7548a48bcf"
     }
 ]
