@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606052200",
+        "date": "20260606",
+        "url": "https://www.bing.com/th?id=OHR.RothenburgPloenlein_DE-DE1102047823_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.RothenburgPloenlein_DE-DE1102047823",
+        "copyright": "Plönlein mit Siebersturm und Kobolzeller Tor, Rothenburg ob der Tauber, Bayern (© Harald Nachtmann/Getty Images)",
+        "copyrightKeyword": "Plönlein Rothenburg",
+        "hsh": "445746fd93812ec817f3889e382cad6f",
+        "description": "Das Plönlein zählt zu den bekanntesten Fotomotiven Deutschlands. Doch was verbirgt sich wirklich dahinter? Im Herzen der historischen Altstadt von Rothenburg ob der Tauber in Bayern gelegen, ist es weit mehr als das ikonische Fachwerkhaus, das viele von Postkarten kennen. Der Name stammt vom fränkischen „Plänlein“ und bezeichnet einen kleinen Platz, meist an einem Brunnen.",
+        "maplink": "49.374751,10.180054"
+    },
+    {
         "fullstartdate": "202606042200",
         "date": "20260605",
         "url": "https://www.bing.com/th?id=OHR.WedLapland_DE-DE1297494610_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.EquusQuagga_DE-DE3459381022",
         "copyright": "Steppenzebra-Fohlen im Etosha-Nationalpark, Namibia (© Sharon Heald/Nature Picture Library)",
         "copyrightKeyword": "Steppenzebra",
-        "hsh": "56d52d795aacec7183f21d1b5f4846fa",
-        "description": "Im Etosha-Nationalpark in Namibia bedeutet jeder Anfang sofort Bewegung – das Steppenzebra-Fohlen auf diesem Bild scheint dies von Beginn an verstanden zu haben. In einer Landschaft aus Salzpfannen und Grasland ist das richtige Timing entscheidend, denn Zögern kann gefährlich sein. Löwen, Tüpfelhyänen, Wildhunde, Geparden und Leoparden setzen den Herden ständig zu, besonders den Jüngsten. Deshalb sind Zebras erstaunlich gut vorbereitet, wenn sie zur Welt kommen: Minuten nach der Geburt stehen sie bereits und folgen kurz darauf der Herde.",
-        "maplink": "-18.98073,15.762634"
-    },
-    {
-        "fullstartdate": "202605282200",
-        "date": "20260529",
-        "url": "https://www.bing.com/th?id=OHR.SummitEverest_DE-DE3618626129_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SummitEverest_DE-DE3618626129",
-        "copyright": "Gipfel des Mount Everest, Sagarmatha-Nationalpark, Nepal (© fotoVoyager/Getty Images)",
-        "copyrightKeyword": "Mt Everest Erstbesteigung 1953",
-        "hsh": "99b7b66542eb10ba058c3d557abd8872"
+        "hsh": "56d52d795aacec7183f21d1b5f4846fa"
     }
 ]

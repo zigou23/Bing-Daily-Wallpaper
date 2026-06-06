@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606052200",
+        "date": "20260606",
+        "url": "https://www.bing.com/th?id=OHR.HikingNatchez_ES-ES4258488538_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.HikingNatchez_ES-ES4258488538",
+        "copyright": "Natchez Trace Parkway, Tupelo, Misisipi, EE. UU. (© The best photo is earned/Getty Images Plus)",
+        "copyrightKeyword": "Senderismo Natchez Trace Parkway",
+        "hsh": "1f8dd0a6167fd27c3b4ccaa8d8ff2844",
+        "description": "El senderismo en Natchez Trace Parkway, cerca de Tupelo, en Misisipi (Estados Unidos), ofrece una experiencia serena que combina historia y naturaleza. Este histórico corredor, que sigue antiguas rutas indígenas y caminos de colonos, atraviesa bosques frondosos, praderas abiertas y arroyos tranquilos. Los senderos bien señalizados permiten caminar a ritmo pausado mientras se observan aves, ciervos y una variada flora autóctona, creando un entorno ideal para desconectar y disfrutar del paisaje sureño.",
+        "maplink": "31.54333,-91.38306"
+    },
+    {
         "fullstartdate": "202606042200",
         "date": "20260605",
         "url": "https://www.bing.com/th?id=OHR.CastillaLaMancha_ES-ES3536382810_1920x1080.jpg",
@@ -71,16 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.TenerifePuerto_ES-ES2845823553",
         "copyright": "Vista aérea del Puerto de la Cruz, Tenerife (© Balate Dorin/Getty Images)",
         "copyrightKeyword": "Día de Canarias",
-        "hsh": "ee40bb582698bcf628e55cc033735677",
-        "description": "El 30 de mayo se celebra el Día de Canarias, una fecha que conmemora la identidad, la historia y la cultura del archipiélago. Es una jornada marcada por tradiciones populares, música, gastronomía y encuentros que recuerdan el carácter diverso de estas islas atlánticas. La celebración también invita a valorar su entorno natural y la relación histórica entre paisaje y vida cotidiana en un territorio definido por el mar y el origen volcánico."
-    },
-    {
-        "fullstartdate": "202605282200",
-        "date": "20260529",
-        "url": "https://www.bing.com/th?id=OHR.SummitEverest_ES-ES4841461045_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SummitEverest_ES-ES4841461045",
-        "copyright": "Cumbre del monte Everest, Parque Nacional de Sagarmatha, Nepal (© fotoVoyager/Getty Images)",
-        "copyrightKeyword": "Expedición británica al Everest de 1953",
-        "hsh": "38f5b276bab7b2a467812887e51d04f9"
+        "hsh": "ee40bb582698bcf628e55cc033735677"
     }
 ]
