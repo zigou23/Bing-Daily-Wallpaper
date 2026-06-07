@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202606060300",
+        "date": "20260606",
+        "url": "https://www.bing.com/th?id=OHR.HikingNatchez_PT-BR9167850765_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.HikingNatchez_PT-BR9167850765",
+        "copyright": "Natchez Trace Parkway, Tupelo, Mississippi, EUA (© The best photo is earned/Getty Images Plus)",
+        "copyrightKeyword": "trilha Natchez Trace",
+        "hsh": "30fe2e6950b4507eb2825c9c82612ac1",
+        "description": "Muito antes de placas, asfalto e mapas, havia caminhos que não só encurtavam distâncias, mas ligavam territórios, seguiam rios, venciam serras e aproximavam pessoas. A Natchez Trace Parkway, fotografada aqui perto de Tupelo, no estado do Mississippi, Estados Unidos, começou assim. Por séculos, povos indígenas cruzaram a região, e o traçado permaneceu quando exploradores e comerciantes chegaram. Hoje, a estrada‑trilha soma mais de 700 quilômetros e mantém partes originais, afundadas pelo uso contínuo ao longo do tempo."
+    },
+    {
         "fullstartdate": "202606050300",
         "date": "20260605",
         "url": "https://www.bing.com/th?id=OHR.WedLapland_PT-BR8732112197_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.EquusQuagga_PT-BR5698040013",
         "copyright": "Filhote de zebra-da-planície no Parque Nacional Etosha, Namíbia (© Sharon Heald/Nature Picture Library)",
         "copyrightKeyword": "zebra da planicie",
-        "hsh": "e2c82413d7425171fb8bfe1fad150e6c",
-        "description": "O Parque Nacional de Etosha, na Namíbia, não é lugar para hesitação — e o filhote de zebra‑da‑planície da imagem parece saber disso desde o primeiro minuto. Em um território imenso, com quase 22 mil km² de salinas e savanas abertas, o tempo cobra caro. Leões, hienas‑malhadas, cães‑selvagens, guepardos e leopardos pressionam o rebanho o tempo todo, especialmente os recém‑chegados. Por isso, zebras nascem prontas. Minutos depois do parto, estão de pé. Horas depois, já acompanham o grupo."
-    },
-    {
-        "fullstartdate": "202605290300",
-        "date": "20260529",
-        "url": "https://www.bing.com/th?id=OHR.SummitEverest_PT-BR8310035958_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SummitEverest_PT-BR8310035958",
-        "copyright": "Topo do Monte Everest, Parque Nacional de Sagarmatha, Nepal (© fotoVoyager/Getty Images)",
-        "copyrightKeyword": "primeira escalada Everest",
-        "hsh": "019f7691776cf6626d63ee715736c865"
+        "hsh": "e2c82413d7425171fb8bfe1fad150e6c"
     }
 ]

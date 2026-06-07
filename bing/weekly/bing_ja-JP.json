@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606061500",
+        "date": "20260607",
+        "url": "https://www.bing.com/th?id=OHR.Limpets_JA-JP0282972005_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.Limpets_JA-JP0282972005",
+        "copyright": "プラヤ・ダ・ウルサ, ポルトガル (© Theo Bosboom/Nature Picture Library)",
+        "copyrightKeyword": "プラヤ・ダ・ウルサ",
+        "hsh": "33ee8e8fb6b749c25385f56cbe70543f",
+        "description": "ここは、ポルトガルのロカ岬近くにあるビーチ、プラヤ・ダ・ウルサ。潮が引くと岩場が姿を現し、その岩の表面には、画像のようにカサガイがしっかりと張りついています。カサガイは、強い吸着力と皿型の殻が特徴の巻貝の一種です。打ち寄せる波や気温の変化、長時間の空気への露出などに耐え、満潮時には海に沈む藻類を食べ、干潮時にはまた元の場所に戻ります。人里離れた険しく厳しい環境の中で、この小さな生物は力強く生きています。",
+        "maplink": "38.790765,-9.492425"
+    },
+    {
         "fullstartdate": "202606051500",
         "date": "20260606",
         "url": "https://www.bing.com/th?id=OHR.HikingNatchez_JA-JP9730895087_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.EvergladesWetlands_JA-JP7977535602",
         "copyright": "エバーグレーズ国立公園, 米国 フロリダ州 (© Tetra Images/Getty Images)",
         "copyrightKeyword": "米国の湿地月間",
-        "hsh": "bf8815bc6b28ec39c8916e5008195ad2",
-        "description": "今日 5 月 31 日は、「米国の湿地月間」の最終日です。湿地の重要性を啓蒙するため 1991 年に創設されました。そして画像は、米国フロリダ州のエバーグレーズ国立公園。約 6100km² の面積を誇る米国最大の亜熱帯地域として知られており、園内には広大な湿地が存在します。この湿地が、炭素の蓄積や水質浄化を行うことで、絶滅危惧種のマナティーやフロリダパンサーなど、多様な生物の生息に重要な役割を果たしています。",
-        "maplink": "25.286623,-80.898659"
-    },
-    {
-        "fullstartdate": "202605291500",
-        "date": "20260530",
-        "url": "https://www.bing.com/th?id=OHR.EquusQuagga_JA-JP7756090544_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.EquusQuagga_JA-JP7756090544",
-        "copyright": "サバンナシマウマの子馬, ナミビア (© Sharon Heald/Nature Picture Library)",
-        "copyrightKeyword": "サバンナシマウマの子馬",
-        "hsh": "0276391e7639cb091e2ff71da41b9f98"
+        "hsh": "bf8815bc6b28ec39c8916e5008195ad2"
     }
 ]

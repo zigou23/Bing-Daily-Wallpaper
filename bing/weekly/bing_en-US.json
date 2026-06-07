@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606060700",
+        "date": "20260606",
+        "url": "https://www.bing.com/th?id=OHR.HikingNatchez_EN-US0663065299_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.HikingNatchez_EN-US0663065299",
+        "copyright": "Natchez Trace Parkway, Tupelo, Mississippi, USA (© The best photo is earned/Getty Images Plus)",
+        "copyrightKeyword": "National Trails Day",
+        "hsh": "27800678f53bd05858ca33ad7c2b26ca",
+        "description": "If your screen time has been winning lately, today is a good time to change that—we suggest hiking. National Trails Day, created in 1993 by the American Hiking Society, nudges people toward exploring trails.",
+        "maplink": "31.54333,-91.38306"
+    },
+    {
         "fullstartdate": "202606050700",
         "date": "20260605",
         "url": "https://www.bing.com/th?id=OHR.WedLapland_EN-US9813120088_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.EquusQuagga_EN-US8240577582",
         "copyright": "Plains zebra foal in Etosha National Park, Namibia (© Sharon Heald/Nature Picture Library)",
         "copyrightKeyword": "plains zebras",
-        "hsh": "c8f43c108dfc061f6101c61a2e9a1816",
-        "description": "Etosha National Park, Namibia, is not a place for soft starts, and the plains zebra foal in this image seems to get the memo. In a land this vast—nearly 8,600 square miles of salt pans and grassland—timing is everything, and hesitation is expensive. Lions, spotted hyenas, wild dogs, cheetahs, and leopards constantly pressure the herd—especially the youngest—so zebras are born ready. Minutes after arrival, they're upright. Hours later, they're moving.",
-        "maplink": "-18.98073,15.762634"
-    },
-    {
-        "fullstartdate": "202605290700",
-        "date": "20260529",
-        "url": "https://www.bing.com/th?id=OHR.SummitEverest_EN-US0552794971_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SummitEverest_EN-US0552794971",
-        "copyright": "Mount Everest summit, Sagarmatha National Park, Nepal (© fotoVoyager/Getty Images)",
-        "copyrightKeyword": "Mt Everest summit 1953",
-        "hsh": "61b917f2a34e4acb0d6f508ecc6e036b"
+        "hsh": "c8f43c108dfc061f6101c61a2e9a1816"
     }
 ]
