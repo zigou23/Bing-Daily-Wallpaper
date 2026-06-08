@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606070400",
+        "date": "20260607",
+        "url": "https://www.bing.com/th?id=OHR.DunseverickCastle2026_FR-CA5980090022_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.DunseverickCastle2026_FR-CA5980090022",
+        "copyright": "Ruines du château de Dunseverick, Antrim, Irlande du Nord (© Krzysztof Rogalski/Getty Images)",
+        "copyrightKeyword": "Château de Dunseverick",
+        "hsh": "85a86d68d8c13f7d0b82d60b86259574",
+        "description": "Au château de Dunseverick, l’histoire tient encore debout — littéralement. Accrochés à un piton de basalte battu par l’Atlantique, des fragments de murs défient vent et sel. Ici se serait achevée, il y a près de deux mille ans, la Slige Midluachra, l’une des cinq grandes routes d’Irlande, menant vers la colline royale de Tara. Au Ve siècle, Saint-Patrick y aurait baptisé Olcán, ancrant la foi dans cette pierre noire. La tradition raconte aussi que la Lia Fáil, pierre du destin des rois, aurait quitté cette côte pour l’Écosse.",
+        "maplink": "55.238358,-6.448198"
+    },
+    {
         "fullstartdate": "202606060400",
         "date": "20260606",
         "url": "https://www.bing.com/th?id=OHR.HikingNatchez_FR-CA1773498116_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.HumberRiverTrail_FR-CA4592084106",
         "copyright": "Rivière Humber dans la zone de conservation Boyd, Woodbridge, Vaughan, Ontario (© jimfeng/Getty Images)",
         "copyrightKeyword": "Zone de Conservation Boyd Vaughan",
-        "hsh": "815067603255712d09e3a64ea558b584",
-        "description": "Au cœur de la vallée de la rivière Humber, la zone de conservation Boyd (Boyd Conservation Area) déploie un paysage façonné par l’eau et le temps, à Woodbridge, dans la ville de Vaughan. La rivière serpente doucement, témoignant de siècles d’érosion, de dépôts sédimentaires et de crues marquantes. Créé en 1957 par l’Office de protection de la nature de Toronto et de la région (Toronto and Region Conservation Authority), à la suite des inondations dévastatrices de l’ouragan Hazel, le site protège près de quatre kilomètres carrés de territoire.",
-        "maplink": "43.809513,-79.588348"
-    },
-    {
-        "fullstartdate": "202605300400",
-        "date": "20260530",
-        "url": "https://www.bing.com/th?id=OHR.EquusQuagga_FR-CA5183876662_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.EquusQuagga_FR-CA5183876662",
-        "copyright": "Zébreau dans le parc national d’Etosha, Namibie (© Sharon Heald/Nature Picture Library)",
-        "copyrightKeyword": "zèbre animal",
-        "hsh": "a2601e293e878e55324a04bb9b866bd9"
+        "hsh": "815067603255712d09e3a64ea558b584"
     }
 ]
