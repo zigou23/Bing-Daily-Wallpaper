@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606081500",
+        "date": "20260609",
+        "url": "https://www.bing.com/th?id=OHR.CTNPVernazza_JA-JP0736280487_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.CTNPVernazza_JA-JP0736280487",
+        "copyright": "ヴェルナッツァ, イタリア (© Kelly Cheng/Getty Images)",
+        "copyrightKeyword": "ヴェルナッツァ",
+        "hsh": "7973514b7b264697023b40e1a1d6775e",
+        "description": "ここは、イタリア・リグーリア海岸の港町ヴェルナッツァ。世界遺産である 5 つの村「チンクエ・テッレ」の一つであり、唯一天然港を中心に築かれた村です。1080年に要塞集落として初めて記録に登場しており、その後はジェノヴァ共和国の沿岸防衛拠点として栄えました。湾を見下ろすドーリア城跡や見張り塔がその面影を今に伝えており、海辺にはサンタ・マルゲリータ教会が佇み、鐘楼が港を見守ります。急斜面には石積みの段々畑が広がり、ブドウやオリーブが育まれています。色彩豊かな家並みと港を眺めながら、フォカッチャを味わえば、絵葉書のようなひとときを過ごせます。",
+        "maplink": "44.135512,9.681952"
+    },
+    {
         "fullstartdate": "202606071500",
         "date": "20260608",
         "url": "https://www.bing.com/th?id=OHR.Cyanea_JA-JP0508555494_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.YokohamaPort2026_JA-JP8907488905",
         "copyright": "みなとみらい 21 地区, 神奈川県 横浜市 (© simpletun/Shutterstock)",
         "copyrightKeyword": "横浜開港記念日",
-        "hsh": "896f0b7de7e9390a8f6179fb2af89d93",
-        "description": "今日 6 月 2 日は横浜開港記念日。かつて、200 年以上に渡り鎖国していた日本は、1854 年に米国と日米和親条約を結んで開国しました。そして、1858 年に締結された安政の五カ国条約に基づき、1859 年 7 月 1 日（安政 6 年 6 月 2 日）に横浜港が開港しました。毎年この日に合わせて、横浜港では「横浜開港祭」が行われます。そして、今日の画像は、そんな横浜港を取り囲む計画都市、みなとみらい 21 地区です。1989 年の横浜博覧会を契機に本格的な開発が行われた地区であり、現在では横浜都心に指定され、観光・ビジネス・文化の拠点へと成長しています。",
-        "maplink": "35.462246,139.63147"
-    },
-    {
-        "fullstartdate": "202605311500",
-        "date": "20260601",
-        "url": "https://www.bing.com/th?id=OHR.Qinghai_JA-JP8687946851_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.Qinghai_JA-JP8687946851",
-        "copyright": "西タイジナール湖, 中国 (© Kaicheng Xu/Getty Images)",
-        "copyrightKeyword": "Xitai Jinaier Lake",
-        "hsh": "e32fd8ad768ab0f028c3f8915833de06"
+        "hsh": "896f0b7de7e9390a8f6179fb2af89d93"
     }
 ]
