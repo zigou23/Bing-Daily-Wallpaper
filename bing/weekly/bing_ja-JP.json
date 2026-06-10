@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606091500",
+        "date": "20260610",
+        "url": "https://www.bing.com/th?id=OHR.Hnausapollur_JA-JP1632213498_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.Hnausapollur_JA-JP1632213498",
+        "copyright": "フナウサウポットル, アイスランド (© Juan Maria Coy Vergara/Getty Images)",
+        "copyrightKeyword": "Hnausapollur",
+        "hsh": "17b5d9f9967f216ff4c0ea7581b3ef40",
+        "description": "今日の写真は、フナウサウポットル。アイスランド高地・フィヤラバク自然保護区に位置するクレーター湖です。火山活動によって形成されたもので、マグマと地下水の接触による爆発によって円形の盆地が生まれた後に、雨水や融雪水が蓄えられることで現在の湖となりました。光や天候によってターコイズから深い青へと表情を変える湖の色彩と、噴火の痕跡を刻む地層は、地球のダイナミックな営みを今に伝えています。未開発の大地が広がるこの場所は、自然の力と美しさを体感できる貴重な風景です。",
+        "maplink": "64.055313,-19.031654"
+    },
+    {
         "fullstartdate": "202606081500",
         "date": "20260609",
         "url": "https://www.bing.com/th?id=OHR.CTNPVernazza_JA-JP0736280487_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BardenasReales_JA-JP9112700614",
         "copyright": "バルデナス・レアレス自然公園, スペイン (© Artur Debat/Getty Images)",
         "copyrightKeyword": "世界自転車デー",
-        "hsh": "74dff1092d3b405eb3032e48ebf12911",
-        "description": "今日 6 月 3 日は国連が定めた「世界自転車デー」。自転車は、健康的かつ環境にも優しい交通手段です。そして画像は、スペイン・ナバーラ州にあるバルデナス・レアレス自然公園を自転車で走る冒険家の姿。面積約 400km² の広大な敷地には、長い年月をかけて風や雨による浸食で形成された独特の地形が広がっています。園内にはサイクリングコースが整備されており、この繊細な自然環境を間近に体験することができます。",
-        "maplink": "42.210213,-1.515728"
-    },
-    {
-        "fullstartdate": "202606011500",
-        "date": "20260602",
-        "url": "https://www.bing.com/th?id=OHR.YokohamaPort2026_JA-JP8907488905_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.YokohamaPort2026_JA-JP8907488905",
-        "copyright": "みなとみらい 21 地区, 神奈川県 横浜市 (© simpletun/Shutterstock)",
-        "copyrightKeyword": "横浜開港記念日",
-        "hsh": "896f0b7de7e9390a8f6179fb2af89d93"
+        "hsh": "74dff1092d3b405eb3032e48ebf12911"
     }
 ]
