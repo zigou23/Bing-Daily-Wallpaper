@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606102200",
+        "date": "20260611",
+        "url": "https://www.bing.com/th?id=OHR.Limpets_DE-DE3433588374_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.Limpets_DE-DE3433588374",
+        "copyright": "Napfschnecken bei Ebbe an der Küste von Praia da Ursa, Portugal (© Theo Bosboom/Nature Picture Library)",
+        "copyrightKeyword": "Praia da Ursa Portugal",
+        "hsh": "3744d25fe711e06733e20e3f5410c991",
+        "description": "An der rauen Westküste Portugals, nahe Cabo da Roca, dem westlichsten Punkt des europäischen Festlands, liegt die Praia da Ursa verborgen unter steilen Felsen. Ein schmaler, teils anspruchsvoller Pfad führt zu diesem abgelegenen Strand am Atlantik, der vor allem von Wind, Gestein und Brandung geprägt ist. Bei Ebbe zieht sich das Meer zurück, die Küstenlinie wirkt für kurze Zeit weiter, und glatte Felsen werden freigelegt. Auf ihnen haften Napfschnecken fest und halten den kräftigen Wellen stand.",
+        "maplink": "38.790765,-9.492425"
+    },
+    {
         "fullstartdate": "202606092200",
         "date": "20260610",
         "url": "https://www.bing.com/th?id=OHR.Hnausapollur_DE-DE2307473274_1920x1080.jpg",
@@ -71,16 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PreeningEgret_DE-DE1842151218",
         "copyright": "Schmuckreiher bei der Gefiederpflege, Zentralflorida, USA (© Donald M. Jones/Minden Pictures)",
         "copyrightKeyword": "Schmuckreiher",
-        "hsh": "9c30844b1e7fb0321b4e9f6c73905d94",
-        "description": "Elegant und voller Geschichte: Der Schmuckreiher ist ein echter Blickfang. Sein strahlend weißes Gefieder und die leuchtend gelben Füße auf dunklen Beinen machen ihn unverwechselbar. Anfang des 20. Jahrhunderts stand diese Art kurz vor dem Aus, da ihre feinen Schmuckfedern in der Mode besonders begehrt waren. Erst konsequente Schutzmaßnahmen bewahrten den Schmuckreiher vor dem Verschwinden."
-    },
-    {
-        "fullstartdate": "202606022200",
-        "date": "20260603",
-        "url": "https://www.bing.com/th?id=OHR.BardenasReales_DE-DE2578527889_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BardenasReales_DE-DE2578527889",
-        "copyright": "Radfahrer in den Bardenas Reales, einem Naturpark und Biosphärenreservat in Navarra, Spanien (© Artur Debat/Getty Images)",
-        "copyrightKeyword": "Weltfahrradtag",
-        "hsh": "9d5790ac089588987777e06ecd81f05d"
+        "hsh": "9c30844b1e7fb0321b4e9f6c73905d94"
     }
 ]

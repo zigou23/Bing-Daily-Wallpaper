@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606102200",
+        "date": "20260611",
+        "url": "https://www.bing.com/th?id=OHR.Limpets_IT-IT0440243465_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.Limpets_IT-IT0440243465",
+        "copyright": "Patelle, costa di Praia da Ursa, Portogallo (© Theo Bosboom/Nature Picture Library)",
+        "copyrightKeyword": "Praia da Ursa",
+        "hsh": "a5b5c6c7658dcf368824a6f1e4cf1685",
+        "description": "Ai piedi delle alte scogliere che circondano Cabo da Roca — l’estremo occidentale dell’Europa continentale — Praia da Ursa appare come un luogo sospeso tra terra e oceano. Per raggiungerla bisogna seguire un sentiero stretto e selvaggio, scavato nella roccia e nel vento. Qui, lungo la costa atlantica del Portogallo, il paesaggio prende forma grazie alla forza incessante delle onde, alla pietra e all’aria salmastra. Quando la marea si ritrae, la spiaggia si apre per pochi istanti: affiorano rocce lisce e silenziose, insieme a minuscole presenze che resistono al mare. Le patelle rimangono ancorate alla pietra nuda, proprio nei punti dove l’acqua colpisce con più forza.",
+        "maplink": "38.790765,-9.492425"
+    },
+    {
         "fullstartdate": "202606092200",
         "date": "20260610",
         "url": "https://www.bing.com/th?id=OHR.OlivaPalermo_IT-IT7720847835_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.Qinghai_IT-IT1366157196",
         "copyright": "Strada G315 che attraversa il lago Xitai Jinaier, Qinghai, Cina (© Kaicheng Xu/Getty Images)",
         "copyrightKeyword": "Qaidam",
-        "hsh": "c6392412502868f2dfd98cab59628d53",
-        "description": "Tracciando un percorso quasi surreale tra i deserti d’alta quota della Cina occidentale, il lago Xitai Jinaier (noto anche come West Taijinar Lake) è uno spettacolare lago salato nel remoto bacino di Qaidam. Un tratto della Strada Nazionale 315 attraversa le sue acque basse, creando l’illusione di una strada sospesa tra due mondi. Da un lato, l’acqua si accende di un blu profondo; dall’altro, sfuma in un verde più tenue, un contrasto disegnato dalle diverse concentrazioni minerali della salamoia.",
-        "maplink": "35.668594,96.043144"
-    },
-    {
-        "fullstartdate": "202606022200",
-        "date": "20260603",
-        "url": "https://www.bing.com/th?id=OHR.BardenasReales_IT-IT5937080217_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BardenasReales_IT-IT5937080217",
-        "copyright": "Ciclista nel parco naturale e riserva della biosfera delle Bardenas Reales, Navarra, Spagna (© Artur Debat/Getty Images)",
-        "copyrightKeyword": "Giornata mondiale della bicicletta",
-        "hsh": "d48cb22768f1fa3b46907e64c5c5d8dc"
+        "hsh": "c6392412502868f2dfd98cab59628d53"
     }
 ]
