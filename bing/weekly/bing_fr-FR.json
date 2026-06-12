@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606112200",
+        "date": "20260612",
+        "url": "https://www.bing.com/th?id=OHR.SpainBeeEater_FR-FR5420456430_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SpainBeeEater_FR-FR5420456430",
+        "copyright": "Guêpier d’Europe, Parc naturel de la Sierra de Grazalema, Cadix, Espagne (© Andres M. Dominguez/Nature Picture Library)",
+        "copyrightKeyword": "guêpier d’Europe",
+        "hsh": "52d63f47ab44f555c7ae731cb7fb41fb",
+        "description": "Un éclair de couleurs fend l’air au-dessus des prairies fleuries : le guêpier d’Europe surgit, agile et lumineux. Turquoise éclatant, or et brun profond se mêlent sur ses ailes alors qu’il chasse en plein vol, capturant des abeilles et des guêpes avec une précision fulgurante. Avant de se nourrir, il ôte le dard — un geste appris, comme un rituel révélant son étonnante intelligence.",
+        "maplink": "36.74794,-5.371703"
+    },
+    {
         "fullstartdate": "202606102200",
         "date": "20260611",
         "url": "https://www.bing.com/th?id=OHR.Limpets_FR-FR7051500113_1920x1080.jpg",
@@ -28,7 +39,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.CTNPVernazza_FR-FR6675629876",
         "copyright": "Vernazza, Cinque Terre, Ligurie, Italie (© Kelly Cheng/Getty Images)",
         "copyrightKeyword": "Vernazza Cinque Terre Ligurie Italie",
-        "hsh": "f6fe78be0144642fecde40cc9eac4d14",
+        "hsh": "14df3023995d4ee2a18839663085dfc6",
         "description": "Vernazza est un petit bourg marin des Cinque Terre, en Ligurie (Italie), façonné par la mer et la pierre. Blottie autour de l’un des rares ports naturels de la côte, la cité apparaît dès 1080 comme place fortifiée, avant d’être intégrée aux défenses de la République de Gênes. Les ruines du château Doria et les tours de guet dominent encore la baie. Au ras de l’eau, l’église Sainte-Marguerite-d’Antioche, citée au XIVᵉ siècle, dresse son clocher face aux barques.",
         "maplink": "44.135512,9.681952"
     },
@@ -39,7 +50,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PantheonParisNight_FR-FR2285812065",
         "copyright": "Les Invalides de nuit, Paris (© Don White/Getty Images)",
         "copyrightKeyword": "Les Invalides Paris",
-        "hsh": "8cc3e6a741109e74190921655a664c8d",
+        "hsh": "878c09f788044ecb73d19508b8c8efb2",
         "description": "Sous le ciel de Paris, le dôme doré des Invalides attire le regard depuis plus de trois siècles. Créé sous Louis XIV pour accueillir les soldats blessés et vétérans, cet ensemble monumental est devenu l’un des lieux les plus emblématiques de l’histoire française. Son architecture majestueuse et ses vastes cours témoignent de l’importance accordée à ceux qui ont servi le royaume.",
         "maplink": "48.856133,2.312623"
     },
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.WedLapland_FR-FR5600667341",
         "copyright": "Vue sur Skierffe et la vallée de Rapa, Parc national de Sarek, Laponie, Suède (© Robert Haasmann/Getty Images)",
         "copyrightKeyword": "Journée Mondiale de l’environnement",
-        "hsh": "be033f77ff25e8f1af662e953ac2409e",
-        "description": "S’il existait un écriteau « ne pas déranger » pour la nature, il flotterait certainement au-dessus du parc national de Sarek, à l’extrême nord de la Suède. En cette Journée mondiale de l’environnement, ce territoire isolé rappelle ce qu’est encore la planète quand l’humain s’efface et laisse le sauvage respirer.",
-        "maplink": "67.28834,17.66914"
-    },
-    {
-        "fullstartdate": "202606032200",
-        "date": "20260604",
-        "url": "https://www.bing.com/th?id=OHR.PreeningEgret_FR-FR5555518390_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PreeningEgret_FR-FR5555518390",
-        "copyright": "Aigrette neigeuse, Floride centrale, États-Unis (© Donald M. Jones/Minden Pictures)",
-        "copyrightKeyword": "aigrette neigeuse",
-        "hsh": "56ca3e5fddbd469e959c65d690e7dff9"
+        "hsh": "be033f77ff25e8f1af662e953ac2409e"
     }
 ]
