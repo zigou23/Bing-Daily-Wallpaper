@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606120400",
+        "date": "20260612",
+        "url": "https://www.bing.com/th?id=OHR.SpainBeeEater_EN-CA4532177883_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SpainBeeEater_EN-CA4532177883",
+        "copyright": "European bee-eater in Sierra de Grazalema Natural Park, Cádiz, Spain (© Andres M. Dominguez/Nature Picture Library)",
+        "copyrightKeyword": "European bee-eater",
+        "hsh": "81e05871b093ab5bcf3e14df2e4d253b",
+        "description": "A streak of colour glides past a blur of wildflowers as a European bee-eater cuts through the air. Turquoise, gold and chestnut shimmer across its wings as it hunts in flight, snatching insects mid-air with swift turns. Bees and wasps are among its favoured prey, and the bird often removes the stinger before feeding—a behaviour that reduces the risk of injury.",
+        "maplink": "36.74794,-5.371703"
+    },
+    {
         "fullstartdate": "202606110400",
         "date": "20260611",
         "url": "https://www.bing.com/th?id=OHR.Limpets_EN-CA5417186464_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.WedLapland_EN-CA4849438466",
         "copyright": "View from Skierffe Mountain over the Rapadalen river delta, Sarek National Park, Laponia, Lapland, Sweden (© Robert Haasmann/Getty Images)",
         "copyrightKeyword": "World Environment Day",
-        "hsh": "1ee90f657032d3be2835c0da57c760f7",
-        "description": "If nature had a 'do not disturb' sign, it would hang over Sarek National Park, often called 'the last European wilderness.' On World Environment Day, this remote corner of Swedish Lapland reminds us what the planet looks like when humans take a step back—and let the wild take the lead.",
-        "maplink": "67.28834,17.66914"
-    },
-    {
-        "fullstartdate": "202606040400",
-        "date": "20260604",
-        "url": "https://www.bing.com/th?id=OHR.PreeningEgret_EN-CA4690989796_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PreeningEgret_EN-CA4690989796",
-        "copyright": "Snowy egret preening, central Florida, United States (© Donald M. Jones/Minden Pictures)",
-        "copyrightKeyword": "Snowy egret",
-        "hsh": "f17c98680f9483084efa114923cb49ea"
+        "hsh": "1ee90f657032d3be2835c0da57c760f7"
     }
 ]

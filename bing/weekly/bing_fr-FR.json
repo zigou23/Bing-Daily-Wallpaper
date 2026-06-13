@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606122200",
+        "date": "20260613",
+        "url": "https://www.bing.com/th?id=OHR.BadSunset_FR-FR8337431465_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BadSunset_FR-FR8337431465",
+        "copyright": "Coucher de soleil au parc national des Badlands, Dakota du Sud, États-Unis (© Troy Harrison/Getty Images)",
+        "copyrightKeyword": "parc national des Badlands",
+        "hsh": "1157cdab11250972910fd303b4357bd4",
+        "description": "Dans le Dakota du Sud, aux États-Unis, les Badlands déploient un paysage sculpté par le temps. Des crêtes stratifiées ondulent à perte de vue, mêlant roses poudrés, gris cendrés et ors brûlés, dont les nuances évoluent avec la lumière. Ici, le vent et l’eau poursuivent une lente œuvre d’érosion, grignotant les roches sédimentaires et révélant, couche après couche, près de 75 millions d’années d’histoire géologique.",
+        "maplink": "43.85538,-102.339666"
+    },
+    {
         "fullstartdate": "202606112200",
         "date": "20260612",
         "url": "https://www.bing.com/th?id=OHR.SpainBeeEater_FR-FR5420456430_1920x1080.jpg",
@@ -72,16 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.Cyanea_FR-FR6314357714",
         "copyright": "Méduse crinière de lion (© Alexander Semenov Images/Shutterstock)",
         "copyrightKeyword": "Journée mondiale de l’océan",
-        "hsh": "9c0de0751b74ac83997f0c7220bc110b",
-        "description": "Aujourd’hui, laissons-nous guider par une créature qui s’abandonne aux courants. La méduse à crinière de lion (Cyanea capillata) évolue principalement dans les mers froides du Nord. Son ombrelle, découpée en huit lobes, flotte comme une fleur pâle, tandis que de longs tentacules et bras buccaux ondulent en dessous."
-    },
-    {
-        "fullstartdate": "202606042200",
-        "date": "20260605",
-        "url": "https://www.bing.com/th?id=OHR.WedLapland_FR-FR5600667341_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WedLapland_FR-FR5600667341",
-        "copyright": "Vue sur Skierffe et la vallée de Rapa, Parc national de Sarek, Laponie, Suède (© Robert Haasmann/Getty Images)",
-        "copyrightKeyword": "Journée Mondiale de l’environnement",
-        "hsh": "be033f77ff25e8f1af662e953ac2409e"
+        "hsh": "9c0de0751b74ac83997f0c7220bc110b"
     }
 ]

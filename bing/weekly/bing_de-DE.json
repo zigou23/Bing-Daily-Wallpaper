@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606122200",
+        "date": "20260613",
+        "url": "https://www.bing.com/th?id=OHR.BadSunset_DE-DE9498581527_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BadSunset_DE-DE9498581527",
+        "copyright": "Sonnenuntergang im Badlands-Nationalpark, South Dakota, USA (© Troy Harrison/Getty Images)",
+        "copyrightKeyword": "Badlands-Nationalpark",
+        "hsh": "12dd2c0fcd9519269ab2db9b4e42e1ab",
+        "description": "Wenn die Sonne über dem Badlands-Nationalpark in South Dakota, USA, untergeht, erstrahlen die zerfurchten Hügel in Rosé, Ocker und Aschegrau. Im Abendlicht wirken die Kanten fast wie gemalt, und die Schatten zeichnen jede Falte nach. Die Schichtbänder ähneln einem aufgeschlagenen Gesteinsbuch: Sedimente lagerten sich einst in einem flachen Binnenmeer ab und bauten sich über Millionen Jahre wie ein Schichtkuchen auf, bevor Wind und Wasser die weichen Lagen wieder freilegten.",
+        "maplink": "43.85538,-102.339666"
+    },
+    {
         "fullstartdate": "202606112200",
         "date": "20260612",
         "url": "https://www.bing.com/th?id=OHR.SpainBeeEater_DE-DE9310458421_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.RothenburgPloenlein_DE-DE1102047823",
         "copyright": "Plönlein mit Siebersturm und Kobolzeller Tor, Rothenburg ob der Tauber, Bayern (© Harald Nachtmann/Getty Images)",
         "copyrightKeyword": "Plönlein Rothenburg",
-        "hsh": "445746fd93812ec817f3889e382cad6f",
-        "description": "Das Plönlein zählt zu den bekanntesten Fotomotiven Deutschlands. Doch was verbirgt sich wirklich dahinter? Im Herzen der historischen Altstadt von Rothenburg ob der Tauber in Bayern gelegen, ist es weit mehr als das ikonische Fachwerkhaus, das viele von Postkarten kennen. Der Name stammt vom fränkischen „Plänlein“ und bezeichnet einen kleinen Platz, meist an einem Brunnen.",
-        "maplink": "49.374751,10.180054"
-    },
-    {
-        "fullstartdate": "202606042200",
-        "date": "20260605",
-        "url": "https://www.bing.com/th?id=OHR.WedLapland_DE-DE1297494610_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WedLapland_DE-DE1297494610",
-        "copyright": "Blick vom Skierffe über das Flussdelta des Rapadalen, Nationalpark Sarek, Laponia, Lappland, Schweden (© Robert Haasmann/Getty Images)",
-        "copyrightKeyword": "Weltumwelttag",
-        "hsh": "7b965cf00f94a0ec58e802ca83d14551"
+        "hsh": "445746fd93812ec817f3889e382cad6f"
     }
 ]

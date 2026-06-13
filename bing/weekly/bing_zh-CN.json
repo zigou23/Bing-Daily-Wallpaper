@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202606121600",
+        "date": "20260613",
+        "url": "https://www.bing.com/th?id=OHR.BadSunset_ZH-CN9050997938_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BadSunset_ZH-CN9050997938",
+        "copyright": "落日，恶地国家公园，南达科他州，美国 (© Troy Harrison/Getty Images)",
+        "copyrightKeyword": "恶地国家公园",
+        "hsh": "bf12af6a788b4374eb75b0a576f9b7a0",
+        "description": "层叠的嵴线横跨南达科他州的恶地国家公园。随着光影变幻，饱受侵蚀的山峰与沟谷悉数呈现在眼前，其间交织着粉红、灰白与金黄的岩层条带。时至今日，风力和流水仍在持续重塑这片地貌，不断剥蚀着质地松软的沉积岩，从而让数百万年的地球历史展露无遗。这些岩层分别由远古河流的沉积物、火山灰，以及该区域曾被浅海覆盖时期的沉积物交替堆积而成。"
+    },
+    {
         "fullstartdate": "202606111600",
         "date": "20260612",
         "url": "https://www.bing.com/th?id=OHR.SpainBeeEater_ZH-CN4424052851_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.HikingNatchez_ZH-CN2495512699",
         "copyright": "纳奇兹小径公园大道, 图珀洛, 密西西比州, 美国 (© The best photo is earned/Getty Images Plus)",
         "copyrightKeyword": "纳奇兹小径日出步道",
-        "hsh": "ab51fb9737355417109fd194d44af522",
-        "description": "如果你最近沉迷于电子屏幕，今天正是改变的好时机——我们建议你去徒步旅行。"
-    },
-    {
-        "fullstartdate": "202606041600",
-        "date": "20260605",
-        "url": "https://www.bing.com/th?id=OHR.WedLapland_ZH-CN2365942547_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WedLapland_ZH-CN2365942547",
-        "copyright": "从斯基尔夫山俯瞰拉帕达伦河三角洲, 萨雷克国家公园, 拉波尼亚, 瑞典拉普兰 (© Robert Haasmann/Getty Images)",
-        "copyrightKeyword": "世界环境日",
-        "hsh": "a3e55178ec51942df1077ed8b1d3ce3c"
+        "hsh": "ab51fb9737355417109fd194d44af522"
     }
 ]
