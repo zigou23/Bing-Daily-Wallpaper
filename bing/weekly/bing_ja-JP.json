@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606131500",
+        "date": "20260614",
+        "url": "https://www.bing.com/th?id=OHR.BadSunset_JA-JP5960860484_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BadSunset_JA-JP5960860484",
+        "copyright": "バッドランズ国立公園, 米国 サウスダコタ州 (© Troy Harrison/Getty Images)",
+        "copyrightKeyword": "バッドランズ国立公園",
+        "hsh": "ba516e20c8e57933b06565471dfa4d3b",
+        "description": "ここは、米国サウスダコタ州に位置するバッドランズ国立公園。面積約 980km² の広大な敷地には、水と風の浸食によって長い年月をかけて形成された崖や峡谷、そそり立つ尖峰など、独特の地形が広がっています。化石の宝庫としても知られており、荒涼とした地表の下には、3400 万年前から 2500 万年前に生きていた哺乳類の化石が多く確認されています。また、公園の周囲に広がる草原には、バイソン、ビッグホーン、プレーリードッグなどの野生動物が多数生息しています。",
+        "maplink": "43.85538,-102.339666"
+    },
+    {
         "fullstartdate": "202606121500",
         "date": "20260613",
         "url": "https://www.bing.com/th?id=OHR.HayabusaDay2026_JA-JP6590656546_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.Limpets_JA-JP0282972005",
         "copyright": "プラヤ・ダ・ウルサ, ポルトガル (© Theo Bosboom/Nature Picture Library)",
         "copyrightKeyword": "プラヤ・ダ・ウルサ",
-        "hsh": "33ee8e8fb6b749c25385f56cbe70543f",
-        "description": "ここは、ポルトガルのロカ岬近くにあるビーチ、プラヤ・ダ・ウルサ。潮が引くと岩場が姿を現し、その岩の表面には、画像のようにカサガイがしっかりと張りついています。カサガイは、強い吸着力と皿型の殻が特徴の巻貝の一種です。打ち寄せる波や気温の変化、長時間の空気への露出などに耐え、満潮時には海に沈む藻類を食べ、干潮時にはまた元の場所に戻ります。人里離れた険しく厳しい環境の中で、この小さな生物は力強く生きています。",
-        "maplink": "38.790765,-9.492425"
-    },
-    {
-        "fullstartdate": "202606051500",
-        "date": "20260606",
-        "url": "https://www.bing.com/th?id=OHR.HikingNatchez_JA-JP9730895087_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.HikingNatchez_JA-JP9730895087",
-        "copyright": "ナチェズ・トレース・パークウェイのトレイル, 米国 ミシシッピ州 (© The best photo is earned/Getty Images Plus)",
-        "copyrightKeyword": "米国の「トレイルデー」",
-        "hsh": "9907bc5c7d2a7aec69deb9b62504b04e"
+        "hsh": "33ee8e8fb6b749c25385f56cbe70543f"
     }
 ]
