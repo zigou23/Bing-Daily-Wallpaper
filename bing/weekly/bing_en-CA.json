@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202606140400",
+        "date": "20260614",
+        "url": "https://www.bing.com/th?id=OHR.DuckPond_EN-CA5165691235_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.DuckPond_EN-CA5165691235",
+        "copyright": "Mallard duck (© Philippe Paternolli/Getty Images)",
+        "copyrightKeyword": "Mallard duck",
+        "hsh": "a70feb4d61b88e9d86caaf099954e895",
+        "description": "At daybreak, the mallard glides over the still water like a brush across a canvas. Its shimmering plumage—emerald-green head in the male, speckled brown coat in the female—catches the first light. It can be seen from the marshes of the Camargue to the urban canals of Amsterdam, a faithful companion of Europe's aquatic landscapes."
+    },
+    {
         "fullstartdate": "202606130400",
         "date": "20260613",
         "url": "https://www.bing.com/th?id=OHR.BadSunset_EN-CA4785183991_1920x1080.jpg",
@@ -71,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DunseverickCastle2026_EN-CA2353386537",
         "copyright": "Ruins of Dunseverick Castle, County Antrim, Northern Ireland (© Krzysztof Rogalski/Getty Images)",
         "copyrightKeyword": "Dunseverick Castle",
-        "hsh": "c8ec0bb80bc0766024fafec496b563ed",
-        "description": "At Dunseverick Castle in Northern Ireland, history hangs on—literally. Wall fragments cling to a basalt stack above the Atlantic, proving that even ruins can hold their ground. Two thousand years ago, it marked the end of the Slige Midluachra, one of Ireland's five great roads, linking travellers to the royal seat at Hill of Tara. In the 5th century, Saint Patrick is said to have visited and baptised a local man, Olcán, here. Tradition holds that the Lia Fáil (Stone of Destiny), used for crowning Irish kings, was taken from this shore for Scotland.",
-        "maplink": "55.238358,-6.448198"
-    },
-    {
-        "fullstartdate": "202606060400",
-        "date": "20260606",
-        "url": "https://www.bing.com/th?id=OHR.HikingNatchez_EN-CA4973547873_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.HikingNatchez_EN-CA4973547873",
-        "copyright": "Natchez Trace Parkway, Tupelo, Mississippi, United States (© The best photo is earned/Getty Images Plus)",
-        "copyrightKeyword": "Natchez Trace Parkway",
-        "hsh": "5ceefbadd0573e30063577cc836009b6"
+        "hsh": "c8ec0bb80bc0766024fafec496b563ed"
     }
 ]

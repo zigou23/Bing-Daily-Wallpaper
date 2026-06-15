@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606140700",
+        "date": "20260614",
+        "url": "https://www.bing.com/th?id=OHR.FlagsMonument_EN-US6034154869_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FlagsMonument_EN-US6034154869",
+        "copyright": "US flags surrounding the Washington Monument, Washington, DC  (© Orhan Cam/Shutterstock)",
+        "copyrightKeyword": "US Flag Day",
+        "hsh": "6cc5d1615ca5c4c4ae8b84fcb5913480",
+        "description": "On June 14, the stars align—and not just figuratively. They line up on a piece of fabric that has seen battles, protests, and backyard barbecues. Flag Day marks the 1777 decision by the Second Continental Congress to adopt the national flag, but the story goes beyond stitches and stripes.",
+        "maplink": "38.889477,-77.03508"
+    },
+    {
         "fullstartdate": "202606130700",
         "date": "20260613",
         "url": "https://www.bing.com/th?id=OHR.BadSunset_EN-US5981956630_1920x1080.jpg",
@@ -71,16 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.GardenAtlanta_EN-US2319128074",
         "copyright": "Atlanta Botanical Garden, Atlanta, Georgia (© Marcus E Jones/Shutterstock)",
         "copyrightKeyword": "National Garden Week",
-        "hsh": "df4fe01ec1d8fc8215fc47eb61db674d",
-        "description": "Since opening its doors in 1976, the Atlanta Botanical Garden has proven that beauty can be organized. Beds are planned, labels are placed, and every plant has a job. 'To have a garden is not as easy as it seems; it is just as difficult as governing a kingdom.' Nobel Prize-winning German author Hermann Hesse had a point."
-    },
-    {
-        "fullstartdate": "202606060700",
-        "date": "20260606",
-        "url": "https://www.bing.com/th?id=OHR.HikingNatchez_EN-US0663065299_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.HikingNatchez_EN-US0663065299",
-        "copyright": "Natchez Trace Parkway, Tupelo, Mississippi, USA (© The best photo is earned/Getty Images Plus)",
-        "copyrightKeyword": "National Trails Day",
-        "hsh": "27800678f53bd05858ca33ad7c2b26ca"
+        "hsh": "df4fe01ec1d8fc8215fc47eb61db674d"
     }
 ]
