@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202606160700",
+        "date": "20260616",
+        "url": "https://www.bing.com/th?id=OHR.SevenMileTurtle_EN-US6164934763_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SevenMileTurtle_EN-US6164934763",
+        "copyright": "Hawksbill sea turtle pair near Seven Mile Beach, Grand Cayman, Cayman Islands (© Alex Mustard/Nature Picture Library)",
+        "copyrightKeyword": "World Sea Turtle Day",
+        "hsh": "a479affcc201a5a51d9ac84deee572c5",
+        "description": "Sea Turtle Day highlights some of the ocean's most ancient mariners—reptiles that have existed for over 100 million years. Observed each year on June 16, it raises awareness of their ecological importance and the growing threats they face. Sea turtles play a vital role in maintaining healthy seagrass beds and coral reefs, ecosystems that support diverse marine life. Long migrations between feeding and nesting areas are central to their life cycle. Despite their resilience, all species are threatened by habitat loss, plastic pollution, climate change, and accidental capture in fishing gear."
+    },
+    {
         "fullstartdate": "202606150700",
         "date": "20260615",
         "url": "https://www.bing.com/th?id=OHR.ParkEstd_EN-US6114949122_1920x1080.jpg",
@@ -72,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.CTNPVernazza_EN-US1571456265",
         "copyright": "Vernazza, Cinque Terre, Liguria, Italy (© Kelly Cheng/Getty Images)",
         "copyrightKeyword": "Vernazza Cinque Terre Liguria Italy",
-        "hsh": "607ed97dd6c0671f0b6842043084a5cd",
-        "description": "Vernazza is a small seaside town in Cinque Terre, in Italy's Liguria region. Built around the area's only natural harbor, it has long been tied to the sea. First recorded in 1080 as a fortified settlement and maritime base, it later became part of the Republic of Genoa's coastal defenses. To this day, the village preserves its past in the ruins of Doria Castle and the watchtowers overlooking the bay. At the water's edge stands the Church of Santa Margherita d'Antiochia, first mentioned in 1318 and expanded in later centuries, with a bell tower overlooking the port. Above the houses and narrow lanes, steep terraces support vineyards and olive groves, shaped by generations of stonework in a landscape protected within Cinque Terre National Park, part of a UNESCO World Heritage Site. Picture an aperitivo here: a glass of local white wine, the harbor in view, and Ligurian favorites like focaccia and basil pesto—basically a postcard you can taste.",
-        "maplink": "44.135512,9.681952"
-    },
-    {
-        "fullstartdate": "202606080700",
-        "date": "20260608",
-        "url": "https://www.bing.com/th?id=OHR.Cyanea_EN-US1146473249_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.Cyanea_EN-US1146473249",
-        "copyright": "Lion's mane jellyfish swimming in the ocean (© Alexander Semenov Images/Shutterstock)",
-        "copyrightKeyword": "World Oceans Day",
-        "hsh": "57394d041fbf72b8e4a2a7a655d8e7b6"
+        "hsh": "607ed97dd6c0671f0b6842043084a5cd"
     }
 ]
