@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606172200",
+        "date": "20260618",
+        "url": "https://www.bing.com/th?id=OHR.Saqsaywaman_DE-DE3241976270_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.Saqsaywaman_DE-DE3241976270",
+        "copyright": "Luftaufnahme der Ruinen von Sacsayhuamán, Cusco, Peru (© Creative-Family/Getty Images Plus)",
+        "copyrightKeyword": "Sacsayhuaman Cusco Peru",
+        "hsh": "eff48900c62f0203b384cb37c5a6d8ca",
+        "description": "Hoch über der ehemaligen Inkahauptstadt Cusco in Peru thront Sacsayhuamán, ein beeindruckendes Zeugnis der Baukunst und Ambitionen des Inkareichs. Die im 15. Jahrhundert errichtete Anlage war Teil des heiligen Zentrums dieses Reichs. Aus der Vogelperspektive erschließt sich ihre Struktur: Terrassen, offene Plätze und die Überreste von Türmen fügen sich zu einer sorgfältig geplanten Zitadelle zusammen. Besonders imposant sind die gewaltigen Mauern aus riesigen Steinblöcken, von denen einige mehr als acht Meter hoch sind. Präzise ohne Mörtel gefügt, haben sie Jahrhunderte von Erdbeben überdauert.",
+        "maplink": "-13.50778,-71.98222"
+    },
+    {
         "fullstartdate": "202606162200",
         "date": "20260617",
         "url": "https://www.bing.com/th?id=OHR.TremolaRoad_DE-DE0167255988_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.Limpets_DE-DE3433588374",
         "copyright": "Napfschnecken bei Ebbe an der Küste von Praia da Ursa, Portugal (© Theo Bosboom/Nature Picture Library)",
         "copyrightKeyword": "Praia da Ursa Portugal",
-        "hsh": "3744d25fe711e06733e20e3f5410c991",
-        "description": "An der rauen Westküste Portugals, nahe Cabo da Roca, dem westlichsten Punkt des europäischen Festlands, liegt die Praia da Ursa verborgen unter steilen Felsen. Ein schmaler, teils anspruchsvoller Pfad führt zu diesem abgelegenen Strand am Atlantik, der vor allem von Wind, Gestein und Brandung geprägt ist. Bei Ebbe zieht sich das Meer zurück, die Küstenlinie wirkt für kurze Zeit weiter, und glatte Felsen werden freigelegt. Auf ihnen haften Napfschnecken fest und halten den kräftigen Wellen stand.",
-        "maplink": "38.790765,-9.492425"
-    },
-    {
-        "fullstartdate": "202606092200",
-        "date": "20260610",
-        "url": "https://www.bing.com/th?id=OHR.Hnausapollur_DE-DE2307473274_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.Hnausapollur_DE-DE2307473274",
-        "copyright": "Vulkanischer Kratersee Hnausapollur, Naturschutzgebiet Fjallabak, Landmannalaugar, Island (© Juan Maria Coy Vergara/Getty Images)",
-        "copyrightKeyword": "Hnausapollur Island",
-        "hsh": "3a87b4d0aac954ceb4773b788ac30f43"
+        "hsh": "3744d25fe711e06733e20e3f5410c991"
     }
 ]
