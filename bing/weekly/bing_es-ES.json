@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606192200",
+        "date": "20260620",
+        "url": "https://www.bing.com/th?id=OHR.ArchedIceberg_ES-ES9715091871_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ArchedIceberg_ES-ES9715091871",
+        "copyright": "Iceberg arqueado flotando frente a la península Antártica occidental, océano Austral (© Steven Kazlowski/Nature Picture Library)",
+        "copyrightKeyword": "Iceberg",
+        "hsh": "c40b6f561d81e88961b59d98c372da76",
+        "description": "Un iceberg arqueado flota frente a la península Antártica occidental, en el océano Austral, como una gran estructura de hielo esculpida por el tiempo. Su forma curva recuerda a una bóveda natural, resultado de un equilibrio delicado entre el frío implacable, el viento constante y el movimiento del mar. La luz se refleja en sus superficies translúcidas, creando matices azules que cambian con el paso del día y revelan la densidad compacta de un hielo formado durante siglos.",
+        "maplink": "-69.5,-65"
+    },
+    {
         "fullstartdate": "202606182200",
         "date": "20260619",
         "url": "https://www.bing.com/th?id=OHR.IsolaElba_ES-ES9499583337_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AltafullaTarragona_ES-ES8470758712",
         "copyright": "Castillo de Altafulla, Tarragona (© Mario Marco/Getty Images)",
         "copyrightKeyword": "Castillo de Altafulla",
-        "hsh": "73bf5ded1c776106787559e275d97a08",
-        "description": "Situado en el núcleo histórico de Altafulla, en la provincia de Tarragona, el castillo de Altafulla domina el paisaje urbano desde una suave elevación cercana al Mediterráneo. Su origen se remonta a la época medieval, cuando cumplía funciones defensivas y de control del territorio. A lo largo de los siglos, la fortaleza ha experimentado diversas transformaciones que han suavizado su carácter militar y han dado paso a una residencia señorial integrada en el conjunto del municipio.",
-        "maplink": "41.1436,1.3745"
-    },
-    {
-        "fullstartdate": "202606112200",
-        "date": "20260612",
-        "url": "https://www.bing.com/th?id=OHR.SpainBeeEater_ES-ES8052156644_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SpainBeeEater_ES-ES8052156644",
-        "copyright": "Abejaruco europeo en el parque natural de la Sierra de Grazalema, Cádiz (© Andres M. Dominguez/Nature Picture Library)",
-        "copyrightKeyword": "Abejaruco europeo",
-        "hsh": "94baa8e44e6aec0bcd67f0a4451009ff"
+        "hsh": "73bf5ded1c776106787559e275d97a08"
     }
 ]

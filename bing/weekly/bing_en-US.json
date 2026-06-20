@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606190700",
+        "date": "20260619",
+        "url": "https://www.bing.com/th?id=OHR.JuneteenthNMAAHC_EN-US6306942628_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.JuneteenthNMAAHC_EN-US6306942628",
+        "copyright": "National Museum of African American History and Culture, Washington, DC (© Walter Bibikow/Alamy)",
+        "copyrightKeyword": "Juneteenth",
+        "hsh": "2f8485f54e2cc46741e560b706882277",
+        "description": "Across the National Mall in Washington, DC, the National Museum of African American History and Culture rises with a striking bronze-colored exterior. This powerful landmark reflects the story of Juneteenth, a holiday marking June 19, 1865, when Union troops arrived in Galveston, Texas, and finally announced freedom for more than 250,000 enslaved people—more than two years after the Emancipation Proclamation took effect.",
+        "maplink": "38.891068,-77.032616"
+    },
+    {
         "fullstartdate": "202606180700",
         "date": "20260618",
         "url": "https://www.bing.com/th?id=OHR.Saqsaywaman_EN-US6250260694_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SpainBeeEater_EN-US5920719155",
         "copyright": "European bee-eater, Sierra de Grazalema Natural Park, Cádiz, Spain (© Andres M. Dominguez/Nature Picture Library)",
         "copyrightKeyword": "European bee-eater",
-        "hsh": "1fd67d0341095f88fb217ddb96fb2b54",
-        "description": "A streak of color glides past a blur of wildflowers as a European bee-eater cuts through the air. Turquoise, gold, and chestnut shimmer across its wings as it hunts in flight, snatching insects midair with swift turns. Bees and wasps are among its favored prey, and the bird often removes the stinger before feeding—a behavior that reduces the risk of injury.",
-        "maplink": "36.74794,-5.371703"
-    },
-    {
-        "fullstartdate": "202606110700",
-        "date": "20260611",
-        "url": "https://www.bing.com/th?id=OHR.Limpets_EN-US1055673545_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.Limpets_EN-US1055673545",
-        "copyright": "Limpets exposed at low tide on the coast of Praia da Ursa, Portugal (© Theo Bosboom/Nature Picture Library)",
-        "copyrightKeyword": "Praia da Ursa Portugal",
-        "hsh": "7ccf820089b201c8c1ec9738d6e2466d"
+        "hsh": "1fd67d0341095f88fb217ddb96fb2b54"
     }
 ]

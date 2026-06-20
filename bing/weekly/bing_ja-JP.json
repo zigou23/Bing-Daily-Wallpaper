@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606191500",
+        "date": "20260620",
+        "url": "https://www.bing.com/th?id=OHR.ArchedIceberg_JA-JP0865478817_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ArchedIceberg_JA-JP0865478817",
+        "copyright": "アーチ状の氷山, 南極半島西部 (© Steven Kazlowski/Nature Picture Library)",
+        "copyrightKeyword": "アーチ状の氷山",
+        "hsh": "397bfd64933556bd64b3dcd7c1739965",
+        "description": "氷山は、南極に降り積もった雪が氷となり、海へ移動して割れることで形成されます。南極海で主に見られるのは、上面が平らな卓状氷山ですが、画像のように、浸食によって不規則な形に形成された氷山なども存在します。一見するとただの氷の塊の氷山ですが、実際には生態系を支える重要な存在です。海中部分には藻類が付着しており、オキアミなどのプランクトンが餌としています。そして、そのプランクトンは、魚やアザラシ、クジラなどの食料となります。また、氷が溶けるとその栄養分が周囲の海へと放出され、周辺海域の生態系を豊かにしています。このように氷山は、「移動する生態系」ともいえる役割を果たしています。",
+        "maplink": "-69.5,-65"
+    },
+    {
         "fullstartdate": "202606181500",
         "date": "20260619",
         "url": "https://www.bing.com/th?id=OHR.GrandPlace_JA-JP0571812680_1920x1080.jpg",
@@ -72,16 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.HayabusaDay2026_JA-JP6590656546",
         "copyright": "はやぶさ 2 から切り離されたカプセル (© MORGAN SETTE/Getty Images)",
         "copyrightKeyword": "はやぶさ の日",
-        "hsh": "1d8bca8576372df17f07c3775f5b2128",
-        "description": "今日、6 月 13 日は「はやぶさの日」。「はやぶさ」は、2003 年に宇宙航空研究開発機構 (JAXA) によって打ち上げられた小惑星探査機です。交信途絶などの様々なトラブルを乗り越えて、2010 年 6 月 13 日に地球へ帰還したことで大きな注目を集めました。「はやぶさの日」は、そんな「はやぶさ」とそのプロジェクトに関わった人々を称え、2012 年に認定された記念日です。2014 年には後継機「はやぶさ 2 」が打ち上げられ、2019 年に小惑星リュウグウへのタッチダウンに成功しました。今日の画像は、2020 年 12 月 6 日に、「はやぶさ 2 」からサンプルの入ったカプセルが地球へ向けて分離され、落下する様子です。本体は現在も稼働しており、拡張ミッションを継続中です。"
-    },
-    {
-        "fullstartdate": "202606111500",
-        "date": "20260612",
-        "url": "https://www.bing.com/th?id=OHR.SpainBeeEater_JA-JP8800920985_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SpainBeeEater_JA-JP8800920985",
-        "copyright": "ヨーロッパハチクイ, スペイン (© Andres M. Dominguez/Nature Picture Library)",
-        "copyrightKeyword": "ヨーロッパハチクイ",
-        "hsh": "1bcf50c9601968d649a2a757b0352b5b"
+        "hsh": "1d8bca8576372df17f07c3775f5b2128"
     }
 ]
