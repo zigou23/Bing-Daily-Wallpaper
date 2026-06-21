@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606200700",
+        "date": "20260620",
+        "url": "https://www.bing.com/th?id=OHR.ArchedIceberg_EN-US6345786269_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ArchedIceberg_EN-US6345786269",
+        "copyright": "Arched iceberg floating off the western Antarctic Peninsula, Southern Ocean (© Steven Kazlowski/Nature Picture Library)",
+        "copyrightKeyword": "Iceberg",
+        "hsh": "60b075fbea28a5bfdf8be14c61f3d1f9",
+        "description": "A sculpted arch of ice rises from the Southern Ocean along the Antarctic Peninsula, one of the fastest-warming regions on Earth. This formation began as compacted snow that turned into glacial ice over thousands of years. Eventually, part of a glacier or floating ice shelf fractured and broke free—a process known as calving—creating a drifting iceberg.",
+        "maplink": "-69.5,-65"
+    },
+    {
         "fullstartdate": "202606190700",
         "date": "20260619",
         "url": "https://www.bing.com/th?id=OHR.JuneteenthNMAAHC_EN-US6306942628_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BadSunset_EN-US5981956630",
         "copyright": "Sunset in Badlands National Park, South Dakota, USA (© Troy Harrison/Getty Images)",
         "copyrightKeyword": "Badlands National Park",
-        "hsh": "d8dfa48d1e36f31e2fc8809946f94c1f",
-        "description": "Layered ridges stretch across Badlands National Park in South Dakota. Their bands of pink, gray, and gold shift with the light as eroded peaks and valleys come into view. Wind and water continue to shape this terrain, steadily wearing away soft sedimentary rock and exposing millions of years of Earth's history in layers formed by ancient rivers, volcanic ash, and periods when shallow seas covered the region.",
-        "maplink": "43.85538,-102.339666"
-    },
-    {
-        "fullstartdate": "202606120700",
-        "date": "20260612",
-        "url": "https://www.bing.com/th?id=OHR.SpainBeeEater_EN-US5920719155_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SpainBeeEater_EN-US5920719155",
-        "copyright": "European bee-eater, Sierra de Grazalema Natural Park, Cádiz, Spain (© Andres M. Dominguez/Nature Picture Library)",
-        "copyrightKeyword": "European bee-eater",
-        "hsh": "1fd67d0341095f88fb217ddb96fb2b54"
+        "hsh": "d8dfa48d1e36f31e2fc8809946f94c1f"
     }
 ]

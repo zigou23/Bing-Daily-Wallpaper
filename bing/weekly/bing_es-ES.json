@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606202200",
+        "date": "20260621",
+        "url": "https://www.bing.com/th?id=OHR.Fujisan_ES-ES0010704933_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.Fujisan_ES-ES0010704933",
+        "copyright": "Monte Fuji en la isla de Honshu, Japón (© phutthiseth thongtae/Getty Images)",
+        "copyrightKeyword": "Monte Fuji",
+        "hsh": "d0a021e9210fe1efa76d22707c269aa0",
+        "description": "El monte Fuji, situado en la isla de Honshu, es la cumbre más alta de Japón y uno de sus símbolos más reconocibles. Este volcán de forma casi perfecta se eleva hasta los 3776 metros y destaca por su silueta armoniosa, visible desde grandes distancias en días despejados. Su imagen ha inspirado durante siglos a artistas, poetas y viajeros, convirtiéndose en un referente cultural profundamente arraigado en la identidad japonesa.",
+        "maplink": "35.365403,138.730373"
+    },
+    {
         "fullstartdate": "202606192200",
         "date": "20260620",
         "url": "https://www.bing.com/th?id=OHR.ArchedIceberg_ES-ES9715091871_1920x1080.jpg",
@@ -71,16 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DuckPond_ES-ES8621996260",
         "copyright": "Ánade real (© Philippe Paternolli/Getty Images)",
         "copyrightKeyword": "Ánade real",
-        "hsh": "2176c37181684475765458320a6c978b",
-        "description": "El ánade real es uno de los patos más conocidos y reconocibles del mundo. Destaca por el llamativo contraste entre el verde brillante de la cabeza del macho y los tonos pardos de la hembra, una diferencia que facilita su identificación en humedales, ríos y parques urbanos. Se trata de una especie muy adaptable que convive con facilidad cerca de las personas, lo que explica su presencia habitual en estanques y canales de ciudades europeas."
-    },
-    {
-        "fullstartdate": "202606122200",
-        "date": "20260613",
-        "url": "https://www.bing.com/th?id=OHR.AltafullaTarragona_ES-ES8470758712_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AltafullaTarragona_ES-ES8470758712",
-        "copyright": "Castillo de Altafulla, Tarragona (© Mario Marco/Getty Images)",
-        "copyrightKeyword": "Castillo de Altafulla",
-        "hsh": "73bf5ded1c776106787559e275d97a08"
+        "hsh": "2176c37181684475765458320a6c978b"
     }
 ]
