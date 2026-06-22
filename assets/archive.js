@@ -38,6 +38,8 @@ let yearOrder = [];           // 年份按降序排列
 let yearOffsets = {};         // { year: { start, count } } 每个年份在虚拟列表中的偏移
 let isSearchMode = false;     // 搜索模式下需要加载所有数据
 let loadingYears = new Set(); // 正在加载的年份
+let historyPreloadStarted = false;
+let historyPreloadObserver = null;
 
 // DOM 元素
 const galleryGrid = document.getElementById('gallery-grid');
@@ -137,7 +139,8 @@ async function init() {
         rebuildAllData();
         computeYearOffsets();
         populateMonthDropdown();
-        applyStateFromURL();
+        await applyStateFromURL();
+        setupHistoryPreloadObserver();
     } catch (err) {
         console.error('Init error:', err);
         galleryGrid.innerHTML = '<h3 style="color:white;text-align:center;">Unable to load data</h3>';
@@ -160,7 +163,8 @@ async function init() {
             rebuildAllData();
             computeYearOffsets();
             populateMonthDropdown();
-            filterData(monthSelect.value, currentSearchQuery, 1);
+            await filterData(monthSelect.value, currentSearchQuery, 1);
+            resetHistoryPreloadObserver();
         } catch (err) {
             console.error(err);
         } finally {
@@ -308,22 +312,22 @@ function getEffectiveRegion(year, regionCode) {
     const yearInfo = dataIndex.years[year];
     if (!yearInfo || !yearInfo.regions) return null;
 
-    // regions 现在是 { regionCode: count } 对象
+    // regions 是 { regionCode: count } 对象。不要把缺失地区回退为 en-US，
+    // 否则旧页会在 ja-JP 等区域混入英文内容。
     const availableRegions = Object.keys(yearInfo.regions);
     if (availableRegions.includes(regionCode)) {
         return regionCode;
     }
-    // 如果该年没有所选区域，回退到 bing_en-US
-    if (availableRegions.includes("bing_en-US")) {
-        return "bing_en-US";
-    }
-    // 最后回退到该年的第一个可用区域
-    return availableRegions[0] || null;
+    return null;
 }
 
 async function loadYearData(year, regionCode) {
     const effectiveRegion = getEffectiveRegion(year, regionCode);
-    if (!effectiveRegion) return [];
+    if (!effectiveRegion) {
+        if (!yearCache[year]) yearCache[year] = {};
+        yearCache[year][regionCode] = [];
+        return [];
+    }
 
     // 已在缓存中
     if (yearCache[year] && yearCache[year][regionCode]) {
@@ -370,14 +374,23 @@ async function loadYearData(year, regionCode) {
 
 // 逐步加载所有年份（用于搜索）
 async function loadAllYearsProgressively() {
+    let loadedAny = false;
     for (const y of yearOrder) {
         if (!isYearLoaded(y)) {
             await loadYearData(y, currentRegion);
             rebuildAllData();
+            loadedAny = true;
             // 如果在搜索模式中，每加载一个年份就重新过滤
             if (isSearchMode && currentSearchQuery) {
                 filterData(monthSelect.value, currentSearchQuery, currentPage);
             }
+        }
+    }
+    if (loadedAny) {
+        computeYearOffsets();
+        populateMonthDropdown();
+        if (!isSearchMode && (!monthSelect.value || monthSelect.value === 'all') && !currentSearchQuery) {
+            filterData(monthSelect.value, currentSearchQuery, currentPage);
         }
     }
 }
@@ -637,6 +650,45 @@ function populateMonthDropdown() {
     if (currentVal) monthSelect.value = currentVal;
 }
 
+function getVirtualTotalPages() {
+    return Math.max(1, Math.ceil(totalItemCount / ARCHIVE_CONFIG.itemsPerPage));
+}
+
+function clampCurrentPage(totalPages) {
+    const safeTotal = Math.max(1, totalPages || 1);
+    const nextPage = Math.min(Math.max(currentPage, 1), safeTotal);
+    if (nextPage !== currentPage) {
+        currentPage = nextPage;
+        updateQuery({ page: currentPage });
+    }
+}
+
+function setupHistoryPreloadObserver() {
+    if (!paginationEl || historyPreloadObserver) return;
+
+    historyPreloadObserver = new IntersectionObserver((entries) => {
+        if (!entries.some(entry => entry.isIntersecting) || historyPreloadStarted) return;
+        historyPreloadStarted = true;
+        loadAllYearsProgressively();
+        historyPreloadObserver.disconnect();
+        historyPreloadObserver = null;
+    }, {
+        rootMargin: '300px 0px',
+        threshold: 0.01
+    });
+
+    historyPreloadObserver.observe(paginationEl);
+}
+
+function resetHistoryPreloadObserver() {
+    historyPreloadStarted = false;
+    if (historyPreloadObserver) {
+        historyPreloadObserver.disconnect();
+        historyPreloadObserver = null;
+    }
+    setupHistoryPreloadObserver();
+}
+
 // ============ 数据过滤 & 分页 ============
 
 async function filterData(monthVal, searchQuery, page) {
@@ -647,7 +699,16 @@ async function filterData(monthVal, searchQuery, page) {
     // 因为 allData 是连续排列的，不能有间隔
     const isVirtualMode = !isSearchMode && (!monthVal || monthVal === 'all') && !searchQuery;
     if (isVirtualMode) {
+        clampCurrentPage(getVirtualTotalPages());
+
         const neededYears = getYearsForPage(currentPage);
+        if (neededYears.length === 0) {
+            filteredData = [];
+            renderGallery();
+            renderPagination();
+            return;
+        }
+
         // 找到最早需要的年份
         const oldestNeeded = Math.min(...neededYears.map(Number));
         let needsRebuild = false;
@@ -696,6 +757,9 @@ async function filterData(monthVal, searchQuery, page) {
     }
 
     filteredData = data;
+    if (!isVirtualMode) {
+        clampCurrentPage(Math.ceil(filteredData.length / ARCHIVE_CONFIG.itemsPerPage));
+    }
     renderGallery();
     renderPagination();
 }
@@ -759,9 +823,9 @@ function renderPagination() {
     // 在非搜索、非月份过滤模式下，使用索引的总数计算页数
     let totalPages;
     if (!isSearchMode && (!monthSelect.value || monthSelect.value === 'all') && !currentSearchQuery) {
-        totalPages = Math.ceil(totalItemCount / ARCHIVE_CONFIG.itemsPerPage);
+        totalPages = getVirtualTotalPages();
     } else {
-        totalPages = Math.ceil(filteredData.length / ARCHIVE_CONFIG.itemsPerPage);
+        totalPages = Math.max(1, Math.ceil(filteredData.length / ARCHIVE_CONFIG.itemsPerPage));
     }
 
     if (totalPages <= 1) return;
