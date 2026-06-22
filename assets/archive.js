@@ -176,23 +176,25 @@ async function init() {
         const val = e.target.value;
         updateQuery({ date: val, page: 1 });
 
+        loadingEl.classList.add('show');
         // 如果选择了某个月份，需要确保那个年份的数据已加载
-        if (val && val !== 'all') {
-            const targetYear = val.substring(0, 4);
-            if (!isYearLoaded(targetYear)) {
-                loadingEl.classList.add('show');
-                try {
+        try {
+            if (val && val !== 'all') {
+                const targetYear = val.substring(0, 4);
+                if (!isYearLoaded(targetYear)) {
                     await loadYearData(targetYear, currentRegion);
                     rebuildAllData();
-                } catch (err) {
-                    console.error(err);
-                } finally {
-                    loadingEl.classList.remove('show');
                 }
+            } else {
+                await loadAllYearsProgressively({ render: false });
             }
-        }
 
-        filterData(val, currentSearchQuery, 1);
+            await filterData(val, currentSearchQuery, 1);
+        } catch (err) {
+            console.error(err);
+        } finally {
+            loadingEl.classList.remove('show');
+        }
     });
 
     // 搜索框获得焦点时，立即后台加载所有年份数据
@@ -374,7 +376,8 @@ async function loadYearData(year, regionCode) {
 }
 
 // 逐步加载所有年份（用于搜索）
-async function loadAllYearsProgressively() {
+async function loadAllYearsProgressively(options = {}) {
+    const { render = true } = options;
     let loadedAny = false;
     for (const y of yearOrder) {
         if (!isYearLoaded(y)) {
@@ -382,16 +385,16 @@ async function loadAllYearsProgressively() {
             rebuildAllData();
             loadedAny = true;
             // 如果在搜索模式中，每加载一个年份就重新过滤
-            if (isSearchMode && currentSearchQuery) {
-                filterData(monthSelect.value, currentSearchQuery, currentPage);
+            if (render && isSearchMode && currentSearchQuery) {
+                await filterData(monthSelect.value, currentSearchQuery, currentPage);
             }
         }
     }
     if (loadedAny) {
         computeYearOffsets();
         populateMonthDropdown();
-        if (!isSearchMode && (!monthSelect.value || monthSelect.value === 'all') && !currentSearchQuery) {
-            filterData(monthSelect.value, currentSearchQuery, currentPage);
+        if (render && !isSearchMode && (!monthSelect.value || monthSelect.value === 'all') && !currentSearchQuery) {
+            await filterData(monthSelect.value, currentSearchQuery, currentPage);
         }
     }
 }
@@ -434,10 +437,12 @@ async function applyStateFromURL() {
 
     if (searchParam) {
         isSearchMode = true;
-        await loadAllYearsProgressively();
     }
 
     const pageParam = parseInt(params.get('page')) || 1;
+    if (shouldEagerLoadAllYears(params)) {
+        await loadAllYearsProgressively({ render: false });
+    }
 
     // filterData 内部会自动加载所需年份（虚拟分页模式）
     await filterData(dateParam, searchParam, pageParam);
@@ -614,6 +619,20 @@ function getResUrl(item, type) {
     if (!item.urlbase) return item.url;
     const suffix = RESOLUTION_MAP[type] || RESOLUTION_MAP.default;
     return `${item.urlbase}${suffix}`;
+}
+
+function shouldEagerLoadAllYears(params) {
+    const dateParam = params.get('date');
+    const searchParam = params.get('search');
+    const photoParam = params.get('photo');
+    const pageParam = parseInt(params.get('page')) || 1;
+
+    return Boolean(
+        dateParam !== null ||
+        searchParam ||
+        photoParam ||
+        pageParam > 1
+    );
 }
 
 function getItemKey(item) {
