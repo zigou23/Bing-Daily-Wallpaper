@@ -59,43 +59,14 @@ def adjust_date(date_str, subtract_day=False):
 def update_and_merge_images(existing_images, new_images, date_field='date', unique_field='fullstartdate'):
     """
     Merges new images into an existing list,
-    updating missing 'description' for existing images if found in the new data.
+    updating only stable metadata for existing images. Optional fields such as
+    description/maplink are left as-is when missing.
     """
-    # Create a lookup for new images, keyed by the unique field (e.g., 'fullstartdate')
-    # We store the whole image_info object to access its 'description'
-    new_images_map = {}
-    if unique_field:
-        for img in new_images:
-            if unique_field in img:
-                new_images_map[img[unique_field]] = img
-    
     # Create a set of existing unique IDs for quick lookup
     existing_ids = {img[unique_field] for img in existing_images if unique_field in img}
 
-    # 1. Update existing images
-    update_count = 0
-    for existing_img in existing_images:
-        if unique_field and unique_field in existing_img:
-            unique_id = existing_img[unique_field]
-            
-            # Check if this existing image is in our new fetch
-            if unique_id in new_images_map:
-                new_img = new_images_map[unique_id]
-                
-                # This is the core logic: fill missing description
-                if 'description' not in existing_img and 'description' in new_img:
-                    print(f"  Updating missing description for {unique_id} ({existing_img.get(date_field)})")
-                    existing_img['description'] = new_img['description']
-                    update_count += 1
-                
-                # 同时更新 MapLink 坐标
-                if 'maplink' not in existing_img and 'maplink' in new_img:
-                    print(f"  Updating missing maplink for {unique_id} ({existing_img.get(date_field)})")
-                    existing_img['maplink'] = new_img['maplink']
-                    update_count += 1
-
-    if update_count > 0:
-        print(f"  Updated {update_count} existing image(s) with missing descriptions/maplinks.")
+    # Existing images are kept stable. Do not backfill description/maplink:
+    # some regions or images intentionally do not expose those fields.
 
     # 2. Add new images
     add_count = 0
@@ -126,8 +97,9 @@ def update_and_merge_images(existing_images, new_images, date_field='date', uniq
 # 定义语言代码列表
 languages = ['zh-TW', 'en-US', 'en-CA', 'en-GB', 'en-IN', 'es-ES', 'fr-FR', 'fr-CA', 'it-IT', 'ja-JP', 'pt-BR', 'de-DE', 'zh-CN']
 
-# 定义需要使用 startdate 的语言
-USE_STARTDATE_LANGUAGES = ['en-CA', 'en-GB', 'en-US', 'fr-CA', 'pt-BR', 'zh-TW']
+# 定义需要使用 startdate 的语言。en-GB uses enddate because Bing starts
+# UK summer-time wallpapers at 23:00 UTC, making startdate one day early.
+USE_STARTDATE_LANGUAGES = ['en-CA', 'en-US', 'fr-CA', 'pt-BR', 'zh-TW']
 
 # 获取当前年份（用于清理逻辑）
 current_year = datetime.now().year

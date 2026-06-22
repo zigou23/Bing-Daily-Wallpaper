@@ -19,7 +19,7 @@
       "regions": {
         "bing_de-DE": 248,
         "bing_en-CA": 247,
-        "bing_en-GB": 247,
+        "bing_en-GB": 248,
         "bing_en-IN": 248,
         "bing_en-US": 365,
         "bing_fr-FR": 248,
@@ -43,24 +43,23 @@
     },
     "2024": {
       "regions": {
-        "bing_ROW": 155,
         "bing_de-DE": 366,
-        "bing_en-CA": 366,
+        "bing_en-CA": 367,
         "bing_en-GB": 365,
         "bing_en-IN": 366,
-        "bing_en-US": 366,
+        "bing_en-US": 367,
         "bing_es-ES": 155,
-        "bing_fr-CA": 154,
+        "bing_fr-CA": 155,
         "bing_fr-FR": 366,
         "bing_it-IT": 366,
         "bing_ja-JP": 366,
-        "bing_pt-BR": 154,
+        "bing_pt-BR": 155,
+        "bing_ROW": 156,
         "bing_zh-CN": 366
       }
     },
     "2025": {
       "regions": {
-        "bing_ROW": 365,
         "bing_de-DE": 365,
         "bing_en-CA": 365,
         "bing_en-GB": 365,
@@ -72,12 +71,12 @@
         "bing_it-IT": 365,
         "bing_ja-JP": 365,
         "bing_pt-BR": 365,
+        "bing_ROW": 365,
         "bing_zh-CN": 365
       }
     },
     "2026": {
       "regions": {
-        "bing_ROW": 172,
         "bing_de-DE": 173,
         "bing_en-CA": 172,
         "bing_en-GB": 173,
@@ -89,6 +88,7 @@
         "bing_it-IT": 173,
         "bing_ja-JP": 173,
         "bing_pt-BR": 172,
+        "bing_ROW": 172,
         "bing_zh-CN": 173
       }
     }

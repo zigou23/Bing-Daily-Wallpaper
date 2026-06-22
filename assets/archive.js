@@ -349,8 +349,9 @@ async function loadYearData(year, regionCode) {
         // 去重
         const seen = new Set();
         data = data.filter(item => {
-            if (seen.has(item.date)) return false;
-            seen.add(item.date);
+            const itemKey = getItemKey(item);
+            if (seen.has(itemKey)) return false;
+            seen.add(itemKey);
             return true;
         });
 
@@ -444,14 +445,14 @@ async function applyStateFromURL() {
     const photoParam = params.get('photo');
     if (photoParam) {
         // 查找照片时，可能需要加载对应年份
-        let item = allData.find(i => i.date === photoParam);
+        let item = allData.find(i => getItemKey(i) === photoParam || i.date === photoParam);
         if (!item) {
             const targetYear = photoParam.substring(0, 4);
             if (!isYearLoaded(targetYear)) {
                 await loadYearData(targetYear, currentRegion);
                 rebuildAllData();
             }
-            item = allData.find(i => i.date === photoParam);
+            item = allData.find(i => getItemKey(i) === photoParam || i.date === photoParam);
         }
         if (item) openLightbox(item);
     } else {
@@ -613,6 +614,10 @@ function getResUrl(item, type) {
     if (!item.urlbase) return item.url;
     const suffix = RESOLUTION_MAP[type] || RESOLUTION_MAP.default;
     return `${item.urlbase}${suffix}`;
+}
+
+function getItemKey(item) {
+    return item.fullstartdate || item.date;
 }
 
 function populateMonthDropdown() {
@@ -811,7 +816,7 @@ function renderGallery() {
 
         card.addEventListener('click', () => {
             openLightbox(item);
-            updateQuery({ photo: item.date });
+            updateQuery({ photo: getItemKey(item) });
         });
         galleryGrid.appendChild(card);
     });
