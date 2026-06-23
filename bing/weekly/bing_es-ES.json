@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202606232200",
+        "date": "20260624",
+        "url": "https://www.bing.com/th?id=OHR.BFPollin_ES-ES0605051254_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BFPollin_ES-ES0605051254",
+        "copyright": "Mariposa polinizando una flor amarilla (© lzh/Getty Images)",
+        "copyrightKeyword": "Polinización",
+        "hsh": "bccdccd33f7b2098146d989eeacb82c6",
+        "description": "Los polinizadores desempeñan un papel esencial en el equilibrio de los ecosistemas y en la producción de alimentos. Insectos como abejas, mariposas y escarabajos transportan el polen de una flor a otra, lo que permite la fecundación de muchas plantas. Gracias a este proceso natural, una gran parte de los cultivos que consumimos a diario se pueden desarrollar. Se estima que uno de cada tres bocados de comida depende directa o indirectamente de su labor, lo que subraya su importancia."
+    },
+    {
         "fullstartdate": "202606222200",
         "date": "20260623",
         "url": "https://www.bing.com/th?id=OHR.SanJuanFuegos_ES-ES0457674498_1920x1080.jpg",
@@ -70,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.TremolaRoad_ES-ES9122055819",
         "copyright": "Carretera Tremola en el paso de San Gotardo, en Airolo, Suiza (© Sandro Bisaro/Getty Images)",
         "copyrightKeyword": "Carretera Tremola",
-        "hsh": "a7c2c27c326c9190e46b2ad319a8ddef",
-        "description": "La carretera Tremola, situada en el paso de San Gotardo en Airolo, Suiza, es una de las rutas más emblemáticas de los Alpes. Conserva su trazado histórico de adoquines y una sucesión de curvas cerradas que serpentean por la ladera, ofreciendo una experiencia de conducción única. A lo largo del ascenso, el paisaje combina praderas alpinas, rocas y vistas abiertas que cambian con cada giro.",
-        "maplink": "46.557487,8.562773"
-    },
-    {
-        "fullstartdate": "202606152200",
-        "date": "20260616",
-        "url": "https://www.bing.com/th?id=OHR.SevenMileTurtle_ES-ES8939258902_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SevenMileTurtle_ES-ES8939258902",
-        "copyright": "Pareja de tortugas carey cerca de Seven Mile Beach, Gran Caimán, Islas Caimán (© Alex Mustard/Nature Picture Library)",
-        "copyrightKeyword": "Día Mundial de las Tortugas Marinas",
-        "hsh": "8eca178925d0940bec44619f0c89b7f2"
+        "hsh": "a7c2c27c326c9190e46b2ad319a8ddef"
     }
 ]
