@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606221830",
+        "date": "20260623",
+        "url": "https://www.bing.com/th?id=OHR.Fujisan_EN-IN2234581475_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.Fujisan_EN-IN2234581475",
+        "copyright": "Mount Fuji on Honshu Island, Japan (© phutthiseth thongtae/Getty Images)",
+        "copyrightKeyword": "Mount Fuji",
+        "hsh": "f2a2a0d8123dd6b6644337ef0574cde1",
+        "description": "Mount Fuji, Japan's highest mountain, rises to 3,776 metres on Honshu Island, about 100 kilometres southwest of Tokyo. Its near-perfect cone is a volcano—dormant since its last eruption in December 1707 yet still classed as active. That last major event is known as the Hōei eruption. It blasted ash and other tephra across eastern Japan, reaching Edo (today's Tokyo). Beyond geology, Fuji has long been treated as a sacred landscape and a destination for pilgrimage climbs, reflecting how nature, religion and daily life overlap in Japan. That enduring cultural appeal is one reason it was designated a UNESCO World Heritage Site in 2013 as 'a sacred place and source of artistic inspiration.' Fuji is famously visible from far away on clear days but never guaranteed—clouds can hide it in minutes. Whether you hike it or just catch a glimpse from a train window, it still feels like Japan's signature on the horizon.",
+        "maplink": "35.365403,138.730373"
+    },
+    {
         "fullstartdate": "202606211830",
         "date": "20260622",
         "url": "https://www.bing.com/th?id=OHR.QuinaultFerns_EN-IN6306076955_1920x1080.jpg",
@@ -71,16 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SevenMileTurtle_EN-IN0218913418",
         "copyright": "Hawksbill sea turtle pair near Seven Mile Beach, Grand Cayman, Cayman Islands (© Alex Mustard/Nature Picture Library)",
         "copyrightKeyword": "World Sea Turtle Day",
-        "hsh": "a2ed32d2a775f095cfd43aebd6740690",
-        "description": "Sea Turtle Day highlights some of the ocean's most ancient mariners—reptiles that have existed for over 100 million years. Observed each year on 16 June, it raises awareness of their ecological importance and the growing threats they face. Sea turtles play a vital role in maintaining healthy seagrass beds and coral reefs, ecosystems that support diverse marine life. Long migrations between feeding and nesting areas are central to their life cycle. Despite their resilience, all species are threatened by habitat loss, plastic pollution, climate change and accidental capture in fishing gear."
-    },
-    {
-        "fullstartdate": "202606141830",
-        "date": "20260615",
-        "url": "https://www.bing.com/th?id=OHR.ParkEstd_EN-IN7979223128_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ParkEstd_EN-IN7979223128",
-        "copyright": "Great Smoky Mountains National Park, Tennessee, United States (© Mint Images/Getty Images)",
-        "copyrightKeyword": "Great Smoky Mountains National Park",
-        "hsh": "92640b0fcbbf6b50cbb0b467db088318"
+        "hsh": "a2ed32d2a775f095cfd43aebd6740690"
     }
 ]

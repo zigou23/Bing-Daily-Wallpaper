@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606222200",
+        "date": "20260623",
+        "url": "https://www.bing.com/th?id=OHR.Fujisan_FR-FR9764365414_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.Fujisan_FR-FR9764365414",
+        "copyright": "Mont Fuji sur l’île de Honshū, Japon (© phutthiseth thongtae/Getty Images)",
+        "copyrightKeyword": "Mont Fuji",
+        "hsh": "30bf16b8b97ac621a161a4a1e8d52bb0",
+        "description": "Le mont Fuji, plus haut sommet du Japon, s’élève à 3 776 mètres d’altitude sur l’île de Honshū, à environ 100 km au sud-ouest de Tokyo. Sa silhouette quasi parfaite révèle sa nature volcanique : un géant endormi depuis l’éruption de Hōei en décembre 1707, bien que toujours considéré comme actif. À l’époque, ses cendres avaient recouvert une large partie de l’est du pays, jusqu’à Edo, l’actuelle Tokyo. Aujourd’hui encore, il incarne la rencontre entre forces naturelles puissantes et mémoire collective.",
+        "maplink": "35.365403,138.730373"
+    },
+    {
         "fullstartdate": "202606212200",
         "date": "20260622",
         "url": "https://www.bing.com/th?id=OHR.QuinaultFerns_FR-FR2142936548_1920x1080.jpg",
@@ -70,16 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SevenMileTurtle_FR-FR7065841321",
         "copyright": "Un couple de tortues imbriquées près de Seven Mile Beach, Grand Cayman, Îles Caïmans (© Alex Mustard/Nature Picture Library)",
         "copyrightKeyword": "Journée mondiale des tortues marines 2026",
-        "hsh": "ab3ddb80481cf406b35e123f1a91cc59",
-        "description": "Chaque 16 juin, la Journée mondiale des tortues marines nous invite à contempler ces navigateurs millénaires, présents depuis plus de 100 millions d’années. Leur lenteur n’est qu’apparente : elles parcourent des distances immenses entre zones d’alimentation et plages de ponte. En broutant les herbiers et en régulant les récifs, elles maintiennent l’équilibre d’écosystèmes essentiels à une vie marine foisonnante. Pourtant, leur destin vacille face à la disparition des habitats, au plastique, au réchauffement des océans et aux captures accidentelles."
-    },
-    {
-        "fullstartdate": "202606142200",
-        "date": "20260615",
-        "url": "https://www.bing.com/th?id=OHR.ParkEstd_FR-FR1451638947_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ParkEstd_FR-FR1451638947",
-        "copyright": "Parc national des Great Smoky Mountains, Tennessee, États-Unis (© Mint Images/Getty Images)",
-        "copyrightKeyword": "Great Smoky Mountains National Park",
-        "hsh": "2523eb26d4eea7a316b652874bfd343f"
+        "hsh": "ab3ddb80481cf406b35e123f1a91cc59"
     }
 ]

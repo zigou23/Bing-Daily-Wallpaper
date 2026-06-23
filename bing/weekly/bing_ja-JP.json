@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606221500",
+        "date": "20260623",
+        "url": "https://www.bing.com/th?id=OHR.QuinaultFerns_JA-JP6908853562_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.QuinaultFerns_JA-JP6908853562",
+        "copyright": "キノート・レイン・フォレスト, 米国 ワシントン州 (© Chris Moore/Tandem Stills + Motion)",
+        "copyrightKeyword": "キノート・レイン・フォレスト",
+        "hsh": "07071317cb4c146c3f892599d810552a",
+        "description": "ここは、米国ワシントン州のオリンピック国立公園南西部に位置するキノート・レイン・フォレスト。年間降水量は 5,200mm にも達する温帯雨林です。湿ったコケやシダに覆われたオオバカエデやマウンテンヘムロックなどの樹木が見られ、林床には菌類や昆虫、両生類が生息しています。また、この森の中では、オリンピック国立公園内で最大の陸生哺乳類であるルーズベルトエルクの姿を見ることもできます。",
+        "maplink": "47.505886,-123.820313"
+    },
+    {
         "fullstartdate": "202606211500",
         "date": "20260622",
         "url": "https://www.bing.com/th?id=OHR.Fujisan_JA-JP1483326201_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SevenMileTurtle_JA-JP9577560353",
         "copyright": "優雅に泳ぐタイマイ, ケイマン諸島 (© Alex Mustard/Nature Picture Library)",
         "copyrightKeyword": "世界ウミガメの日",
-        "hsh": "92c71e45c6bedcd975ae0a57066a170d",
-        "description": "今日 6 月 16 日は「世界ウミガメの日」。ウミガメの存在やその保護の大切さについて、改めて考える日です。世界に生息している 7 種のウミガメのうち、日本の砂浜で産卵が確認されているのは、アカウミガメ、アオウミガメ、そして画像のタイマイの 3 種です。タイマイは、模様のある甲羅と、タカのくちばしのように先のとがった口元が特徴です。沿岸の浅い海域を好み、主に海綿動物を食べることで、サンゴ礁のバランスを保つ役割を果たしています。現在、絶滅の危機に瀕しており、ウミガメの中でも特に希少な種のひとつです。",
-        "maplink": "19.321451,-81.229248"
-    },
-    {
-        "fullstartdate": "202606141500",
-        "date": "20260615",
-        "url": "https://www.bing.com/th?id=OHR.ParkEstd_JA-JP9205724491_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ParkEstd_JA-JP9205724491",
-        "copyright": "グレート・スモーキー山脈国立公園, 米国 テネシー州 (© Mint Images/Getty Images)",
-        "copyrightKeyword": "グレート・スモーキー山脈国立公園の記念日",
-        "hsh": "a38fc231012b301c354effe0f67f8533"
+        "hsh": "92c71e45c6bedcd975ae0a57066a170d"
     }
 ]

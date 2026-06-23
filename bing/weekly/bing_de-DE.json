@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606222200",
+        "date": "20260623",
+        "url": "https://www.bing.com/th?id=OHR.Fujisan_DE-DE4332870275_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.Fujisan_DE-DE4332870275",
+        "copyright": "Berg Fuji auf der Insel Honshū, Japan (© phutthiseth thongtae/Getty Images)",
+        "copyrightKeyword": "Fuji Berg",
+        "hsh": "5c99600e37e60e588a9b1264f76c90ff",
+        "description": "Der Fuji erhebt sich über Japan als nahezu perfekter Kegel, ist oft schneebedeckt und schon aus großer Entfernung sichtbar. Mit einer Höhe von 3.776 Metern ist er der höchste Berg des Landes. Er liegt etwa 100 Kilometer südwestlich von Tokio auf der Insel Honshū. Zum Vergleich: Die Zugspitze, Deutschlands höchster Gipfel, ist mit 2.962 Metern rund 800 Meter niedriger. Seine symmetrische Form verdankt der Fuji seiner vulkanischen Herkunft. Der Stratovulkan gilt als aktiv, auch wenn er seit der Hōei-Eruption im Jahr 1707 ruht. Damals trieb der Wind große Mengen Asche bis nach Edo, dem heutigen Tokio.",
+        "maplink": "35.365403,138.730373"
+    },
+    {
         "fullstartdate": "202606212200",
         "date": "20260622",
         "url": "https://www.bing.com/th?id=OHR.QuinaultFerns_DE-DE3985266590_1920x1080.jpg",
@@ -70,16 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SevenMileTurtle_DE-DE3122799407",
         "copyright": "Zwei Echte Karettschildkröten in der Nähe des Seven Mile Beach, Grand Cayman, Kaimaninseln (© Alex Mustard/Nature Picture Library)",
         "copyrightKeyword": "Internationaler Tag der Meeresschildkröten",
-        "hsh": "5ffc3259a28a83e666a46ba314ef70fd",
-        "description": "Seit über 100 Millionen Jahren durchqueren Meeresschildkröten die Ozeane und prägen bis heute empfindliche Meeresökosysteme. Am 16. Juni, dem Internationalen Tag der Meeresschildkröten, rückt ihr Schutz in den Mittelpunkt. Fast alle Arten gelten inzwischen als bedroht, da ihnen Plastikverschmutzung, Klimawandel, Lebensraumverlust und Beifang weltweit zu schaffen machen. Dabei spielen sie eine entscheidende Rolle für das Gleichgewicht der Meere, beispielsweise indem sie Seegraswiesen pflegen, Nährstoffe transportieren und Korallenriffe stabilisieren. Viele Arten legen dabei erstaunliche Distanzen zurück und kehren zur Eiablage an genau jene Strände zurück, an denen sie selbst geschlüpft sind."
-    },
-    {
-        "fullstartdate": "202606142200",
-        "date": "20260615",
-        "url": "https://www.bing.com/th?id=OHR.DuckPond_DE-DE9877208937_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DuckPond_DE-DE9877208937",
-        "copyright": "Stockente (© Philippe Paternolli/Getty Images)",
-        "copyrightKeyword": "Stockente",
-        "hsh": "33318bb15ec48145a28270656dcb7e4e"
+        "hsh": "5ffc3259a28a83e666a46ba314ef70fd"
     }
 ]

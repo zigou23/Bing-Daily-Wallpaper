@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606222200",
+        "date": "20260623",
+        "url": "https://www.bing.com/th?id=OHR.Fujisan_IT-IT7252704388_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.Fujisan_IT-IT7252704388",
+        "copyright": "Monte Fuji, Honshu, Giappone (© phutthiseth thongtae/Getty Images)",
+        "copyrightKeyword": "Monte Fuji",
+        "hsh": "1067b9dba8471af9e51fcd95a60517ca",
+        "description": "Il Monte Fuji, la montagna più alta del Giappone, si innalza fino a 3.776 metri sull’isola di Honshu, circa 100 chilometri a sud-ovest di Tokyo. Il suo cono quasi perfetto è uno stratovulcano, inattivo dall’ultima eruzione del dicembre 1707, ma ancora classificato come attivo. Quell’ultimo grande evento è noto come eruzione Hōei. Sparse cenere e altri materiali vulcanici su tutto il Giappone orientale, raggiungendo Edo (l’attuale Tokyo).",
+        "maplink": "35.365403,138.730373"
+    },
+    {
         "fullstartdate": "202606212200",
         "date": "20260622",
         "url": "https://www.bing.com/th?id=OHR.QuinaultFerns_IT-IT2013381547_1920x1080.jpg",
@@ -71,16 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SevenMileTurtle_IT-IT4183755480",
         "copyright": "Tartarughe embricate, Seven Mile Beach, Isole Cayman (© Alex Mustard/Nature Picture Library)",
         "copyrightKeyword": "Cheloni",
-        "hsh": "6b2d0531d05dd2c5e3ff50bb1de49905",
-        "description": "Antiche viaggiatrici degli oceani, le tartarughe marine abitano il pianeta da oltre cento milioni di anni e svolgono un ruolo fondamentale per l’equilibrio degli ecosistemi marini. Dalle praterie sottomarine alle barriere coralline, contribuiscono a mantenere in salute habitat essenziali per migliaia di specie. Le loro lunghe migrazioni tra aree di alimentazione e spiagge di nidificazione fanno parte dei cicli naturali più straordinari del mondo animale. Tuttavia, le specie di tartarughe marine sono minacciate dalla perdita degli habitat, dall’inquinamento da plastica, dai cambiamenti climatici e dalla cattura accidentale nelle reti da pesca."
-    },
-    {
-        "fullstartdate": "202606142200",
-        "date": "20260615",
-        "url": "https://www.bing.com/th?id=OHR.ParkEstd_IT-IT3908775482_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ParkEstd_IT-IT3908775482",
-        "copyright": "Parco nazionale delle Great Smoky Mountains, Tennessee, USA (© Mint Images/Getty Images)",
-        "copyrightKeyword": "Parco nazionale delle Great Smoky Mountains",
-        "hsh": "b7ae675f8fa48cb6ee35cd260ba17adb"
+        "hsh": "6b2d0531d05dd2c5e3ff50bb1de49905"
     }
 ]
