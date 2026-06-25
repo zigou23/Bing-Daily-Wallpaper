@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606242200",
+        "date": "20260625",
+        "url": "https://www.bing.com/th?id=OHR.GrandPlace_ES-ES0768815464_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GrandPlace_ES-ES0768815464",
+        "copyright": "Edificios de la Grand Place de Bruselas, Bélgica (© Vladislav Zolotov/Getty Images Plus)",
+        "copyrightKeyword": "Grand Place Bruselas",
+        "hsh": "9280a7aa780d84debf1619811a21bda7",
+        "description": "La Grand Place de Bruselas, Bélgica, es uno de los conjuntos arquitectónicos más impresionantes de Europa. Sus edificios, alineados en torno a la plaza, muestran una armonía visual notable, con fachadas ricamente decoradas que reflejan siglos de historia y prosperidad. Antiguas casas gremiales, el Ayuntamiento y la Maison du Roi destacan por sus detalles dorados, esculturas y ornamentaciones que evocan el esplendor de distintas épocas. Cada fachada cuenta una historia ligada a los gremios que dieron forma a la vida económica de la ciudad.",
+        "maplink": "50.846851,4.352454"
+    },
+    {
         "fullstartdate": "202606232200",
         "date": "20260624",
         "url": "https://www.bing.com/th?id=OHR.BFPollin_ES-ES0605051254_1920x1080.jpg",
@@ -69,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.Saqsaywaman_ES-ES9301445722",
         "copyright": "Vista aérea de las ruinas de Sacsayhuamán, Cuzco, Perú (© Creative-Family/Getty Images Plus)",
         "copyrightKeyword": "Sacsayhuamán",
-        "hsh": "4476aae5ef5d4bce4aa2af0106157a1b",
-        "description": "Las ruinas de Sacsayhuamán, en Cuzco, Perú, se alzan sobre una colina que domina la antigua capital inca y ofrecen una muestra impresionante de la ingeniería prehispánica. Sus muros están formados por enormes bloques de piedra perfectamente encajados, sin mortero, que resisten el paso del tiempo y los frecuentes terremotos de la región. Cada pieza fue tallada con precisión para ajustarse a las contiguas, creando superficies irregulares que, sin embargo, encajan con asombrosa firmeza y estabilidad.",
-        "maplink": "-13.50778,-71.98222"
-    },
-    {
-        "fullstartdate": "202606162200",
-        "date": "20260617",
-        "url": "https://www.bing.com/th?id=OHR.TremolaRoad_ES-ES9122055819_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.TremolaRoad_ES-ES9122055819",
-        "copyright": "Carretera Tremola en el paso de San Gotardo, en Airolo, Suiza (© Sandro Bisaro/Getty Images)",
-        "copyrightKeyword": "Carretera Tremola",
-        "hsh": "a7c2c27c326c9190e46b2ad319a8ddef"
+        "hsh": "4476aae5ef5d4bce4aa2af0106157a1b"
     }
 ]

@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606242200",
+        "date": "20260625",
+        "url": "https://www.bing.com/th?id=OHR.GrandPlace_IT-IT4483523148_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GrandPlace_IT-IT4483523148",
+        "copyright": "Edifici sulla Grand-Place a Bruxelles, Belgio (© Vladislav Zolotov/Getty Images Plus)",
+        "copyrightKeyword": "La Grand-Place a Bruxelles",
+        "hsh": "c2d44e7214bc62c0cf2f0c40e5589acc",
+        "description": "La Grand-Place non è solo la piazza più celebre del Belgio, ma il manifesto storico di Bruxelles. Gli edifici che la circondano nacquero come sedi delle corporazioni, ciascuna finanziata da un mestiere specifico. Birrai, fornai, mercanti e artigiani trasformarono l’architettura in un linguaggio, traducendo lavoro, prestigio e rivalità in bassorilievi, stemmi e decorazioni in foglia d’oro. Qui gli stili convivono senza timore: le verticalità gotiche si affiancano alle curve barocche, mentre il municipio, più antico e volutamente asimmetrico, tiene insieme l’intera composizione.",
+        "maplink": "50.846851,4.352454"
+    },
+    {
         "fullstartdate": "202606232200",
         "date": "20260624",
         "url": "https://www.bing.com/th?id=OHR.BFPollin_IT-IT1968773839_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.Saqsaywaman_IT-IT8503253730",
         "copyright": "Rovine di Sacsayhuamán, Cusco, Perù (© Creative-Family/Getty Images Plus)",
         "copyrightKeyword": "Sacsayhuamán",
-        "hsh": "78b3fd9a1cd2fa8d263a944b0f539e32",
-        "description": "Situata in posizione elevata sopra Cusco, in Perù, Sacsayhuamán riflette la maestria architettonica raggiunta dall’Impero Inca. Costruito nel XV secolo, questo vasto complesso faceva parte della capitale sacra. Vista dall’alto, la struttura rivela una disposizione precisa, fatta di terrazze, ampie piazze aperte e resti di torri che delineano una cittadella attentamente pianificata. Le mura più imponenti, costruite con enormi blocchi di pietra, sono ancora oggi perfettamente conservate. Alcuni blocchi superano gli otto metri di altezza e furono incastrati con una precisione tale, senza l’uso di malta, permettendo alla struttura di resistere a secoli di terremoti.",
-        "maplink": "-13.50778,-71.98222"
-    },
-    {
-        "fullstartdate": "202606162200",
-        "date": "20260617",
-        "url": "https://www.bing.com/th?id=OHR.TremolaRoad_IT-IT1436390409_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.TremolaRoad_IT-IT1436390409",
-        "copyright": "Strada della Tremola, passo del San Gottardo, Airolo, Svizzera (© Sandro Bisaro/Getty Images)",
-        "copyrightKeyword": "Tremola strada serpentina",
-        "hsh": "9954d209d02de9c21a1aa5742681c65a"
+        "hsh": "78b3fd9a1cd2fa8d263a944b0f539e32"
     }
 ]

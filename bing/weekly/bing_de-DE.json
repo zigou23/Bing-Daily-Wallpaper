@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606242200",
+        "date": "20260625",
+        "url": "https://www.bing.com/th?id=OHR.GrandPlace_DE-DE1914769137_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GrandPlace_DE-DE1914769137",
+        "copyright": "Gebäude am Grand-Place in Brüssel, Belgien (© Vladislav Zolotov/Getty Images Plus)",
+        "copyrightKeyword": "Grand-Place Brüssel",
+        "hsh": "89fd269357e9016a4dbbdb4f4fef38f7",
+        "description": "Rund um den Grand-Place in Brüssel, Belgien, entfaltet sich lebendige Geschichte. Prächtige Zunfthäuser säumen den Platz – einst von Brauern, Bäckern und Kaufleuten errichtet, die ihren Wohlstand in Stein, Reliefs und vergoldeten Details sichtbar machten. Gotische Höhen treffen auf barocke Fassaden, während das alte, leicht asymmetrische Rathaus das Ensemble zusammenhält.",
+        "maplink": "50.846851,4.352454"
+    },
+    {
         "fullstartdate": "202606232200",
         "date": "20260624",
         "url": "https://www.bing.com/th?id=OHR.BFPollin_DE-DE1648202484_1920x1080.jpg",
@@ -69,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.Saqsaywaman_DE-DE3241976270",
         "copyright": "Luftaufnahme der Ruinen von Sacsayhuamán, Cusco, Peru (© Creative-Family/Getty Images Plus)",
         "copyrightKeyword": "Sacsayhuaman Cusco Peru",
-        "hsh": "eff48900c62f0203b384cb37c5a6d8ca",
-        "description": "Hoch über der ehemaligen Inkahauptstadt Cusco in Peru thront Sacsayhuamán, ein beeindruckendes Zeugnis der Baukunst und Ambitionen des Inkareichs. Die im 15. Jahrhundert errichtete Anlage war Teil des heiligen Zentrums dieses Reichs. Aus der Vogelperspektive erschließt sich ihre Struktur: Terrassen, offene Plätze und die Überreste von Türmen fügen sich zu einer sorgfältig geplanten Zitadelle zusammen. Besonders imposant sind die gewaltigen Mauern aus riesigen Steinblöcken, von denen einige mehr als acht Meter hoch sind. Präzise ohne Mörtel gefügt, haben sie Jahrhunderte von Erdbeben überdauert.",
-        "maplink": "-13.50778,-71.98222"
-    },
-    {
-        "fullstartdate": "202606162200",
-        "date": "20260617",
-        "url": "https://www.bing.com/th?id=OHR.TremolaRoad_DE-DE0167255988_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.TremolaRoad_DE-DE0167255988",
-        "copyright": "Tremolastraße am Gotthardpass in Airolo, Schweiz (© Sandro Bisaro/Getty Images)",
-        "copyrightKeyword": "Gotthardpass Tremola",
-        "hsh": "e0fe1f420af362bc3332677d0e6055a5"
+        "hsh": "eff48900c62f0203b384cb37c5a6d8ca"
     }
 ]
