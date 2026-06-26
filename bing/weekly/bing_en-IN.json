@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606251830",
+        "date": "20260626",
+        "url": "https://www.bing.com/th?id=OHR.ThamesSummer_EN-IN8289570374_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ThamesSummer_EN-IN8289570374",
+        "copyright": "The River Thames, London, England (© Daniel Lange/Getty Images)",
+        "copyrightKeyword": "River Thames",
+        "hsh": "3942539cd447b818ed67a323080057e4",
+        "description": "What does a parliament, a clock tower and a giant wheel have in common? They all stand beside the River Thames as if London had carefully staged its icons for dramatic effect.",
+        "maplink": "51.50382,-0.121258"
+    },
+    {
         "fullstartdate": "202606241830",
         "date": "20260625",
         "url": "https://www.bing.com/th?id=OHR.GrandPlace_EN-IN3033098257_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.IsolaElba_EN-IN7931152562",
         "copyright": "La Rocchetta Lighthouse, Piombino, Tuscany, Italy (© StevanZZ/Getty Images)",
         "copyrightKeyword": "Lighthouse la Rocchetta Piombino",
-        "hsh": "b49ed3b9102c68925d5a077575c94966",
-        "description": "Perched at the far edge of Piazza Bovio in Piombino, Tuscany, Italy, is the Piombino Lighthouse. Locally, it is known as 'Faro di Piombino' or 'La Rocchetta Lighthouse.' It overlooks the point where the Tuscan coast faces the island of Elba.",
-        "maplink": "42.936254,10.54206"
-    },
-    {
-        "fullstartdate": "202606171830",
-        "date": "20260618",
-        "url": "https://www.bing.com/th?id=OHR.Saqsaywaman_EN-IN9988887646_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.Saqsaywaman_EN-IN9988887646",
-        "copyright": "Aerial view of the ruins of Sacsayhuamán, Cusco, Peru (© Creative-Family/Getty Images Plus)",
-        "copyrightKeyword": "Sacsayhuaman Cusco Peru",
-        "hsh": "6ae3c09b90a12e1156b1391ec7b1a01e"
+        "hsh": "b49ed3b9102c68925d5a077575c94966"
     }
 ]

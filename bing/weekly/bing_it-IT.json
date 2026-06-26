@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606252200",
+        "date": "20260626",
+        "url": "https://www.bing.com/th?id=OHR.ThamesSummer_IT-IT7472747077_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ThamesSummer_IT-IT7472747077",
+        "copyright": "Il fiume Tamigi, Londra, Inghilterra (© Daniel Lange/Getty Images)",
+        "copyrightKeyword": "Tamigi Londra",
+        "hsh": "a3fec5987f7013f4e4773abaf27c0988",
+        "description": "Sul Tamigi, a Londra, le icone sembrano disposte come su un palcoscenico, dove storia e architettura dialogano con sorprendente armonia.",
+        "maplink": "51.50382,-0.121258"
+    },
+    {
         "fullstartdate": "202606242200",
         "date": "20260625",
         "url": "https://www.bing.com/th?id=OHR.GrandPlace_IT-IT4483523148_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.IsolaElba_IT-IT8863679360",
         "copyright": "Faro di Piombino, provincia di Livorno, Toscana (© StevanZZ/Getty Images)",
         "copyrightKeyword": "Faro di Piombino",
-        "hsh": "d10611bf6c44d8b9b472471f7b966c41",
-        "description": "Affacciato sull’estremità di Piazza Bovio, nel cuore di Piombino, città costiera della provincia di Livorno, in Toscana, protesa verso l’Isola d’Elba, il faro di Piombino, noto anche come «faro della Rocchetta», domina il mare come una sentinella di pietra sospesa tra storia e orizzonte. Costruito nel XX secolo sui resti di un’antica fortificazione, questa elegante torretta neogotica guida ancora oggi le imbarcazioni nel canale che separa la costa toscana dall’Isola d’Elba, con il suo caratteristico segnale luminoso visibile fino al largo.",
-        "maplink": "42.920246,10.525369"
-    },
-    {
-        "fullstartdate": "202606172200",
-        "date": "20260618",
-        "url": "https://www.bing.com/th?id=OHR.Saqsaywaman_IT-IT8503253730_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.Saqsaywaman_IT-IT8503253730",
-        "copyright": "Rovine di Sacsayhuamán, Cusco, Perù (© Creative-Family/Getty Images Plus)",
-        "copyrightKeyword": "Sacsayhuamán",
-        "hsh": "78b3fd9a1cd2fa8d263a944b0f539e32"
+        "hsh": "d10611bf6c44d8b9b472471f7b966c41"
     }
 ]

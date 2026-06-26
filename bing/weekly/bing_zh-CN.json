@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202606251600",
+        "date": "20260626",
+        "url": "https://www.bing.com/th?id=OHR.ThamesSummer_ZH-CN5292532714_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ThamesSummer_ZH-CN5292532714",
+        "copyright": "泰晤士河, 伦敦, 英格兰 (© Daniel Lange/Getty Images)",
+        "copyrightKeyword": "泰晤士河",
+        "hsh": "919b8a22e34363f642b09389f3991d6c",
+        "description": "议会大厦、钟楼和巨型摩天轮有什么共同之处？它们都矗立在泰晤士河畔，仿佛伦敦为了营造戏剧性效果而精心布局了这些标志性建筑。"
+    },
+    {
         "fullstartdate": "202606241600",
         "date": "20260625",
         "url": "https://www.bing.com/th?id=OHR.GrandPlace_ZH-CN8806496436_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DragonBoatFestivalY26_ZH-CN5532138555",
         "copyright": "湖中的龙舟，中国 (©  Zhonghui Bao/Getty Images)",
         "copyrightKeyword": "端午节",
-        "hsh": "f32fa70d99dab0a101b4dd6fb8367fed",
-        "description": "在华夏大地的万顷碧波上，龙舟竞渡已绵延了两千多年。这项如今享誉全球的体育活动，不仅是一场速度与力量的博弈，更是一枚深深烙印在中华儿女血脉中的文化符号。龙舟的起源众说纷纭，融汇了神话、历史等多重色彩，共同构成了端午文化的底蕴。"
-    },
-    {
-        "fullstartdate": "202606171600",
-        "date": "20260618",
-        "url": "https://www.bing.com/th?id=OHR.Saqsaywaman_ZH-CN2584038469_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.Saqsaywaman_ZH-CN2584038469",
-        "copyright": "萨克赛瓦曼遗址俯瞰图，库斯科，秘鲁 (© Creative-Family/Getty Images Plus)",
-        "copyrightKeyword": "秘鲁萨克塞华曼",
-        "hsh": "4fa54cc0013fa406fa7853e2faced44b"
+        "hsh": "f32fa70d99dab0a101b4dd6fb8367fed"
     }
 ]

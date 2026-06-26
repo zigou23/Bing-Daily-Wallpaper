@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606250400",
+        "date": "20260625",
+        "url": "https://www.bing.com/th?id=OHR.GrandPlace_EN-CA9367099821_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GrandPlace_EN-CA9367099821",
+        "copyright": "Buildings on Grand-Place Square in Brussels, Belgium (© Vladislav Zolotov/Getty Images Plus)",
+        "copyrightKeyword": "Grand Place Brussels",
+        "hsh": "545238190c1a31b4b837418d4a2e0ffa",
+        "description": "Few squares in Belgium wear history as well as the Grand Place. The surrounding buildings, seen here, began as guild houses, each funded by a specific trade. Brewers, bakers, merchants and craftsmen treated architecture as language, translating work, status and rivalry into stone through reliefs, coats of arms and generous gold leaf. Styles meet without caution. Gothic verticals rise beside Baroque curves, while the Town Hall, older than its neighbours and unapologetically asymmetrical, holds the composition together.",
+        "maplink": "50.846851,4.352454"
+    },
+    {
         "fullstartdate": "202606240400",
         "date": "20260624",
         "url": "https://www.bing.com/th?id=OHR.BFPollin_EN-CA9136085313_1920x1080.jpg",
@@ -69,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.Saqsaywaman_EN-CA6349309682",
         "copyright": "Aerial view of the ruins of Sacsayhuamán, Cusco, Peru (© Creative-Family/Getty Images Plus)",
         "copyrightKeyword": "Sacsayhuaman Cusco Peru",
-        "hsh": "2fbb703ca3314cdb7a440f77f25b4793",
-        "description": "Set high above Cusco in Peru, Sacsayhuamán reveals the ambition of the Inca Empire in stone. Built in the 15th century, this vast complex once formed part of the sacred capital of the Incas. From above, the layout becomes clear: terraces, open plazas and the remains of towers forming a carefully planned citadel. The largest walls, built from enormous blocks, still stand strong today. Some stones rise more than 8.2 metres tall and were fitted together so precisely—without mortar—that the structure has endured centuries of earthquakes.",
-        "maplink": "-13.50778,-71.98222"
-    },
-    {
-        "fullstartdate": "202606170400",
-        "date": "20260617",
-        "url": "https://www.bing.com/th?id=OHR.TremolaRoad_EN-CA6025249827_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.TremolaRoad_EN-CA6025249827",
-        "copyright": "Tremola Road on the Saint Gotthard Pass in Airolo, Switzerland (© Sandro Bisaro/Getty Images)",
-        "copyrightKeyword": "Tremola Road",
-        "hsh": "0066ad583a647fa618c4109ca90a85b8"
+        "hsh": "2fbb703ca3314cdb7a440f77f25b4793"
     }
 ]

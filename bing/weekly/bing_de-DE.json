@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606252200",
+        "date": "20260626",
+        "url": "https://www.bing.com/th?id=OHR.ThamesSummer_DE-DE5848189110_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ThamesSummer_DE-DE5848189110",
+        "copyright": "Themse, London, England (© Daniel Lange/Getty Images)",
+        "copyrightKeyword": "Themse",
+        "hsh": "e36d332fa0c55b33195fa3d161c6ee16",
+        "description": "Entlang der Themse in London entfaltet sich eine der bekanntesten Stadtsilhouetten Europas, geprägt von Geschichte, Bewegung und einem stetigen Rhythmus. Boote gleiten ruhig vorbei, während Brücken das Bild strukturieren und verschiedene Viertel miteinander verbinden. Tagsüber spiegelt das Wasser graue Wolken und gläserne Fassaden, nachts tauchen Lichter alles in ein warmes Leuchten. Besucher und Einheimische folgen oft ihrem Verlauf, entdecken historische Gebäude und genießen die besondere Atmosphäre zwischen Tradition und Moderne. Big Ben und das London Eye prägen diese Ansicht.",
+        "maplink": "51.50382,-0.121258"
+    },
+    {
         "fullstartdate": "202606242200",
         "date": "20260625",
         "url": "https://www.bing.com/th?id=OHR.GrandPlace_DE-DE1914769137_1920x1080.jpg",
@@ -69,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.IsolaElba_DE-DE0710166341",
         "copyright": "Leuchtturm „La Rocchetta“, Piombino, Italien (© StevanZZ/Getty Images)",
         "copyrightKeyword": "La Rocchetta Leuchtturm",
-        "hsh": "97db13f2aab80a449c0a8fcaad4eaac7",
-        "description": "Am Rand der Piazza Bovio, im Herzen von Piombino in der Toskana, erhebt sich ein Leuchtturm über der Küste. Der Leuchtturm von Piombino, auch „La Rocchetta“ genannt, steht an einem Punkt, an dem sich der Blick zur Insel Elba öffnet. Errichtet im 20. Jahrhundert auf den Resten einer älteren Befestigung, präsentiert sich der kleine Bau im neugotischen Stil. Bis heute dient er als Orientierung für Schiffe im Kanal des toskanischen Archipels – sein Licht ist weit sichtbar über dem Meer.",
-        "maplink": "42.936254,10.54206"
-    },
-    {
-        "fullstartdate": "202606172200",
-        "date": "20260618",
-        "url": "https://www.bing.com/th?id=OHR.Saqsaywaman_DE-DE3241976270_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.Saqsaywaman_DE-DE3241976270",
-        "copyright": "Luftaufnahme der Ruinen von Sacsayhuamán, Cusco, Peru (© Creative-Family/Getty Images Plus)",
-        "copyrightKeyword": "Sacsayhuaman Cusco Peru",
-        "hsh": "eff48900c62f0203b384cb37c5a6d8ca"
+        "hsh": "97db13f2aab80a449c0a8fcaad4eaac7"
     }
 ]
