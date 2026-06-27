@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606260400",
+        "date": "20260626",
+        "url": "https://www.bing.com/th?id=OHR.ThamesSummer_EN-CA4092680642_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ThamesSummer_EN-CA4092680642",
+        "copyright": "The River Thames, London, England (© Daniel Lange/Getty Images)",
+        "copyrightKeyword": "River Thames",
+        "hsh": "db99511c03c94c68bee2c1ecdd917a33",
+        "description": "What does a parliament, a clock tower and a giant wheel have in common? They all stand beside the River Thames as if London had carefully staged its icons for dramatic effect.",
+        "maplink": "51.50382,-0.121258"
+    },
+    {
         "fullstartdate": "202606250400",
         "date": "20260625",
         "url": "https://www.bing.com/th?id=OHR.GrandPlace_EN-CA9367099821_1920x1080.jpg",
@@ -69,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.IsolaElba_EN-CA8613795085",
         "copyright": "La Rocchetta Lighthouse, Piombino, Italy (© StevanZZ/Getty Images)",
         "copyrightKeyword": "La Rocchetta Lighthouse",
-        "hsh": "b4eff31d5a788aba2c7cf88d5d1d41c0",
-        "description": "Perched at the far edge of Piazza Bovio in Piombino, Tuscany, Italy, is the Piombino Lighthouse. Locally, it is known as 'Faro di Piombino' or 'La Rocchetta Lighthouse.' It overlooks the point where the Tuscan coast faces the island of Elba.",
-        "maplink": "42.936254,10.54206"
-    },
-    {
-        "fullstartdate": "202606180400",
-        "date": "20260618",
-        "url": "https://www.bing.com/th?id=OHR.Saqsaywaman_EN-CA6349309682_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.Saqsaywaman_EN-CA6349309682",
-        "copyright": "Aerial view of the ruins of Sacsayhuamán, Cusco, Peru (© Creative-Family/Getty Images Plus)",
-        "copyrightKeyword": "Sacsayhuaman Cusco Peru",
-        "hsh": "2fbb703ca3314cdb7a440f77f25b4793"
+        "hsh": "b4eff31d5a788aba2c7cf88d5d1d41c0"
     }
 ]

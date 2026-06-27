@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202606261600",
+        "date": "20260627",
+        "url": "https://www.bing.com/th?id=OHR.BoneyardBeach_ZH-CN5540590570_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BoneyardBeach_ZH-CN5540590570",
+        "copyright": "博尼亚德海滩上的漂流木, 亨廷岛, 南卡罗来纳州, 美国 (© Frances/Adobe Stock)",
+        "copyrightKeyword": "亨廷岛",
+        "hsh": "430c1f4847a17f50aecd5df4f069b9b9",
+        "description": "在美国南卡罗来纳州亨廷岛州立公园内的博尼亚德海滩，最先映入眼帘的是那些树木。紧接着，一个疑问便会浮现：为何一根根被海水漂白的树干和裸露的树根散落在沙滩上，仿佛一幕正在坍塌的景象被按下了暂停键？自20世纪80年代以来，亨廷岛一直面临严重的海滩侵蚀问题，其侵蚀速率位居美国东海岸前列。在部分区域，海岸线每年后退幅度最高可达约30英尺（约9米）。"
+    },
+    {
         "fullstartdate": "202606251600",
         "date": "20260626",
         "url": "https://www.bing.com/th?id=OHR.ThamesSummer_ZH-CN5292532714_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ArchedIceberg_ZH-CN2698040371",
         "copyright": "漂浮在南极半岛西部海域的拱形冰山, 南大洋 (© Steven Kazlowski/Nature Picture Library)",
         "copyrightKeyword": "冰山",
-        "hsh": "2f338dc94619e7b644ca7c19ada06ce6",
-        "description": "在南极半岛沿岸，一道冰雕般的拱形结构从南大洋拔地而起，而南极半岛是地球上变暖速度最快的地区之一。这道拱形结构最初是由积雪压实而成，历经数千年演变为冰川。最终，冰川或漂浮冰架的一部分断裂脱落——这一过程被称为冰崩——形成了漂浮的冰山。"
-    },
-    {
-        "fullstartdate": "202606181600",
-        "date": "20260619",
-        "url": "https://www.bing.com/th?id=OHR.DragonBoatFestivalY26_ZH-CN5532138555_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DragonBoatFestivalY26_ZH-CN5532138555",
-        "copyright": "湖中的龙舟，中国 (©  Zhonghui Bao/Getty Images)",
-        "copyrightKeyword": "端午节",
-        "hsh": "f32fa70d99dab0a101b4dd6fb8367fed"
+        "hsh": "2f338dc94619e7b644ca7c19ada06ce6"
     }
 ]

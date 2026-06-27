@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606262200",
+        "date": "20260627",
+        "url": "https://www.bing.com/th?id=OHR.BoneyardBeach_ES-ES1143251949_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BoneyardBeach_ES-ES1143251949",
+        "copyright": "Árboles a la deriva en Boneyard Beach, Hunting Island, Carolina del Sur, EE. UU. (© Frances/Adobe Stock)",
+        "copyrightKeyword": "carolina del sur",
+        "hsh": "81671e1d91bea5a7c0f63f77620d5a2b",
+        "description": "En Boneyard Beach, en el Parque Estatal Hunting Island (Estados Unidos), los árboles parecen haber quedado congelados en plena transformación, como si el tiempo se hubiera detenido entre la vida y la desaparición. Sus troncos blanqueados y raíces al descubierto cuentan una historia silenciosa de erosión: desde la década de mil novecientos ochenta, el mar avanza aquí con fuerza, devorando hasta nueve metros de costa al año en algunos puntos.",
+        "maplink": "32.40758,-80.445631"
+    },
+    {
         "fullstartdate": "202606252200",
         "date": "20260626",
         "url": "https://www.bing.com/th?id=OHR.ThamesSummer_ES-ES8043595451_1920x1080.jpg",
@@ -69,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ArchedIceberg_ES-ES9715091871",
         "copyright": "Iceberg arqueado flotando frente a la península Antártica occidental, océano Austral (© Steven Kazlowski/Nature Picture Library)",
         "copyrightKeyword": "Iceberg",
-        "hsh": "c40b6f561d81e88961b59d98c372da76",
-        "description": "Un iceberg arqueado flota frente a la península Antártica occidental, en el océano Austral, como una gran estructura de hielo esculpida por el tiempo. Su forma curva recuerda a una bóveda natural, resultado de un equilibrio delicado entre el frío implacable, el viento constante y el movimiento del mar. La luz se refleja en sus superficies translúcidas, creando matices azules que cambian con el paso del día y revelan la densidad compacta de un hielo formado durante siglos.",
-        "maplink": "-69.5,-65"
-    },
-    {
-        "fullstartdate": "202606182200",
-        "date": "20260619",
-        "url": "https://www.bing.com/th?id=OHR.IsolaElba_ES-ES9499583337_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.IsolaElba_ES-ES9499583337",
-        "copyright": "Faro de La Rocchetta, Piombino, Toscana, Italia (© StevanZZ/Getty Images)",
-        "copyrightKeyword": "Faro de La Rocchetta",
-        "hsh": "73113986a952d524f3eabac7550ae70a"
+        "hsh": "c40b6f561d81e88961b59d98c372da76"
     }
 ]

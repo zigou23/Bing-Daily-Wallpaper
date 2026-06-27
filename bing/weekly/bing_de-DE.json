@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606262200",
+        "date": "20260627",
+        "url": "https://www.bing.com/th?id=OHR.Westerheversand_DE-DE9270031466_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.Westerheversand_DE-DE9270031466",
+        "copyright": "Leuchtturm Westerheversand, Nordsee, Schleswig-Holstein (© bluejayphoto/Getty Images)",
+        "copyrightKeyword": "Leuchtturm Westerheversand",
+        "hsh": "2385c7a57c5495634a9ed44b87ef2515",
+        "description": "Mitten in den Salzwiesen von Westerheversand erhebt sich ein Leuchtturm mit markanten rot-weißen Streifen über die weitläufige Küstenlandschaft. Seit mehr als hundert Jahren prägt das Bauwerk die Halbinsel Eiderstedt und dient bis heute als wichtiger Orientierungspunkt für die Schifffahrt. Der zwischen 1906 und 1908 errichtete Leuchtturm zählt zu den bekanntesten Wahrzeichen der nordfriesischen Küste. Das Highlight ist die Aussichtsplattform des rund 41 Meter hohen Turms, die über 157 Stufen erreicht werden kann.",
+        "maplink": "54.373402,8.6399"
+    },
+    {
         "fullstartdate": "202606252200",
         "date": "20260626",
         "url": "https://www.bing.com/th?id=OHR.ThamesSummer_DE-DE5848189110_1920x1080.jpg",
@@ -69,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.KielSailing_DE-DE0980571166",
         "copyright": "Windjammerparade zur Kieler Woche in Kiel, Schleswig-Holstein (© Snapshot freddy/Shutterstock)",
         "copyrightKeyword": "Kieler Woche",
-        "hsh": "838622184c099061c164b0d5ad39506a",
-        "description": "„Leinen los!“ – so beginnt in Kiel jedes Jahr eines der größten und traditionsreichsten Segelereignisse der Welt: die Kieler Woche. Das renommierte Festival in Schleswig-Holstein verbindet internationale Regatten mit einem maritimen Volksfest, das die Stadt neun Tage lang prägt. Auf der Kieler Förde treffen moderne Yachten, historische Segelschiffe sowie zahlreiche kleinere Boote aufeinander und bestimmen das Bild der Küste.",
-        "maplink": "54.429897,10.117243"
-    },
-    {
-        "fullstartdate": "202606182200",
-        "date": "20260619",
-        "url": "https://www.bing.com/th?id=OHR.IsolaElba_DE-DE0710166341_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.IsolaElba_DE-DE0710166341",
-        "copyright": "Leuchtturm „La Rocchetta“, Piombino, Italien (© StevanZZ/Getty Images)",
-        "copyrightKeyword": "La Rocchetta Leuchtturm",
-        "hsh": "97db13f2aab80a449c0a8fcaad4eaac7"
+        "hsh": "838622184c099061c164b0d5ad39506a"
     }
 ]
