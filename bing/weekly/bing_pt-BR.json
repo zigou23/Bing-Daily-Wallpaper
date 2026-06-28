@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202606270300",
+        "date": "20260627",
+        "url": "https://www.bing.com/th?id=OHR.BoneyardBeach_PT-BR8811510135_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BoneyardBeach_PT-BR8811510135",
+        "copyright": "Troncos na Boneyard Beach, Hunting Island, Carolina do Sul, Estados Unidos (© Frances/Adobe Stock)",
+        "copyrightKeyword": "Carolina do Sul",
+        "hsh": "915e023ab716c486861c4660a5ab1e46",
+        "description": "A primeira impressão desta praia é a que fica: troncos claros expostos pela areia como ossos gigantescos. Depois vem a curiosidade: o que aconteceu aqui?"
+    },
+    {
         "fullstartdate": "202606260300",
         "date": "20260626",
         "url": "https://www.bing.com/th?id=OHR.Parintins_PT-BR8364769128_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ArchedIceberg_PT-BR4679375878",
         "copyright": "Iceberg flutuando na Antártica Ocidental, oceano Antártico (© Steven Kazlowski/Nature Picture Library)",
         "copyrightKeyword": "Iceberg",
-        "hsh": "00aa6546320c570608117d0e872e7706",
-        "description": "No extremo da Península Antártica, um arco de gelo emerge do oceano como se a água tivesse aprendido arquitetura. Mas essa escultura nasceu de um processo lento: ela começou como neve comprimida ao longo de milhares de anos, formando lentamente uma geleira, até que um pedaço se soltou e saiu navegando pelo oceano Antártico."
-    },
-    {
-        "fullstartdate": "202606190300",
-        "date": "20260619",
-        "url": "https://www.bing.com/th?id=OHR.IsolaElba_PT-BR4257374246_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.IsolaElba_PT-BR4257374246",
-        "copyright": "Farol La Rocchetta, Piombino, Toscana, Itália (© StevanZZ/Getty Images)",
-        "copyrightKeyword": "Farol La Rocchetta na Italia",
-        "hsh": "66755bb72ab640e66f6a3f9905af052c"
+        "hsh": "00aa6546320c570608117d0e872e7706"
     }
 ]

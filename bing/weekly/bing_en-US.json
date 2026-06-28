@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606270700",
+        "date": "20260627",
+        "url": "https://www.bing.com/th?id=OHR.BoneyardBeach_EN-US8247496696_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BoneyardBeach_EN-US8247496696",
+        "copyright": "Driftwood on Boneyard Beach, Hunting Island, South Carolina (© Frances/Adobe Stock)",
+        "copyrightKeyword": "Hunting Island",
+        "hsh": "0efeebaf1356a2176a28bf4308f49281",
+        "description": "At Boneyard Beach within Hunting Island State Park, South Carolina, the first thing you notice is the trees. Then comes the question: why are bleached trunks and exposed roots scattered across the sand like a scene paused midway through collapse? Since the 1980s, Hunting Island has experienced major beach erosion, with some of the highest rates along the US East Coast—reaching up to 30 feet per year in certain areas.",
+        "maplink": "32.40758,-80.445631"
+    },
+    {
         "fullstartdate": "202606260700",
         "date": "20260626",
         "url": "https://www.bing.com/th?id=OHR.ThamesSummer_EN-US6783349970_1920x1080.jpg",
@@ -69,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ArchedIceberg_EN-US6345786269",
         "copyright": "Arched iceberg floating off the western Antarctic Peninsula, Southern Ocean (© Steven Kazlowski/Nature Picture Library)",
         "copyrightKeyword": "Iceberg",
-        "hsh": "60b075fbea28a5bfdf8be14c61f3d1f9",
-        "description": "A sculpted arch of ice rises from the Southern Ocean along the Antarctic Peninsula, one of the fastest-warming regions on Earth. This formation began as compacted snow that turned into glacial ice over thousands of years. Eventually, part of a glacier or floating ice shelf fractured and broke free—a process known as calving—creating a drifting iceberg.",
-        "maplink": "-69.5,-65"
-    },
-    {
-        "fullstartdate": "202606190700",
-        "date": "20260619",
-        "url": "https://www.bing.com/th?id=OHR.JuneteenthNMAAHC_EN-US6306942628_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.JuneteenthNMAAHC_EN-US6306942628",
-        "copyright": "National Museum of African American History and Culture, Washington, DC (© Walter Bibikow/Alamy)",
-        "copyrightKeyword": "Juneteenth",
-        "hsh": "2f8485f54e2cc46741e560b706882277"
+        "hsh": "60b075fbea28a5bfdf8be14c61f3d1f9"
     }
 ]

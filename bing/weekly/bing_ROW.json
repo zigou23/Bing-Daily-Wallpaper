@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202606270700",
+        "date": "20260627",
+        "url": "https://www.bing.com/th?id=OHR.BoneyardBeach_ROW5980184079_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BoneyardBeach_ROW5980184079",
+        "copyright": "Driftwood on Boneyard Beach, Hunting Island, South Carolina, USA (© Frances/Adobe Stock)",
+        "copyrightKeyword": "Hunting Island",
+        "hsh": "defa3388c54ae6215a2595033cc72ae9",
+        "description": "At Boneyard Beach within Hunting Island State Park, South Carolina, United States, the first thing you notice is the trees. Then comes the question: why are bleached trunks and exposed roots scattered across the sand like a scene paused midway through collapse? Since the 1980s, Hunting Island has experienced major beach erosion, with some of the highest rates along the US East Coast—reaching up to 9 metres per year in certain areas."
+    },
+    {
         "fullstartdate": "202606260700",
         "date": "20260626",
         "url": "https://www.bing.com/th?id=OHR.ThamesSummer_ROW5725205310_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ArchedIceberg_ROW4666187976",
         "copyright": "Arched iceberg floating off the western Antarctic Peninsula, Southern Ocean (© Steven Kazlowski/Nature Picture Library)",
         "copyrightKeyword": "Iceberg",
-        "hsh": "d9a262548f691b07ec341576998ad66a",
-        "description": "A sculpted arch of ice rises from the Southern Ocean along the Antarctic Peninsula, one of the fastest-warming regions on Earth. This formation began as compacted snow that turned into glacial ice over thousands of years. Eventually, part of a glacier or floating ice shelf fractured and broke free—a process known as calving—creating a drifting iceberg."
-    },
-    {
-        "fullstartdate": "202606190700",
-        "date": "20260619",
-        "url": "https://www.bing.com/th?id=OHR.IsolaElba_ROW4135146629_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.IsolaElba_ROW4135146629",
-        "copyright": "La Rocchetta Lighthouse, Piombino, Tuscany, Italy (© StevanZZ/Getty Images)",
-        "copyrightKeyword": "La Rocchetta Lighthouse",
-        "hsh": "c0eb5ad081a73fde9be2e6c6aaef4dd1"
+        "hsh": "d9a262548f691b07ec341576998ad66a"
     }
 ]

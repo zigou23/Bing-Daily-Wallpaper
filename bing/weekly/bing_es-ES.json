@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202606272200",
+        "date": "20260628",
+        "url": "https://www.bing.com/th?id=OHR.PrideChueca_ES-ES4043385731_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PrideChueca_ES-ES4043385731",
+        "copyright": "Chueca, Madrid, España (© MarioMonte/Getty Images)",
+        "copyrightKeyword": "Día Internacional del Orgullo",
+        "hsh": "e412fa28f11d2fe7afaa622fede1b990",
+        "description": "Chueca, en Madrid, se llena de color cada verano cuando la bandera del orgullo ondea entre balcones y calles, marcando el inicio de una de las celebraciones más vibrantes de Europa. Durante estos días, el barrio se transforma en un escenario abierto donde música, cultura y reivindicación conviven, reflejando el espíritu diverso y acogedor de la ciudad."
+    },
+    {
         "fullstartdate": "202606262200",
         "date": "20260627",
         "url": "https://www.bing.com/th?id=OHR.BoneyardBeach_ES-ES1143251949_1920x1080.jpg",
@@ -69,17 +79,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.Fujisan_ES-ES0010704933",
         "copyright": "Monte Fuji en la isla de Honshu, Japón (© phutthiseth thongtae/Getty Images)",
         "copyrightKeyword": "Monte Fuji",
-        "hsh": "d0a021e9210fe1efa76d22707c269aa0",
-        "description": "El monte Fuji, situado en la isla de Honshu, es la cumbre más alta de Japón y uno de sus símbolos más reconocibles. Este volcán de forma casi perfecta se eleva hasta los 3776 metros y destaca por su silueta armoniosa, visible desde grandes distancias en días despejados. Su imagen ha inspirado durante siglos a artistas, poetas y viajeros, convirtiéndose en un referente cultural profundamente arraigado en la identidad japonesa.",
-        "maplink": "35.365403,138.730373"
-    },
-    {
-        "fullstartdate": "202606192200",
-        "date": "20260620",
-        "url": "https://www.bing.com/th?id=OHR.ArchedIceberg_ES-ES9715091871_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ArchedIceberg_ES-ES9715091871",
-        "copyright": "Iceberg arqueado flotando frente a la península Antártica occidental, océano Austral (© Steven Kazlowski/Nature Picture Library)",
-        "copyrightKeyword": "Iceberg",
-        "hsh": "c40b6f561d81e88961b59d98c372da76"
+        "hsh": "d0a021e9210fe1efa76d22707c269aa0"
     }
 ]
