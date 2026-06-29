@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606280400",
+        "date": "20260628",
+        "url": "https://www.bing.com/th?id=OHR.SaguaroSun_FR-CA9343833672_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SaguaroSun_FR-CA9343833672",
+        "copyright": "Cactus saguaro près de Windgate Pass, chaîne des McDowell, Arizona, États‑Unis (© Eric Mischke/Getty Images)",
+        "copyrightKeyword": "cactus Saguaro",
+        "hsh": "c9c09fe90a7fc69c0e3b92c965980376",
+        "description": "L’expression « rester dans les parages » prend un tout autre sens dans le désert de Sonora aux États-Unis, où le saguaro s’est imposé comme symbole grâce à sa longévité. Avec ses troncs et ses bras dressés dans toutes les directions, ce cactus géant incarne le Sud-Ouest américain.",
+        "maplink": "33.796104,-111.810696"
+    },
+    {
         "fullstartdate": "202606270400",
         "date": "20260627",
         "url": "https://www.bing.com/th?id=OHR.MulticulturalismDY_FR-CA8766350441_1920x1080.jpg",
@@ -70,16 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.IndigenousMaple_FR-CA1946850400",
         "copyright": "La feuille d'érable rouge, symbole du Canada (© namaki/Getty Images)",
         "copyrightKeyword": "Journée nationale des peuples autochtones",
-        "hsh": "576d2b6410d69058b41cff0d1e8d2fe3",
-        "description": "Combien d’histoires une seule journée peut-elle raconter? Au Canada, le 21 juin en murmure des milliers. À l’aube de l’été, la lumière s’attarde sur les forêts boréales, les lacs miroitants et les vastes plaines, rappelant la présence millénaire des Premières Nations, des Inuits et des Métis."
-    },
-    {
-        "fullstartdate": "202606200400",
-        "date": "20260620",
-        "url": "https://www.bing.com/th?id=OHR.ArchedIceberg_FR-CA6705356210_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ArchedIceberg_FR-CA6705356210",
-        "copyright": "Arche naturelle sculptée dans un iceberg, Océan Antarctique (© Steven Kazlowski/Nature Picture Library)",
-        "copyrightKeyword": "Iceberg",
-        "hsh": "3e90d01086dbc1c0ed510a848d983c02"
+        "hsh": "576d2b6410d69058b41cff0d1e8d2fe3"
     }
 ]
