@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606292200",
+        "date": "20260630",
+        "url": "https://www.bing.com/th?id=OHR.MasaiGiraffe_FR-FR7072948459_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MasaiGiraffe_FR-FR7072948459",
+        "copyright": "Girafes au coucher du soleil, Masai Mara, Kenya (© danm/Getty Images)",
+        "copyrightKeyword": "réserve Masai Mara",
+        "hsh": "e11d7ccee6a7d2f3f77c0b137077ec6d",
+        "description": "Alors que le soleil décline sur la réserve nationale du Masai Mara, les girafes masaï se découpent sur un ciel flamboyant et des plaines infinies. Située au sud-ouest du Kenya, à la frontière du parc national du Serengeti en Tanzanie, cette réserve d’environ 1 500 km² est l’un des plus grands sanctuaires animaliers au monde. Ses prairies vallonnées, ses acacias dispersés et la rivière Mara, essentielle à l’écosystème, en font un lieu privilégié pour observer la faune.",
+        "maplink": "-1.529493,35.170876"
+    },
+    {
         "fullstartdate": "202606282200",
         "date": "20260629",
         "url": "https://www.bing.com/th?id=OHR.BoraBoraLagoon_FR-FR6825831086_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.Fujisan_FR-FR9764365414",
         "copyright": "Mont Fuji sur l’île de Honshū, Japon (© phutthiseth thongtae/Getty Images)",
         "copyrightKeyword": "Mont Fuji",
-        "hsh": "30bf16b8b97ac621a161a4a1e8d52bb0",
-        "description": "Le mont Fuji, plus haut sommet du Japon, s’élève à 3 776 mètres d’altitude sur l’île de Honshū, à environ 100 km au sud-ouest de Tokyo. Sa silhouette quasi parfaite révèle sa nature volcanique : un géant endormi depuis l’éruption de Hōei en décembre 1707, bien que toujours considéré comme actif. À l’époque, ses cendres avaient recouvert une large partie de l’est du pays, jusqu’à Edo, l’actuelle Tokyo. Aujourd’hui encore, il incarne la rencontre entre forces naturelles puissantes et mémoire collective.",
-        "maplink": "35.365403,138.730373"
-    },
-    {
-        "fullstartdate": "202606212200",
-        "date": "20260622",
-        "url": "https://www.bing.com/th?id=OHR.QuinaultFerns_FR-FR2142936548_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.QuinaultFerns_FR-FR2142936548",
-        "copyright": "Forêt humide de Quinault, Parc national Olympique, État de Washington, États-Unis (© Chris Moore/Tandem Stills + Motion)",
-        "copyrightKeyword": "journée mondiale des forêts tropicales",
-        "hsh": "db550d462114682f0d8e5955d6cb45b9"
+        "hsh": "30bf16b8b97ac621a161a4a1e8d52bb0"
     }
 ]

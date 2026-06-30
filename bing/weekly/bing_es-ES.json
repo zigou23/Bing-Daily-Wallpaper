@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202606292200",
+        "date": "20260630",
+        "url": "https://www.bing.com/th?id=OHR.MasaiGiraffe_ES-ES0604244262_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MasaiGiraffe_ES-ES0604244262",
+        "copyright": "Jirafas al atardecer en la Reserva Nacional Masai Mara, Kenia (© danm/Getty Images)",
+        "copyrightKeyword": "Reserva Nacional Masai Mara",
+        "hsh": "5bc538bd4447d10f8a47c3c4c88fe8bf",
+        "description": "En la Reserva Nacional Masai Mara, en Kenia, las jirafas masái dominan el horizonte cuando el sol se funde con la sabana en tonos ardientes. Este santuario natural, que se extiende por unos 1.500 km² en el suroeste del país, forma parte de uno de los grandes escenarios de vida salvaje del planeta, conectado con el Serengeti. Entre praderas abiertas, acacias dispersas y el río Mara, la naturaleza marca un ritmo que impresiona por su escala y su intensidad."
+    },
+    {
         "fullstartdate": "202606282200",
         "date": "20260629",
         "url": "https://www.bing.com/th?id=OHR.BoraBoraLagoon_ES-ES4364920301_1920x1080.jpg",
@@ -70,16 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SanJuanFuegos_ES-ES0457674498",
         "copyright": "Fuegos artificiales en la Noche de San Juan (© rui_noronha/Getty Images)",
         "copyrightKeyword": "San Juan víspera",
-        "hsh": "b0697978ae8159d3eb21520acaafbfcb",
-        "description": "La Noche de San Juan, celebrada cada 23 de junio, marca uno de los momentos más esperados del inicio del verano en muchos lugares de España y de la costa mediterránea. Con la llegada de la noche, playas y plazas se llenan de hogueras, luces y reuniones que combinan tradición y ambiente festivo. El fuego actúa como símbolo de renovación y se convierte en el centro de encuentros familiares y sociales."
-    },
-    {
-        "fullstartdate": "202606212200",
-        "date": "20260622",
-        "url": "https://www.bing.com/th?id=OHR.QuinaultFerns_ES-ES0176872139_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.QuinaultFerns_ES-ES0176872139",
-        "copyright": "Selva tropical de Quinault, parque nacional Olympic, estado de Washington, EE. UU. (© Chris Moore/Tandem Stills + Motion)",
-        "copyrightKeyword": "Día Internacional de los Bosques Tropicales",
-        "hsh": "5aed64a2a5d3b8379de92166157f8d6c"
+        "hsh": "b0697978ae8159d3eb21520acaafbfcb"
     }
 ]

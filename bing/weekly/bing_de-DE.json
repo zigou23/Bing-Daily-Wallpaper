@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606292200",
+        "date": "20260630",
+        "url": "https://www.bing.com/th?id=OHR.MasaiGiraffe_DE-DE5053384610_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MasaiGiraffe_DE-DE5053384610",
+        "copyright": "Giraffen bei Sonnenuntergang im Masai-Mara-Nationalreservat, Kenia (© danm/Getty Images)",
+        "copyrightKeyword": "Masai Mara Nationalreservat",
+        "hsh": "d1943c54217a41091adc8d6f4632797c",
+        "description": "Das Masai-Mara-Nationalreservat im Südwesten Kenias umfasst etwa 1500 Quadratkilometer und grenzt direkt an die Serengeti in Tansania. Es zählt zu den bedeutendsten Schutzgebieten für Wildtiere weltweit. Die Landschaft besteht aus offenen Grasflächen, locker verteilten Akazien und dem Mara-Fluss als zentraler Wasserquelle. Diese Bedingungen ermöglichen eine hohe Artenvielfalt und prägen das ökologische Gleichgewicht. In den Abendstunden, wenn die Sonne sinkt, verbessern sich die Sichtverhältnisse und viele Tiere werden in der weiten Savanne deutlich erkennbar.",
+        "maplink": "-1.529493,35.170876"
+    },
+    {
         "fullstartdate": "202606282200",
         "date": "20260629",
         "url": "https://www.bing.com/th?id=OHR.BoraBoraLagoon_DE-DE4940738686_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.Fujisan_DE-DE4332870275",
         "copyright": "Berg Fuji auf der Insel Honshū, Japan (© phutthiseth thongtae/Getty Images)",
         "copyrightKeyword": "Fuji Berg",
-        "hsh": "5c99600e37e60e588a9b1264f76c90ff",
-        "description": "Der Fuji erhebt sich über Japan als nahezu perfekter Kegel, ist oft schneebedeckt und schon aus großer Entfernung sichtbar. Mit einer Höhe von 3.776 Metern ist er der höchste Berg des Landes. Er liegt etwa 100 Kilometer südwestlich von Tokio auf der Insel Honshū. Zum Vergleich: Die Zugspitze, Deutschlands höchster Gipfel, ist mit 2.962 Metern rund 800 Meter niedriger. Seine symmetrische Form verdankt der Fuji seiner vulkanischen Herkunft. Der Stratovulkan gilt als aktiv, auch wenn er seit der Hōei-Eruption im Jahr 1707 ruht. Damals trieb der Wind große Mengen Asche bis nach Edo, dem heutigen Tokio.",
-        "maplink": "35.365403,138.730373"
-    },
-    {
-        "fullstartdate": "202606212200",
-        "date": "20260622",
-        "url": "https://www.bing.com/th?id=OHR.QuinaultFerns_DE-DE3985266590_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.QuinaultFerns_DE-DE3985266590",
-        "copyright": "Quinault‑Regenwald im Olympic‑Nationalpark, Washington, USA (© Chris Moore/Tandem Stills + Motion)",
-        "copyrightKeyword": "Welttag des Regenwaldes",
-        "hsh": "283816ba0367b4683cb891dfab22a7cc"
+        "hsh": "5c99600e37e60e588a9b1264f76c90ff"
     }
 ]
