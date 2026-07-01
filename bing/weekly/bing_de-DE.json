@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606302200",
+        "date": "20260701",
+        "url": "https://www.bing.com/th?id=OHR.NeckarVineyards_DE-DE0300601892_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.NeckarVineyards_DE-DE0300601892",
+        "copyright": "Sonnenuntergang über den Weinbergen von Steinhaldenfeld im Neckartal bei Stuttgart, Baden-Württemberg (© Cyril Gosselin/Getty Images)",
+        "copyrightKeyword": "Stuttgart Neckar",
+        "hsh": "7866e38cb7aeebcbdd4e2ea78e02a61e",
+        "description": "Oberhalb des Neckars bei Stuttgart ziehen sich terrassierte Weinberge die Hänge hinauf und prägen eine der charakteristischsten Kulturlandschaften des Neckartals. Beim Blick über den Fluss zeichnen sich die markanten Linien der Rebreihen und Trockenmauern ab. Sie schmiegen sich harmonisch an die Hänge und werden vielerorts noch in aufwendiger Handarbeit von den sogenannten Wengertern gepflegt. Das milde Klima begünstigt traditionelle Rebsorten wie Trollinger und Riesling, die bis heute eng mit der Weinbaugeschichte Württembergs verbunden sind.",
+        "maplink": "48.828049,9.232"
+    },
+    {
         "fullstartdate": "202606292200",
         "date": "20260630",
         "url": "https://www.bing.com/th?id=OHR.MasaiGiraffe_DE-DE5053384610_1920x1080.jpg",
@@ -72,16 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BFPollin_DE-DE1648202484",
         "copyright": "Schmetterling beim Bestäuben einer gelben Blüte (© lzh/Getty Images)",
         "copyrightKeyword": "Bestäuber Insekten ",
-        "hsh": "1e062d4e7efaddae0db0149e9f0dbee5",
-        "description": "Ein Schmetterling flattert von Blüte zu Blüte und setzt dabei einen unscheinbaren Kreislauf in Bewegung: Beim Nektarsammeln bleibt Blütenstaub an ihm haften und wird weitergetragen. So können viele Pflanzen überhaupt Samen und Früchte bilden. Besonders tagaktive Schmetterlinge bestäuben oft farbenreiche Wildblumen und tragen so zur Artenvielfalt vieler Wiesen bei."
-    },
-    {
-        "fullstartdate": "202606222200",
-        "date": "20260623",
-        "url": "https://www.bing.com/th?id=OHR.Fujisan_DE-DE4332870275_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.Fujisan_DE-DE4332870275",
-        "copyright": "Berg Fuji auf der Insel Honshū, Japan (© phutthiseth thongtae/Getty Images)",
-        "copyrightKeyword": "Fuji Berg",
-        "hsh": "5c99600e37e60e588a9b1264f76c90ff"
+        "hsh": "1e062d4e7efaddae0db0149e9f0dbee5"
     }
 ]

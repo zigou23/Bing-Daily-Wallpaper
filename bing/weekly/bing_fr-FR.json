@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606302200",
+        "date": "20260701",
+        "url": "https://www.bing.com/th?id=OHR.DungeonPark_FR-FR7667168923_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.DungeonPark_FR-FR7667168923",
+        "copyright": "Parc provincial de Dungeon, Terre-Neuve-et-Labrador, Canada (© Kaitlyn McLachlan/Getty Images)",
+        "copyrightKeyword": "Fête du Canada",
+        "hsh": "f3854863621e90a0c1ce325367dbd5e8",
+        "description": "Puisque nos amis canadiens fêtent aujourd’hui leur grand jour, rendons-leur visite ! Direction le Parc provincial de Dungeon, sur la côte sauvage de Terre-Neuve-et-Labrador, où les falaises abruptes dominent un littoral battu par l’Atlantique.",
+        "maplink": "48.666842,-53.084148"
+    },
+    {
         "fullstartdate": "202606292200",
         "date": "20260630",
         "url": "https://www.bing.com/th?id=OHR.MasaiGiraffe_FR-FR7072948459_1920x1080.jpg",
@@ -72,16 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BFPollin_FR-FR2895321472",
         "copyright": "Papillon sur une fleur jaune (© lzh/Getty Images)",
         "copyrightKeyword": "pollinisateur",
-        "hsh": "8faca51a4a4f4852bc30b9b9fd022335",
-        "description": "Observer de près un geste minuscule, c’est parfois découvrir tout un univers, comme celui de ce papillon posé sur une fleur jaune, y puisant son nectar. En se nourrissant, il emporte avec lui une fine poussière de pollen qu’il déposera sur une autre corolle. Ce cycle discret permet aux plantes de se reproduire et de perdurer. Les pollinisateurs ne se limitent pas aux abeilles : papillons, oiseaux, chauves-souris et coléoptères participent tous à cet échange vital, soutenant la diversité des plantes sauvages comme celle des fruits et légumes qui garnissent nos assiettes."
-    },
-    {
-        "fullstartdate": "202606222200",
-        "date": "20260623",
-        "url": "https://www.bing.com/th?id=OHR.Fujisan_FR-FR9764365414_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.Fujisan_FR-FR9764365414",
-        "copyright": "Mont Fuji sur l’île de Honshū, Japon (© phutthiseth thongtae/Getty Images)",
-        "copyrightKeyword": "Mont Fuji",
-        "hsh": "30bf16b8b97ac621a161a4a1e8d52bb0"
+        "hsh": "8faca51a4a4f4852bc30b9b9fd022335"
     }
 ]

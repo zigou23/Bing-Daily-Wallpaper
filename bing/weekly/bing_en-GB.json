@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606302300",
+        "date": "20260701",
+        "url": "https://www.bing.com/th?id=OHR.KaysersbergVillage_EN-GB9678795742_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.KaysersbergVillage_EN-GB9678795742",
+        "copyright": "Kaysersberg, Alsace, France (© Federica Gentile/Getty Images)",
+        "copyrightKeyword": "Kaysersberg Alsace",
+        "hsh": "fd50412107c993e32408298b7037c66f",
+        "description": "Set along the Weiss River, about 7 miles northwest of Colmar, the village of Kaysersberg, in the Alsace region of France, rests on the eastern slopes of the Vosges Mountains. This historic settlement combines medieval charm with a rich architectural heritage.",
+        "maplink": "48.18747,7.215853"
+    },
+    {
         "fullstartdate": "202606292300",
         "date": "20260630",
         "url": "https://www.bing.com/th?id=OHR.MasaiGiraffe_EN-GB8702520320_1920x1080.jpg",
@@ -72,16 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BFPollin_EN-GB9787494533",
         "copyright": "Butterfly pollinating on yellow flower (© lzh/Getty Images)",
         "copyrightKeyword": "Pollinator Week",
-        "hsh": "ef3f7650615dd29db1516a3eb00281ab",
-        "description": "Zoom in on the small transaction that keeps landscapes alive: a butterfly on a yellow flower, sipping nectar. While it feeds, pollen dusts its body and hitches a ride to the next bloom—one of the quiet ways flowering plants reproduce. Pollinators are not only bees. Butterflies, birds, bats, beetles and many others help move pollen, supporting wild plants and many of the fruits and vegetables we eat."
-    },
-    {
-        "fullstartdate": "202606222300",
-        "date": "20260623",
-        "url": "https://www.bing.com/th?id=OHR.Fujisan_EN-GB3917508589_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.Fujisan_EN-GB3917508589",
-        "copyright": "Mount Fuji on Honshu Island, Japan (© phutthiseth thongtae/Getty Images)",
-        "copyrightKeyword": "Mount Fuji",
-        "hsh": "0e67ffd0d34115d44ec1f1eb6abba5e3"
+        "hsh": "ef3f7650615dd29db1516a3eb00281ab"
     }
 ]

@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202606300700",
+        "date": "20260630",
+        "url": "https://www.bing.com/th?id=OHR.MasaiGiraffe_EN-US2240704874_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MasaiGiraffe_EN-US2240704874",
+        "copyright": "Giraffes at sunset in the Masai Mara National Reserve, Kenya (© danm/Getty Images)",
+        "copyrightKeyword": "Masai Mara National Reserve",
+        "hsh": "0f87e5bbe9a42af9639433e88687fd43",
+        "description": "As the sun sinks low in the Masai Mara National Reserve, the silhouettes of Masai giraffes rise against a blazing sky and open plains. Another day comes to an end in the reserve, which stretches across about 580 square miles in southwestern Kenya, bordering Tanzania's Serengeti National Park. It is a vast expanse, one of the world's greatest wildlife arenas. Rolling grasslands, scattered acacia trees, and the life-giving Mara River set the stage for unforgettable encounters.",
+        "maplink": "-1.529493,35.170876"
+    },
+    {
         "fullstartdate": "202606290700",
         "date": "20260629",
         "url": "https://www.bing.com/th?id=OHR.BoraBoraLagoon_EN-US1491116478_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.Fujisan_EN-US6479372200",
         "copyright": "Mount Fuji on Honshu Island, Japan (© phutthiseth thongtae/Getty Images)",
         "copyrightKeyword": "Mount Fuji",
-        "hsh": "fab20d7d859c58a48b455f63af6fd564",
-        "description": "Mount Fuji, Japan's highest mountain, rises to 12,389 feet on Honshu Island, about 60 miles southwest of Tokyo. Its near-perfect cone is a volcano—dormant since its last eruption in December 1707 yet still classed as active. That last major event is known as the Hōei eruption. It blasted ash and other tephra across eastern Japan, reaching Edo (today's Tokyo). Beyond geology, Fuji has long been treated as a sacred landscape and a destination for pilgrimage climbs, reflecting how nature, religion, and daily life overlap in Japan. That enduring cultural appeal is one reason it was designated a UNESCO World Heritage Site in 2013 as 'a sacred place and source of artistic inspiration.' Fuji is famously visible from far away on clear days but never guaranteed—clouds can hide it in minutes. Whether you hike it or just catch a glimpse from a train window, it still feels like Japan's signature on the horizon.",
-        "maplink": "35.365403,138.730373"
-    },
-    {
-        "fullstartdate": "202606220700",
-        "date": "20260622",
-        "url": "https://www.bing.com/th?id=OHR.QuinaultFerns_EN-US6436576493_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.QuinaultFerns_EN-US6436576493",
-        "copyright": "Quinault rainforest, Olympic National Park, Washington state (© Chris Moore/Tandem Stills + Motion)",
-        "copyrightKeyword": "World Rainforest Day",
-        "hsh": "ea10b944b33537e4675a1c4dbd0217f2"
+        "hsh": "fab20d7d859c58a48b455f63af6fd564"
     }
 ]
