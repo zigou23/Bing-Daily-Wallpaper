@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607012200",
+        "date": "20260702",
+        "url": "https://www.bing.com/th?id=OHR.TempleEsna_ES-ES5295149663_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TempleEsna_ES-ES5295149663",
+        "copyright": "Techo del Templo de Jnum en Esna, Egipto (© Nick Brundle Photography/Getty Images)",
+        "copyrightKeyword": "El Templo de Jnum en Esna",
+        "hsh": "e126a4239c0ea3682ca31dd396fa716f",
+        "description": "El Templo de Jnum en Esna, al sur de Luxor (Egipto), envuelve al visitante en un universo simbólico donde dioses y cielo parecen dialogar. Dedicado a Khnum, el dios con cabeza de carnero que, según la creencia, modelaba a los humanos con arcilla del Nilo, este espacio conserva una sala monumental sostenida por veinticuatro columnas cubiertas de relieves y textos sagrados.",
+        "maplink": "25.293581,32.556398"
+    },
+    {
         "fullstartdate": "202606302200",
         "date": "20260701",
         "url": "https://www.bing.com/th?id=OHR.DungeonPark_ES-ES4904785525_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.GrandPlace_ES-ES0768815464",
         "copyright": "Edificios de la Grand Place de Bruselas, Bélgica (© Vladislav Zolotov/Getty Images Plus)",
         "copyrightKeyword": "Grand Place Bruselas",
-        "hsh": "9280a7aa780d84debf1619811a21bda7",
-        "description": "La Grand Place de Bruselas, Bélgica, es uno de los conjuntos arquitectónicos más impresionantes de Europa. Sus edificios, alineados en torno a la plaza, muestran una armonía visual notable, con fachadas ricamente decoradas que reflejan siglos de historia y prosperidad. Antiguas casas gremiales, el Ayuntamiento y la Maison du Roi destacan por sus detalles dorados, esculturas y ornamentaciones que evocan el esplendor de distintas épocas. Cada fachada cuenta una historia ligada a los gremios que dieron forma a la vida económica de la ciudad.",
-        "maplink": "50.846851,4.352454"
-    },
-    {
-        "fullstartdate": "202606232200",
-        "date": "20260624",
-        "url": "https://www.bing.com/th?id=OHR.BFPollin_ES-ES0605051254_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BFPollin_ES-ES0605051254",
-        "copyright": "Mariposa polinizando una flor amarilla (© lzh/Getty Images)",
-        "copyrightKeyword": "Polinización",
-        "hsh": "bccdccd33f7b2098146d989eeacb82c6"
+        "hsh": "9280a7aa780d84debf1619811a21bda7"
     }
 ]

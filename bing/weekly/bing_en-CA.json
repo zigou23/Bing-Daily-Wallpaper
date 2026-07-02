@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607010400",
+        "date": "20260701",
+        "url": "https://www.bing.com/th?id=OHR.DungeonPark_EN-CA5716185591_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.DungeonPark_EN-CA5716185591",
+        "copyright": "Dungeon Provincial Park, Newfoundland and Labrador (© Kaitlyn McLachlan/Getty Images)",
+        "copyrightKeyword": "Canada Day",
+        "hsh": "c7c041a250991b186d7e53f0bdc2ddb3",
+        "description": "On July 1, Canada celebrates its national day, marking the events of 1867, when the British North America Act (now called the Constitution Act, 1867) united three British colonies into one Dominion.",
+        "maplink": "48.666842,-53.084148"
+    },
+    {
         "fullstartdate": "202606300400",
         "date": "20260630",
         "url": "https://www.bing.com/th?id=OHR.MasaiGiraffe_EN-CA5473733652_1920x1080.jpg",
@@ -72,16 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BFPollin_EN-CA9136085313",
         "copyright": "Butterfly pollinating on yellow flower (© lzh/Getty Images)",
         "copyrightKeyword": "Pollinator week",
-        "hsh": "da3c381b2f816ed88f4d50cbe6d980af",
-        "description": "Zoom in on the small transaction that keeps landscapes alive: a butterfly on a yellow flower, sipping nectar. While it feeds, pollen dusts its body and hitches a ride to the next bloom—one of the quiet ways flowering plants reproduce. Pollinators are not only bees. Butterflies, birds, bats, beetles and many others help move pollen, supporting wild plants and many of the fruits and vegetables we eat."
-    },
-    {
-        "fullstartdate": "202606230400",
-        "date": "20260623",
-        "url": "https://www.bing.com/th?id=OHR.Fujisan_EN-CA8841580600_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.Fujisan_EN-CA8841580600",
-        "copyright": "Mount Fuji on Honshu Island, Japan (© phutthiseth thongtae/Getty Images)",
-        "copyrightKeyword": "Mount Fuji",
-        "hsh": "96eff6ea6ad4e77ed947c9ec4235bf8e"
+        "hsh": "da3c381b2f816ed88f4d50cbe6d980af"
     }
 ]

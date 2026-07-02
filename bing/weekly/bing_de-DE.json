@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607012200",
+        "date": "20260702",
+        "url": "https://www.bing.com/th?id=OHR.TempleEsna_DE-DE2277338406_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TempleEsna_DE-DE2277338406",
+        "copyright": "Decke des Tempels von Esna, Ägypten (© Nick Brundle Photography/Getty Images)",
+        "copyrightKeyword": "Tempel von Esna",
+        "hsh": "de8e340c23cbd24df7fea83434242bdc",
+        "description": "Die Decke des Tempels von Esna in Ägypten gehört zu den beeindruckendsten Zeugnissen der spätantiken ägyptischen Baukunst und fasziniert durch ihre außergewöhnlich gut erhaltenen Reliefs und Farben. Nach umfassenden Restaurierungsarbeiten treten heute wieder lebendige Darstellungen von Sternbildern, Göttern und rituellen Symbolen hervor, die lange unter Ruß und Schmutz verborgen waren. Besonders auffällig sind die sorgfältig ausgearbeiteten Tierkreiszeichen, die einen wichtigen Hinweis auf das damalige Weltverständnis und die Verbindung von Religion und Astronomie liefern.",
+        "maplink": "25.293581,32.556398"
+    },
+    {
         "fullstartdate": "202606302200",
         "date": "20260701",
         "url": "https://www.bing.com/th?id=OHR.NeckarVineyards_DE-DE0300601892_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.GrandPlace_DE-DE1914769137",
         "copyright": "Gebäude am Grand-Place in Brüssel, Belgien (© Vladislav Zolotov/Getty Images Plus)",
         "copyrightKeyword": "Grand-Place Brüssel",
-        "hsh": "89fd269357e9016a4dbbdb4f4fef38f7",
-        "description": "Rund um den Grand-Place in Brüssel, Belgien, entfaltet sich lebendige Geschichte. Prächtige Zunfthäuser säumen den Platz – einst von Brauern, Bäckern und Kaufleuten errichtet, die ihren Wohlstand in Stein, Reliefs und vergoldeten Details sichtbar machten. Gotische Höhen treffen auf barocke Fassaden, während das alte, leicht asymmetrische Rathaus das Ensemble zusammenhält.",
-        "maplink": "50.846851,4.352454"
-    },
-    {
-        "fullstartdate": "202606232200",
-        "date": "20260624",
-        "url": "https://www.bing.com/th?id=OHR.BFPollin_DE-DE1648202484_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BFPollin_DE-DE1648202484",
-        "copyright": "Schmetterling beim Bestäuben einer gelben Blüte (© lzh/Getty Images)",
-        "copyrightKeyword": "Bestäuber Insekten ",
-        "hsh": "1e062d4e7efaddae0db0149e9f0dbee5"
+        "hsh": "89fd269357e9016a4dbbdb4f4fef38f7"
     }
 ]
