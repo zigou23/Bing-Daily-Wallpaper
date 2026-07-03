@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607022200",
+        "date": "20260703",
+        "url": "https://www.bing.com/th?id=OHR.FirefliesJapan_DE-DE4398668270_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FirefliesJapan_DE-DE4398668270",
+        "copyright": "Leuchtende Glühwürmchen über einem Bach, Präfektur Okayama, Japan (© tdub303/Getty Images)",
+        "copyrightKeyword": "Glühwürmchen",
+        "hsh": "6c4d1de547ecd3aa8159e80cf6b4c256",
+        "description": "Wenn sich in der Präfektur Okayama feuchtwarme Abendluft über einem Bach sammelt, beginnen Glühwürmchen – in Japan „hotaru“ genannt – mit ihren Leuchtsignalen und durchziehen die Dunkelheit mit kleinen, schwebenden Lichtpunkten. An windstillen Sommerabenden werden sie oft erst einige Zeit nach Sonnenuntergang aktiv. Ihr Licht entsteht durch eine chemische Reaktion im Hinterleib und dient vor allem der Partnersuche sowie der Verständigung zwischen den Tieren.",
+        "maplink": "34.822845,133.813507"
+    },
+    {
         "fullstartdate": "202607012200",
         "date": "20260702",
         "url": "https://www.bing.com/th?id=OHR.TempleEsna_DE-DE2277338406_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ThamesSummer_DE-DE5848189110",
         "copyright": "Themse, London, England (© Daniel Lange/Getty Images)",
         "copyrightKeyword": "Themse",
-        "hsh": "e36d332fa0c55b33195fa3d161c6ee16",
-        "description": "Entlang der Themse in London entfaltet sich eine der bekanntesten Stadtsilhouetten Europas, geprägt von Geschichte, Bewegung und einem stetigen Rhythmus. Boote gleiten ruhig vorbei, während Brücken das Bild strukturieren und verschiedene Viertel miteinander verbinden. Tagsüber spiegelt das Wasser graue Wolken und gläserne Fassaden, nachts tauchen Lichter alles in ein warmes Leuchten. Besucher und Einheimische folgen oft ihrem Verlauf, entdecken historische Gebäude und genießen die besondere Atmosphäre zwischen Tradition und Moderne. Big Ben und das London Eye prägen diese Ansicht.",
-        "maplink": "51.50382,-0.121258"
-    },
-    {
-        "fullstartdate": "202606242200",
-        "date": "20260625",
-        "url": "https://www.bing.com/th?id=OHR.GrandPlace_DE-DE1914769137_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.GrandPlace_DE-DE1914769137",
-        "copyright": "Gebäude am Grand-Place in Brüssel, Belgien (© Vladislav Zolotov/Getty Images Plus)",
-        "copyrightKeyword": "Grand-Place Brüssel",
-        "hsh": "89fd269357e9016a4dbbdb4f4fef38f7"
+        "hsh": "e36d332fa0c55b33195fa3d161c6ee16"
     }
 ]

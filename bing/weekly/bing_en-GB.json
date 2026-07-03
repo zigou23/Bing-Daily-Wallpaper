@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607022300",
+        "date": "20260703",
+        "url": "https://www.bing.com/th?id=OHR.FirefliesJapan_EN-GB8401520779_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FirefliesJapan_EN-GB8401520779",
+        "copyright": "Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)",
+        "copyrightKeyword": "Firefly insect",
+        "hsh": "73a60d2053816d4a35a0c77bd6c55cb8",
+        "description": "In Okayama Prefecture, when humid air settles over a stream, hotaru—Japan's fireflies—begin signalling. On warm, windless evenings, they often start glowing about two hours after sunset under favourable conditions, inviting silence beside water.",
+        "maplink": "34.822845,133.813507"
+    },
+    {
         "fullstartdate": "202607012300",
         "date": "20260702",
         "url": "https://www.bing.com/th?id=OHR.TempleEsna_EN-GB9683013446_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ThamesSummer_EN-GB9133126004",
         "copyright": "The River Thames, London (© Daniel Lange/Getty Images)",
         "copyrightKeyword": "River Thames",
-        "hsh": "f1b93372c52419e1c442b4aeac786383",
-        "description": "What does a parliament, a clock tower and a giant wheel have in common? They all stand beside the River Thames as if London had carefully staged its icons for dramatic effect.",
-        "maplink": "51.50382,-0.121258"
-    },
-    {
-        "fullstartdate": "202606242300",
-        "date": "20260625",
-        "url": "https://www.bing.com/th?id=OHR.GrandPlace_EN-GB4788838849_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.GrandPlace_EN-GB4788838849",
-        "copyright": "Buildings on Grand-Place Square in Brussels, Belgium (© Vladislav Zolotov/Getty Images Plus)",
-        "copyrightKeyword": "Grand Place Brussels",
-        "hsh": "f4294d14e5ee64645b0e4896a550a70a"
+        "hsh": "f1b93372c52419e1c442b4aeac786383"
     }
 ]

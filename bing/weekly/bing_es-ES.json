@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607022200",
+        "date": "20260703",
+        "url": "https://www.bing.com/th?id=OHR.FirefliesJapan_ES-ES5556389569_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FirefliesJapan_ES-ES5556389569",
+        "copyright": "Luciérnagas brillando sobre un arroyo, prefectura de Okayama, Japón (© tdub303/Getty Images)",
+        "copyrightKeyword": "Luciérnaga insecto",
+        "hsh": "93bd5a54446a1394ba2e3320d156eae0",
+        "description": "En la prefectura de Okayama, en Japón, las luciérnagas —conocidas como hotaru— transforman las noches de verano en un espectáculo silencioso sobre el agua. Cuando el aire húmedo envuelve arroyos y estanques, comienzan a brillar unas horas después del atardecer, creando una coreografía de luz que invita a la calma.",
+        "maplink": "34.822845,133.813507"
+    },
+    {
         "fullstartdate": "202607012200",
         "date": "20260702",
         "url": "https://www.bing.com/th?id=OHR.TempleEsna_ES-ES5295149663_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ThamesSummer_ES-ES8043595451",
         "copyright": "El río Támesis, Londres, Inglaterra (© Daniel Lange/Getty Images)",
         "copyrightKeyword": "Londres ciudad",
-        "hsh": "b76a44a0cda500f8d99c77a23ef26b91",
-        "description": "En Londres, Reino Unido, el río Támesis reúne algunos de los iconos más reconocibles de Europa en una escena casi cinematográfica. A un lado, el Palacio de Westminster—reconstruido tras el incendio de 1834 en estilo neogótico—marca el pulso político del país, mientras la torre Elizabeth guarda en su interior la campana del Big Ben, cuyas horas resuenan desde 1859. Frente a él, la silueta moderna del London Eye aporta una mirada tranquila y elevada sobre la ciudad.",
-        "maplink": "51.50382,-0.121258"
-    },
-    {
-        "fullstartdate": "202606242200",
-        "date": "20260625",
-        "url": "https://www.bing.com/th?id=OHR.GrandPlace_ES-ES0768815464_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.GrandPlace_ES-ES0768815464",
-        "copyright": "Edificios de la Grand Place de Bruselas, Bélgica (© Vladislav Zolotov/Getty Images Plus)",
-        "copyrightKeyword": "Grand Place Bruselas",
-        "hsh": "9280a7aa780d84debf1619811a21bda7"
+        "hsh": "b76a44a0cda500f8d99c77a23ef26b91"
     }
 ]
