@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607032200",
+        "date": "20260704",
+        "url": "https://www.bing.com/th?id=OHR.KaysersbergVillage_DE-DE1031882295_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.KaysersbergVillage_DE-DE1031882295",
+        "copyright": "Kaysersberg, Elsass, Frankreich (© Federica Gentile/Getty Images)",
+        "copyrightKeyword": "Kaysersberg",
+        "hsh": "0ffd73faa8eeb5a7727e4301b48c5559",
+        "description": "Fachwerkhäuser säumen die Ufer der Weiss im elsässischen Kaysersberg in Frankreich. Entlang des schmalen Flusslaufs drängen sich Giebel und Fensterläden dicht aneinander, während sich darüber die bewaldeten Hänge der Vogesen erheben. Das Dorf liegt rund zwölf Kilometer nordwestlich von Colmar und zählt zu den charakteristischen Weinorten der Region.",
+        "maplink": "48.18747,7.215853"
+    },
+    {
         "fullstartdate": "202607022200",
         "date": "20260703",
         "url": "https://www.bing.com/th?id=OHR.FirefliesJapan_DE-DE4398668270_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.Westerheversand_DE-DE9270031466",
         "copyright": "Leuchtturm Westerheversand, Nordsee, Schleswig-Holstein (© bluejayphoto/Getty Images)",
         "copyrightKeyword": "Leuchtturm Westerheversand",
-        "hsh": "2385c7a57c5495634a9ed44b87ef2515",
-        "description": "Mitten in den Salzwiesen von Westerheversand erhebt sich ein Leuchtturm mit markanten rot-weißen Streifen über die weitläufige Küstenlandschaft. Seit mehr als hundert Jahren prägt das Bauwerk die Halbinsel Eiderstedt und dient bis heute als wichtiger Orientierungspunkt für die Schifffahrt. Der zwischen 1906 und 1908 errichtete Leuchtturm zählt zu den bekanntesten Wahrzeichen der nordfriesischen Küste. Das Highlight ist die Aussichtsplattform des rund 41 Meter hohen Turms, die über 157 Stufen erreicht werden kann.",
-        "maplink": "54.373402,8.6399"
-    },
-    {
-        "fullstartdate": "202606252200",
-        "date": "20260626",
-        "url": "https://www.bing.com/th?id=OHR.ThamesSummer_DE-DE5848189110_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ThamesSummer_DE-DE5848189110",
-        "copyright": "Themse, London, England (© Daniel Lange/Getty Images)",
-        "copyrightKeyword": "Themse",
-        "hsh": "e36d332fa0c55b33195fa3d161c6ee16"
+        "hsh": "2385c7a57c5495634a9ed44b87ef2515"
     }
 ]

@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607030400",
+        "date": "20260703",
+        "url": "https://www.bing.com/th?id=OHR.FirefliesJapan_EN-CA2012875414_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FirefliesJapan_EN-CA2012875414",
+        "copyright": "Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)",
+        "copyrightKeyword": "Firefly insect",
+        "hsh": "fbb235e900a59780c33b1079d237b751",
+        "description": "In Okayama Prefecture, when humid air settles over a stream, hotaru—Japan's fireflies—begin signalling. On warm, windless evenings, they often start glowing about two hours after sunset under favourable conditions, inviting silence beside water.",
+        "maplink": "34.822845,133.813507"
+    },
+    {
         "fullstartdate": "202607020400",
         "date": "20260702",
         "url": "https://www.bing.com/th?id=OHR.TempleEsna_EN-CA5880187651_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ThamesSummer_EN-CA4092680642",
         "copyright": "The River Thames, London, England (© Daniel Lange/Getty Images)",
         "copyrightKeyword": "River Thames",
-        "hsh": "db99511c03c94c68bee2c1ecdd917a33",
-        "description": "What does a parliament, a clock tower and a giant wheel have in common? They all stand beside the River Thames as if London had carefully staged its icons for dramatic effect.",
-        "maplink": "51.50382,-0.121258"
-    },
-    {
-        "fullstartdate": "202606250400",
-        "date": "20260625",
-        "url": "https://www.bing.com/th?id=OHR.GrandPlace_EN-CA9367099821_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.GrandPlace_EN-CA9367099821",
-        "copyright": "Buildings on Grand-Place Square in Brussels, Belgium (© Vladislav Zolotov/Getty Images Plus)",
-        "copyrightKeyword": "Grand Place Brussels",
-        "hsh": "545238190c1a31b4b837418d4a2e0ffa"
+        "hsh": "db99511c03c94c68bee2c1ecdd917a33"
     }
 ]

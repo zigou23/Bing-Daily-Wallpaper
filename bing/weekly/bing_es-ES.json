@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202607032200",
+        "date": "20260704",
+        "url": "https://www.bing.com/th?id=OHR.KaysersbergVillage_ES-ES2312486084_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.KaysersbergVillage_ES-ES2312486084",
+        "copyright": "Kaysersberg, Alsacia, Francia (© Federica Gentile/Getty Images)",
+        "copyrightKeyword": "Kaysersberg Francia",
+        "hsh": "6be7a04a871dfda995bcadae101cca32",
+        "description": "Kaysersberg, en Alsacia (Francia), luce su encanto justo cuando el Tour de Francia arranca este mes de julio, llenando de energía esta región del noreste. A unos doce kilómetros de Colmar, este pueblo se extiende junto al río Weiss, entre viñedos y colinas suaves, en un paisaje que combina historia y naturaleza."
+    },
+    {
         "fullstartdate": "202607022200",
         "date": "20260703",
         "url": "https://www.bing.com/th?id=OHR.FirefliesJapan_ES-ES5556389569_1920x1080.jpg",
@@ -70,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BoneyardBeach_ES-ES1143251949",
         "copyright": "Árboles a la deriva en Boneyard Beach, Hunting Island, Carolina del Sur, EE. UU. (© Frances/Adobe Stock)",
         "copyrightKeyword": "carolina del sur",
-        "hsh": "81671e1d91bea5a7c0f63f77620d5a2b",
-        "description": "En Boneyard Beach, en el Parque Estatal Hunting Island (Estados Unidos), los árboles parecen haber quedado congelados en plena transformación, como si el tiempo se hubiera detenido entre la vida y la desaparición. Sus troncos blanqueados y raíces al descubierto cuentan una historia silenciosa de erosión: desde la década de mil novecientos ochenta, el mar avanza aquí con fuerza, devorando hasta nueve metros de costa al año en algunos puntos.",
-        "maplink": "32.40758,-80.445631"
-    },
-    {
-        "fullstartdate": "202606252200",
-        "date": "20260626",
-        "url": "https://www.bing.com/th?id=OHR.ThamesSummer_ES-ES8043595451_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ThamesSummer_ES-ES8043595451",
-        "copyright": "El río Támesis, Londres, Inglaterra (© Daniel Lange/Getty Images)",
-        "copyrightKeyword": "Londres ciudad",
-        "hsh": "b76a44a0cda500f8d99c77a23ef26b91"
+        "hsh": "81671e1d91bea5a7c0f63f77620d5a2b"
     }
 ]

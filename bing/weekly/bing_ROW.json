@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202607030700",
+        "date": "20260703",
+        "url": "https://www.bing.com/th?id=OHR.FirefliesJapan_ROW7733016954_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FirefliesJapan_ROW7733016954",
+        "copyright": "Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)",
+        "copyrightKeyword": "Firefly insect",
+        "hsh": "13669c4cdf1abaae99beb71270df0d1e",
+        "description": "In Okayama Prefecture, when humid air settles over a stream, hotaru—Japan's fireflies—begin signalling. On warm, windless evenings, they often start glowing about two hours after sunset under favourable conditions, inviting silence beside water."
+    },
+    {
         "fullstartdate": "202607020700",
         "date": "20260702",
         "url": "https://www.bing.com/th?id=OHR.TempleEsna_ROW7472405327_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ThamesSummer_ROW5725205310",
         "copyright": "The River Thames, London, England (© Daniel Lange/Getty Images)",
         "copyrightKeyword": "River Thames",
-        "hsh": "19eb0c5ce912c87aa98228a912fed091",
-        "description": "What does a parliament, a clock tower and a giant wheel have in common? They all stand beside the River Thames as if London had carefully staged its icons for dramatic effect."
-    },
-    {
-        "fullstartdate": "202606250700",
-        "date": "20260625",
-        "url": "https://www.bing.com/th?id=OHR.GrandPlace_ROW9942052634_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.GrandPlace_ROW9942052634",
-        "copyright": "Buildings on Grand-Place Square in Brussels, Belgium (© Vladislav Zolotov/Getty Images Plus)",
-        "copyrightKeyword": "Grand Place Brussels",
-        "hsh": "3fe32710c0638622e396c3d9db5019d9"
+        "hsh": "19eb0c5ce912c87aa98228a912fed091"
     }
 ]

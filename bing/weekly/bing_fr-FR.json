@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607032200",
+        "date": "20260704",
+        "url": "https://www.bing.com/th?id=OHR.KaysersbergVillage_FR-FR8479653154_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.KaysersbergVillage_FR-FR8479653154",
+        "copyright": "Kaysersberg, Alsace (© Federica Gentile/Getty Images)",
+        "copyrightKeyword": "Kaysersberg Alsace",
+        "hsh": "194d9c22392893893a11df2c47bdc8d9",
+        "description": "C’est le Grand Départ pour le Tour de France 2026 ! Le parcours s’élance depuis Barcelone, mais au fil des étapes, il traverse de nombreux villages français. Nous avons choisi l’Alsace avec Kaysersberg, niché sur les rives de la Weiss, près de Colmar et au pied des Vosges. Ce bourg historique semble suspendu entre rivière et montagnes.",
+        "maplink": "48.18747,7.215853"
+    },
+    {
         "fullstartdate": "202607022200",
         "date": "20260703",
         "url": "https://www.bing.com/th?id=OHR.FirefliesJapan_FR-FR8593158782_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BoneyardBeach_FR-FR6517949092",
         "copyright": "Bois flotté sur la plage de Beaufort, Hunting Island, Caroline du Sud, États-Unis (© Frances/Adobe Stock)",
         "copyrightKeyword": "île de Hunting",
-        "hsh": "3928a6c975c3f63c85b687b40ca214cb",
-        "description": "Dans le Parc d’État de Hunting Island, en Caroline du Sud, États-Unis, la plage de Beaufort frappe d’abord par ses arbres. Puis une question s’impose : pourquoi ces troncs blanchis et ces racines exposées semblent-ils abandonnés sur le sable, comme figés dans un paysage en ruine ?",
-        "maplink": "32.40758,-80.445631"
-    },
-    {
-        "fullstartdate": "202606252200",
-        "date": "20260626",
-        "url": "https://www.bing.com/th?id=OHR.ThamesSummer_FR-FR5709336854_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ThamesSummer_FR-FR5709336854",
-        "copyright": "La Tamise, Londres, Angleterre (© Daniel Lange/Getty Images)",
-        "copyrightKeyword": "Fleuve Tamise",
-        "hsh": "41a7afc1bfdb3517d78a9a82516be7bd"
+        "hsh": "3928a6c975c3f63c85b687b40ca214cb"
     }
 ]
