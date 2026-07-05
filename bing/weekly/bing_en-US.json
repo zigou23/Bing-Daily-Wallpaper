@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202607040700",
+        "date": "20260704",
+        "url": "https://www.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LibertyHall_EN-US2562041614",
+        "copyright": "Liberty Bell and Independence Hall, Independence National Historical Park, Philadelphia, Pennsylvania (© f11photo/Shutterstock)",
+        "copyrightKeyword": "Fourth of July",
+        "hsh": "2305647bd26b9ac3970297aaa8dc4d10",
+        "description": "Today, the United States marks 250 years since the adoption of the Declaration of Independence—a milestone known as the 'semiquincentennial.' This anniversary commemorates 1776, when the Declaration articulated the idea that a nation could be defined by shared principles rather than inherited rule. Two and a half centuries later, this date is marked not only as an anniversary but also as an opportunity to reflect on the nation's long and evolving story."
+    },
+    {
         "fullstartdate": "202607030700",
         "date": "20260703",
         "url": "https://www.bing.com/th?id=OHR.FirefliesJapan_EN-US2315956275_1920x1080.jpg",
@@ -72,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BoneyardBeach_EN-US8247496696",
         "copyright": "Driftwood on Boneyard Beach, Hunting Island, South Carolina (© Frances/Adobe Stock)",
         "copyrightKeyword": "Hunting Island",
-        "hsh": "0efeebaf1356a2176a28bf4308f49281",
-        "description": "At Boneyard Beach within Hunting Island State Park, South Carolina, the first thing you notice is the trees. Then comes the question: why are bleached trunks and exposed roots scattered across the sand like a scene paused midway through collapse? Since the 1980s, Hunting Island has experienced major beach erosion, with some of the highest rates along the US East Coast—reaching up to 30 feet per year in certain areas.",
-        "maplink": "32.40758,-80.445631"
-    },
-    {
-        "fullstartdate": "202606260700",
-        "date": "20260626",
-        "url": "https://www.bing.com/th?id=OHR.ThamesSummer_EN-US6783349970_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ThamesSummer_EN-US6783349970",
-        "copyright": "The River Thames, London, England (© Daniel Lange/Getty Images)",
-        "copyrightKeyword": "River Thames",
-        "hsh": "d06b3160ab48ed831fa5c5fe42786459"
+        "hsh": "0efeebaf1356a2176a28bf4308f49281"
     }
 ]

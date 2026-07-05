@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607040400",
+        "date": "20260704",
+        "url": "https://www.bing.com/th?id=OHR.KaysersbergVillage_FR-CA9380377957_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.KaysersbergVillage_FR-CA9380377957",
+        "copyright": "Kaysersberg, Alsace, France (© Federica Gentile/Getty Images)",
+        "copyrightKeyword": "Kaysersberg Alsace",
+        "hsh": "4fbcd96f5b820bc1fed0e0038804d35c",
+        "description": "C’est à nouveau le début du Tour de France, qui offre l’occasion de découvrir en images ses villages pittoresques. Aujourd’hui nous avons choisi le nord-est de la France et le village alsacien de Kaysersberg. Situé sur les rives de la Weiss, près de Colmar et au pied des Vosges, ce village historique se distingue par son cadre entre rivière et montagnes.",
+        "maplink": "48.18747,7.215853"
+    },
+    {
         "fullstartdate": "202607030400",
         "date": "20260703",
         "url": "https://www.bing.com/th?id=OHR.FirefliesJapan_FR-CA0747909662_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MulticulturalismDY_FR-CA8766350441",
         "copyright": "Ciel spectaculaire sur Montréal, Québec (© d3sign/Getty Images)",
         "copyrightKeyword": "Journée canadienne du multiculturalisme",
-        "hsh": "6709741ef76abcc0d7d656675f6309d9",
-        "description": "Imaginez une douce soirée de juin à Montréal. Autour de vous, les conversations passent du français à l’anglais, puis au mandarin, au tagalog et à bien d’autres langues. Des familles partagent des mets traditionnels, des musiciens célèbrent leurs héritages culturels et des enfants découvrent des récits transmis de génération en génération. Cette diversité illustre l’esprit de la Journée canadienne du multiculturalisme.",
-        "maplink": "45.681911,-73.753899"
-    },
-    {
-        "fullstartdate": "202606260400",
-        "date": "20260626",
-        "url": "https://www.bing.com/th?id=OHR.ThamesSummer_FR-CA7345424379_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ThamesSummer_FR-CA7345424379",
-        "copyright": "La Tamise, Londres, Angleterre (© Daniel Lange/Getty Images)",
-        "copyrightKeyword": "Fleuve Tamise",
-        "hsh": "3d11cc2a1565eb80481c666fbb49ec09"
+        "hsh": "6709741ef76abcc0d7d656675f6309d9"
     }
 ]

@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202607040700",
+        "date": "20260704",
+        "url": "https://www.bing.com/th?id=OHR.KaysersbergVillage_ROW7990431342_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.KaysersbergVillage_ROW7990431342",
+        "copyright": "Kaysersberg, Alsace, France (© Federica Gentile/Getty Images)",
+        "copyrightKeyword": "Kaysersberg",
+        "hsh": "e293d3c10ba54d74bebedf5feda6222f",
+        "description": "Tucked between vineyards and mountains, Kaysersberg is one of Alsace's most enchanting villages. Set along the Weiss River in northeastern France, it lies about 12 kilometres northwest of Colmar on the eastern slopes of the Vosges Mountains."
+    },
+    {
         "fullstartdate": "202607030700",
         "date": "20260703",
         "url": "https://www.bing.com/th?id=OHR.FirefliesJapan_ROW7733016954_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BoneyardBeach_ROW5980184079",
         "copyright": "Driftwood on Boneyard Beach, Hunting Island, South Carolina, USA (© Frances/Adobe Stock)",
         "copyrightKeyword": "Hunting Island",
-        "hsh": "defa3388c54ae6215a2595033cc72ae9",
-        "description": "At Boneyard Beach within Hunting Island State Park, South Carolina, United States, the first thing you notice is the trees. Then comes the question: why are bleached trunks and exposed roots scattered across the sand like a scene paused midway through collapse? Since the 1980s, Hunting Island has experienced major beach erosion, with some of the highest rates along the US East Coast—reaching up to 9 metres per year in certain areas."
-    },
-    {
-        "fullstartdate": "202606260700",
-        "date": "20260626",
-        "url": "https://www.bing.com/th?id=OHR.ThamesSummer_ROW5725205310_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ThamesSummer_ROW5725205310",
-        "copyright": "The River Thames, London, England (© Daniel Lange/Getty Images)",
-        "copyrightKeyword": "River Thames",
-        "hsh": "19eb0c5ce912c87aa98228a912fed091"
+        "hsh": "defa3388c54ae6215a2595033cc72ae9"
     }
 ]

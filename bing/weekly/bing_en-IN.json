@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607041830",
+        "date": "20260705",
+        "url": "https://www.bing.com/th?id=OHR.LavenderRows_EN-IN4483122586_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LavenderRows_EN-IN4483122586",
+        "copyright": "Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)",
+        "copyrightKeyword": "Lavandula",
+        "hsh": "0ee588aa468478b3ff94af02b86b7c4c",
+        "description": "In southeastern France, on the Valensole Plateau, summer arrives in waves of purple and blue. Valensole—one of the largest plateaus in the region—lies in the Verdon Regional Natural Park between the Durance and Asse valleys, near the Gorges du Verdon and its lakes. From mid-June to early July, depending on altitude and weather, lavender and lavandin bloom and transform the landscape into one of Provence's most recognisable sights. The air carries a sharp, dry and unmistakably Mediterranean scent.",
+        "maplink": "43.857636,5.974437"
+    },
+    {
         "fullstartdate": "202607031830",
         "date": "20260704",
         "url": "https://www.bing.com/th?id=OHR.KaysersbergVillage_EN-IN4147544931_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SaguaroSun_EN-IN9141839272",
         "copyright": "Saguaro cacti near Windgate Pass, McDowell Range, Arizona, United States (© Eric Mischke/Getty Images)",
         "copyrightKeyword": "Saguaro cactus",
-        "hsh": "3d4c1e44bd3ec9cc1f7c03f8045a3bf6",
-        "description": "'Stick around' takes on a new meaning in the Sonoran Desert, where the saguaro cactus has mastered survival. With trunks and arms raised in all directions, this giant has become the American Southwest's mascot.",
-        "maplink": "33.796104,-111.810696"
-    },
-    {
-        "fullstartdate": "202606261830",
-        "date": "20260627",
-        "url": "https://www.bing.com/th?id=OHR.BoneyardBeach_EN-IN2656634065_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BoneyardBeach_EN-IN2656634065",
-        "copyright": "Driftwood on Boneyard Beach, Hunting Island, South Carolina, United States (© Frances/Adobe Stock)",
-        "copyrightKeyword": "Hunting Island",
-        "hsh": "de153961f8b4f088eeefc46fabf4bc6c"
+        "hsh": "3d4c1e44bd3ec9cc1f7c03f8045a3bf6"
     }
 ]

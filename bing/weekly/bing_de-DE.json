@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607042200",
+        "date": "20260705",
+        "url": "https://www.bing.com/th?id=OHR.LavenderRows_DE-DE5950929230_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LavenderRows_DE-DE5950929230",
+        "copyright": "Lavendelfelder, Plateau de Valensole, Provence, Frankreich (© Robert Harding/Shutterstock)",
+        "copyrightKeyword": "Lavendel",
+        "hsh": "8e26d949a0a42db2296f82cfa8a4f1a3",
+        "description": "Wenn der Sommer die Provence erreicht, verwandelt sich das Plateau de Valensole in ein weites Meer aus violetten und blauen Tönen. Zwischen den Tälern von Verdon, Durance und Asse ziehen sich Lavendelfelder in sanften Reihen über die Hochebene und formen eine der bekanntesten Landschaften Südfrankreichs.",
+        "maplink": "43.857636,5.974437"
+    },
+    {
         "fullstartdate": "202607032200",
         "date": "20260704",
         "url": "https://www.bing.com/th?id=OHR.KaysersbergVillage_DE-DE1031882295_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SaguaroSun_DE-DE9702644922",
         "copyright": "Saguaro-Kakteen nahe dem Windgate Pass, McDowell Range, Arizona, USA (© Eric Mischke/Getty Images)",
         "copyrightKeyword": "Saguaro-Kaktus",
-        "hsh": "bdaf1c08758ab1d15b94bf2d388e1dc5",
-        "description": "Nahe dem Windgate Pass in der McDowell Range ragen Saguaro-Kakteen wie stille Wächter in den Himmel der Sonora-Wüste. Ihre mächtigen Stämme und ausladenden Arme zeichnen markante Silhouetten im warmen Licht Arizonas, USA. Bei Sonnenaufgang färbt sich die Landschaft in goldene und rötliche Töne, die ihre Formen noch eindrucksvoller wirken lassen. Trotz der scheinbaren Starre steckt in ihnen ein erstaunliches Leben, das sich perfekt an Hitze, Trockenheit und seltene Regenfälle angepasst hat.",
-        "maplink": "33.796104,-111.810696"
-    },
-    {
-        "fullstartdate": "202606262200",
-        "date": "20260627",
-        "url": "https://www.bing.com/th?id=OHR.Westerheversand_DE-DE9270031466_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.Westerheversand_DE-DE9270031466",
-        "copyright": "Leuchtturm Westerheversand, Nordsee, Schleswig-Holstein (© bluejayphoto/Getty Images)",
-        "copyrightKeyword": "Leuchtturm Westerheversand",
-        "hsh": "2385c7a57c5495634a9ed44b87ef2515"
+        "hsh": "bdaf1c08758ab1d15b94bf2d388e1dc5"
     }
 ]

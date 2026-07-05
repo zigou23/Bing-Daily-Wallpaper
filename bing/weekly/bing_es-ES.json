@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607042200",
+        "date": "20260705",
+        "url": "https://www.bing.com/th?id=OHR.LavenderRows_ES-ES6518419327_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LavenderRows_ES-ES6518419327",
+        "copyright": "Plantaciones de lavanda, Plateau de Valensole, Provenza, Francia (© Robert Harding/Shutterstock)",
+        "copyrightKeyword": "Lavanda",
+        "hsh": "808642c7c954c13b5bb4d5d83d2b659b",
+        "description": "La meseta de Valensole, en el sureste de Francia, se transforma cada verano en un mar ondulante de lavanda que tiñe el paisaje de púrpura y azul. Entre mediados de junio y principios de julio, sus campos en flor, situados entre los valles del Durance y del Asse y cerca de las Gargantas del Verdon, ofrecen una de las estampas más reconocibles de la Provenza, acompañada de un aroma seco e intensamente mediterráneo.",
+        "maplink": "43.857636,5.974437"
+    },
+    {
         "fullstartdate": "202607032200",
         "date": "20260704",
         "url": "https://www.bing.com/th?id=OHR.KaysersbergVillage_ES-ES2312486084_1920x1080.jpg",
@@ -70,16 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PrideChueca_ES-ES4043385731",
         "copyright": "Chueca, Madrid, España (© MarioMonte/Getty Images)",
         "copyrightKeyword": "Día Internacional del Orgullo",
-        "hsh": "e412fa28f11d2fe7afaa622fede1b990",
-        "description": "Chueca, en Madrid, se llena de color cada verano cuando la bandera del orgullo ondea entre balcones y calles, marcando el inicio de una de las celebraciones más vibrantes de Europa. Durante estos días, el barrio se transforma en un escenario abierto donde música, cultura y reivindicación conviven, reflejando el espíritu diverso y acogedor de la ciudad."
-    },
-    {
-        "fullstartdate": "202606262200",
-        "date": "20260627",
-        "url": "https://www.bing.com/th?id=OHR.BoneyardBeach_ES-ES1143251949_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BoneyardBeach_ES-ES1143251949",
-        "copyright": "Árboles a la deriva en Boneyard Beach, Hunting Island, Carolina del Sur, EE. UU. (© Frances/Adobe Stock)",
-        "copyrightKeyword": "carolina del sur",
-        "hsh": "81671e1d91bea5a7c0f63f77620d5a2b"
+        "hsh": "e412fa28f11d2fe7afaa622fede1b990"
     }
 ]
