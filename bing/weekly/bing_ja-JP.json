@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607051500",
+        "date": "20260706",
+        "url": "https://www.bing.com/th?id=OHR.SyracuseItaly_JA-JP9524720514_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SyracuseItaly_JA-JP9524720514",
+        "copyright": "シラクサ, イタリア (© Balate Dorin/Getty Images)",
+        "copyrightKeyword": "シラクサ",
+        "hsh": "c9c1e82263a3bb4eb6219f3eab132563",
+        "description": "ここは、イタリア・シチリア島にある都市シラクサです。紀元前 734 年頃、ギリシャのコリントスから来た人々によって築かれ、古代地中海世界を代表する大都市の一つへと発展しました。古代ギリシャの数学者、アルキメデスの生誕地としても知られ、歴史的な遺跡をはじめ、多くの見どころがあります。2005年には、市内と周辺の遺跡が「シラクサとパンターリカの岩壁墓地遺跡」の名でユネスコの世界遺産に登録されました。",
+        "maplink": "37.067122,15.285311"
+    },
+    {
         "fullstartdate": "202607041500",
         "date": "20260705",
         "url": "https://www.bing.com/th?id=OHR.LavenderRows_JA-JP9275300496_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BoraBoraLagoon_JA-JP3981162879",
         "copyright": "ボラボラ島, フランス領ポリネシア (© Frederick Millett/Shutterstock)",
         "copyrightKeyword": "国際熱帯デー",
-        "hsh": "e8d4b8c3914490b5720111918ca064e9",
-        "description": "今日 6 月 29 日は国際熱帯デー。熱帯とは、赤道を中心に南北回帰線に挟まれた年中温暖な地域を指します。世界人口の約 40% が暮らし、地球上の生物種の約 80% が生息する重要な場所です。そして、画像は赤道近くに位置するフランス領ポリネシアにあるボラボラ島。島の中央にはオテマヌ山とパヒア山といった玄武岩の峰々がそびえています。周囲を取り囲むサンゴ礁の内側には穏やかなターコイズ色のラグーンが広がり、その美しさから「太平洋の真珠」とも称されています。",
-        "maplink": "-16.498926,-151.73819"
-    },
-    {
-        "fullstartdate": "202606271500",
-        "date": "20260628",
-        "url": "https://www.bing.com/th?id=OHR.SaguaroSun_JA-JP5856249761_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SaguaroSun_JA-JP5856249761",
-        "copyright": "ウィンドゲートパス, 米国 アリゾナ州 (© Eric Mischke/Getty Images)",
-        "copyrightKeyword": "Windgate Pass",
-        "hsh": "06fb36009f8e5faef4fde247f80cc872"
+        "hsh": "e8d4b8c3914490b5720111918ca064e9"
     }
 ]

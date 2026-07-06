@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607050400",
+        "date": "20260705",
+        "url": "https://www.bing.com/th?id=OHR.LavenderRows_EN-CA8245005019_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LavenderRows_EN-CA8245005019",
+        "copyright": "Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)",
+        "copyrightKeyword": "Lavandula",
+        "hsh": "7454aaa1756fac9f6308083b8c621641",
+        "description": "In southeastern France, on the Valensole Plateau, summer arrives in waves of purple and blue. Valensole—one of the largest plateaus in the region—lies in the Verdon Regional Natural Park between the Durance and Asse valleys, near the Gorges du Verdon and its lakes. From mid-June to early July, depending on altitude and weather, lavender and lavandin bloom and transform the landscape into one of Provence's most recognisable sights. The air carries a sharp, dry and unmistakably Mediterranean scent.",
+        "maplink": "43.857636,5.974437"
+    },
+    {
         "fullstartdate": "202607040400",
         "date": "20260704",
         "url": "https://www.bing.com/th?id=OHR.KaysersbergVillage_EN-CA0905183627_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SaguaroSun_EN-CA5131430817",
         "copyright": "Saguaro cacti near Windgate Pass, McDowell Range, Arizona, United States (© Eric Mischke/Getty Images)",
         "copyrightKeyword": "Saguaro cactus",
-        "hsh": "59851e93394d24882cab3616bc12a8f3",
-        "description": "'Stick around' takes on a new meaning in the Sonoran Desert, where the saguaro cactus has mastered survival. With trunks and arms raised in all directions, this giant has become the American Southwest's mascot.",
-        "maplink": "33.796104,-111.810696"
-    },
-    {
-        "fullstartdate": "202606270400",
-        "date": "20260627",
-        "url": "https://www.bing.com/th?id=OHR.MulticulturalismDY_EN-CA9116110353_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MulticulturalismDY_EN-CA9116110353",
-        "copyright": "Dramatic sky over Montreal, Quebec (© d3sign/Getty Images)",
-        "copyrightKeyword": "Multiculturalism Day Canada",
-        "hsh": "4cef6c4b235657ed3dcf512edf4daf68"
+        "hsh": "59851e93394d24882cab3616bc12a8f3"
     }
 ]

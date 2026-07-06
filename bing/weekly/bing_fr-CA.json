@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607050400",
+        "date": "20260705",
+        "url": "https://www.bing.com/th?id=OHR.LavenderRows_FR-CA1074632710_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LavenderRows_FR-CA1074632710",
+        "copyright": "Champs de lavande, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)",
+        "copyrightKeyword": "Lavande",
+        "hsh": "64b0a8b5f8690cdaa8cc0f3c02558553",
+        "description": "Au cœur de la Provence, dans le sud-est de la France, le plateau de Valensole se couvre chaque été de vastes étendues violettes. Situé dans le Parc naturel régional du Verdon, près des célèbres gorges du Verdon, il offre entre mi-juin et début juillet un spectacle naturel qui attire des visiteurs du monde entier.",
+        "maplink": "43.857636,5.974437"
+    },
+    {
         "fullstartdate": "202607040400",
         "date": "20260704",
         "url": "https://www.bing.com/th?id=OHR.KaysersbergVillage_FR-CA9380377957_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SaguaroSun_FR-CA9343833672",
         "copyright": "Cactus saguaro près de Windgate Pass, chaîne des McDowell, Arizona, États‑Unis (© Eric Mischke/Getty Images)",
         "copyrightKeyword": "cactus Saguaro",
-        "hsh": "c9c09fe90a7fc69c0e3b92c965980376",
-        "description": "L’expression « rester dans les parages » prend un tout autre sens dans le désert de Sonora aux États-Unis, où le saguaro s’est imposé comme symbole grâce à sa longévité. Avec ses troncs et ses bras dressés dans toutes les directions, ce cactus géant incarne le Sud-Ouest américain.",
-        "maplink": "33.796104,-111.810696"
-    },
-    {
-        "fullstartdate": "202606270400",
-        "date": "20260627",
-        "url": "https://www.bing.com/th?id=OHR.MulticulturalismDY_FR-CA8766350441_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MulticulturalismDY_FR-CA8766350441",
-        "copyright": "Ciel spectaculaire sur Montréal, Québec (© d3sign/Getty Images)",
-        "copyrightKeyword": "Journée canadienne du multiculturalisme",
-        "hsh": "6709741ef76abcc0d7d656675f6309d9"
+        "hsh": "c9c09fe90a7fc69c0e3b92c965980376"
     }
 ]

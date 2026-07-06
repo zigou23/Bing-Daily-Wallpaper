@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607052200",
+        "date": "20260706",
+        "url": "https://www.bing.com/th?id=OHR.SyracuseItaly_ES-ES6910557655_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SyracuseItaly_ES-ES6910557655",
+        "copyright": "Siracusa al atardecer, Sicilia, Italia (© Balate Dorin/Getty Images)",
+        "copyrightKeyword": "Siracusa",
+        "hsh": "07a8eeaaca71af9c66f1acb7f0eec46c",
+        "description": "Al caer la tarde en Siracusa, el sol desciende sobre el mar Jónico y la ciudad se envuelve en una luz suave que realza su pasado milenario. Fundada por colonos griegos de Corinto en el siglo VIII antes de nuestra era, la ciudad creció hasta convertirse en una potencia del Mediterráneo antiguo. Hoy forma parte del conjunto Patrimonio Mundial de la UNESCO junto con la necrópolis rupestre de Pantalica y conserva una identidad marcada por la ciencia, el pensamiento y la historia.",
+        "maplink": "37.067122,15.285311"
+    },
+    {
         "fullstartdate": "202607042200",
         "date": "20260705",
         "url": "https://www.bing.com/th?id=OHR.LavenderRows_ES-ES6518419327_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BoraBoraLagoon_ES-ES4364920301",
         "copyright": "Bora Bora y su laguna, Pacífico Sur, Polinesia Francesa (© Frederick Millett/Shutterstock)",
         "copyrightKeyword": "Bora Bora Atolón",
-        "hsh": "ca7020559c458b61f67fc9f4363702ea",
-        "description": "Bora Bora, en la Polinesia Francesa, ofrece una ventana fascinante a las regiones tropicales, protagonistas del Día Internacional de los Trópicos celebrado cada veintinueve de junio. Estas zonas del planeta, definidas por su clima cálido y húmedo, ocupan cerca del 40 % de la superficie terrestre y concentran alrededor del 80 % de la biodiversidad mundial, lo que las convierte en un pilar esencial para el equilibrio global.",
-        "maplink": "-16.498926,-151.73819"
-    },
-    {
-        "fullstartdate": "202606272200",
-        "date": "20260628",
-        "url": "https://www.bing.com/th?id=OHR.PrideChueca_ES-ES4043385731_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PrideChueca_ES-ES4043385731",
-        "copyright": "Chueca, Madrid, España (© MarioMonte/Getty Images)",
-        "copyrightKeyword": "Día Internacional del Orgullo",
-        "hsh": "e412fa28f11d2fe7afaa622fede1b990"
+        "hsh": "ca7020559c458b61f67fc9f4363702ea"
     }
 ]
