@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607072200",
+        "date": "20260708",
+        "url": "https://www.bing.com/th?id=OHR.LakeAtitlan_DE-DE9365650175_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LakeAtitlan_DE-DE9365650175",
+        "copyright": "Sonnenaufgang am Atitlán-See, Guatemala (© shayes17/Getty Images)",
+        "copyrightKeyword": "Lago de Atitlán Guatemala",
+        "hsh": "46fd509611144cbcb25e46782ac7fa97",
+        "description": "Im guatemaltekischen Hochland liegt der Atitlán-See, eingebettet in eine weite vulkanische Caldera. Tiefblaues Wasser trifft hier auf steile Hänge und die markanten Vulkane Atitlán, Tolimán und San Pedro. In den frühen Morgenstunden entfaltet der Sonnenaufgang eine besondere Stimmung. Das Licht legt sich sanft über die ruhige Oberfläche und betont den Kontrast zwischen Stille und den dramatischen Formen. Zarte Farben spiegeln sich im Wasser und verleihen der Szenerie eine fast unwirkliche Ruhe.",
+        "maplink": "14.702858,-91.194628"
+    },
+    {
         "fullstartdate": "202607062200",
         "date": "20260707",
         "url": "https://www.bing.com/th?id=OHR.MountainToucanOrchids_DE-DE0710570038_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.NeckarVineyards_DE-DE0300601892",
         "copyright": "Sonnenuntergang über den Weinbergen von Steinhaldenfeld im Neckartal bei Stuttgart, Baden-Württemberg (© Cyril Gosselin/Getty Images)",
         "copyrightKeyword": "Stuttgart Neckar",
-        "hsh": "7866e38cb7aeebcbdd4e2ea78e02a61e",
-        "description": "Oberhalb des Neckars bei Stuttgart ziehen sich terrassierte Weinberge die Hänge hinauf und prägen eine der charakteristischsten Kulturlandschaften des Neckartals. Beim Blick über den Fluss zeichnen sich die markanten Linien der Rebreihen und Trockenmauern ab. Sie schmiegen sich harmonisch an die Hänge und werden vielerorts noch in aufwendiger Handarbeit von den sogenannten Wengertern gepflegt. Das milde Klima begünstigt traditionelle Rebsorten wie Trollinger und Riesling, die bis heute eng mit der Weinbaugeschichte Württembergs verbunden sind.",
-        "maplink": "48.828049,9.232"
-    },
-    {
-        "fullstartdate": "202606292200",
-        "date": "20260630",
-        "url": "https://www.bing.com/th?id=OHR.MasaiGiraffe_DE-DE5053384610_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MasaiGiraffe_DE-DE5053384610",
-        "copyright": "Giraffen bei Sonnenuntergang im Masai-Mara-Nationalreservat, Kenia (© danm/Getty Images)",
-        "copyrightKeyword": "Masai Mara Nationalreservat",
-        "hsh": "d1943c54217a41091adc8d6f4632797c"
+        "hsh": "7866e38cb7aeebcbdd4e2ea78e02a61e"
     }
 ]

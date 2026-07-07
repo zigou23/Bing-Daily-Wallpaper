@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607072200",
+        "date": "20260708",
+        "url": "https://www.bing.com/th?id=OHR.LakeAtitlan_IT-IT2695003451_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LakeAtitlan_IT-IT2695003451",
+        "copyright": "Lago Atitlán, Guatemala (© shayes17/Getty Images)",
+        "copyrightKeyword": "Lago Atitlán",
+        "hsh": "b3817e82759fbb99cc3cd6d232f97002",
+        "description": "Il lago di Atitlán riempie una spettacolare caldera vulcanica negli altopiani occidentali del Guatemala. Le sue acque blu intenso sono circondate da ripide pareti crateriche e dai vulcani Atitlán, Tolimán e San Pedro, in un paesaggio che alterna quiete assoluta e origine esplosiva. Formatosi circa 84.000 anni fa dopo una violenta eruzione, è considerato il lago più profondo dell’America Centrale, con profondità che raggiungono circa 335 metri. Le pareti della caldera lo racchiudono come un anfiteatro naturale scolpito dal fuoco.",
+        "maplink": "14.702858,-91.194628"
+    },
+    {
         "fullstartdate": "202607062200",
         "date": "20260707",
         "url": "https://www.bing.com/th?id=OHR.MountainToucanOrchids_IT-IT8965138427_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DungeonPark_IT-IT0964634478",
         "copyright": "Parco provinciale di Dungeon, Terranova e Labrador, Canada (© Kaitlyn McLachlan/Getty Images)",
         "copyrightKeyword": "Festa del Canada",
-        "hsh": "e2d52014bb5a9fe32f7a7a7e9637ca80",
-        "description": "Nel Parco provinciale di Dungeon a Terranova e Labrador, la costa si apre su uno spettacolo naturale che sorprende a ogni sguardo. Tra scogliere scolpite dal vento e onde instancabili, emerge un affascinante geyser marino (blowhole): una cavità verticale che collega il mare alla superficie della roccia. Quando l’oceano si agita, l’acqua viene compressa all’interno di una grotta e risale con forza lungo questa «canna naturale», esplodendo verso l’alto in getti spettacolari accompagnati da un suono profondo e potente.",
-        "maplink": "48.666842,-53.084148"
-    },
-    {
-        "fullstartdate": "202606292200",
-        "date": "20260630",
-        "url": "https://www.bing.com/th?id=OHR.MasaiGiraffe_IT-IT8100161271_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MasaiGiraffe_IT-IT8100161271",
-        "copyright": "Giraffe al tramonto nella Riserva Nazionale Masai Mara, Kenya (© danm/Getty Images)",
-        "copyrightKeyword": "Masai Mara",
-        "hsh": "8a75c4027363926fe17a931f65830717"
+        "hsh": "e2d52014bb5a9fe32f7a7a7e9637ca80"
     }
 ]

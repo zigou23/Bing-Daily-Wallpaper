@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607072300",
+        "date": "20260708",
+        "url": "https://www.bing.com/th?id=OHR.LakeAtitlan_EN-GB6255247922_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LakeAtitlan_EN-GB6255247922",
+        "copyright": "Lake Atitlán, Guatemala (© shayes17/Getty Images)",
+        "copyrightKeyword": "Lake Atitlan Guatemala",
+        "hsh": "e10c0c2860fd785deb24f5a4e329703e",
+        "description": "Set in Guatemala's western highlands, Lake Atitlán fills a vast volcanic caldera. Its deep blue waters are framed by steep crater walls and the cone-shaped volcanoes Atitlán, Tolimán and San Pedro. Wooden piers stretch into the still lake, emphasising the contrast between its calm surface and the rugged terrain shaped by volcanic activity.",
+        "maplink": "14.702858,-91.194628"
+    },
+    {
         "fullstartdate": "202607062300",
         "date": "20260707",
         "url": "https://www.bing.com/th?id=OHR.MountainToucanOrchids_EN-GB2911291133_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.KaysersbergVillage_EN-GB9678795742",
         "copyright": "Kaysersberg, Alsace, France (© Federica Gentile/Getty Images)",
         "copyrightKeyword": "Kaysersberg Alsace",
-        "hsh": "fd50412107c993e32408298b7037c66f",
-        "description": "Set along the Weiss River, about 7 miles northwest of Colmar, the village of Kaysersberg, in the Alsace region of France, rests on the eastern slopes of the Vosges Mountains. This historic settlement combines medieval charm with a rich architectural heritage.",
-        "maplink": "48.18747,7.215853"
-    },
-    {
-        "fullstartdate": "202606292300",
-        "date": "20260630",
-        "url": "https://www.bing.com/th?id=OHR.MasaiGiraffe_EN-GB8702520320_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MasaiGiraffe_EN-GB8702520320",
-        "copyright": "Giraffes in the Masai Mara National Reserve, Kenya (© danm/Getty Images)",
-        "copyrightKeyword": "Masai Mara National Reserve",
-        "hsh": "51bd86d52a50a017431f62f1950882b2"
+        "hsh": "fd50412107c993e32408298b7037c66f"
     }
 ]

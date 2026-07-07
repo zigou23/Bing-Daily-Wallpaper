@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607071830",
+        "date": "20260708",
+        "url": "https://www.bing.com/th?id=OHR.LakeAtitlan_EN-IN1783282765_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LakeAtitlan_EN-IN1783282765",
+        "copyright": "Lake Atitlán, Guatemala (© shayes17/Getty Images)",
+        "copyrightKeyword": "Lake Atitlan Guatemala",
+        "hsh": "ef21729cda16f50bc8316e28b0a99f0d",
+        "description": "Set in Guatemala's western highlands, Lake Atitlán fills a vast volcanic caldera. Its deep blue waters are framed by steep crater walls and the cone-shaped volcanoes Atitlán, Tolimán and San Pedro. Wooden piers stretch into the still lake, emphasising the contrast between its calm surface and the rugged terrain shaped by volcanic activity.",
+        "maplink": "14.702858,-91.194628"
+    },
+    {
         "fullstartdate": "202607061830",
         "date": "20260707",
         "url": "https://www.bing.com/th?id=OHR.MountainToucanOrchids_EN-IN1662413935_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.JogFalls2026_EN-IN2533705121",
         "copyright": "Jog Falls on the Sharavathi River, Shivamogga district, Karnataka (© Amith Nag Photography/Moment/Getty Images)",
         "copyrightKeyword": "Jog Falls",
-        "hsh": "b7f94888ce8def0e991988bb01394844",
-        "description": "Most rivers spend their lives flowing around obstacles. The Sharavathi River reaches the edge of a cliff and simply jumps. At Jog Falls in Karnataka, the river plunges 253 metres, making it the third-highest waterfall in India.",
-        "maplink": "14.228129,74.810677"
-    },
-    {
-        "fullstartdate": "202606291830",
-        "date": "20260630",
-        "url": "https://www.bing.com/th?id=OHR.MasaiGiraffe_EN-IN0088128873_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MasaiGiraffe_EN-IN0088128873",
-        "copyright": "Giraffes at sunset in the Masai Mara National Reserve, Kenya (© danm/Getty Images)",
-        "copyrightKeyword": "Masai Mara National Reserve",
-        "hsh": "84ba200e8aff1ca6426dcac9a7c3a73a"
+        "hsh": "b7f94888ce8def0e991988bb01394844"
     }
 ]
