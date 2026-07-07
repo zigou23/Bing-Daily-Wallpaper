@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202607060700",
+        "date": "20260706",
+        "url": "https://www.bing.com/th?id=OHR.SyracuseItaly_ROW8772538423_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SyracuseItaly_ROW8772538423",
+        "copyright": "Syracuse at sunset, Sicily, Italy (© Balate Dorin/Getty Images)",
+        "copyrightKeyword": "Syracuse Sicily",
+        "hsh": "6bcf61216a57b43c709a134948c5674f",
+        "description": "Founded by Greek settlers from Corinth around 734 BCE, the Italian city of Syracuse, on the island of Sicily, grew into one of the ancient Mediterranean's great powers and is now part of a UNESCO World Heritage Site, 'Syracuse and the Rocky Necropolis of Pantalica.' It is forever linked to Archimedes, whose genius still shapes its identity, and to Plato, who came to Syracuse hoping philosophy might shape political life. That layered past still feels tangible at Castello Maniace, a seafront fortress built for Holy Roman Emperor Frederick II in the 13th century, which can still be admired today."
+    },
+    {
         "fullstartdate": "202607050700",
         "date": "20260705",
         "url": "https://www.bing.com/th?id=OHR.LavenderRows_ROW8253115987_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BoraBoraLagoon_ROW6505126632",
         "copyright": "Bora Bora and its lagoon, South Pacific, French Polynesia (© Frederick Millett/Shutterstock)",
         "copyrightKeyword": "Bora Bora",
-        "hsh": "b37893f43e89c13043c08a023d68e284",
-        "description": "Beyond its postcard views, Bora Bora has a deeper story to tell. Its lagoon reflects how tropical islands evolve over time. Surrounded by shades of turquoise, this island in French Polynesia is home to one of the South Pacific's most celebrated lagoons, where coral reefs, volcanic peaks and ocean life exist side by side."
-    },
-    {
-        "fullstartdate": "202606280700",
-        "date": "20260628",
-        "url": "https://www.bing.com/th?id=OHR.SaguaroSun_ROW6246109819_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SaguaroSun_ROW6246109819",
-        "copyright": "Saguaro cacti near Windgate Pass, McDowell Range, Arizona, United States (© Eric Mischke/Getty Images)",
-        "copyrightKeyword": "Saguaro cactus",
-        "hsh": "40e43bbb83674910810ae88f850541f6"
+        "hsh": "b37893f43e89c13043c08a023d68e284"
     }
 ]

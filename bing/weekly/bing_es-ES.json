@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202607062200",
+        "date": "20260707",
+        "url": "https://www.bing.com/th?id=OHR.GranCanaria_ES-ES7578658409_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GranCanaria_ES-ES7578658409",
+        "copyright": "Vista aérea del paisaje urbano y las dunas de arena en Maspalomas, Gran Canaria, España (© Marco Bottigelli/Getty Images)",
+        "copyrightKeyword": "Maspalomas",
+        "hsh": "681999ad33437829967e2797271d7f39",
+        "description": "Maspalomas, en Gran Canaria, España, sorprende con un paisaje donde la ciudad y el desierto parecen tocarse sin mezclarse. Desde el aire, el trazado ordenado de calles y edificios se detiene de forma abrupta ante un mar de dunas doradas que se extiende junto al Atlántico, creando un contraste único en el archipiélago."
+    },
+    {
         "fullstartdate": "202607052200",
         "date": "20260706",
         "url": "https://www.bing.com/th?id=OHR.SyracuseItaly_ES-ES6910557655_1920x1080.jpg",
@@ -71,16 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MasaiGiraffe_ES-ES0604244262",
         "copyright": "Jirafas al atardecer en la Reserva Nacional Masai Mara, Kenia (© danm/Getty Images)",
         "copyrightKeyword": "Reserva Nacional Masai Mara",
-        "hsh": "5bc538bd4447d10f8a47c3c4c88fe8bf",
-        "description": "En la Reserva Nacional Masai Mara, en Kenia, las jirafas masái dominan el horizonte cuando el sol se funde con la sabana en tonos ardientes. Este santuario natural, que se extiende por unos 1.500 km² en el suroeste del país, forma parte de uno de los grandes escenarios de vida salvaje del planeta, conectado con el Serengeti. Entre praderas abiertas, acacias dispersas y el río Mara, la naturaleza marca un ritmo que impresiona por su escala y su intensidad."
-    },
-    {
-        "fullstartdate": "202606282200",
-        "date": "20260629",
-        "url": "https://www.bing.com/th?id=OHR.BoraBoraLagoon_ES-ES4364920301_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BoraBoraLagoon_ES-ES4364920301",
-        "copyright": "Bora Bora y su laguna, Pacífico Sur, Polinesia Francesa (© Frederick Millett/Shutterstock)",
-        "copyrightKeyword": "Bora Bora Atolón",
-        "hsh": "ca7020559c458b61f67fc9f4363702ea"
+        "hsh": "5bc538bd4447d10f8a47c3c4c88fe8bf"
     }
 ]

@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607060400",
+        "date": "20260706",
+        "url": "https://www.bing.com/th?id=OHR.SyracuseItaly_EN-CA4724586582_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SyracuseItaly_EN-CA4724586582",
+        "copyright": "Syracuse at sunset, Sicily, Italy (© Balate Dorin/Getty Images)",
+        "copyrightKeyword": "Syracuse Sicily",
+        "hsh": "5c9b050f7c8ad2cc946564d6e286332f",
+        "description": "Founded by Greek settlers from Corinth around 734 BCE, the Italian city of Syracuse, on the island of Sicily, grew into one of the ancient Mediterranean's great powers and is now part of a UNESCO World Heritage Site, 'Syracuse and the Rocky Necropolis of Pantalica.' It is forever linked to Archimedes, whose genius still shapes its identity, and to Plato, who came to Syracuse hoping philosophy might shape political life. That layered past still feels tangible at Castello Maniace, a seafront fortress built for Holy Roman Emperor Frederick II in the 13th century, which can still be admired today.",
+        "maplink": "37.067122,15.285311"
+    },
+    {
         "fullstartdate": "202607050400",
         "date": "20260705",
         "url": "https://www.bing.com/th?id=OHR.LavenderRows_EN-CA8245005019_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BoraBoraLagoon_EN-CA7294184526",
         "copyright": "Bora Bora and its lagoon, South Pacific, French Polynesia (© Frederick Millett/Shutterstock)",
         "copyrightKeyword": "International Day of the Tropics",
-        "hsh": "88bf477646838528cc81e4f5e25b5852",
-        "description": "Observed each June 29, the International Day of the Tropics spotlights a vast region stretching between the Tropics of Cancer and Capricorn, where warmth and rainfall shape daily life. This zone covers about 40% of Earth's surface area, yet supports around 80% of global biodiversity, making it central to planetary health and culture.",
-        "maplink": "-16.498926,-151.73819"
-    },
-    {
-        "fullstartdate": "202606280400",
-        "date": "20260628",
-        "url": "https://www.bing.com/th?id=OHR.SaguaroSun_EN-CA5131430817_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SaguaroSun_EN-CA5131430817",
-        "copyright": "Saguaro cacti near Windgate Pass, McDowell Range, Arizona, United States (© Eric Mischke/Getty Images)",
-        "copyrightKeyword": "Saguaro cactus",
-        "hsh": "59851e93394d24882cab3616bc12a8f3"
+        "hsh": "88bf477646838528cc81e4f5e25b5852"
     }
 ]
