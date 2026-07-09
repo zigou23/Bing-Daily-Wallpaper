@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607080700",
+        "date": "20260708",
+        "url": "https://www.bing.com/th?id=OHR.LakeAtitlan_EN-US3747076006_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LakeAtitlan_EN-US3747076006",
+        "copyright": "Sunrise at Lake Atitlán, Guatemala (© shayes17/Getty Images)",
+        "copyrightKeyword": "Lake Atitlan Guatemala",
+        "hsh": "fc64498d57e2a9cde024bea93a122b6f",
+        "description": "Set in Guatemala's western highlands, Lake Atitlán fills a vast volcanic caldera. Its deep blue waters are framed by steep crater walls and the cone-shaped volcanoes Atitlán, Tolimán, and San Pedro. Wooden piers stretch into the still lake, emphasizing the contrast between its calm surface and the rugged terrain shaped by volcanic activity.",
+        "maplink": "14.702858,-91.194628"
+    },
+    {
         "fullstartdate": "202607070700",
         "date": "20260707",
         "url": "https://www.bing.com/th?id=OHR.MountainToucanOrchids_EN-US3433249651_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DungeonPark_EN-US2499621341",
         "copyright": "Dungeon Provincial Park, Newfoundland and Labrador, Canada (© Kaitlyn McLachlan/Getty Images)",
         "copyrightKeyword": "Canada Day",
-        "hsh": "95865323e32c3d492fbb703f6c35399a",
-        "description": "On July 1, Canada celebrates its national day, marking the events of 1867, when the British North America Act (now called the Constitution Act, 1867) united three British colonies into one Dominion.",
-        "maplink": "48.666842,-53.084148"
-    },
-    {
-        "fullstartdate": "202606300700",
-        "date": "20260630",
-        "url": "https://www.bing.com/th?id=OHR.MasaiGiraffe_EN-US2240704874_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MasaiGiraffe_EN-US2240704874",
-        "copyright": "Giraffes at sunset in the Masai Mara National Reserve, Kenya (© danm/Getty Images)",
-        "copyrightKeyword": "Masai Mara National Reserve",
-        "hsh": "0f87e5bbe9a42af9639433e88687fd43"
+        "hsh": "95865323e32c3d492fbb703f6c35399a"
     }
 ]

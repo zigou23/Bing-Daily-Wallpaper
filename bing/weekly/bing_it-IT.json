@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607082200",
+        "date": "20260709",
+        "url": "https://www.bing.com/th?id=OHR.SapaVietnam_IT-IT8377161369_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SapaVietnam_IT-IT8377161369",
+        "copyright": "Risaie a Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)",
+        "copyrightKeyword": "Lào Cai Vietnam",
+        "hsh": "bb7d5feac38e86c06d955887391fc50e",
+        "description": "A Sapa, nel nord del Vietnam, le risaie terrazzate scendono lungo le montagne come una scalinata vivente, illuminate da una luce che filtra tra le nuvole. Nella provincia di Lào Cai, ogni gradone è il frutto di secoli di lavoro delle comunità locali, come gli Hmong, che hanno modellato i pendii per guidare l’acqua e coltivare il riso, alimento centrale nella vita quotidiana e nella cultura di tutta l’Asia.",
+        "maplink": "22.374456,103.842076"
+    },
+    {
         "fullstartdate": "202607072200",
         "date": "20260708",
         "url": "https://www.bing.com/th?id=OHR.LakeAtitlan_IT-IT2695003451_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SienaPalioToscana_IT-IT6720555051",
         "copyright": "Palio di Siena, Italia (© Dave Benett/Getty Images)",
         "copyrightKeyword": "Palio di Siena",
-        "hsh": "56d4efb2db4724f52d2cc87dc295454e",
-        "description": "A Siena, in Toscana, il Palio di Siena non è solo una corsa: è un’esplosione di storia, identità e passione che trasforma Piazza del Campo in un palcoscenico unico.",
-        "maplink": "43.550045,11.262136"
-    },
-    {
-        "fullstartdate": "202606302200",
-        "date": "20260701",
-        "url": "https://www.bing.com/th?id=OHR.DungeonPark_IT-IT0964634478_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DungeonPark_IT-IT0964634478",
-        "copyright": "Parco provinciale di Dungeon, Terranova e Labrador, Canada (© Kaitlyn McLachlan/Getty Images)",
-        "copyrightKeyword": "Festa del Canada",
-        "hsh": "e2d52014bb5a9fe32f7a7a7e9637ca80"
+        "hsh": "56d4efb2db4724f52d2cc87dc295454e"
     }
 ]

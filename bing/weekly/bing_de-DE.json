@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607082200",
+        "date": "20260709",
+        "url": "https://www.bing.com/th?id=OHR.SapaVietnam_DE-DE8741456092_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SapaVietnam_DE-DE8741456092",
+        "copyright": "Reisfelder in Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)",
+        "copyrightKeyword": "Sapa Reisfelder Vietnam",
+        "hsh": "6f2bfea1558789202098be2ef0fc00ea",
+        "description": "Sanftes Licht dringt durch vorbeiziehende Wolken und legt sich über die gestuften Hänge von Sapa in der Provinz Lào Cai in Vietnam. Die Reisfelder ziehen sich wie eine endlose Abfolge von Terrassen die Berghänge hinab und wirken wie ein Geflecht aus Linien. Seit Generationen gestalten hier indigene Gemeinschaften wie die Hmong diese Landschaft, indem sie den steilen Boden formen und das Wasser gezielt über die Felder leiten. So entsteht ein fein abgestimmtes Zusammenspiel zwischen Natur und menschlicher Arbeit.",
+        "maplink": "22.374456,103.842076"
+    },
+    {
         "fullstartdate": "202607072200",
         "date": "20260708",
         "url": "https://www.bing.com/th?id=OHR.LakeAtitlan_DE-DE9365650175_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.TempleEsna_DE-DE2277338406",
         "copyright": "Decke des Tempels von Esna, Ägypten (© Nick Brundle Photography/Getty Images)",
         "copyrightKeyword": "Tempel von Esna",
-        "hsh": "de8e340c23cbd24df7fea83434242bdc",
-        "description": "Die Decke des Tempels von Esna in Ägypten gehört zu den beeindruckendsten Zeugnissen der spätantiken ägyptischen Baukunst und fasziniert durch ihre außergewöhnlich gut erhaltenen Reliefs und Farben. Nach umfassenden Restaurierungsarbeiten treten heute wieder lebendige Darstellungen von Sternbildern, Göttern und rituellen Symbolen hervor, die lange unter Ruß und Schmutz verborgen waren. Besonders auffällig sind die sorgfältig ausgearbeiteten Tierkreiszeichen, die einen wichtigen Hinweis auf das damalige Weltverständnis und die Verbindung von Religion und Astronomie liefern.",
-        "maplink": "25.293581,32.556398"
-    },
-    {
-        "fullstartdate": "202606302200",
-        "date": "20260701",
-        "url": "https://www.bing.com/th?id=OHR.NeckarVineyards_DE-DE0300601892_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.NeckarVineyards_DE-DE0300601892",
-        "copyright": "Sonnenuntergang über den Weinbergen von Steinhaldenfeld im Neckartal bei Stuttgart, Baden-Württemberg (© Cyril Gosselin/Getty Images)",
-        "copyrightKeyword": "Stuttgart Neckar",
-        "hsh": "7866e38cb7aeebcbdd4e2ea78e02a61e"
+        "hsh": "de8e340c23cbd24df7fea83434242bdc"
     }
 ]

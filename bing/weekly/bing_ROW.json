@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202607080700",
+        "date": "20260708",
+        "url": "https://www.bing.com/th?id=OHR.LakeAtitlan_ROW9281108051_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LakeAtitlan_ROW9281108051",
+        "copyright": "Sunrise at Lake Atitlán, Guatemala (© shayes17/Getty Images)",
+        "copyrightKeyword": "Lake Atitlan Guatemala",
+        "hsh": "ef71c2bc5e89aff57ee92ab639505547",
+        "description": "Set in Guatemala's western highlands, Lake Atitlán fills a vast volcanic caldera. Its deep blue waters are framed by steep crater walls and the cone-shaped volcanoes Atitlán, Tolimán and San Pedro. Wooden piers stretch into the still lake, emphasising the contrast between its calm surface and the rugged terrain shaped by volcanic activity."
+    },
+    {
         "fullstartdate": "202607070700",
         "date": "20260707",
         "url": "https://www.bing.com/th?id=OHR.MountainToucanOrchids_ROW9033619580_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DungeonPark_ROW7201602273",
         "copyright": "Dungeon Provincial Park, Newfoundland and Labrador, Canada (© Kaitlyn McLachlan/Getty Images)",
         "copyrightKeyword": "Dungeon Provincial Park Canada",
-        "hsh": "e37bb93ccf2bfed7d29553290653c080",
-        "description": "Today's image takes us to Dungeon Provincial Park on the rugged coast of Newfoundland and Labrador, Canada, where nature tells a much older story. Atlantic waves carved a sea cave with two openings, gradually widening it until the roof gave way. What remains is a striking collapsed formation known as a 'gloup,' surrounded by steep cliffs and crashing surf."
-    },
-    {
-        "fullstartdate": "202606300700",
-        "date": "20260630",
-        "url": "https://www.bing.com/th?id=OHR.MasaiGiraffe_ROW6806132366_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MasaiGiraffe_ROW6806132366",
-        "copyright": "Giraffes at sunset in the Masai Mara National Reserve, Kenya (© danm/Getty Images)",
-        "copyrightKeyword": "Masai Mara National Reserve",
-        "hsh": "0afadf70e7989c393ce30ba3aa1cf654"
+        "hsh": "e37bb93ccf2bfed7d29553290653c080"
     }
 ]
