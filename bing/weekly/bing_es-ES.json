@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607102200",
+        "date": "20260711",
+        "url": "https://www.bing.com/th?id=OHR.AurayBrittany_ES-ES0686964132_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AurayBrittany_ES-ES0686964132",
+        "copyright": "Puerto de Saint-Goustan, Auray, Bretaña, Francia (© Rolf E. Staerk/Shutterstock)",
+        "copyrightKeyword": "Auray Saint-Goustan Francia",
+        "hsh": "49cbb888776c42d3d5033a1ff640b28e",
+        "description": "En el Puerto de Saint-Goustan, en Auray, Francia, el tiempo parece detenerse donde un pequeño estuario se abre al golfo de Morbihan. Sus muelles empedrados, casas con entramado de madera y callejuelas estrechas evocan rincones históricos del norte de España como Hondarribia o Combarro, donde el pasado sigue vivo junto al agua.",
+        "maplink": "47.664311,-2.977482"
+    },
+    {
         "fullstartdate": "202607092200",
         "date": "20260710",
         "url": "https://www.bing.com/th?id=OHR.VictoriaBeach_ES-ES0275659103_1920x1080.jpg",
@@ -71,16 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.KaysersbergVillage_ES-ES2312486084",
         "copyright": "Kaysersberg, Alsacia, Francia (© Federica Gentile/Getty Images)",
         "copyrightKeyword": "Kaysersberg Francia",
-        "hsh": "6be7a04a871dfda995bcadae101cca32",
-        "description": "Kaysersberg, en Alsacia (Francia), luce su encanto justo cuando el Tour de Francia arranca este mes de julio, llenando de energía esta región del noreste. A unos doce kilómetros de Colmar, este pueblo se extiende junto al río Weiss, entre viñedos y colinas suaves, en un paisaje que combina historia y naturaleza."
-    },
-    {
-        "fullstartdate": "202607022200",
-        "date": "20260703",
-        "url": "https://www.bing.com/th?id=OHR.FirefliesJapan_ES-ES5556389569_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FirefliesJapan_ES-ES5556389569",
-        "copyright": "Luciérnagas brillando sobre un arroyo, prefectura de Okayama, Japón (© tdub303/Getty Images)",
-        "copyrightKeyword": "Luciérnaga insecto",
-        "hsh": "93bd5a54446a1394ba2e3320d156eae0"
+        "hsh": "6be7a04a871dfda995bcadae101cca32"
     }
 ]

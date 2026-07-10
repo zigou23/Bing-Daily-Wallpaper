@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607102200",
+        "date": "20260711",
+        "url": "https://www.bing.com/th?id=OHR.AurayBrittany_DE-DE3196003934_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AurayBrittany_DE-DE3196003934",
+        "copyright": "Hafen von Saint-Goustan, Auray, Bretagne, Frankreich (© Rolf E. Staerk/Shutterstock)",
+        "copyrightKeyword": "Hafen von Saint-Goustan",
+        "hsh": "bc81e87baad97bcdf69eb0c0dbe17c0b",
+        "description": "Der Hafen von Saint-Goustan in Auray in der Bretagne in Frankreich gehört zu den stimmungsvollsten Orten der Region. Er liegt an einer geschützten Mündung, wo der Loc’h und der Auray zusammen eine riaartige Flussmündung bilden, die sich in Richtung Golf von Morbihan öffnet. Bereits im Mittelalter entstand hier ein wichtiger Handelsplatz, der unter den Herzögen der Bretagne ausgebaut wurde und bis heute seinen historischen Charakter bewahrt hat.",
+        "maplink": "47.664311,-2.977482"
+    },
+    {
         "fullstartdate": "202607092200",
         "date": "20260710",
         "url": "https://www.bing.com/th?id=OHR.VictoriaBeach_DE-DE7288099938_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.KaysersbergVillage_DE-DE1031882295",
         "copyright": "Kaysersberg, Elsass, Frankreich (© Federica Gentile/Getty Images)",
         "copyrightKeyword": "Kaysersberg",
-        "hsh": "0ffd73faa8eeb5a7727e4301b48c5559",
-        "description": "Fachwerkhäuser säumen die Ufer der Weiss im elsässischen Kaysersberg in Frankreich. Entlang des schmalen Flusslaufs drängen sich Giebel und Fensterläden dicht aneinander, während sich darüber die bewaldeten Hänge der Vogesen erheben. Das Dorf liegt rund zwölf Kilometer nordwestlich von Colmar und zählt zu den charakteristischen Weinorten der Region.",
-        "maplink": "48.18747,7.215853"
-    },
-    {
-        "fullstartdate": "202607022200",
-        "date": "20260703",
-        "url": "https://www.bing.com/th?id=OHR.FirefliesJapan_DE-DE4398668270_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FirefliesJapan_DE-DE4398668270",
-        "copyright": "Leuchtende Glühwürmchen über einem Bach, Präfektur Okayama, Japan (© tdub303/Getty Images)",
-        "copyrightKeyword": "Glühwürmchen",
-        "hsh": "6c4d1de547ecd3aa8159e80cf6b4c256"
+        "hsh": "0ffd73faa8eeb5a7727e4301b48c5559"
     }
 ]

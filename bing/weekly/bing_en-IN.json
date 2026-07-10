@@ -1,12 +1,23 @@
 [
     {
+        "fullstartdate": "202607101830",
+        "date": "20260711",
+        "url": "https://www.bing.com/th?id=OHR.AurayBrittany_EN-IN7972438884_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AurayBrittany_EN-IN7972438884",
+        "copyright": "Port de Saint-Goustan, Auray, Brittany, France (© Rolf E. Staerk/Shutterstock)",
+        "copyrightKeyword": "Auray Saint-Goustan France",
+        "hsh": "695ba1b86b48b1a9f3fb34ea3bd970dc",
+        "description": "In France, Port de Saint-Goustan lies just below Auray's upper town, where a narrow tidal inlet along the Auray River opens towards the Gulf of Morbihan. The harbour sits along the Auray River, also known locally as the Loc’h, creating its sheltered, storybook setting. In the 13th century, the Dukes of Brittany built a bridge, a port and a castle here; the fortress has long since disappeared, but cobbled quays, winding lanes and timber-framed houses still line the waterfront.",
+        "maplink": "47.664311,-2.977482"
+    },
+    {
         "fullstartdate": "202607091830",
         "date": "20260710",
         "url": "https://www.bing.com/th?id=OHR.VictoriaBeach_EN-IN4783068086_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.VictoriaBeach_EN-IN4783068086",
         "copyright": "Aerial view of land and ocean, Victoria, Australia (© Nearmap/Getty Images)",
         "copyrightKeyword": "Victoria Australia",
-        "hsh": "ac6032650dd55c4b44e8482e96e89b6f",
+        "hsh": "c685cf9a344bac8f208dd291495afb65",
         "description": "Land or sea? In Victoria, you don't have to choose. This southeastern Australian state proves that the best adventures come with a little of both.",
         "maplink": "-36.850086,144.304291"
     },
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.KaysersbergVillage_EN-IN4147544931",
         "copyright": "Kaysersberg, Alsace, France (© Federica Gentile/Getty Images)",
         "copyrightKeyword": "Kaysersberg Alsace",
-        "hsh": "9f2c915efb15168f68bb683da84adfe2",
-        "description": "On July 4, the Tour de France begins—perfect timing to spotlight northeastern France and the Alsace village of Kaysersberg. Set along the Weiss River, about 12 kilometres northwest of Colmar, this historic town lies on the eastern slopes of the Vosges Mountains.",
-        "maplink": "48.18747,7.215853"
-    },
-    {
-        "fullstartdate": "202607021830",
-        "date": "20260703",
-        "url": "https://www.bing.com/th?id=OHR.FirefliesJapan_EN-IN4315418814_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FirefliesJapan_EN-IN4315418814",
-        "copyright": "Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)",
-        "copyrightKeyword": "Firefly insect",
-        "hsh": "5c7ffd4a8ba25abbcf204080797aca99"
+        "hsh": "9f2c915efb15168f68bb683da84adfe2"
     }
 ]

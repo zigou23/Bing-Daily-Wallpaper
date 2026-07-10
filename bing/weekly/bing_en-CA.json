@@ -1,12 +1,23 @@
 [
     {
+        "fullstartdate": "202607100400",
+        "date": "20260710",
+        "url": "https://www.bing.com/th?id=OHR.SummerBC_EN-CA3026184215_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SummerBC_EN-CA3026184215",
+        "copyright": "Pink wildflowers by Emerald Lake in summer, Yoho National Park, British Columbia (© Olga Matveeva/Getty Images)",
+        "copyrightKeyword": "Yoho National Park",
+        "hsh": "cee7e9b40a108844e6eab9b58bce0dda",
+        "description": "Some places are best introduced with one word: Yoho. It is a Cree expression of wonder, which is exactly the reaction most people have. Established in 1886, Yoho National Park protects part of the Canadian Rockies in British Columbia. Visitors can stop at Takakkaw Falls, where water plunges more than 370 metres, or explore the world-famous Burgess Shale fossil sites. These rocks preserve the remains of marine animals that lived more than 500 million years ago.",
+        "maplink": "51.775581,-116.446406"
+    },
+    {
         "fullstartdate": "202607090400",
         "date": "20260709",
         "url": "https://www.bing.com/th?id=OHR.SapaVietnam_EN-CA1120759597_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.SapaVietnam_EN-CA1120759597",
         "copyright": "Rice fields at Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)",
         "copyrightKeyword": "Lào Cai Vietnam",
-        "hsh": "b849f8db10b190f28a0cc5be22a7d0bf",
+        "hsh": "2ce93e636b4669a33ca195ced6a41c01",
         "description": "The morning mist begins to lift as sunlight cuts through, revealing rows of green terraces climbing the mountainsides. Soon, the sound of running water and farm work replaces the silence. This is a familiar scene in Sapa, northern Vietnam, where generations of ethnic communities have shaped steep hills into rice fields that continue to support local families today. Using knowledge refined over centuries, farmers in Lào Cai province built terraces that slow water flowing downhill, helping to protect the soil while creating space to grow rice in challenging terrain.",
         "maplink": "22.374456,103.842076"
     },
@@ -17,7 +28,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LakeAtitlan_EN-CA6427862489",
         "copyright": "Sunrise at Lake Atitlán, Guatemala (© shayes17/Getty Images)",
         "copyrightKeyword": "Lake Atitlan Guatemala",
-        "hsh": "31277c27dbf7d48ed9b733eaab75ecd1",
+        "hsh": "4632ce39dcd89bd9b55d6a7dd1bcfd4d",
         "description": "Set in Guatemala's western highlands, Lake Atitlán fills a vast volcanic caldera. Its deep blue waters are framed by steep crater walls and the cone-shaped volcanoes Atitlán, Tolimán and San Pedro. Wooden piers stretch into the still lake, emphasising the contrast between its calm surface and the rugged terrain shaped by volcanic activity.",
         "maplink": "14.702858,-91.194628"
     },
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.FirefliesJapan_EN-CA2012875414",
         "copyright": "Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)",
         "copyrightKeyword": "Firefly insect",
-        "hsh": "fbb235e900a59780c33b1079d237b751",
-        "description": "In Okayama Prefecture, when humid air settles over a stream, hotaru—Japan's fireflies—begin signalling. On warm, windless evenings, they often start glowing about two hours after sunset under favourable conditions, inviting silence beside water.",
-        "maplink": "34.822845,133.813507"
-    },
-    {
-        "fullstartdate": "202607020400",
-        "date": "20260702",
-        "url": "https://www.bing.com/th?id=OHR.TempleEsna_EN-CA5880187651_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.TempleEsna_EN-CA5880187651",
-        "copyright": "Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)",
-        "copyrightKeyword": "Temple of Esna Egypt",
-        "hsh": "bd681b8f02479d6339d9e04ba9a8fa3d"
+        "hsh": "fbb235e900a59780c33b1079d237b751"
     }
 ]

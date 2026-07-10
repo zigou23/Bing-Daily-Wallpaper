@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607101500",
+        "date": "20260711",
+        "url": "https://www.bing.com/th?id=OHR.AurayBrittany_JA-JP5965695214_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AurayBrittany_JA-JP5965695214",
+        "copyright": "サン＝グスタン港, フランス (© Rolf E. Staerk/Shutterstock)",
+        "copyrightKeyword": "サン＝グスタン港",
+        "hsh": "00daff9f231c180c8948d437ac8a0620",
+        "description": "ここは、サン＝グスタン港。フランスのブルターニュ地域圏にある港町オーレーの港です。その歴史は 12 世紀にまでさかのぼり、当時のブルターニュ公が橋や港、さらに城塞を築いたことに始まります。1776 年には、米国建国の父ともいわれるベンジャミン・フランクリンが訪れており、埠頭の一つは、「フランクリン・ドック」と呼ばれるようになりました。港は 19 世紀まで船の入港が可能でしたが、現在ではツアーの寄港地やマリーナとして利用されています。",
+        "maplink": "47.664311,-2.977482"
+    },
+    {
         "fullstartdate": "202607091500",
         "date": "20260710",
         "url": "https://www.bing.com/th?id=OHR.VictoriaBeach_JA-JP5622574083_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MountainToucanOrchids_JA-JP8375436996",
         "copyright": "イタハシヤマオオハシ, エクアドル (© Murray Cooper/Minden Pictures)",
         "copyrightKeyword": "イタハシヤマオオハシ",
-        "hsh": "e7c6c64bbd8899e2b27e6d6da17da2bd",
-        "description": "イタハシヤマオオハシは、エクアドルとコロンビア南西部のアンデス山脈に広がる湿潤な山岳林に生息している鳥で、黄色い板状の突起がくちばしの付け根にあることが名前の由来になっています。主にベリー類やイチジクなどの果実を食べ、採食の過程で種子を運ぶことで森林の再生に貢献しています。しかし、生息地の減少や狩猟により個体数が減少し、準絶滅危惧種に指定されています。",
-        "maplink": "-1.339767,-79.366699"
-    },
-    {
-        "fullstartdate": "202607021500",
-        "date": "20260703",
-        "url": "https://www.bing.com/th?id=OHR.BoneyardBeach_JA-JP3339035555_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BoneyardBeach_JA-JP3339035555",
-        "copyright": "ボニーヤード・ビーチ, 米国 サウスカロライナ州 (© Frances/Adobe Stock)",
-        "copyrightKeyword": "ハンティング島州立公園",
-        "hsh": "b24b470585645cb1659d27cdbbbbb7b3"
+        "hsh": "e7c6c64bbd8899e2b27e6d6da17da2bd"
     }
 ]

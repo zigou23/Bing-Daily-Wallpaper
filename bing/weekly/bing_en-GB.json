@@ -1,12 +1,23 @@
 [
     {
+        "fullstartdate": "202607102300",
+        "date": "20260711",
+        "url": "https://www.bing.com/th?id=OHR.AurayBrittany_EN-GB4284557242_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AurayBrittany_EN-GB4284557242",
+        "copyright": "Port de Saint-Goustan, Auray, Brittany, France (© Rolf E. Staerk/Shutterstock)",
+        "copyrightKeyword": "Auray Saint-Goustan France",
+        "hsh": "97ec13ffd6d96f50ec4b1747456107fb",
+        "description": "In France, Port de Saint-Goustan lies just below Auray’s upper town, where a narrow inlet meets the estuary leading into the Gulf of Morbihan. The harbour sits along the Auray River In the 13th century, the Dukes of Brittany built a bridge, a port and a castle here; the fortress has vanished, but cobbled quays and timber-framed houses still line the waterfront.",
+        "maplink": "47.664311,-2.977482"
+    },
+    {
         "fullstartdate": "202607092300",
         "date": "20260710",
-        "url": "https://www.bing.com/th?id=OHR.LlanthonyPriory2026_EN-GB4079729139_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LlanthonyPriory2026_EN-GB4079729139",
+        "url": "https://www.bing.com/th?id=OHR.LlanthonyPriory2026_EN-GB5365093988_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LlanthonyPriory2026_EN-GB5365093988",
         "copyright": "Llanthony Priory, Black Mountains area, Monmouthshire, Wales (© Chris Griffiths/Moment/Getty Images)",
         "copyrightKeyword": "Llanthony Priory",
-        "hsh": "5bbd7890e883b994292c578208102133",
+        "hsh": "7e1f7939d181c96aa4eab9a857a63cc6",
         "description": "Some monasteries begin with a grand plan. Llanthony Priory, however, owes its origin to a knight who lost his way. Nestled in the Vale of Ewyas beneath the Black Mountains, the priory is a 900-year-old Augustinian ruin. History has it that a Norman knight, William de Lacy, stumbled upon a ruined chapel dedicated to St David while hunting. Captivated by the solitude, he abandoned his military life to become a hermit, leading to the foundation of the monastery around 1100.",
         "maplink": "51.94473,-3.036616"
     },
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PrideInLondon2026_EN-GB7157270875",
         "copyright": "London (© TomasSereda/Getty Images)",
         "copyrightKeyword": "Pride in London",
-        "hsh": "52fa2bdb267de75873c43d321b0fccf6",
-        "description": "For one day each summer, London becomes a giant rainbow-coloured procession. Streets fill with music, banners, dancing and enough glitter to keep a craft shop in business for months. But Pride in London is more than a party.",
-        "maplink": "51.507408,-0.127724"
-    },
-    {
-        "fullstartdate": "202607022300",
-        "date": "20260703",
-        "url": "https://www.bing.com/th?id=OHR.FirefliesJapan_EN-GB8401520779_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FirefliesJapan_EN-GB8401520779",
-        "copyright": "Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)",
-        "copyrightKeyword": "Firefly insect",
-        "hsh": "73a60d2053816d4a35a0c77bd6c55cb8"
+        "hsh": "52fa2bdb267de75873c43d321b0fccf6"
     }
 ]

@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607102200",
+        "date": "20260711",
+        "url": "https://www.bing.com/th?id=OHR.AurayBrittany_FR-FR2151221761_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AurayBrittany_FR-FR2151221761",
+        "copyright": "Port de Saint-Goustan, Auray, Bretagne (© Rolf E. Staerk/Shutterstock)",
+        "copyrightKeyword": "Auray Saint-Goustan France",
+        "hsh": "f8bc0e2194ecdb0e37a02e1635102d51",
+        "description": "Au sud d’Auray, le port de Saint-Goustan s’étend là où le Loc’h rejoint la rivière d’Auray avant de s’ouvrir vers le golfe du Morbihan. Ce havre pittoresque, protégé par les méandres de l’estuaire, conserve l’atmosphère d’un ancien port breton. Dès le XIIIᵉ siècle, les ducs de Bretagne y firent bâtir un pont, un port et une forteresse aujourd’hui disparue, mais les quais pavés, les ruelles étroites et les maisons à pans de bois témoignent encore de ce passé.",
+        "maplink": "47.664311,-2.977482"
+    },
+    {
         "fullstartdate": "202607092200",
         "date": "20260710",
         "url": "https://www.bing.com/th?id=OHR.VictoriaBeach_FR-FR3702097800_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.KaysersbergVillage_FR-FR8479653154",
         "copyright": "Kaysersberg, Alsace (© Federica Gentile/Getty Images)",
         "copyrightKeyword": "Kaysersberg Alsace",
-        "hsh": "194d9c22392893893a11df2c47bdc8d9",
-        "description": "C’est le Grand Départ pour le Tour de France 2026 ! Le parcours s’élance depuis Barcelone, mais au fil des étapes, il traverse de nombreux villages français. Nous avons choisi l’Alsace avec Kaysersberg, niché sur les rives de la Weiss, près de Colmar et au pied des Vosges. Ce bourg historique semble suspendu entre rivière et montagnes.",
-        "maplink": "48.18747,7.215853"
-    },
-    {
-        "fullstartdate": "202607022200",
-        "date": "20260703",
-        "url": "https://www.bing.com/th?id=OHR.FirefliesJapan_FR-FR8593158782_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FirefliesJapan_FR-FR8593158782",
-        "copyright": "Lucioles scintillant au-dessus d'un ruisseau, Okayama, Japon (© tdub303/Getty Images)",
-        "copyrightKeyword": "luciole",
-        "hsh": "7ce3185a56076df60785fd507449f42b"
+        "hsh": "194d9c22392893893a11df2c47bdc8d9"
     }
 ]
