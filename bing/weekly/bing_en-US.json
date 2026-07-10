@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607090700",
+        "date": "20260709",
+        "url": "https://www.bing.com/th?id=OHR.SapaVietnam_EN-US4008171614_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SapaVietnam_EN-US4008171614",
+        "copyright": "Rice fields at Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)",
+        "copyrightKeyword": "Lào Cai Vietnam",
+        "hsh": "c84dae446a1a072dc80ce51cbc6d28c4",
+        "description": "Sunlight cuts through drifting clouds and settles on the terraced slopes of Sapa, where rice fields cascade down the mountainsides like a living staircase. Located in Vietnam's Lào Cai province, this highland region is shaped as much by human hands as by nature. Generations of farmers from local ethnic communities such as the Hmong have carved and maintained these terraces for centuries, guiding water across steep hillsides to sustain each growing season.",
+        "maplink": "22.374456,103.842076"
+    },
+    {
         "fullstartdate": "202607080700",
         "date": "20260708",
         "url": "https://www.bing.com/th?id=OHR.LakeAtitlan_EN-US3747076006_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.TempleEsna_EN-US1999215513",
         "copyright": "Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)",
         "copyrightKeyword": "Temple of Esna Egypt",
-        "hsh": "916536f37cf8c432a8a6612c47d177ac",
-        "description": "At the Temple of Esna, south of Luxor, Egypt, visitors enter a vivid world devoted to Khnum, the ram-headed god believed to have molded humanity from Nile clay. Built mainly during the Ptolemaic and Roman eras, the temple's surviving hall is supported by 24 towering columns, each carved with intricate reliefs and ritual texts honoring various deities.",
-        "maplink": "25.293581,32.556398"
-    },
-    {
-        "fullstartdate": "202607010700",
-        "date": "20260701",
-        "url": "https://www.bing.com/th?id=OHR.DungeonPark_EN-US2499621341_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DungeonPark_EN-US2499621341",
-        "copyright": "Dungeon Provincial Park, Newfoundland and Labrador, Canada (© Kaitlyn McLachlan/Getty Images)",
-        "copyrightKeyword": "Canada Day",
-        "hsh": "95865323e32c3d492fbb703f6c35399a"
+        "hsh": "916536f37cf8c432a8a6612c47d177ac"
     }
 ]

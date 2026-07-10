@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607092200",
+        "date": "20260710",
+        "url": "https://www.bing.com/th?id=OHR.VictoriaBeach_DE-DE7288099938_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.VictoriaBeach_DE-DE7288099938",
+        "copyright": "Luftaufnahme von Land und Meer, Victoria, Australien (© Nearmap/Getty Images)",
+        "copyrightKeyword": "Victoria Australien",
+        "hsh": "fcd80c0340a15b3192fa8099fd52f51e",
+        "description": "Aus der Luft eröffnet sich entlang der Küste von Victoria in Australien eine eindrucksvolle Landschaft, in der sich Land und Meer ständig begegnen. Über eine Länge von mehr als 2 500 Kilometern prägt die Küste entlang der Bass Strait und angrenzender Meeresgebiete die Küstenlinie mit hellen Sandstränden, türkisfarbenem Wasser und schroffen Klippen. Diese Kontraste wirken aus der Vogelperspektive besonders deutlich. Die berühmte Great Ocean Road folgt rund 240 Kilometern dieser abwechslungsreichen Küste und verbindet beliebte Surfspots, bewaldete Landspitzen und kleine Orte direkt am Meer.",
+        "maplink": "-36.850086,144.304291"
+    },
+    {
         "fullstartdate": "202607082200",
         "date": "20260709",
         "url": "https://www.bing.com/th?id=OHR.SapaVietnam_DE-DE8741456092_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.FirefliesJapan_DE-DE4398668270",
         "copyright": "Leuchtende Glühwürmchen über einem Bach, Präfektur Okayama, Japan (© tdub303/Getty Images)",
         "copyrightKeyword": "Glühwürmchen",
-        "hsh": "6c4d1de547ecd3aa8159e80cf6b4c256",
-        "description": "Wenn sich in der Präfektur Okayama feuchtwarme Abendluft über einem Bach sammelt, beginnen Glühwürmchen – in Japan „hotaru“ genannt – mit ihren Leuchtsignalen und durchziehen die Dunkelheit mit kleinen, schwebenden Lichtpunkten. An windstillen Sommerabenden werden sie oft erst einige Zeit nach Sonnenuntergang aktiv. Ihr Licht entsteht durch eine chemische Reaktion im Hinterleib und dient vor allem der Partnersuche sowie der Verständigung zwischen den Tieren.",
-        "maplink": "34.822845,133.813507"
-    },
-    {
-        "fullstartdate": "202607012200",
-        "date": "20260702",
-        "url": "https://www.bing.com/th?id=OHR.TempleEsna_DE-DE2277338406_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.TempleEsna_DE-DE2277338406",
-        "copyright": "Decke des Tempels von Esna, Ägypten (© Nick Brundle Photography/Getty Images)",
-        "copyrightKeyword": "Tempel von Esna",
-        "hsh": "de8e340c23cbd24df7fea83434242bdc"
+        "hsh": "6c4d1de547ecd3aa8159e80cf6b4c256"
     }
 ]

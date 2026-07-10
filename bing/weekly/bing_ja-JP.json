@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607091500",
+        "date": "20260710",
+        "url": "https://www.bing.com/th?id=OHR.VictoriaBeach_JA-JP5622574083_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.VictoriaBeach_JA-JP5622574083",
+        "copyright": "ビクトリア州にあるビーチ, オーストラリア (© Nearmap/Getty Images)",
+        "copyrightKeyword": "ビクトリア州にあるビーチ",
+        "hsh": "71bcd16ec3fc8aab3cae42a191bb2ae0",
+        "description": "ここは、オーストラリア南東部に位置するビクトリア州。南極海に面しており、2000km 以上に渡る海岸線には、ターコイズブルーの海と切り立った崖が織りなす壮大な景観が広がっています。特に、海岸線に沿って走る絶景ドライブコース「グレート・オーシャン・ロード」は、「世界で最も美しい海岸道路」として有名です。全長約 250km にも及ぶドライブルートで、人気のサーフスポットや緑豊かな岬、個性豊かな街並みなど、移り変わる海岸の風景を楽しむことができます。",
+        "maplink": "-36.850086,144.304291"
+    },
+    {
         "fullstartdate": "202607081500",
         "date": "20260709",
         "url": "https://www.bing.com/th?id=OHR.SapaVietnam_JA-JP3354489397_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BoneyardBeach_JA-JP3339035555",
         "copyright": "ボニーヤード・ビーチ, 米国 サウスカロライナ州 (© Frances/Adobe Stock)",
         "copyrightKeyword": "ハンティング島州立公園",
-        "hsh": "b24b470585645cb1659d27cdbbbbb7b3",
-        "description": "ここは、米国サウスカロライナ州のハンティング島州立公園南端に広がるボニーヤード・ビーチです。かつては木々が生い茂っていたものの、1980 年以降、潮汐や嵐の影響によって海岸侵食が進み、次第に海へと削り取られていきました。その結果、砂浜には立ち枯れた木々や流木が残る風景が広がっています。一方で動物は多数生息しており、公園内には数百種の鳥類が確認されているほか、沖合ではバンドウイルカが見られることもあります。さらに、周辺の砂浜はアカウミガメの産卵地としても知られています。",
-        "maplink": "32.40758,-80.445631"
-    },
-    {
-        "fullstartdate": "202607011500",
-        "date": "20260702",
-        "url": "https://www.bing.com/th?id=OHR.TempleEsna_JA-JP0629204284_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.TempleEsna_JA-JP0629204284",
-        "copyright": "クヌム神に捧げられたエスナ神殿の天井, エジプト (© Nick Brundle Photography/Getty Images)",
-        "copyrightKeyword": "エスナ神殿",
-        "hsh": "a7acaa0878d5418566b9b2994f3a4859"
+        "hsh": "b24b470585645cb1659d27cdbbbbb7b3"
     }
 ]
