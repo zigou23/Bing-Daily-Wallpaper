@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607112300",
+        "date": "20260712",
+        "url": "https://www.bing.com/th?id=OHR.KatahdinWWNM_EN-GB4389807993_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.KatahdinWWNM_EN-GB4389807993",
+        "copyright": "Katahdin Woods and Waters National Monument, Maine, United States (© Cavan Images/Offset/Shutterstock)",
+        "copyrightKeyword": "Katahdin Woods and Waters National Monument",
+        "hsh": "cd0a74202389183454bb3f64061b489a",
+        "description": "If you're looking for Maine in the United States at its wildest, Katahdin Woods and Waters National Monument is hard to beat. Covering around 35,400 hectares of the North Woods, it is a landscape of quiet ponds, winding rivers and dense forests where nature still dominates.",
+        "maplink": "46.156481,-68.717751"
+    },
+    {
         "fullstartdate": "202607102300",
         "date": "20260711",
         "url": "https://www.bing.com/th?id=OHR.AurayBrittany_EN-GB4284557242_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LavenderRows_EN-GB8618053489",
         "copyright": "Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)",
         "copyrightKeyword": "Lavandula",
-        "hsh": "0564e19722b823f72a8e7be53d41beb4",
-        "description": "In southeastern France, on the Valensole Plateau, summer arrives in waves of purple and blue. Valensole—one of the largest plateaus in the region—lies in the Verdon Regional Natural Park between the Durance and Asse valleys, near the Gorges du Verdon and its lakes. From mid-June to early July, depending on altitude and weather, lavender and lavandin bloom and transform the landscape into one of Provence's most recognisable sights. The air carries a sharp, dry and unmistakably Mediterranean scent.",
-        "maplink": "43.857636,5.974437"
-    },
-    {
-        "fullstartdate": "202607032300",
-        "date": "20260704",
-        "url": "https://www.bing.com/th?id=OHR.PrideInLondon2026_EN-GB7157270875_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PrideInLondon2026_EN-GB7157270875",
-        "copyright": "London (© TomasSereda/Getty Images)",
-        "copyrightKeyword": "Pride in London",
-        "hsh": "52fa2bdb267de75873c43d321b0fccf6"
+        "hsh": "0564e19722b823f72a8e7be53d41beb4"
     }
 ]

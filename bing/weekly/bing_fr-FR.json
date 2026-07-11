@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607112200",
+        "date": "20260712",
+        "url": "https://www.bing.com/th?id=OHR.KatahdinWWNM_FR-FR2337328139_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.KatahdinWWNM_FR-FR2337328139",
+        "copyright": "Monument national des bois et des eaux de Katahdin, Maine, États-Unis (© Cavan Images/Offset/Shutterstock)",
+        "copyrightKeyword": "Monument des bois et des eaux Katahdin",
+        "hsh": "b749c69c51682d042f5ccb12a89a5f77",
+        "description": "Pour découvrir le Maine (États-Unis) dans ce qu’il a de plus sauvage, il faut venir ici. Le monument national des Bois et des Eaux de Katahdin couvre près de 35 000 hectares de forêts profondes, où étangs silencieux et pistes isolées composent un paysage brut et préservé.",
+        "maplink": "46.156481,-68.717751"
+    },
+    {
         "fullstartdate": "202607102200",
         "date": "20260711",
         "url": "https://www.bing.com/th?id=OHR.AurayBrittany_FR-FR2151221761_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LavenderRows_FR-FR9535531184",
         "copyright": "Champs de lavande, Plateau de Valensole, Provence (© Robert Harding/Shutterstock)",
         "copyrightKeyword": "Lavande",
-        "hsh": "41be40c44471f84f7bc53496e278d3b7",
-        "description": "Au cœur de la Provence, sur le plateau de Valensole, l’été s’accorde aux tons violets. Situé dans le Parc naturel régional du Verdon, entre les vallées de la Durance et de l’Asse, ce vaste plateau offre, de mi-juin à début juillet, l’un des paysages les plus emblématiques de Provence. Lorsque la lavande et le lavandin fleurissent, l’air se charge de leurs parfums caractéristiques.",
-        "maplink": "43.857636,5.974437"
-    },
-    {
-        "fullstartdate": "202607032200",
-        "date": "20260704",
-        "url": "https://www.bing.com/th?id=OHR.KaysersbergVillage_FR-FR8479653154_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.KaysersbergVillage_FR-FR8479653154",
-        "copyright": "Kaysersberg, Alsace (© Federica Gentile/Getty Images)",
-        "copyrightKeyword": "Kaysersberg Alsace",
-        "hsh": "194d9c22392893893a11df2c47bdc8d9"
+        "hsh": "41be40c44471f84f7bc53496e278d3b7"
     }
 ]

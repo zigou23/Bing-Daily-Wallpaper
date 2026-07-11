@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607110400",
+        "date": "20260711",
+        "url": "https://www.bing.com/th?id=OHR.BoneyardBeach_EN-CA4145832513_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BoneyardBeach_EN-CA4145832513",
+        "copyright": "Driftwood on Boneyard Beach, Hunting Island, South Carolina (© Frances/Adobe Stock)",
+        "copyrightKeyword": "Hunting Island",
+        "hsh": "f2d1077ee9210e87a6eba17dd07c1a2c",
+        "description": "At Boneyard Beach within Hunting Island State Park, South Carolina, United States, the first thing you notice is the trees. Then comes the question: why are bleached trunks and exposed roots scattered across the sand like a scene paused midway through collapse? Since the 1980s, Hunting Island has experienced major beach erosion, with some of the highest rates along the US East Coast—reaching up to 9 metres per year in certain areas.",
+        "maplink": "32.40758,-80.445631"
+    },
+    {
         "fullstartdate": "202607100400",
         "date": "20260710",
         "url": "https://www.bing.com/th?id=OHR.SummerBC_EN-CA3026184215_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.KaysersbergVillage_EN-CA0905183627",
         "copyright": "Kaysersberg, Alsace, France (© Federica Gentile/Getty Images)",
         "copyrightKeyword": "Kaysersberg Alsace",
-        "hsh": "392d98c00c4427147b90e7d62ea88e3c",
-        "description": "On July 4, the Tour de France begins in Barcelona—perfect timing to spotlight northeastern France and the Alsace village of Kaysersberg. Set along the Weiss River, about 12 kilometres northwest of Colmar, this historic town lies on the eastern slopes of the Vosges Mountains.",
-        "maplink": "48.18747,7.215853"
-    },
-    {
-        "fullstartdate": "202607030400",
-        "date": "20260703",
-        "url": "https://www.bing.com/th?id=OHR.FirefliesJapan_EN-CA2012875414_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FirefliesJapan_EN-CA2012875414",
-        "copyright": "Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)",
-        "copyrightKeyword": "Firefly insect",
-        "hsh": "fbb235e900a59780c33b1079d237b751"
+        "hsh": "392d98c00c4427147b90e7d62ea88e3c"
     }
 ]
