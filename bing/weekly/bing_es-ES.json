@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607122200",
+        "date": "20260713",
+        "url": "https://www.bing.com/th?id=OHR.NavajoSandstone_ES-ES1041732911_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.NavajoSandstone_ES-ES1041732911",
+        "copyright": "Antelope Canyon en la Nación Navajo, al este de Page, Arizona, EE. UU. (© Mark Skalny/Getty Images)",
+        "copyrightKeyword": "Día internacional de la roca geología",
+        "hsh": "35fa0c5ffb108d1e44e076104b2469bc",
+        "description": "El Día Internacional de las Rocas, celebrado el trece de julio, invita a mirar con nuevos ojos paisajes como Antelope Canyon, en Arizona, Estados Unidos, donde la geología cobra vida en cada curva de piedra. Este cañón estrecho, esculpido durante siglos en arenisca por riadas y erosión, revela cómo el agua y el tiempo transforman la Tierra con una precisión casi artística. Sus paredes onduladas, teñidas de rojo y naranja, capturan la luz en haces que parecen moverse.",
+        "maplink": "40.837774,-118.280526"
+    },
+    {
         "fullstartdate": "202607112200",
         "date": "20260712",
         "url": "https://www.bing.com/th?id=OHR.KatahdinWWNM_ES-ES0827560100_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SyracuseItaly_ES-ES6910557655",
         "copyright": "Siracusa al atardecer, Sicilia, Italia (© Balate Dorin/Getty Images)",
         "copyrightKeyword": "Siracusa",
-        "hsh": "07a8eeaaca71af9c66f1acb7f0eec46c",
-        "description": "Al caer la tarde en Siracusa, el sol desciende sobre el mar Jónico y la ciudad se envuelve en una luz suave que realza su pasado milenario. Fundada por colonos griegos de Corinto en el siglo VIII antes de nuestra era, la ciudad creció hasta convertirse en una potencia del Mediterráneo antiguo. Hoy forma parte del conjunto Patrimonio Mundial de la UNESCO junto con la necrópolis rupestre de Pantalica y conserva una identidad marcada por la ciencia, el pensamiento y la historia.",
-        "maplink": "37.067122,15.285311"
-    },
-    {
-        "fullstartdate": "202607042200",
-        "date": "20260705",
-        "url": "https://www.bing.com/th?id=OHR.LavenderRows_ES-ES6518419327_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LavenderRows_ES-ES6518419327",
-        "copyright": "Plantaciones de lavanda, Plateau de Valensole, Provenza, Francia (© Robert Harding/Shutterstock)",
-        "copyrightKeyword": "Lavanda",
-        "hsh": "808642c7c954c13b5bb4d5d83d2b659b"
+        "hsh": "07a8eeaaca71af9c66f1acb7f0eec46c"
     }
 ]

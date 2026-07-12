@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607120700",
+        "date": "20260712",
+        "url": "https://www.bing.com/th?id=OHR.KatahdinWWNM_EN-US8982810797_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.KatahdinWWNM_EN-US8982810797",
+        "copyright": "Katahdin Woods and Waters National Monument, Maine (© Cavan Images/Offset/Shutterstock)",
+        "copyrightKeyword": "Katahdin Woods and Waters National Monument",
+        "hsh": "03b545a7640bdaf8bc352bdc7de5e9cd",
+        "description": "If you're looking for Maine at its most untamed, this is it. Katahdin Woods and Waters National Monument stretches across about 87,500 acres of the raw North Woods—where quiet ponds mirror the sky and dense forests seem to swallow sound.",
+        "maplink": "46.156481,-68.717751"
+    },
+    {
         "fullstartdate": "202607110700",
         "date": "20260711",
         "url": "https://www.bing.com/th?id=OHR.AurayBrittany_EN-US7890619884_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LavenderRows_EN-US2831933520",
         "copyright": "Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)",
         "copyrightKeyword": "Lavandula",
-        "hsh": "372a8af5db8e7a4c1ed26fd5ebdf9c5c",
-        "description": "In southeastern France, on the Valensole Plateau, summer arrives in waves of purple and blue. Valensole—one of the largest plateaus in the region—lies in the Verdon Regional Natural Park between the Durance and Asse valleys, near the Gorges du Verdon and its lakes. From mid-June to early July, depending on altitude and weather, lavender and lavandin bloom and transform the landscape into one of Provence's most recognizable sights. The air carries a sharp, dry, and unmistakably Mediterranean scent.",
-        "maplink": "43.857636,5.974437"
-    },
-    {
-        "fullstartdate": "202607040700",
-        "date": "20260704",
-        "url": "https://www.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LibertyHall_EN-US2562041614",
-        "copyright": "Liberty Bell and Independence Hall, Independence National Historical Park, Philadelphia, Pennsylvania (© f11photo/Shutterstock)",
-        "copyrightKeyword": "Fourth of July",
-        "hsh": "2305647bd26b9ac3970297aaa8dc4d10"
+        "hsh": "372a8af5db8e7a4c1ed26fd5ebdf9c5c"
     }
 ]

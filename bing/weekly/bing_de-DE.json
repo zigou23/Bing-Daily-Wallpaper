@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607122200",
+        "date": "20260713",
+        "url": "https://www.bing.com/th?id=OHR.MunichTwilight_DE-DE5540064188_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MunichTwilight_DE-DE5540064188",
+        "copyright": "München mit der Frauenkirche vor den Alpen, Bayern (© MarcelStrelow/Getty Images)",
+        "copyrightKeyword": "Münchner Opernfestspiele",
+        "hsh": "f3416c278f8f871d864ee38ab57f7e08",
+        "description": "Münchens Skyline leuchtet in der Dämmerung, während sich die Türme der Frauenkirche markant vor der Silhouette der Alpen abzeichnen und der Himmel langsam in tiefe Blau- und Violetttöne übergeht. In dieser eindrucksvollen Kulisse finden jeden Sommer die Münchner Opernfestspiele statt, eines der bedeutendsten Klassikfestivals Europas. Über mehrere Wochen hinweg verwandelt sich die Stadt in einen kulturellen Mittelpunkt, an dem die Bayerische Staatsoper ein vielseitiges Programm aus Opern, Konzerten und Ballettaufführungen präsentiert und damit Besucherinnen und Besucher aus aller Welt anzieht.",
+        "maplink": "48.139126,11.580219"
+    },
+    {
         "fullstartdate": "202607112200",
         "date": "20260712",
         "url": "https://www.bing.com/th?id=OHR.KatahdinWWNM_DE-DE4221964213_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SyracuseItaly_DE-DE7459831277",
         "copyright": "Syrakus bei Sonnenuntergang, Sizilien, Italien (© Balate Dorin/Getty Images)",
         "copyrightKeyword": "Syrakus",
-        "hsh": "afd3929232b8a7700223863c00babd3e",
-        "description": "Wenn die Sonne über Syrakus sinkt, taucht ein warmes Licht die Küstenstadt auf Sizilien in goldene und rosige Töne. Gegründet im 8. Jahrhundert vor Christus von Siedlern aus Korinth, entwickelte sich Syrakus zu einer der mächtigsten Städte des antiken Mittelmeers und bildet heute zusammen mit der Felsnekropole von Pantalica ein UNESCO-Welterbe. Der Name des Genies Archimedes ist untrennbar mit der Stadt verbunden und auch Platons Aufenthalt verlieh ihr eine besondere geistige Bedeutung.",
-        "maplink": "37.067122,15.285311"
-    },
-    {
-        "fullstartdate": "202607042200",
-        "date": "20260705",
-        "url": "https://www.bing.com/th?id=OHR.LavenderRows_DE-DE5950929230_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LavenderRows_DE-DE5950929230",
-        "copyright": "Lavendelfelder, Plateau de Valensole, Provence, Frankreich (© Robert Harding/Shutterstock)",
-        "copyrightKeyword": "Lavendel",
-        "hsh": "8e26d949a0a42db2296f82cfa8a4f1a3"
+        "hsh": "afd3929232b8a7700223863c00babd3e"
     }
 ]

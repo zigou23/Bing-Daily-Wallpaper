@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607120400",
+        "date": "20260712",
+        "url": "https://www.bing.com/th?id=OHR.VictoriaBeach_FR-CA4399261354_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.VictoriaBeach_FR-CA4399261354",
+        "copyright": "Vue aérienne des terres et de l'océan, Victoria, Australie (© Nearmap/Getty Images)",
+        "copyrightKeyword": "Victoria Australie",
+        "hsh": "a7b9f92d607b9f159859cfaade91f01e",
+        "description": "Vue du ciel, la côte de Victoria déploie de longues plages dorées, des eaux turquoise et des falaises sculptées par les vents du puissant océan Austral. Sur plus de 1 800 kilomètres de littoral, la terre et la mer façonnent depuis des millénaires les paysages du sud‑est australien.",
+        "maplink": "-36.850086,144.304291"
+    },
+    {
         "fullstartdate": "202607110400",
         "date": "20260711",
         "url": "https://www.bing.com/th?id=OHR.AurayBrittany_FR-CA4267828936_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LavenderRows_FR-CA1074632710",
         "copyright": "Champs de lavande, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)",
         "copyrightKeyword": "Lavande",
-        "hsh": "64b0a8b5f8690cdaa8cc0f3c02558553",
-        "description": "Au cœur de la Provence, dans le sud-est de la France, le plateau de Valensole se couvre chaque été de vastes étendues violettes. Situé dans le Parc naturel régional du Verdon, près des célèbres gorges du Verdon, il offre entre mi-juin et début juillet un spectacle naturel qui attire des visiteurs du monde entier.",
-        "maplink": "43.857636,5.974437"
-    },
-    {
-        "fullstartdate": "202607040400",
-        "date": "20260704",
-        "url": "https://www.bing.com/th?id=OHR.KaysersbergVillage_FR-CA9380377957_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.KaysersbergVillage_FR-CA9380377957",
-        "copyright": "Kaysersberg, Alsace, France (© Federica Gentile/Getty Images)",
-        "copyrightKeyword": "Kaysersberg Alsace",
-        "hsh": "4fbcd96f5b820bc1fed0e0038804d35c"
+        "hsh": "64b0a8b5f8690cdaa8cc0f3c02558553"
     }
 ]

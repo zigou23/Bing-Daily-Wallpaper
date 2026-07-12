@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607120400",
+        "date": "20260712",
+        "url": "https://www.bing.com/th?id=OHR.KatahdinWWNM_EN-CA7288146923_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.KatahdinWWNM_EN-CA7288146923",
+        "copyright": "Katahdin Woods and Waters National Monument, Maine, United States (© Cavan Images/Offset/Shutterstock)",
+        "copyrightKeyword": "Katahdin Woods and Waters National Monument",
+        "hsh": "896436160d5746ed3847714c1506f360",
+        "description": "If you're looking for Maine at its most untamed, this is it. Katahdin Woods and Waters National Monument stretches across more than 350 square kilometres of the rugged North Woods, where quiet ponds mirror the sky and dense forests seem to swallow sound.",
+        "maplink": "46.156481,-68.717751"
+    },
+    {
         "fullstartdate": "202607110400",
         "date": "20260711",
         "url": "https://www.bing.com/th?id=OHR.BoneyardBeach_EN-CA4145832513_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LavenderRows_EN-CA8245005019",
         "copyright": "Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)",
         "copyrightKeyword": "Lavandula",
-        "hsh": "7454aaa1756fac9f6308083b8c621641",
-        "description": "In southeastern France, on the Valensole Plateau, summer arrives in waves of purple and blue. Valensole—one of the largest plateaus in the region—lies in the Verdon Regional Natural Park between the Durance and Asse valleys, near the Gorges du Verdon and its lakes. From mid-June to early July, depending on altitude and weather, lavender and lavandin bloom and transform the landscape into one of Provence's most recognisable sights. The air carries a sharp, dry and unmistakably Mediterranean scent.",
-        "maplink": "43.857636,5.974437"
-    },
-    {
-        "fullstartdate": "202607040400",
-        "date": "20260704",
-        "url": "https://www.bing.com/th?id=OHR.KaysersbergVillage_EN-CA0905183627_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.KaysersbergVillage_EN-CA0905183627",
-        "copyright": "Kaysersberg, Alsace, France (© Federica Gentile/Getty Images)",
-        "copyrightKeyword": "Kaysersberg Alsace",
-        "hsh": "392d98c00c4427147b90e7d62ea88e3c"
+        "hsh": "7454aaa1756fac9f6308083b8c621641"
     }
 ]
