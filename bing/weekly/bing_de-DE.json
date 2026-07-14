@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607142200",
+        "date": "20260715",
+        "url": "https://www.bing.com/th?id=OHR.MarieLake_DE-DE6487639165_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MarieLake_DE-DE6487639165",
+        "copyright": "Marie Lake, John Muir Wilderness, nahe Bishop, Kalifornien, USA (© Steve Dunleavy/Getty Images)",
+        "copyrightKeyword": "John Muir Wilderness",
+        "hsh": "4476a165e46b6957cc03ad5d5abeff35",
+        "description": "Die John Muir Wilderness in der Nähe von Bishop in Kalifornien, USA, zählt zu den eindrucksvollsten Hochgebirgslandschaften der Sierra Nevada. Das 1964 eingerichtete Schutzgebiet erstreckt sich über eine weite, nahezu unberührte Region mit Granitformationen, klaren Seen und alpinen Tälern. Berühmte Fernwanderwege führen durch dieses Gebiet und ziehen Naturbegeisterte aus aller Welt an. Inmitten dieser Landschaft liegt der Marie Lake auf etwa 3.215 Metern Höhe, eingebettet zwischen Felsen und lichten Wäldern. Sein klares Wasser spiegelt die umliegenden Berge und macht ihn zu einem eindrucksvollen Ziel nach einem langen Aufstieg.",
+        "maplink": "36.97615,-118.812278"
+    },
+    {
         "fullstartdate": "202607132200",
         "date": "20260714",
         "url": "https://www.bing.com/th?id=OHR.LemonShark_DE-DE6087754416_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LakeAtitlan_DE-DE9365650175",
         "copyright": "Sonnenaufgang am Atitlán-See, Guatemala (© shayes17/Getty Images)",
         "copyrightKeyword": "Lago de Atitlán Guatemala",
-        "hsh": "46fd509611144cbcb25e46782ac7fa97",
-        "description": "Im guatemaltekischen Hochland liegt der Atitlán-See, eingebettet in eine weite vulkanische Caldera. Tiefblaues Wasser trifft hier auf steile Hänge und die markanten Vulkane Atitlán, Tolimán und San Pedro. In den frühen Morgenstunden entfaltet der Sonnenaufgang eine besondere Stimmung. Das Licht legt sich sanft über die ruhige Oberfläche und betont den Kontrast zwischen Stille und den dramatischen Formen. Zarte Farben spiegeln sich im Wasser und verleihen der Szenerie eine fast unwirkliche Ruhe.",
-        "maplink": "14.702858,-91.194628"
-    },
-    {
-        "fullstartdate": "202607062200",
-        "date": "20260707",
-        "url": "https://www.bing.com/th?id=OHR.MountainToucanOrchids_DE-DE0710570038_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MountainToucanOrchids_DE-DE0710570038",
-        "copyright": "Leistenschnabeltukan mit Orchideen, Ecuador (© Murray Cooper/Minden Pictures)",
-        "copyrightKeyword": "Leistenschnabeltukan",
-        "hsh": "7c9b7238435b45d6b69614f0cb3e8d18"
+        "hsh": "46fd509611144cbcb25e46782ac7fa97"
     }
 ]

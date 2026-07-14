@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607142200",
+        "date": "20260715",
+        "url": "https://www.bing.com/th?id=OHR.MarieLake_ES-ES0302365880_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MarieLake_ES-ES0302365880",
+        "copyright": "Marie Lake, Área silvestre John Muir cerca de Bishop, California, EE. UU. (© Steve Dunleavy/Getty Images)",
+        "copyrightKeyword": "Área silvestre John Muir",
+        "hsh": "ffb3a13df27f5aacdd62aba74f1194c4",
+        "description": "En el área silvestre John Muir, cerca de Bishop, en California, Estados Unidos, las montañas cuentan una historia grabada en granito, lagos y valles moldeados durante millones de años. Este espacio protegido, creado en 1964, forma parte de la Sierra Nevada estadounidense y recuerda, por su altitud y paisaje alpino, a grandes macizos de alta montaña en España, como los Pirineos, donde la naturaleza también marca el ritmo.",
+        "maplink": "36.97615,-118.812278"
+    },
+    {
         "fullstartdate": "202607132200",
         "date": "20260714",
         "url": "https://www.bing.com/th?id=OHR.LemonShark_ES-ES9243591847_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LakeAtitlan_ES-ES9285347150",
         "copyright": "Amanecer en el Lago de Atitlán, Guatemala (© shayes17/Getty Images)",
         "copyrightKeyword": "Lago de Atitlán Guatemala",
-        "hsh": "9022016f91599c836a6e7ffa3ebc8336",
-        "description": "El Lago de Atitlán, en las tierras altas de Guatemala, cautiva con un paisaje de aguas profundas rodeadas por antiguos volcanes que dibujan un horizonte imponente. Encajado en una caldera formada tras una gran erupción, este lago combina calma y fuerza geológica en una escena que parece suspendida en el tiempo.",
-        "maplink": "14.702858,-91.194628"
-    },
-    {
-        "fullstartdate": "202607062200",
-        "date": "20260707",
-        "url": "https://www.bing.com/th?id=OHR.GranCanaria_ES-ES7578658409_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.GranCanaria_ES-ES7578658409",
-        "copyright": "Vista aérea del paisaje urbano y las dunas de arena en Maspalomas, Gran Canaria, España (© Marco Bottigelli/Getty Images)",
-        "copyrightKeyword": "Maspalomas",
-        "hsh": "681999ad33437829967e2797271d7f39"
+        "hsh": "9022016f91599c836a6e7ffa3ebc8336"
     }
 ]
