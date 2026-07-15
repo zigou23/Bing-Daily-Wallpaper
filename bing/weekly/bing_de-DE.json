@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607152200",
+        "date": "20260716",
+        "url": "https://www.bing.com/th?id=OHR.NavyPier_DE-DE6672447932_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.NavyPier_DE-DE6672447932",
+        "copyright": "Navy Pier in Chicago, Illinois, USA (© Christopher.F Photography/Getty Images)",
+        "copyrightKeyword": "Navy Pier Chicago Vereinigte Staaten",
+        "hsh": "637ec8b8ddaba2a65979ee6a6a1f2a65",
+        "description": "Der Navy Pier am Ufer des Michigansees in Chicago, USA, gilt als eines der bekanntesten Wahrzeichen der Stadt und steht exemplarisch für ihren Wandel. Seine Planung geht auf das Jahr 1909 zurück, als Daniel Burnham und Edward H. Bennett einen umfassenden Stadtplan entwickelten. Der Pier wurde 1916 eröffnet und diente zunächst als Umschlagplatz für Waren, als Anlegestelle für Passagiere sowie als Erholungsort für die Bevölkerung.",
+        "maplink": "41.892227,-87.605187"
+    },
+    {
         "fullstartdate": "202607142200",
         "date": "20260715",
         "url": "https://www.bing.com/th?id=OHR.MarieLake_DE-DE6487639165_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SapaVietnam_DE-DE8741456092",
         "copyright": "Reisfelder in Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)",
         "copyrightKeyword": "Sapa Reisfelder Vietnam",
-        "hsh": "6f2bfea1558789202098be2ef0fc00ea",
-        "description": "Sanftes Licht dringt durch vorbeiziehende Wolken und legt sich über die gestuften Hänge von Sapa in der Provinz Lào Cai in Vietnam. Die Reisfelder ziehen sich wie eine endlose Abfolge von Terrassen die Berghänge hinab und wirken wie ein Geflecht aus Linien. Seit Generationen gestalten hier indigene Gemeinschaften wie die Hmong diese Landschaft, indem sie den steilen Boden formen und das Wasser gezielt über die Felder leiten. So entsteht ein fein abgestimmtes Zusammenspiel zwischen Natur und menschlicher Arbeit.",
-        "maplink": "22.374456,103.842076"
-    },
-    {
-        "fullstartdate": "202607072200",
-        "date": "20260708",
-        "url": "https://www.bing.com/th?id=OHR.LakeAtitlan_DE-DE9365650175_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LakeAtitlan_DE-DE9365650175",
-        "copyright": "Sonnenaufgang am Atitlán-See, Guatemala (© shayes17/Getty Images)",
-        "copyrightKeyword": "Lago de Atitlán Guatemala",
-        "hsh": "46fd509611144cbcb25e46782ac7fa97"
+        "hsh": "6f2bfea1558789202098be2ef0fc00ea"
     }
 ]
