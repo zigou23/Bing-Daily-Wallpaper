@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607160400",
+        "date": "20260716",
+        "url": "https://www.bing.com/th?id=OHR.VaiUmbrellas_FR-CA5486020151_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.VaiUmbrellas_FR-CA5486020151",
+        "copyright": "Chaises longues sur la plage de Vaï, Crète, Grèce (© borchee/Getty Images)",
+        "copyrightKeyword": "Crète",
+        "hsh": "7cd8ac83ad2e0454953c76a5cec545c6",
+        "description": "Sur la pointe nord‑est de la Crète, loin de l’agitation touristique, la plage de Vaï déroule son croissant de sable doré, ses eaux turquoise et ses rangées de parasols qui invitent à la détente. Derrière ce décor se cache pourtant un trésor unique en Europe : la plus grande palmeraie de palmiers dattiers du continent, avec plus de 5 000 Phoenix theophrasti, une espèce endémique. Selon la légende, cette oasis serait née des noyaux jetés par des pirates arabes ou des soldats égyptiens.",
+        "maplink": "35.30972,24.89333"
+    },
+    {
         "fullstartdate": "202607150400",
         "date": "20260715",
         "url": "https://www.bing.com/th?id=OHR.KatahdinWWNM_FR-CA5380582641_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SapaVietnam_FR-CA4135263049",
         "copyright": "Champs de riz à Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)",
         "copyrightKeyword": "Lào Cai Vietnam",
-        "hsh": "017144fcdcb1f3f528c726227d968b0d",
-        "description": "La lumière du soleil perce les nuages et éclaire les rizières en terrasses de Sapa, qui dévalent les montagnes comme un immense escalier vivant. Située dans la province de Lào Cai, au Vietnam, cette région spectaculaire a été façonnée au fil des siècles par les communautés ethniques locales, notamment les Hmong. Génération après génération, elles ont aménagé ces terrasses et mis au point un ingénieux réseau d'irrigation permettant de cultiver le riz sur des pentes escarpées.",
-        "maplink": "22.374456,103.842076"
-    },
-    {
-        "fullstartdate": "202607080400",
-        "date": "20260708",
-        "url": "https://www.bing.com/th?id=OHR.LakeAtitlan_FR-CA5950856874_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LakeAtitlan_FR-CA5950856874",
-        "copyright": "Lever du soleil sur le lac Atitlán, Guatemala (© shayes17/Getty Images)",
-        "copyrightKeyword": "lac atitlan guatemala",
-        "hsh": "53c396b797d8047976d3bb67bd0ef15b"
+        "hsh": "017144fcdcb1f3f528c726227d968b0d"
     }
 ]

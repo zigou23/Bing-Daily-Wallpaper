@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607162200",
+        "date": "20260717",
+        "url": "https://www.bing.com/th?id=OHR.VaiUmbrellas_DE-DE2887576952_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.VaiUmbrellas_DE-DE2887576952",
+        "copyright": "Liegestühle am Sandstrand von Vai, Kreta, Griechenland (© borchee/Getty Images)",
+        "copyrightKeyword": "Kreta Griechenland",
+        "hsh": "aecd510251658bb7c08844219f2dca53",
+        "description": "Im Osten der griechischen Insel Kreta liegt ein echtes Naturparadies: Vai. Der idyllische Küstenort, 94 Kilometer östlich von Agios Nikolaos und 24 Kilometer von Sitia entfernt, begeistert mit hellem Sand, türkisfarbenem Wasser und mediterranem Flair. Auf unserem heutigen Bild setzen die in Reihen angeordneten blauen Sonnenschirme farbenfrohe Akzente auf dem goldenen Sand und vermitteln die entspannte Atmosphäre dieses beliebten Strandes. Besonders beeindruckend ist der natürliche Palmenhain mit mehr als 5.000 kretischen Dattelpalmen – der größte seiner Art in Europa. Einer Legende zufolge wuchsen die Palmen aus Dattelkernen, die Piraten hier einst zurückließen.",
+        "maplink": "35.30972,24.89333"
+    },
+    {
         "fullstartdate": "202607152200",
         "date": "20260716",
         "url": "https://www.bing.com/th?id=OHR.NavyPier_DE-DE6672447932_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.VictoriaBeach_DE-DE7288099938",
         "copyright": "Luftaufnahme von Land und Meer, Victoria, Australien (© Nearmap/Getty Images)",
         "copyrightKeyword": "Victoria Australien",
-        "hsh": "fcd80c0340a15b3192fa8099fd52f51e",
-        "description": "Aus der Luft eröffnet sich entlang der Küste von Victoria in Australien eine eindrucksvolle Landschaft, in der sich Land und Meer ständig begegnen. Über eine Länge von mehr als 2 500 Kilometern prägt die Küste entlang der Bass Strait und angrenzender Meeresgebiete die Küstenlinie mit hellen Sandstränden, türkisfarbenem Wasser und schroffen Klippen. Diese Kontraste wirken aus der Vogelperspektive besonders deutlich. Die berühmte Great Ocean Road folgt rund 240 Kilometern dieser abwechslungsreichen Küste und verbindet beliebte Surfspots, bewaldete Landspitzen und kleine Orte direkt am Meer.",
-        "maplink": "-36.850086,144.304291"
-    },
-    {
-        "fullstartdate": "202607082200",
-        "date": "20260709",
-        "url": "https://www.bing.com/th?id=OHR.SapaVietnam_DE-DE8741456092_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SapaVietnam_DE-DE8741456092",
-        "copyright": "Reisfelder in Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)",
-        "copyrightKeyword": "Sapa Reisfelder Vietnam",
-        "hsh": "6f2bfea1558789202098be2ef0fc00ea"
+        "hsh": "fcd80c0340a15b3192fa8099fd52f51e"
     }
 ]

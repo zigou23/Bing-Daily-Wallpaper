@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607160400",
+        "date": "20260716",
+        "url": "https://www.bing.com/th?id=OHR.NavyPier_EN-CA7051482723_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.NavyPier_EN-CA7051482723",
+        "copyright": "Navy Pier, Chicago, Illinois, United States (© Christopher.F Photography/Getty Images)",
+        "copyrightKeyword": "Navy Pier Chicago",
+        "hsh": "57a2fd5fc2c185387924f8d4b2669d37",
+        "description": "Some places are built for a single purpose; others keep reinventing themselves. Navy Pier in Chicago, Illinois, United States, falls into the second category. The structure stretches more than 915 metres into the lake and was designed as part of Edward H. Bennett's and Daniel Burnham's 1909 Plan of Chicago. Opened in 1916, the pier was built for shipping, recreation and passenger travel on Lake Michigan. It was renamed Navy Pier in honour of World War I naval veterans.",
+        "maplink": "41.892227,-87.605187"
+    },
+    {
         "fullstartdate": "202607150400",
         "date": "20260715",
         "url": "https://www.bing.com/th?id=OHR.MarieLake_EN-CA6168691994_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SapaVietnam_EN-CA8786405123",
         "copyright": "Rice fields at Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)",
         "copyrightKeyword": "Lào Cai Vietnam",
-        "hsh": "ba156c0ded87b1dbe3824a9d92a7d19e",
-        "description": "The morning mist begins to lift as sunlight cuts through, revealing rows of green terraces climbing the mountainsides. Soon, the sound of running water and farm work replaces the silence. This is a familiar scene in Sapa, northern Vietnam, where generations of ethnic communities have shaped steep hills into rice fields that continue to support local families today. Using knowledge refined over centuries, farmers in Lào Cai province built terraces that slow water flowing downhill, helping to protect the soil while creating space to grow rice in challenging terrain.",
-        "maplink": "22.374456,103.842076"
-    },
-    {
-        "fullstartdate": "202607080400",
-        "date": "20260708",
-        "url": "https://www.bing.com/th?id=OHR.LakeAtitlan_EN-CA2759659537_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LakeAtitlan_EN-CA2759659537",
-        "copyright": "Sunrise at Lake Atitlán, Guatemala (© shayes17/Getty Images)",
-        "copyrightKeyword": "Lake Atitlan Guatemala",
-        "hsh": "5fd30d2b845ef8f3a7f9d8df40f3687e"
+        "hsh": "ba156c0ded87b1dbe3824a9d92a7d19e"
     }
 ]
