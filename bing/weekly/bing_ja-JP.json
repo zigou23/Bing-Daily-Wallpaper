@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607171500",
+        "date": "20260718",
+        "url": "https://www.bing.com/th?id=OHR.DevilsBridge_JA-JP0713285567_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.DevilsBridge_JA-JP0713285567",
+        "copyright": "ラコツ橋, ドイツ (© Mike Mareen/Getty Images)",
+        "copyrightKeyword": "ラコツ橋",
+        "hsh": "1e1de8411cbd33f2ce6b2bab8e1e6db7",
+        "description": "今日の画像は、幻想的で美しい「魔橋」とも呼ばれるラコツ橋。ドイツのクロムラウ・ツツジシャクナゲ公園内にあるこの橋は、玄武岩などを利用して 1860 年代に造られました。水面に映ると円を描くように見える独特の設計が特徴です。その神秘的な姿から人気の写真スポットとなっているほか、人気映画シリーズ「マトリックス」の四作目、「マトリックス レザレクションズ」のロケ地としても使用されました。その緻密な構造を保護するため、現在、橋を渡ることは禁止されています。",
+        "maplink": "51.53661,14.640453"
+    },
+    {
         "fullstartdate": "202607161500",
         "date": "20260717",
         "url": "https://www.bing.com/th?id=OHR.GionFestival2026_JA-JP0488381919_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AurayBrittany_JA-JP5965695214",
         "copyright": "サン＝グスタン港, フランス (© Rolf E. Staerk/Shutterstock)",
         "copyrightKeyword": "サン＝グスタン港",
-        "hsh": "00daff9f231c180c8948d437ac8a0620",
-        "description": "ここは、サン＝グスタン港。フランスのブルターニュ地域圏にある港町オーレーの港です。その歴史は 12 世紀にまでさかのぼり、当時のブルターニュ公が橋や港、さらに城塞を築いたことに始まります。1776 年には、米国建国の父ともいわれるベンジャミン・フランクリンが訪れており、埠頭の一つは、「フランクリン・ドック」と呼ばれるようになりました。港は 19 世紀まで船の入港が可能でしたが、現在ではツアーの寄港地やマリーナとして利用されています。",
-        "maplink": "47.664311,-2.977482"
-    },
-    {
-        "fullstartdate": "202607091500",
-        "date": "20260710",
-        "url": "https://www.bing.com/th?id=OHR.VictoriaBeach_JA-JP5622574083_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.VictoriaBeach_JA-JP5622574083",
-        "copyright": "ビクトリア州にあるビーチ, オーストラリア (© Nearmap/Getty Images)",
-        "copyrightKeyword": "ビクトリア州にあるビーチ",
-        "hsh": "71bcd16ec3fc8aab3cae42a191bb2ae0"
+        "hsh": "00daff9f231c180c8948d437ac8a0620"
     }
 ]

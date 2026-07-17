@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607172200",
+        "date": "20260718",
+        "url": "https://www.bing.com/th?id=OHR.DevilsBridge_ES-ES8242183956_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.DevilsBridge_ES-ES8242183956",
+        "copyright": "Puente Rakotzbrücke en Rhododendronpark Kromlau, Sajonia, Alemania (© Mike Mareen/Getty Images)",
+        "copyrightKeyword": "Puente del diablo Rhododendronpark Kromlau",
+        "hsh": "3547a9b7a49a9353a18752a26932808d",
+        "description": "En el Rakotzbrücke (Puente del Diablo), en Sajonia, Alemania, piedra y reflejo se funden hasta crear un círculo casi perfecto sobre el agua. Construido en 1860 con basalto local, su arco fue diseñado con tal precisión que, en calma absoluta, su silueta y su reflejo forman una figura continua de sorprendente armonía visual.",
+        "maplink": "51.53661,14.640453"
+    },
+    {
         "fullstartdate": "202607162200",
         "date": "20260717",
         "url": "https://www.bing.com/th?id=OHR.PerseidasTenerife_ES-ES7757979261_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AurayBrittany_ES-ES0686964132",
         "copyright": "Puerto de Saint-Goustan, Auray, Bretaña, Francia (© Rolf E. Staerk/Shutterstock)",
         "copyrightKeyword": "Auray Saint-Goustan Francia",
-        "hsh": "49cbb888776c42d3d5033a1ff640b28e",
-        "description": "En el Puerto de Saint-Goustan, en Auray, Francia, el tiempo parece detenerse donde un pequeño estuario se abre al golfo de Morbihan. Sus muelles empedrados, casas con entramado de madera y callejuelas estrechas evocan rincones históricos del norte de España como Hondarribia o Combarro, donde el pasado sigue vivo junto al agua.",
-        "maplink": "47.664311,-2.977482"
-    },
-    {
-        "fullstartdate": "202607092200",
-        "date": "20260710",
-        "url": "https://www.bing.com/th?id=OHR.VictoriaBeach_ES-ES0275659103_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.VictoriaBeach_ES-ES0275659103",
-        "copyright": "Vista aérea de tierra y océano, Victoria, Australia (© Nearmap/Getty Images)",
-        "copyrightKeyword": "Victoria Australia",
-        "hsh": "32f748da5fb73f469c80ad78930ca195"
+        "hsh": "49cbb888776c42d3d5033a1ff640b28e"
     }
 ]

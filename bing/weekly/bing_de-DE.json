@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607172200",
+        "date": "20260718",
+        "url": "https://www.bing.com/th?id=OHR.DevilsBridge_DE-DE6987454445_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.DevilsBridge_DE-DE6987454445",
+        "copyright": "Rakotzbrücke in Kromlau, Sachsen (© Mike Mareen/Getty Images)",
+        "copyrightKeyword": "Rakotzbrücke Kromlau",
+        "hsh": "365776fdb4094cee67f7805feda2a2f6",
+        "description": "Wenn sich die Rakotzbrücke im sächsischen Kromlau im Rakotzsee spiegelt, entsteht ein unwirklich wirkender, fast perfekter Kreis aus Stein. Die schmale Brücke wurde im 19. Jahrhundert so entworfen, dass ihr Bogen und die Reflexion im ruhigen Wasser exakt ineinandergreifen.",
+        "maplink": "51.53661,14.640453"
+    },
+    {
         "fullstartdate": "202607162200",
         "date": "20260717",
         "url": "https://www.bing.com/th?id=OHR.VaiUmbrellas_DE-DE2887576952_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AurayBrittany_DE-DE3196003934",
         "copyright": "Hafen von Saint-Goustan, Auray, Bretagne, Frankreich (© Rolf E. Staerk/Shutterstock)",
         "copyrightKeyword": "Hafen von Saint-Goustan",
-        "hsh": "bc81e87baad97bcdf69eb0c0dbe17c0b",
-        "description": "Der Hafen von Saint-Goustan in Auray in der Bretagne in Frankreich gehört zu den stimmungsvollsten Orten der Region. Er liegt an einer geschützten Mündung, wo der Loc’h und der Auray zusammen eine riaartige Flussmündung bilden, die sich in Richtung Golf von Morbihan öffnet. Bereits im Mittelalter entstand hier ein wichtiger Handelsplatz, der unter den Herzögen der Bretagne ausgebaut wurde und bis heute seinen historischen Charakter bewahrt hat.",
-        "maplink": "47.664311,-2.977482"
-    },
-    {
-        "fullstartdate": "202607092200",
-        "date": "20260710",
-        "url": "https://www.bing.com/th?id=OHR.VictoriaBeach_DE-DE7288099938_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.VictoriaBeach_DE-DE7288099938",
-        "copyright": "Luftaufnahme von Land und Meer, Victoria, Australien (© Nearmap/Getty Images)",
-        "copyrightKeyword": "Victoria Australien",
-        "hsh": "fcd80c0340a15b3192fa8099fd52f51e"
+        "hsh": "bc81e87baad97bcdf69eb0c0dbe17c0b"
     }
 ]

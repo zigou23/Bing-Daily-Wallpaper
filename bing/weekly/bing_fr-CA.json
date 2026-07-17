@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202607170400",
+        "date": "20260717",
+        "url": "https://www.bing.com/th?id=OHR.GrainSilosSK_FR-CA5844338431_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GrainSilosSK_FR-CA5844338431",
+        "copyright": "Une tempête se forme au-dessus de silos à grains en Saskatchewan (© mysticenergy/Getty Images)",
+        "copyrightKeyword": "La Saskatchewan",
+        "hsh": "222e5e16a90934bcf2f5bca2d0c41918",
+        "description": "Sur les vastes plaines de la Saskatchewan, un agriculteur lève les yeux vers un ciel lourd de nuages sombres. La récolte est terminée, mais le travail continue. Au loin, les silos à grains se dressent comme des sentinelles, protégeant les cultures de l’humidité, de la pluie et des tempêtes qui balayent les Prairies."
+    },
+    {
         "fullstartdate": "202607160400",
         "date": "20260716",
         "url": "https://www.bing.com/th?id=OHR.VaiUmbrellas_FR-CA5486020151_1920x1080.jpg",
@@ -71,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SummerBC_FR-CA8117974195",
         "copyright": "Fleurs sauvages au bord du lac Emerald en été, Parc national Yoho, Colombie-Britannique (© Olga Matveeva/Getty Images)",
         "copyrightKeyword": "Parc national Yoho",
-        "hsh": "7fe8a25b1a468a986fffa61117a96a95",
-        "description": "Devant les eaux vert émeraude du lac Emerald, un mot s’impose : émerveillement. Niché au cœur du Parc national de Yoho, dans les Rocheuses canadiennes, ce paysage protégé depuis 1886 réunit montagnes imposantes, forêts profondes et trésors naturels d’une grande richesse.",
-        "maplink": "51.775581,-116.446406"
-    },
-    {
-        "fullstartdate": "202607090400",
-        "date": "20260709",
-        "url": "https://www.bing.com/th?id=OHR.SapaVietnam_FR-CA4135263049_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SapaVietnam_FR-CA4135263049",
-        "copyright": "Champs de riz à Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)",
-        "copyrightKeyword": "Lào Cai Vietnam",
-        "hsh": "017144fcdcb1f3f528c726227d968b0d"
+        "hsh": "7fe8a25b1a468a986fffa61117a96a95"
     }
 ]
