@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202607182200",
+        "date": "20260719",
+        "url": "https://www.bing.com/th?id=OHR.HirundoRustica_FR-FR5403619513_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.HirundoRustica_FR-FR5403619513",
+        "copyright": "Hirondelles rustiques de différentes sous-espèces se reposant ensemble (© Oscar Dominguez/Tandem Stills + Motion)",
+        "copyrightKeyword": "hirondelle rustique",
+        "hsh": "159f83c722957a918c1c9fd4e6e65b66",
+        "description": "Perchées sur de fines tiges de roseaux, des hirondelles rustiques s’accordent une pause étonnamment immobile. Leur silhouette légère contraste avec la fulgurance habituelle de leur vol, fait de virages serrés et de poursuites aériennes au‑dessus des champs et des plans d’eau. Ici, dans ce calme suspendu, elles semblent écouter le silence."
+    },
+    {
         "fullstartdate": "202607172200",
         "date": "20260718",
         "url": "https://www.bing.com/th?id=OHR.DevilsBridge_FR-FR5259113427_1920x1080.jpg",
@@ -71,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.KatahdinWWNM_FR-FR2337328139",
         "copyright": "Monument national des bois et des eaux de Katahdin, Maine, États-Unis (© Cavan Images/Offset/Shutterstock)",
         "copyrightKeyword": "Monument des bois et des eaux Katahdin",
-        "hsh": "b749c69c51682d042f5ccb12a89a5f77",
-        "description": "Pour découvrir le Maine (États-Unis) dans ce qu’il a de plus sauvage, il faut venir ici. Le monument national des Bois et des Eaux de Katahdin couvre près de 35 000 hectares de forêts profondes, où étangs silencieux et pistes isolées composent un paysage brut et préservé.",
-        "maplink": "46.156481,-68.717751"
-    },
-    {
-        "fullstartdate": "202607102200",
-        "date": "20260711",
-        "url": "https://www.bing.com/th?id=OHR.AurayBrittany_FR-FR2151221761_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AurayBrittany_FR-FR2151221761",
-        "copyright": "Port de Saint-Goustan, Auray, Bretagne (© Rolf E. Staerk/Shutterstock)",
-        "copyrightKeyword": "Auray Saint-Goustan France",
-        "hsh": "f8bc0e2194ecdb0e37a02e1635102d51"
+        "hsh": "b749c69c51682d042f5ccb12a89a5f77"
     }
 ]

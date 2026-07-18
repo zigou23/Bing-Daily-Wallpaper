@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607180400",
+        "date": "20260718",
+        "url": "https://www.bing.com/th?id=OHR.DevilsBridge_EN-CA9488720591_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.DevilsBridge_EN-CA9488720591",
+        "copyright": "Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany (© Mike Mareen/Getty Images)",
+        "copyrightKeyword": "Devils Bridge Kromlau",
+        "hsh": "1cc13151214aaa76c93e62519eea6b63",
+        "description": "Reflected in still water, the Rakotzbrücke—commonly known as the Devil's Bridge—forms a near-perfect stone circle in Saxony, Germany. Commissioned in 1860, the narrow basalt structure was carefully engineered so that its arch and reflection align to form a seamless ring when the lake is still. Made from basalt, a volcanic rock, it reflects precise design rather than practical function, its striking geometry intended purely for visual effect. A popular photo subject, it has also appeared in films, including 'The Matrix Resurrections' (2021). Today, the fragile bridge can only be admired from the shore, as crossing is prohibited to preserve it.",
+        "maplink": "51.53661,14.640453"
+    },
+    {
         "fullstartdate": "202607170400",
         "date": "20260717",
         "url": "https://www.bing.com/th?id=OHR.GrainSilosSK_EN-CA7421778186_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BoneyardBeach_EN-CA4145832513",
         "copyright": "Driftwood on Boneyard Beach, Hunting Island, South Carolina (© Frances/Adobe Stock)",
         "copyrightKeyword": "Hunting Island",
-        "hsh": "f2d1077ee9210e87a6eba17dd07c1a2c",
-        "description": "At Boneyard Beach within Hunting Island State Park, South Carolina, United States, the first thing you notice is the trees. Then comes the question: why are bleached trunks and exposed roots scattered across the sand like a scene paused midway through collapse? Since the 1980s, Hunting Island has experienced major beach erosion, with some of the highest rates along the US East Coast—reaching up to 9 metres per year in certain areas.",
-        "maplink": "32.40758,-80.445631"
-    },
-    {
-        "fullstartdate": "202607100400",
-        "date": "20260710",
-        "url": "https://www.bing.com/th?id=OHR.SummerBC_EN-CA3026184215_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SummerBC_EN-CA3026184215",
-        "copyright": "Pink wildflowers by Emerald Lake in summer, Yoho National Park, British Columbia (© Olga Matveeva/Getty Images)",
-        "copyrightKeyword": "Yoho National Park",
-        "hsh": "cee7e9b40a108844e6eab9b58bce0dda"
+        "hsh": "f2d1077ee9210e87a6eba17dd07c1a2c"
     }
 ]
