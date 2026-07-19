@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202607192200",
+        "date": "20260720",
+        "url": "https://www.bing.com/th?id=OHR.Artemis_DE-DE7510070152_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.Artemis_DE-DE7510070152",
+        "copyright": "Mond und Erde, aufgenommen von der Artemis-II-Crew (© NASA)",
+        "copyrightKeyword": "Internationaler Tag des Mondes",
+        "hsh": "38cebf1f767bea0003e76fa23958ac5b",
+        "description": "Ein Blick vom Mond aus eröffnet eine ungewohnte Perspektive: Die Erde erscheint dort lediglich als schmale, leuchtende Sichel vor dem dunklen Hintergrund des Alls. Die von Kratern übersäte Mondoberfläche ist das Ergebnis von Milliarden Jahren kosmischer Einschläge und bewahrt Spuren aus der Frühzeit des Sonnensystems. Am 20. Juli wird der Internationale Mondtag begangen. Er erinnert an die Apollo-11-Landung von 1969, als erstmals Menschen den Mond betraten. Die Vereinten Nationen führten den Gedenktag 2021 ein, um sowohl historische Errungenschaften als auch die fortlaufende Erforschung des Mondes in den Fokus zu rücken."
+    },
+    {
         "fullstartdate": "202607182200",
         "date": "20260719",
         "url": "https://www.bing.com/th?id=OHR.HirundoRustica_DE-DE7127271974_1920x1080.jpg",
@@ -70,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MunichTwilight_DE-DE5540064188",
         "copyright": "München mit der Frauenkirche vor den Alpen, Bayern (© MarcelStrelow/Getty Images)",
         "copyrightKeyword": "Münchner Opernfestspiele",
-        "hsh": "f3416c278f8f871d864ee38ab57f7e08",
-        "description": "Münchens Skyline leuchtet in der Dämmerung, während sich die Türme der Frauenkirche markant vor der Silhouette der Alpen abzeichnen und der Himmel langsam in tiefe Blau- und Violetttöne übergeht. In dieser eindrucksvollen Kulisse finden jeden Sommer die Münchner Opernfestspiele statt, eines der bedeutendsten Klassikfestivals Europas. Über mehrere Wochen hinweg verwandelt sich die Stadt in einen kulturellen Mittelpunkt, an dem die Bayerische Staatsoper ein vielseitiges Programm aus Opern, Konzerten und Ballettaufführungen präsentiert und damit Besucherinnen und Besucher aus aller Welt anzieht.",
-        "maplink": "48.139126,11.580219"
-    },
-    {
-        "fullstartdate": "202607112200",
-        "date": "20260712",
-        "url": "https://www.bing.com/th?id=OHR.KatahdinWWNM_DE-DE4221964213_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.KatahdinWWNM_DE-DE4221964213",
-        "copyright": "Katahdin Woods and Waters National Monument in Maine, USA (© Cavan Images/Offset/Shutterstock)",
-        "copyrightKeyword": "Katahdin Woods and Waters National Monument Vereinigte Staaten Informationen",
-        "hsh": "18d2f6b7da5c9dc2c30eba10ea66341e"
+        "hsh": "f3416c278f8f871d864ee38ab57f7e08"
     }
 ]

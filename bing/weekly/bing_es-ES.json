@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202607192200",
+        "date": "20260720",
+        "url": "https://www.bing.com/th?id=OHR.Artemis_ES-ES9353344735_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.Artemis_ES-ES9353344735",
+        "copyright": "Luna y Tierra capturadas por la tripulación Artemis II (© NASA)",
+        "copyrightKeyword": "Día Internacional de la Luna",
+        "hsh": "4118ede855e9b1fd85f774f9e503a10a",
+        "description": "Desde la superficie de la Luna, la Tierra aparece como una fina media luna brillante suspendida en la oscuridad, una imagen que invierte por completo nuestra perspectiva habitual. Este paisaje, marcado por cráteres formados durante miles de millones de años, conserva la memoria del origen del sistema solar. El veinte de julio se celebra el Día Internacional de la Luna, en recuerdo del alunizaje del Apolo 11 en 1969, una fecha clave en la exploración humana."
+    },
+    {
         "fullstartdate": "202607182200",
         "date": "20260719",
         "url": "https://www.bing.com/th?id=OHR.HirundoRustica_ES-ES1865458756_1920x1080.jpg",
@@ -69,17 +79,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.NavajoSandstone_ES-ES1041732911",
         "copyright": "Antelope Canyon en la Nación Navajo, al este de Page, Arizona, EE. UU. (© Mark Skalny/Getty Images)",
         "copyrightKeyword": "Día internacional de la roca geología",
-        "hsh": "35fa0c5ffb108d1e44e076104b2469bc",
-        "description": "El Día Internacional de las Rocas, celebrado el trece de julio, invita a mirar con nuevos ojos paisajes como Antelope Canyon, en Arizona, Estados Unidos, donde la geología cobra vida en cada curva de piedra. Este cañón estrecho, esculpido durante siglos en arenisca por riadas y erosión, revela cómo el agua y el tiempo transforman la Tierra con una precisión casi artística. Sus paredes onduladas, teñidas de rojo y naranja, capturan la luz en haces que parecen moverse.",
-        "maplink": "40.837774,-118.280526"
-    },
-    {
-        "fullstartdate": "202607112200",
-        "date": "20260712",
-        "url": "https://www.bing.com/th?id=OHR.KatahdinWWNM_ES-ES0827560100_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.KatahdinWWNM_ES-ES0827560100",
-        "copyright": "Monumento Nacional Katahdin Woods and Waters, Maine, EE. UU.  (© Cavan Images/Offset/Shutterstock)",
-        "copyrightKeyword": "Monumento Nacional Katahdin Woods and Waters",
-        "hsh": "813e2442c2a5e29fa293fa17ad7a0f52"
+        "hsh": "35fa0c5ffb108d1e44e076104b2469bc"
     }
 ]

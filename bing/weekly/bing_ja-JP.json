@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202607191500",
+        "date": "20260720",
+        "url": "https://www.bing.com/th?id=OHR.Artemis_JA-JP1736021856_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.Artemis_JA-JP1736021856",
+        "copyright": "月から見た地球 (© NASA)",
+        "copyrightKeyword": "国際月の日",
+        "hsh": "963aeddc07d487ce5f42775e237b3a9d",
+        "description": "今日、7 月 20 日は「国際月の日」。1969 年にアポロ 11 号の乗組員が、人類初の月面着陸を行った日です。2021 年に国連総会の決議により採択されたもので、月探査のこれまでの成果や、将来の探査・国際協力に向けた取り組みへの理解を深める日です。そして、今日の画像は月から眺めた地球。クレーターに覆われた月から見ることで、逆に地球が「三日月」のように見えています。月のこの荒涼とした風景は、数十億年にわたる隕石の衝突によって形づくられたもので、人類が誕生する以前からの太陽系の歴史を今に伝えています。"
+    },
+    {
         "fullstartdate": "202607181500",
         "date": "20260719",
         "url": "https://www.bing.com/th?id=OHR.HirundoRustica_JA-JP1327555795_1920x1080.jpg",
@@ -71,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.NavajoSandstone_JA-JP6458327046",
         "copyright": "アンテロープ・キャニオン, 米国 アリゾナ州 (© Mark Skalny/Getty Images)",
         "copyrightKeyword": "国際岩の日",
-        "hsh": "042a2997e889542ec37f672ae3b1b8a8",
-        "description": "今日 7 月 13 日は国際岩の日 (International Rock Day) 。岩石が人類の歴史や地球の形成に果たしてきた重要な役割を称える日です。そして、今日の画像は、米国アリゾナ州ペイジ近郊のナバホ族の土地に位置するアンテロープ・キャニオン。水による浸食や堆積物などにより、何百万年もの時間をかけてナバホ砂岩が削り出されることで形成されました。滑らかにうねる独特な岩肌が、地球と岩石の雄大な歴史を象徴しています。",
-        "maplink": "36.952764,-111.441278"
-    },
-    {
-        "fullstartdate": "202607111500",
-        "date": "20260712",
-        "url": "https://www.bing.com/th?id=OHR.KatahdinWWNM_JA-JP6177719073_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.KatahdinWWNM_JA-JP6177719073",
-        "copyright": "カタディン・ウッズ・アンド・ウォーターズ国定記念物, 米国 メイン州 (© Cavan Images/Offset/Shutterstock)",
-        "copyrightKeyword": "カタディン・ウッズ・アンド・ウォーターズ国定記念物",
-        "hsh": "620dbefe02e9518a7409220dc2e1f5c5"
+        "hsh": "042a2997e889542ec37f672ae3b1b8a8"
     }
 ]

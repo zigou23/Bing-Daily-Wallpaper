@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202607192300",
+        "date": "20260720",
+        "url": "https://www.bing.com/th?id=OHR.Artemis_EN-GB4404068677_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.Artemis_EN-GB4404068677",
+        "copyright": "Moon and Earth captured by the Artemis II crew (© NASA)",
+        "copyrightKeyword": "International Moon Day",
+        "hsh": "c302665d2765908e2e4fef1e4124aec5",
+        "description": "From the moon's cratered surface, Earth appears as a thin, glowing crescent against the darkness—a rare view that reverses our usual perspective. This stark landscape, shaped by billions of years of impacts, preserves a record of the early solar system. 20 July marks International Moon Day, commemorating the 1969 Apollo 11 landing, when humans first set foot on the lunar surface. Established by the United Nations in 2021, the day highlights past achievements and ongoing efforts to explore the moon."
+    },
+    {
         "fullstartdate": "202607182300",
         "date": "20260719",
         "url": "https://www.bing.com/th?id=OHR.HirundoRustica_EN-GB4164429315_1920x1080.jpg",
@@ -70,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.NavajoSandstone_EN-GB4980697300",
         "copyright": "Antelope Canyon on the Navajo Nation, east of Page, Arizona, United States (© Mark Skalny/Getty Images)",
         "copyrightKeyword": "International Rock Day geology",
-        "hsh": "dbee81a7fc569655ee7eecd246d99139",
-        "description": "International Rock Day, observed on 13 July, celebrates the geological building blocks beneath our feet and encourages curiosity about how rocks shape Earth's landscapes and history. From the dramatic cliffs of Britain's coastline to vast desert canyons abroad, rocks reveal stories of ancient seas, shifting continents and life over millions of years.",
-        "maplink": "40.837774,-118.280526"
-    },
-    {
-        "fullstartdate": "202607112300",
-        "date": "20260712",
-        "url": "https://www.bing.com/th?id=OHR.KatahdinWWNM_EN-GB4389807993_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.KatahdinWWNM_EN-GB4389807993",
-        "copyright": "Katahdin Woods and Waters National Monument, Maine, United States (© Cavan Images/Offset/Shutterstock)",
-        "copyrightKeyword": "Katahdin Woods and Waters National Monument",
-        "hsh": "cd0a74202389183454bb3f64061b489a"
+        "hsh": "dbee81a7fc569655ee7eecd246d99139"
     }
 ]
