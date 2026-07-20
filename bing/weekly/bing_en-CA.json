@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202607200400",
+        "date": "20260720",
+        "url": "https://www.bing.com/th?id=OHR.Artemis_EN-CA9898142366_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.Artemis_EN-CA9898142366",
+        "copyright": "Moon and Earth captured by the Artemis II crew (© NASA)",
+        "copyrightKeyword": "International Moon Day",
+        "hsh": "cd85bd446215cfe257da3999fb5c517c",
+        "description": "From the moon's cratered surface, Earth appears as a thin, glowing crescent against the darkness—a rare view that reverses our usual perspective. This stark landscape, shaped by billions of years of impacts, preserves a record of the early solar system. July 20 marks International Moon Day, commemorating the 1969 Apollo 11 landing, when humans first set foot on the lunar surface. Established by the United Nations in 2021, the day highlights past achievements and ongoing efforts to explore the moon."
+    },
+    {
         "fullstartdate": "202607190400",
         "date": "20260719",
         "url": "https://www.bing.com/th?id=OHR.HirundoRustica_EN-CA9613012856_1920x1080.jpg",
@@ -69,17 +79,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.NavajoSandstone_EN-CA9245641235",
         "copyright": "Antelope Canyon on the Navajo Nation, east of Page, Arizona, United States (© Mark Skalny/Getty Images)",
         "copyrightKeyword": "International Rock Day geology",
-        "hsh": "383fdfdeb80e91b814fc6d25fbee58ee",
-        "description": "International Rock Day, observed on 13 July, celebrates the geological building blocks beneath our feet and the stories they preserve. From ancient tools to towering mountains, rocks reveal clues about shifting continents, changing climates and the evolution of life over millions of years. Few places showcase nature's artistry as vividly as Antelope Canyon on Navajo Nation land in Arizona, seen in today's image. Formed as flash floods gradually eroded Navajo Sandstone over thousands of years, the canyon's graceful, curving walls showcase the slow but relentless force of nature.",
-        "maplink": "40.837774,-118.280526"
-    },
-    {
-        "fullstartdate": "202607120400",
-        "date": "20260712",
-        "url": "https://www.bing.com/th?id=OHR.KatahdinWWNM_EN-CA7288146923_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.KatahdinWWNM_EN-CA7288146923",
-        "copyright": "Katahdin Woods and Waters National Monument, Maine, United States (© Cavan Images/Offset/Shutterstock)",
-        "copyrightKeyword": "Katahdin Woods and Waters National Monument",
-        "hsh": "896436160d5746ed3847714c1506f360"
+        "hsh": "383fdfdeb80e91b814fc6d25fbee58ee"
     }
 ]

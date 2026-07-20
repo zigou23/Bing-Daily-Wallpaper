@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202607200300",
+        "date": "20260720",
+        "url": "https://www.bing.com/th?id=OHR.Artemis_PT-BR6100754238_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.Artemis_PT-BR6100754238",
+        "copyright": "Lua e Terra fotografadas pela tripulação da missão Artemis II (© NASA)",
+        "copyrightKeyword": "Dia Internacional da Lua",
+        "hsh": "ac92937440fa640cb300a01a265e3ae0",
+        "description": "Da superfície marcada por crateras da Lua, a Terra é um fino arco luminoso suspenso na escuridão. É uma inversão curiosa: aqui de cima, nosso planeta não é o cenário principal, mas uma presença distante, quase frágil. O relevo lunar, moldado por bilhões de anos de impactos, guarda uma espécie de arquivo geológico do início do Sistema Solar, sem vento para apagar marcas nem água para redesenhar relevos."
+    },
+    {
         "fullstartdate": "202607190300",
         "date": "20260719",
         "url": "https://www.bing.com/th?id=OHR.SoccerDay_PT-BR5859476382_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.NavajoSandstone_PT-BR2813210432",
         "copyright": "Antelope Canyon, leste de Page, Arizona, Estados Unidos (© Mark Skalny/Getty Images)",
         "copyrightKeyword": "Antelope Canyon no Arizona",
-        "hsh": "90fde1f46e06f39eb7451623564e0b50",
-        "description": "O Antelope Canyon, no Arizona, Estados Unidos, parece ter esquecido que é feito de rocha. As paredes que vemos aqui se dobram e ondulam em curvas tão suaves que lembram tecido em movimento. Mas nasceram de um processo nada delicado: começaram como dunas de areia em um deserto antigo, compactadas ao longo do tempo. Depois, enxurradas repentinas atravessaram fendas estreitas no arenito, remodelando sua forma enchente após enchente."
-    },
-    {
-        "fullstartdate": "202607120300",
-        "date": "20260712",
-        "url": "https://www.bing.com/th?id=OHR.KatahdinWWNM_PT-BR2485169040_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.KatahdinWWNM_PT-BR2485169040",
-        "copyright": "Monumento Nacional Katahdin Woods and Waters, Maine, Estados Unidos (© Cavan Images/Offset/Shutterstock)",
-        "copyrightKeyword": "Maine",
-        "hsh": "abc6e8a307c8ee5b2ecdc3c136716d0e"
+        "hsh": "90fde1f46e06f39eb7451623564e0b50"
     }
 ]

@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607202200",
+        "date": "20260721",
+        "url": "https://www.bing.com/th?id=OHR.SantaCatalina_IT-IT4012109567_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SantaCatalina_IT-IT4012109567",
+        "copyright": "L'Arco di Santa Catalina, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
+        "copyrightKeyword": "L'Arco di Santa Catalina Guatemala",
+        "hsh": "ae42f2fb1de39a531c42198dd32d6d6d",
+        "description": "All’alba ad Antigua, in Guatemala, l’Arco di Santa Catalina si accende di luce dorata, incorniciando le strade di ciottoli con il profilo del vulcano Agua sullo sfondo. Costruito nel XVII secolo, nacque per un’esigenza pratica: permettere alle monache di passare tra edifici senza essere viste. Da soluzione discreta a simbolo iconico, il passo è stato sorprendentemente breve.",
+        "maplink": "14.559567,-90.73426"
+    },
+    {
         "fullstartdate": "202607192200",
         "date": "20260720",
         "url": "https://www.bing.com/th?id=OHR.Artemis_IT-IT9087187961_1920x1080.jpg",
@@ -70,16 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LemonShark_IT-IT7940960388",
         "copyright": "Cucciolo di squalo limone nella foresta di mangrovie, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)",
         "copyrightKeyword": "squalo limone",
-        "hsh": "cbe2058ca8b2cd4a9d1f5183f461eb5c",
-        "description": "Il cucciolo di squalo limone che nuota tra le mangrovie di Eleuthera, alle Bahamas, racconta un lato inaspettato dell’oceano: quello della crescita e della fragilità. Lontano dall’immaginario dominante, questi piccoli predatori iniziano la vita in acque basse e tranquille, dove trovano riparo e condizioni ideali per svilupparsi."
-    },
-    {
-        "fullstartdate": "202607122200",
-        "date": "20260713",
-        "url": "https://www.bing.com/th?id=OHR.NavajoSandstone_IT-IT0263432431_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.NavajoSandstone_IT-IT0263432431",
-        "copyright": "Antelope Canyon sulla Nazione Navajo, a est di Page, Arizona, USA (© Mark Skalny/Getty Images)",
-        "copyrightKeyword": "L'Antelope Canyon sulla Nazione Navajo",
-        "hsh": "2c743725a9d695c8c00a322788871c75"
+        "hsh": "cbe2058ca8b2cd4a9d1f5183f461eb5c"
     }
 ]
