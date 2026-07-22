@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607220400",
+        "date": "20260722",
+        "url": "https://www.bing.com/th?id=OHR.CoralAwareness_EN-CA0311926536_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.CoralAwareness_EN-CA0311926536",
+        "copyright": "Coral reef and beach in Raja Ampat, Indonesia (© SergeUWPhoto/Shutterstock)",
+        "copyrightKeyword": "Coral Reef Awareness Week",
+        "hsh": "5d7adfa9720dd877cdf13d737d4b7552",
+        "description": "Imagine a city built by animals, glowing in the sunlight and bustling with life beneath the waves. That is a coral reef. During Coral Reef Awareness Week, we celebrate these remarkable ecosystems and the countless species that depend on them.",
+        "maplink": "1.050448,131.267654"
+    },
+    {
         "fullstartdate": "202607210400",
         "date": "20260721",
         "url": "https://www.bing.com/th?id=OHR.SantaCatalina_EN-CA0068780262_1920x1080.jpg",
@@ -69,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MarieLake_EN-CA6168691994",
         "copyright": "Marie Lake, John Muir Wilderness near Bishop, California, United States (© Steve Dunleavy/Getty Images)",
         "copyrightKeyword": "John Muir Wilderness",
-        "hsh": "146e156070a61eb64fb415c6bbf3f885",
-        "description": "If mountains could keep a record of the past, the John Muir Wilderness near Bishop, California, would have plenty to share. Its valleys, lakes and granite formations reveal a history shaped over millions of years. Established in 1964, this vast protected area spans more than 2,630 square kilometres of the Sierra Nevada and is named after naturalist John Muir. Today, parts of the Pacific Crest Trail and John Muir Trail pass through the area, drawing hikers into one of the largest high-elevation wilderness regions in the contiguous United States.",
-        "maplink": "36.97615,-118.812278"
-    },
-    {
-        "fullstartdate": "202607140400",
-        "date": "20260714",
-        "url": "https://www.bing.com/th?id=OHR.LemonShark_EN-CA1838897902_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LemonShark_EN-CA1838897902",
-        "copyright": "Lemon shark pup in mangrove forest, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)",
-        "copyrightKeyword": "Shark Awareness Day",
-        "hsh": "5d290deceed276e632a4b8a346ad4896"
+        "hsh": "146e156070a61eb64fb415c6bbf3f885"
     }
 ]

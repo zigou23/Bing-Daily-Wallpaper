@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202607222200",
+        "date": "20260723",
+        "url": "https://www.bing.com/th?id=OHR.PinkDahlia_ES-ES2391047367_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PinkDahlia_ES-ES2391047367",
+        "copyright": "Flor de dalia rosa (© Harald Biebel/Getty Images)",
+        "copyrightKeyword": "Flor de dalia rosa",
+        "hsh": "cef32c19aa8b897bf8fd1387f7957d33",
+        "description": "En las dalias, originarias de México, cada flor parece ocupar el centro del escenario con una presencia inconfundible. Con más de 57.000 variedades cultivadas, estas plantas destacan por su asombrosa diversidad de formas y tamaños, con flores que pueden alcanzar unos 35 centímetros de diámetro y una paleta de colores intensa y vibrante."
+    },
+    {
         "fullstartdate": "202607212200",
         "date": "20260722",
         "url": "https://www.bing.com/th?id=OHR.CoralAwareness_ES-ES8867891901_1920x1080.jpg",
@@ -68,17 +78,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.NavyPier_ES-ES1489693745",
         "copyright": "Muelle de la Armada, Chicago, Illinois, EE. UU. (© Christopher.F Photography/Getty Images)",
         "copyrightKeyword": "Muelle de la Armada Chicago",
-        "hsh": "1338483233d35d231a0107aad5c8e0ad",
-        "description": "En el Muelle de la Armada, en Chicago, Estados Unidos, una pasarela histórica se adentra más de 900 m en el lago Míchigan y muestra cómo un espacio puede reinventarse sin dejar atrás su pasado. Diseñado dentro del Plan de Chicago de 1909 y abierto en 1916, nació como punto estratégico para transporte, ocio y comercio, además de rendir homenaje a los veteranos navales de la Primera Guerra Mundial.",
-        "maplink": "41.892227,-87.605187"
-    },
-    {
-        "fullstartdate": "202607142200",
-        "date": "20260715",
-        "url": "https://www.bing.com/th?id=OHR.MarieLake_ES-ES0302365880_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MarieLake_ES-ES0302365880",
-        "copyright": "Marie Lake, Área silvestre John Muir cerca de Bishop, California, EE. UU. (© Steve Dunleavy/Getty Images)",
-        "copyrightKeyword": "Área silvestre John Muir",
-        "hsh": "ffb3a13df27f5aacdd62aba74f1194c4"
+        "hsh": "1338483233d35d231a0107aad5c8e0ad"
     }
 ]
