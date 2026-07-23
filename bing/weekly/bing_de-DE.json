@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202607232200",
+        "date": "20260724",
+        "url": "https://www.bing.com/th?id=OHR.GalapagosFlamingos_DE-DE1918476943_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GalapagosFlamingos_DE-DE1918476943",
+        "copyright": "Schwarm von Kubaflamingos, Insel Isabela, Galápagos-Inseln, Ecuador (© Tui De Roy/Nature Picture Library)",
+        "copyrightKeyword": "Kubaflamingo",
+        "hsh": "9e5a147992d388c3bdb6d37fdf148a58",
+        "description": "Auf der Insel Isabela lebt ein Schwarm Kubaflamingos in den flachen Lagunen der Galápagos-Inseln, die zu Ecuador gehören. Die eleganten Vögel bewegen sich oft gemeinsam durch das seichte Wasser und suchen dort nach kleinen Krebstieren, Insekten und anderen Nahrungsquellen. Mit ihren langen Beinen und geschwungenen Hälsen prägen sie das Bild vieler Feuchtgebiete der Insel. Vor der Kulisse dunkler Lavafelder und vulkanischer Landschaften bieten sie einen besonders eindrucksvollen Anblick und zählen zu den bekanntesten Vogelarten des Archipels."
+    },
+    {
         "fullstartdate": "202607222200",
         "date": "20260723",
         "url": "https://www.bing.com/th?id=OHR.PinkDahlia_DE-DE7886541218_1920x1080.jpg",
@@ -69,17 +79,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.VaiUmbrellas_DE-DE2887576952",
         "copyright": "Liegestühle am Sandstrand von Vai, Kreta, Griechenland (© borchee/Getty Images)",
         "copyrightKeyword": "Kreta Griechenland",
-        "hsh": "aecd510251658bb7c08844219f2dca53",
-        "description": "Im Osten der griechischen Insel Kreta liegt ein echtes Naturparadies: Vai. Der idyllische Küstenort, 94 Kilometer östlich von Agios Nikolaos und 24 Kilometer von Sitia entfernt, begeistert mit hellem Sand, türkisfarbenem Wasser und mediterranem Flair. Auf unserem heutigen Bild setzen die in Reihen angeordneten blauen Sonnenschirme farbenfrohe Akzente auf dem goldenen Sand und vermitteln die entspannte Atmosphäre dieses beliebten Strandes. Besonders beeindruckend ist der natürliche Palmenhain mit mehr als 5.000 kretischen Dattelpalmen – der größte seiner Art in Europa. Einer Legende zufolge wuchsen die Palmen aus Dattelkernen, die Piraten hier einst zurückließen.",
-        "maplink": "35.30972,24.89333"
-    },
-    {
-        "fullstartdate": "202607152200",
-        "date": "20260716",
-        "url": "https://www.bing.com/th?id=OHR.NavyPier_DE-DE6672447932_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.NavyPier_DE-DE6672447932",
-        "copyright": "Navy Pier in Chicago, Illinois, USA (© Christopher.F Photography/Getty Images)",
-        "copyrightKeyword": "Navy Pier Chicago Vereinigte Staaten",
-        "hsh": "637ec8b8ddaba2a65979ee6a6a1f2a65"
+        "hsh": "aecd510251658bb7c08844219f2dca53"
     }
 ]
