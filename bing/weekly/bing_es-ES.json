@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607242200",
+        "date": "20260725",
+        "url": "https://www.bing.com/th?id=OHR.GaliciaBeach_ES-ES2298992138_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GaliciaBeach_ES-ES2298992138",
+        "copyright": "Playa de las Catedrales, Galicia, España (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)",
+        "copyrightKeyword": "Día de Galicia",
+        "hsh": "6df2695a4c99002e96c9fe6243c836ef",
+        "description": "El norte de Galicia guarda uno de los rincones más impresionantes del litoral español: la Playa de las Catedrales, en Ribadeo, donde el Atlántico ha esculpido durante milenios una arquitectura de piedra que rivaliza con cualquier catedral gótica. Con arcos naturales que alcanzan los treinta metros de altura, esta franja de costa transforma el concepto mismo de playa en algo cercano a lo sublime. Solo con la marea baja el mar se retira lo suficiente para revelar este laberinto de bóvedas, columnas y covachas talladas por las olas.",
+        "maplink": "43.554231,-7.157587"
+    },
+    {
         "fullstartdate": "202607232200",
         "date": "20260724",
         "url": "https://www.bing.com/th?id=OHR.ChicagoTiffany_ES-ES2128020420_1920x1080.jpg",
@@ -68,17 +79,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DevilsBridge_ES-ES8242183956",
         "copyright": "Puente Rakotzbrücke en Rhododendronpark Kromlau, Sajonia, Alemania (© Mike Mareen/Getty Images)",
         "copyrightKeyword": "Puente del diablo Rhododendronpark Kromlau",
-        "hsh": "3547a9b7a49a9353a18752a26932808d",
-        "description": "En el Rakotzbrücke (Puente del Diablo), en Sajonia, Alemania, piedra y reflejo se funden hasta crear un círculo casi perfecto sobre el agua. Construido en 1860 con basalto local, su arco fue diseñado con tal precisión que, en calma absoluta, su silueta y su reflejo forman una figura continua de sorprendente armonía visual.",
-        "maplink": "51.53661,14.640453"
-    },
-    {
-        "fullstartdate": "202607162200",
-        "date": "20260717",
-        "url": "https://www.bing.com/th?id=OHR.PerseidasTenerife_ES-ES7757979261_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PerseidasTenerife_ES-ES7757979261",
-        "copyright": "Vía Láctea y meteoros de las Perseidas sobre el Teide, Observatorio Astronómico de Izaña, Tenerife, Islas Canarias (© Westend61/Getty Images)",
-        "copyrightKeyword": "Observatorio Astronómico de Izana Tenerife",
-        "hsh": "02e0d4538425125ee741cb50ed2c82e3"
+        "hsh": "3547a9b7a49a9353a18752a26932808d"
     }
 ]

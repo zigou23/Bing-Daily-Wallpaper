@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202607242200",
+        "date": "20260725",
+        "url": "https://www.bing.com/th?id=OHR.SardegnaFaro_IT-IT8009785446_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SardegnaFaro_IT-IT8009785446",
+        "copyright": "Il Faro Mangiabarche, Sant'Antioco, Sulcis, Sardegna (© Francesco Riccardo Iacomino/Getty Images)",
+        "copyrightKeyword": "Il Faro Mangiabarche, Sant'Antioco, Sulcis, Sardegna",
+        "hsh": "706b81a830cc4c4f5a8ad0a62e21d92f",
+        "description": "Il Faro Mangiabarche si erge su uno scoglio solitario davanti a Sant'Antioco, nel Sulcis, in Sardegna — un presidio di luce in mezzo al Mediterraneo che per secoli ha guidato i marinai lontano dalle insidie degli scogli. Il nome, evocativo e inquietante, racconta da solo la storia di queste acque: \"mangia barche\", perché qui il mare non perdona."
+    },
+    {
         "fullstartdate": "202607232200",
         "date": "20260724",
         "url": "https://www.bing.com/th?id=OHR.GalapagosFlamingos_IT-IT7890055647_1920x1080.jpg",
@@ -68,17 +78,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.FestaVenezia_IT-IT8709585056",
         "copyright": "Le case colorate di Burano, Venezia, Veneto, Italia (© Nick Brundle Photography/Getty Images)",
         "copyrightKeyword": "Burano Venezia",
-        "hsh": "d285913348dec36e43a4e57564f9144a",
-        "description": "Burano, Italia, incanta con le sue case dai colori vivaci che si riflettono nei canali, un’isola della Laguna di Venezia che sembra uscita da una fiaba. A pochi minuti da Venezia, questo villaggio di pescatori conserva una tradizione secolare di merletti fatti a mano e un ritmo lento, tra botteghe artigiane e piccoli caffè. Chi ama borghi autentici ritrova la stessa atmosfera anche in luoghi italiani come Chioggia, dove il legame con l’acqua scandisce la vita quotidiana.",
-        "maplink": "45.485481,12.417399"
-    },
-    {
-        "fullstartdate": "202607162200",
-        "date": "20260717",
-        "url": "https://www.bing.com/th?id=OHR.VaiUmbrellas_IT-IT8454370780_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.VaiUmbrellas_IT-IT8454370780",
-        "copyright": "Ombrelloni blu su una spiaggia sabbiosa a Vai, Creta, Grecia (© borchee/Getty Images)",
-        "copyrightKeyword": "L'isola Creta Grecia",
-        "hsh": "a496b9aaf9660f3ebad5b273d93722f2"
+        "hsh": "d285913348dec36e43a4e57564f9144a"
     }
 ]

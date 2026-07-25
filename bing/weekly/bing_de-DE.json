@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607242200",
+        "date": "20260725",
+        "url": "https://www.bing.com/th?id=OHR.PrideBerlin_DE-DE3369611592_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PrideBerlin_DE-DE3369611592",
+        "copyright": "Fernsehturm am Alexanderplatz mit Regenbogen, Berlin (© fhm/Getty Images)",
+        "copyrightKeyword": "Berliner Christopher Street Day",
+        "hsh": "7baec00c9927bfe42c287e00c0affa39",
+        "description": "Ein Regenbogen spannt sich neben dem Berliner Fernsehturm über dem Alexanderplatz und setzt einen farbenfrohen Akzent am Himmel über der deutschen Hauptstadt. Das Motiv passt gut zum Christopher Street Day Berlin, dessen Hauptparade heute durch die Stadt zieht. Der CSD erinnert an die Stonewall-Aufstände von 1969 in New York. Nach einer Polizeirazzia im Stonewall Inn kam es zu mehreren Tagen des Protests, die zu einem Symbol der modernen LSBTIQ*-Bewegung wurden. Aus diesen Ereignissen entwickelte sich eine weltweite Tradition von Pride-Veranstaltungen.",
+        "maplink": "52.521099,13.409389"
+    },
+    {
         "fullstartdate": "202607232200",
         "date": "20260724",
         "url": "https://www.bing.com/th?id=OHR.GalapagosFlamingos_DE-DE1918476943_1920x1080.jpg",
@@ -68,17 +79,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DevilsBridge_DE-DE6987454445",
         "copyright": "Rakotzbrücke in Kromlau, Sachsen (© Mike Mareen/Getty Images)",
         "copyrightKeyword": "Rakotzbrücke Kromlau",
-        "hsh": "365776fdb4094cee67f7805feda2a2f6",
-        "description": "Wenn sich die Rakotzbrücke im sächsischen Kromlau im Rakotzsee spiegelt, entsteht ein unwirklich wirkender, fast perfekter Kreis aus Stein. Die schmale Brücke wurde im 19. Jahrhundert so entworfen, dass ihr Bogen und die Reflexion im ruhigen Wasser exakt ineinandergreifen.",
-        "maplink": "51.53661,14.640453"
-    },
-    {
-        "fullstartdate": "202607162200",
-        "date": "20260717",
-        "url": "https://www.bing.com/th?id=OHR.VaiUmbrellas_DE-DE2887576952_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.VaiUmbrellas_DE-DE2887576952",
-        "copyright": "Liegestühle am Sandstrand von Vai, Kreta, Griechenland (© borchee/Getty Images)",
-        "copyrightKeyword": "Kreta Griechenland",
-        "hsh": "aecd510251658bb7c08844219f2dca53"
+        "hsh": "365776fdb4094cee67f7805feda2a2f6"
     }
 ]
