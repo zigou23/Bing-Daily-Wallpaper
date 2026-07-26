@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607262200",
+        "date": "20260727",
+        "url": "https://www.bing.com/th?id=OHR.GaliciaBeach_IT-IT8238080614_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GaliciaBeach_IT-IT8238080614",
+        "copyright": "Spiaggia delle Cattedrali, Galizia, Spagna (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)",
+        "copyrightKeyword": "Galizia Spagna",
+        "hsh": "bcfb64b8d4277ffd00eeb709b90b6193",
+        "description": "Nel remoto angolo nord-occidentale della Spagna, la Galizia incontra l'Atlantico con forza: scogliere scolpite dal mare, insenature nascoste e formazioni rocciose che emergono solo quando la marea si ritira. La Spiaggia delle Cattedrali, vicino a Ribadeo, deve il suo nome agli archi monumentali modellati dall'oceano nel corso dei millenni — architetture naturali che ricordano le navate di una cattedrale gotica.",
+        "maplink": "43.554231,-7.157587"
+    },
+    {
         "fullstartdate": "202607252200",
         "date": "20260726",
         "url": "https://www.bing.com/th?id=OHR.RedMangroveSunrise_IT-IT8134664377_1920x1080.jpg",
@@ -69,16 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.Artemis_IT-IT9087187961",
         "copyright": "Luna e Terra catturate dall'equipaggio di Artemis II (© NASA)",
         "copyrightKeyword": "Giornata Internazionale della Luna",
-        "hsh": "ce5bf38cd1bd1e81981e314898ca80d3",
-        "description": "Sulla superficie craterizzata della Luna, la Terra appare come una sottile falce luminosa sospesa nel buio: una prospettiva rara catturata dall'equipaggio della missione Artemis II, la prima missione con astronauti a circumnavigare la Luna dopo il programma Apollo"
-    },
-    {
-        "fullstartdate": "202607182200",
-        "date": "20260719",
-        "url": "https://www.bing.com/th?id=OHR.HirundoRustica_IT-IT8852691530_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.HirundoRustica_IT-IT8852691530",
-        "copyright": "Rondini di diverse sottospecie che riposano insieme (© Oscar Dominguez/Tandem Stills + Motion)",
-        "copyrightKeyword": "Le Rondini",
-        "hsh": "661e5338d042dea15d5171e3ab552a65"
+        "hsh": "ce5bf38cd1bd1e81981e314898ca80d3"
     }
 ]
