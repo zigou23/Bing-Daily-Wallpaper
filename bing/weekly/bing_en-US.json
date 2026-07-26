@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607250700",
+        "date": "20260725",
+        "url": "https://www.bing.com/th?id=OHR.GaliciaBeach_EN-US1635715019_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GaliciaBeach_EN-US1635715019",
+        "copyright": "Praia das Catedrais, Galicia, Spain (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)",
+        "copyrightKeyword": "Galicia Spain",
+        "hsh": "b2ee23806620742bb9c6928b9f60b011",
+        "description": "In Spain's far northwest, Galicia meets the Atlantic with force—its long coastline carved by waves into cliffs, inlets, and wave-cut platforms. Rain-fed hills and dense forests spill toward the sea, creating a landscape that feels closer to Ireland than southern Spain, with shifting skies and a distinctly Atlantic mood.",
+        "maplink": "43.554231,-7.157587"
+    },
+    {
         "fullstartdate": "202607240700",
         "date": "20260724",
         "url": "https://www.bing.com/th?id=OHR.GalapagosFlamingos_EN-US0364264116_1920x1080.jpg",
@@ -68,17 +79,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DevilsBridge_EN-US3505962815",
         "copyright": "Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany (© Mike Mareen/Getty Images)",
         "copyrightKeyword": "Devils Bridge Kromlau",
-        "hsh": "4e3e95618ac46cba565cf405d946a158",
-        "description": "Reflected in still water, the Rakotzbrücke—commonly known as the Devil's Bridge—forms a near-perfect stone circle in Saxony, Germany. Commissioned in 1860, the narrow basalt structure was carefully engineered so that its arch and reflection align to form a seamless ring when the lake is still. Made from locally sourced volcanic stone, it reflects precise design rather than practical function, its striking geometry intended purely for visual effect. A popular photo subject, it has also appeared in films, including 'The Matrix Resurrections' (2021). Today, the fragile bridge can only be admired from the shore, as crossing is prohibited to preserve it.",
-        "maplink": "51.53661,14.640453"
-    },
-    {
-        "fullstartdate": "202607170700",
-        "date": "20260717",
-        "url": "https://www.bing.com/th?id=OHR.VaiUmbrellas_EN-US8985051242_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.VaiUmbrellas_EN-US8985051242",
-        "copyright": "Sunbeds on the beach at Vai, Crete, Greece (© borchee/Getty Images)",
-        "copyrightKeyword": "Crete Greece",
-        "hsh": "6650bf41fb3dfbac9b3f76fc00d1b8c3"
+        "hsh": "4e3e95618ac46cba565cf405d946a158"
     }
 ]
