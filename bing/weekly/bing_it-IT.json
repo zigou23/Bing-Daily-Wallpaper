@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607272200",
+        "date": "20260728",
+        "url": "https://www.bing.com/th?id=OHR.ChannelKelp_IT-IT8356704681_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ChannelKelp_IT-IT8356704681",
+        "copyright": "Una foresta di alghe al largo dell'isola di Anacapa, Parco Nazionale delle Isole del Canale, California, USA (© Ian Shive/Tandem Stills + Motion)",
+        "copyrightKeyword": "Giornata Mondiale per la Conservazione della Natura",
+        "hsh": "ff320282a317eba30d15a5b24641fd31",
+        "description": "Al largo dell'isola di Anacapa, in California, l'oceano ha costruito le proprie foreste. Nelle acque del Parco Nazionale delle Isole del Canale — soprannominato le \"Galápagos del Nord America\" — le alghe giganti si estendono per oltre trenta metri in lunghezza, formando nastri ondeggianti sostenuti da vesciche d'aria e ancorati al fondale da strutture simili a radici.",
+        "maplink": "34.004342,-119.391995"
+    },
+    {
         "fullstartdate": "202607262200",
         "date": "20260727",
         "url": "https://www.bing.com/th?id=OHR.GaliciaBeach_IT-IT8238080614_1920x1080.jpg",
@@ -69,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SantaCatalina_IT-IT4012109567",
         "copyright": "L'Arco di Santa Catalina, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
         "copyrightKeyword": "L'Arco di Santa Catalina Guatemala",
-        "hsh": "ae42f2fb1de39a531c42198dd32d6d6d",
-        "description": "All’alba ad Antigua, in Guatemala, l’Arco di Santa Catalina si accende di luce dorata, incorniciando le strade di ciottoli con il profilo del vulcano Agua sullo sfondo. Costruito nel XVII secolo, nacque per un’esigenza pratica: permettere alle monache di passare tra edifici senza essere viste. Da soluzione discreta a simbolo iconico, il passo è stato sorprendentemente breve.",
-        "maplink": "14.559567,-90.73426"
-    },
-    {
-        "fullstartdate": "202607192200",
-        "date": "20260720",
-        "url": "https://www.bing.com/th?id=OHR.Artemis_IT-IT9087187961_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.Artemis_IT-IT9087187961",
-        "copyright": "Luna e Terra catturate dall'equipaggio di Artemis II (© NASA)",
-        "copyrightKeyword": "Giornata Internazionale della Luna",
-        "hsh": "ce5bf38cd1bd1e81981e314898ca80d3"
+        "hsh": "ae42f2fb1de39a531c42198dd32d6d6d"
     }
 ]
