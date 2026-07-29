@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607292200",
+        "date": "20260730",
+        "url": "https://www.bing.com/th?id=OHR.NavajoNation_ES-ES2923536313_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.NavajoNation_ES-ES2923536313",
+        "copyright": "El Valle de los Monumentos, Nación Navajo, Arizona, EE. UU. (© Westend61/Adobe Stock)",
+        "copyrightKeyword": "El Valle de los Monumentos",
+        "hsh": "52c8a10d9bbfe9b9c5d9129b2e6dfc47",
+        "description": "Hay paisajes famosos y hay paisajes que se convierten en leyenda. Monument Valley, en la frontera entre Arizona y Utah, dentro de la Nación Navajo, en Estados Unidos, pertenece a esa segunda categoría. Sus gigantescas torres de arenisca roja —algunas superan los 300 metros de altura sobre el valle— no son simples formaciones geológicas: para el pueblo navajo, las icónicas Mitten Buttes son las manos de un gigante dispersadas por la tierra tras una gran batalla.",
+        "maplink": "36.942237,-110.092148"
+    },
+    {
         "fullstartdate": "202607282200",
         "date": "20260729",
         "url": "https://www.bing.com/th?id=OHR.TigerFamily_ES-ES8935295288_1920x1080.jpg",
@@ -72,16 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PinkDahlia_ES-ES2391047367",
         "copyright": "Flor de dalia rosa (© Harald Biebel/Getty Images)",
         "copyrightKeyword": "Flor de dalia rosa",
-        "hsh": "cef32c19aa8b897bf8fd1387f7957d33",
-        "description": "En las dalias, originarias de México, cada flor parece ocupar el centro del escenario con una presencia inconfundible. Con más de 57.000 variedades cultivadas, estas plantas destacan por su asombrosa diversidad de formas y tamaños, con flores que pueden alcanzar unos 35 centímetros de diámetro y una paleta de colores intensa y vibrante."
-    },
-    {
-        "fullstartdate": "202607212200",
-        "date": "20260722",
-        "url": "https://www.bing.com/th?id=OHR.CoralAwareness_ES-ES8867891901_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.CoralAwareness_ES-ES8867891901",
-        "copyright": "Arrecife de coral y playa en Raja Ampat, Indonesia (© SergeUWPhoto/Shutterstock)",
-        "copyrightKeyword": "Raja Ampat Archipiélago de Indonesia",
-        "hsh": "3b15aefd51820306994ff17ae434e004"
+        "hsh": "cef32c19aa8b897bf8fd1387f7957d33"
     }
 ]
