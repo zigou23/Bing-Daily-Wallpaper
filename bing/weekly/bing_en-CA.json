@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607300400",
+        "date": "20260730",
+        "url": "https://www.bing.com/th?id=OHR.NavajoNation_EN-CA0609244482_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.NavajoNation_EN-CA0609244482",
+        "copyright": "Monument Valley, Navajo Nation, Arizona, United States (© Westend61/Adobe Stock)",
+        "copyrightKeyword": "Monument Valley",
+        "hsh": "c6869959c049c1cecbcc346d7953e8fc",
+        "description": "Some landscapes are famous. Monument Valley is legendary. Straddling the Arizona–Utah border within the Navajo Nation, this desert wonder is shaped by towering sandstone buttes that rise as much as 305 metres above the valley floor. Known in Navajo as Tsé Bii' Ndzisgaii—'valley of the rocks'—the region blends dramatic geology with living culture.",
+        "maplink": "36.942237,-110.092148"
+    },
+    {
         "fullstartdate": "202607290400",
         "date": "20260729",
         "url": "https://www.bing.com/th?id=OHR.TigerFamily_EN-CA0136574316_1920x1080.jpg",
@@ -71,16 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PinkDahlia_EN-CA0488598633",
         "copyright": "Pink dahlia flower (© Harald Biebel/Getty Images)",
         "copyrightKeyword": "Dahlia genus plant",
-        "hsh": "7308ae880f26c6486ac2d92ddb3c3053",
-        "description": "Some flowers quietly fill a garden. Dahlias arrive as if they have been cast in the lead role. Native to Mexico, these members of the daisy family come in more than 57,000 cultivated varieties, thanks in part to their unusual genetics. Dahlias are octoploids, meaning they have eight sets of chromosomes, which helps create blooms that range from tiny buttons to 36 centimetres across."
-    },
-    {
-        "fullstartdate": "202607220400",
-        "date": "20260722",
-        "url": "https://www.bing.com/th?id=OHR.CoralAwareness_EN-CA0311926536_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.CoralAwareness_EN-CA0311926536",
-        "copyright": "Coral reef and beach in Raja Ampat, Indonesia (© SergeUWPhoto/Shutterstock)",
-        "copyrightKeyword": "Coral Reef Awareness Week",
-        "hsh": "5d7adfa9720dd877cdf13d737d4b7552"
+        "hsh": "7308ae880f26c6486ac2d92ddb3c3053"
     }
 ]
