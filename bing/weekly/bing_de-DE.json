@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607312200",
+        "date": "20260801",
+        "url": "https://www.bing.com/th?id=OHR.HawaiiLava_DE-DE4111997666_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.HawaiiLava_DE-DE4111997666",
+        "copyright": "Eine Reihe von Lavaströmen mündet ins Meer, Big Island, Hawaii, USA (© Ken McCurdy/Getty Images)",
+        "copyrightKeyword": "Hawai'i-Volcanoes-Nationalpark Übersicht",
+        "hsh": "8c7a47dca6202932fcf0dbe4939e1765",
+        "description": "Im Hawaiʻi-Volcanoes-Nationalpark auf der Big Island im US-Bundesstaat Hawaii verändern vulkanische Kräfte die Landschaft bis heute. Während viele Regionen der Erde ihr Erscheinungsbild erst über Jahrtausende hinweg wandeln, können Ausbrüche hier innerhalb kurzer Zeit neue Formen schaffen. Der Nationalpark in den Vereinigten Staaten wurde am 1. August 1916 gegründet, um dieses außergewöhnliche Naturgebiet zu schützen. Auf einer Fläche von mehr als 350.000 Acres umfasst er Lavafelder, einheimische Wälder und Lebensräume seltener Tierarten, die sich an die besonderen Bedingungen der Insel angepasst haben.",
+        "maplink": "19.61087,-155.52742"
+    },
+    {
         "fullstartdate": "202607302200",
         "date": "20260731",
         "url": "https://www.bing.com/th?id=OHR.VirginiaTrail_DE-DE3922991438_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PrideBerlin_DE-DE3369611592",
         "copyright": "Fernsehturm am Alexanderplatz mit Regenbogen, Berlin (© fhm/Getty Images)",
         "copyrightKeyword": "Berliner Christopher Street Day",
-        "hsh": "7baec00c9927bfe42c287e00c0affa39",
-        "description": "Ein Regenbogen spannt sich neben dem Berliner Fernsehturm über dem Alexanderplatz und setzt einen farbenfrohen Akzent am Himmel über der deutschen Hauptstadt. Das Motiv passt gut zum Christopher Street Day Berlin, dessen Hauptparade heute durch die Stadt zieht. Der CSD erinnert an die Stonewall-Aufstände von 1969 in New York. Nach einer Polizeirazzia im Stonewall Inn kam es zu mehreren Tagen des Protests, die zu einem Symbol der modernen LSBTIQ*-Bewegung wurden. Aus diesen Ereignissen entwickelte sich eine weltweite Tradition von Pride-Veranstaltungen.",
-        "maplink": "52.521099,13.409389"
-    },
-    {
-        "fullstartdate": "202607232200",
-        "date": "20260724",
-        "url": "https://www.bing.com/th?id=OHR.GalapagosFlamingos_DE-DE1918476943_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.GalapagosFlamingos_DE-DE1918476943",
-        "copyright": "Schwarm von Kubaflamingos, Insel Isabela, Galápagos-Inseln, Ecuador (© Tui De Roy/Nature Picture Library)",
-        "copyrightKeyword": "Kubaflamingo",
-        "hsh": "9e5a147992d388c3bdb6d37fdf148a58"
+        "hsh": "7baec00c9927bfe42c287e00c0affa39"
     }
 ]

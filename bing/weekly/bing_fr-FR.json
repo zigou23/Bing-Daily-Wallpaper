@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202607312200",
+        "date": "20260801",
+        "url": "https://www.bing.com/th?id=OHR.SeaStacks_FR-FR4057620009_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SeaStacks_FR-FR4057620009",
+        "copyright": "Stacks près de Wilson Creek Beach, False Klamath Cove, Parc national et parcs d’État de Redwood, Californie, États-Unis (© benedek/Getty Images)",
+        "copyrightKeyword": "False Klamath Cove",
+        "hsh": "f10951ad5b4237f4b55cdec010a91266",
+        "description": "Au large de la côte nord de la Californie, aux États-Unis, les vagues glissent en silence autour de hautes tours de roche sombre dressées face au large. Séparés du continent, ces empilements rocheux se parent d’une lumière changeante, tour à tour adoucie par le brouillard ou renforcée par l’éclat de l’écume. Depuis la grève, ils semblent à la fois immuables et fragiles, sculptés par des forces toujours à l’œuvre.",
+        "maplink": "41.608452,-124.101737"
+    },
+    {
         "fullstartdate": "202607302200",
         "date": "20260731",
         "url": "https://www.bing.com/th?id=OHR.VirginiaTrail_FR-FR7594645617_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.GaliciaBeach_FR-FR6503602591",
         "copyright": "Plage des Cathédrales, Galice, Espagne (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)",
         "copyrightKeyword": "Galice Espagne",
-        "hsh": "763b96abee41a1e4c885a1279ce7bfa4",
-        "description": "À l’extrême nord‑ouest de l’Espagne, la Galice déploie ses falaises sombres face au golfe de Gascogne. Là, près de Ribadeo, l’océan a sculpté dans la roche ce que l’architecture gothique n’a fait qu’évoquer : des arches immenses, des voûtes ouvertes au ciel, des nefs de pierre traversées par la lumière atlantique. La plage des Cathédrales porte son nom avec une gravité méritée.",
-        "maplink": "43.554231,-7.157587"
-    },
-    {
-        "fullstartdate": "202607232200",
-        "date": "20260724",
-        "url": "https://www.bing.com/th?id=OHR.GalapagosFlamingos_FR-FR0682662624_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.GalapagosFlamingos_FR-FR0682662624",
-        "copyright": "Flamboyance de flamants des Caraïbes, île Isabela, îles Galápagos, Équateur (© Tui De Roy/Nature Picture Library)",
-        "copyrightKeyword": "Flamant des Caraïbes",
-        "hsh": "2a3d6364d1467c9d5642bf3c93c640c9"
+        "hsh": "763b96abee41a1e4c885a1279ce7bfa4"
     }
 ]
