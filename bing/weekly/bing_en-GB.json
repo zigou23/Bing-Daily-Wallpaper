@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608012300",
+        "date": "20260802",
+        "url": "https://www.bing.com/th?id=OHR.HelsinkiBlue_EN-GB6980168660_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.HelsinkiBlue_EN-GB6980168660",
+        "copyright": "Helsinki's shoreline during blue hour, Uusimaa, Finland (© Miemo Penttinen/Getty Images)",
+        "copyrightKeyword": "Helsinki",
+        "hsh": "822f5ff1357ca437f540a2484c75d997",
+        "description": "Finland is famous for the northern lights, its high happiness rankings, saunas and thousands of lakes. Helsinki adds history, design and the Baltic Sea to that list. The story begins in 1550, when King Gustav I of Sweden founded a trading town that would become Finland's capital in 1812. Today, a walk through the city can take you from Senate Square and the white-domed Helsinki Cathedral to the sea fortress of Suomenlinna, a UNESCO World Heritage Site accessible by ferry.",
+        "maplink": "60.208715,25.004253"
+    },
+    {
         "fullstartdate": "202607312300",
         "date": "20260801",
         "url": "https://www.bing.com/th?id=OHR.BrightonPride2026_EN-GB6665333938_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.RedMangroveSunrise_EN-GB5065847965",
         "copyright": "Red mangrove in the Pig Keys, Honduras (© Mac Stone/Tandem Stills + Motion)",
         "copyrightKeyword": "International Day for Conservation of the Mangrove Ecosystem",
-        "hsh": "f38826d7eeb1dd424abbed571bf11743",
-        "description": "At sunrise in Honduras' Pig Keys—small, low-lying coastal islets tucked within mangrove-rich wetlands—a red mangrove lifts its tangled roots above glassy water. This striking scene captures what 26 July celebrates: the International Day for the Conservation of the Mangrove Ecosystem, created to spotlight these vital coastal forests.",
-        "maplink": "14.822356,-86.5979"
-    },
-    {
-        "fullstartdate": "202607242300",
-        "date": "20260725",
-        "url": "https://www.bing.com/th?id=OHR.GaliciaBeach_EN-GB4804626985_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.GaliciaBeach_EN-GB4804626985",
-        "copyright": "Praia das Catedrais, Galicia, Spain (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)",
-        "copyrightKeyword": "Galicia Spain",
-        "hsh": "f05cdfb8a713501ca67009af673c5915"
+        "hsh": "f38826d7eeb1dd424abbed571bf11743"
     }
 ]

@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608010400",
+        "date": "20260801",
+        "url": "https://www.bing.com/th?id=OHR.HawaiiLava_EN-CA2181536757_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.HawaiiLava_EN-CA2181536757",
+        "copyright": "A series of lava flows spill into the ocean, Big Island, Hawaii, United States (© Ken McCurdy/Getty Images)",
+        "copyrightKeyword": "Hawaii Volcanoes National Park",
+        "hsh": "92dea9b049415cc9e1930733c839a5a7",
+        "description": "Most landscapes change over thousands of years. Volcanoes can reshape them in a matter of hours, and on Hawaii's Big Island, they continue to do just that. Recognising the scientific and natural importance of this ever-changing environment, Hawaii Volcanoes National Park was established in 1916. For more than a century, it has protected more than 1,416 square kilometres of volcanic terrain, native forests and rare wildlife.",
+        "maplink": "19.61087,-155.52742"
+    },
+    {
         "fullstartdate": "202607310400",
         "date": "20260731",
         "url": "https://www.bing.com/th?id=OHR.VirginiaTrail_EN-CA9063701239_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.GaliciaBeach_EN-CA4896799144",
         "copyright": "Praia das Catedrais, Galicia, Spain (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)",
         "copyrightKeyword": "Galicia Spain",
-        "hsh": "0e34f4919c5cb0c0e7d119b5dee41d93",
-        "description": "In Spain's far northwest, Galicia meets the Atlantic with force—its long coastline carved by waves into cliffs, inlets and wave-cut platforms. Rain-fed hills and dense forests spill toward the sea, creating a landscape that feels closer to Ireland than southern Spain, with shifting skies and a distinctly Atlantic mood.",
-        "maplink": "43.554231,-7.157587"
-    },
-    {
-        "fullstartdate": "202607240400",
-        "date": "20260724",
-        "url": "https://www.bing.com/th?id=OHR.GalapagosFlamingos_EN-CA4325829188_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.GalapagosFlamingos_EN-CA4325829188",
-        "copyright": "Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador (© Tui De Roy/Nature Picture Library)",
-        "copyrightKeyword": "National Cousins Day",
-        "hsh": "78f51d9a292801807c12930e639c1ce4"
+        "hsh": "0e34f4919c5cb0c0e7d119b5dee41d93"
     }
 ]

@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608012200",
+        "date": "20260802",
+        "url": "https://www.bing.com/th?id=OHR.HelsinkiBlue_ES-ES3341783633_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.HelsinkiBlue_ES-ES3341783633",
+        "copyright": "La costa de Helsinki durante la hora azul, Uusimaa, Finlandia (© Miemo Penttinen/Getty Images)",
+        "copyrightKeyword": "Helsinki",
+        "hsh": "e329694f2a9b23b995bb0993933cd757",
+        "description": "Helsinki, la vibrante capital de Finlandia, es una ciudad donde el mar, la historia y el diseño conviven en perfecta armonía. Fundada en 1550 por el rey Gustavo I de Suecia, no alcanzó su papel de capital hasta 1812, aunque el tiempo no ha hecho más que pulir su carácter.",
+        "maplink": "60.208715,25.004253"
+    },
+    {
         "fullstartdate": "202607312200",
         "date": "20260801",
         "url": "https://www.bing.com/th?id=OHR.SantaCatalina_ES-ES2186596110_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.RedMangroveSunrise_ES-ES2463781861",
         "copyright": "Amanecer en un mangle rojo en los Pig Keys, Honduras (© Mac Stone/Tandem Stills + Motion)",
         "copyrightKeyword": "Día Internacional de Conservación del Ecosistema de Manglares",
-        "hsh": "c41acc43fb39e1d525b996d09f15a749",
-        "description": "En los Islotes de Pig Keys, en Honduras, el amanecer transforma el agua en un espejo donde las raíces aéreas del mangle rojo emergen retorcidas y solemnes, como si sostuvieran el mundo entre sus brazos.",
-        "maplink": "14.822356,-86.5979"
-    },
-    {
-        "fullstartdate": "202607242200",
-        "date": "20260725",
-        "url": "https://www.bing.com/th?id=OHR.GaliciaBeach_ES-ES2298992138_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.GaliciaBeach_ES-ES2298992138",
-        "copyright": "Playa de las Catedrales, Galicia, España (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)",
-        "copyrightKeyword": "Día de Galicia",
-        "hsh": "6df2695a4c99002e96c9fe6243c836ef"
+        "hsh": "c41acc43fb39e1d525b996d09f15a749"
     }
 ]

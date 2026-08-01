@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608011500",
+        "date": "20260802",
+        "url": "https://www.bing.com/th?id=OHR.HelsinkiBlue_JA-JP6468131752_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.HelsinkiBlue_JA-JP6468131752",
+        "copyright": "ヘルシンキ, フィンランド (© Miemo Penttinen/Getty Images)",
+        "copyrightKeyword": "ヘルシンキ",
+        "hsh": "a9ef68a06a3d62c5a699bb4208b77694",
+        "description": "ここはフィンランドの首都ヘルシンキ。1550 年、当時のスウェーデン国王グスタフ 1 世によって交易の街として整備され、1812 年に首都となりました。フィンランド湾沿岸に位置し、300 以上の島々を有しているため、街の総面積の約 7 割が海域となっていますが、同時に緑豊かな森にも恵まれています。フィンランドには「自然享受権」という権利があるため、誰でも気軽に森を散策することが可能であり、ベリーやキノコなどを自由に採集することができます。",
+        "maplink": "60.166622,24.943541"
+    },
+    {
         "fullstartdate": "202607311500",
         "date": "20260801",
         "url": "https://www.bing.com/th?id=OHR.HirosakiNeputa2026_JA-JP5726503053_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.RedMangroveSunrise_JA-JP3991738335",
         "copyright": "アカマングローブ, ホンジュラス (© Mac Stone/Tandem Stills + Motion)",
         "copyrightKeyword": "国際マングローブの日",
-        "hsh": "bfc7f4fbab83b71b33b0b0ba12f638a6",
-        "description": "今日 7 月 26 日は国際マングローブの日。そして画像は、ホンジュラスのピッグ・キーズにあるアカマングローブです。マングローブは、海水と陸地が交わる沿岸に根を張る木々の総称です。その密に張り巡らされた根は、波の力を和らげ、海岸の浸食を防ぐだけでなく、魚や甲殻類のすみかにもなるなど、生態系において重要な役割を果たしています。しかし近年、東南アジアを中心とする熱帯地域では、マングローブ林が急速に減少しており、その保全が重要な課題となっています。",
-        "maplink": "14.822356,-86.5979"
-    },
-    {
-        "fullstartdate": "202607241500",
-        "date": "20260725",
-        "url": "https://www.bing.com/th?id=OHR.GaliciaBeach_JA-JP2958100609_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.GaliciaBeach_JA-JP2958100609",
-        "copyright": "カテドラル・ビーチ, スペイン (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)",
-        "copyrightKeyword": "カテドラル・ビーチ",
-        "hsh": "922ec03bf5a72716b70224b6ab666246"
+        "hsh": "bfc7f4fbab83b71b33b0b0ba12f638a6"
     }
 ]
