@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608021500",
+        "date": "20260803",
+        "url": "https://www.bing.com/th?id=OHR.BoatsMalta_JA-JP6685221242_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BoatsMalta_JA-JP6685221242",
+        "copyright": "マルサシュロック, マルタ (© Klubovy/Getty Images)",
+        "copyrightKeyword": "マルサシュロック",
+        "hsh": "9b3ff05ea4f72d7e0be7a9374bee2689",
+        "description": "マルタ本島最大の漁師町、マルサシュロック。マルタ島の南東部に位置し、日曜日に開催されるフィッシュマーケットで知られています。そして画像は、町の港に並ぶ伝統的な漁船「ルッツ」です。青や黄、赤などの鮮やかな色で彩られた木製の船で、船首には「オシリスの目」と呼ばれる装飾が施されています。これは、航海の安全を見守るお守りとされ、2000 年以上前から受け継がれています。地中海の青い海と長い歴史が息づく町並みが調和する風景は、訪れる人々を魅了します。",
+        "maplink": "35.841105,14.544731"
+    },
+    {
         "fullstartdate": "202608011500",
         "date": "20260802",
         "url": "https://www.bing.com/th?id=OHR.HelsinkiBlue_JA-JP6468131752_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ChicagoTiffany_JA-JP4240566318",
         "copyright": "シカゴ文化センター, 米国 イリノイ州 (© Felix Lipov/Shutterstock)",
         "copyrightKeyword": "シカゴ文化センター",
-        "hsh": "a22927f73d37a8027b111d0bcaa39cbe",
-        "description": "ここは米国のシカゴ文化センターにあるプレストン・ブラッドリー・ホール。一歩足を踏み入れれば、視線はたちまちティファニー・ドームの輝く天蓋へと引き寄せられます。ドームの直径はおよそ 11m で、魚の鱗のような形をしたティファニー製ガラス片を約 3 万個組み合わせて作られています。シカゴ文化センターは、1897 年にシカゴ初の公共図書館として開館しました。1978 年に芸術文化センターとなり、以降現在まで何度か改修されながら、地域の文化拠点として親しまれています。",
-        "maplink": "41.884043,-87.624956"
-    },
-    {
-        "fullstartdate": "202607251500",
-        "date": "20260726",
-        "url": "https://www.bing.com/th?id=OHR.RedMangroveSunrise_JA-JP3991738335_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.RedMangroveSunrise_JA-JP3991738335",
-        "copyright": "アカマングローブ, ホンジュラス (© Mac Stone/Tandem Stills + Motion)",
-        "copyrightKeyword": "国際マングローブの日",
-        "hsh": "bfc7f4fbab83b71b33b0b0ba12f638a6"
+        "hsh": "a22927f73d37a8027b111d0bcaa39cbe"
     }
 ]

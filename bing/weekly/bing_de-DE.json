@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608022200",
+        "date": "20260803",
+        "url": "https://www.bing.com/th?id=OHR.BoatsMalta_DE-DE5376700732_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BoatsMalta_DE-DE5376700732",
+        "copyright": "Bunte Boote im Hafen von Marsaxlokk, Malta (© Klubovy/Getty Images)",
+        "copyrightKeyword": "Marsaxlokk Malta",
+        "hsh": "05e13f4dfbb65eb6491e377fa1325b7b",
+        "description": "Im geschützten Hafen von Marsaxlokk an der Südostküste Maltas gehören farbenfrohe Fischerboote zum gewohnten Bild. Das malerische Fischerdorf liegt nur wenige Kilometer von Valletta entfernt und zählt zu den bekanntesten Küstenorten der Insel. Noch heute spielt die Fischerei eine wichtige Rolle im Alltag der Einwohner. Besonders lebendig wird die Uferpromenade in den frühen Morgenstunden, wenn die Boote mit ihrem frischen Fang zurückkehren und das Hafenbecken mit Bewegung und Farbe füllen.",
+        "maplink": "35.842987,14.54532"
+    },
+    {
         "fullstartdate": "202608012200",
         "date": "20260802",
         "url": "https://www.bing.com/th?id=OHR.HelsinkiBlue_DE-DE4461850043_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ChicagoTiffany_DE-DE2141043635",
         "copyright": "Tiffany-Kuppel, Chicago Cultural Center, Illinois, USA (© Felix Lipov/Shutterstock)",
         "copyrightKeyword": "Tiffany-Kuppel Chicago Cultural Center Informationen",
-        "hsh": "186406dd5daf378eb8ff8541bba4dbbd",
-        "description": "Im Herzen des Chicago Cultural Center im US-Bundesstaat Illinois zieht die Tiffany-Kuppel mit ihrem farbenreichen Glasdesign die Aufmerksamkeit auf sich. Das Kunstwerk überspannt die Preston Bradley Hall und erreicht einen Durchmesser von rund 11,6 Metern. Etwa 30.000 Stücke aus Favrile-Glas formen die beeindruckende Konstruktion, deren Oberfläche an schimmernde Fischschuppen erinnert. Je nach Tageszeit verändert das einfallende Licht ihre Wirkung und lässt immer neue Farbnuancen im Raum entstehen.",
-        "maplink": "41.88388,-87.62498"
-    },
-    {
-        "fullstartdate": "202607252200",
-        "date": "20260726",
-        "url": "https://www.bing.com/th?id=OHR.RedMangroveSunrise_DE-DE1889746547_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.RedMangroveSunrise_DE-DE1889746547",
-        "copyright": "Sonnenaufgang an einer roten Mangrove auf den Pig Keys, Honduras (© Mac Stone/Tandem Stills + Motion)",
-        "copyrightKeyword": "Internationaler Tag zur Erhaltung des Mangroven-Ökosystems",
-        "hsh": "ee116b939662f61a84102eb518363faf"
+        "hsh": "186406dd5daf378eb8ff8541bba4dbbd"
     }
 ]
