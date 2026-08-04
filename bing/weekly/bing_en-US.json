@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608030700",
+        "date": "20260803",
+        "url": "https://www.bing.com/th?id=OHR.BoatsMalta_EN-US5373607495_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BoatsMalta_EN-US5373607495",
+        "copyright": "Colorful boats in Marsaxlokk Harbor, Malta (© Klubovy/Getty Images)",
+        "copyrightKeyword": "Marsaxlokk Malta",
+        "hsh": "68f6518dacb9504483f62d65334f7230",
+        "description": "Colorful luzzus—traditional Maltese fishing boats—fill the sheltered harbor of Marsaxlokk, a village on Malta's southeastern coast. Just a short drive from Valletta, the island's capital, it remains one of the country's main fishing hubs, where daily life follows the steady pace of the sea. Home to roughly 4,000 residents, the village is also widely known for its lively waterfront, especially its popular Sunday fish market, and for the steady return of boats carrying fresh catches each morning.",
+        "maplink": "35.842987,14.54532"
+    },
+    {
         "fullstartdate": "202608020700",
         "date": "20260802",
         "url": "https://www.bing.com/th?id=OHR.HelsinkiBlue_EN-US4898215906_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ChicagoTiffany_EN-US3297949501",
         "copyright": "Tiffany Dome, Chicago Cultural Center, Illinois (© Felix Lipov/Shutterstock)",
         "copyrightKeyword": "Tiffany Dome Chicago Cultural Center",
-        "hsh": "112207815243610db96b7e756786641a",
-        "description": "Step inside the Chicago Cultural Center, and your eyes are instantly drawn upward to a glowing canopy of color—the Tiffany Dome. Suspended above Preston Bradley Hall, this masterpiece spans approximately 38 feet in diameter and is composed of roughly 30,000 pieces of Favrile glass, each shaped like a fish scale. Sunlight filters through its translucent surface, shifting blues and golds across its intricate pattern.",
-        "maplink": "41.88388,-87.62498"
-    },
-    {
-        "fullstartdate": "202607260700",
-        "date": "20260726",
-        "url": "https://www.bing.com/th?id=OHR.RedMangroveSunrise_EN-US2034025633_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.RedMangroveSunrise_EN-US2034025633",
-        "copyright": "Sunrise on a red mangrove in the Pig Keys, Honduras (© Mac Stone/Tandem Stills + Motion)",
-        "copyrightKeyword": "International Day for Conservation of the Mangrove Ecosystem",
-        "hsh": "540565cc126cfe633f9cdf81a7e91c25"
+        "hsh": "112207815243610db96b7e756786641a"
     }
 ]

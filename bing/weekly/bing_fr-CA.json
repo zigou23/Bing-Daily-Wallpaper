@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608030400",
+        "date": "20260803",
+        "url": "https://www.bing.com/th?id=OHR.BoatsMalta_FR-CA4595918849_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BoatsMalta_FR-CA4595918849",
+        "copyright": "Bateaux colorés dans le port de Marsaxlokk, Malte (© Klubovy/Getty Images)",
+        "copyrightKeyword": "Marsaxlokk Malte",
+        "hsh": "b3b0dbbb6dc641168ff8c5dfe8d739bd",
+        "description": "Les luzzus apportent leurs couleurs au paysage. Ces barques de pêche traditionnelles maltaises animent le port abrité de Marsaxlokk, village côtier du sud‑est de Malte, leurs coques peintes en bleu cobalt, jaune vif, rouge et vert composant une palette que la Méditerranée semble avoir créée elle‑même.",
+        "maplink": "35.842987,14.54532"
+    },
+    {
         "fullstartdate": "202608020400",
         "date": "20260802",
         "url": "https://www.bing.com/th?id=OHR.HelsinkiBlue_FR-CA4418500007_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ChicagoTiffany_FR-CA0780326864",
         "copyright": "Dôme Tiffany, Centre culturel de Chicago, Illinois, États-Unis (© Felix Lipov/Shutterstock)",
         "copyrightKeyword": "Dôme Tiffany Centre Culturel de Chicago",
-        "hsh": "e15f6679262a992924573f8c30f6a741",
-        "description": "Montréal a ses mosaïques d’église, Québec ses façades de pierre grise où la lumière basse de janvier crée des tableaux furtifs. Chicago a son dôme Tiffany — et quiconque lève les yeux pour la première fois dans Preston Bradley Hall comprend aussitôt que la lumière peut devenir une architecture.",
-        "maplink": "41.88388,-87.62498"
-    },
-    {
-        "fullstartdate": "202607260400",
-        "date": "20260726",
-        "url": "https://www.bing.com/th?id=OHR.RedMangroveSunrise_FR-CA1039565076_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.RedMangroveSunrise_FR-CA1039565076",
-        "copyright": "Lever de soleil sur un palétuvier rouge, Cayos Cochinos, Honduras (© Mac Stone/Tandem Stills + Motion)",
-        "copyrightKeyword": "Journée internationale pour la conservation de l'écosystème des mangroves",
-        "hsh": "65c578ca87979a79f7566188524fe813"
+        "hsh": "e15f6679262a992924573f8c30f6a741"
     }
 ]
