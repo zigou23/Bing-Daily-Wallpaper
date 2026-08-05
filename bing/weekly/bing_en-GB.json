@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608042300",
+        "date": "20260805",
+        "url": "https://www.bing.com/th?id=OHR.FezMorocco_EN-GB7904978053_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FezMorocco_EN-GB7904978053",
+        "copyright": "Decorated gate of the Royal Palace of Fez, Morocco (© cgst26/Shutterstock)",
+        "copyrightKeyword": "Royal Palace of Fez",
+        "hsh": "b6bc7c1e200aa744b13c1fd1646638f3",
+        "description": "In Fez, Morocco, the Royal Palace—known as Dar al-Makhzen—has stood as a seat of power since the 13th century, when Morocco's rulers established a fortified royal city around it. Behind its high walls lie gardens, courtyards, mosques and royal residences spread across a vast complex still used by the king today, making it both historic and fully active.",
+        "maplink": "34.05306,-4.99361"
+    },
+    {
         "fullstartdate": "202608032300",
         "date": "20260804",
         "url": "https://www.bing.com/th?id=OHR.AdorableOwlet_EN-GB7610468145_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.TigerFamily_EN-GB5813190934",
         "copyright": "A family of Bengal tigers at Ranthambore National Park, Rajasthan, India (© Archna Singh/Shutterstock)",
         "copyrightKeyword": "International Tiger Day",
-        "hsh": "ff98901976c3f081301ee8c5c33e5310",
-        "description": "On International Tiger Day, this family moves through Ranthambore National Park in Rajasthan, India, with the confidence of those who know exactly where they stand in the food chain. These are Bengal tigers, built for both stealth and power: an adult can stretch over 3 metres from nose to tail and weigh around 230 kilograms, yet walk without making a sound. Their stripes also play a part in a landscape where visibility is a double-edged sword, camouflaging their bodies in patterns that prey struggle to read.",
-        "maplink": "25.977797,76.553258"
-    },
-    {
-        "fullstartdate": "202607272300",
-        "date": "20260728",
-        "url": "https://www.bing.com/th?id=OHR.ChannelKelp_EN-GB5530574227_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ChannelKelp_EN-GB5530574227",
-        "copyright": "A kelp forest off Anacapa Island, Channel Islands National Park, California, United States (© Ian Shive/Tandem Stills + Motion)",
-        "copyrightKeyword": "World Nature Conservation Day",
-        "hsh": "54a5d4e2d77b0898f89878dd7e750ae4"
+        "hsh": "ff98901976c3f081301ee8c5c33e5310"
     }
 ]

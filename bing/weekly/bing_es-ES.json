@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608042200",
+        "date": "20260805",
+        "url": "https://www.bing.com/th?id=OHR.FezMorocco_ES-ES3693583012_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FezMorocco_ES-ES3693583012",
+        "copyright": "Puerta decorada del Palacio Real de Fez, Marruecos (© cgst26/Shutterstock)",
+        "copyrightKeyword": "Palacio Real de Fez",
+        "hsh": "1dd602f0a236d44f82b5a961a6465987",
+        "description": "Desde el siglo XIII, el Palacio Real de Fez, conocido como Dar al-Makhzen, ha sido uno de los principales símbolos de la monarquía marroquí. Situado en la zona de Fez el-Jdid, la ciudad real fundada en el siglo XIII, este extenso recinto amurallado alberga jardines, patios, mezquitas y residencias que el rey de Marruecos sigue utilizando en la actualidad.",
+        "maplink": "34.05306,-4.99361"
+    },
+    {
         "fullstartdate": "202608032200",
         "date": "20260804",
         "url": "https://www.bing.com/th?id=OHR.AdorableOwlet_ES-ES3577552692_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.TigerFamily_ES-ES8935295288",
         "copyright": "Una familia de tigres de Bengala en el Parque Nacional de Ranthambore, Rajasthan, India (© Archna Singh/Shutterstock)",
         "copyrightKeyword": "Día Internacional del Tigre",
-        "hsh": "06ff2f01f48129fdc539e911b5c4d6f9",
-        "description": "En el Día Internacional del Tigre, una familia de tigres de Bengala recorre el Parque Nacional de Ranthambore, en Rajastán, India, con la calma soberana de quien sabe que no tiene rival. Son animales diseñados para la perfección: un adulto puede superar los tres metros de longitud y pesar más de 225 kilogramos, pero se mueve entre la vegetación sin emitir el menor sonido. Sus rayas no son solo un rasgo estético; son una herramienta de supervivencia que desorienta a las presas en un entorno donde ver y no ser visto lo es todo.",
-        "maplink": "25.977797,76.553258"
-    },
-    {
-        "fullstartdate": "202607272200",
-        "date": "20260728",
-        "url": "https://www.bing.com/th?id=OHR.ChannelKelp_ES-ES2666922160_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ChannelKelp_ES-ES2666922160",
-        "copyright": "Un bosque de algas cerca de la isla Anacapa, Parque Nacional de las Islas del Canal, California, EE. UU.  (© Ian Shive/Tandem Stills + Motion)",
-        "copyrightKeyword": "Día Mundial de la Conservación de la Naturaleza",
-        "hsh": "7b89326290e73d2b9fe793cc7135b633"
+        "hsh": "06ff2f01f48129fdc539e911b5c4d6f9"
     }
 ]
