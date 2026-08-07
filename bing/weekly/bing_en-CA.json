@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608070400",
+        "date": "20260807",
+        "url": "https://www.bing.com/th?id=OHR.LimeKiln_EN-CA4364402853_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LimeKiln_EN-CA4364402853",
+        "copyright": "Lime Kiln Lighthouse on San Juan Island, Washington state, United States (© Edmund Lowe Photography/Shutterstock)",
+        "copyrightKeyword": "Lime Kiln Lighthouse",
+        "hsh": "ee9a52c4a4a31e6079f37efccb52418d",
+        "description": "Ships, storms and changing technology have come and gone, but the light remains. On Washington's San Juan Island, Lime Kiln Lighthouse has overlooked Haro Strait since 1919. Perched on a rocky bluff, its white flash continues to guide vessels through a major inland marine waterway in the Pacific Northwest. The lighthouse stands within Lime Kiln Point State Park, which is recognised as one of the world's best places to watch wild orcas from shore, with whales sometimes passing remarkably close to the coast.",
+        "maplink": "48.516128,-123.152644"
+    },
+    {
         "fullstartdate": "202608060400",
         "date": "20260806",
         "url": "https://www.bing.com/th?id=OHR.EDMFolkFest_EN-CA4302918547_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.VirginiaTrail_EN-CA9063701239",
         "copyright": "Aerial view of the Virginia Creeper Trail, Damascus, Virginia, United States (© Eifel Kreutz/Getty Images)",
         "copyrightKeyword": "Virginia Creeper Trail",
-        "hsh": "ce7f48e156e56d5ee68e281ea7b7b320",
-        "description": "Some railways retire. The Virginia Creeper Trail simply changed gears. Stretching 55 kilometres through southwest Virginia, this trail follows a former rail line once used to haul lumber and iron ore through the Appalachian Mountains. Its unusual name traces back to the steam locomotives that laboured up steep grades in the early 1900s.",
-        "maplink": "36.631287,-81.783826"
-    },
-    {
-        "fullstartdate": "202607300400",
-        "date": "20260730",
-        "url": "https://www.bing.com/th?id=OHR.NavajoNation_EN-CA0609244482_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.NavajoNation_EN-CA0609244482",
-        "copyright": "Monument Valley, Navajo Nation, Arizona, United States (© Westend61/Adobe Stock)",
-        "copyrightKeyword": "Monument Valley",
-        "hsh": "c6869959c049c1cecbcc346d7953e8fc"
+        "hsh": "ce7f48e156e56d5ee68e281ea7b7b320"
     }
 ]

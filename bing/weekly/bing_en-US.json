@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608070700",
+        "date": "20260807",
+        "url": "https://www.bing.com/th?id=OHR.LimeKiln_EN-US2748515593_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LimeKiln_EN-US2748515593",
+        "copyright": "Lime Kiln Lighthouse on San Juan Island, Washington State (© Edmund Lowe Photography/Shutterstock)",
+        "copyrightKeyword": "National Lighthouse Day",
+        "hsh": "5becc77210847ca229d4f45832cf3205",
+        "description": "Every August 7, National Lighthouse Day shines a light on the beacons that have guided ships safely along America's coasts for centuries. The date commemorates the Lighthouse Act of 1789, signed into law by President George Washington.",
+        "maplink": "48.516128,-123.152644"
+    },
+    {
         "fullstartdate": "202608060700",
         "date": "20260806",
         "url": "https://www.bing.com/th?id=OHR.MaraCrossing_EN-US8682968377_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.VirginiaTrail_EN-US9403114082",
         "copyright": "Aerial view of the Virginia Creeper Trail, Damascus, Virginia (© Eifel Kreutz/Getty Images)",
         "copyrightKeyword": "Virginia Creeper Trail",
-        "hsh": "63c379b1c3d7476e8a34692d93f0c1f7",
-        "description": "Some railways retire. The Virginia Creeper Trail simply changed gears. Stretching 34.3 miles through southwest Virginia, this trail follows a former rail line once used to haul lumber and iron ore through the Appalachian Mountains. Its unusual name traces back to the steam locomotives that labored up steep grades in the early 1900s.",
-        "maplink": "36.631287,-81.783826"
-    },
-    {
-        "fullstartdate": "202607300700",
-        "date": "20260730",
-        "url": "https://www.bing.com/th?id=OHR.NavajoNation_EN-US6947714656_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.NavajoNation_EN-US6947714656",
-        "copyright": "Monument Valley, Navajo Nation, Arizona (© Westend61/Adobe Stock)",
-        "copyrightKeyword": "Monument Valley",
-        "hsh": "53c8dc5680016f6d76014335ab38848d"
+        "hsh": "63c379b1c3d7476e8a34692d93f0c1f7"
     }
 ]

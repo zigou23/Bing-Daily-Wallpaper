@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608070400",
+        "date": "20260807",
+        "url": "https://www.bing.com/th?id=OHR.LimeKiln_FR-CA1380170697_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LimeKiln_FR-CA1380170697",
+        "copyright": "Phare de Lime Kiln sur l’île de San Juan, État de Washington, États-Unis (© Edmund Lowe Photography/Shutterstock)",
+        "copyrightKeyword": "phare de Lime Kiln",
+        "hsh": "8f063b35c86f252aac369d3a6eca3691",
+        "description": "Le long des côtes du Pacifique canadien, les phares témoignent d’une histoire façonnée par les courants, la brume et la persévérance humaine. À proximité, dans l’État de Washington, aux États-Unis, le phare de Lime Kiln se dresse depuis 1919 sur l’île de San Juan, dominant le détroit de Haro depuis une falaise exposée aux vents. Bien qu’il se situe en territoire américain, sa lumière guide les navigateurs qui fréquentent les eaux de la côte ouest de part et d’autre de la frontière. Sa lumière blanche perce la brume et contribue à la sécurité de ces eaux parfois imprévisibles.",
+        "maplink": "48.516128,-123.152644"
+    },
+    {
         "fullstartdate": "202608060400",
         "date": "20260806",
         "url": "https://www.bing.com/th?id=OHR.EDMFolkFest_FR-CA2482532216_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.VirginiaTrail_FR-CA3929932573",
         "copyright": "Vue aérienne du sentier Virginia Creeper Trail, Damascus, Virginie, États-Unis (© Eifel Kreutz/Getty Images)",
         "copyrightKeyword": "Virginia Creeper Trail",
-        "hsh": "6a86c7039c042d3573a3f642f7e2484d",
-        "description": "À Damascus, en Virginie, au cœur des Appalaches, une ancienne voie ferrée s’est métamorphosée en sentier de 55 km. Des locomotives à vapeur y grimpaient autrefois, chargées de bois et de minerai, peinant si fort dans les pentes qu’on les comparait à une vigne grimpante — la Virginia Creeper.",
-        "maplink": "36.631287,-81.783826"
-    },
-    {
-        "fullstartdate": "202607300400",
-        "date": "20260730",
-        "url": "https://www.bing.com/th?id=OHR.MaraCrossing_FR-CA1991901639_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MaraCrossing_FR-CA1991901639",
-        "copyright": "Gnous migrateurs traversant la rivière Mara dans la réserve de Masai Mara, au Kenya (© Manoj Shah/Getty Images)",
-        "copyrightKeyword": "gnou",
-        "hsh": "f7a28a6b6036e88f3cd05af8263a3c0e"
+        "hsh": "6a86c7039c042d3573a3f642f7e2484d"
     }
 ]
