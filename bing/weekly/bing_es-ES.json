@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608062200",
+        "date": "20260807",
+        "url": "https://www.bing.com/th?id=OHR.LimeKiln_ES-ES1360502485_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LimeKiln_ES-ES1360502485",
+        "copyright": "Faro Lime Kiln en la isla San Juan, Washington, EE. UU. (© Edmund Lowe Photography/Shutterstock)",
+        "copyrightKeyword": "Día Mundial de los Faros",
+        "hsh": "05770c7d855853a022c375023999e51f",
+        "description": "El Faro Lime Kiln, encendido por primera vez el 30 de junio de 1919 sobre la roca viva de la isla San Juan, en Washington, EE. UU., sigue lanzando su destello blanco sobre el estrecho de Haro con la misma fiabilidad que el primer día. Cada 7 de agosto, el Día Mundial de los Faros conmemora la Ley de Faros de 1789, firmada por George Washington.",
+        "maplink": "48.516128,-123.152644"
+    },
+    {
         "fullstartdate": "202608052200",
         "date": "20260806",
         "url": "https://www.bing.com/th?id=OHR.MaraCrossing_ES-ES3801561108_1920x1080.jpg",
@@ -69,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DeltaEbro_ES-ES3023885514",
         "copyright": "Flamencos en el Delta del Ebro, Tarragona, España (© mafrmcfa/Getty Images)",
         "copyrightKeyword": "Parque natural del Delta del Ebro",
-        "hsh": "e7137b76e5ddff58891b1ebd2814e74d",
-        "description": "El Delta del Ebro, en Tarragona, esconde uno de los espectáculos naturales más impresionantes de la península: miles de flamencos rosados que tiñen de color las lagunas costeras cada verano. Este humedal, declarado Reserva de la Biosfera por la UNESCO, es uno de los refugios más importantes de Europa para esta especie.",
-        "maplink": "41.118664,1.24533"
-    },
-    {
-        "fullstartdate": "202607292200",
-        "date": "20260730",
-        "url": "https://www.bing.com/th?id=OHR.NavajoNation_ES-ES2923536313_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.NavajoNation_ES-ES2923536313",
-        "copyright": "El Valle de los Monumentos, Nación Navajo, Arizona, EE. UU. (© Westend61/Adobe Stock)",
-        "copyrightKeyword": "El Valle de los Monumentos",
-        "hsh": "52c8a10d9bbfe9b9c5d9129b2e6dfc47"
+        "hsh": "e7137b76e5ddff58891b1ebd2814e74d"
     }
 ]
