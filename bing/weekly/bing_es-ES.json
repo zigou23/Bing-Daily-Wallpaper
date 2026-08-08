@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608082200",
+        "date": "20260809",
+        "url": "https://www.bing.com/th?id=OHR.JMTjibaou_ES-ES9350648651_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.JMTjibaou_ES-ES9350648651",
+        "copyright": "Centro Cultural Jean-Marie Tjibaou, Nueva Caledonia (© Fabien Astre/Alamy)",
+        "copyrightKeyword": "Día Internacional de los Pueblos Indígenas del Mundo",
+        "hsh": "43d216ba52a228da44c3afa81c0e1c18",
+        "description": "En la península de Tina, en Nueva Caledonia, el Centro Cultural Jean-Marie Tjibaou se eleva sobre el paisaje como un gesto arquitectónico sin precedentes. Diseñado por Renzo Piano e inaugurado en 1998, sus estructuras curvas y alargadas evocan las cabañas tradicionales del pueblo kanak, aunque construidas con materiales y técnicas de última generación. Senderos que conectan espacios de arte, investigación y espectáculo tejen un relato en el que la cultura, la tierra y la comunidad son inseparables.",
+        "maplink": "-22.256,166.482"
+    },
+    {
         "fullstartdate": "202608072200",
         "date": "20260808",
         "url": "https://www.bing.com/th?id=OHR.StocktonInfinity_ES-ES5321261606_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.HelsinkiBlue_ES-ES3341783633",
         "copyright": "La costa de Helsinki durante la hora azul, Uusimaa, Finlandia (© Miemo Penttinen/Getty Images)",
         "copyrightKeyword": "Helsinki",
-        "hsh": "e329694f2a9b23b995bb0993933cd757",
-        "description": "Helsinki, la vibrante capital de Finlandia, es una ciudad donde el mar, la historia y el diseño conviven en perfecta armonía. Fundada en 1550 por el rey Gustavo I de Suecia, no alcanzó su papel de capital hasta 1812, aunque el tiempo no ha hecho más que pulir su carácter.",
-        "maplink": "60.208715,25.004253"
-    },
-    {
-        "fullstartdate": "202607312200",
-        "date": "20260801",
-        "url": "https://www.bing.com/th?id=OHR.SantaCatalina_ES-ES2186596110_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SantaCatalina_ES-ES2186596110",
-        "copyright": "Arco de Santa Catalina, Antigua Guatemala, Guatemala (© Filippo Maria Bianchi/Getty Images)",
-        "copyrightKeyword": "Arco de Santa Catalina Monumento de Antigua Guatemala",
-        "hsh": "5ef27bd95c8038fcd3875687a8214488"
+        "hsh": "e329694f2a9b23b995bb0993933cd757"
     }
 ]

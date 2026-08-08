@@ -77,19 +77,19 @@
     },
     "2026": {
       "regions": {
-        "bing_ROW": 219,
-        "bing_de-DE": 220,
-        "bing_en-CA": 219,
-        "bing_en-GB": 220,
-        "bing_en-IN": 220,
-        "bing_en-US": 219,
-        "bing_es-ES": 220,
-        "bing_fr-CA": 219,
-        "bing_fr-FR": 220,
-        "bing_it-IT": 220,
-        "bing_ja-JP": 220,
-        "bing_pt-BR": 219,
-        "bing_zh-CN": 220
+        "bing_ROW": 220,
+        "bing_de-DE": 221,
+        "bing_en-CA": 220,
+        "bing_en-GB": 221,
+        "bing_en-IN": 221,
+        "bing_en-US": 220,
+        "bing_es-ES": 221,
+        "bing_fr-CA": 220,
+        "bing_fr-FR": 221,
+        "bing_it-IT": 221,
+        "bing_ja-JP": 221,
+        "bing_pt-BR": 220,
+        "bing_zh-CN": 221
       }
     }
   },
