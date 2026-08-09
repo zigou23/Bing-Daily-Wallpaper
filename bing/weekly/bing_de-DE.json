@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608092200",
+        "date": "20260810",
+        "url": "https://www.bing.com/th?id=OHR.SandPath_DE-DE5965414761_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SandPath_DE-DE5965414761",
+        "copyright": "Joshua-Tree-Nationalpark, Kalifornien, USA (© JJ Landscapes/Getty Images)",
+        "copyrightKeyword": "Joshua-Tree-Nationalpark",
+        "hsh": "9c859c3dd8aadde3b4fdbeb7fb2535bb",
+        "description": "Wo zwei Wüstenlandschaften aufeinandertreffen, entfaltet der Joshua-Tree-Nationalpark im US-Bundesstaat Kalifornien eine außergewöhnliche Szenerie. Das Schutzgebiet im Südwesten der USA verbindet die höher gelegene Mojave-Wüste mit der heißeren Colorado-Wüste und schafft dadurch vielfältige Lebensräume. Auf einer Fläche von mehr als 3.200 Quadratkilometern prägen die charakteristischen Joshua-Palmlilien das Bild. Zwischen sandigen Ebenen und mächtigen Granitfelsen entstehen eindrucksvolle Kontraste, die diese Landschaft unverwechselbar machen. Wind, Erosion und starke Temperaturschwankungen haben die Felsformationen über Millionen von Jahren geformt.",
+        "maplink": "33.951965,-115.942135"
+    },
+    {
         "fullstartdate": "202608082200",
         "date": "20260809",
         "url": "https://www.bing.com/th?id=OHR.JMTjibaou_DE-DE7677372250_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BoatsMalta_DE-DE5376700732",
         "copyright": "Bunte Boote im Hafen von Marsaxlokk, Malta (© Klubovy/Getty Images)",
         "copyrightKeyword": "Marsaxlokk Malta",
-        "hsh": "05e13f4dfbb65eb6491e377fa1325b7b",
-        "description": "Im geschützten Hafen von Marsaxlokk an der Südostküste Maltas gehören farbenfrohe Fischerboote zum gewohnten Bild. Das malerische Fischerdorf liegt nur wenige Kilometer von Valletta entfernt und zählt zu den bekanntesten Küstenorten der Insel. Noch heute spielt die Fischerei eine wichtige Rolle im Alltag der Einwohner. Besonders lebendig wird die Uferpromenade in den frühen Morgenstunden, wenn die Boote mit ihrem frischen Fang zurückkehren und das Hafenbecken mit Bewegung und Farbe füllen.",
-        "maplink": "35.842987,14.54532"
-    },
-    {
-        "fullstartdate": "202608012200",
-        "date": "20260802",
-        "url": "https://www.bing.com/th?id=OHR.HelsinkiBlue_DE-DE4461850043_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.HelsinkiBlue_DE-DE4461850043",
-        "copyright": "Helsinkis Küste zur blauen Stunde, Uusimaa, Finnland (© Miemo Penttinen/Getty Images)",
-        "copyrightKeyword": "Helsinki",
-        "hsh": "056d75c4d3711ddee0b0fe073d0cde47"
+        "hsh": "05e13f4dfbb65eb6491e377fa1325b7b"
     }
 ]

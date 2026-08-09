@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608092300",
+        "date": "20260810",
+        "url": "https://www.bing.com/th?id=OHR.SandPath_EN-GB4047990489_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SandPath_EN-GB4047990489",
+        "copyright": "Joshua Tree National Park, California, United States (© JJ Landscapes/Getty Images)",
+        "copyrightKeyword": "Joshua Tree National Park",
+        "hsh": "e47e95661b3d814fbca29657df595fad",
+        "description": "Where two great deserts meet, Joshua Tree National Park reveals a stark, mesmerising landscape shaped by wind, time and extremes. In Southern California, United States, the higher Mojave Desert merges with the hotter, lower Colorado Desert, creating a unique blend of ecosystems and remarkable biodiversity.",
+        "maplink": "33.951965,-115.942135"
+    },
+    {
         "fullstartdate": "202608082300",
         "date": "20260809",
         "url": "https://www.bing.com/th?id=OHR.JMTjibaou_EN-GB3964962434_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BoatsMalta_EN-GB7267750671",
         "copyright": "Colourful boats in Marsaxlokk Harbour, Malta (© Klubovy/Getty Images)",
         "copyrightKeyword": "Marsaxlokk Malta",
-        "hsh": "ef6e072e9a55f0329284988cf857c124",
-        "description": "Colourful luzzus—traditional Maltese fishing boats—fill the sheltered harbour of Marsaxlokk, a village on Malta's southeastern coast. Just a short drive from Valletta, the island's capital, it remains one of the country's main fishing hubs, where daily life follows the steady pace of the sea. Home to roughly 4,000 residents, the village is also widely known for its lively waterfront, especially its popular Sunday fish market and for the steady return of boats carrying fresh catches each morning.",
-        "maplink": "35.842987,14.54532"
-    },
-    {
-        "fullstartdate": "202608012300",
-        "date": "20260802",
-        "url": "https://www.bing.com/th?id=OHR.HelsinkiBlue_EN-GB6980168660_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.HelsinkiBlue_EN-GB6980168660",
-        "copyright": "Helsinki's shoreline during blue hour, Uusimaa, Finland (© Miemo Penttinen/Getty Images)",
-        "copyrightKeyword": "Helsinki",
-        "hsh": "822f5ff1357ca437f540a2484c75d997"
+        "hsh": "ef6e072e9a55f0329284988cf857c124"
     }
 ]
