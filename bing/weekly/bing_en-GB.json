@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608102300",
+        "date": "20260811",
+        "url": "https://www.bing.com/th?id=OHR.ColorfulCop_EN-GB4254714055_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ColorfulCop_EN-GB4254714055",
+        "copyright": "Colourful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)",
+        "copyrightKeyword": "Nyhavn Canal Copenhagen",
+        "hsh": "646c9a1017826ba9887bf5a931336aae",
+        "description": "In Copenhagen, Nyhavn Canal is a burst of colour and history. In Denmark's capital, bright, gabled houses lean towards the water, their reflections rippling beside old wooden ships.",
+        "maplink": "55.680387,12.589468"
+    },
+    {
         "fullstartdate": "202608092300",
         "date": "20260810",
         "url": "https://www.bing.com/th?id=OHR.SandPath_EN-GB4047990489_1920x1080.jpg",
@@ -71,16 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AdorableOwlet_EN-GB7610468145",
         "copyright": "Florida burrowing owlet, Cape Coral, Florida, United States (© mlorenzphotography/Getty Images)",
         "copyrightKeyword": "Owl bird",
-        "hsh": "715ad2112878318d590c5b0596182592",
-        "description": "Owls take centre stage on International Owl Awareness Day, an annual observance highlighting their remarkable adaptations and worldwide distribution. Found on every continent except Antarctica, these birds are known for forward-facing eyes, flat facial discs that channel sound and specialised hearing. Many species hunt in near silence thanks to soft-edged feathers. Their eyes remain fixed in their sockets, so they rely on flexible necks to scan their surroundings. From forests to deserts, owls inhabit a wide range of environments and play an important role in maintaining ecosystem balance."
-    },
-    {
-        "fullstartdate": "202608022300",
-        "date": "20260803",
-        "url": "https://www.bing.com/th?id=OHR.BoatsMalta_EN-GB7267750671_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BoatsMalta_EN-GB7267750671",
-        "copyright": "Colourful boats in Marsaxlokk Harbour, Malta (© Klubovy/Getty Images)",
-        "copyrightKeyword": "Marsaxlokk Malta",
-        "hsh": "ef6e072e9a55f0329284988cf857c124"
+        "hsh": "715ad2112878318d590c5b0596182592"
     }
 ]
