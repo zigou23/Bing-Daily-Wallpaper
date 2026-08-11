@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608110400",
+        "date": "20260811",
+        "url": "https://www.bing.com/th?id=OHR.ColorfulCop_EN-CA5069380652_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ColorfulCop_EN-CA5069380652",
+        "copyright": "Colourful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)",
+        "copyrightKeyword": "Nyhavn Canal Copenhagen",
+        "hsh": "cdce0247f98dfb55b4655fc1032c2a0a",
+        "description": "In Copenhagen, Nyhavn Canal is a burst of colour and history. In Denmark's capital, bright, gabled houses lean toward the water, their reflections rippling beside old wooden ships. Carved out in the 1670s under King Christian V, this 17th-century canal once served as a busy gateway where cargo vessels unloaded goods straight into the city's heart. Sailors crowded its taverns, and the harbour gained a rough reputation long before it became the postcard-perfect place seen today.",
+        "maplink": "55.680387,12.589468"
+    },
+    {
         "fullstartdate": "202608100400",
         "date": "20260810",
         "url": "https://www.bing.com/th?id=OHR.SandPath_EN-CA4913487409_1920x1080.jpg",
@@ -72,16 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AdorableOwlet_EN-CA3620790645",
         "copyright": "Florida burrowing owlet, Cape Coral, Florida, United States (© mlorenzphotography/Getty Images)",
         "copyrightKeyword": "Owl bird",
-        "hsh": "a1129891d71b40a46d34b1afbb57731e",
-        "description": "Owls take centre stage on International Owl Awareness Day, an annual observance highlighting their remarkable adaptations and worldwide distribution. Found on every continent except Antarctica, these birds are known for forward-facing eyes, flat facial discs that channel sound and specialised hearing. Many species hunt in near silence thanks to soft-edged feathers. Their eyes remain fixed in their sockets, so they rely on flexible necks to scan their surroundings. From forests to deserts, owls inhabit a wide range of environments and play an important role in maintaining ecosystem balance."
-    },
-    {
-        "fullstartdate": "202608030400",
-        "date": "20260803",
-        "url": "https://www.bing.com/th?id=OHR.BoatsMalta_EN-CA2874745568_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BoatsMalta_EN-CA2874745568",
-        "copyright": "Colourful boats in Marsaxlokk Harbour, Malta (© Klubovy/Getty Images)",
-        "copyrightKeyword": "Marsaxlokk Malta",
-        "hsh": "480a9d901d013cb0319390fad35398f6"
+        "hsh": "a1129891d71b40a46d34b1afbb57731e"
     }
 ]
