@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608122200",
+        "date": "20260813",
+        "url": "https://www.bing.com/th?id=OHR.PerseidasTenerife_DE-DE8459328996_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PerseidasTenerife_DE-DE8459328996",
+        "copyright": "Perseiden-Meteore über dem Teide-Observatorium auf Teneriffa, Spanien (© Westend61/Getty Images)",
+        "copyrightKeyword": "Perseiden",
+        "hsh": "412ef445f6b174699f6e0dde31563ca3",
+        "description": "Jeden Sommer zieht ein besonderes Himmelsschauspiel die Aufmerksamkeit von Sternenfreunden auf sich. Die Perseiden sind von Mitte Juli bis Ende August sichtbar und erreichen ihren Höhepunkt meist um den 12. und 13. August. Unter dunklem Himmel können dabei mehrere Dutzend Sternschnuppen pro Stunde erscheinen. Die leuchtenden Spuren entstehen, wenn die Erde Teilchen durchquert, die der Komet Swift-Tuttle auf seiner Bahn hinterlassen hat. Am Nachthimmel scheinen die Meteore aus dem Sternbild Perseus zu kommen.",
+        "maplink": "28.291565,-16.629129"
+    },
+    {
         "fullstartdate": "202608112200",
         "date": "20260812",
         "url": "https://www.bing.com/th?id=OHR.ElephantDay_DE-DE9475374565_1920x1080.jpg",
@@ -72,16 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MaraCrossing_DE-DE5747320047",
         "copyright": "Gnuherden überqueren den Mara-Fluss in der Masai Mara, Kenia (© Manoj Shah/Getty Images)",
         "copyrightKeyword": "Gnus",
-        "hsh": "ef7f2eba75d1c7ba89f0e7d4afecde24",
-        "description": "Im Masai-Mara-Nationalreservat in Kenia zeigt sich jedes Jahr eines der faszinierendsten Naturschauspiele Afrikas. Mehr als eine Million Gnus folgen dem Rhythmus der Regenzeiten, um nährstoffreiches Gras und Wasser zu finden. Die ausdauernden Pflanzenfresser legen dabei weite Strecken durch die Savanne zurück und bilden Herden, die sich oft bis zum Horizont erstrecken. Ein zentrales Ereignis dieser Reise ist die Flussüberquerung. Am Mara-Fluss sammeln sich die Tiere oft lange, prüfen die Situation – und wagen erst im richtigen Moment den Sprung. Wird dieser ausgelöst, setzt eine Kettenreaktion ein: Tausende Gnus drängen gleichzeitig vorwärts und durchqueren das Wasser in wenigen Minuten."
-    },
-    {
-        "fullstartdate": "202608042200",
-        "date": "20260805",
-        "url": "https://www.bing.com/th?id=OHR.FezMorocco_DE-DE5645521719_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FezMorocco_DE-DE5645521719",
-        "copyright": "Verziertes Tor des Königspalasts von Fès, Marokko (© cgst26/Shutterstock)",
-        "copyrightKeyword": "Königspalast Fès",
-        "hsh": "ce1ee4039a6176daf23ab099e9c238a6"
+        "hsh": "ef7f2eba75d1c7ba89f0e7d4afecde24"
     }
 ]

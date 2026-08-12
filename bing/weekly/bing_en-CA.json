@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608120400",
+        "date": "20260812",
+        "url": "https://www.bing.com/th?id=OHR.ElephantDay_EN-CA5228508211_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ElephantDay_EN-CA5228508211",
+        "copyright": "A group of elephants, Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)",
+        "copyrightKeyword": "World Elephant Day",
+        "hsh": "cca43dfd64cb2a92e461b0a934351914",
+        "description": "On August 12, World Elephant Day invites us to pause and consider not just the size of these animals, but the depth of their lives. In places like Amboseli National Park in Kenya—captured in this image—a herd doesn't simply pass through the landscape; it remembers it. Matriarchs guide their families between water sources, tracing routes shaped as much by memory as by terrain.",
+        "maplink": "-2.6527,37.26058"
+    },
+    {
         "fullstartdate": "202608110400",
         "date": "20260811",
         "url": "https://www.bing.com/th?id=OHR.ColorfulCop_EN-CA5069380652_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.FezMorocco_EN-CA4182192708",
         "copyright": "Decorated gate of the Royal Palace of Fez, Morocco (© cgst26/Shutterstock)",
         "copyrightKeyword": "Royal Palace of Fez",
-        "hsh": "f00c92e3e63d12574489a7daff1a41bf",
-        "description": "In Fez, Morocco, the Royal Palace—known as Dar al-Makhzen—has stood as a seat of power since the 13th century, when Morocco's rulers established a fortified royal city around it. Behind its high walls lie gardens, courtyards, mosques and royal residences spread across a vast complex still used by the king today, making it both historic and fully active.",
-        "maplink": "34.05306,-4.99361"
-    },
-    {
-        "fullstartdate": "202608040400",
-        "date": "20260804",
-        "url": "https://www.bing.com/th?id=OHR.AdorableOwlet_EN-CA3620790645_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AdorableOwlet_EN-CA3620790645",
-        "copyright": "Florida burrowing owlet, Cape Coral, Florida, United States (© mlorenzphotography/Getty Images)",
-        "copyrightKeyword": "Owl bird",
-        "hsh": "a1129891d71b40a46d34b1afbb57731e"
+        "hsh": "f00c92e3e63d12574489a7daff1a41bf"
     }
 ]
