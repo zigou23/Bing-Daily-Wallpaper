@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202608132200",
+        "date": "20260814",
+        "url": "https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_DE-DE6173480409_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_DE-DE6173480409",
+        "copyright": "Luftaufnahme einer Grünbrücke bei Zakrzów, Polen (© bbsferrari/Getty Images)",
+        "copyrightKeyword": "Grünbrücke",
+        "hsh": "007a4364762afda616621c1827314e6e",
+        "description": "Die Luftaufnahme zeigt eine Grünbrücke bei Zakrzów in Polen, die eine stark befahrene Verkehrsachse überspannt. Solche Bauwerke verbinden Lebensräume, die durch Straßen und Autobahnen voneinander getrennt wurden. Für viele Tierarten schaffen sie sichere Wege zwischen Futtergebieten, Rückzugsorten und Wanderkorridoren. Dadurch sinkt nicht nur das Risiko von Wildunfällen, sondern auch die Gefahr, dass Populationen durch die Zerschneidung ihrer Lebensräume isoliert werden. Grünbrücken gelten heute als wichtiger Bestandteil moderner Naturschutzmaßnahmen."
+    },
+    {
         "fullstartdate": "202608122200",
         "date": "20260813",
         "url": "https://www.bing.com/th?id=OHR.PerseidasTenerife_DE-DE8459328996_1920x1080.jpg",
@@ -72,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LimeKiln_DE-DE5407156308",
         "copyright": "Leuchtturm Lime Kiln auf San Juan Island, Washington, USA (© Edmund Lowe Photography/Shutterstock)",
         "copyrightKeyword": "Leuchtturm Lime Kiln Wanderungen",
-        "hsh": "de05c5206e0c99361cce6004a9706cc6",
-        "description": "Der Lime Kiln Lighthouse steht an der Westküste von San Juan Island im US-Bundesstaat Washington. Er gehört zu den bekanntesten Leuchttürmen der Region und blickt auf die stark befahrene Haro Strait. Seit seiner Inbetriebnahme unterstützt er die sichere Navigation von Schiffen, die zwischen den Vereinigten Staaten und Kanada verkehren. Das weiße Gebäude mit seinem markanten Turm fügt sich harmonisch in die felsige Küstenlandschaft ein und ist ein beliebtes Fotomotiv.",
-        "maplink": "48.516128,-123.152644"
-    },
-    {
-        "fullstartdate": "202608052200",
-        "date": "20260806",
-        "url": "https://www.bing.com/th?id=OHR.MaraCrossing_DE-DE5747320047_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MaraCrossing_DE-DE5747320047",
-        "copyright": "Gnuherden überqueren den Mara-Fluss in der Masai Mara, Kenia (© Manoj Shah/Getty Images)",
-        "copyrightKeyword": "Gnus",
-        "hsh": "ef7f2eba75d1c7ba89f0e7d4afecde24"
+        "hsh": "de05c5206e0c99361cce6004a9706cc6"
     }
 ]

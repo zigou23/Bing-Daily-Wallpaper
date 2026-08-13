@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202608130300",
+        "date": "20260813",
+        "url": "https://www.bing.com/th?id=OHR.PerseidasTenerife_PT-BR3896657935_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PerseidasTenerife_PT-BR3896657935",
+        "copyright": "Meteoros Perseidas sobre o Observatório do Teide, Tenerife, Espanha (© Westend61/Getty Images)",
+        "copyrightKeyword": "chuva de meteoros Perseidas",
+        "hsh": "f84a7df6afe3bcdf2b173d679b10e93c",
+        "description": "Tem noites em que o céu parece gastar todo o seu estoque de efeitos especiais. Entre julho e agosto, a Terra atravessa a trilha de detritos deixada pelo cometa Swift-Tuttle, dando origem à chuva de meteoros Perseidas, que atinge o auge por volta de 12 e 13 de agosto. E sabia que não são estrelas cadentes? Cada risco luminoso é um pequeno fragmento de rocha e poeira que incandesce ao atravessar a atmosfera a dezenas de quilômetros por segundo."
+    },
+    {
         "fullstartdate": "202608120300",
         "date": "20260812",
         "url": "https://www.bing.com/th?id=OHR.ElephantDay_PT-BR6092042150_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MaraCrossing_PT-BR3865870931",
         "copyright": "Migração de gnus cruzando o Rio Mara na Reserva Nacional Masai Mara, Quênia (© Manoj Shah/Getty Images)",
         "copyrightKeyword": "gnus",
-        "hsh": "9823d04a0e6602d1dc0ec37cebffe2f2",
-        "description": "Quase dá pra sentir a terra tremer. Na cena de hoje, milhares de gnus hesitam às margens do Rio Mara, no Quênia. Mas a pausa dura pouco. Um salto, depois outro, e logo a margem desaba em uma corrente viva de cascos, poeira e respingos. Este é um dos momentos mais eletrizantes da maior migração terrestre do planeta. Todo ano, mais de 1 milhão de gnus, zebras e gazelas cruzam centenas de quilômetros entre o Serengeti, na Tanzânia, e o Masai Mara, no Quênia, atrás de pastagens mais verdes."
-    },
-    {
-        "fullstartdate": "202608050300",
-        "date": "20260805",
-        "url": "https://www.bing.com/th?id=OHR.FezMorocco_PT-BR3389215453_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FezMorocco_PT-BR3389215453",
-        "copyright": "Porta decorada do Palácio Real de Fez, Marrocos (© cgst26/Shutterstock)",
-        "copyrightKeyword": "Palácio Real de Fez Dar al Makhzen",
-        "hsh": "c1f8076639532b6071ae1d3bb9fc4968"
+        "hsh": "9823d04a0e6602d1dc0ec37cebffe2f2"
     }
 ]
