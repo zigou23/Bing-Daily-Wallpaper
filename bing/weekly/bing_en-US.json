@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202608140700",
+        "date": "20260814",
+        "url": "https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_EN-US5004733603_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_EN-US5004733603",
+        "copyright": "Aerial view of a wildlife crossing near Zakrzów, Poland (© bbsferrari/Getty Images)",
+        "copyrightKeyword": "Wildlife crossing",
+        "hsh": "474e939e4a8875d508e45a2ee8ef4b9b",
+        "description": "Roads solved one problem but quietly created another. People could travel faster than ever, while wildlife now faced highways cutting across routes they had followed for generations. The result was more collisions, fragmented habitats, and isolated wildlife populations. That challenge led to building wildlife crossings called ecoducts: bridges or tunnels designed to reconnect habitats and give animals a safe way across busy roads. Some of the earliest modern examples appeared in France during the 1950s, and the idea soon spread across Europe. Countries such as the Netherlands helped refine ecoduct design by building wide green bridges covered in soil and native vegetation, from grasses and shrubs to trees."
+    },
+    {
         "fullstartdate": "202608130700",
         "date": "20260813",
         "url": "https://www.bing.com/th?id=OHR.PerseidasTenerife_EN-US4798593153_1920x1080.jpg",
@@ -72,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LimeKiln_EN-US2748515593",
         "copyright": "Lime Kiln Lighthouse on San Juan Island, Washington State (© Edmund Lowe Photography/Shutterstock)",
         "copyrightKeyword": "National Lighthouse Day",
-        "hsh": "5becc77210847ca229d4f45832cf3205",
-        "description": "Every August 7, National Lighthouse Day shines a light on the beacons that have guided ships safely along America's coasts for centuries. The date commemorates the Lighthouse Act of 1789, signed into law by President George Washington.",
-        "maplink": "48.516128,-123.152644"
-    },
-    {
-        "fullstartdate": "202608060700",
-        "date": "20260806",
-        "url": "https://www.bing.com/th?id=OHR.MaraCrossing_EN-US8682968377_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MaraCrossing_EN-US8682968377",
-        "copyright": "Migrating wildebeest crossing Mara River in Masai Mara, Kenya (© Manoj Shah/Getty Images)",
-        "copyrightKeyword": "wildebeest",
-        "hsh": "3021ee47f0fca34f0ea1888abc1b26e3"
+        "hsh": "5becc77210847ca229d4f45832cf3205"
     }
 ]

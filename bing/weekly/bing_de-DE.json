@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608142200",
+        "date": "20260815",
+        "url": "https://www.bing.com/th?id=OHR.SellinSunrise_DE-DE6501539287_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SellinSunrise_DE-DE6501539287",
+        "copyright": "Sonnenaufgang an der Seebrücke Sellin, Rügen, Mecklenburg-Vorpommern (© bluejayphoto/Getty Images)",
+        "copyrightKeyword": "Seebrücke Sellin",
+        "hsh": "adde25cb1e21256ab6d63956e7f145fb",
+        "description": "Wenn die ersten Sonnenstrahlen den Horizont vergolden, zeigt sich die Seebrücke Sellin von ihrer besonders eindrucksvollen Seite. An der Ostküste der Insel Rügen in Mecklenburg-Vorpommern gelegen, zählt dieses Bauwerk zu den bekanntesten Wahrzeichen der deutschen Ostsee. Ihre Geschichte reicht bis ins Jahr 1906 zurück, als die erste Seebrücke eröffnet wurde. Im Laufe der Jahrzehnte wurde die Anlage durch Stürme und andere Schäden mehrfach beeinträchtigt und schließlich abgerissen.",
+        "maplink": "54.383957,13.699495"
+    },
+    {
         "fullstartdate": "202608132200",
         "date": "20260814",
         "url": "https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_DE-DE6173480409_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.RhineFlames_DE-DE7527393403",
         "copyright": "Rhein in Flammen vor Schloss Stolzenfels bei Koblenz, Rheinland-Pfalz (© Jule_Berlin/Shutterstock)",
         "copyrightKeyword": "Rhein in Flammen",
-        "hsh": "ff535d95b0153e13c97c64aecf600c01",
-        "description": "Wenn über dem Rhein die ersten Feuerwerksfarben aufleuchten, beginnt eines der bekanntesten Sommerereignisse Deutschlands. Bei „Rhein in Flammen“ verwandeln sich Burgen, Weinorte und Uferlandschaften entlang des Mittelrheins in eine Kulisse aus Licht und Farbe. Heute richtet sich der Blick auf die Region rund um Koblenz. Hier zieht ein festlich beleuchteter Schiffskonvoi den Fluss entlang, begleitet von mehreren Feuerwerken, deren Farben sich im Wasser spiegeln. Zwischen Spay, Braubach, Rhens und Koblenz werden Burgen und Rheinufer illuminiert, bevor das große Abschlussfeuerwerk den Höhepunkt des Abends bildet.",
-        "maplink": "50.303465,7.592035"
-    },
-    {
-        "fullstartdate": "202608062200",
-        "date": "20260807",
-        "url": "https://www.bing.com/th?id=OHR.LimeKiln_DE-DE5407156308_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LimeKiln_DE-DE5407156308",
-        "copyright": "Leuchtturm Lime Kiln auf San Juan Island, Washington, USA (© Edmund Lowe Photography/Shutterstock)",
-        "copyrightKeyword": "Leuchtturm Lime Kiln Wanderungen",
-        "hsh": "de05c5206e0c99361cce6004a9706cc6"
+        "hsh": "ff535d95b0153e13c97c64aecf600c01"
     }
 ]

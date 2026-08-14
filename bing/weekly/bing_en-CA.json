@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202608140400",
+        "date": "20260814",
+        "url": "https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_EN-CA5559253434_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_EN-CA5559253434",
+        "copyright": "Aerial view of a wildlife crossing near Zakrzów, Poland (© bbsferrari/Getty Images)",
+        "copyrightKeyword": "Wildlife crossing",
+        "hsh": "8246595bdfb42f65647301791b31b5cb",
+        "description": "Roads solved one problem but quietly created another. People could travel faster than ever, while wildlife faced highways cutting across routes they had followed for generations. The result was more collisions, fragmented habitats and isolated wildlife populations. That challenge led to wildlife crossings called ecoducts: bridges or tunnels designed to reconnect habitats and give animals a safe way across busy roads. Some of the earliest modern examples appeared in France during the 1950s, while the Netherlands later refined the concept with broad, green bridges covered in soil and native vegetation."
+    },
+    {
         "fullstartdate": "202608130400",
         "date": "20260813",
         "url": "https://www.bing.com/th?id=OHR.PerseidasTenerife_EN-CA5389279972_1920x1080.jpg",
@@ -72,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LimeKiln_EN-CA4364402853",
         "copyright": "Lime Kiln Lighthouse on San Juan Island, Washington state, United States (© Edmund Lowe Photography/Shutterstock)",
         "copyrightKeyword": "Lime Kiln Lighthouse",
-        "hsh": "ee9a52c4a4a31e6079f37efccb52418d",
-        "description": "Ships, storms and changing technology have come and gone, but the light remains. On Washington's San Juan Island, Lime Kiln Lighthouse has overlooked Haro Strait since 1919. Perched on a rocky bluff, its white flash continues to guide vessels through a major inland marine waterway in the Pacific Northwest. The lighthouse stands within Lime Kiln Point State Park, which is recognised as one of the world's best places to watch wild orcas from shore, with whales sometimes passing remarkably close to the coast.",
-        "maplink": "48.516128,-123.152644"
-    },
-    {
-        "fullstartdate": "202608060400",
-        "date": "20260806",
-        "url": "https://www.bing.com/th?id=OHR.EDMFolkFest_EN-CA4302918547_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.EDMFolkFest_EN-CA4302918547",
-        "copyright": "Edmonton at night, Alberta (© Tetyana Babiy/iStock/Getty Images)",
-        "copyrightKeyword": "Edmonton Folk Festival",
-        "hsh": "790e019852141da17545c7083f2c734e"
+        "hsh": "ee9a52c4a4a31e6079f37efccb52418d"
     }
 ]
