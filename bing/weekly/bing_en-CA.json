@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608150400",
+        "date": "20260815",
+        "url": "https://www.bing.com/th?id=OHR.ValleyDreams_EN-CA5979323627_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ValleyDreams_EN-CA5979323627",
+        "copyright": "Hoodoos in Ah Shi Sle Pah Wilderness in San Juan County, New Mexico, United States (© Westend61/Getty Images)",
+        "copyrightKeyword": "Ah Shi Sle Pah Wilderness",
+        "hsh": "5b2d3df5f46bf24af251ff009d099c75",
+        "description": "Nature has a knack for balancing the impossible. In New Mexico's Ah-Shi-Sle-Pah Wilderness, towering hoodoos perch hefty rock caps on slender stems. Wind, water and ice have spent roughly 75 million years sculpting these remote badlands into an open-air gallery that feels more alien than terrestrial.",
+        "maplink": "36.155291,-107.935427"
+    },
+    {
         "fullstartdate": "202608140400",
         "date": "20260814",
         "url": "https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_EN-CA5559253434_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.StocktonInfinity_EN-CA4539873012",
         "copyright": "Infinity Bridge in Stockton-on-Tees, England (© Bahadir Yeniceri/Shutterstock)",
         "copyrightKeyword": "Infinity Bridge England",
-        "hsh": "5a5ddfc7387d1674889b94db6a124a39",
-        "description": "At first glance, it's just a bridge. Then the reflection changes everything. Infinity Bridge spans the River Tees in Stockton-on-Tees, England, where its two striking steel arches and their reflections create the shape of an infinity symbol, inspiring its name. Opened in 2009, the pedestrian and cycle bridge was designed by Expedition Engineering with architect Spence Associates as part of the regeneration of the town's riverside. Stretching about 240 metres, its tied-arch structure combines engineering efficiency with a distinctive appearance.",
-        "maplink": "54.5647944,-1.2991917"
-    },
-    {
-        "fullstartdate": "202608070400",
-        "date": "20260807",
-        "url": "https://www.bing.com/th?id=OHR.LimeKiln_EN-CA4364402853_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LimeKiln_EN-CA4364402853",
-        "copyright": "Lime Kiln Lighthouse on San Juan Island, Washington state, United States (© Edmund Lowe Photography/Shutterstock)",
-        "copyrightKeyword": "Lime Kiln Lighthouse",
-        "hsh": "ee9a52c4a4a31e6079f37efccb52418d"
+        "hsh": "5a5ddfc7387d1674889b94db6a124a39"
     }
 ]

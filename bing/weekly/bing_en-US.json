@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608150700",
+        "date": "20260815",
+        "url": "https://www.bing.com/th?id=OHR.ValleyDreams_EN-US5250331985_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ValleyDreams_EN-US5250331985",
+        "copyright": "Hoodoos in Ah Shi Sle Pah Wilderness in San Juan County, New Mexico (© Westend61/Getty Images)",
+        "copyrightKeyword": "Ah Shi Sle Pah Wilderness",
+        "hsh": "0c6e30e6789f750ea9ed359854e42db3",
+        "description": "Nature has a knack for balancing the impossible. In New Mexico's Ah-Shi-Sle-Pah Wilderness, towering hoodoos perch hefty rock caps on slender stems. Wind, water, and ice have spent roughly 75 million years sculpting these remote badlands into an open-air gallery that feels more alien than terrestrial.",
+        "maplink": "36.155291,-107.935427"
+    },
+    {
         "fullstartdate": "202608140700",
         "date": "20260814",
         "url": "https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_EN-US5004733603_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.StocktonInfinity_EN-US3006724421",
         "copyright": "Infinity Bridge in Stockton-on-Tees, England (© Bahadir Yeniceri/Shutterstock)",
         "copyrightKeyword": "International Infinity Day",
-        "hsh": "da278f1e0606cede9227d19db7668a68",
-        "description": "On August 8, curiosity takes center stage on International Infinity Day—a celebration inspired by the sideways figure 8, a symbol of something without end. Founded in 1987 by New York–based philosopher Jean-Pierre Ady Fenyo, the day invites everyone to explore big ideas through science, art, and imagination. It's not just about math—it's also about possibilities, from the vastness of space to the limits of human creativity.",
-        "maplink": "54.5647944,-1.2991917"
-    },
-    {
-        "fullstartdate": "202608070700",
-        "date": "20260807",
-        "url": "https://www.bing.com/th?id=OHR.LimeKiln_EN-US2748515593_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LimeKiln_EN-US2748515593",
-        "copyright": "Lime Kiln Lighthouse on San Juan Island, Washington State (© Edmund Lowe Photography/Shutterstock)",
-        "copyrightKeyword": "National Lighthouse Day",
-        "hsh": "5becc77210847ca229d4f45832cf3205"
+        "hsh": "da278f1e0606cede9227d19db7668a68"
     }
 ]

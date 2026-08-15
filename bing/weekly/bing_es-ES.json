@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608152200",
+        "date": "20260816",
+        "url": "https://www.bing.com/th?id=OHR.RossErrillyRuins_ES-ES2238203619_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.RossErrillyRuins_ES-ES2238203619",
+        "copyright": "Ruinas del convento Ross Errilly, condado de Galway, Irlanda (© Maria Janus/Shutterstock)",
+        "copyrightKeyword": "Galway Irlanda",
+        "hsh": "dce850be79c0aa8df751ebfe446868a1",
+        "description": "Fundado hacia mediados del siglo XIV a orillas del río Black, en el condado de Galway, Irlanda, el convento franciscano de Ross Errilly —conocido popularmente como «Ross Abbey», aunque nunca tuvo abad— es mucho más que unas ruinas bien conservadas: es un laberinto de capillas, claustros y pasillos que guardan siglos de historia religiosa, resistencia y vida cotidiana medieval.",
+        "maplink": "53.47966,-9.131635"
+    },
+    {
         "fullstartdate": "202608142200",
         "date": "20260815",
         "url": "https://www.bing.com/th?id=OHR.MalagaFairAgosto_ES-ES2221508269_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.JMTjibaou_ES-ES9350648651",
         "copyright": "Centro Cultural Jean-Marie Tjibaou, Nueva Caledonia (© Fabien Astre/Alamy)",
         "copyrightKeyword": "Día Internacional de los Pueblos Indígenas del Mundo",
-        "hsh": "43d216ba52a228da44c3afa81c0e1c18",
-        "description": "En la península de Tina, en Nueva Caledonia, el Centro Cultural Jean-Marie Tjibaou se eleva sobre el paisaje como un gesto arquitectónico sin precedentes. Diseñado por Renzo Piano e inaugurado en 1998, sus estructuras curvas y alargadas evocan las cabañas tradicionales del pueblo kanak, aunque construidas con materiales y técnicas de última generación. Senderos que conectan espacios de arte, investigación y espectáculo tejen un relato en el que la cultura, la tierra y la comunidad son inseparables.",
-        "maplink": "-22.256,166.482"
-    },
-    {
-        "fullstartdate": "202608072200",
-        "date": "20260808",
-        "url": "https://www.bing.com/th?id=OHR.StocktonInfinity_ES-ES5321261606_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.StocktonInfinity_ES-ES5321261606",
-        "copyright": "Puente del Infinito en Stockton-on-Tees, Inglaterra (© Bahadir Yeniceri/Shutterstock)",
-        "copyrightKeyword": "Día Internacional del Infinito",
-        "hsh": "003715461b99df48039374eb8a699b98"
+        "hsh": "43d216ba52a228da44c3afa81c0e1c18"
     }
 ]
