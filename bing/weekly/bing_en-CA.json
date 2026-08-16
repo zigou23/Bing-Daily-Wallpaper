@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608160400",
+        "date": "20260816",
+        "url": "https://www.bing.com/th?id=OHR.RossErrillyRuins_EN-CA6127917779_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.RossErrillyRuins_EN-CA6127917779",
+        "copyright": "Ruins of Ross Errilly Friary, County Galway, Ireland (© Maria Janus/Shutterstock)",
+        "copyrightKeyword": "Ross Errilly Friary Ireland",
+        "hsh": "347cfd23a05e11cd7cdbb12b9aa09078",
+        "description": "What do swans, secret hideaways and a medieval fish tank have in common? They're all part of the story of Ross Errilly Friary. Founded around 1351, this well-preserved Franciscan friary in Ireland is often called Ross Abbey, though it never had an abbot because it was never an abbey.",
+        "maplink": "53.47966,-9.131635"
+    },
+    {
         "fullstartdate": "202608150400",
         "date": "20260815",
         "url": "https://www.bing.com/th?id=OHR.ValleyDreams_EN-CA5979323627_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.JMTjibaou_EN-CA4738460132",
         "copyright": "Jean-Marie Tjibaou Cultural Centre, New Caledonia (© Fabien Astre/Alamy)",
         "copyrightKeyword": "International Day of the Worlds Indigenous Peoples",
-        "hsh": "907b28bffed3f2309d67077f3333c449",
-        "description": "Today, the International Day of the World's Indigenous Peoples invites a closer look at communities whose stories stretch far beyond recorded history. Proclaimed by the United Nations in 1994 and first observed in 1995, the day honours Indigenous Peoples worldwide. More than 476 million Indigenous people live across about 90 countries, sustaining thousands of cultures and many of the world's roughly 7,000 languages. In Canada, First Nations, Inuit and Métis peoples each have distinct histories, traditions and languages that continue to shape the country's identity.",
-        "maplink": "-22.256,166.482"
-    },
-    {
-        "fullstartdate": "202608080400",
-        "date": "20260808",
-        "url": "https://www.bing.com/th?id=OHR.StocktonInfinity_EN-CA4539873012_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.StocktonInfinity_EN-CA4539873012",
-        "copyright": "Infinity Bridge in Stockton-on-Tees, England (© Bahadir Yeniceri/Shutterstock)",
-        "copyrightKeyword": "Infinity Bridge England",
-        "hsh": "5a5ddfc7387d1674889b94db6a124a39"
+        "hsh": "907b28bffed3f2309d67077f3333c449"
     }
 ]

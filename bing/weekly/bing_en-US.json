@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608160700",
+        "date": "20260816",
+        "url": "https://www.bing.com/th?id=OHR.RossErrillyRuins_EN-US5729358123_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.RossErrillyRuins_EN-US5729358123",
+        "copyright": "Ruins of Ross Errilly Friary, County Galway, Ireland (© Maria Janus/Shutterstock)",
+        "copyrightKeyword": "Ross Errilly Friary Ireland",
+        "hsh": "ed8ec5d1b07e4e18b8af0cf6615a159c",
+        "description": "What do swans, secret hideaways, and a medieval fish tank have in common? They're all part of the story of Ross Errilly Friary. Founded around 1351, this well-preserved Franciscan friary in Ireland is often called Ross Abbey, though it never had an abbot because it was never an abbey.",
+        "maplink": "53.47966,-9.131635"
+    },
+    {
         "fullstartdate": "202608150700",
         "date": "20260815",
         "url": "https://www.bing.com/th?id=OHR.ValleyDreams_EN-US5250331985_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.JMTjibaou_EN-US3454380257",
         "copyright": "Jean-Marie Tjibaou Cultural Centre, New Caledonia (© Fabien Astre/Alamy)",
         "copyrightKeyword": "International Day of the Worlds Indigenous Peoples",
-        "hsh": "38a7e5354728f289692ef5ccd4c5d322",
-        "description": "Today, the International Day of the World's Indigenous Peoples invites a closer look at communities whose stories stretch far beyond recorded history. Proclaimed by the United Nations in 1994 and first observed in 1995, the date marks a landmark 1982 meeting focused on protecting Indigenous rights worldwide. More than 476 million Indigenous people now live across about 90 countries, sustaining thousands of cultures and the majority of the world's roughly 7,000 languages.",
-        "maplink": "-22.256,166.482"
-    },
-    {
-        "fullstartdate": "202608080700",
-        "date": "20260808",
-        "url": "https://www.bing.com/th?id=OHR.StocktonInfinity_EN-US3006724421_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.StocktonInfinity_EN-US3006724421",
-        "copyright": "Infinity Bridge in Stockton-on-Tees, England (© Bahadir Yeniceri/Shutterstock)",
-        "copyrightKeyword": "International Infinity Day",
-        "hsh": "da278f1e0606cede9227d19db7668a68"
+        "hsh": "38a7e5354728f289692ef5ccd4c5d322"
     }
 ]
