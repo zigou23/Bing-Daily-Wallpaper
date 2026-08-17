@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608172200",
+        "date": "20260818",
+        "url": "https://www.bing.com/th?id=OHR.Palmanova_IT-IT8638241680_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.Palmanova_IT-IT8638241680",
+        "copyright": "Veduta aerea di Palmanova, una città-fortezza in Friuli, Italia (© Riccardo Saponi/Getty Images)",
+        "copyrightKeyword": "Palmanova",
+        "hsh": "9fb0eafe7dae1f1cd45c60b376643c07",
+        "description": "Vista dall'alto, Palmanova non sembra una città: sembra il disegno di una stella a nove punte tracciato con squadra e compasso sulle pianure del Friuli-Venezia Giulia. Fondata dalla Repubblica di Venezia il 7 ottobre 1593, questa città-fortezza fu concepita da zero come modello di difesa, ordine e bellezza: le strade si irradiano da una piazza centrale esagonale verso le mura, che formano un anello di bastioni con perfetta precisione matematica.",
+        "maplink": "45.907204,13.311111"
+    },
+    {
         "fullstartdate": "202608162200",
         "date": "20260817",
         "url": "https://www.bing.com/th?id=OHR.LimeKiln_IT-IT6111794447_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ColorfulCop_IT-IT3126463813",
         "copyright": "Case colorate lungo il Canale di Nyhavn, Copenaghen, Danimarca (© emicristea/Getty Images)",
         "copyrightKeyword": "Copenaghen",
-        "hsh": "6024300a3707ef5e27472c40f272af11",
-        "description": "Il Canale di Nyhavn, a Copenaghen, in Danimarca, è il luogo in cui la storia si deposita con i colori di una tavolozza di pittore. Le case a timpano dai colori rossi, ocra e blu si inclinano sull'acqua, e i loro riflessi si mescolano alle sagome di vecchie imbarcazioni di legno ormeggiate lungo la banchina. Scavato tra il 1670 e il 1673 per volere del re Cristiano V, questo canale lungo circa 450 metri fu per secoli il cuore commerciale e portuale della capitale danese.",
-        "maplink": "55.680387,12.589468"
-    },
-    {
-        "fullstartdate": "202608092200",
-        "date": "20260810",
-        "url": "https://www.bing.com/th?id=OHR.DolomitiAgosto_IT-IT3030401591_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DolomitiAgosto_IT-IT3030401591",
-        "copyright": "Il Lago di Carezza nelle Dolomiti all'alba, Bolzano, Italia (© Putt Sakdhnagool/Moment/Getty Images)",
-        "copyrightKeyword": "Lago di Carezza",
-        "hsh": "f51cd065227a0126a2824c57e567f0e1"
+        "hsh": "6024300a3707ef5e27472c40f272af11"
     }
 ]
