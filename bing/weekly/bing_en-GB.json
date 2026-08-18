@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608182300",
+        "date": "20260819",
+        "url": "https://www.bing.com/th?id=OHR.WhyteCliffP_EN-GB6122204864_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WhyteCliffP_EN-GB6122204864",
+        "copyright": "Whytecliff Park in West Vancouver, British Columbia, Canada (© Aolin Chen/Getty Images)",
+        "copyrightKeyword": "Whytecliff Park",
+        "hsh": "81bed4b1e6c61eca07f4822df5c59af3",
+        "description": "The best route here isn't built with concrete. Instead, the tide reveals a rocky path leading from Whytecliff Park to Whyte Islet in West Vancouver, Canada. A few hours later, the sea quietly covers the crossing again, making timing part of the experience. This shoreline has drawn visitors for generations. The tide opens the path; wet rocks keep you humble. The reward is a sweeping view back towards the beach and the hillside homes of Gleneagles.",
+        "maplink": "49.375514,-123.288861"
+    },
+    {
         "fullstartdate": "202608172300",
         "date": "20260818",
         "url": "https://www.bing.com/th?id=OHR.Palmanova_EN-GB5986280332_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ElephantDay_EN-GB4622751774",
         "copyright": "A group of elephants, Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)",
         "copyrightKeyword": "World Elephant Day",
-        "hsh": "04ea67853b11f51cdb247b09f87f6b17",
-        "description": "On 12 August, World Elephant Day invites us to pause and consider not just the size of these animals, but the depth of their lives. In places like Amboseli National Park in Kenya—captured in this image—a herd doesn't simply pass through the landscape; it remembers it. Matriarchs guide their families between water sources, tracing routes shaped as much by memory as by terrain.",
-        "maplink": "-2.6527,37.26058"
-    },
-    {
-        "fullstartdate": "202608102300",
-        "date": "20260811",
-        "url": "https://www.bing.com/th?id=OHR.ColorfulCop_EN-GB4254714055_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ColorfulCop_EN-GB4254714055",
-        "copyright": "Colourful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)",
-        "copyrightKeyword": "Nyhavn Canal Copenhagen",
-        "hsh": "646c9a1017826ba9887bf5a931336aae"
+        "hsh": "04ea67853b11f51cdb247b09f87f6b17"
     }
 ]

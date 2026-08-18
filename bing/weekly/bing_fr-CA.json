@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608180400",
+        "date": "20260818",
+        "url": "https://www.bing.com/th?id=OHR.Palmanova_FR-CA6927775501_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.Palmanova_FR-CA6927775501",
+        "copyright": "Vue aérienne de Palmanova, Friuli, Italie (© Riccardo Saponi/Getty Images)",
+        "copyrightKeyword": "Palmanova Italie",
+        "hsh": "124d8141bac6a0ab956371fefc4783e8",
+        "description": "Vue du ciel, Palmanova évoque une gigantesque étoile posée sur la plaine du Frioul-Vénétie Julienne, dans le nord-est de l’Italie. Fondée en 1593 par la République de Venise, elle incarne une idée audacieuse : réunir l’art, la science et la défense dans une même conception urbaine. Depuis sa vaste place centrale, les rues rayonnent selon un plan d’une précision remarquable, tandis que les remparts dessinent une figure à neuf pointes visible jusque dans les moindres détails depuis les airs.",
+        "maplink": "45.907204,13.311111"
+    },
+    {
         "fullstartdate": "202608170400",
         "date": "20260817",
         "url": "https://www.bing.com/th?id=OHR.CabilaoClowns_FR-CA6346458733_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ColorfulCop_FR-CA4855520574",
         "copyright": "Maisons colorées sur les rives du canal Nyhavn, Copenhague, Danemark (© emicristea/Getty Images)",
         "copyrightKeyword": "Canal Nyhavn Copenhague",
-        "hsh": "a5a33066588019e4ad8bb1021f272d4c",
-        "description": "À Copenhague (Danemark), Nyhavn est un véritable tableau vivant où les couleurs éclatantes se mêlent à plusieurs siècles d’histoire. Le long de ce canal d’environ 457 mètres, les maisons à pignons se penchent vers l’eau, leurs reflets dansant à côté de vieux navires de bois. Creusé dans les années 1670 sous le roi Christian V, cet axe navigable constituait autrefois une porte d’entrée majeure pour les marchandises arrivant directement au cœur de la capitale danoise. Les marins y trouvaient aussi refuge, ce qui valut au quartier une réputation bien différente de celle qu’on lui connaît aujourd’hui.",
-        "maplink": "55.680387,12.589468"
-    },
-    {
-        "fullstartdate": "202608100400",
-        "date": "20260810",
-        "url": "https://www.bing.com/th?id=OHR.SandPath_FR-CA4489726034_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SandPath_FR-CA4489726034",
-        "copyright": "Parc national Joshua Tree, Californie, États-Unis (© JJ Landscapes/Getty Images)",
-        "copyrightKeyword": "Parc national Joshua Tree ",
-        "hsh": "c2260b10222f82c0e2e999ecc16aec0b"
+        "hsh": "a5a33066588019e4ad8bb1021f272d4c"
     }
 ]

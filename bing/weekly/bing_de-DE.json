@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608182200",
+        "date": "20260819",
+        "url": "https://www.bing.com/th?id=OHR.WhyteCliffP_DE-DE7763456664_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WhyteCliffP_DE-DE7763456664",
+        "copyright": "Whytecliff Park in West Vancouver, British Columbia, Kanada (© Aolin Chen/Getty Images)",
+        "copyrightKeyword": "Whytecliff Park Informationen",
+        "hsh": "6f4e735ec3a39cd9f4cb76f9ad160977",
+        "description": "Im Whytecliff Park in West Vancouver in der kanadischen Provinz British Columbia zeigt sich die Küste von einer besonders eindrucksvollen Seite. Bei Ebbe wird ein schmaler Weg sichtbar, der Besucher zu einer kleinen Insel führt. Für kurze Zeit verbindet das Meer zwei Landflächen, bevor das Wasser den Übergang wieder verschwinden lässt. Die felsige Küstenlandschaft, das klare Wasser und die Aussicht auf die vorgelagerten Inseln machen den Park zu einem beliebten Ziel für Naturfreunde und Fotografen.",
+        "maplink": "49.375514,-123.288861"
+    },
+    {
         "fullstartdate": "202608172200",
         "date": "20260818",
         "url": "https://www.bing.com/th?id=OHR.Palmanova_DE-DE7108374282_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ElephantDay_DE-DE9475374565",
         "copyright": "Eine Elefantengruppe im Amboseli-Nationalpark, Kenia (© Ibrahim Suha Derbent/Getty Images)",
         "copyrightKeyword": "Weltelefantentag",
-        "hsh": "aab37db51d6fbfb4f8e0664d2439c5af",
-        "description": "Am 12. August lenkt der Weltelefantentag den Blick auf eines der beeindruckendsten Tiere unseres Planeten. Das Bild zeigt eine Elefantengruppe im Amboseli-Nationalpark in Kenia, einer Landschaft, die für ihre weiten Ebenen und ihre bedeutenden Elefantenpopulationen bekannt ist. Innerhalb der Herden übernehmen erfahrene Leitkühe eine wichtige Rolle. Sie führen ihre Familien zu Wasserstellen und sicheren Wegen und geben Wissen weiter, das über Generationen hinweg erhalten bleibt.",
-        "maplink": "-2.6527,37.26058"
-    },
-    {
-        "fullstartdate": "202608102200",
-        "date": "20260811",
-        "url": "https://www.bing.com/th?id=OHR.ColorfulCop_DE-DE9077062253_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ColorfulCop_DE-DE9077062253",
-        "copyright": "Bunte Häuser säumen den Nyhavn-Kanal in Kopenhagen, Dänemark (© emicristea/Getty Images)",
-        "copyrightKeyword": "Nyhavn-Kanal Kopenhagen",
-        "hsh": "ff3aa3c552259ef469f3a31b65a177ea"
+        "hsh": "aab37db51d6fbfb4f8e0664d2439c5af"
     }
 ]

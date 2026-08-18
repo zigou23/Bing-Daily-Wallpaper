@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608182200",
+        "date": "20260819",
+        "url": "https://www.bing.com/th?id=OHR.WhyteCliffP_ES-ES2273614080_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WhyteCliffP_ES-ES2273614080",
+        "copyright": "Parque Whytecliff, West Vancouver, Canadá (© Aolin Chen/Getty Images)",
+        "copyrightKeyword": "Parque Whytecliff",
+        "hsh": "f4cb2590e0b7f0f1be8f46181f4a8084",
+        "description": "En West Vancouver, Canadá, la marea marca el ritmo de una de las excursiones más singulares del océano Pacífico: a cada bajada, el mar revela un sendero rocoso que conecta el parque Whytecliff con el islote Whyte, una pequeña formación rocosa con vistas privilegiadas hacia la playa y las casas de Gleneagles. Unas horas después, el agua cubre de nuevo el paso, convirtiendo el momento elegido para cruzar en parte esencial de la experiencia. Las rocas mojadas obligan a ir despacio; la recompensa, al llegar arriba, lo justifica todo.",
+        "maplink": "49.373429,-123.288511"
+    },
+    {
         "fullstartdate": "202608172200",
         "date": "20260818",
         "url": "https://www.bing.com/th?id=OHR.Palmanova_ES-ES2137780663_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ElephantDay_ES-ES9999263656",
         "copyright": "Un grupo de elefantes, Parque Nacional Amboseli, Kenia (© Ibrahim Suha Derbent/Getty Images)",
         "copyrightKeyword": "Día Mundial del Elefante",
-        "hsh": "d5fabc4027fc03f57e20d88f4eb65461",
-        "description": "Una manada de elefantes en movimiento por el Parque Nacional Amboseli, en Kenia, no se desplaza al azar: sigue rutas trazadas durante generaciones en la memoria de sus matriarcas, que conocen cada fuente de agua y cada refugio bajo las sombras del Kilimanjaro. Cada 12 de agosto, el Día Mundial del Elefante —celebrado desde 2012— invita a detenerse ante la complejidad de estos animales, cuya inteligencia, vínculos sociales y capacidad emocional rivalizan con las de muchos primates.",
-        "maplink": "-2.6527,37.26058"
-    },
-    {
-        "fullstartdate": "202608102200",
-        "date": "20260811",
-        "url": "https://www.bing.com/th?id=OHR.LloretdeMar_ES-ES9587440947_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LloretdeMar_ES-ES9587440947",
-        "copyright": "Camino de Ronda, Lloret de Mar, Girona, Cataluña (© MEDITERRANEAN/Getty Images)",
-        "copyrightKeyword": "Girona",
-        "hsh": "dc33fb1e240cd69b203a81cb8a2b458c"
+        "hsh": "d5fabc4027fc03f57e20d88f4eb65461"
     }
 ]

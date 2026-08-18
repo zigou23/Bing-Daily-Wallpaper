@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608180400",
+        "date": "20260818",
+        "url": "https://www.bing.com/th?id=OHR.Palmanova_EN-CA6466747249_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.Palmanova_EN-CA6466747249",
+        "copyright": "Aerial view of Palmanova, a fortress city in Friuli, Italy (© Riccardo Saponi/Getty Images)",
+        "copyrightKeyword": "Palmanova Italy",
+        "hsh": "afcff1abf5b1c4bb657e6eb5295c2e8f",
+        "description": "From above, Palmanova looks less like a town and more like a carefully drawn star set into the plains of Friuli-Venezia Giulia, Italy. Founded by the Republic of Venice in 1593, this fortress city was designed for defence, order and spectacle. Its streets radiate from a central square, while its walls are shaped into a precise nine-pointed pattern. That geometry was no accident. Palmanova became one of the most influential models of early modern military architecture. It was protected by concentric fortifications built first under Venice and later strengthened and expanded during the Napoleonic period.",
+        "maplink": "45.907204,13.311111"
+    },
+    {
         "fullstartdate": "202608170400",
         "date": "20260817",
         "url": "https://www.bing.com/th?id=OHR.CabilaoClowns_EN-CA6278195956_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ColorfulCop_EN-CA5069380652",
         "copyright": "Colourful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)",
         "copyrightKeyword": "Nyhavn Canal Copenhagen",
-        "hsh": "cdce0247f98dfb55b4655fc1032c2a0a",
-        "description": "In Copenhagen, Nyhavn Canal is a burst of colour and history. In Denmark's capital, bright, gabled houses lean toward the water, their reflections rippling beside old wooden ships. Carved out in the 1670s under King Christian V, this 17th-century canal once served as a busy gateway where cargo vessels unloaded goods straight into the city's heart. Sailors crowded its taverns, and the harbour gained a rough reputation long before it became the postcard-perfect place seen today.",
-        "maplink": "55.680387,12.589468"
-    },
-    {
-        "fullstartdate": "202608100400",
-        "date": "20260810",
-        "url": "https://www.bing.com/th?id=OHR.SandPath_EN-CA4913487409_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SandPath_EN-CA4913487409",
-        "copyright": "Joshua Tree National Park, California, United States (© JJ Landscapes/Getty Images)",
-        "copyrightKeyword": "Joshua Tree National Park",
-        "hsh": "f63870309c36f2d58628a14801519135"
+        "hsh": "cdce0247f98dfb55b4655fc1032c2a0a"
     }
 ]
