@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608191500",
+        "date": "20260820",
+        "url": "https://www.bing.com/th?id=OHR.LynnCanalOrca_JA-JP7810665550_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LynnCanalOrca_JA-JP7810665550",
+        "copyright": "シャチ, 米国 アラスカ州 (© John Hyde/Alamy)",
+        "copyrightKeyword": "シャチ",
+        "hsh": "bf257559d25d81f94c7ff1ea805b567e",
+        "description": "ここは米国アラスカ南東部のリン運河。雪を頂くチルカット山脈を背景にシャチが力強く海面へ姿を現します。シャチは海を代表する捕食動物であり、マイルカ科の中では最大の種です。アラスカの冷たく栄養豊富な海はサケをはじめとする多様な生物を育み、シャチに豊かな餌場を提供しています。そしてシャチは、人間の方言のような群れごとに異なる鳴き声を持ち、家族の絆を大切にしながら暮す高い知能を持つ生物として知られています。リン運河は、そんなシャチたちを野生のまま観察できる貴重な場所です。",
+        "maplink": "58.69219,-135.097525"
+    },
+    {
         "fullstartdate": "202608181500",
         "date": "20260819",
         "url": "https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_JA-JP7553811306_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PerseidasTenerife_JA-JP5992050152",
         "copyright": "テイデ天文台, スペイン (© Westend61/Getty Images)",
         "copyrightKeyword": "ペルセウス座流星群",
-        "hsh": "78342e500d3ab0a039c5ce730f04ef24",
-        "description": "三大流星群の一つであるペルセウス座流星群が見頃を迎えています。多くの流星が流れると予想されるのは 8 月 12 日の夜から 13 日の未明と、13 日夜から 14 日の未明です。特に、本日 13 日は新月で月明かりの影響がないため、星空観察には好条件の日となっています。そして画像は、スペインのテイデ国立公園にあるテイデ天文台で以前撮影されたペルセウス座流星群。テイデ国立公園は、標高約 2400m の高地にあり、澄んだ空気と光害の少ない環境から、世界有数の天体観測地として知られています。",
-        "maplink": "28.299148,-16.510563"
-    },
-    {
-        "fullstartdate": "202608111500",
-        "date": "20260812",
-        "url": "https://www.bing.com/th?id=OHR.ElephantDay_JA-JP5660368264_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ElephantDay_JA-JP5660368264",
-        "copyright": "ゾウの群れ, ケニア (© Ibrahim Suha Derbent/Getty Images)",
-        "copyrightKeyword": "世界ゾウの日",
-        "hsh": "7bd6dd17453ba49f0e6d8011edb84823"
+        "hsh": "78342e500d3ab0a039c5ce730f04ef24"
     }
 ]
