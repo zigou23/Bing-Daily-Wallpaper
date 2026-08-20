@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608202200",
+        "date": "20260821",
+        "url": "https://www.bing.com/th?id=OHR.JulierPass_DE-DE4547078745_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.JulierPass_DE-DE4547078745",
+        "copyright": "Serpentinenstraße am Julierpass, Schweiz (© Westend61/Getty Images)",
+        "copyrightKeyword": "Julierpass",
+        "hsh": "34183c051641a52d0bca28abef9d3aa9",
+        "description": "Der Julierpass zählt zu den eindrucksvollsten Alpenübergängen der Schweiz. Die Passhöhe liegt auf 2284 Metern und verbindet seit fast 2000 Jahren verschiedene Täler miteinander. Bereits zur Römerzeit führte hier ein wichtiger Weg durch die Berge. Archäologische Funde nahe dem höchsten Punkt des Passes deuten darauf hin, dass Reisende diesen Ort nicht nur als Übergang, sondern auch als Rastplatz nutzten. Münzen und zwei römische Specksteinsäulen erinnern noch heute an diese lange Geschichte.",
+        "maplink": "46.471172,9.725359"
+    },
+    {
         "fullstartdate": "202608192200",
         "date": "20260820",
         "url": "https://www.bing.com/th?id=OHR.LynnCanalOrca_DE-DE7566722719_1920x1080.jpg",
@@ -72,16 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_DE-DE6173480409",
         "copyright": "Luftaufnahme einer Grünbrücke bei Zakrzów, Polen (© bbsferrari/Getty Images)",
         "copyrightKeyword": "Grünbrücke",
-        "hsh": "007a4364762afda616621c1827314e6e",
-        "description": "Die Luftaufnahme zeigt eine Grünbrücke bei Zakrzów in Polen, die eine stark befahrene Verkehrsachse überspannt. Solche Bauwerke verbinden Lebensräume, die durch Straßen und Autobahnen voneinander getrennt wurden. Für viele Tierarten schaffen sie sichere Wege zwischen Futtergebieten, Rückzugsorten und Wanderkorridoren. Dadurch sinkt nicht nur das Risiko von Wildunfällen, sondern auch die Gefahr, dass Populationen durch die Zerschneidung ihrer Lebensräume isoliert werden. Grünbrücken gelten heute als wichtiger Bestandteil moderner Naturschutzmaßnahmen."
-    },
-    {
-        "fullstartdate": "202608122200",
-        "date": "20260813",
-        "url": "https://www.bing.com/th?id=OHR.PerseidasTenerife_DE-DE8459328996_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PerseidasTenerife_DE-DE8459328996",
-        "copyright": "Perseiden-Meteore über dem Teide-Observatorium auf Teneriffa, Spanien (© Westend61/Getty Images)",
-        "copyrightKeyword": "Perseiden",
-        "hsh": "412ef445f6b174699f6e0dde31563ca3"
+        "hsh": "007a4364762afda616621c1827314e6e"
     }
 ]
