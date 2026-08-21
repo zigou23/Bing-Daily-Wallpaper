@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608212200",
+        "date": "20260822",
+        "url": "https://www.bing.com/th?id=OHR.NotteTaranta_IT-IT0811899295_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.NotteTaranta_IT-IT0811899295",
+        "copyright": "Torre Sant'Andrea, Salento, Puglia, Italia (© Balate.Dorin/Shutterstock)",
+        "copyrightKeyword": "La Notte della Taranta",
+        "hsh": "37ba5e672606b3910747dbfc7620df7d",
+        "description": "Le acque turchesi di Torre Sant'Andrea, nel Salento pugliese, con i loro faraglioni di roccia bianca levigata dal mare, sono una delle coste più spettacolari d'Italia. Ed è proprio in questo lembo di Puglia che stasera si accende la 29ª edizione de La Notte della Taranta, il più grande festival di musica popolare d'Europa: nato a Melpignano nel 1998, ogni anno attraversa venti borghi del Salento prima del Concertone finale.",
+        "maplink": "40.509556,17.979829"
+    },
+    {
         "fullstartdate": "202608202200",
         "date": "20260821",
         "url": "https://www.bing.com/th?id=OHR.JulierPass_IT-IT0417165500_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.EstateItaliana_IT-IT7841784337",
         "copyright": "Cala Spinosa, Capo Testa, Santa Teresa di Gallura, Sardegna, Italia (© Francesco Riccardo Iacomino/Moment/Getty Images)",
         "copyrightKeyword": "Ferragosto",
-        "hsh": "f0dd4357e4845c3e7d5dc87e7a17b632",
-        "description": "Il 15 agosto in Italia non è solo un giorno festivo: è Ferragosto, la più radicata delle tradizioni estive italiane. Le sue origini risalgono all'antica Roma, quando l'imperatore Augusto istituì le Feriae Augusti nel 18 a.C. per celebrare la fine dei lavori agricoli. Nei secoli, la ricorrenza si è fusa con la festa cattolica dell'Assunzione di Maria, diventando il momento per eccellenza del riposo condiviso: gite fuori porta, grigliate in famiglia, spiagge piene e il piacere antico di stare insieme senza fretta.",
-        "maplink": "41.247855,9.14991"
-    },
-    {
-        "fullstartdate": "202608132200",
-        "date": "20260814",
-        "url": "https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_IT-IT3470939727_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_IT-IT3470939727",
-        "copyright": "Veduta aerea di un passaggio faunistico vicino a Zakrzów, Polonia (© bbsferrari/Getty Images)",
-        "copyrightKeyword": "Passaggio faunistico",
-        "hsh": "f1db0e7ec306ada0c6f15ce25519b133"
+        "hsh": "f0dd4357e4845c3e7d5dc87e7a17b632"
     }
 ]

@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608211500",
+        "date": "20260822",
+        "url": "https://www.bing.com/th?id=OHR.CommonBlue_JA-JP8682246058_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.CommonBlue_JA-JP8682246058",
+        "copyright": "イカルスヒメシジミ, イングランド (© Ross Hoddinott/Nature Picture Library)",
+        "copyrightKeyword": "イカルスヒメシジミ",
+        "hsh": "07c94ba2ad8a5e3b8cdf63a790f5440d",
+        "description": "今日の画像は、シジミチョウ科の一種であるイカルスヒメシジミ。ヨーロッパや北アフリカ、温帯アジアに広く分布する蝶です。この科の多くは、何らかの形でアリと共生関係にあることで知られており、イカルスヒメシジミの場合は、幼虫期にアリの餌となる甘い分泌物を出すことでアリに天敵から守ってもらうという関係を築いています。また、その他の特徴として、成虫のオスは鮮やかな青色の翅を持つ一方、メスは褐色を帯びた落ち着いた色合いをしており、オスとメスで見た目がはっきりと異なるという特徴があります。",
+        "maplink": "50.724255,-3.686416"
+    },
+    {
         "fullstartdate": "202608201500",
         "date": "20260821",
         "url": "https://www.bing.com/th?id=OHR.JulierPass_JA-JP8487146662_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ValleyDreams_JA-JP6579828761",
         "copyright": "ア・シ・スレ・パ自然保護区, 米国 ニューメキシコ州 (© Westend61/Getty Images)",
         "copyrightKeyword": "ニューメキシコ州のフードゥー",
-        "hsh": "8975080e55bb876a08b0a64285de3e13",
-        "description": "ここは米国ニューメキシコ州のア・シ・スレ・パ自然保護区。水と風の浸食により約 7500 万年かけて形成された奇岩群「フードゥー」が広がっています。岩の大きさや形はさまざまで、なかでも「エイリアン・スローン（異星人の玉座）」と呼ばれる奇岩は、人気の撮影スポットです。また、この地域は化石の宝庫としても知られており、北米に生息した恐竜ペンタケラトプスをはじめ、先史時代のワニやカメ、魚類などの化石が発見されています。",
-        "maplink": "36.155601,-107.935318"
-    },
-    {
-        "fullstartdate": "202608131500",
-        "date": "20260814",
-        "url": "https://www.bing.com/th?id=OHR.Shimoda2026_JA-JP6266826592_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.Shimoda2026_JA-JP6266826592",
-        "copyright": "下田港, 静岡県 下田市 (© Sean Pavone/Getty Images)",
-        "copyrightKeyword": "下田港",
-        "hsh": "413966a3ae667605703cdaceca25684e"
+        "hsh": "8975080e55bb876a08b0a64285de3e13"
     }
 ]

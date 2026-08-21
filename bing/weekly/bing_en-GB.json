@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202608212300",
+        "date": "20260822",
+        "url": "https://www.bing.com/th?id=OHR.CommonBlue_EN-GB1147628721_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.CommonBlue_EN-GB1147628721",
+        "copyright": "Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library)",
+        "copyrightKeyword": "Common blue butterfly",
+        "hsh": "3af9e77c818fbaf50ed00f1bcded0010",
+        "description": "That quick glimpse of blue fluttering through a field has a story that begins much earlier, with a tiny caterpillar and an unexpected partnership. The common blue butterfly (Polyommatus icarus), named after Icarus, the figure from Greek mythology, is found across Europe, North Africa and parts of Asia. It begins life as an egg laid on host plants such as common bird's-foot trefoil. After hatching, the caterpillar feeds on the leaves before producing a sugary substance that attracts ants. In return for this sweet reward, the ants often protect the developing caterpillar from predators during one of the most vulnerable stages of its life. Depending on the climate, the species can produce two or three generations between spring and autumn."
+    },
+    {
         "fullstartdate": "202608202300",
         "date": "20260821",
         "url": "https://www.bing.com/th?id=OHR.JulierPass_EN-GB1060938084_1920x1080.jpg",
@@ -72,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ValleyDreams_EN-GB5755022749",
         "copyright": "Hoodoos in Ah‑Shi‑Sle‑Pah Wilderness in San Juan County, New Mexico, United States (© Westend61/Getty Images)",
         "copyrightKeyword": "Ah Shi Sle Pah Wilderness",
-        "hsh": "bec937974262f85aaa446d61c8bb268c",
-        "description": "Nature has a knack for balancing the impossible. In New Mexico's Ah-Shi-Sle-Pah Wilderness in the United States, towering hoodoos perch hefty rock caps on slender stems. Wind, water and ice have spent roughly 75 million years sculpting these remote badlands into an open-air gallery that feels more alien than terrestrial.",
-        "maplink": "36.155291,-107.935427"
-    },
-    {
-        "fullstartdate": "202608132300",
-        "date": "20260814",
-        "url": "https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_EN-GB5514216597_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_EN-GB5514216597",
-        "copyright": "Aerial view of a wildlife crossing near Zakrzów, Poland (© bbsferrari/Getty Images)",
-        "copyrightKeyword": "Wildlife crossing",
-        "hsh": "6c44383e1ff7e99fcc1445b44e5f681d"
+        "hsh": "bec937974262f85aaa446d61c8bb268c"
     }
 ]

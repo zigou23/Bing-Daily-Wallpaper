@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202608212200",
+        "date": "20260822",
+        "url": "https://www.bing.com/th?id=OHR.CommonBlue_DE-DE9673283581_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.CommonBlue_DE-DE9673283581",
+        "copyright": "Hauhechel-Bläuling, Devon, England (© Ross Hoddinott/Nature Picture Library)",
+        "copyrightKeyword": "Hauhechel-Bläuling",
+        "hsh": "2ea8efc7e6c62e70b1e2b768b63ed7e9",
+        "description": "Der Hauhechel-Bläuling gehört zu den bekanntesten Tagfaltern Europas. In Devon im Südwesten Englands ist er regelmäßig auf blütenreichen Wiesen, an Küstenhängen und entlang ruhiger Landwege zu beobachten. Besonders an sonnigen Tagen flattert er zwischen Wildblumen umher und zeigt dabei seine leuchtend blaue Flügelfärbung. Die Art bevorzugt offene Lebensräume mit einem reichen Angebot an Nektarpflanzen und trägt zur Vielfalt dieser Landschaften bei. Wegen seiner auffälligen Erscheinung ist der kleine Falter bei Naturfreunden und Fotografen gleichermaßen beliebt."
+    },
+    {
         "fullstartdate": "202608202200",
         "date": "20260821",
         "url": "https://www.bing.com/th?id=OHR.JulierPass_DE-DE4547078745_1920x1080.jpg",
@@ -72,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SellinSunrise_DE-DE6501539287",
         "copyright": "Sonnenaufgang an der Seebrücke Sellin, Rügen, Mecklenburg-Vorpommern (© bluejayphoto/Getty Images)",
         "copyrightKeyword": "Seebrücke Sellin",
-        "hsh": "adde25cb1e21256ab6d63956e7f145fb",
-        "description": "Wenn die ersten Sonnenstrahlen den Horizont vergolden, zeigt sich die Seebrücke Sellin von ihrer besonders eindrucksvollen Seite. An der Ostküste der Insel Rügen in Mecklenburg-Vorpommern gelegen, zählt dieses Bauwerk zu den bekanntesten Wahrzeichen der deutschen Ostsee. Ihre Geschichte reicht bis ins Jahr 1906 zurück, als die erste Seebrücke eröffnet wurde. Im Laufe der Jahrzehnte wurde die Anlage durch Stürme und andere Schäden mehrfach beeinträchtigt und schließlich abgerissen.",
-        "maplink": "54.383957,13.699495"
-    },
-    {
-        "fullstartdate": "202608132200",
-        "date": "20260814",
-        "url": "https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_DE-DE6173480409_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_DE-DE6173480409",
-        "copyright": "Luftaufnahme einer Grünbrücke bei Zakrzów, Polen (© bbsferrari/Getty Images)",
-        "copyrightKeyword": "Grünbrücke",
-        "hsh": "007a4364762afda616621c1827314e6e"
+        "hsh": "adde25cb1e21256ab6d63956e7f145fb"
     }
 ]
