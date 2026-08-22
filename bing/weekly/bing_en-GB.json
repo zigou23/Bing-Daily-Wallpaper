@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608222300",
+        "date": "20260823",
+        "url": "https://www.bing.com/th?id=OHR.KatmaiBear_EN-GB1247114173_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.KatmaiBear_EN-GB1247114173",
+        "copyright": "Brown bear fishing in river, Katmai National Park, Alaska, United States (© Pal Hermansen/Nature Picture Library)",
+        "copyrightKeyword": "Katmai National Park",
+        "hsh": "a34f36554b6b1a597b05a96bf7fa1b1f",
+        "description": "At Katmai National Park, crowd-pleasers don't need a stage. Brown bears wait by the river, and when the salmon jump, the show begins.",
+        "maplink": "58.585845,-154.920897"
+    },
+    {
         "fullstartdate": "202608212300",
         "date": "20260822",
         "url": "https://www.bing.com/th?id=OHR.CommonBlue_EN-GB1147628721_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.RossErrillyRuins_EN-GB5823104227",
         "copyright": "Ruins of Ross Errilly Friary, County Galway, Ireland (© Maria Janus/Shutterstock)",
         "copyrightKeyword": "Ross Errilly Friary Ireland",
-        "hsh": "9a161bf4aae90fe9b7bfe0511f23ec2c",
-        "description": "What do swans, secret hideaways and a medieval fish tank have in common? They're all part of the story of Ross Errilly Friary. Founded around 1351, this well-preserved Franciscan friary in Ireland is often called Ross Abbey, though it never had an abbot because it was never an abbey.",
-        "maplink": "53.47966,-9.131635"
-    },
-    {
-        "fullstartdate": "202608142300",
-        "date": "20260815",
-        "url": "https://www.bing.com/th?id=OHR.ValleyDreams_EN-GB5755022749_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ValleyDreams_EN-GB5755022749",
-        "copyright": "Hoodoos in Ah‑Shi‑Sle‑Pah Wilderness in San Juan County, New Mexico, United States (© Westend61/Getty Images)",
-        "copyrightKeyword": "Ah Shi Sle Pah Wilderness",
-        "hsh": "bec937974262f85aaa446d61c8bb268c"
+        "hsh": "9a161bf4aae90fe9b7bfe0511f23ec2c"
     }
 ]
