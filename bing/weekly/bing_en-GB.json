@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608232300",
+        "date": "20260824",
+        "url": "https://www.bing.com/th?id=OHR.BKBridge_EN-GB1324235273_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BKBridge_EN-GB1324235273",
+        "copyright": "Brooklyn Bridge, New York City, United States (© shayes17/Getty Images)",
+        "copyrightKeyword": "Brooklyn Bridge",
+        "hsh": "884e0f27380bc2168b91923c7f6561f1",
+        "description": "The Brooklyn Bridge doesn't just connect Manhattan and Brooklyn in the United States—it bridges history, engineering and a few surprising stories too. Opened in 1883 after 14 years of construction, it became the world's first steel-wire suspension bridge, forever changing the way New Yorkers crossed the East River.",
+        "maplink": "40.706376,-73.996938"
+    },
+    {
         "fullstartdate": "202608222300",
         "date": "20260823",
         "url": "https://www.bing.com/th?id=OHR.KatmaiBear_EN-GB1247114173_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.CabilaoClowns_EN-GB5900354557",
         "copyright": "Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines (© Franco Banfi/Nature Picture Library)",
         "copyrightKeyword": "False clownfish",
-        "hsh": "012419b4b406fe9b92b05e7ed777343c",
-        "description": "Location matters. Just ask the false clownfish seen in the image at Lighthouse Reef, near Cabilao Island, Philippines. In these tropical waters packed with hungry mouths and fierce competition, they've secured prime real estate: a sea anemone armed with thousands of microscopic stinging cells.",
-        "maplink": "9.881099,123.771501"
-    },
-    {
-        "fullstartdate": "202608152300",
-        "date": "20260816",
-        "url": "https://www.bing.com/th?id=OHR.RossErrillyRuins_EN-GB5823104227_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.RossErrillyRuins_EN-GB5823104227",
-        "copyright": "Ruins of Ross Errilly Friary, County Galway, Ireland (© Maria Janus/Shutterstock)",
-        "copyrightKeyword": "Ross Errilly Friary Ireland",
-        "hsh": "9a161bf4aae90fe9b7bfe0511f23ec2c"
+        "hsh": "012419b4b406fe9b92b05e7ed777343c"
     }
 ]

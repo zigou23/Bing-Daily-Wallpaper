@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608232200",
+        "date": "20260824",
+        "url": "https://www.bing.com/th?id=OHR.BKBridge_DE-DE5037319514_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BKBridge_DE-DE5037319514",
+        "copyright": "Brooklyn Bridge, New York, USA (© shayes17/Getty Images)",
+        "copyrightKeyword": "Brooklyn Bridge",
+        "hsh": "786523a0da279f1bbed6ed948eb67055",
+        "description": "Die Brooklyn Bridge verbindet Manhattan und Brooklyn über den East River und zählt zu den bekanntesten Wahrzeichen von New York City in den Vereinigten Staaten. Nach einer Bauzeit von 14 Jahren wurde sie 1883 eröffnet und war eine der ersten großen Hängebrücken mit Stahlseilen. Ihr Bau stellte für die damalige Zeit eine technische Meisterleistung dar und veränderte den Verkehr zwischen den beiden Stadtteilen nachhaltig.",
+        "maplink": "40.706376,-73.996938"
+    },
+    {
         "fullstartdate": "202608222200",
         "date": "20260823",
         "url": "https://www.bing.com/th?id=OHR.KatmaiBear_DE-DE4863569312_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.CabilaoClowns_DE-DE7285791368",
         "copyright": "Drei Falsche Clownfische in einer Seeanemone, Insel Cabilao, Bohol, Philippinen (© Franco Banfi/Nature Picture Library)",
         "copyrightKeyword": "Falscher Clownfisch",
-        "hsh": "db8be1fc4d24de9311be140b79162115",
-        "description": "Falsche Clownfische gehören zu den bekanntesten Bewohnern tropischer Korallenriffe. Mit ihren leuchtend orangefarbenen Körpern und den weißen Streifen sind sie leicht zu erkennen. Besonders faszinierend ist ihre enge Verbindung zu Seeanemonen, zwischen deren Tentakeln sie Schutz vor vielen Fressfeinden finden. Dort verbringen sie einen Großteil ihres Lebens und bewegen sich oft nur wenige Meter von ihrem vertrauten Unterschlupf entfernt.",
-        "maplink": "9.881099,123.771501"
-    },
-    {
-        "fullstartdate": "202608152200",
-        "date": "20260816",
-        "url": "https://www.bing.com/th?id=OHR.RossErrillyRuins_DE-DE7983217751_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.RossErrillyRuins_DE-DE7983217751",
-        "copyright": "Ruinen des Klosters Ross Errilly, Grafschaft Galway, Irland (© Maria Janus/Shutterstock)",
-        "copyrightKeyword": "Kloster Ross Errilly Irland",
-        "hsh": "3506495508a1e511b09848b52cba569a"
+        "hsh": "db8be1fc4d24de9311be140b79162115"
     }
 ]

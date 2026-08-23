@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608232200",
+        "date": "20260824",
+        "url": "https://www.bing.com/th?id=OHR.BKBridge_ES-ES8423562789_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BKBridge_ES-ES8423562789",
+        "copyright": "Puente de Brooklyn, Nueva York, EE. UU. (© shayes17/Getty Images)",
+        "copyrightKeyword": "Puente de Brooklyn",
+        "hsh": "e43d13a23b0574a38fb7e1a6b7ff9a3d",
+        "description": "El puente de Brooklyn, en Nueva York, Estados Unidos, no es solo una conexión entre dos orillas: es un monumento a la ingeniería del siglo XIX y a la tenacidad humana. Inaugurado en 1883 tras catorce años de obras, fue el primer puente colgante de cables de acero del mundo. Su construcción tuvo un giro inesperado: cuando el diseñador John A. Roebling falleció y su hijo Washington quedó incapacitado, fue su esposa Emily Warren Roebling quien aprendió ingeniería para supervisar la finalización del proyecto.",
+        "maplink": "40.706376,-73.996938"
+    },
+    {
         "fullstartdate": "202608222200",
         "date": "20260823",
         "url": "https://www.bing.com/th?id=OHR.KatmaiBear_ES-ES8288785894_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.CabilaoClowns_ES-ES2300770147",
         "copyright": "Peces payaso en una anémona de mar, isla Cabilao, Bohol, Filipinas (© Franco Banfi/Nature Picture Library)",
         "copyrightKeyword": "pez payaso",
-        "hsh": "0c5a71378383d5b47aeca06840ecabeb",
-        "description": "En los arrecifes de la isla Cabilao, en Bohol, Filipinas, los peces payaso han encontrado el hogar definitivo: una anémona de mar armada con miles de células urticantes microscópicas que mantienen alejado a cualquier intruso. Para la mayoría de los peces, acercarse a una anémona equivale a tocar un campo de minas; para estos pequeños habitantes de colores, es simplemente su dirección.",
-        "maplink": "9.881099,123.771501"
-    },
-    {
-        "fullstartdate": "202608152200",
-        "date": "20260816",
-        "url": "https://www.bing.com/th?id=OHR.RossErrillyRuins_ES-ES2238203619_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.RossErrillyRuins_ES-ES2238203619",
-        "copyright": "Ruinas del convento Ross Errilly, condado de Galway, Irlanda (© Maria Janus/Shutterstock)",
-        "copyrightKeyword": "Galway Irlanda",
-        "hsh": "dce850be79c0aa8df751ebfe446868a1"
+        "hsh": "0c5a71378383d5b47aeca06840ecabeb"
     }
 ]
