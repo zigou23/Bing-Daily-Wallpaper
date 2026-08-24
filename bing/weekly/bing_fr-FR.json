@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608242200",
+        "date": "20260825",
+        "url": "https://www.bing.com/th?id=OHR.GlenanSummer_FR-FR4786744371_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GlenanSummer_FR-FR4786744371",
+        "copyright": "Plage de sable blanc sur l’archipel des Glénan, Bretagne (© HadelProductions/Getty Images)",
+        "copyrightKeyword": "archipel des Glénan",
+        "hsh": "0a6e1f6fe9ec57d67aa99349873a7eea",
+        "description": "Au large de la côte sud du Finistère, l’archipel des Glénan déploie un chapelet d’îlots aux eaux turquoise, si limpides qu’elles évoquent parfois des lagons lointains. Pourtant, nous sommes bien en Bretagne. Façonnées par les vents, les marées et les tempêtes, ces terres de sable blanc et de granite abritent un patrimoine naturel exceptionnel.",
+        "maplink": "47.723829,-4.003061"
+    },
+    {
         "fullstartdate": "202608232200",
         "date": "20260824",
         "url": "https://www.bing.com/th?id=OHR.BKBridge_FR-FR7150855439_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.Palmanova_FR-FR7049551960",
         "copyright": "Vue aérienne de Palmanova, Friuli, Italie (© Riccardo Saponi/Getty Images)",
         "copyrightKeyword": "Palmanova Italie",
-        "hsh": "71b870f5f4aa385adaa03307f71411d5",
-        "description": "Vue du ciel, Palmanova évoque une gigantesque étoile posée sur la plaine du Frioul-Vénétie Julienne, dans le nord-est de l’Italie. Fondée en 1593 par la République de Venise, elle incarne une idée audacieuse : réunir l’art, la science et la défense dans une même conception urbaine. Depuis sa vaste place centrale, les rues rayonnent selon un plan d’une précision remarquable, tandis que les remparts dessinent une figure à neuf pointes visible jusque dans les moindres détails depuis les airs.",
-        "maplink": "45.907204,13.311111"
-    },
-    {
-        "fullstartdate": "202608162200",
-        "date": "20260817",
-        "url": "https://www.bing.com/th?id=OHR.CabilaoClowns_FR-FR3714615654_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.CabilaoClowns_FR-FR3714615654",
-        "copyright": "Trois faux poissons-clowns dans une anémone de mer, Île de Cabilao, Bohol, Philippines (© Franco Banfi/Nature Picture Library)",
-        "copyrightKeyword": "faux poisson-clown espèce",
-        "hsh": "75becc4fdc4badb1afca82b5a5e1f3b3"
+        "hsh": "71b870f5f4aa385adaa03307f71411d5"
     }
 ]

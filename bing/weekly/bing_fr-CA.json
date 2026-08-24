@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608240400",
+        "date": "20260824",
+        "url": "https://www.bing.com/th?id=OHR.BKBridge_FR-CA6863459006_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BKBridge_FR-CA6863459006",
+        "copyright": "Pont de Brooklyn, New York, États-Unis (© shayes17/Getty Images)",
+        "copyrightKeyword": "pont de Brooklyn",
+        "hsh": "feb3a27c8f444276bd377af9c6e229b6",
+        "description": "Dominant l’East River (États-Unis), le pont de Brooklyn relie bien plus que deux arrondissements de New York. Inauguré en 1883 après quatorze ans de travaux, il fut le premier grand pont suspendu à câbles d’acier, transformant durablement les déplacements entre Manhattan et Brooklyn.",
+        "maplink": "40.706376,-73.996938"
+    },
+    {
         "fullstartdate": "202608230400",
         "date": "20260823",
         "url": "https://www.bing.com/th?id=OHR.KatmaiBear_FR-CA5626278090_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.CabilaoClowns_FR-CA6346458733",
         "copyright": "Trois faux poissons-clowns dans une anémone de mer, Île de Cabilao, Bohol, Philippines (© Franco Banfi/Nature Picture Library)",
         "copyrightKeyword": "faux poisson-clown espèce",
-        "hsh": "c5a3ddefca02725228c8baaeb859f46c",
-        "description": "À Lighthouse Reef, près de l’île de Cabilao aux Philippines, le faux poisson-clown évolue dans un décor aussi magnifique qu’hostile. Dans ces eaux tropicales saturées de prédateurs, il a trouvé un refuge inattendu : l’anémone de mer, dont les milliers de cellules urticantes dissuadent presque tous les intrus. Là où d’autres verraient un piège, il trouve un abri parfait.",
-        "maplink": "9.881099,123.771501"
-    },
-    {
-        "fullstartdate": "202608160400",
-        "date": "20260816",
-        "url": "https://www.bing.com/th?id=OHR.RossErrillyRuins_FR-CA6852023489_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.RossErrillyRuins_FR-CA6852023489",
-        "copyright": "Monastère de Ross Errilly, Comté de Galway, Irlande (© Maria Janus/Shutterstock)",
-        "copyrightKeyword": "monastère de Ross Errilly Friary Irlande",
-        "hsh": "728256bafcd01d60457b226a00d298b6"
+        "hsh": "c5a3ddefca02725228c8baaeb859f46c"
     }
 ]

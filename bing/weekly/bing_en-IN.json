@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608241830",
+        "date": "20260825",
+        "url": "https://www.bing.com/th?id=OHR.RedwoodPark_EN-IN9796195264_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.RedwoodPark_EN-IN9796195264",
+        "copyright": "Redwood National and State Parks, California, United States (© HadelProductions/Getty Images)",
+        "copyrightKeyword": "Redwood National and State Parks",
+        "hsh": "ebbd497c65c73d41707c1a842c0ee9e0",
+        "description": "Some places make you feel on top of the world. Redwood National and State Parks do the opposite—and that's the point. Stand beneath these towering giants and you'll quickly realise who's really setting the bar high.",
+        "maplink": "41.401711,-124.041727"
+    },
+    {
         "fullstartdate": "202608231830",
         "date": "20260824",
         "url": "https://www.bing.com/th?id=OHR.BKBridge_EN-IN9646645592_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.Palmanova_EN-IN1888779790",
         "copyright": "Aerial view of Palmanova, a fortress city in Friuli, Italy (© Riccardo Saponi/Getty Images)",
         "copyrightKeyword": "Palmanova Italy",
-        "hsh": "dde64f0402ffeaa664ac5725362edd5e",
-        "description": "From above, Palmanova looks less like a town and more like a carefully drawn star set into the plains of Friuli-Venezia Giulia, Italy. Founded by the Republic of Venice in 1593, this fortress city was designed for defence, order and spectacle. Its streets radiate from a central square, while its walls are shaped into a precise nine-pointed pattern. That geometry was no accident. Palmanova became one of the most influential models of early modern military architecture. It was protected by concentric fortifications built first under Venice and later strengthened and expanded during the Napoleonic period.",
-        "maplink": "45.907204,13.311111"
-    },
-    {
-        "fullstartdate": "202608161830",
-        "date": "20260817",
-        "url": "https://www.bing.com/th?id=OHR.CabilaoClowns_EN-IN1781663885_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.CabilaoClowns_EN-IN1781663885",
-        "copyright": "Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines (© Franco Banfi/Nature Picture Library)",
-        "copyrightKeyword": "False clownfish",
-        "hsh": "b08ef738a9a2fb528e54fcf5a9e51352"
+        "hsh": "dde64f0402ffeaa664ac5725362edd5e"
     }
 ]
