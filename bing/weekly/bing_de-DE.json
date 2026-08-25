@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608252200",
+        "date": "20260826",
+        "url": "https://www.bing.com/th?id=OHR.AurorasIceland_DE-DE5182720309_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AurorasIceland_DE-DE5182720309",
+        "copyright": "Polarlichter über dem Kirkjufell, Island (© Cavan Images/Alamy)",
+        "copyrightKeyword": "Polarlicht",
+        "hsh": "8f988c1eb74437ee8b63b26b16dfd926",
+        "description": "Der Kirkjufell zählt zu den bekanntesten Bergen Islands und bietet eine eindrucksvolle Kulisse für die Beobachtung von Polarlichtern. Wenn die Nächte im Herbst und Winter langsam dunkler werden, erscheinen grüne Lichtbänder am Himmel und verwandeln die Landschaft in ein faszinierendes Schauspiel. Die reflektierenden Farben, die schneebedeckten Hänge und die abgelegene Lage schaffen eine Atmosphäre, die Besucher aus aller Welt anzieht. Besonders in den kalten Monaten gehören solche Nächte zu den eindrucksvollsten Naturerlebnissen des Landes.",
+        "maplink": "64.939949,-23.307478"
+    },
+    {
         "fullstartdate": "202608242200",
         "date": "20260825",
         "url": "https://www.bing.com/th?id=OHR.KitesurfersSunset_DE-DE3980635203_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.WhyteCliffP_DE-DE7763456664",
         "copyright": "Whytecliff Park in West Vancouver, British Columbia, Kanada (© Aolin Chen/Getty Images)",
         "copyrightKeyword": "Whytecliff Park Informationen",
-        "hsh": "6f4e735ec3a39cd9f4cb76f9ad160977",
-        "description": "Im Whytecliff Park in West Vancouver in der kanadischen Provinz British Columbia zeigt sich die Küste von einer besonders eindrucksvollen Seite. Bei Ebbe wird ein schmaler Weg sichtbar, der Besucher zu einer kleinen Insel führt. Für kurze Zeit verbindet das Meer zwei Landflächen, bevor das Wasser den Übergang wieder verschwinden lässt. Die felsige Küstenlandschaft, das klare Wasser und die Aussicht auf die vorgelagerten Inseln machen den Park zu einem beliebten Ziel für Naturfreunde und Fotografen.",
-        "maplink": "49.375514,-123.288861"
-    },
-    {
-        "fullstartdate": "202608172200",
-        "date": "20260818",
-        "url": "https://www.bing.com/th?id=OHR.Palmanova_DE-DE7108374282_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.Palmanova_DE-DE7108374282",
-        "copyright": "Luftaufnahme von Palmanova, einer Festungsstadt in Friaul, Italien (© Riccardo Saponi/Getty Images)",
-        "copyrightKeyword": "Palmanova Italien",
-        "hsh": "ecb66b3054f251f812c6415a97ab9546"
+        "hsh": "6f4e735ec3a39cd9f4cb76f9ad160977"
     }
 ]

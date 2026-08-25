@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608250700",
+        "date": "20260825",
+        "url": "https://www.bing.com/th?id=OHR.RedwoodPark_EN-US3199427613_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.RedwoodPark_EN-US3199427613",
+        "copyright": "Sunrise in Redwood National and State Parks, California (© HadelProductions/Getty Images)",
+        "copyrightKeyword": "National Park Service",
+        "hsh": "20024898d303f86c2fdebb478a0c8456",
+        "description": "For 110 years, America's greatest outdoor classroom has been open for exploration. On August 25, the National Park Service marks over a century of protecting the nation's natural and cultural treasures. Established in 1916 when President Woodrow Wilson signed the Organic Act into law, the agency now cares for hundreds of parks, monuments, seashores, and historic sites across the country. Ranger-led programs, family activities, and educational events invite visitors to connect with the landscapes and stories that define the national park system.",
+        "maplink": "41.401711,-124.041727"
+    },
+    {
         "fullstartdate": "202608240700",
         "date": "20260824",
         "url": "https://www.bing.com/th?id=OHR.BKBridge_EN-US2923468858_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.Palmanova_EN-US0340289339",
         "copyright": "Aerial view of Palmanova, a fortress city in Friuli, Italy (© Riccardo Saponi/Getty Images)",
         "copyrightKeyword": "Palmanova Italy",
-        "hsh": "ebbc1e2cdd8b410d04f6544da8abaa59",
-        "description": "From above, Palmanova looks less like a town and more like a carefully drawn star set into the plains of Friuli-Venezia Giulia, Italy. Founded by the Republic of Venice in 1593, this fortress city was designed for defense, order, and spectacle. Its streets radiate from a central square, while its walls are shaped into a precise nine-pointed pattern. That geometry was no accident. Palmanova became one of the most influential models of early modern military architecture. It was protected by concentric fortifications built first under Venice and later strengthened and expanded during the Napoleonic period.",
-        "maplink": "45.907204,13.311111"
-    },
-    {
-        "fullstartdate": "202608170700",
-        "date": "20260817",
-        "url": "https://www.bing.com/th?id=OHR.CabilaoClowns_EN-US6302440247_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.CabilaoClowns_EN-US6302440247",
-        "copyright": "Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines (© Franco Banfi/Nature Picture Library)",
-        "copyrightKeyword": "false clownfish",
-        "hsh": "a3c280a916e348c38e52675fc1cdcd5a"
+        "hsh": "ebbc1e2cdd8b410d04f6544da8abaa59"
     }
 ]

@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608250400",
+        "date": "20260825",
+        "url": "https://www.bing.com/th?id=OHR.PurplePuffin_EN-CA8959604660_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PurplePuffin_EN-CA8959604660",
+        "copyright": "Atlantic puffin holding a wild iris in his beak in Elliston, Newfoundland (© mlorenzphotography/Getty Images)",
+        "copyrightKeyword": "Atlantic puffin",
+        "hsh": "5180d41bfe29aa6da8242f056b94b37d",
+        "description": "As morning breaks over Elliston, a small seabird appears with a wild iris held across its bill. The scene looks almost like a gift, yet biologists say Atlantic puffins are not known to offer flowers to their mates during courtship. The colourful bill, which becomes brightest in the breeding season and fades later in the year, helps make the photograph memorable. Even their feet turn brighter.",
+        "maplink": "48.652341,-53.045912"
+    },
+    {
         "fullstartdate": "202608240400",
         "date": "20260824",
         "url": "https://www.bing.com/th?id=OHR.BKBridge_EN-CA9847334652_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.Palmanova_EN-CA6466747249",
         "copyright": "Aerial view of Palmanova, a fortress city in Friuli, Italy (© Riccardo Saponi/Getty Images)",
         "copyrightKeyword": "Palmanova Italy",
-        "hsh": "afcff1abf5b1c4bb657e6eb5295c2e8f",
-        "description": "From above, Palmanova looks less like a town and more like a carefully drawn star set into the plains of Friuli-Venezia Giulia, Italy. Founded by the Republic of Venice in 1593, this fortress city was designed for defence, order and spectacle. Its streets radiate from a central square, while its walls are shaped into a precise nine-pointed pattern. That geometry was no accident. Palmanova became one of the most influential models of early modern military architecture. It was protected by concentric fortifications built first under Venice and later strengthened and expanded during the Napoleonic period.",
-        "maplink": "45.907204,13.311111"
-    },
-    {
-        "fullstartdate": "202608170400",
-        "date": "20260817",
-        "url": "https://www.bing.com/th?id=OHR.CabilaoClowns_EN-CA6278195956_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.CabilaoClowns_EN-CA6278195956",
-        "copyright": "Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines (© Franco Banfi/Nature Picture Library)",
-        "copyrightKeyword": "False clownfish",
-        "hsh": "5c675d6bc1d48333da8faa810c10d854"
+        "hsh": "afcff1abf5b1c4bb657e6eb5295c2e8f"
     }
 ]

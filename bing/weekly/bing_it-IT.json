@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608252200",
+        "date": "20260826",
+        "url": "https://www.bing.com/th?id=OHR.AurorasIceland_IT-IT1298284038_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AurorasIceland_IT-IT1298284038",
+        "copyright": "L'aurora boreale su Kirkjufell, Islanda (© Cavan Images/Alamy)",
+        "copyrightKeyword": "Aurora boreale",
+        "hsh": "3cbf493497e5c9959e440db1ceed6eba",
+        "description": "Sopra il monte Kirkjufell, nella penisola di Snæfellsnes, Islanda, il cielo notturno si trasforma in uno spettacolo di luci verdi, rosa e viola: è l'aurora boreale, il fenomeno che si produce quando le particelle solari collidono con i gas dell'atmosfera terrestre ad alta quota. La posizione settentrionale dell'Islanda e le lunghe notti autunnali e invernali la rendono una delle mete privilegiate al mondo per osservarla.",
+        "maplink": "64.939949,-23.307478"
+    },
+    {
         "fullstartdate": "202608242200",
         "date": "20260825",
         "url": "https://www.bing.com/th?id=OHR.RedwoodPark_IT-IT1204038943_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.WhyteCliffP_IT-IT4080399787",
         "copyright": "Parco Whytecliff, West Vancouver, Canada (© Aolin Chen/Getty Images)",
         "copyrightKeyword": "Parco Whytecliff Vancouver Canada",
-        "hsh": "c979172550602c37dc5e8859773b1fc9",
-        "description": "A West Vancouver, in Canada, la marea detta il ritmo di una delle escursioni più singolari del litorale del Pacifico: a ogni bassa marea, il mare rivela un sentiero roccioso che collega il Parco Whytecliff all'isolotto di Whyte, una piccola formazione rocciosa con una vista privilegiata sulla spiaggia e sulle case di Gleneagles. Poche ore dopo, l'acqua ricopre nuovamente il passaggio, rendendo il momento scelto per attraversare parte essenziale dell'esperienza. Le rocce bagnate impongono di andarci piano; la ricompensa, arrivati in cima, vale ogni cautela.",
-        "maplink": "49.375514,-123.288861"
-    },
-    {
-        "fullstartdate": "202608172200",
-        "date": "20260818",
-        "url": "https://www.bing.com/th?id=OHR.Palmanova_IT-IT8638241680_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.Palmanova_IT-IT8638241680",
-        "copyright": "Veduta aerea di Palmanova, una città-fortezza in Friuli, Italia (© Riccardo Saponi/Getty Images)",
-        "copyrightKeyword": "Palmanova",
-        "hsh": "9fb0eafe7dae1f1cd45c60b376643c07"
+        "hsh": "c979172550602c37dc5e8859773b1fc9"
     }
 ]

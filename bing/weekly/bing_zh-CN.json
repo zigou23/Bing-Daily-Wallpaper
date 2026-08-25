@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202608251600",
+        "date": "20260826",
+        "url": "https://www.bing.com/th?id=OHR.AurorasIceland_ZH-CN9781322454_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AurorasIceland_ZH-CN9781322454",
+        "copyright": "基尔丘山上空的极光，冰岛 (© Cavan Images/Alamy)",
+        "copyrightKeyword": "北极光",
+        "hsh": "3b620c7399820c5bdb0a11f6100d3ebe",
+        "description": "随着冰岛的夜晚再次变长，游客很快又会仰望天空，期待一睹北极光。北极光是一种发光现象，当来自太阳的粒子与地球高层大气中的气体相互作用时，便会形成闪烁的绿色、粉色、紫色，有时甚至是红色光带。冰岛地处北方，秋冬季夜晚日益漫长而黑暗，因此成为全球首屈一指的极光观赏地之一。"
+    },
+    {
         "fullstartdate": "202608241600",
         "date": "20260825",
         "url": "https://www.bing.com/th?id=OHR.RedwoodPark_ZH-CN9513051062_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.WhyteCliffP_ZH-CN0573407830",
         "copyright": "怀特克利夫公园，西温哥华，加拿大 (© Aolin Chen/Getty Images)",
         "copyrightKeyword": "怀特克利夫公园",
-        "hsh": "56e961f3c7cde21aa85441a363bab51c",
-        "description": "通往此处的最佳路径并非由混凝土铺就。每当退潮时，一条岩石小径便会显露出来，连接着加拿大西温哥华的怀特克利夫公园（Whytecliff Park）与怀特小岛（Whyte Islet）。数小时后，海水会悄然漫过这条通道，将“把握时机”也变成了体验的一部分。这片海岸线吸引着一代又一代的游客：潮汐开辟了道路，而湿滑的岩石则让人心存敬畏；作为回报，你将收获回望海滩与格伦伊格尔斯（Gleneagles）山坡民居时的壮丽景致。"
-    },
-    {
-        "fullstartdate": "202608171600",
-        "date": "20260818",
-        "url": "https://www.bing.com/th?id=OHR.Palmanova_ZH-CN0378401592_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.Palmanova_ZH-CN0378401592",
-        "copyright": "弗留利要塞城市帕尔马诺瓦航拍图，意大利 (© Riccardo Saponi/Getty Images)",
-        "copyrightKeyword": "意大利帕尔马诺瓦",
-        "hsh": "6292d45f05dc327c49558b4acd875f87"
+        "hsh": "56e961f3c7cde21aa85441a363bab51c"
     }
 ]
