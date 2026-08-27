@@ -1,5 +1,27 @@
 [
     {
+        "fullstartdate": "202608270400",
+        "date": "20260827",
+        "url": "https://www.bing.com/th?id=OHR.LakeMagadi_EN-CA0091651040_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LakeMagadi_EN-CA0091651040",
+        "copyright": "Lesser flamingo flock at sunrise, Lake Magadi, Kenya (© Denis-Huot/Nature Picture Library)",
+        "copyrightKeyword": "World Lake Day",
+        "hsh": "586eb3289e08e9977b5b0be9efd889f6",
+        "description": "Imagine a world without the natural wonders that contain about 90% of Earth's surface freshwater. Lakes provide drinking water, support wildlife, help regulate climate and sustain communities around the globe. In recognition of their vital role, the United Nations designated 27 August as World Lake Day, first observed in 2025. The observance has particular relevance for Canadians, as Canada is home to more than two million lakes that shape its landscapes, ecosystems, recreation and freshwater resources. Protecting them is increasingly important as pollution, overuse and climate change put pressure on many lake environments.",
+        "maplink": "-1.902409,36.265224"
+    },
+    {
+        "fullstartdate": "202608260400",
+        "date": "20260826",
+        "url": "https://www.bing.com/th?id=OHR.AurorasIceland_EN-CA9381288782_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AurorasIceland_EN-CA9381288782",
+        "copyright": "Auroras over Kirkjufell, Iceland (© Cavan Images/Alamy)",
+        "copyrightKeyword": "Aurora borealis",
+        "hsh": "2c9f00e5f39888c5dec7d87856552d12",
+        "description": "As darker nights return to Iceland, visitors will soon look to the skies for a chance to see the aurora borealis. Better known as the northern lights, this luminous phenomenon occurs when particles from the sun interact with gases high in Earth's atmosphere, creating shimmering ribbons of green, pink, purple and sometimes red light. Iceland's northern location and increasingly dark autumn and winter nights make it one of the world's premier destinations for aurora viewing.",
+        "maplink": "64.939949,-23.307478"
+    },
+    {
         "fullstartdate": "202608250400",
         "date": "20260825",
         "url": "https://www.bing.com/th?id=OHR.PurplePuffin_EN-CA8959604660_1920x1080.jpg",
@@ -60,28 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LynnCanalOrca_EN-CA6813259779",
         "copyright": "An orca surfaces in Lynn Canal near the Chilkat Mountains, Alaska, United States (© John Hyde/Alamy)",
         "copyrightKeyword": "Orca animal",
-        "hsh": "8c78e15bed2c04198b583be6b01cb6f0",
-        "description": "An orca breaks the surface of Lynn Canal against the backdrop of the snow-capped Chilkat Mountains in Southeast Alaska. Also known as the killer whale, the orca is the largest member of the dolphin family and one of the ocean's most recognisable predators. Alaska's Inside Passage provides abundant feeding grounds, sustaining salmon runs and a rich variety of marine life that supports these remarkable animals.",
-        "maplink": "58.69194,-135.097504"
-    },
-    {
-        "fullstartdate": "202608190400",
-        "date": "20260819",
-        "url": "https://www.bing.com/th?id=OHR.WhyteCliffP_EN-CA6624264199_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WhyteCliffP_EN-CA6624264199",
-        "copyright": "Whytecliff Park in West Vancouver, British Columbia (© Aolin Chen/Getty Images)",
-        "copyrightKeyword": "Whytecliff Park",
-        "hsh": "c291ec40e33068c02f9e2b6df769ee8e",
-        "description": "The best route here isn't built with concrete. Instead, the tide reveals a rocky path leading from Whytecliff Park to Whyte Islet in West Vancouver. A few hours later, the sea quietly covers the crossing again, making timing part of the experience. This shoreline has drawn visitors for generations. The tide opens the path; wet rocks keep you humble. The reward is a sweeping view back towards the beach and the hillside homes of Gleneagles.",
-        "maplink": "0.375514,-123.288861"
-    },
-    {
-        "fullstartdate": "202608180400",
-        "date": "20260818",
-        "url": "https://www.bing.com/th?id=OHR.Palmanova_EN-CA6466747249_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.Palmanova_EN-CA6466747249",
-        "copyright": "Aerial view of Palmanova, a fortress city in Friuli, Italy (© Riccardo Saponi/Getty Images)",
-        "copyrightKeyword": "Palmanova Italy",
-        "hsh": "afcff1abf5b1c4bb657e6eb5295c2e8f"
+        "hsh": "8c78e15bed2c04198b583be6b01cb6f0"
     }
 ]

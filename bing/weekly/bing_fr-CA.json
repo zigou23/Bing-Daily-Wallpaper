@@ -1,5 +1,27 @@
 [
     {
+        "fullstartdate": "202608270400",
+        "date": "20260827",
+        "url": "https://www.bing.com/th?id=OHR.LakeMagadi_FR-CA8220213797_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LakeMagadi_FR-CA8220213797",
+        "copyright": "Volée de flamants nains à l’aube, Lac Magadi, Kenya (© Denis-Huot/Nature Picture Library)",
+        "copyrightKeyword": "Journée mondiale des lacs",
+        "hsh": "30952c638b960d692bbc520402187baf",
+        "description": "Il est difficile d’imaginer un monde privé de ces vastes miroirs d’eau qui renferment l’essentiel de l’eau douce liquide présente à la surface de la Terre. Les lacs sont au cœur de l’équilibre des écosystèmes : ils fournissent de l’eau, abritent une biodiversité remarquable, influencent le climat local et soutiennent d’innombrables communautés humaines. Pour souligner leur importance, les Nations unies ont instauré la Journée mondiale des lacs, célébrée chaque 27 août depuis 2025. Plus de 117 millions de lacs couvrent près de 4 % des terres émergées, mais beaucoup subissent pollution, surexploitation et dérèglement climatique.",
+        "maplink": "-1.902409,36.265224"
+    },
+    {
+        "fullstartdate": "202608260400",
+        "date": "20260826",
+        "url": "https://www.bing.com/th?id=OHR.AurorasIceland_FR-CA6768685677_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AurorasIceland_FR-CA6768685677",
+        "copyright": "Aurores boréales sur Kirkjufell, Islande (© Cavan Images/Alamy)",
+        "copyrightKeyword": "aurore boréale",
+        "hsh": "97cfa3ff64648e0c1ecd870e2208b8f8",
+        "description": "À mesure que les nuits s’allongent sur l’Islande, les regards se tournent vers le ciel dans l’espoir d’apercevoir l’aurore boréale. Ce ballet lumineux naît lorsque des particules venues du Soleil rencontrent les gaz de la haute atmosphère terrestre. Des voiles verts, roses, violets et parfois rouges ondulent alors au-dessus des paysages volcaniques. Grâce à sa situation à proximité du cercle polaire et à l’obscurité prolongée de l’automne et de l’hiver, l’île figure parmi les meilleurs endroits au monde pour contempler ce phénomène fascinant.",
+        "maplink": "64.939949,-23.307478"
+    },
+    {
         "fullstartdate": "202608250400",
         "date": "20260825",
         "url": "https://www.bing.com/th?id=OHR.PurplePuffin_FR-CA6231129761_1920x1080.jpg",
@@ -60,28 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LynnCanalOrca_FR-CA5672693565",
         "copyright": "Une orque à la surface du canal de Lynn, près des montagnes Chilkat, Alaska, États-Unis (© John Hyde/Alamy)",
         "copyrightKeyword": "orque animal",
-        "hsh": "6335fd2e29c6a16367f6a2e3a1013a98",
-        "description": "Dans les eaux froides du Lynn Canal, au sud-est de l’Alaska (États-Unis), une silhouette noire et blanche surgit soudain à la surface. Derrière elle s’élèvent les sommets enneigés des monts Chilkat, formant un décor d’une saisissante majesté. L’orque, souvent appelée épaulard, est le plus grand représentant de la famille des dauphins. Les eaux riches de l’Inside Passage lui offrent un habitat exceptionnel, alimenté par les remontées de nutriments et les importantes migrations de saumons. Ici, chaque saison favorise une abondance de vie marine qui fait de cette région l’un des refuges les plus précieux pour les grands prédateurs de l’océan.",
-        "maplink": "58.69194,-135.097504"
-    },
-    {
-        "fullstartdate": "202608190400",
-        "date": "20260819",
-        "url": "https://www.bing.com/th?id=OHR.WhyteCliffP_FR-CA5468356584_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WhyteCliffP_FR-CA5468356584",
-        "copyright": "Whytecliff Park, West Vancouver, Colombie-Britannique (© Aolin Chen/Getty Images)",
-        "copyrightKeyword": "Whytecliff Park Colombie-Britannique",
-        "hsh": "f5933fae897086dde1ee8b634bb39d54",
-        "description": "À marée basse, la nature trace ici un chemin éphémère. Depuis Whytecliff Park, sur la côte de West Vancouver, une bande rocheuse émerge progressivement et relie le rivage à Whyte Islet. Quelques heures plus tard, l’océan reprend discrètement possession du passage. Cette traversée exige prudence et respect, car les pierres humides rappellent que le paysage demeure vivant. Au terme de la traversée, la récompense est saisissante : une vue dégagée sur la plage, les eaux du détroit et les maisons accrochées aux collines de Gleneagles.",
-        "maplink": "49.375514,-123.288861"
-    },
-    {
-        "fullstartdate": "202608180400",
-        "date": "20260818",
-        "url": "https://www.bing.com/th?id=OHR.Palmanova_FR-CA6927775501_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.Palmanova_FR-CA6927775501",
-        "copyright": "Vue aérienne de Palmanova, Friuli, Italie (© Riccardo Saponi/Getty Images)",
-        "copyrightKeyword": "Palmanova Italie",
-        "hsh": "124d8141bac6a0ab956371fefc4783e8"
+        "hsh": "6335fd2e29c6a16367f6a2e3a1013a98"
     }
 ]

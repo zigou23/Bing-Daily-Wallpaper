@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608262200",
+        "date": "20260827",
+        "url": "https://www.bing.com/th?id=OHR.LakeMagadi_ES-ES9474511114_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LakeMagadi_ES-ES9474511114",
+        "copyright": "Bandada de flamencos enanos al amanecer, Lago Magadi, Kenia (© Denis-Huot/Nature Picture Library)",
+        "copyrightKeyword": "Lago Magadi",
+        "hsh": "219feaf9b63a7486ab8718515d1ad413",
+        "description": "En el lago Magadi, en el Gran Valle del Rift, Kenia, los flamencos enanos tiñen el horizonte de rosa al amanecer. Este lago somero y alcalino, rico en minerales, genera una proliferación de algas que atrae a miles de estas aves para alimentarse, transformando la orilla en un espectáculo de color extraordinario. Los lagos son mucho más que agua: almacenan alrededor del noventa por ciento del agua dulce superficial del planeta, regulan el clima y sostienen ecosistemas enteros. La ONU designó el 27 de agosto como Día Mundial de los Lagos, celebrado por primera vez en 2025, para visibilizar las amenazas que afrontan: contaminación, sobreexplotación y cambio climático.",
+        "maplink": "-1.902409,36.265224"
+    },
+    {
         "fullstartdate": "202608252200",
         "date": "20260826",
         "url": "https://www.bing.com/th?id=OHR.TomatinaBunol_ES-ES8709376731_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LynnCanalOrca_ES-ES3652598331",
         "copyright": "Una orca emerge en el canal Lynn cerca de las montañas Chilkat, Alaska, EE. UU. (© John Hyde/Alamy)",
         "copyrightKeyword": "Orca animal",
-        "hsh": "383cb68e66e863c7a372ae2cb07f6080",
-        "description": "Una orca emerge en las aguas del canal Lynn, en el sureste de Alaska, EE. UU., con las montañas Chilkat nevadas como telón de fondo: la escena resume en una imagen la escala y la belleza de este fiordo de más de 100 kilómetros de longitud, uno de los más profundos de América del Norte. El mayor miembro de la familia de los delfines no es solo el depredador más reconocible del océano, sino también uno de los animales socialmente más complejos del planeta.",
-        "maplink": "58.69194,-135.097504"
-    },
-    {
-        "fullstartdate": "202608182200",
-        "date": "20260819",
-        "url": "https://www.bing.com/th?id=OHR.WhyteCliffP_ES-ES2273614080_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WhyteCliffP_ES-ES2273614080",
-        "copyright": "Parque Whytecliff, West Vancouver, Canadá (© Aolin Chen/Getty Images)",
-        "copyrightKeyword": "Parque Whytecliff",
-        "hsh": "f4cb2590e0b7f0f1be8f46181f4a8084"
+        "hsh": "383cb68e66e863c7a372ae2cb07f6080"
     }
 ]
