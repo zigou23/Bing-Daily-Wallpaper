@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608270700",
+        "date": "20260827",
+        "url": "https://www.bing.com/th?id=OHR.LakeMagadi_EN-US3401664434_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LakeMagadi_EN-US3401664434",
+        "copyright": "Lesser flamingo flock at sunrise, Lake Magadi, Kenya (© Denis-Huot/Nature Picture Library)",
+        "copyrightKeyword": "World Lake Day",
+        "hsh": "5da81fe9acc758a9beafb035dab00d8b",
+        "description": "Imagine a world without the natural wonders that hold about 90% of Earth's surface freshwater. Lakes are among our planet's most valuable resources. They provide clean water, support wildlife, help regulate climate, and sustain communities around the globe. In recognition of their vital role, the United Nations designated August 27 as World Lake Day, first observed in 2025. The need for action is greater than ever. More than 117 million lakes cover nearly 4% of Earth's land surface, yet many face growing pressure from pollution, overuse, and climate change.",
+        "maplink": "-1.902409,36.265224"
+    },
+    {
         "fullstartdate": "202608260700",
         "date": "20260826",
         "url": "https://www.bing.com/th?id=OHR.AurorasIceland_EN-US3293282785_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LynnCanalOrca_EN-US0537229184",
         "copyright": "An orca surfaces in Lynn Canal near the Chilkat Mountains, Alaska (© John Hyde/Alamy)",
         "copyrightKeyword": "orca animal",
-        "hsh": "b09a98b870e7818f122b90fed32eff23",
-        "description": "An orca breaks the surface of Lynn Canal against the backdrop of the snow-capped Chilkat Mountains in Southeast Alaska. Also known as the killer whale, the orca is the largest member of the dolphin family and one of the ocean's most recognizable predators. The cold, nutrient-rich waters of Alaska's Inside Passage provide abundant feeding grounds, sustaining salmon runs and a rich variety of marine life that supports these remarkable animals.",
-        "maplink": "58.69194,-135.097504"
-    },
-    {
-        "fullstartdate": "202608190700",
-        "date": "20260819",
-        "url": "https://www.bing.com/th?id=OHR.BrewsterXF2A_EN-US0417477370_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BrewsterXF2A_EN-US0417477370",
-        "copyright": "NASA's Langley Research Center mounted the Navy's Brewster XF2A-1 Buffalo in the Full-Scale Tunnel, 1938, Hampton, Virginia (© NASA)",
-        "copyrightKeyword": "National Aviation Day",
-        "hsh": "3155ca8d080ceaa87af51ddcbddcfe92"
+        "hsh": "b09a98b870e7818f122b90fed32eff23"
     }
 ]
