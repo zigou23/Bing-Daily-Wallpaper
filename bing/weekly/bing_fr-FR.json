@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608302200",
+        "date": "20260831",
+        "url": "https://www.bing.com/th?id=OHR.SamarkandCeiling_FR-FR3513297737_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SamarkandCeiling_FR-FR3513297737",
+        "copyright": "Détails d’un plafond, Régistan, Samarcande, Ouzbékistan (© Piero M. Bianchi/Getty Images)",
+        "copyrightKeyword": "Samarcande",
+        "hsh": "a9c8bcb93ac2eed90bafd2967d946ec2",
+        "description": "Sur la place du Régistan, à Samarcande, il suffit de lever les yeux pour comprendre pourquoi ce lieu est considéré comme le cœur architectural de l’Asie centrale. Bordée par trois majestueuses médersas, anciennes écoles consacrées au savoir et à la spiritualité, cette vaste esplanade d’Ouzbékistan impressionne par ses façades monumentales et ses portails élancés.",
+        "maplink": "39.655009,66.975755"
+    },
+    {
         "fullstartdate": "202608292200",
         "date": "20260830",
         "url": "https://www.bing.com/th?id=OHR.YellowShark_FR-FR9208937852_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BKBridge_FR-FR7150855439",
         "copyright": "Pont de Brooklyn, New York, États-Unis (© shayes17/Getty Images)",
         "copyrightKeyword": "pont de Brooklyn",
-        "hsh": "90ad7599ac379aefcc07a4fbac0b00d2",
-        "description": "Dominant l’East River (États-Unis), le pont de Brooklyn relie bien plus que deux arrondissements de New York. Inauguré en 1883 après quatorze ans de travaux, il fut le premier grand pont suspendu à câbles d’acier, transformant durablement les déplacements entre Manhattan et Brooklyn.",
-        "maplink": "40.706376,-73.996938"
-    },
-    {
-        "fullstartdate": "202608222200",
-        "date": "20260823",
-        "url": "https://www.bing.com/th?id=OHR.KatmaiBear_FR-FR3593143405_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.KatmaiBear_FR-FR3593143405",
-        "copyright": "Ours brun en pleine pêche au saumon rouge, Parc national de Katmai, Alaska, États-Unis (© Pal Hermansen/Nature Picture Library)",
-        "copyrightKeyword": "Ours brun",
-        "hsh": "8663e49d2b2c621da5d68beea7ee4b75"
+        "hsh": "90ad7599ac379aefcc07a4fbac0b00d2"
     }
 ]

@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608302200",
+        "date": "20260831",
+        "url": "https://www.bing.com/th?id=OHR.SamarkandCeiling_ES-ES9960905844_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SamarkandCeiling_ES-ES9960905844",
+        "copyright": "Cúpula en el interior de la mezquita de la madrasa Tilla-Kari, Plaza Registan, Samarcanda, Uzbekistán (© Piero M. Bianchi/Getty Images)",
+        "copyrightKeyword": "Plaza Registan Samarcanda",
+        "hsh": "8514c1016246927e1732873a2f96d68c",
+        "description": "La plaza del Registán es el corazón histórico de Samarcanda, una de las ciudades habitadas de forma continua más antiguas de Asia Central, con más de 2.500 años de historia. Tres madrasas monumentales —la de Ulugbek, la Sher-Dor y la Tilla-Kari— enmarcan el espacio con una precisión casi simétrica, aunque fueron construidas en épocas distintas entre los siglos XV y XVII.",
+        "maplink": "39.655009,66.975755"
+    },
+    {
         "fullstartdate": "202608292200",
         "date": "20260830",
         "url": "https://www.bing.com/th?id=OHR.YellowShark_ES-ES9780213231_1920x1080.jpg",
@@ -69,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BKBridge_ES-ES8423562789",
         "copyright": "Puente de Brooklyn, Nueva York, EE. UU. (© shayes17/Getty Images)",
         "copyrightKeyword": "Puente de Brooklyn",
-        "hsh": "e43d13a23b0574a38fb7e1a6b7ff9a3d",
-        "description": "El puente de Brooklyn, en Nueva York, Estados Unidos, no es solo una conexión entre dos orillas: es un monumento a la ingeniería del siglo XIX y a la tenacidad humana. Inaugurado en 1883 tras catorce años de obras, fue el primer puente colgante de cables de acero del mundo. Su construcción tuvo un giro inesperado: cuando el diseñador John A. Roebling falleció y su hijo Washington quedó incapacitado, fue su esposa Emily Warren Roebling quien aprendió ingeniería para supervisar la finalización del proyecto.",
-        "maplink": "40.706376,-73.996938"
-    },
-    {
-        "fullstartdate": "202608222200",
-        "date": "20260823",
-        "url": "https://www.bing.com/th?id=OHR.KatmaiBear_ES-ES8288785894_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.KatmaiBear_ES-ES8288785894",
-        "copyright": "Oso pardo pescando en el río, Parque Nacional Katmai, Alaska, EE. UU. (© Pal Hermansen/Nature Picture Library)",
-        "copyrightKeyword": "Parque Nacional Katmai Alaska",
-        "hsh": "e62949f773b41ed4b3e4ae15a82c6d16"
+        "hsh": "e43d13a23b0574a38fb7e1a6b7ff9a3d"
     }
 ]
