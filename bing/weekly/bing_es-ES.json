@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202608312200",
+        "date": "20260901",
+        "url": "https://www.bing.com/th?id=OHR.HorseHairShroom_ES-ES0065882566_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.HorseHairShroom_ES-ES0065882566",
+        "copyright": "Hongos paracaídas, Bielorrusia (© Máté/Nature Picture Library)",
+        "copyrightKeyword": "Marasmius rotula",
+        "hsh": "dd0de2355daae30c70d5490bd435d249",
+        "description": "El hongo paracaídas, fotografiado aquí en Bielorrusia, es uno de los organismos más singulares del sotobosque: sus sombreros minúsculos —de apenas un centímetro— se sostienen sobre tallos negros y rígidos que parecen hilos de alambre. Crece en grupos sobre hojarasca y ramas muertas, y posee una cualidad extraordinaria: puede desecarse por completo y revivir con la siguiente lluvia. Los hongos no son plantas, sino un reino propio que descompone materia orgánica y mantiene vivos los ecosistemas forestales; lo que vemos sobre el suelo es solo la punta visible de una red subterránea de micelio que puede extenderse varios metros."
+    },
+    {
         "fullstartdate": "202608302200",
         "date": "20260831",
         "url": "https://www.bing.com/th?id=OHR.SamarkandCeiling_ES-ES9960905844_1920x1080.jpg",
@@ -69,17 +79,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.RedwoodPark_ES-ES8525177894",
         "copyright": "Parques Nacionales y Estatales de Redwood (RNSP), California, EE. UU. (© HadelProductions/Getty Images)",
         "copyrightKeyword": "Parque nacional Redwood",
-        "hsh": "fa1d0191efe526ff70c1f9fd828e737c",
-        "description": "Caminar entre las secuoyas gigantes del Parque Nacional y Estatal de Redwood, en California, Estados Unidos, es una de esas experiencias que ponen en perspectiva la escala humana. Estos árboles, que llevan siglos creciendo, se elevan sobre una alfombra de helechos y musgos en uno de los ecosistemas más longevos del planeta. El 25 de agosto, el Servicio de Parques Nacionales de Estados Unidos celebra 110 años desde que el presidente Woodrow Wilson firmara en 1916 la ley que lo creó; hoy gestiona cientos de parques, monumentos y espacios históricos en todo el país.",
-        "maplink": "41.401711,-124.041727"
-    },
-    {
-        "fullstartdate": "202608232200",
-        "date": "20260824",
-        "url": "https://www.bing.com/th?id=OHR.BKBridge_ES-ES8423562789_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BKBridge_ES-ES8423562789",
-        "copyright": "Puente de Brooklyn, Nueva York, EE. UU. (© shayes17/Getty Images)",
-        "copyrightKeyword": "Puente de Brooklyn",
-        "hsh": "e43d13a23b0574a38fb7e1a6b7ff9a3d"
+        "hsh": "fa1d0191efe526ff70c1f9fd828e737c"
     }
 ]

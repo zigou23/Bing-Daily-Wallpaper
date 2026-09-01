@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202608310700",
+        "date": "20260831",
+        "url": "https://www.bing.com/th?id=OHR.SellinSunrise_ROW9214234977_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SellinSunrise_ROW9214234977",
+        "copyright": "Sellin Pier, Rügen, Germany (© bluejayphoto/Getty Images)",
+        "copyrightKeyword": "Sellin Pier",
+        "hsh": "bd9ccfdffcfd178d7c890ba7b06ba139",
+        "description": "When the first rays of sunlight gild the horizon, Sellin Pier reveals its most striking side. Located on the eastern coast of the island of Rügen in Mecklenburg-Western Pomerania, this structure is one of the best-known landmarks on Germany's Baltic coast. Its history dates back to 1906, when the first pier was opened. Over the decades, the structure suffered repeated damage from storms and other factors and was eventually demolished."
+    },
+    {
         "fullstartdate": "202608300700",
         "date": "20260830",
         "url": "https://www.bing.com/th?id=OHR.YellowShark_ROW3439446140_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BKBridge_ROW5406513289",
         "copyright": "Brooklyn Bridge, New York City, United States (© shayes17/Getty Images)",
         "copyrightKeyword": "Brooklyn Bridge",
-        "hsh": "c956fa5fb55c2f14275d99535d11922d",
-        "description": "The Brooklyn Bridge doesn't just connect Manhattan and Brooklyn—it bridges history, engineering and a few surprising stories too. Opened in 1883 after 14 years of construction, it became the world's first steel-wire suspension bridge, forever changing the way New Yorkers crossed the East River."
-    },
-    {
-        "fullstartdate": "202608230700",
-        "date": "20260823",
-        "url": "https://www.bing.com/th?id=OHR.KatmaiBear_ROW4890016899_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.KatmaiBear_ROW4890016899",
-        "copyright": "Brown bear fishing in river, Katmai National Park, Alaska, United States (© Pal Hermansen/Nature Picture Library)",
-        "copyrightKeyword": "Katmai National Park",
-        "hsh": "53a517839bd2bee06cb5f61dfa4db037"
+        "hsh": "c956fa5fb55c2f14275d99535d11922d"
     }
 ]

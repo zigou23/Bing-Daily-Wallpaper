@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608310400",
+        "date": "20260831",
+        "url": "https://www.bing.com/th?id=OHR.SamarkandCeiling_EN-CA1921310723_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SamarkandCeiling_EN-CA1921310723",
+        "copyright": "Building detail of Registan Square, Samarkand, Uzbekistan (© Piero M. Bianchi/Getty Images)",
+        "copyrightKeyword": "Samarkand",
+        "hsh": "ea71a1a1ae22a3270255c701b43968e8",
+        "description": "Stand in Registan Square and it's easy to see why it is considered the architectural heart of Samarkand—one of Central Asia's oldest cities. This plaza in Uzbekistan is framed by three magnificent madrasas—Islamic centres of learning—whose soaring portals draw the eye upward. Yet some of the square's greatest treasures reveal themselves only when you look closer.",
+        "maplink": "39.655009,66.975755"
+    },
+    {
         "fullstartdate": "202608300400",
         "date": "20260830",
         "url": "https://www.bing.com/th?id=OHR.YellowShark_EN-CA1504942162_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BKBridge_EN-CA9847334652",
         "copyright": "Brooklyn Bridge, New York City, United States (© shayes17/Getty Images)",
         "copyrightKeyword": "Brooklyn Bridge",
-        "hsh": "68a469cf4d31a86590e4278b67b71f1f",
-        "description": "The Brooklyn Bridge doesn't just connect Manhattan and Brooklyn—it bridges history, engineering and a few surprising stories too. Opened in 1883 after 14 years of construction, it became the world's first steel-wire suspension bridge, forever changing the way New Yorkers crossed the East River.",
-        "maplink": "40.706376,-73.996938"
-    },
-    {
-        "fullstartdate": "202608230400",
-        "date": "20260823",
-        "url": "https://www.bing.com/th?id=OHR.KatmaiBear_EN-CA7184475938_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.KatmaiBear_EN-CA7184475938",
-        "copyright": "Brown bear fishing in river, Katmai National Park, Alaska, United States (© Pal Hermansen/Nature Picture Library)",
-        "copyrightKeyword": "Katmai National Park",
-        "hsh": "8842906f91e2a991c4998399debf14b8"
+        "hsh": "68a469cf4d31a86590e4278b67b71f1f"
     }
 ]

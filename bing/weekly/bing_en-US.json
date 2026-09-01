@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608310700",
+        "date": "20260831",
+        "url": "https://www.bing.com/th?id=OHR.SamarkandCeiling_EN-US3761829748_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SamarkandCeiling_EN-US3761829748",
+        "copyright": "Building detail of Registan Square, Samarkand, Uzbekistan (© Piero M. Bianchi/Getty Images)",
+        "copyrightKeyword": "Samarkand",
+        "hsh": "189d7da80debbe586470e96d07b3eeef",
+        "description": "Stand in Registan Square and it's easy to see why it is considered the architectural heart of Samarkand—one of Central Asia's oldest cities. This plaza in Uzbekistan is framed by three magnificent madrasas—Islamic centers of learning—whose soaring portals draw the eye upward. Yet some of the square's greatest treasures reveal themselves only when you look closer.",
+        "maplink": "39.655009,66.975755"
+    },
+    {
         "fullstartdate": "202608300700",
         "date": "20260830",
         "url": "https://www.bing.com/th?id=OHR.YellowShark_EN-US3678567058_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BKBridge_EN-US2923468858",
         "copyright": "Brooklyn Bridge, New York City (© shayes17/Getty Images)",
         "copyrightKeyword": "Brooklyn Bridge",
-        "hsh": "73490870983d7cdfc6c8d49e2ffde93f",
-        "description": "The Brooklyn Bridge doesn't just connect Manhattan and Brooklyn—it bridges history, engineering, and a few surprising stories too. Opened in 1883 after 14 years of construction, it became the world's first steel-wire suspension bridge, forever changing the way New Yorkers crossed the East River.",
-        "maplink": "40.706376,-73.996938"
-    },
-    {
-        "fullstartdate": "202608230700",
-        "date": "20260823",
-        "url": "https://www.bing.com/th?id=OHR.KatmaiBear_EN-US2844742219_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.KatmaiBear_EN-US2844742219",
-        "copyright": "Brown bear fishing in river, Katmai National Park, Alaska (© Pal Hermansen/Nature Picture Library)",
-        "copyrightKeyword": "National Park Week 2026",
-        "hsh": "a097886cd9f27d3d492bcbed7ffff4db"
+        "hsh": "73490870983d7cdfc6c8d49e2ffde93f"
     }
 ]

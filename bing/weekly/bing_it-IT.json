@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202608312200",
+        "date": "20260901",
+        "url": "https://www.bing.com/th?id=OHR.CapodannoBizantino_IT-IT2305233649_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.CapodannoBizantino_IT-IT2305233649",
+        "copyright": "Vista aerea del Fiordo di Furore, Costiera Amalfitana, Italia (© Artur Debat/Getty Images)",
+        "copyrightKeyword": "Il Capodanno Bizantino ad Amalfi",
+        "hsh": "6ab7581c770f70414fc05a7e0b1e4fea",
+        "description": "Il Fiordo di Furore è un'insenatura scavata dal torrente Schiato nella roccia calcarea della Costiera Amalfitana, in Campania: un anfiteatro naturale che si apre tra pareti verticali sul mare Tirreno, con una spiaggia di appena venticinque metri raggiungibile solo attraverso un percorso nella roccia. Il ponte che lo sovrasta, a oltre venticinque metri di altezza, è parte della Statale Amalfitana che unisce tutti i comuni di questa costa.",
+        "maplink": "40.633953,14.600061"
+    },
+    {
         "fullstartdate": "202608302200",
         "date": "20260831",
         "url": "https://www.bing.com/th?id=OHR.SamarkandCeiling_IT-IT1763957510_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.RedwoodPark_IT-IT1204038943",
         "copyright": "Parchi Nazionali e Statali di Redwood, California, USA (© HadelProductions/Getty Images)",
         "copyrightKeyword": "Parco nazionale di Redwood",
-        "hsh": "47eace6150f8ea7a11942b4fe7517b0c",
-        "description": "Camminare tra le sequoie giganti del Parco Nazionale e Statale di Redwood, nel nord della California, Stati Uniti, è un'esperienza che ridimensiona la scala umana. Le sequoie costiere sono gli alberi più alti della Terra: alcuni esemplari superano i 115 metri di altezza e possono vivere più di duemila anni. Crescono su un tappeto di felci e muschi, creando una foresta che sembra antica e viva allo stesso tempo.",
-        "maplink": "41.401711,-124.041727"
-    },
-    {
-        "fullstartdate": "202608232200",
-        "date": "20260824",
-        "url": "https://www.bing.com/th?id=OHR.BKBridge_IT-IT1092253957_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BKBridge_IT-IT1092253957",
-        "copyright": "Ponte di Brooklyn, New York City, USA (© shayes17/Getty Images)",
-        "copyrightKeyword": "Ponte di Brooklyn",
-        "hsh": "1e0049a73543b36e9ecffa8e508112af"
+        "hsh": "47eace6150f8ea7a11942b4fe7517b0c"
     }
 ]
