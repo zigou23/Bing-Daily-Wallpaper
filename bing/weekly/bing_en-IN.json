@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202609011830",
+        "date": "20260902",
+        "url": "https://www.bing.com/th?id=OHR.SuffolkHuts_EN-IN0536689027_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SuffolkHuts_EN-IN0536689027",
+        "copyright": "Traditional beach huts, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images)",
+        "copyrightKeyword": "Southwold Suffolk",
+        "hsh": "d5e5ca178c4df7f6b31d4a176554c2f2",
+        "description": "Along England's east coast, the Suffolk Heritage Coast blends windswept heaths, marshes, shingle beaches and expansive North Sea views. One of its best-known towns is Southwold, where water and history are inseparable. Almost encircled by the sea, the River Blyth and surrounding wetlands, the town occupies a slender peninsula shaped by centuries of fishing, trade and life at the edge of the water.",
+        "maplink": "52.326221,1.678968"
+    },
+    {
         "fullstartdate": "202608311830",
         "date": "20260901",
         "url": "https://www.bing.com/th?id=OHR.SurathkalBeach2026_EN-IN6160079394_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AurorasIceland_EN-IN9916681236",
         "copyright": "Auroras over Kirkjufell, Iceland (© Cavan Images/Alamy)",
         "copyrightKeyword": "Aurora borealis",
-        "hsh": "0236cffd4e2a874bb3d743b8aa611422",
-        "description": "As darker nights return to Iceland, visitors will soon look to the skies for a chance to see the aurora borealis. Better known as the northern lights, this luminous phenomenon occurs when charged particles from the sun collide with oxygen and nitrogen high in Earth's atmosphere, creating shimmering ribbons of green, pink, purple and sometimes red light. From September to April, Iceland's northern location and long winter nights make it one of the world's finest places to witness the display.",
-        "maplink": "64.939949,-23.307478"
-    },
-    {
-        "fullstartdate": "202608241830",
-        "date": "20260825",
-        "url": "https://www.bing.com/th?id=OHR.RedwoodPark_EN-IN9796195264_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.RedwoodPark_EN-IN9796195264",
-        "copyright": "Redwood National and State Parks, California, United States (© HadelProductions/Getty Images)",
-        "copyrightKeyword": "Redwood National and State Parks",
-        "hsh": "ebbd497c65c73d41707c1a842c0ee9e0"
+        "hsh": "0236cffd4e2a874bb3d743b8aa611422"
     }
 ]

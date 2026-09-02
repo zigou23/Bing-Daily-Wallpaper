@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202609012300",
+        "date": "20260902",
+        "url": "https://www.bing.com/th?id=OHR.SuffolkHuts_EN-GB2261622731_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SuffolkHuts_EN-GB2261622731",
+        "copyright": "Traditional beach huts, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images)",
+        "copyrightKeyword": "Southwold Suffolk",
+        "hsh": "df0a7b9554d8c3285cddeeeff6866057",
+        "description": "Along England's east coast, the Suffolk Heritage Coast blends windswept heaths, marshes, shingle beaches and expansive North Sea views. One of its best-known towns is Southwold, where water and history are inseparable. Almost encircled by the sea, the River Blyth and surrounding wetlands, the town occupies a slender peninsula shaped by centuries of fishing, trade and life at the edge of the water.",
+        "maplink": "52.326221,1.678968"
+    },
+    {
         "fullstartdate": "202608312300",
         "date": "20260901",
         "url": "https://www.bing.com/th?id=OHR.HorseHairShroom_EN-GB2103309829_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AurorasIceland_EN-GB1541173608",
         "copyright": "Auroras over Kirkjufell, Iceland (© Cavan Images/Alamy)",
         "copyrightKeyword": "Aurora borealis",
-        "hsh": "d5a8e46e66bf7b6e90b3b5845fa0332a",
-        "description": "As darker nights return to Iceland, visitors will soon look to the skies for a chance to see the aurora borealis. Better known as the northern lights, this luminous phenomenon occurs when charged particles from the sun collide with oxygen and nitrogen high in Earth's atmosphere, creating shimmering ribbons of green, pink, purple and sometimes red light. From September to April, Iceland's northern location and long winter nights make it one of the world's finest places to witness the display.",
-        "maplink": "64.939949,-23.307478"
-    },
-    {
-        "fullstartdate": "202608242300",
-        "date": "20260825",
-        "url": "https://www.bing.com/th?id=OHR.SantaCatarina_EN-GB1458336075_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SantaCatarina_EN-GB1458336075",
-        "copyright": "Aerial view of surfers, Santa Catarina, Brazil (© Wonderful Nature/Shutterstock)",
-        "copyrightKeyword": "Brazil Santa Catarina",
-        "hsh": "a142984dc0e34e2061500ce0870ca695"
+        "hsh": "d5a8e46e66bf7b6e90b3b5845fa0332a"
     }
 ]

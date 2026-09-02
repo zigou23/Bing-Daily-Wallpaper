@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202609010300",
+        "date": "20260901",
+        "url": "https://www.bing.com/th?id=OHR.HorseHairShroom_PT-BR3941207361_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.HorseHairShroom_PT-BR3941207361",
+        "copyright": "Cogumelo Gymnopus androsaceus, Belarus (© Máté/Nature Picture Library)",
+        "copyrightKeyword": "Cogumelo",
+        "hsh": "937779c7c16c25ce0c13154a24d008ef",
+        "description": "Se os fungos desaparecessem amanhã, a conta chegaria rápido: folhas deixariam de se decompor, nutrientes parariam de circular e muitos ecossistemas perderiam uma de suas engrenagens mais importantes. Debaixo da terra, entre folhas secas e troncos em decomposição, eles formam uma vasta rede invisível que recicla matéria, alimenta plantas e mantém florestas funcionando."
+    },
+    {
         "fullstartdate": "202608310300",
         "date": "20260831",
         "url": "https://www.bing.com/th?id=OHR.SamarkandCeiling_PT-BR2655743090_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.RedwoodPark_PT-BR4867222756",
         "copyright": "Nascer do sol no Parque Nacional e Estadual de Redwood, Califórnia, Estados Unidos (© HadelProductions/Getty Images)",
         "copyrightKeyword": "Redwood Califórnia Estados Unidos",
-        "hsh": "3b7f0692af750cd619d9b084080bb099",
-        "description": "A primeira reação costuma ser olhar para cima. A segunda é continuar olhando. A imagem revela o Parque Nacional e Estadual de Redwood, na Califórnia, Estados Unidos, onde as sequoias-costeiras fazem qualquer visitante parecer um detalhe da paisagem. As maiores passam dos 100 metros, altura equivalente à de um prédio de quase 40 andares, com troncos que podem ultrapassar 8 metros de diâmetro. Algumas já lançavam sombra quando impérios ainda disputavam mapas."
-    },
-    {
-        "fullstartdate": "202608240300",
-        "date": "20260824",
-        "url": "https://www.bing.com/th?id=OHR.Lencois_PT-BR9491147631_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.Lencois_PT-BR9491147631",
-        "copyright": "Parque Nacional dos Lençóis Maranhenses, Maranhão (© Ignacio Palacios/Getty Images)",
-        "copyrightKeyword": "Parque Nacional dos Lençóis Maranhenses",
-        "hsh": "4c9f9b5e479aa55b2e626724e67766c7"
+        "hsh": "3b7f0692af750cd619d9b084080bb099"
     }
 ]

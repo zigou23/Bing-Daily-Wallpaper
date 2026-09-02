@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202609012200",
+        "date": "20260902",
+        "url": "https://www.bing.com/th?id=OHR.SuffolkHuts_DE-DE8043107896_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SuffolkHuts_DE-DE8043107896",
+        "copyright": "Traditionelle Strandhütten, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images)",
+        "copyrightKeyword": "Southwold Informationen",
+        "hsh": "87ee4fc2eaedbc1af27a5824133a640d",
+        "description": "An der Suffolk Heritage Coast in Ostengland gehört Southwold zu den Orten, die den Charme der britischen Küste besonders eindrucksvoll bewahrt haben. Entlang der Strandpromenade stehen zahlreiche traditionelle Strandhütten, deren leuchtende Farben schon von Weitem ins Auge fallen. Sie prägen das Bild des Küstenortes seit Generationen und sind für viele Besucher ebenso charakteristisch wie der breite Kiesstrand und die frische Meeresluft.",
+        "maplink": "52.326221,1.678968"
+    },
+    {
         "fullstartdate": "202608312200",
         "date": "20260901",
         "url": "https://www.bing.com/th?id=OHR.HorseHairShroom_DE-DE7910104416_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AurorasIceland_DE-DE5182720309",
         "copyright": "Polarlichter über dem Kirkjufell, Island (© Cavan Images/Alamy)",
         "copyrightKeyword": "Polarlicht",
-        "hsh": "8f988c1eb74437ee8b63b26b16dfd926",
-        "description": "Der Kirkjufell zählt zu den bekanntesten Bergen Islands und bietet eine eindrucksvolle Kulisse für die Beobachtung von Polarlichtern. Wenn die Nächte im Herbst und Winter langsam dunkler werden, erscheinen grüne Lichtbänder am Himmel und verwandeln die Landschaft in ein faszinierendes Schauspiel. Die reflektierenden Farben, die schneebedeckten Hänge und die abgelegene Lage schaffen eine Atmosphäre, die Besucher aus aller Welt anzieht. Besonders in den kalten Monaten gehören solche Nächte zu den eindrucksvollsten Naturerlebnissen des Landes.",
-        "maplink": "64.939949,-23.307478"
-    },
-    {
-        "fullstartdate": "202608242200",
-        "date": "20260825",
-        "url": "https://www.bing.com/th?id=OHR.KitesurfersSunset_DE-DE3980635203_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.KitesurfersSunset_DE-DE3980635203",
-        "copyright": "Kitesurfer bei Sonnenuntergang in Deutschland (© Jens Breuer/Getty Images)",
-        "copyrightKeyword": "Kite Worldcup Sylt 2026",
-        "hsh": "c1df0bcff9b2df91b4464f1d2cddb836"
+        "hsh": "8f988c1eb74437ee8b63b26b16dfd926"
     }
 ]
