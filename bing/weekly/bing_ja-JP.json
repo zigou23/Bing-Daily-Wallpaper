@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202609021500",
+        "date": "20260903",
+        "url": "https://www.bing.com/th?id=OHR.AZWilderness_JA-JP3309055326_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AZWilderness_JA-JP3309055326",
+        "copyright": "コヨーテ・ビュート, 米国 アリゾナ州 (© James Hager/Getty Images)",
+        "copyrightKeyword": "コヨーテ・ビュート",
+        "hsh": "ea7caca1406d74113a6ef116d63c1526",
+        "description": "今日の画像は米国アリゾナ州バーミリオン・クリフ国定公園に位置するコヨーテ・ビュート。砂漠に波が押し寄せたような独特の景観は、風や水が長い年月をかけて砂丘を浸食することで生まれました。こうした原生的な自然を守るため、米国では 1964 年 9 月 3 日に「原生自然法」が制定されました。当初は 54 か所、約 3 万 6,800km² が保護対象でしたが、現在ではその 10 倍を超える面積が指定され、手つかずの森や砂漠など大自然の魅力を未来へ受け継いでいます。",
+        "maplink": "36.862603,-111.826977"
+    },
+    {
         "fullstartdate": "202609011500",
         "date": "20260902",
         "url": "https://www.bing.com/th?id=OHR.SuffolkHuts_JA-JP3115171778_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LakeMagadi_JA-JP0125683063",
         "copyright": "マガディ湖, ケニア (© Denis-Huot/Nature Picture Library)",
         "copyrightKeyword": "世界湖沼の日",
-        "hsh": "63dc11ff3cb14078f3b6639ffafaea0d",
-        "description": "今日8月27日は「世界湖沼の日」。湖沼の重要性と保全への意識を高めるため、2024 年に国連総会で制定されました。湖沼は貴重な淡水資源であり、多様な生物を支える重要な存在です。しかし、都市化や気候変動などの影響により、その存続が脅かされています。そして、今日の画像は、ケニア南西部のマガディ湖に集まるコフラミンゴの群れ。マガディ湖は強アルカリ性で魚はほとんどいないものの、藻類が豊富であり、フラミンゴはそれを求めて集まっています。",
-        "maplink": "-1.902409,36.265224"
-    },
-    {
-        "fullstartdate": "202608251500",
-        "date": "20260826",
-        "url": "https://www.bing.com/th?id=OHR.AurorasIceland_JA-JP9970815507_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AurorasIceland_JA-JP9970815507",
-        "copyright": "オーロラ, アイスランド (© Cavan Images/Alamy)",
-        "copyrightKeyword": "オーロラ",
-        "hsh": "b8401df2e318eba70155f055025e126c"
+        "hsh": "63dc11ff3cb14078f3b6639ffafaea0d"
     }
 ]

@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202609022200",
+        "date": "20260903",
+        "url": "https://www.bing.com/th?id=OHR.AZWilderness_IT-IT2616845424_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AZWilderness_IT-IT2616845424",
+        "copyright": "Coyote Buttes, Monumento Nazionale Vermilion Cliffs, Arizona, USA (© James Hager/Getty Images)",
+        "copyrightKeyword": "Coyote Buttes",
+        "hsh": "13061d919ba1da6ebf029549f25a7a5b",
+        "description": "Di solito le onde appartengono all'oceano. In Arizona settentrionale, invece, nascono dal deserto. Le formazioni di arenaria di Coyote Buttes, nel Monumento Nazionale di Vermilion Cliffs, Stati Uniti, furono modellate da dune antiche e milioni di anni di erosione, creando un paesaggio che sembra ondeggiare pur restando immobile. I colori — rossi e arancioni da ossido di ferro, viola dal manganese, gialli dalla limonite — non sono filtri fotografici, ma reazioni chimiche avvenute nel sottosuolo per millenni.",
+        "maplink": "36.7783,-111.7361"
+    },
+    {
         "fullstartdate": "202609012200",
         "date": "20260902",
         "url": "https://www.bing.com/th?id=OHR.SuffolkHuts_IT-IT2530615485_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LakeMagadi_IT-IT1397011994",
         "copyright": "Il fenicottero minore all'alba, Lago Magadi, Kenya (© Denis-Huot/Nature Picture Library)",
         "copyrightKeyword": "Lago Magadi",
-        "hsh": "9354ae288099a037c4aaea34e0d2547e",
-        "description": "I fenicotteri minori del Lago Magadi, nella Grande Rift Valley del Kenya, tingono l'orizzonte di rosa all'alba, trasformando le rive di questo lago alcalino e poco profondo in uno spettacolo di colore straordinario. Le sue acque ricche di minerali favoriscono la proliferazione di alghe di cui si nutrono a migliaia. Il 27 agosto è la Giornata Mondiale dei Laghi, istituita dall'ONU nel 2025: i laghi coprono quasi il 4 % della superficie terrestre e contengono circa il 90 % dell'acqua dolce superficiale del pianeta, ma molti sono minacciati da inquinamento e cambiamenti climatici.",
-        "maplink": "-1.902409,36.265224"
-    },
-    {
-        "fullstartdate": "202608252200",
-        "date": "20260826",
-        "url": "https://www.bing.com/th?id=OHR.AurorasIceland_IT-IT1298284038_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AurorasIceland_IT-IT1298284038",
-        "copyright": "L'aurora boreale su Kirkjufell, Islanda (© Cavan Images/Alamy)",
-        "copyrightKeyword": "Aurora boreale",
-        "hsh": "3cbf493497e5c9959e440db1ceed6eba"
+        "hsh": "9354ae288099a037c4aaea34e0d2547e"
     }
 ]

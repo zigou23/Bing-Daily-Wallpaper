@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202609022200",
+        "date": "20260903",
+        "url": "https://www.bing.com/th?id=OHR.FrankfurtRomerberg_DE-DE6749197183_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FrankfurtRomerberg_DE-DE6749197183",
+        "copyright": "Römerberg, historischer Altstadtplatz in Frankfurt am Main (© f11photo/Getty Images)",
+        "copyrightKeyword": "Römerberg",
+        "hsh": "124ba9adf4cf43081f38439180427b72",
+        "description": "Der Römerberg im Herzen von Frankfurt am Main zählt zu den bekanntesten Plätzen Deutschlands. Seit Jahrhunderten bildet er das historische Zentrum der Stadt und dient bis heute als Kulisse für Märkte, Feste und öffentliche Veranstaltungen. Trotz der modernen Skyline, für die Frankfurt heute berühmt ist, erinnert dieser Platz an eine Zeit, in der Handel, Handwerk und Bürgersinn das Leben prägten. Besonders die rekonstruierten Fachwerkhäuser entlang der Ostzeile verleihen dem Römerberg sein unverwechselbares Erscheinungsbild und schlagen eine Brücke zwischen Vergangenheit und Gegenwart.",
+        "maplink": "50.110294,8.682143"
+    },
+    {
         "fullstartdate": "202609012200",
         "date": "20260902",
         "url": "https://www.bing.com/th?id=OHR.SuffolkHuts_DE-DE8043107896_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LakeMagadi_DE-DE5321228958",
         "copyright": "Zwergflamingos bei Sonnenaufgang am Magadi-See, Kenia (© Denis-Huot/Nature Picture Library)",
         "copyrightKeyword": "Welttag der Seen",
-        "hsh": "0aad9848eb2a8e179a854bde8c8e79c9",
-        "description": "Der Welttag der Seen am 27. August erinnert daran, wie wertvoll Seen für Natur, Klima und Menschen sind. Sie speichern Wasser, bieten Lebensraum für zahlreiche Tier- und Pflanzenarten und prägen Landschaften auf der ganzen Welt. Gleichzeitig sind viele Seen durch Verschmutzung, zunehmende Trockenheit und andere Umweltveränderungen bedroht. Der Aktionstag macht darauf aufmerksam, wie wichtig ihr Schutz für kommende Generationen ist.",
-        "maplink": "-1.902409,36.265224"
-    },
-    {
-        "fullstartdate": "202608252200",
-        "date": "20260826",
-        "url": "https://www.bing.com/th?id=OHR.AurorasIceland_DE-DE5182720309_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AurorasIceland_DE-DE5182720309",
-        "copyright": "Polarlichter über dem Kirkjufell, Island (© Cavan Images/Alamy)",
-        "copyrightKeyword": "Polarlicht",
-        "hsh": "8f988c1eb74437ee8b63b26b16dfd926"
+        "hsh": "0aad9848eb2a8e179a854bde8c8e79c9"
     }
 ]

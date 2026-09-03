@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202609020400",
+        "date": "20260902",
+        "url": "https://www.bing.com/th?id=OHR.SuffolkHuts_EN-CA7283935954_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SuffolkHuts_EN-CA7283935954",
+        "copyright": "Traditional beach huts, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images)",
+        "copyrightKeyword": "Southwold Suffolk",
+        "hsh": "27b8014bb58870bce8ea5c9869b5ed79",
+        "description": "Along England's east shore, the Suffolk Heritage Coast blends windswept heaths, marshes, shingle beaches and expansive North Sea views. One of its best-known towns is Southwold, where water and history are inseparable. Almost encircled by the sea, the River Blyth and surrounding wetlands, the town occupies a slender peninsula shaped by centuries of fishing, trade and life at the edge of the water.",
+        "maplink": "52.326221,1.678968"
+    },
+    {
         "fullstartdate": "202609010400",
         "date": "20260901",
         "url": "https://www.bing.com/th?id=OHR.HorseHairShroom_EN-CA6859526783_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AurorasIceland_EN-CA9381288782",
         "copyright": "Auroras over Kirkjufell, Iceland (© Cavan Images/Alamy)",
         "copyrightKeyword": "Aurora borealis",
-        "hsh": "2c9f00e5f39888c5dec7d87856552d12",
-        "description": "As darker nights return to Iceland, visitors will soon look to the skies for a chance to see the aurora borealis. Better known as the northern lights, this luminous phenomenon occurs when particles from the sun interact with gases high in Earth's atmosphere, creating shimmering ribbons of green, pink, purple and sometimes red light. Iceland's northern location and increasingly dark autumn and winter nights make it one of the world's premier destinations for aurora viewing.",
-        "maplink": "64.939949,-23.307478"
-    },
-    {
-        "fullstartdate": "202608250400",
-        "date": "20260825",
-        "url": "https://www.bing.com/th?id=OHR.PurplePuffin_EN-CA8959604660_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PurplePuffin_EN-CA8959604660",
-        "copyright": "Atlantic puffin holding a wild iris in his beak in Elliston, Newfoundland (© mlorenzphotography/Getty Images)",
-        "copyrightKeyword": "Atlantic puffin",
-        "hsh": "5180d41bfe29aa6da8242f056b94b37d"
+        "hsh": "2c9f00e5f39888c5dec7d87856552d12"
     }
 ]

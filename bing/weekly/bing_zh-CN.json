@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202609021600",
+        "date": "20260903",
+        "url": "https://www.bing.com/th?id=OHR.AZWilderness_ZH-CN2664566131_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AZWilderness_ZH-CN2664566131",
+        "copyright": "郊狼丘，朱红悬崖国家纪念区，亚利桑那州，美国 (© James Hager/Getty Images)",
+        "copyrightKeyword": "朱红悬崖国家纪念区",
+        "hsh": "5cb4a97f01d7c77a6be4b06bf1cd6f14",
+        "description": "波浪通常属于海洋。但在亚利桑那州北部，它们却从沙漠中涌起。郊狼丘是朱红悬崖国家纪念区的一部分，其盘旋起伏的砂岩地貌由远古沙丘和数百万年的侵蚀共同塑造而成，造就了一片即使静止不动也仿佛泛着涟漪的景观。"
+    },
+    {
         "fullstartdate": "202609011600",
         "date": "20260902",
         "url": "https://www.bing.com/th?id=OHR.SuffolkHuts_ZH-CN2463818981_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LakeMagadi_ZH-CN0601527009",
         "copyright": "日出时的小红鹳群，马加迪湖，肯尼亚 (© Denis-Huot/Nature Picture Library)",
         "copyrightKeyword": "世界湖泊日",
-        "hsh": "10d60cf76cca639372535997c3c54ddf",
-        "description": "想象一个没有这些自然奇观的世界——它们容纳着地球约90%的地表淡水。湖泊是地球上最宝贵的资源之一。它们提供清洁水源、支持野生动物、帮助调节气候，并维系全球各地的社区。为肯定湖泊的重要作用，联合国将8月27日定为世界湖泊日，并于2025年首次纪念。采取行动的必要性比以往任何时候都更为迫切。全球超过1.17亿个湖泊覆盖了近4%的陆地表面，但许多湖泊正面临污染、过度利用和气候变化带来的日益严峻的压力。"
-    },
-    {
-        "fullstartdate": "202608251600",
-        "date": "20260826",
-        "url": "https://www.bing.com/th?id=OHR.AurorasIceland_ZH-CN9781322454_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AurorasIceland_ZH-CN9781322454",
-        "copyright": "基尔丘山上空的极光，冰岛 (© Cavan Images/Alamy)",
-        "copyrightKeyword": "北极光",
-        "hsh": "3b620c7399820c5bdb0a11f6100d3ebe"
+        "hsh": "10d60cf76cca639372535997c3c54ddf"
     }
 ]

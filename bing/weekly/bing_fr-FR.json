@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202609022200",
+        "date": "20260903",
+        "url": "https://www.bing.com/th?id=OHR.AZWilderness_FR-FR4389464671_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AZWilderness_FR-FR4389464671",
+        "copyright": "Buttes Coyote, Monument national des Falaises Vermilion, Arizona, États-Unis (© James Hager/Getty Images)",
+        "copyrightKeyword": "Buttes Coyote États-Unis",
+        "hsh": "2dc8dbf4e7a259001b8e88cc172956eb",
+        "description": "Dans le nord de l’Arizona (États-Unis), les vagues semblent avoir quitté l’océan pour se figer dans le désert. Aux Buttes Coyote, au sein du Monument national des Falaises Vermilion (« Vermilion Cliffs National Monument »), les couches de grès aux courbes ondulantes témoignent d’une histoire vieille de millions d’années. D’anciennes dunes, sculptées par le vent, la pluie et les écarts de température, ont façonné un décor spectaculaire aux teintes ocre, rouge et or. Même immobile, le paysage semble en mouvement, telle une mer figée sous le soleil.",
+        "maplink": "36.7783,-111.7361"
+    },
+    {
         "fullstartdate": "202609012200",
         "date": "20260902",
         "url": "https://www.bing.com/th?id=OHR.SuffolkHuts_FR-FR9132067809_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LakeMagadi_FR-FR8316800874",
         "copyright": "Volée de flamants nains à l’aube, Lac Magadi, Kenya (© Denis-Huot/Nature Picture Library)",
         "copyrightKeyword": "Journée mondiale des lacs",
-        "hsh": "6433cc78499b3451466b7591561b0fb6",
-        "description": "Il est difficile d’imaginer un monde privé de ces vastes miroirs d’eau qui renferment l’essentiel de l’eau douce liquide présente à la surface de la Terre. Les lacs sont au cœur de l’équilibre des écosystèmes : ils fournissent de l’eau, abritent une biodiversité remarquable, influencent le climat local et soutiennent d’innombrables communautés humaines. Pour souligner leur importance, les Nations unies ont instauré la Journée mondiale des lacs, célébrée chaque 27 août depuis 2025. Plus de 117 millions de lacs couvrent près de 4 % des terres émergées, mais beaucoup subissent pollution, surexploitation et dérèglement climatique.",
-        "maplink": "-1.902409,36.265224"
-    },
-    {
-        "fullstartdate": "202608252200",
-        "date": "20260826",
-        "url": "https://www.bing.com/th?id=OHR.AurorasIceland_FR-FR6287537082_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AurorasIceland_FR-FR6287537082",
-        "copyright": "Aurores boréales sur Kirkjufell, Islande (© Cavan Images/Alamy)",
-        "copyrightKeyword": "aurore boréale",
-        "hsh": "95af4580757f0daab6cd05bfb0bec4cc"
+        "hsh": "6433cc78499b3451466b7591561b0fb6"
     }
 ]
