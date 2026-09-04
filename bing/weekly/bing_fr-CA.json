@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202609030400",
+        "date": "20260903",
+        "url": "https://www.bing.com/th?id=OHR.JulierPass_FR-CA8399720241_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.JulierPass_FR-CA8399720241",
+        "copyright": "Route sinueuse du col du Julier, Suisse (© Westend61/Getty Images)",
+        "copyrightKeyword": "col du Julier Suisse",
+        "hsh": "1593d280f11bfc629858a5bcc1f2f2ce",
+        "description": "À 2 284 mètres d’altitude, le col du Julier traverse le cœur des Alpes suisses comme un trait d’union entre vallées et époques. Depuis près de deux millénaires, voyageurs, marchands et messagers l’ont franchi malgré ses pentes escarpées, bien avant l’arrivée des routes modernes. Près du sommet, des découvertes archéologiques, notamment de nombreuses pièces de monnaie ainsi que deux colonnes en stéatite d’origine romaine, suggèrent l’existence d’un lieu de halte, voire de recueillement. Aujourd’hui encore, les prairies alpines, les mélèzes et les sommets rocheux composent un décor saisissant où le temps semble ralentir.",
+        "maplink": "46.471172,9.725359"
+    },
+    {
         "fullstartdate": "202609020400",
         "date": "20260902",
         "url": "https://www.bing.com/th?id=OHR.SuffolkHuts_FR-CA9474847832_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LakeMagadi_FR-CA8220213797",
         "copyright": "Volée de flamants nains à l’aube, Lac Magadi, Kenya (© Denis-Huot/Nature Picture Library)",
         "copyrightKeyword": "Journée mondiale des lacs",
-        "hsh": "30952c638b960d692bbc520402187baf",
-        "description": "Il est difficile d’imaginer un monde privé de ces vastes miroirs d’eau qui renferment l’essentiel de l’eau douce liquide présente à la surface de la Terre. Les lacs sont au cœur de l’équilibre des écosystèmes : ils fournissent de l’eau, abritent une biodiversité remarquable, influencent le climat local et soutiennent d’innombrables communautés humaines. Pour souligner leur importance, les Nations unies ont instauré la Journée mondiale des lacs, célébrée chaque 27 août depuis 2025. Plus de 117 millions de lacs couvrent près de 4 % des terres émergées, mais beaucoup subissent pollution, surexploitation et dérèglement climatique.",
-        "maplink": "-1.902409,36.265224"
-    },
-    {
-        "fullstartdate": "202608260400",
-        "date": "20260826",
-        "url": "https://www.bing.com/th?id=OHR.AurorasIceland_FR-CA6768685677_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AurorasIceland_FR-CA6768685677",
-        "copyright": "Aurores boréales sur Kirkjufell, Islande (© Cavan Images/Alamy)",
-        "copyrightKeyword": "aurore boréale",
-        "hsh": "97cfa3ff64648e0c1ecd870e2208b8f8"
+        "hsh": "30952c638b960d692bbc520402187baf"
     }
 ]

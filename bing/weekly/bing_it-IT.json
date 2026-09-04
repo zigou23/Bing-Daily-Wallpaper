@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202609032200",
+        "date": "20260904",
+        "url": "https://www.bing.com/th?id=OHR.Westerheversand_IT-IT2705992595_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.Westerheversand_IT-IT2705992595",
+        "copyright": "Faro di Westerheversand in Westerhever, Schleswig-Holstein, Germania (© bluejayphoto/Getty Images)",
+        "copyrightKeyword": "Faro di Westerheversand",
+        "hsh": "1c4960540e52ce5e149318677bed9e05",
+        "description": "Tra le paludi salmastre di Westerhever, nello Schleswig-Holstein (Germania), una torre a fasce rosse e bianche sorveglia il Mare del Nord dal 1908. Il faro di Westerheversand è una struttura in ghisa alta quaranta metri, poggiata su un rilievo artificiale e circondata da canali che la marea disegna e cancella due volte al giorno.",
+        "maplink": "54.373402,8.6399"
+    },
+    {
         "fullstartdate": "202609022200",
         "date": "20260903",
         "url": "https://www.bing.com/th?id=OHR.AZWilderness_IT-IT2616845424_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MichelSunset_IT-IT1503723648",
         "copyright": "Le Mont-Saint-Michel, Manica, Normandia, Francia (© Clement LEONARD/Getty Images)",
         "copyrightKeyword": "Le Mont-Saint-Michel",
-        "hsh": "7245e374f3b53573c2e132e8bf28308a",
-        "description": "Al tramonto, Mont-Saint-Michel emerge dalle acque della Normandia, in Francia, come una fortezza scolpita dalle maree. Due volte al giorno il mare si ritira scoprendo vaste distese di sabbia, poi torna a isolare il monte: la differenza tra alta e bassa marea può raggiungere i quattordici metri, una delle più estreme al mondo. Per secoli i pellegrini calcolavano i loro attraversamenti al ritmo di quelle acque, rischiando di restare intrappolati.",
-        "maplink": "48.637417,-1.5112"
-    },
-    {
-        "fullstartdate": "202608262200",
-        "date": "20260827",
-        "url": "https://www.bing.com/th?id=OHR.LakeMagadi_IT-IT1397011994_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LakeMagadi_IT-IT1397011994",
-        "copyright": "Il fenicottero minore all'alba, Lago Magadi, Kenya (© Denis-Huot/Nature Picture Library)",
-        "copyrightKeyword": "Lago Magadi",
-        "hsh": "9354ae288099a037c4aaea34e0d2547e"
+        "hsh": "7245e374f3b53573c2e132e8bf28308a"
     }
 ]

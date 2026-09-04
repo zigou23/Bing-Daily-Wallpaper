@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202609032200",
+        "date": "20260904",
+        "url": "https://www.bing.com/th?id=OHR.HorizontHerten_DE-DE6847367698_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.HorizontHerten_DE-DE6847367698",
+        "copyright": "Horizontobservatorium, Halde Hoheward, Herten, Nordrhein-Westfalen (© lilly3/Getty Images)",
+        "copyrightKeyword": "Horizontobservatorium Halde Hoheward",
+        "hsh": "494b70ed4cfb0c0d95e3712992dc48d0",
+        "description": "Hoch über dem Ruhrgebiet erhebt sich auf der Halde Hoheward das Horizontobservatorium, eines der ungewöhnlichsten Wahrzeichen des Strukturwandels in Nordrhein-Westfalen. Die gewaltigen Stahlbögen, die das Gipfelplateau überspannen, wirken wie ein modernes Kunstwerk unter freiem Himmel. Tatsächlich dient die Anlage jedoch nicht nur als Blickfang: Sie wurde als astronomisches Bauwerk entworfen, das die Bewegungen der Sonne und die Wechsel der Jahreszeiten veranschaulicht und Besucher ins Staunen versetzt.",
+        "maplink": "51.569478,7.168036"
+    },
+    {
         "fullstartdate": "202609022200",
         "date": "20260903",
         "url": "https://www.bing.com/th?id=OHR.FrankfurtRomerberg_DE-DE6749197183_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MichelSunset_DE-DE7463636835",
         "copyright": "Mont-Saint-Michel bei Flut, Manche, Normandie, Frankreich (© Clement LEONARD/Getty Images)",
         "copyrightKeyword": "Mont-Saint-Michel",
-        "hsh": "836c24f1637bbb86413a04e2045064a0",
-        "description": "Der Mont-Saint-Michel bei Flut in der Manche in der Normandie zählt zu den bekanntesten Wahrzeichen Frankreichs. Sobald das Meer ansteigt, verwandelt sich der Granitfelsen in eine Insel und wirkt wie eine Erscheinung aus einer anderen Zeit. Seine Geschichte reicht bis ins Jahr 708 zurück, als der Überlieferung nach der Erzengel Michael dem Bischof Aubert von Avranches erschien und ihn zum Bau eines Heiligtums auf dem Felsen aufforderte. Aus dieser ersten Kultstätte entwickelte sich im Laufe der Jahrhunderte ein bedeutendes religiöses Zentrum und ein viel besuchter Wallfahrtsort.",
-        "maplink": "48.637417,-1.5112"
-    },
-    {
-        "fullstartdate": "202608262200",
-        "date": "20260827",
-        "url": "https://www.bing.com/th?id=OHR.LakeMagadi_DE-DE5321228958_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LakeMagadi_DE-DE5321228958",
-        "copyright": "Zwergflamingos bei Sonnenaufgang am Magadi-See, Kenia (© Denis-Huot/Nature Picture Library)",
-        "copyrightKeyword": "Welttag der Seen",
-        "hsh": "0aad9848eb2a8e179a854bde8c8e79c9"
+        "hsh": "836c24f1637bbb86413a04e2045064a0"
     }
 ]

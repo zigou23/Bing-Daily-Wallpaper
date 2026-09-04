@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202609030700",
+        "date": "20260903",
+        "url": "https://www.bing.com/th?id=OHR.AZWilderness_EN-US4070936347_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AZWilderness_EN-US4070936347",
+        "copyright": "Coyote Buttes, Vermilion Cliffs National Monument, Arizona (© James Hager/Getty Images)",
+        "copyrightKeyword": "Wilderness Act of 1964",
+        "hsh": "293dfaa334b21acfa31c774a85f79534",
+        "description": "Waves usually belong to the ocean. In northern Arizona, they rise from the desert instead. The swirling sandstone formations of Coyote Buttes, part of Vermilion Cliffs National Monument, were shaped by ancient dunes and millions of years of erosion, creating a landscape that seems to ripple even while standing still.",
+        "maplink": "36.7783,-111.7361"
+    },
+    {
         "fullstartdate": "202609020700",
         "date": "20260902",
         "url": "https://www.bing.com/th?id=OHR.SuffolkHuts_EN-US3987062531_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LakeMagadi_EN-US3401664434",
         "copyright": "Lesser flamingo flock at sunrise, Lake Magadi, Kenya (© Denis-Huot/Nature Picture Library)",
         "copyrightKeyword": "World Lake Day",
-        "hsh": "5da81fe9acc758a9beafb035dab00d8b",
-        "description": "Imagine a world without the natural wonders that hold about 90% of Earth's surface freshwater. Lakes are among our planet's most valuable resources. They provide clean water, support wildlife, help regulate climate, and sustain communities around the globe. In recognition of their vital role, the United Nations designated August 27 as World Lake Day, first observed in 2025. The need for action is greater than ever. More than 117 million lakes cover nearly 4% of Earth's land surface, yet many face growing pressure from pollution, overuse, and climate change.",
-        "maplink": "-1.902409,36.265224"
-    },
-    {
-        "fullstartdate": "202608260700",
-        "date": "20260826",
-        "url": "https://www.bing.com/th?id=OHR.AurorasIceland_EN-US3293282785_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AurorasIceland_EN-US3293282785",
-        "copyright": "Auroras over Kirkjufell, Iceland (© Cavan Images/Alamy)",
-        "copyrightKeyword": "Aurora borealis",
-        "hsh": "806c63a18af632077729d1e3ebd7e99c"
+        "hsh": "5da81fe9acc758a9beafb035dab00d8b"
     }
 ]
