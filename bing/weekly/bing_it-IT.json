@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202609042200",
+        "date": "20260905",
+        "url": "https://www.bing.com/th?id=OHR.GreenCrowned_IT-IT8492187001_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GreenCrowned_IT-IT8492187001",
+        "copyright": "Colibrì dalla fronte verde brillante, Costa Rica (© Paul Hobson/Nature Picture Library)",
+        "copyrightKeyword": "il colibrì uccello",
+        "hsh": "b2dd7d81ca6430300ff8782dd1e9a054",
+        "description": "Il colibrì dalla fronte verde brillante (Heliodoxa jacula) vive nelle foreste umide del Costa Rica, dove il piumaggio verde smeraldo cambia tonalità a seconda di come lo colpisce la luce. Misura appena dodici o tredici centimetri e frequenta i versanti montani tra i 700 e i 2.000 metri, là dove i fiori non finiscono mai."
+    },
+    {
         "fullstartdate": "202609032200",
         "date": "20260904",
         "url": "https://www.bing.com/th?id=OHR.Westerheversand_IT-IT2705992595_1920x1080.jpg",
@@ -71,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SantaCatarina_IT-IT1605956723",
         "copyright": "Veduta aerea di surfisti a Santa Catarina, Brasile (© Wonderful Nature/Shutterstock)",
         "copyrightKeyword": "Santa Catarina Brasil",
-        "hsh": "aa6d8839c41ca6ec27ec85237486f585",
-        "description": "Al largo delle coste di Santa Catarina, nello stato meridionale del Brasile, una fila di surfisti aspetta immobile oltre la linea dove le onde si infrangono. Dall'alto sembra che non accada nulla, ma è proprio lì che inizia il vero lavoro. Ogni onda trasporta energia generata da venti che possono aver soffiato a migliaia di chilometri di distanza; dominarla richiede di leggere il mare con precisione, perché vento, correnti e la forma del fondale decidono come si romperà ogni onda.",
-        "maplink": "-27.374188,-48.654926"
-    },
-    {
-        "fullstartdate": "202608272200",
-        "date": "20260828",
-        "url": "https://www.bing.com/th?id=OHR.MichelSunset_IT-IT1503723648_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MichelSunset_IT-IT1503723648",
-        "copyright": "Le Mont-Saint-Michel, Manica, Normandia, Francia (© Clement LEONARD/Getty Images)",
-        "copyrightKeyword": "Le Mont-Saint-Michel",
-        "hsh": "7245e374f3b53573c2e132e8bf28308a"
+        "hsh": "aa6d8839c41ca6ec27ec85237486f585"
     }
 ]

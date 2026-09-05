@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202609040400",
+        "date": "20260904",
+        "url": "https://www.bing.com/th?id=OHR.Westerheversand_FR-CA7932678396_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.Westerheversand_FR-CA7932678396",
+        "copyright": "Phare de Westerheversand à Westerhever, Schleswig-Holstein, Allemagne (© bluejayphoto/Getty Images)",
+        "copyrightKeyword": "phare de Westerheversand Allemagne",
+        "hsh": "53f94a53780acca249fbc72a2da5200b",
+        "description": "Dressé au-dessus des marais salés de la côte allemande de la mer du Nord, le phare de Westerheversand attire immédiatement le regard avec ses bandes rouges et blanches. Érigé entre 1906 et 1908 sur la péninsule d’Eiderstedt, il guide depuis plus d’un siècle les navigateurs dans les eaux parfois capricieuses de la mer du Nord. Aujourd’hui encore, cette silhouette emblématique figure parmi les monuments côtiers les plus célèbres du nord de l’Allemagne. Après l’ascension de ses 157 marches, les visiteurs découvrent un vaste panorama où ciel, mer et terre semblent ne faire qu’un.",
+        "maplink": "54.373402,8.6399"
+    },
+    {
         "fullstartdate": "202609030400",
         "date": "20260903",
         "url": "https://www.bing.com/th?id=OHR.JulierPass_FR-CA8399720241_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MichelSunset_FR-CA7208916628",
         "copyright": "Le Mont-Saint-Michel à marée haute, Manche, Normandie, France (© Clement LEONARD/Getty Images)",
         "copyrightKeyword": "Le Mont-Saint-Michel",
-        "hsh": "4f3a04d4ff6a2c333ad2cef64151fbd1",
-        "description": "Au coucher du soleil, le Mont-Saint-Michel semble surgir des eaux de Normandie, en France, comme un mirage façonné par les marées. Dressée sur un îlot rocheux, cette silhouette emblématique domine l’une des baies les plus spectaculaires d’Europe. Deux fois par jour, la mer se retire sur plusieurs kilomètres, dévoilant d’immenses étendues de sable où s’aventurent oiseaux côtiers et promeneurs attentifs. Puis l’eau revient, transformant à nouveau le mont en île. Depuis des siècles, habitants, marchands et pèlerins vivent au rythme de ce mouvement incessant, voyant le paysage se métamorphoser au fil des heures dans une lumière changeante et fascinante.",
-        "maplink": "48.637417,-1.5112"
-    },
-    {
-        "fullstartdate": "202608270400",
-        "date": "20260827",
-        "url": "https://www.bing.com/th?id=OHR.LakeMagadi_FR-CA8220213797_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LakeMagadi_FR-CA8220213797",
-        "copyright": "Volée de flamants nains à l’aube, Lac Magadi, Kenya (© Denis-Huot/Nature Picture Library)",
-        "copyrightKeyword": "Journée mondiale des lacs",
-        "hsh": "30952c638b960d692bbc520402187baf"
+        "hsh": "4f3a04d4ff6a2c333ad2cef64151fbd1"
     }
 ]

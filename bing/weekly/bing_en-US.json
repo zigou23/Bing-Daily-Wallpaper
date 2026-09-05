@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202609040700",
+        "date": "20260904",
+        "url": "https://www.bing.com/th?id=OHR.Westerheversand_EN-US3028839945_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.Westerheversand_EN-US3028839945",
+        "copyright": "Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany (© bluejayphoto/Getty Images)",
+        "copyrightKeyword": "Westerheversand Lighthouse",
+        "hsh": "82b5e4f0cbd63c1909121d229f6aabcc",
+        "description": "Rising above the salt marshes along Germany's North Sea coast, the Westerheversand Lighthouse is instantly recognizable thanks to its distinctive red-and-white stripes. Built between 1906 and 1908, the lighthouse has stood as an icon on the Eiderstedt Peninsula for more than a century, guiding ships through the waters of the North Sea. Today, it remains one of northern Germany's best-known coastal landmarks. Visitors who climb its 157 steps are rewarded with sweeping views of the surrounding scenery.",
+        "maplink": "54.373402,8.6399"
+    },
+    {
         "fullstartdate": "202609030700",
         "date": "20260903",
         "url": "https://www.bing.com/th?id=OHR.AZWilderness_EN-US4070936347_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MichelSunset_EN-US3527235033",
         "copyright": "Mont-Saint-Michel during high tide, Manche, Normandy, France (© Clement LEONARD/Getty Images)",
         "copyrightKeyword": "Mont Saint Michel",
-        "hsh": "a20e6451f44459682881cd59f0b198e0",
-        "description": "At sunset, Mont-Saint Michel rises from the waters of Normandy, France, like a fortress shaped by the sea. Perched on a rocky tidal island, the abbey and village stand at the center of one of Europe's most dramatic coastal settings. Twice a day, the sea retreats to reveal vast stretches of sand before surging back to reclaim the landscape. At high tide, the mount becomes an island once again. For centuries, travelers timed their journeys to this rhythm, crossing the flats when conditions allowed and watching the sea return hours later.",
-        "maplink": "48.637417,-1.5112"
-    },
-    {
-        "fullstartdate": "202608270700",
-        "date": "20260827",
-        "url": "https://www.bing.com/th?id=OHR.LakeMagadi_EN-US3401664434_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LakeMagadi_EN-US3401664434",
-        "copyright": "Lesser flamingo flock at sunrise, Lake Magadi, Kenya (© Denis-Huot/Nature Picture Library)",
-        "copyrightKeyword": "World Lake Day",
-        "hsh": "5da81fe9acc758a9beafb035dab00d8b"
+        "hsh": "a20e6451f44459682881cd59f0b198e0"
     }
 ]

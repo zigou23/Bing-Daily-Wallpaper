@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202609042200",
+        "date": "20260905",
+        "url": "https://www.bing.com/th?id=OHR.LillePlace_FR-FR3992764620_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LillePlace_FR-FR3992764620",
+        "copyright": "La Grand’Place, Lille (© Aliaksandr Antanovich/Getty Images)",
+        "copyrightKeyword": "la Grand’ Place Lille",
+        "hsh": "5b48e8d838bff88abef86ad1411d539f",
+        "description": "Chaque année, le premier week-end de septembre, Lille se transforme en un immense théâtre à ciel ouvert. Cette année, la célèbre Braderie a lieu les 5 et 6 septembre et invite les visiteurs, les chineurs et les curieux à parcourir une cinquantaine de kilomètres d’étals au cœur de la capitale des Flandres."
+    },
+    {
         "fullstartdate": "202609032200",
         "date": "20260904",
         "url": "https://www.bing.com/th?id=OHR.Westerheversand_FR-FR6860967880_1920x1080.jpg",
@@ -70,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SantaCatarina_FR-FR8615743181",
         "copyright": "Vue aérienne de surfeurs, Santa Catarina, Brésil (© Wonderful Nature/Shutterstock)",
         "copyrightKeyword": "Brésil Santa Catarina",
-        "hsh": "09f0d1462b4f7c7988aac08fd090f19a",
-        "description": "Au large de l’État de Santa Catarina, dans le sud du Brésil, une scène familière se répète à l’infini : des surfeurs attendent derrière les vagues déferlantes, leurs planches montant et descendant au rythme de l’Atlantique. Vu du ciel, le spectacle semble presque immobile. Pourtant, c'est précisément là que tout se joue. Chaque houle transporte une énergie née de vents parfois soufflés à des centaines, voire à des milliers de kilomètres. Pour glisser sur l’eau, il faut savoir reconnaître le moment précis où cette force atteint la côte.",
-        "maplink": "-27.374188,-48.654926"
-    },
-    {
-        "fullstartdate": "202608272200",
-        "date": "20260828",
-        "url": "https://www.bing.com/th?id=OHR.MichelSunset_FR-FR8060193680_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MichelSunset_FR-FR8060193680",
-        "copyright": "Le Mont-Saint-Michel à marée haute, Manche, Normandie (© Clement LEONARD/Getty Images)",
-        "copyrightKeyword": "Le Mont-Saint-Michel",
-        "hsh": "76613bc304b535e6d7c932cc1122e118"
+        "hsh": "09f0d1462b4f7c7988aac08fd090f19a"
     }
 ]
