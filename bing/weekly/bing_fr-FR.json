@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202609052200",
+        "date": "20260906",
+        "url": "https://www.bing.com/th?id=OHR.LakeFyans_FR-FR2873606415_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LakeFyans_FR-FR2873606415",
+        "copyright": "Lac Fyans, Parc national des Grampians, Victoria, Australie (© tracielouise/Getty Images)",
+        "copyrightKeyword": "parc national des Grampians Australie",
+        "hsh": "d6a33055e282b68cbf38e7d4c34ef9cc",
+        "description": "À première vue, l’image évoque davantage une forêt engloutie qu’un lac. Des troncs dénudés émergent de l’eau immobile, tandis que leurs reflets allongés dessinent des lignes mouvantes sous la lumière. Nous sommes au lac Fyans, un réservoir artificiel situé aux portes du parc national des Grampians, également connu sous le nom traditionnel de Gariwerd, dans l’État australien du Victoria. Très apprécié des plaisanciers, pêcheurs, véliplanchistes et amateurs de sports nautiques, ce vaste plan d’eau offre un remarquable point d’observation sur un paysage où la nature paraît se renouveler sans cesse.",
+        "maplink": "-37.1431,142.6352"
+    },
+    {
         "fullstartdate": "202609042200",
         "date": "20260905",
         "url": "https://www.bing.com/th?id=OHR.LillePlace_FR-FR3992764620_1920x1080.jpg",
@@ -70,16 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.YellowShark_FR-FR9208937852",
         "copyright": "Requin-baleine et carangues royales, Golfe de Cenderawasih, Papouasie occidentale, Indonésie (© Pete Oxford/Nature Picture Library)",
         "copyrightKeyword": "requin-baleine",
-        "hsh": "4473363d3f9063865954a6d13a6686fa",
-        "description": "Le 30 août, la Journée internationale du requin-baleine met à l’honneur un géant paisible des océans. Malgré son nom, il ne s’agit pas d’une baleine, mais du plus grand poisson vivant sur Terre. Pouvant atteindre près de 18 mètres de long et peser jusqu’à 18 tonnes, il fréquente les eaux tropicales et subtropicales chaudes. La bouche grande ouverte, il filtre l’eau pour capturer du plancton, des œufs de poissons et d’autres organismes minuscules. Chaque individu porte une constellation de taches blanches unique, comparable à une empreinte digitale."
-    },
-    {
-        "fullstartdate": "202608282200",
-        "date": "20260829",
-        "url": "https://www.bing.com/th?id=OHR.SantaCatarina_FR-FR8615743181_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SantaCatarina_FR-FR8615743181",
-        "copyright": "Vue aérienne de surfeurs, Santa Catarina, Brésil (© Wonderful Nature/Shutterstock)",
-        "copyrightKeyword": "Brésil Santa Catarina",
-        "hsh": "09f0d1462b4f7c7988aac08fd090f19a"
+        "hsh": "4473363d3f9063865954a6d13a6686fa"
     }
 ]
