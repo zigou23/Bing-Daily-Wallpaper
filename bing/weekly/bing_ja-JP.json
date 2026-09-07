@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202609061500",
+        "date": "20260907",
+        "url": "https://www.bing.com/th?id=OHR.BambergTownhall_JA-JP4474746509_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BambergTownhall_JA-JP4474746509",
+        "copyright": "バンベルク市街, ドイツ (© SCStock/Getty Images)",
+        "copyrightKeyword": "バンベルク市街",
+        "hsh": "834518acfb24984d216d60f470b01371",
+        "description": "ここは、ドイツ・バイエルン州バンベルクの旧市街です。画像の中心にある旧市庁舎は、街を象徴するランドマークとして知られており、ゴシック様式とバロック様式が調和した美しい建物と石橋が、印象的な景観をつくり出しています。伝承によると、司教が市庁舎を建てるための土地を与えなかったため、市民がレーグニッツ川に人工島を築き、その上に建設したとされています。この建物を含む旧市街は、中世の街並みをよく残す歴史都市として評価され、1993 年に世界遺産に登録されました。",
+        "maplink": "49.894218,10.885527"
+    },
+    {
         "fullstartdate": "202609051500",
         "date": "20260906",
         "url": "https://www.bing.com/th?id=OHR.LakeFyans_JA-JP2778092364_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SamarkandCeiling_JA-JP0717876578",
         "copyright": "レギスタン広場のマドラサ, ウズベキスタン (© Piero M. Bianchi/Getty Images)",
         "copyrightKeyword": "レギスタン広場のマドラサ",
-        "hsh": "64bf4e518df0cb18c4ec91f82dbcc0a6",
-        "description": "レギスタン広場は、ウズベキスタンの古代都市サマルカンドの中心に位置する歴史的な広場です。 3 つのマドラサ（イスラムの神学校）に囲まれ、それぞれに独自の装飾が施されています。今日の画像は、マドラサ内部の天井に施された芸術的な装飾の一端です。釉薬を施したタイル、幾何学模様、花柄、そして美しく装飾された文字（カリグラフィー）が、驚くほどの精緻さで調和しています。こうした建築群を含むサマルカンドの歴史地区は、2001 年に世界遺産に登録されました。",
-        "maplink": "39.654785,66.975616"
-    },
-    {
-        "fullstartdate": "202608291500",
-        "date": "20260830",
-        "url": "https://www.bing.com/th?id=OHR.YellowShark_JA-JP0572284773_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.YellowShark_JA-JP0572284773",
-        "copyright": "ジンベエザメ, インドネシア (© Pete Oxford/Nature Picture Library)",
-        "copyrightKeyword": "国際ジンベエザメの日",
-        "hsh": "31adb964887dd76849baf80c0a41eaab"
+        "hsh": "64bf4e518df0cb18c4ec91f82dbcc0a6"
     }
 ]

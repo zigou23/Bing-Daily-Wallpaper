@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202609060700",
+        "date": "20260906",
+        "url": "https://www.bing.com/th?id=OHR.LakeFyans_EN-US4295341714_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LakeFyans_EN-US4295341714",
+        "copyright": "Lake Fyans, Grampians National Park, Victoria, Australia (© tracielouise/Getty Images)",
+        "copyrightKeyword": "Grampians National Park Victoria",
+        "hsh": "49af7c689abbeb51ed46af5d668461a4",
+        "description": "At first glance, today's image looks more like a drowned woodland than a lake. Bare tree trunks emerge from the water, their reflections stretching across the surface as the Grampians glow in the distance. This is Lake Fyans, an artificial reservoir on the edge of the Grampians (Gariwerd) National Park in Victoria, Australia. Popular with boaters, anglers, sailors, and water-skiers, it offers a front-row seat to one of the country's most striking landscapes.",
+        "maplink": "-37.1431,142.6352"
+    },
+    {
         "fullstartdate": "202609050700",
         "date": "20260905",
         "url": "https://www.bing.com/th?id=OHR.GreenCrowned_EN-US3119017947_1920x1080.jpg",
@@ -70,16 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.YellowShark_EN-US3678567058",
         "copyright": "Whale shark and golden trevally, Cenderawasih Bay, West Papua, Indonesia (© Pete Oxford/Nature Picture Library)",
         "copyrightKeyword": "whale shark",
-        "hsh": "1e986811b9c57d4d7eb44b49f52012dc",
-        "description": "Today, International Whale Shark Day makes room for the world's largest fish. Despite their name, whale sharks are not whales but fish, reaching lengths of up to 60 feet and weighing around 20 tons. Found in warm tropical seas, they glide through the water with their mouths open, filtering plankton, fish eggs, and other tiny prey. This species' distinctive white-spot patterns are unique to each individual, much like human fingerprints."
-    },
-    {
-        "fullstartdate": "202608290700",
-        "date": "20260829",
-        "url": "https://www.bing.com/th?id=OHR.SantaCatarina_EN-US3600536393_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SantaCatarina_EN-US3600536393",
-        "copyright": "Aerial view of surfers, Santa Catarina, Brazil (© Wonderful Nature/Shutterstock)",
-        "copyrightKeyword": "Brazil Santa Catarina",
-        "hsh": "c813e0fa454fb807b791501b8929aa43"
+        "hsh": "1e986811b9c57d4d7eb44b49f52012dc"
     }
 ]
