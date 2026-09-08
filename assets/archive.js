@@ -812,7 +812,10 @@ function renderGallery() {
         const year = item.date.substring(0, 4);
         const title = item.copyrightKeyword || item.copyright?.split('(')[0]?.trim() || 'Bing Wallpaper';
 
-        const yearBadge = `<span class="archive-year-badge">${year}</span>`;
+        const currentYear = String(dataIndex.currentYear);
+        const yearBadge = year === currentYear
+            ? ''
+            : `<span class="archive-year-badge">${year}</span>`;
 
         card.innerHTML = `
       ${yearBadge}
