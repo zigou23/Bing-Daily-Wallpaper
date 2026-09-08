@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202609072300",
+        "date": "20260908",
+        "url": "https://www.bing.com/th?id=OHR.BeechEngland_EN-GB6264734535_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BeechEngland_EN-GB6264734535",
+        "copyright": "Beech tree in a cereal field, East Meon, South Downs National Park, Hampshire, England (© Guy Edwardes/Minden Pictures)",
+        "copyrightKeyword": "Hampshire England",
+        "hsh": "d13a3fc9816cde1bf020a6337df40063",
+        "description": "A beech tree stands alone amid golden fields near East Meon in Hampshire, providing a striking focal point in the rolling landscape of England's South Downs National Park. Agriculture has shaped these chalk hills for centuries, and farming remains an important part of the region today. The area's free-draining chalk soils support extensive arable farming, with wheat and barley among the most common crops. Throughout the summer, these crops ripen in the fields before harvest transforms the countryside into a patchwork of gold and stubble.",
+        "maplink": "50.994476,-1.03351"
+    },
+    {
         "fullstartdate": "202609062300",
         "date": "20260907",
         "url": "https://www.bing.com/th?id=OHR.BambergTownhall_EN-GB6012686407_1920x1080.jpg",
@@ -71,16 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.HorseHairShroom_EN-GB2103309829",
         "copyright": "Horsehair parachute fungus, Belarus (© Máté/Nature Picture Library)",
         "copyrightKeyword": "Horsehair parachute fungus",
-        "hsh": "98d2e538f7e5e743d280439f1a0c4baf",
-        "description": "Tiny mushrooms often go unnoticed, but the horsehair parachute fungus deserves a closer look. With a stem as thin as a strand of horsehair and a pleated cap measuring just 0.5 to 1 centimetre across, this miniature mushroom proves that good things really do come in small packages."
-    },
-    {
-        "fullstartdate": "202608302300",
-        "date": "20260831",
-        "url": "https://www.bing.com/th?id=OHR.SamarkandCeiling_EN-GB2027090405_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SamarkandCeiling_EN-GB2027090405",
-        "copyright": "Building detail of Registan Square, Samarkand, Uzbekistan (© Piero M. Bianchi/Getty Images)",
-        "copyrightKeyword": "Samarkand",
-        "hsh": "93e0ec0ea947ba389c8e34a2c2d39db0"
+        "hsh": "98d2e538f7e5e743d280439f1a0c4baf"
     }
 ]
