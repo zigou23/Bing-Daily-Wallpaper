@@ -17,7 +17,6 @@
     <script>(function () {
             var prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
             var hour = new Date().getHours();
-            // System dark preference → dark; otherwise time-based (8AM-8PM → light)
             if (!prefersDark && hour >= 8 && hour < 20) {
                 document.body.classList.add('light-mode');
             }
@@ -33,7 +32,7 @@
         <header class="header">
             <div class="header-top">
                 <div class="brand" onclick="window.location.href = window.location.pathname">
-                    <i class="fa-solid fa-image"></i>
+                    <i class="fa-solid fa-images"></i>
                     Bing Gallery
                 </div>
                 <div class="header-controls" id="header-controls">
@@ -62,11 +61,11 @@
                     <div class="nav-dropdown" id="nav-dropdown">
                         <div class="mobile-controls" id="mobile-controls"></div>
                         <div class="nav-divider mobile-divider"></div>
-                        <a href="archive.html">
-                            <i class="fa-solid fa-clock-rotate-left"></i> Archive Gallery
+                        <a href="latest.html">
+                            <i class="fa-solid fa-images"></i> Latest Gallery
                         </a>
                         <a href="old.html">
-                            <i class="fa-solid fa-images"></i> Old Gallery
+                            <i class="fa-solid fa-box-archive"></i> Old Gallery
                         </a>
                         <div class="nav-divider"></div>
                         <a href="https://github.com/zigou23/Bing-Daily-Wallpaper" target="_blank">
@@ -135,7 +134,7 @@
             </div>
         </div>
     </div>
-    <script src="assets/script.js"></script>
+    <script src="assets/archive.js"></script>
 </body>
 
 </html>

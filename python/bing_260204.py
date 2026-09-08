@@ -433,7 +433,7 @@ cleanup_previous_year_data()
 def generate_data_index():
     """
     扫描 bing/ 下所有年份目录，统计每个区域的 JSON 文件记录数，
-    生成 data_index.json 供 archive.html 使用。
+    生成 data_index.json 供 index.html 使用。
     """
     print("\n========== Generating data_index.json ==========")
     base_dir = './bing'
