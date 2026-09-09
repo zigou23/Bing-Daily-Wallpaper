@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202609080400",
+        "date": "20260908",
+        "url": "https://www.bing.com/th?id=OHR.BeechEngland_EN-CA5827828853_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BeechEngland_EN-CA5827828853",
+        "copyright": "Beech tree in a cereal field, East Meon, South Downs National Park, Hampshire, England (© Guy Edwardes/Minden Pictures)",
+        "copyrightKeyword": "Hampshire England",
+        "hsh": "f9b040636635c67bc9200742cb7906a0",
+        "description": "A beech tree stands alone amid golden fields near East Meon in Hampshire, providing a striking focal point in the rolling landscape of England's South Downs National Park. Agriculture has shaped these chalk hills for centuries, and farming remains an important part of the region today. The area's free-draining chalk soils support extensive arable farming, with wheat and barley among the most common crops. Throughout the summer, these crops ripen in the fields before harvest transforms the countryside into a patchwork of gold and stubble.",
+        "maplink": "50.994476,-1.03351"
+    },
+    {
         "fullstartdate": "202609070400",
         "date": "20260907",
         "url": "https://www.bing.com/th?id=OHR.BambergTownhall_EN-CA5322517448_1920x1080.jpg",
@@ -71,16 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.HorseHairShroom_EN-CA6859526783",
         "copyright": "Horsehair parachute fungus, Belarus (© Máté/Nature Picture Library)",
         "copyrightKeyword": "Fungus",
-        "hsh": "a9202e6cfd24f92cac9cc0b5215189e3",
-        "description": "Fungi often go unnoticed beneath forest floors, lawns and fallen leaves, yet their underground threads help recycle nutrients and support healthy ecosystems. The mushrooms we see are only the fruiting bodies of much larger organisms. They appear briefly, release spores, then disappear from sight. Unlike plants, fungi belong to a kingdom of their own. Some species even glow, while others form partnerships with trees."
-    },
-    {
-        "fullstartdate": "202608310400",
-        "date": "20260831",
-        "url": "https://www.bing.com/th?id=OHR.SamarkandCeiling_EN-CA1921310723_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SamarkandCeiling_EN-CA1921310723",
-        "copyright": "Building detail of Registan Square, Samarkand, Uzbekistan (© Piero M. Bianchi/Getty Images)",
-        "copyrightKeyword": "Samarkand",
-        "hsh": "ea71a1a1ae22a3270255c701b43968e8"
+        "hsh": "a9202e6cfd24f92cac9cc0b5215189e3"
     }
 ]
