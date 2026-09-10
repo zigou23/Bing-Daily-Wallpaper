@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202609092200",
+        "date": "20260910",
+        "url": "https://www.bing.com/th?id=OHR.Olvera_DE-DE7810722479_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.Olvera_DE-DE7810722479",
+        "copyright": "Luftaufnahme von Olvera, Andalusien, Spanien (© Marco Bottigelli/Getty Images)",
+        "copyrightKeyword": "Olvera Informationen",
+        "hsh": "2c2fa7aa17643be5c9660bc1a1250180",
+        "description": "Von oben betrachtet wirkt Olvera in Spanien wie ein dichtes Mosaik aus Dächern, Gassen und Plätzen, das sich über einen Höhenzug in Andalusien erstreckt. Die eng beieinanderliegenden Gebäude formen ein markantes Muster aus Linien, Farben sowie Licht und Schatten, das aus der Luft besonders deutlich sichtbar wird. Die erhöhte Lage der Stadt ermöglicht weite Ausblicke auf die umliegende Landschaft und macht Olvera zu einem auffälligen Blickfang in der Provinz Cádiz.",
+        "maplink": "36.935253,-5.267688"
+    },
+    {
         "fullstartdate": "202609082200",
         "date": "20260909",
         "url": "https://www.bing.com/th?id=OHR.GabitKeni_DE-DE7644159107_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.FrankfurtRomerberg_DE-DE6749197183",
         "copyright": "Römerberg, historischer Altstadtplatz in Frankfurt am Main (© f11photo/Getty Images)",
         "copyrightKeyword": "Römerberg",
-        "hsh": "124ba9adf4cf43081f38439180427b72",
-        "description": "Der Römerberg im Herzen von Frankfurt am Main zählt zu den bekanntesten Plätzen Deutschlands. Seit Jahrhunderten bildet er das historische Zentrum der Stadt und dient bis heute als Kulisse für Märkte, Feste und öffentliche Veranstaltungen. Trotz der modernen Skyline, für die Frankfurt heute berühmt ist, erinnert dieser Platz an eine Zeit, in der Handel, Handwerk und Bürgersinn das Leben prägten. Besonders die rekonstruierten Fachwerkhäuser entlang der Ostzeile verleihen dem Römerberg sein unverwechselbares Erscheinungsbild und schlagen eine Brücke zwischen Vergangenheit und Gegenwart.",
-        "maplink": "50.110294,8.682143"
-    },
-    {
-        "fullstartdate": "202609012200",
-        "date": "20260902",
-        "url": "https://www.bing.com/th?id=OHR.SuffolkHuts_DE-DE8043107896_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SuffolkHuts_DE-DE8043107896",
-        "copyright": "Traditionelle Strandhütten, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images)",
-        "copyrightKeyword": "Southwold Informationen",
-        "hsh": "87ee4fc2eaedbc1af27a5824133a640d"
+        "hsh": "124ba9adf4cf43081f38439180427b72"
     }
 ]
