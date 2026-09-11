@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202609101830",
+        "date": "20260911",
+        "url": "https://www.bing.com/th?id=OHR.FrenchRivieraVillage_EN-IN6145300439_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FrenchRivieraVillage_EN-IN6145300439",
+        "copyright": "The bay of Villefranche-sur-Mer, Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France (© StockByM/Getty Images)",
+        "copyrightKeyword": "Villefranche-sur-Mer",
+        "hsh": "3c0ba5f25b07ecafb849dd653e5921df",
+        "description": "In September, the French Riviera is bathed in softer light, and the Mediterranean vegetation begins to regain its vibrancy. Along the coast, rosemary, wild thyme and Aleppo pine scent the air, while sailboats drift across the sheltered waters of Villefranche-sur-Mer.",
+        "maplink": "43.703599,7.312096"
+    },
+    {
         "fullstartdate": "202609091830",
         "date": "20260910",
         "url": "https://www.bing.com/th?id=OHR.Olvera_EN-IN7126654941_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.Westerheversand_EN-IN6508979486",
         "copyright": "Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany (© bluejayphoto/Getty Images)",
         "copyrightKeyword": "Westerheversand Lighthouse",
-        "hsh": "c1520592942e5717f915921d1595100c",
-        "description": "Rising above the salt marshes along Germany's North Sea coast, Westerheversand Lighthouse is instantly recognisable for its distinctive red-and-white stripes. Built between 1906 and 1908 on 127 heavy wooden piles driven into the sand, the 40-metre cast-iron tower has stood on the Eiderstedt Peninsula for more than a century, guiding ships through the North Sea. Two identical white keeper's cottages flank the beacon, adding to its storybook appearance.",
-        "maplink": "54.373402,8.6399"
-    },
-    {
-        "fullstartdate": "202609021830",
-        "date": "20260903",
-        "url": "https://www.bing.com/th?id=OHR.AZWilderness_EN-IN0610933686_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AZWilderness_EN-IN0610933686",
-        "copyright": "Coyote Buttes, Vermilion Cliffs National Monument, Arizona, United States (© James Hager/Getty Images)",
-        "copyrightKeyword": "Wilderness Act of 1964",
-        "hsh": "7b5150dc273f5bfc1ac2ef0c9787d968"
+        "hsh": "c1520592942e5717f915921d1595100c"
     }
 ]

@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202609102200",
+        "date": "20260911",
+        "url": "https://www.bing.com/th?id=OHR.FrenchRivieraVillage_DE-DE6596669127_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FrenchRivieraVillage_DE-DE6596669127",
+        "copyright": "Villefranche-sur-Mer, Alpes-Maritimes, Côte d’Azur, Frankreich (© StockByM/Getty Images)",
+        "copyrightKeyword": "Villefranche-sur-Mer",
+        "hsh": "9da5b4d732f39d32e86f2d70946df0c6",
+        "description": "Im September zeigt sich die Côte d’Azur von ihrer ruhigeren Seite. Das Licht wirkt weicher, die Sommerhitze lässt nach, und die mediterrane Vegetation gewinnt neue Frische. Zwischen Pinien, Rosmarin und wildem Thymian entfaltet sich eine Landschaft, die seit Jahrhunderten vom Meer geprägt wird. In den Hügeln der Alpes Maritimes erinnern alte Olivenhaine und verstreute Dörfer an die lange Geschichte der Region, die von verschiedenen Kulturen und Traditionen beeinflusst wurde.",
+        "maplink": "43.703599,7.312096"
+    },
+    {
         "fullstartdate": "202609092200",
         "date": "20260910",
         "url": "https://www.bing.com/th?id=OHR.Olvera_DE-DE7810722479_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.HorizontHerten_DE-DE6847367698",
         "copyright": "Horizontobservatorium, Halde Hoheward, Herten, Nordrhein-Westfalen (© lilly3/Getty Images)",
         "copyrightKeyword": "Horizontobservatorium Halde Hoheward",
-        "hsh": "494b70ed4cfb0c0d95e3712992dc48d0",
-        "description": "Hoch über dem Ruhrgebiet erhebt sich auf der Halde Hoheward das Horizontobservatorium, eines der ungewöhnlichsten Wahrzeichen des Strukturwandels in Nordrhein-Westfalen. Die gewaltigen Stahlbögen, die das Gipfelplateau überspannen, wirken wie ein modernes Kunstwerk unter freiem Himmel. Tatsächlich dient die Anlage jedoch nicht nur als Blickfang: Sie wurde als astronomisches Bauwerk entworfen, das die Bewegungen der Sonne und die Wechsel der Jahreszeiten veranschaulicht und Besucher ins Staunen versetzt.",
-        "maplink": "51.569478,7.168036"
-    },
-    {
-        "fullstartdate": "202609022200",
-        "date": "20260903",
-        "url": "https://www.bing.com/th?id=OHR.FrankfurtRomerberg_DE-DE6749197183_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FrankfurtRomerberg_DE-DE6749197183",
-        "copyright": "Römerberg, historischer Altstadtplatz in Frankfurt am Main (© f11photo/Getty Images)",
-        "copyrightKeyword": "Römerberg",
-        "hsh": "124ba9adf4cf43081f38439180427b72"
+        "hsh": "494b70ed4cfb0c0d95e3712992dc48d0"
     }
 ]
