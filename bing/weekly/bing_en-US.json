@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202609110700",
+        "date": "20260911",
+        "url": "https://www.bing.com/th?id=OHR.Flight93_EN-US5966783443_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.Flight93_EN-US5966783443",
+        "copyright": "The Flight 93 National Memorial Visitor Center near Shanksville, Pennsylvania (© Maurice Savage/Alamy)",
+        "copyrightKeyword": "9 11 anniversary 2026",
+        "hsh": "aa25f0f42f2e083076da347987f2b700",
+        "description": "Some journeys never reach their destination yet change the course of history. The Flight 93 National Memorial Visitor Center near Shanksville, Pennsylvania, tells the story of one such flight. It honors the 40 passengers and crew members whose actions on September 11, 2001, became a defining moment of courage.",
+        "maplink": "40.05674,-78.905896"
+    },
+    {
         "fullstartdate": "202609100700",
         "date": "20260910",
         "url": "https://www.bing.com/th?id=OHR.Olvera_EN-US4712443253_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.Westerheversand_EN-US3028839945",
         "copyright": "Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany (© bluejayphoto/Getty Images)",
         "copyrightKeyword": "Westerheversand Lighthouse",
-        "hsh": "82b5e4f0cbd63c1909121d229f6aabcc",
-        "description": "Rising above the salt marshes along Germany's North Sea coast, the Westerheversand Lighthouse is instantly recognizable thanks to its distinctive red-and-white stripes. Built between 1906 and 1908, the lighthouse has stood as an icon on the Eiderstedt Peninsula for more than a century, guiding ships through the waters of the North Sea. Today, it remains one of northern Germany's best-known coastal landmarks. Visitors who climb its 157 steps are rewarded with sweeping views of the surrounding scenery.",
-        "maplink": "54.373402,8.6399"
-    },
-    {
-        "fullstartdate": "202609030700",
-        "date": "20260903",
-        "url": "https://www.bing.com/th?id=OHR.AZWilderness_EN-US4070936347_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AZWilderness_EN-US4070936347",
-        "copyright": "Coyote Buttes, Vermilion Cliffs National Monument, Arizona (© James Hager/Getty Images)",
-        "copyrightKeyword": "Wilderness Act of 1964",
-        "hsh": "293dfaa334b21acfa31c774a85f79534"
+        "hsh": "82b5e4f0cbd63c1909121d229f6aabcc"
     }
 ]
