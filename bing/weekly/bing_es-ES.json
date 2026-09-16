@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202609152200",
+        "date": "20260916",
+        "url": "https://www.bing.com/th?id=OHR.IcyCubs_ES-ES0423960114_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.IcyCubs_ES-ES0423960114",
+        "copyright": "Cachorros de oso polar jugando en Svalbard, Noruega (© Danny Green/Nature Picture Library)",
+        "copyrightKeyword": "Oso polar",
+        "hsh": "fe99f05b54289a3b2b48c95ef0b46887",
+        "description": "Dos cachorros de oso polar cruzan la nieve en Svalbard, el archipiélago noruego de glaciares y fiordos helados donde el Ártico se muestra sin adornos. Nacieron en una madriguera excavada en la nieve, ciegos y con poco más de medio kilo de peso, y no salieron al exterior hasta la primavera.",
+        "maplink": "78.719849,20.349333"
+    },
+    {
         "fullstartdate": "202609142200",
         "date": "20260915",
         "url": "https://www.bing.com/th?id=OHR.RedMacawsFlight_ES-ES0325042957_1920x1080.jpg",
@@ -68,17 +79,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.GabitKeni_ES-ES9410799048",
         "copyright": "Playa Gabit Keni cerca de Ankola, Karnataka, India (© Amith Nag Photography/Getty Images)",
         "copyrightKeyword": "Ankola en India",
-        "hsh": "281d9051eb1615fbaf58d13ac20c16c2",
-        "description": "La playa de Gabit Keni, junto a Ankola, en el estado indio de Karnataka, es una de esas paradas discretas del mar de Arabia donde la vida sigue el ritmo de las barcas: salen antes del amanecer y regresan con la captura del día. El arenal debe su nombre a los gabit, comunidad pesquera de la costa de Konkan.",
-        "maplink": "14.662778,74.278056"
-    },
-    {
-        "fullstartdate": "202609072200",
-        "date": "20260908",
-        "url": "https://www.bing.com/th?id=OHR.ExtremaduraCaceres_ES-ES8424838072_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ExtremaduraCaceres_ES-ES8424838072",
-        "copyright": "Real Monasterio de Nuestra Señora de Guadalupe, Cáceres, Extremadura, España (© Armando Oliveira/Getty Images)",
-        "copyrightKeyword": "Día de Extremadura",
-        "hsh": "03bfa0c9e03bce69166bd17a47fd1f95"
+        "hsh": "281d9051eb1615fbaf58d13ac20c16c2"
     }
 ]
