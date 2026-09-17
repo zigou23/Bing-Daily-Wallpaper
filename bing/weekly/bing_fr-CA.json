@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202609160400",
+        "date": "20260916",
+        "url": "https://www.bing.com/th?id=OHR.IcyCubs_FR-CA3759770931_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.IcyCubs_FR-CA3759770931",
+        "copyright": "Oursons polaires à Svalbard, Norvège (© Danny Green/Nature Picture Library)",
+        "copyrightKeyword": "ours polaire",
+        "hsh": "e757d589c78ef876534ba4d38f49f2f2",
+        "description": "Deux oursons polaires avancent avec précaution sur la neige du Svalbard, un archipel norvégien isolé au cœur de l’océan Arctique. Entre glaciers majestueux, sommets escarpés et fjords pris dans la glace, ce territoire appartient à la région de la mer de Barents, qui abrite l’une des populations d’ours polaires les plus importantes au monde, avec environ 2 600 individus. Dans ce décor silencieux, chaque pas raconte une histoire de survie.",
+        "maplink": "78.719849,20.349333"
+    },
+    {
         "fullstartdate": "202609150400",
         "date": "20260915",
         "url": "https://www.bing.com/th?id=OHR.RedMacawsFlight_FR-CA8949552310_1920x1080.jpg",
@@ -69,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.GabitKeni_FR-CA6967891600",
         "copyright": "Plage de Gabit Keni près d’Ankola, Karnataka, Inde (© Amith Nag Photography/Getty Images)",
         "copyrightKeyword": "Karnataka Inde",
-        "hsh": "b6127fd0155dbf429d39d47865a0075b",
-        "description": "Quand on évoque le sud de l’Inde, viennent souvent à l’esprit les anciennes routes des épices, les mélodies de la musique carnatique et les rivages qui ont relié le sous-continent au monde pendant des siècles. En suivant la côte occidentale du Karnataka jusqu’aux environs d’Ankola, un lieu attire les voyageurs en quête d’authenticité : la plage de Gabit Keni. Ici, le rythme de la vie est dicté par la mer d’Arabie. Avant l’aube, les bateaux de pêche quittent le rivage, perpétuant un savoir-faire profondément enraciné dans le paysage côtier.",
-        "maplink": "14.662778,74.278056"
-    },
-    {
-        "fullstartdate": "202609080400",
-        "date": "20260908",
-        "url": "https://www.bing.com/th?id=OHR.BeechEngland_FR-CA6408073757_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BeechEngland_FR-CA6408073757",
-        "copyright": "Hêtre au milieu de champs de céréales, East Meon, Parc national des South Downs, Hampshire, Angleterre (© Guy Edwardes/Minden Pictures)",
-        "copyrightKeyword": "Hampshire Angleterre",
-        "hsh": "f4d3bd6e4472ac266c2bb7edd3e2e951"
+        "hsh": "b6127fd0155dbf429d39d47865a0075b"
     }
 ]

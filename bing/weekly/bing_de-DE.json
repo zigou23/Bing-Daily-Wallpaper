@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202609162200",
+        "date": "20260917",
+        "url": "https://www.bing.com/th?id=OHR.Santenay_DE-DE7807006506_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.Santenay_DE-DE7807006506",
+        "copyright": "Windmühle von Sorine und Weinberge in der Weinregion Santenay, Côte de Beaune, Burgund, Frankreich (© Marco Bottigelli/Getty Images)",
+        "copyrightKeyword": "Santenay Weinregion",
+        "hsh": "cedbdb6b125e91ae72eff2d34ce40a55",
+        "description": "Zwischen den sanften Hügeln der Côte de Beaune in Frankreich erhebt sich die Windmühle von Sorine über den Weinbergen der Weinregion Santenay. Die Landschaft im Süden Burgunds wird von sorgfältig gepflegten Rebreihen geprägt, die sich über die Hänge erstrecken und je nach Jahreszeit in unterschiedlichen Farben leuchten. Von hier aus öffnen sich weite Blicke über eine Kulturlandschaft, die seit Jahrhunderten eng mit dem Weinbau verbunden ist.",
+        "maplink": "46.913044,4.696484"
+    },
+    {
         "fullstartdate": "202609152200",
         "date": "20260916",
         "url": "https://www.bing.com/th?id=OHR.IcyCubs_DE-DE7622238275_1920x1080.jpg",
@@ -69,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.Olvera_DE-DE7810722479",
         "copyright": "Luftaufnahme von Olvera, Andalusien, Spanien (© Marco Bottigelli/Getty Images)",
         "copyrightKeyword": "Olvera Informationen",
-        "hsh": "2c2fa7aa17643be5c9660bc1a1250180",
-        "description": "Von oben betrachtet wirkt Olvera in Spanien wie ein dichtes Mosaik aus Dächern, Gassen und Plätzen, das sich über einen Höhenzug in Andalusien erstreckt. Die eng beieinanderliegenden Gebäude formen ein markantes Muster aus Linien, Farben sowie Licht und Schatten, das aus der Luft besonders deutlich sichtbar wird. Die erhöhte Lage der Stadt ermöglicht weite Ausblicke auf die umliegende Landschaft und macht Olvera zu einem auffälligen Blickfang in der Provinz Cádiz.",
-        "maplink": "36.935253,-5.267688"
-    },
-    {
-        "fullstartdate": "202609082200",
-        "date": "20260909",
-        "url": "https://www.bing.com/th?id=OHR.GabitKeni_DE-DE7644159107_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.GabitKeni_DE-DE7644159107",
-        "copyright": "Gabit-Keni-Strand bei Ankola, Karnataka, Indien (© Amith Nag Photography/Getty Images)",
-        "copyrightKeyword": "Karnataka Indien Informationen",
-        "hsh": "55c835e445da721f60f0e4b1c8fe8118"
+        "hsh": "2c2fa7aa17643be5c9660bc1a1250180"
     }
 ]
