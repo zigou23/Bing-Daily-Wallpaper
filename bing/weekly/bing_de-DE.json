@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202609172200",
+        "date": "20260918",
+        "url": "https://www.bing.com/th?id=OHR.WinnatsPassPeak_DE-DE1067601127_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WinnatsPassPeak_DE-DE1067601127",
+        "copyright": "Winnats Pass im Peak-District-Nationalpark, England (© Daniel_Kay/Getty Images)",
+        "copyrightKeyword": "Peak-District-Nationalpark England",
+        "hsh": "8d24370f0a3e75f8ecf3475fb4298066",
+        "description": "Im Peak-District-Nationalpark in England schlängelt sich die Straße durch den Winnats Pass, eine eindrucksvolle Kalksteinschlucht nahe dem Dorf Castleton. Steile Felswände ragen zu beiden Seiten empor und prägen eine Landschaft, die über Millionen von Jahren durch natürliche Prozesse geformt wurde. Wer den Pass durchquert, fährt mitten durch eine Kulisse, die von der langen geologischen Geschichte der Region erzählt. Besonders eindrucksvoll wirkt der Ort bei wechselhaftem Wetter, wenn Licht und Schatten über die hellen Felsen wandern.",
+        "maplink": "53.339626,-1.798998"
+    },
+    {
         "fullstartdate": "202609162200",
         "date": "20260917",
         "url": "https://www.bing.com/th?id=OHR.Santenay_DE-DE7807006506_1920x1080.jpg",
@@ -69,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.FrenchRivieraVillage_DE-DE6596669127",
         "copyright": "Villefranche-sur-Mer, Alpes-Maritimes, Côte d’Azur, Frankreich (© StockByM/Getty Images)",
         "copyrightKeyword": "Villefranche-sur-Mer",
-        "hsh": "9da5b4d732f39d32e86f2d70946df0c6",
-        "description": "Im September zeigt sich die Côte d’Azur von ihrer ruhigeren Seite. Das Licht wirkt weicher, die Sommerhitze lässt nach, und die mediterrane Vegetation gewinnt neue Frische. Zwischen Pinien, Rosmarin und wildem Thymian entfaltet sich eine Landschaft, die seit Jahrhunderten vom Meer geprägt wird. In den Hügeln der Alpes Maritimes erinnern alte Olivenhaine und verstreute Dörfer an die lange Geschichte der Region, die von verschiedenen Kulturen und Traditionen beeinflusst wurde.",
-        "maplink": "43.703599,7.312096"
-    },
-    {
-        "fullstartdate": "202609092200",
-        "date": "20260910",
-        "url": "https://www.bing.com/th?id=OHR.Olvera_DE-DE7810722479_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.Olvera_DE-DE7810722479",
-        "copyright": "Luftaufnahme von Olvera, Andalusien, Spanien (© Marco Bottigelli/Getty Images)",
-        "copyrightKeyword": "Olvera Informationen",
-        "hsh": "2c2fa7aa17643be5c9660bc1a1250180"
+        "hsh": "9da5b4d732f39d32e86f2d70946df0c6"
     }
 ]
