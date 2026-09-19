@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202609182200",
+        "date": "20260919",
+        "url": "https://www.bing.com/th?id=OHR.OktoberfestMunich_DE-DE1236844623_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.OktoberfestMunich_DE-DE1236844623",
+        "copyright": "Oktoberfest München, Bayern (© FooTToo/Getty Images)",
+        "copyrightKeyword": "Oktoberfest",
+        "hsh": "a73ebecc2c9034130ef5e0a4461d0f09",
+        "description": "Mit dem traditionellen Ruf „O’zapft is!“ beginnt heute in München das 191. Oktoberfest. Bevor sich die Festzelte füllen, richtet sich der Blick auf einen Moment, der jedes Jahr mit Spannung erwartet wird: den Anstich des ersten Bierfasses im Schottenhamel-Festzelt. Erst mit dem Anstich gilt die Wiesn offiziell als eröffnet. Wie viele Schläge der Münchner Oberbürgermeister dafür benötigt, gehört längst zu den meistbeachteten Details der Eröffnung.",
+        "maplink": "48.131943,11.549514"
+    },
+    {
         "fullstartdate": "202609172200",
         "date": "20260918",
         "url": "https://www.bing.com/th?id=OHR.WinnatsPassPeak_DE-DE1067601127_1920x1080.jpg",
@@ -70,16 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SardineBait_DE-DE9091780632",
         "copyright": "Kalifornische Seelöwen bei der Jagd auf einen Sardinen-Köderball vor der Küste Mexikos im Pazifik (© Henley Spiers/Nature Picture Library)",
         "copyrightKeyword": "Kalifornischer Seelöwe",
-        "hsh": "3b54df2488ec4a1aeb774f45aef7a435",
-        "description": "Kalifornische Seelöwen gehören zu den geschicktesten Jägern des Pazifiks. Vor der Küste Mexikos sind sie häufig zu beobachten, wenn sie gemeinsam auf Fischschwärme treffen. Besonders spektakulär wird die Jagd, wenn sich Sardinen zu einem dichten Köderball zusammenschließen. In dieser wirbelnden Ansammlung suchen die kleinen Fische Schutz vor ihren Verfolgern. Für die Seelöwen bietet sich dadurch jedoch eine ideale Gelegenheit, Beute zu machen. Mit schnellen Wendungen und beeindruckender Beweglichkeit schießen sie durch den Schwarm und nutzen jede Lücke, um einzelne Fische zu erwischen."
-    },
-    {
-        "fullstartdate": "202609102200",
-        "date": "20260911",
-        "url": "https://www.bing.com/th?id=OHR.FrenchRivieraVillage_DE-DE6596669127_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FrenchRivieraVillage_DE-DE6596669127",
-        "copyright": "Villefranche-sur-Mer, Alpes-Maritimes, Côte d’Azur, Frankreich (© StockByM/Getty Images)",
-        "copyrightKeyword": "Villefranche-sur-Mer",
-        "hsh": "9da5b4d732f39d32e86f2d70946df0c6"
+        "hsh": "3b54df2488ec4a1aeb774f45aef7a435"
     }
 ]

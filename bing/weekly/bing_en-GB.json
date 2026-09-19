@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202609182300",
+        "date": "20260919",
+        "url": "https://www.bing.com/th?id=OHR.AlphornBavaria_EN-GB8912057279_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AlphornBavaria_EN-GB8912057279",
+        "copyright": "Alphorn players, Bavaria, Germany (© U. J. Alexander/Shutterstock)",
+        "copyrightKeyword": "Oktoberfest",
+        "hsh": "2f2689475a083c7a43c81f6ca058d056",
+        "description": "As Oktoberfest opens today, visitors arriving in Bavaria, Germany, may hear a sound even older than the famous festival itself: the deep, resonant voice of the alphorn. This traditional Alpine instrument is closely linked to Bavaria, Austria and Switzerland, where it once helped shepherds communicate across mountain valleys."
+    },
+    {
         "fullstartdate": "202609172300",
         "date": "20260918",
         "url": "https://www.bing.com/th?id=OHR.WinnatsPassPeak_EN-GB8850951451_1920x1080.jpg",
@@ -70,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LastNightOfTheProms2026_EN-GB7492486139",
         "copyright": "Interior of the Royal Albert Hall, London (© William Barton/Shutterstock)",
         "copyrightKeyword": "Night of the Proms London",
-        "hsh": "33fa4c0d498bfee8ff7cef0c9ab24831",
-        "description": "What happens when a grand classical concert lets its hair down? The Last Night of the Proms. The finale of the annual BBC Proms turns London's Royal Albert Hall into a joyful, flag-waving party, where world-class music meets quirky costumes, inflatable toys and enthusiastic singalongs.",
-        "maplink": "51.500916,-0.177366"
-    },
-    {
-        "fullstartdate": "202609102300",
-        "date": "20260911",
-        "url": "https://www.bing.com/th?id=OHR.FrenchRivieraVillage_EN-GB7299831823_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FrenchRivieraVillage_EN-GB7299831823",
-        "copyright": "The bay of Villefranche-sur-Mer, Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France (© StockByM/Getty Images)",
-        "copyrightKeyword": "Villefranche-sur-Mer",
-        "hsh": "f9ee63703672641c59afafed9f6f6fe1"
+        "hsh": "33fa4c0d498bfee8ff7cef0c9ab24831"
     }
 ]
