@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202609192300",
+        "date": "20260920",
+        "url": "https://www.bing.com/th?id=OHR.ParisSunset_EN-GB8990968501_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ParisSunset_EN-GB8990968501",
+        "copyright": "Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)",
+        "copyrightKeyword": "Paris",
+        "hsh": "3fe3016b5ba8ad1c61fddec1f0ac04fe",
+        "description": "No other city is nearly as romanticised as Paris. Yet the French capital's history has not always been as rosy as the sunset glowing behind the Eiffel Tower. Built for the 1889 Exposition Universelle, or the World's Fair, which marked the centennial of the start of the French Revolution, the tower was originally intended to serve as the fair's entrance centrepiece. Designed by engineer Gustave Eiffel and his team, the iron landmark rose more than 300 metres above the Champ de Mars and became the tallest structure in the world at the time.",
+        "maplink": "48.85341,2.3488"
+    },
+    {
         "fullstartdate": "202609182300",
         "date": "20260919",
         "url": "https://www.bing.com/th?id=OHR.AlphornBavaria_EN-GB8912057279_1920x1080.jpg",
@@ -69,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MisurinaPeak_EN-GB7732385221",
         "copyright": "Cadini di Misurina, Dolomites, Veneto, Italy (© Vithun Khamsong/Getty Images)",
         "copyrightKeyword": "Cadini di Misurina Dolomites",
-        "hsh": "77b50301b2e9fff923cc1ec9c7324e01",
-        "description": "The image captures the jagged skyline of Cadini di Misurina at sunrise in Veneto, northeastern Italy. Visitors heading towards nearby Tre Cime di Lavaredo often come for the famous route only to find their attention hijacked by the Cadini. Part of the Dolomites, these needle-like peaks reaching more than 2,800 metres at their highest point seem sculpted for drama. The twist? They started out as ancient coral reefs.",
-        "maplink": "46.573096,12.276032"
-    },
-    {
-        "fullstartdate": "202609112300",
-        "date": "20260912",
-        "url": "https://www.bing.com/th?id=OHR.LastNightOfTheProms2026_EN-GB7492486139_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LastNightOfTheProms2026_EN-GB7492486139",
-        "copyright": "Interior of the Royal Albert Hall, London (© William Barton/Shutterstock)",
-        "copyrightKeyword": "Night of the Proms London",
-        "hsh": "33fa4c0d498bfee8ff7cef0c9ab24831"
+        "hsh": "77b50301b2e9fff923cc1ec9c7324e01"
     }
 ]
