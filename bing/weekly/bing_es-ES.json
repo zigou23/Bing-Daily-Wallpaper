@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202609202200",
+        "date": "20260921",
+        "url": "https://www.bing.com/th?id=OHR.GroomingOtter_ES-ES7483799211_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GroomingOtter_ES-ES7483799211",
+        "copyright": "Nutria marina acicalándose, Bahía de Monterey, California, EE. UU. (© Suzi Eszterhas/Minden Pictures)",
+        "copyrightKeyword": "Nutria marina",
+        "hsh": "ff46b12814531974d03bb298580ba78e",
+        "description": "Una nutria marina se acicala en la bahía de Monterey, en California (EE. UU.), y no lo hace por presumir. A diferencia de focas y ballenas, apenas tiene grasa aislante: sobrevive gracias al pelaje más denso del reino animal, y solo conserva el calor si lo limpia y lo airea sin descanso, atrapando burbujas que forman una capa impermeable.",
+        "maplink": "36.800739,-121.947311"
+    },
+    {
         "fullstartdate": "202609192200",
         "date": "20260920",
         "url": "https://www.bing.com/th?id=OHR.ParisSunset_ES-ES7380438298_1920x1080.jpg",
@@ -70,16 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.KochiaChina_ES-ES5067381880",
         "copyright": "Campo de plantas de kochia, China (© lingqi xie/Getty Images)",
         "copyrightKeyword": "Bassia scoparia",
-        "hsh": "72a68fa834a3efbfbe126799d2f6260e",
-        "description": "El campo que parece pintado a brochazos rojos y verdes está en China y lo forma una sola especie: la kochia (Bassia scoparia), que al final del verano cambia el verde por un granate intenso. Cada mata es una planta anual redondeada que en pocos meses supera el metro de altura y produce miles de semillas."
-    },
-    {
-        "fullstartdate": "202609122200",
-        "date": "20260913",
-        "url": "https://www.bing.com/th?id=OHR.LaVueltaEnd_ES-ES2544902517_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LaVueltaEnd_ES-ES2544902517",
-        "copyright": "Vista general del pelotón durante la 77ª Vuelta a España 2022, Etapa 21, Palacio de Cibeles, Madrid, España (© Europa Press Sports/Getty Images)",
-        "copyrightKeyword": "La vuelta España Granada",
-        "hsh": "9dfce0d867092347bf30a0c5d3641a7d"
+        "hsh": "72a68fa834a3efbfbe126799d2f6260e"
     }
 ]
