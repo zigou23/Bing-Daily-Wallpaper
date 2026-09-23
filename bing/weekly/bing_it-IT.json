@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202609222200",
+        "date": "20260923",
+        "url": "https://www.bing.com/th?id=OHR.AutumnTrentino_IT-IT8118999546_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AutumnTrentino_IT-IT8118999546",
+        "copyright": "Chiesa in Val di Funes, Trentino-Alto Adige, Dolomiti, Italia (© DieterMeyrl/Getty Images)",
+        "copyrightKeyword": "Equinozio d'autunno 2026",
+        "hsh": "e5a9cab543c9605ca804a8a0bd853dc7",
+        "description": "L'autunno astronomico è cominciato stanotte alle 2:06, ora italiana: il Sole ha attraversato l'equatore celeste diretto a sud, giorno e notte hanno quasi la stessa durata e da adesso la luce inizia a ridursi. Gli equinozi, tra l'altro, sono i soli momenti dell'anno in cui entrambi i poli ricevono luce solare nello stesso istante.",
+        "maplink": "46.441479,11.281898"
+    },
+    {
         "fullstartdate": "202609212200",
         "date": "20260922",
         "url": "https://www.bing.com/th?id=OHR.TolkienWeek_IT-IT7744314580_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.IcyCubs_IT-IT4666651798",
         "copyright": "Cuccioli di orso polare che giocano a Svalbard, Norvegia (© Danny Green/Nature Picture Library)",
         "copyrightKeyword": "orso polare",
-        "hsh": "cfc71fa535fa035bb49ee4835719cd4c",
-        "description": "Due cuccioli di orso polare attraversano la neve alle Svalbard, l'arcipelago norvegese di ghiacciai e fiordi gelati dove l'Artico si mostra senza filtri. Sono nati in una tana scavata nella neve, ciechi e con poco più di mezzo chilogrammo di peso, e non sono usciti all'aperto fino alla primavera.",
-        "maplink": "78.719849,20.349333"
-    },
-    {
-        "fullstartdate": "202609142200",
-        "date": "20260915",
-        "url": "https://www.bing.com/th?id=OHR.RedMacawsFlight_IT-IT4575485670_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.RedMacawsFlight_IT-IT4575485670",
-        "copyright": "L'ara dalle ali verdi, Brasile (© markes51/Getty Images)",
-        "copyrightKeyword": "L'ara dalle ali verdi",
-        "hsh": "463d672e62c2968792ad102776e7107f"
+        "hsh": "cfc71fa535fa035bb49ee4835719cd4c"
     }
 ]

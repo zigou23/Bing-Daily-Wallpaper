@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202609222200",
+        "date": "20260923",
+        "url": "https://www.bing.com/th?id=OHR.FallAspens_DE-DE1894805045_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FallAspens_DE-DE1894805045",
+        "copyright": "Herbstliche Espen nahe dem Guardsman Pass, Utah, USA (© Danita Delimont/Shutterstock)",
+        "copyrightKeyword": "September-Tagundnachtgleiche",
+        "hsh": "1cd0f4539b97b5c43c058049dfc0ef5f",
+        "description": "Die September-Tagundnachtgleiche markiert in Deutschland den astronomischen Beginn des Herbstes. An diesem Tag stehen Tag und Nacht nahezu im Gleichgewicht, bevor die Nächte wieder länger werden. Seit Jahrhunderten gilt dieser Zeitpunkt als Wendepunkt im Jahreslauf. Die Natur bereitet sich auf die kalte Jahreszeit vor und vielerorts beginnt die Landschaft ihr herbstliches Farbenspiel."
+    },
+    {
         "fullstartdate": "202609212200",
         "date": "20260922",
         "url": "https://www.bing.com/th?id=OHR.TolkienWeek_DE-DE1744424672_1920x1080.jpg",
@@ -72,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.IcyCubs_DE-DE7622238275",
         "copyright": "Eisbärenjunge spielen auf Spitzbergen, Norwegen (© Danny Green/Nature Picture Library)",
         "copyrightKeyword": "Eisbär",
-        "hsh": "d47d0786215fe004061a085bdb834b5f",
-        "description": "Auf Spitzbergen in Norwegen erkunden Eisbärenjunge ihre eisige Welt mit unermüdlicher Neugier. Sie tollen über den Schnee, ringen miteinander und üben spielerisch die Fähigkeiten, die sie später zum Überleben brauchen. Was wie ein fröhliches Spiel wirkt, hilft ihnen dabei, Kraft, Geschicklichkeit und Selbstvertrauen zu entwickeln.",
-        "maplink": "78.719849,20.349333"
-    },
-    {
-        "fullstartdate": "202609142200",
-        "date": "20260915",
-        "url": "https://www.bing.com/th?id=OHR.RedMacawsFlight_DE-DE7450519779_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.RedMacawsFlight_DE-DE7450519779",
-        "copyright": "Grünflügelaras (© markes51/Getty Images)",
-        "copyrightKeyword": "Grünflügelara",
-        "hsh": "5af769c6870f9914daeac2430e10682d"
+        "hsh": "d47d0786215fe004061a085bdb834b5f"
     }
 ]

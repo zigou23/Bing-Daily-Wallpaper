@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202609222200",
+        "date": "20260923",
+        "url": "https://www.bing.com/th?id=OHR.FallAspens_ES-ES8557164613_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FallAspens_ES-ES8557164613",
+        "copyright": "Álamos de otoño cerca de Guardsman Pass, Utah, EE. UU. (© Danita Delimont/Shutterstock)",
+        "copyrightKeyword": "Equinoccio de otoño",
+        "hsh": "d5803cf3d906ce813ffe0709a0e30655",
+        "description": "Los álamos temblones tiñen de oro las laderas próximas a Guardsman Pass, en Utah (EE. UU.), justo cuando el hemisferio norte estrena estación. El otoño ha entrado en España esta madrugada, a las 02:05 en hora peninsular, según el Observatorio Astronómico Nacional: el Sol cruza el ecuador celeste rumbo al sur y el día y la noche pasan a durar casi lo mismo."
+    },
+    {
         "fullstartdate": "202609212200",
         "date": "20260922",
         "url": "https://www.bing.com/th?id=OHR.TolkienWeek_ES-ES8577009856_1920x1080.jpg",
@@ -71,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.IcyCubs_ES-ES0423960114",
         "copyright": "Cachorros de oso polar jugando en Svalbard, Noruega (© Danny Green/Nature Picture Library)",
         "copyrightKeyword": "Oso polar",
-        "hsh": "fe99f05b54289a3b2b48c95ef0b46887",
-        "description": "Dos cachorros de oso polar cruzan la nieve en Svalbard, el archipiélago noruego de glaciares y fiordos helados donde el Ártico se muestra sin adornos. Nacieron en una madriguera excavada en la nieve, ciegos y con poco más de medio kilo de peso, y no salieron al exterior hasta la primavera.",
-        "maplink": "78.719849,20.349333"
-    },
-    {
-        "fullstartdate": "202609142200",
-        "date": "20260915",
-        "url": "https://www.bing.com/th?id=OHR.RedMacawsFlight_ES-ES0325042957_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.RedMacawsFlight_ES-ES0325042957",
-        "copyright": "Guacamayos aliverdes, Brasil (© markes51/Getty Images)",
-        "copyrightKeyword": "guacamayo aliverde",
-        "hsh": "bf06c9006ba1f0c76e0d83dfa6f7ec9c"
+        "hsh": "fe99f05b54289a3b2b48c95ef0b46887"
     }
 ]

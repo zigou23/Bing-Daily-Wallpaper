@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202609222200",
+        "date": "20260923",
+        "url": "https://www.bing.com/th?id=OHR.FallAspens_FR-FR8326000854_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FallAspens_FR-FR8326000854",
+        "copyright": "Peupliers faux-trembles près du col de Guardsman Pass, Utah, États-Unis (© Danita Delimont/Shutterstock)",
+        "copyrightKeyword": "équinoxe de septembre",
+        "hsh": "cf62d59dc43656d31a12ca91ae3ffcac",
+        "description": "Chaque année, vers la fin de septembre, l’équinoxe d’automne marque un subtil basculement dans l’hémisphère Nord. Le Soleil semble alors franchir l’équateur céleste vers le sud et le jour s’accorde presque à la nuit. Cet instant d’équilibre annonce la lente diminution de la lumière et l’approche progressive de l’hiver."
+    },
+    {
         "fullstartdate": "202609212200",
         "date": "20260922",
         "url": "https://www.bing.com/th?id=OHR.TolkienWeek_FR-FR8060088549_1920x1080.jpg",
@@ -71,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.IcyCubs_FR-FR5288498074",
         "copyright": "Oursons polaires à Svalbard, Norvège (© Danny Green/Nature Picture Library)",
         "copyrightKeyword": "ours polaire",
-        "hsh": "65c799a9487c201b41443c57a05cf2cb",
-        "description": "Deux oursons polaires avancent avec précaution sur la neige du Svalbard, un archipel norvégien isolé au cœur de l’océan Arctique. Entre glaciers majestueux, sommets escarpés et fjords pris dans la glace, ce territoire appartient à la région de la mer de Barents, qui abrite l’une des populations d’ours polaires les plus importantes au monde, avec environ 2 600 individus. Dans ce décor silencieux, chaque pas raconte une histoire de survie.",
-        "maplink": "78.719849,20.349333"
-    },
-    {
-        "fullstartdate": "202609142200",
-        "date": "20260915",
-        "url": "https://www.bing.com/th?id=OHR.RedMacawsFlight_FR-FR7707103223_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.RedMacawsFlight_FR-FR7707103223",
-        "copyright": "Aras chloroptères, Amérique du Sud (© markes51/Getty Images)",
-        "copyrightKeyword": "ara chloroptère",
-        "hsh": "351ff6f02db1db7109633f9f88e2dd6a"
+        "hsh": "65c799a9487c201b41443c57a05cf2cb"
     }
 ]

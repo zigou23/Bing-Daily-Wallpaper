@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202609221830",
+        "date": "20260923",
+        "url": "https://www.bing.com/th?id=OHR.FallAspens_EN-IN8196194133_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FallAspens_EN-IN8196194133",
+        "copyright": "Autumn aspen trees near Guardsman Pass, Utah, United States (© Danita Delimont/Shutterstock)",
+        "copyrightKeyword": "September equinox",
+        "hsh": "7d5f7760a7566686de758117925fcb4f",
+        "description": "The autumn equinox marks a turning point in the Northern Hemisphere. Occurring each September, it is the moment when the sun crosses the equator heading south, and day and night are nearly equal in length. After this celestial balance, daylight gradually shrinks as the journey towards winter begins."
+    },
+    {
         "fullstartdate": "202609211830",
         "date": "20260922",
         "url": "https://www.bing.com/th?id=OHR.ElGolfo_EN-IN8071994539_1920x1080.jpg",
@@ -71,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.IcyCubs_EN-IN8228486187",
         "copyright": "Polar bear cubs playing in Svalbard, Norway (© Danny Green/Nature Picture Library)",
         "copyrightKeyword": "Polar bear",
-        "hsh": "3fcc44e7569005b1ef80ed3d6228f759",
-        "description": "Two polar bear cubs pick their way across the snow in Svalbard, a remote Norwegian archipelago of glaciers, mountains and frozen fjords deep in the Arctic Ocean. This wild landscape is part of the Barents Sea region, home to one of the world's largest polar bear populations, with around 2,600 bears.",
-        "maplink": "78.719849,20.349333"
-    },
-    {
-        "fullstartdate": "202609141830",
-        "date": "20260915",
-        "url": "https://www.bing.com/th?id=OHR.RedMacawsFlight_EN-IN8058515331_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.RedMacawsFlight_EN-IN8058515331",
-        "copyright": "Red-and-green macaws (© markes51/Getty Images)",
-        "copyrightKeyword": "Red and green macaw",
-        "hsh": "f9f80a8ffc44d3e90299fc7ee27a49c7"
+        "hsh": "3fcc44e7569005b1ef80ed3d6228f759"
     }
 ]
