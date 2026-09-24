@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202609230400",
+        "date": "20260923",
+        "url": "https://www.bing.com/th?id=OHR.TolkienWeek_FR-CA4077123678_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TolkienWeek_FR-CA4077123678",
+        "copyright": "Maison Hobbit dans le décor de Hobbiton, Matamata, Nouvelle-Zélande (© djr-photography/Shutterstock)",
+        "copyrightKeyword": "Maison Hobbit Hobbiton",
+        "hsh": "f9017a77e2bb3b6d1b4e213b384921dd",
+        "description": "Dans les collines verdoyantes de Matamata, en Nouvelle-Zélande, un décor de cinéma est devenu un lieu à part entière. Installé sur une ferme ovine encore en activité, Hobbiton est né lorsqu’une équipe de repérage des films « Le Seigneur des anneaux » découvrit, en 1998, un paysage remarquablement proche de la Comté imaginée par Tolkien. Les courbes du relief, les prairies parsemées de moutons et la lumière changeante semblaient déjà raconter une histoire. Des portes rondes, des jardins soignés et des cheminées à volutes ont ensuite achevé la métamorphose.",
+        "maplink": "-37.8721,175.682907"
+    },
+    {
         "fullstartdate": "202609220400",
         "date": "20260922",
         "url": "https://www.bing.com/th?id=OHR.FallAspens_FR-CA3892904931_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.IcyCubs_FR-CA3759770931",
         "copyright": "Oursons polaires à Svalbard, Norvège (© Danny Green/Nature Picture Library)",
         "copyrightKeyword": "ours polaire",
-        "hsh": "e757d589c78ef876534ba4d38f49f2f2",
-        "description": "Deux oursons polaires avancent avec précaution sur la neige du Svalbard, un archipel norvégien isolé au cœur de l’océan Arctique. Entre glaciers majestueux, sommets escarpés et fjords pris dans la glace, ce territoire appartient à la région de la mer de Barents, qui abrite l’une des populations d’ours polaires les plus importantes au monde, avec environ 2 600 individus. Dans ce décor silencieux, chaque pas raconte une histoire de survie.",
-        "maplink": "78.719849,20.349333"
-    },
-    {
-        "fullstartdate": "202609150400",
-        "date": "20260915",
-        "url": "https://www.bing.com/th?id=OHR.RedMacawsFlight_FR-CA8949552310_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.RedMacawsFlight_FR-CA8949552310",
-        "copyright": "Aras chloroptères, Amérique du Sud (© markes51/Getty Images)",
-        "copyrightKeyword": "ara chloroptère",
-        "hsh": "e86c731f90cf4deeb32119385d65e231"
+        "hsh": "e757d589c78ef876534ba4d38f49f2f2"
     }
 ]

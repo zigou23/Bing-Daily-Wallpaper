@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202609232200",
+        "date": "20260924",
+        "url": "https://www.bing.com/th?id=OHR.ElGolfo_DE-DE2094132875_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ElGolfo_DE-DE2094132875",
+        "copyright": "Luftaufnahme des schwarzen Lavastrandes in El Golfo, Lanzarote, Kanarische Inseln, Spanien (© Westend61/Adobe Stock)",
+        "copyrightKeyword": "Lanzarote",
+        "hsh": "ccbcbfe4314eae63225526621c9740ea",
+        "description": "An der Westküste der spanischen Kanareninsel Lanzarote wirkt die Landschaft beinahe wie von einem anderen Planeten. Der schwarze Lavastrand bei El Golfo bildet einen eindrucksvollen Kontrast zu den tiefblauen Wellen des Atlantiks. Aus der Vogelperspektive werden die Formen und Farben besonders sichtbar und zeigen die vulkanische Herkunft der Insel auf besondere Weise.",
+        "maplink": "28.978999,-13.829368"
+    },
+    {
         "fullstartdate": "202609222200",
         "date": "20260923",
         "url": "https://www.bing.com/th?id=OHR.FallAspens_DE-DE1894805045_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.Santenay_DE-DE7807006506",
         "copyright": "Windmühle von Sorine und Weinberge in der Weinregion Santenay, Côte de Beaune, Burgund, Frankreich (© Marco Bottigelli/Getty Images)",
         "copyrightKeyword": "Santenay Weinregion",
-        "hsh": "cedbdb6b125e91ae72eff2d34ce40a55",
-        "description": "Zwischen den sanften Hügeln der Côte de Beaune in Frankreich erhebt sich die Windmühle von Sorine über den Weinbergen der Weinregion Santenay. Die Landschaft im Süden Burgunds wird von sorgfältig gepflegten Rebreihen geprägt, die sich über die Hänge erstrecken und je nach Jahreszeit in unterschiedlichen Farben leuchten. Von hier aus öffnen sich weite Blicke über eine Kulturlandschaft, die seit Jahrhunderten eng mit dem Weinbau verbunden ist.",
-        "maplink": "46.913044,4.696484"
-    },
-    {
-        "fullstartdate": "202609152200",
-        "date": "20260916",
-        "url": "https://www.bing.com/th?id=OHR.IcyCubs_DE-DE7622238275_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.IcyCubs_DE-DE7622238275",
-        "copyright": "Eisbärenjunge spielen auf Spitzbergen, Norwegen (© Danny Green/Nature Picture Library)",
-        "copyrightKeyword": "Eisbär",
-        "hsh": "d47d0786215fe004061a085bdb834b5f"
+        "hsh": "cedbdb6b125e91ae72eff2d34ce40a55"
     }
 ]

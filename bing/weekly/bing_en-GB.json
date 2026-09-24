@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202609232300",
+        "date": "20260924",
+        "url": "https://www.bing.com/th?id=OHR.TolkienWeek_EN-GB9361035480_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TolkienWeek_EN-GB9361035480",
+        "copyright": "Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)",
+        "copyrightKeyword": "Tolkien Week",
+        "hsh": "46c6b41bd66ed44e3cd63d439a5d8cf3",
+        "description": "Most landmarks were built by history. This one was built for a story. Hobbiton Movie Set sits in Matamata, New Zealand, on a working sheep farm that caught the eye of filmmakers scouting locations for 'The Lord of the Rings' in 1998. The hills already looked Shire-like; round doors, tidy gardens and curling chimneys completed the illusion. The set was later rebuilt for 'The Hobbit' films and became a destination for those eager to step into Middle-earth.",
+        "maplink": "-37.8721,175.682907"
+    },
+    {
         "fullstartdate": "202609222300",
         "date": "20260923",
         "url": "https://www.bing.com/th?id=OHR.FallAspens_EN-GB9268931266_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.Santenay_EN-GB8477225756",
         "copyright": "Sorine windmill and vineyards, Santenay wine region, Côte de Beaune, Burgundy, France (© Marco Bottigelli/Getty Images)",
         "copyrightKeyword": "Santenay wine region",
-        "hsh": "8f19176b86ab065d09a48d35b4811b46",
-        "description": "Each year, late summer and early autumn bring one of France's most anticipated traditions: the 'vendanges,' the grape-picking season. The timing varies from one wine region to another and depends on weather conditions, sun exposure and the ripeness of the fruit. For many vineyards, harvest is still a hands-on effort, with teams carefully selecting bunches destined for some of the country's most celebrated wines.",
-        "maplink": "46.913044,4.696484"
-    },
-    {
-        "fullstartdate": "202609152300",
-        "date": "20260916",
-        "url": "https://www.bing.com/th?id=OHR.IcyCubs_EN-GB8373772893_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.IcyCubs_EN-GB8373772893",
-        "copyright": "Polar bear cubs playing in Svalbard, Norway (© Danny Green/Nature Picture Library)",
-        "copyrightKeyword": "Polar bear",
-        "hsh": "5f264b02d7e8179486b8e74b9863578a"
+        "hsh": "8f19176b86ab065d09a48d35b4811b46"
     }
 ]
