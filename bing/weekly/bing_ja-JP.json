@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202609251500",
+        "date": "20260926",
+        "url": "https://www.bing.com/th?id=OHR.BearsEars_JA-JP8214752036_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BearsEars_JA-JP8214752036",
+        "copyright": "シーダーメサ, 米国 ユタ州 (© Jeff Clay/Tandem Stills + Motion)",
+        "copyrightKeyword": "シーダーメサ",
+        "hsh": "8eae43ec94cc824ae18fd5e9534a887a",
+        "description": "ここはシーダーメサ。米国ユタ州にあるベアーズ・イヤーズ国定公園の南部に位置する台地です。標高は約 2,000m で、考古学上の宝庫として知られるグランド・ガルチをはじめ、深い峡谷が数多く存在しています。南側にはミューリー・ポイントと呼ばれる岬があり、ここからサンファン川やバレー・オブ・ザ・ゴッズ、モニュメント・バレー、ナバホ・マウンテンといった素晴らしい景観を一望できます。また、シーダーメサの向こうには 2 つの丘がそびえており、これがクマの耳（ベアーズイヤーズ）に似ていることが、公園の名前の由来となっています。",
+        "maplink": "37.433414,-109.916978"
+    },
+    {
         "fullstartdate": "202609241500",
         "date": "20260925",
         "url": "https://www.bing.com/th?id=OHR.MidAutumn2026_JA-JP8034446964_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AlphornBavaria_JA-JP7669654652",
         "copyright": "アルプホルン奏者たち, ドイツ (© U. J. Alexander/Shutterstock)",
         "copyrightKeyword": "アルプホルン",
-        "hsh": "003fbd303794d58da739aabe1a13839d",
-        "description": "今日 9 月 19 日からオクトーバーフェストが開幕します。ドイツ・バイエルン州では、祭りのにぎわいに欠かせない伝統楽器「アルプホルン」の響きが広がります。全長約 3.5m の木製管楽器で、かつては羊飼いたちが遠く離れた谷や山々の間で連絡を取り合うために使われていました。バルブや指穴はなく、息づかいと唇の動きだけで音を奏でます。祭りや文化イベントで演奏されており、その深く温かな音色はアルプスの風景と調和し、バイエルンならではの歴史や文化を今に伝えています。",
-        "maplink": "48.946812,11.419012"
-    },
-    {
-        "fullstartdate": "202609171500",
-        "date": "20260918",
-        "url": "https://www.bing.com/th?id=OHR.WinnatsPassPeak_JA-JP5840257609_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WinnatsPassPeak_JA-JP5840257609",
-        "copyright": "ウィナッツ・パス, イングランド (© Daniel_Kay/Getty Images)",
-        "copyrightKeyword": "ウィナッツ・パス",
-        "hsh": "bbfd986781ccb40d124007c46a6e01af"
+        "hsh": "003fbd303794d58da739aabe1a13839d"
     }
 ]

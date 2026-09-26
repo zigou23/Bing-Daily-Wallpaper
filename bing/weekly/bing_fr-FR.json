@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202609252200",
+        "date": "20260926",
+        "url": "https://www.bing.com/th?id=OHR.BoriesPoppies_FR-FR9955316118_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BoriesPoppies_FR-FR9955316118",
+        "copyright": "Village des Bories, Gordes, Provence-Alpes-Côte d’Azur (© AGUILAR PATRICE/Alamy)",
+        "copyrightKeyword": "Village des Bories",
+        "hsh": "afc824de1be9f7026b5ec93516db6e92",
+        "description": "Aux premiers jours de l’automne, le Village des Bories se pare d’une lumière dorée qui sublime les pierres sèches du Luberon. Sous un ciel encore lumineux, les chênes verts se mêlent aux premiers feuillages mordorés, tandis que les senteurs de thym et de romarin se fondent dans l’air plus frais de la saison.",
+        "maplink": "43.907041,5.180164"
+    },
+    {
         "fullstartdate": "202609242200",
         "date": "20260925",
         "url": "https://www.bing.com/th?id=OHR.MidAutumn2026_FR-FR8607088238_1920x1080.jpg",
@@ -70,16 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AlphornBavaria_FR-FR7751398658",
         "copyright": "Joueurs de cor des Alpes, Bavière, Allemagne (© U. J. Alexander/Shutterstock)",
         "copyrightKeyword": "Oktoberfest",
-        "hsh": "c701d97aafa05cfd8edcfb66a2e54697",
-        "description": "Alors que l’Oktoberfest ouvre ses portes à Munich, en Bavière (Allemagne), un autre symbole du patrimoine alpin accompagne les visiteurs : le chant profond du cor des Alpes. Bien avant que cette fête n’acquière une renommée mondiale, son écho résonnait déjà entre les sommets de Bavière, d’Autriche et de Suisse, reliant les communautés de montagne à travers les prairies, les forêts d’épicéas et les vallées brumeuses."
-    },
-    {
-        "fullstartdate": "202609172200",
-        "date": "20260918",
-        "url": "https://www.bing.com/th?id=OHR.WinnatsPassPeak_FR-FR7611183995_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WinnatsPassPeak_FR-FR7611183995",
-        "copyright": "Col de Winnats, Parc national du Peak District, Angleterre (© Daniel_Kay/Getty Images)",
-        "copyrightKeyword": "parc national de Peak District",
-        "hsh": "953bcd40a437794878875cfa473d1e4f"
+        "hsh": "c701d97aafa05cfd8edcfb66a2e54697"
     }
 ]

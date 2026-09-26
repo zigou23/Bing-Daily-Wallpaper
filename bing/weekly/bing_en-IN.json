@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202609251830",
+        "date": "20260926",
+        "url": "https://www.bing.com/th?id=OHR.BearsEars_EN-IN8507636618_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BearsEars_EN-IN8507636618",
+        "copyright": "Cedar Mesa and Muley Point near Bears Ears National Monument, Utah, United States (© Jeff Clay/Tandem Stills + Motion)",
+        "copyrightKeyword": "Bears Ears National Monument",
+        "hsh": "ee47005777fd384984ad7a264e9307da",
+        "description": "What do a bear's ears, a house on fire and a road packed with hairpin turns have in common? They're all part of the story of southeastern Utah's public lands.",
+        "maplink": "37.630001,-109.867653"
+    },
+    {
         "fullstartdate": "202609241830",
         "date": "20260925",
         "url": "https://www.bing.com/th?id=OHR.MidAutumn2026_EN-IN8396341266_1920x1080.jpg",
@@ -70,16 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AlphornBavaria_EN-IN7812928124",
         "copyright": "Alphorn players, Bavaria, Germany (© U. J. Alexander/Shutterstock)",
         "copyrightKeyword": "Oktoberfest",
-        "hsh": "26f4b111293583743ed6bca84fb9684d",
-        "description": "As Oktoberfest opens today, visitors arriving in Bavaria, Germany, may hear a sound even older than the famous festival itself: the deep, resonant voice of the alphorn. This traditional Alpine instrument is closely linked to Bavaria, Austria and Switzerland, where it once helped shepherds communicate across mountain valleys."
-    },
-    {
-        "fullstartdate": "202609171830",
-        "date": "20260918",
-        "url": "https://www.bing.com/th?id=OHR.WinnatsPassPeak_EN-IN7644884043_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WinnatsPassPeak_EN-IN7644884043",
-        "copyright": "Winnats Pass, Peak District National Park, England (© Daniel_Kay/Getty Images)",
-        "copyrightKeyword": "Peak District National Park",
-        "hsh": "4f582161d7d1f4f4a26a80473d61641f"
+        "hsh": "26f4b111293583743ed6bca84fb9684d"
     }
 ]
