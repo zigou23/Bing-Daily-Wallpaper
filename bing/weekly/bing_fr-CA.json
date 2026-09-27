@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202609260400",
+        "date": "20260926",
+        "url": "https://www.bing.com/th?id=OHR.NiagaraOnt_FR-CA4828648207_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.NiagaraOnt_FR-CA4828648207",
+        "copyright": "Les chutes du Fer-à-Cheval illuminées le soir à Niagara Falls, Ontario (© Jianmei Wang/E+/Getty Images)",
+        "copyrightKeyword": "chutes du Fer-à-Cheval",
+        "hsh": "aab2bb3c858d92731ce2ebf859f4a5cc",
+        "description": "Depuis des siècles, les chutes du Niagara attirent voyageurs, rêveurs et aventuriers sur la frontière entre le Canada et les États-Unis. Certains ont recherché bien davantage qu’un simple panorama. En 1901, Annie Edson Taylor osa s’enfermer dans un tonneau pour franchir les chutes et devint la première personne connue à survivre à cette prouesse, aujourd’hui interdite. Leur puissance nourrit également l’imaginaire collectif : peintres, musiciens et cinéastes s’en sont inspirés, tandis que le film Niagara (1953), avec Marilyn Monroe et Joseph Cotten, a contribué à renforcer leur légende.",
+        "maplink": "43.082273,-79.075963"
+    },
+    {
         "fullstartdate": "202609250400",
         "date": "20260925",
         "url": "https://www.bing.com/th?id=OHR.MidAutumn2026_FR-CA5028867730_1920x1080.jpg",
@@ -70,16 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AlphornBavaria_FR-CA8631597445",
         "copyright": "Joueurs de cor des Alpes, Bavière, Allemagne (© U. J. Alexander/Shutterstock)",
         "copyrightKeyword": "Oktoberfest",
-        "hsh": "640d5ccdd0b8c5afd6898c5570a5973c",
-        "description": "Avec l’arrivée de l’Oktoberfest en Allemagne, un instrument rappelle que la fête plonge ses racines bien au-delà des célébrations modernes : le cor des Alpes. Depuis des siècles, son écho puissant résonne dans les paysages de Bavière, d’Autriche et de Suisse. Les bergers s’en servaient pour communiquer d’une vallée à l’autre, tandis que les forêts alpines et les hauts sommets amplifiaient naturellement ses résonances."
-    },
-    {
-        "fullstartdate": "202609180400",
-        "date": "20260918",
-        "url": "https://www.bing.com/th?id=OHR.WinnatsPassPeak_FR-CA8454495397_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WinnatsPassPeak_FR-CA8454495397",
-        "copyright": "Col de Winnats, Parc national du Peak District, Angleterre (© Daniel_Kay/Getty Images)",
-        "copyrightKeyword": "parc national de Peak District",
-        "hsh": "3d51229f088e4bb8d4599a799565313a"
+        "hsh": "640d5ccdd0b8c5afd6898c5570a5973c"
     }
 ]
