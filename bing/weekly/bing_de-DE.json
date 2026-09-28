@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202609272200",
+        "date": "20260928",
+        "url": "https://www.bing.com/th?id=OHR.AmberHall_DE-DE3888408627_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AmberHall_DE-DE3888408627",
+        "copyright": "Sattais-Katcheri-Halle im Fort Amber bei Jaipur, Rajasthan, Indien (© R.M. Nunes/Getty Images)",
+        "copyrightKeyword": "Fort Amber Indien",
+        "hsh": "d88e4f0cf13fd49aa96877aa67cc14e1",
+        "description": "Jaipur ist heute als „Pink City“, die rosafarbene Stadt, bekannt. Ihre historische Entwicklung nahm jedoch ihren Ausgang in Amber. Das Fort Amber war über lange Zeit politisches und kulturelles Zentrum der Region. Mit dem Bau wurde 1592 unter Raja Man Singh I. begonnen. Spätere Herrscher erweiterten die Anlage schrittweise, bevor die Residenz im Jahr 1727 in die neu gegründete Stadt Jaipur verlegt wurde.",
+        "maplink": "26.986382,75.851341"
+    },
+    {
         "fullstartdate": "202609262200",
         "date": "20260927",
         "url": "https://www.bing.com/th?id=OHR.DecoCrab_DE-DE3687547943_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.GroomingOtter_DE-DE1586162162",
         "copyright": "Seeotter bei der Fellpflege, Monterey Bay, Kalifornien, USA (© Suzi Eszterhas/Minden Pictures)",
         "copyrightKeyword": "Seeotter",
-        "hsh": "9ae01894c6e85324b15758ca88abadc0",
-        "description": "Seeotter verbringen einen großen Teil ihres Lebens im Wasser und widmen viele Stunden täglich der sorgfältigen Fellpflege. In der Monterey Bay im US-Bundesstaat Kalifornien kann man diese geschickten Meeressäuger oft beobachten, wie sie auf dem Rücken treiben und ihr dichtes Fell reinigen. Dabei streifen, kämmen und lockern sie die Haare mit ihren Pfoten, damit Luft zwischen den Fellschichten eingeschlossen bleibt. Dieser natürliche Schutz ist lebenswichtig, denn Seeotter besitzen keine isolierende Fettschicht wie viele andere Meeressäuger.",
-        "maplink": "36.800739,-121.947311"
-    },
-    {
-        "fullstartdate": "202609192200",
-        "date": "20260920",
-        "url": "https://www.bing.com/th?id=OHR.ParisSunset_DE-DE1426517976_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ParisSunset_DE-DE1426517976",
-        "copyright": "Eiffelturm bei Sonnenuntergang, Paris, Frankreich (© Alexander Spatari/Getty Images)",
-        "copyrightKeyword": "Paris",
-        "hsh": "a899ddf0385ad31cf9fc89b9c84db849"
+        "hsh": "9ae01894c6e85324b15758ca88abadc0"
     }
 ]
