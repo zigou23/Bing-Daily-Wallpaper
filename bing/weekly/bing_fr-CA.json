@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202609280400",
+        "date": "20260928",
+        "url": "https://www.bing.com/th?id=OHR.AmberHall_FR-CA5187503259_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AmberHall_FR-CA5187503259",
+        "copyright": "La salle Sattais Katcheri dans le fort d’Amber près de Jaipur, Rajasthan, Inde (© R.M. Nunes/Getty Images)",
+        "copyrightKeyword": "fort d’Amber Jaipur Rajasthan",
+        "hsh": "a8189a21d0d852e23ebfdc98f08edbef",
+        "description": "Bien avant que Jaipur ne soit célébrée comme la Ville rose, le cœur du pouvoir battait à Amber, nichée dans les collines arides du Rajasthan (Inde). Dès 1592, le souverain Rajput Raja Man Singh I lança l’édification d’une forteresse destinée à s’agrandir au fil des générations. Pendant plus d’un siècle, les dirigeants Kachwaha y façonnèrent la vie politique et culturelle du royaume qui deviendrait l’État de Jaipur. Lorsque la cour rejoignit la ville nouvelle en 1727, Amber conserva un rôle cérémoniel, témoin vivant d’un héritage prestigieux.",
+        "maplink": "26.986382,75.851341"
+    },
+    {
         "fullstartdate": "202609270400",
         "date": "20260927",
         "url": "https://www.bing.com/th?id=OHR.DecoCrab_FR-CA5033026630_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.GroomingOtter_FR-CA9172746231",
         "copyright": "Loutre de mer peignant son pelage, Baie de Monterey, Californie, États-Unis (© Suzi Eszterhas/Minden Pictures)",
         "copyrightKeyword": "loutre de mer",
-        "hsh": "949bbd629ce821f2867646e1ab51ca13",
-        "description": "Dans les eaux fraîches de la baie de Monterey, en Californie (États-Unis), une loutre de mer flotte paisiblement à la surface, occupée à un rituel essentiel à sa survie : elle nettoie et peigne soigneusement son pelage, le plus dense de tout le règne animal. Cette attention constante lui permet de retenir de minuscules bulles d’air qui l’isolent du froid des eaux du Pacifique. Contrairement aux phoques ou aux baleines, elle ne peut compter sur une épaisse réserve de graisse pour conserver sa chaleur.",
-        "maplink": "36.800739,-121.947311"
-    },
-    {
-        "fullstartdate": "202609200400",
-        "date": "20260920",
-        "url": "https://www.bing.com/th?id=OHR.ParisSunset_FR-CA9828122530_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ParisSunset_FR-CA9828122530",
-        "copyright": "La tour Eiffel au coucher de soleil, Paris, France (© Alexander Spatari/Getty Images)",
-        "copyrightKeyword": "Paris",
-        "hsh": "249f26d8b1e1492ee96e12c5b1a0d613"
+        "hsh": "949bbd629ce821f2867646e1ab51ca13"
     }
 ]

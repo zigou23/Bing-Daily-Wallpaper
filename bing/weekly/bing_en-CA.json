@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202609280400",
+        "date": "20260928",
+        "url": "https://www.bing.com/th?id=OHR.AmberHall_EN-CA9553208557_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AmberHall_EN-CA9553208557",
+        "copyright": "Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)",
+        "copyrightKeyword": "Amber Fort Jaipur Rajasthan",
+        "hsh": "2f15a9d9ce601c1a06fb209817a66032",
+        "description": "Most first-time visitors know Jaipur, in Rajasthan, India, as the Pink City, but the earlier royal capital was centred on Amber Fort. That's where much of the dynasty's political and architectural history was shaped. The fort developed over more than a century, beginning under Raja Man Singh I in 1592 and continuing under later Kachwaha rulers who controlled the kingdom that eventually became Jaipur State. The royal family moved to the newly planned city of Jaipur in 1727, but Amber continued to serve ceremonial functions.",
+        "maplink": "26.986382,75.851341"
+    },
+    {
         "fullstartdate": "202609270400",
         "date": "20260927",
         "url": "https://www.bing.com/th?id=OHR.DecoCrab_EN-CA9118939695_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.GroomingOtter_EN-CA5802555233",
         "copyright": "Sea otter grooming fur, Monterey Bay, California, United States (© Suzi Eszterhas/Minden Pictures)",
         "copyrightKeyword": "Sea Otter Awareness Week",
-        "hsh": "dcfbe1419fe8fd64e97dd8bb0ce18074",
-        "description": "Few animals can claim to be both expert groomers and guardians of underwater forests. That's why Sea Otter Awareness Week, held each year during the last full week of September, encourages people to discover more about these remarkable marine mammals and the challenges they face.",
-        "maplink": "36.800739,-121.947311"
-    },
-    {
-        "fullstartdate": "202609200400",
-        "date": "20260920",
-        "url": "https://www.bing.com/th?id=OHR.ParisSunset_EN-CA5063473686_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ParisSunset_EN-CA5063473686",
-        "copyright": "Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)",
-        "copyrightKeyword": "Paris",
-        "hsh": "e0ba9e9c8c9cda5bc8eb955bf67f91c0"
+        "hsh": "dcfbe1419fe8fd64e97dd8bb0ce18074"
     }
 ]
