@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202609290400",
+        "date": "20260929",
+        "url": "https://www.bing.com/th?id=OHR.KasilofRiver_EN-CA0207893749_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.KasilofRiver_EN-CA0207893749",
+        "copyright": "The blue, glacier-fed waters of the Kasilof River, Alaska, United States (© jared lloyd/Getty Images)",
+        "copyrightKeyword": "Kasilof River Alaska",
+        "hsh": "4b14d669b3500cff37c8698bca930177",
+        "description": "Seen from above, the Kasilof River winds like a ribbon of turquoise through Alaska's Kenai Peninsula. The vivid blue water comes from glacial silt carried downstream from Tustumena Lake, one of the largest freshwater lakes in the state. Flowing about 27 kilometres before emptying into Cook Inlet, the river is shorter than its famous neighbour, the Kenai, but no less remarkable.",
+        "maplink": "60.386498454,-151.301832126"
+    },
+    {
         "fullstartdate": "202609280400",
         "date": "20260928",
         "url": "https://www.bing.com/th?id=OHR.AmberHall_EN-CA9553208557_1920x1080.jpg",
@@ -71,16 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.FallAspens_EN-CA6568286298",
         "copyright": "Fall aspen trees near Guardsman Pass, Utah, United States (© Danita Delimont/Shutterstock)",
         "copyrightKeyword": "September equinox",
-        "hsh": "ce4c81c5334e5d3b0c5fbb694c4c1692",
-        "description": "The autumn equinox marks a turning point in the Northern Hemisphere. Occurring each September, it is the moment when the sun crosses the equator heading south, and day and night are nearly equal in length. After this celestial balance, daylight gradually shrinks as the journey towards winter begins."
-    },
-    {
-        "fullstartdate": "202609210400",
-        "date": "20260921",
-        "url": "https://www.bing.com/th?id=OHR.GroomingOtter_EN-CA5802555233_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.GroomingOtter_EN-CA5802555233",
-        "copyright": "Sea otter grooming fur, Monterey Bay, California, United States (© Suzi Eszterhas/Minden Pictures)",
-        "copyrightKeyword": "Sea Otter Awareness Week",
-        "hsh": "dcfbe1419fe8fd64e97dd8bb0ce18074"
+        "hsh": "ce4c81c5334e5d3b0c5fbb694c4c1692"
     }
 ]
