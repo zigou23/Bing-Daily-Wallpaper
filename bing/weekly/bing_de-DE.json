@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202609302200",
+        "date": "20261001",
+        "url": "https://www.bing.com/th?id=OHR.BeardReedling_DE-DE4310310403_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BeardReedling_DE-DE4310310403",
+        "copyright": "Bartmeisenmännchen, Norfolk, England (© Andrew Sproule/Shutterstock)",
+        "copyrightKeyword": "Bartmeise",
+        "hsh": "e58cf741d67d07d9425e15fb54db0a6a",
+        "description": "Bartmeisenmännchen fallen sofort durch ihr unverwechselbares Erscheinungsbild auf. Die markanten schwarzen Bartstreifen auf dem graublauen Kopf verleihen ihnen einen fast gezeichneten Ausdruck und machen sie leicht erkennbar. Das hier fotografierte Männchen wurde in Norfolk an der Ostküste Englands aufgenommen. In den ausgedehnten Schilfbeständen der Region finden die Vögel geschützte Brutplätze und reichlich Nahrung. Oft bewegen sie sich geschickt an dünnen Halmen entlang und zeigen dabei eine bemerkenswerte Balance. Besonders im Winter lassen sie sich häufiger beobachten, wenn kleine Gruppen gemeinsam durch die Vegetation ziehen."
+    },
+    {
         "fullstartdate": "202609292200",
         "date": "20260930",
         "url": "https://www.bing.com/th?id=OHR.AlphornBavaria_DE-DE4197541227_1920x1080.jpg",
@@ -70,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ElGolfo_DE-DE2094132875",
         "copyright": "Luftaufnahme des schwarzen Lavastrandes in El Golfo, Lanzarote, Kanarische Inseln, Spanien (© Westend61/Adobe Stock)",
         "copyrightKeyword": "Lanzarote",
-        "hsh": "ccbcbfe4314eae63225526621c9740ea",
-        "description": "An der Westküste der spanischen Kanareninsel Lanzarote wirkt die Landschaft beinahe wie von einem anderen Planeten. Der schwarze Lavastrand bei El Golfo bildet einen eindrucksvollen Kontrast zu den tiefblauen Wellen des Atlantiks. Aus der Vogelperspektive werden die Formen und Farben besonders sichtbar und zeigen die vulkanische Herkunft der Insel auf besondere Weise.",
-        "maplink": "28.978999,-13.829368"
-    },
-    {
-        "fullstartdate": "202609222200",
-        "date": "20260923",
-        "url": "https://www.bing.com/th?id=OHR.FallAspens_DE-DE1894805045_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FallAspens_DE-DE1894805045",
-        "copyright": "Herbstliche Espen nahe dem Guardsman Pass, Utah, USA (© Danita Delimont/Shutterstock)",
-        "copyrightKeyword": "September-Tagundnachtgleiche",
-        "hsh": "1cd0f4539b97b5c43c058049dfc0ef5f"
+        "hsh": "ccbcbfe4314eae63225526621c9740ea"
     }
 ]

@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202609301500",
+        "date": "20261001",
+        "url": "https://www.bing.com/th?id=OHR.OlmstedPoint_JA-JP0098463265_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.OlmstedPoint_JA-JP0098463265",
+        "copyright": "オルムステッド・ポイント, 米国 カリフォルニア州 (© Robb Hirsch/Tandem Stills + Motion)",
+        "copyrightKeyword": "オルムステッド・ポイント",
+        "hsh": "1c0d732ad51491dd04c6c159eb11b23e",
+        "description": "1890 年 10 月 1 日、ヨセミテは米国で 3 番目の国立公園となりました。そして、今日の画像は公園内にあるビュースポット、「オルムステッド・ポイント」です。この場所からは、ハーフドームの切り立った北側やテナヤ峡谷、テナヤ湖といった公園を代表する名所を見渡すことができます。その名前は、米国の国立公園設立運動に貢献した造園家・フレデリック・ロー・オルムステッドとその息子に由来しています。ヨセミテを代表する絶景スポットであり、数百万年にわたる地殻変動や氷河作用が生み出した大地の歴史を私たちに伝えてくれます。",
+        "maplink": "37.850924,-119.572719"
+    },
+    {
         "fullstartdate": "202609291500",
         "date": "20260930",
         "url": "https://www.bing.com/th?id=OHR.BeardReedling_JA-JP9843863193_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ElGolfo_JA-JP7674043520",
         "copyright": "ランサローテ島, スペイン (© Westend61/Adobe Stock)",
         "copyrightKeyword": "ランサローテ島",
-        "hsh": "d7647344854e4c9bb43639fa62d6af84",
-        "description": "ここは、スペインのカナリア諸島に位置するランサローテ島にあるビーチ。黒い砂浜、ターコイズブルーの海、そして険しい断崖が織りなす独特の景観で知られています。1730 年から 1736 年にかけての大噴火によって、島の広い範囲が溶岩に覆われ、特徴的な黒い海岸線が形成されました。近くには鮮やかな緑色のクリコス湖があり、黒い砂浜、緑の湖、青い海が織りなすコントラストは、訪れる人々を魅了します。",
-        "maplink": "28.978999,-13.829368"
-    },
-    {
-        "fullstartdate": "202609221500",
-        "date": "20260923",
-        "url": "https://www.bing.com/th?id=OHR.Japan7Flower2026_JA-JP7430731593_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.Japan7Flower2026_JA-JP7430731593",
-        "copyright": "秋の七草のナデシコ (© igaguri_1/Getty Images)",
-        "copyrightKeyword": "秋分の日",
-        "hsh": "f3a0f2a3af9ffa11a4d7130a9ed55650"
+        "hsh": "d7647344854e4c9bb43639fa62d6af84"
     }
 ]
