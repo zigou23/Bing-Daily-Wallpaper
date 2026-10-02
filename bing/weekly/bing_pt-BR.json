@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202610010300",
+        "date": "20261001",
+        "url": "https://www.bing.com/th?id=OHR.GreenLake_PT-BR0948770849_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GreenLake_PT-BR0948770849",
+        "copyright": "Vista aérea da Lagoa Verde, Angra dos Reis, Rio de Janeiro (© Avalon/Getty Images)",
+        "copyrightKeyword": "Angra dos Reis",
+        "hsh": "d13f19473bc9ef5d67c874d953fb0357",
+        "description": "Existem lugares que mudam com as estações. A Lagoa Verde prefere acompanhar a maré. Entre a Ilha Grande e a Ilha da Longa, em Angra dos Reis, Rio de Janeiro, marés, correntes e relevo criam um cenário que muda ao longo do dia. Na maré baixa, a água pode recuar o suficiente para revelar uma estreita faixa de areia e pedras ligando as duas ilhas. Por algumas horas, o mapa simplesmente ganha outro desenho."
+    },
+    {
         "fullstartdate": "202609300300",
         "date": "20260930",
         "url": "https://www.bing.com/th?id=OHR.BeardReedling_PT-BR1145161880_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.TolkienWeek_PT-BR2214990560",
         "copyright": "Vila dos Hobbits em Matamata, Nova Zelândia (© djr-photography/Shutterstock)",
         "copyrightKeyword": "Semana Tolkien e Dia Hobbit",
-        "hsh": "39c8c24317b05e51e54c7d03a3b36af6",
-        "description": "Alguns lugares entram para a história. Hobbiton, em Matamata, Nova Zelândia, foi feito para dar vida a uma. Quando produtores de “O Senhor dos Anéis” procuravam locações em 1998, encontraram ali colinas verdes que já pareciam pertencer ao Condado. A equipe acrescentou portas redondas, jardins e chaminés, e o cenário foi reconstruído para os filmes de “O Hobbit”. Uma locação temporária acabou virando atração para fãs do mundo inteiro."
-    },
-    {
-        "fullstartdate": "202609230300",
-        "date": "20260923",
-        "url": "https://www.bing.com/th?id=OHR.SpringTree_PT-BR3107057910_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SpringTree_PT-BR3107057910",
-        "copyright": "Ipê-amarelo florido contra o céu azul (© Rogerio Peccioli/Getty Images)",
-        "copyrightKeyword": "a primavera",
-        "hsh": "c7e5c4521d6c6d089d8e1b702abb84cc"
+        "hsh": "39c8c24317b05e51e54c7d03a3b36af6"
     }
 ]

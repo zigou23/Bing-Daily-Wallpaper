@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202610012300",
+        "date": "20261002",
+        "url": "https://www.bing.com/th?id=OHR.ChattoogaRiver_EN-GB2495394216_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ChattoogaRiver_EN-GB2495394216",
+        "copyright": "Chattooga River in the Appalachian Mountains, North Carolina, United States (© mtilghma/Getty Images)",
+        "copyrightKeyword": "Chattooga River",
+        "hsh": "40668cbd32c4b2729bef0138d8b46ea8",
+        "description": "Few rivers combine wild scenery and whitewater quite like the Chattooga. Rising in the mountains near Cashiers, North Carolina, it winds through Georgia, North Carolina and South Carolina in the United States, dropping nearly half a mile in elevation along its journey. With no dams upstream, its water levels can change quickly after rainfall, adding excitement for rafters and kayakers.",
+        "maplink": "35.080936,-83.109932"
+    },
+    {
         "fullstartdate": "202609302300",
         "date": "20261001",
         "url": "https://www.bing.com/th?id=OHR.BlackHistoryMonthUK2026_EN-GB9938862434_1920x1080.jpg",
@@ -71,16 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MidAutumn2026_EN-GB9443754459",
         "copyright": "Chinese lanterns for Mid-Autumn Festival celebration (© LeeYiuTung/Getty Images)",
         "copyrightKeyword": "Mid Autumn Festival",
-        "hsh": "8b44e66280b2b6f6ba26e2e0e56dda3c",
-        "description": "What if the full moon were the guest of honour at your family dinner? That is the idea behind the Mid-Autumn Festival, also known as the Moon Festival. Celebrated on the 15th day of the eighth lunar month, it is one of the most important festivals in Chinese culture. Its roots trace back more than 3,000 years to moon-honouring rituals during the Zhou Dynasty. Its best-known legend tells of Chang'e, who drank an elixir of immortality and rose to the moon."
-    },
-    {
-        "fullstartdate": "202609232300",
-        "date": "20260924",
-        "url": "https://www.bing.com/th?id=OHR.TolkienWeek_EN-GB9361035480_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.TolkienWeek_EN-GB9361035480",
-        "copyright": "Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)",
-        "copyrightKeyword": "Tolkien Week",
-        "hsh": "46c6b41bd66ed44e3cd63d439a5d8cf3"
+        "hsh": "8b44e66280b2b6f6ba26e2e0e56dda3c"
     }
 ]

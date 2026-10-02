@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202610010400",
+        "date": "20261001",
+        "url": "https://www.bing.com/th?id=OHR.OlmstedPoint_EN-CA1947517359_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.OlmstedPoint_EN-CA1947517359",
+        "copyright": "Sunset from Olmsted Point, Yosemite National Park, California, United States (© Robb Hirsch/Tandem Stills + Motion)",
+        "copyrightKeyword": "Yosemite National Park",
+        "hsh": "422aecd55a14fd9997a5ec232e7a9e43",
+        "description": "In 1890, Yosemite became America's third national park. More than a century later, it still feels like a place that operates on geological time rather than human schedules. From Olmsted Point, the overlook in today's image, that timescale is impossible to miss. The smooth granite underfoot was sculpted by glaciers, while scattered boulders known as glacial erratics were carried here by ice and abandoned when it melted.",
+        "maplink": "37.850924,-119.572719"
+    },
+    {
         "fullstartdate": "202609300400",
         "date": "20260930",
         "url": "https://www.bing.com/th?id=OHR.BeardReedling_EN-CA1270469815_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ElGolfo_EN-CA7672858081",
         "copyright": "Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock)",
         "copyrightKeyword": "Lanzarote Spain",
-        "hsh": "98a3f07057a48c9920287953a6a54e9c",
-        "description": "On Lanzarote, part of Spain's Canary Islands, geology got carried away. Dark sand meets the Atlantic beneath cliffs streaked with ochre and rust, the handiwork of volcanic activity spanning millions of years. One chapter of this story arrived remarkably recently: between 1730 and 1736, numerous vents opened across Lanzarote, sending lava over dozens of square kilometres and burying roads, villages and farmland.",
-        "maplink": "28.978999,-13.829368"
-    },
-    {
-        "fullstartdate": "202609230400",
-        "date": "20260923",
-        "url": "https://www.bing.com/th?id=OHR.TolkienWeek_EN-CA7225706887_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.TolkienWeek_EN-CA7225706887",
-        "copyright": "Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)",
-        "copyrightKeyword": "Tolkien Week",
-        "hsh": "ff74e4981b8eb3d992fc24263c44a4c9"
+        "hsh": "98a3f07057a48c9920287953a6a54e9c"
     }
 ]

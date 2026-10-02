@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202610012200",
+        "date": "20261002",
+        "url": "https://www.bing.com/th?id=OHR.GrizzlySwim_DE-DE4187515695_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GrizzlySwim_DE-DE4187515695",
+        "copyright": "Braunbär am Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, USA (© Danny Green/Nature Picture Library)",
+        "copyrightKeyword": "Braunbär",
+        "hsh": "0534e2ebbae494298a3d768906bd6cbc",
+        "description": "Im Lake Clark National Park and Preserve im US-Bundesstaat Alaska gehört der Silver Salmon Creek zu den besten Orten, um Braunbären in ihrer natürlichen Umgebung zu beobachten. Während der Lachswanderung versammeln sich die Tiere an Flussufern und in flachen Gewässern, wo sie geduldig auf vorbeiziehende Fische warten. Die weitläufige Landschaft aus Bergen, Feuchtgebieten und Küstenebenen bietet ihnen reichlich Nahrung und Rückzugsorte. Da große Teile des Schutzgebiets nur per Boot oder Wasserflugzeug erreichbar sind, wirkt die Region bis heute außergewöhnlich ursprünglich.",
+        "maplink": "61.147081,-153.734242"
+    },
+    {
         "fullstartdate": "202609302200",
         "date": "20261001",
         "url": "https://www.bing.com/th?id=OHR.BeardReedling_DE-DE4310310403_1920x1080.jpg",
@@ -70,16 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MidAutumn2026_DE-DE3267606088",
         "copyright": "Chinesische Laternen zum Mondfest (© LeeYiuTung/Getty Images)",
         "copyrightKeyword": "Mondfest",
-        "hsh": "c5278b73240be85b8bf35411879afa05",
-        "description": "Das Mondfest, auch als Mittherbstfest bekannt, zählt zu den bedeutendsten traditionellen Feiertagen Chinas. Es wird am fünfzehnten Tag des achten Monats im chinesischen Mondkalender gefeiert und ist eng mit dem Vollmond verbunden. Seine Ursprünge reichen mehr als 3.000 Jahre zurück und gehen auf Rituale zur Verehrung des Mondes während der Zhou-Dynastie zurück. Heute ist das Fest vor allem ein Anlass für Familien, gemeinsam Zeit zu verbringen. Chinesische Laternen gehören dabei zu den bekanntesten Symbolen und verleihen den Feierlichkeiten mit ihrem warmen Licht eine besondere Atmosphäre."
-    },
-    {
-        "fullstartdate": "202609232200",
-        "date": "20260924",
-        "url": "https://www.bing.com/th?id=OHR.ElGolfo_DE-DE2094132875_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ElGolfo_DE-DE2094132875",
-        "copyright": "Luftaufnahme des schwarzen Lavastrandes in El Golfo, Lanzarote, Kanarische Inseln, Spanien (© Westend61/Adobe Stock)",
-        "copyrightKeyword": "Lanzarote",
-        "hsh": "ccbcbfe4314eae63225526621c9740ea"
+        "hsh": "c5278b73240be85b8bf35411879afa05"
     }
 ]
