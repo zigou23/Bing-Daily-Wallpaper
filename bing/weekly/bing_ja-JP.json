@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202610021500",
+        "date": "20261003",
+        "url": "https://www.bing.com/th?id=OHR.AmmoniteFossils_JA-JP8778940090_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AmmoniteFossils_JA-JP8778940090",
+        "copyright": "アンモナイトの化石 (© J Nemchinova/Getty Images)",
+        "copyrightKeyword": "アンモナイト",
+        "hsh": "796f08c1a9d408dee63c1a79f8c4ffd9",
+        "description": "今日の画像は、アンモナイトの化石。アンモナイトは、約 4 億年前から 6600 万年前まで海に生息していた海洋軟体動物です。殻の内部が複数の部屋に分かれているなど、現生のオウムガイ類と似た特徴を持っていますが、イカやタコなどを含むグループにより近いと考えられています。多くの種類に見られる特徴的な螺旋形の殻から、古代生物の代表的な化石として広く知られています。また、世界各地で化石が発見されており、地層の年代決定や先史時代の海洋環境の研究に活用されています。"
+    },
+    {
         "fullstartdate": "202610011500",
         "date": "20261002",
         "url": "https://www.bing.com/th?id=OHR.ChattoogaRiver_JA-JP8558662500_1920x1080.jpg",
@@ -72,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BearsEars_JA-JP8214752036",
         "copyright": "シーダーメサ, 米国 ユタ州 (© Jeff Clay/Tandem Stills + Motion)",
         "copyrightKeyword": "シーダーメサ",
-        "hsh": "8eae43ec94cc824ae18fd5e9534a887a",
-        "description": "ここはシーダーメサ。米国ユタ州にあるベアーズ・イヤーズ国定公園の南部に位置する台地です。標高は約 2,000m で、考古学上の宝庫として知られるグランド・ガルチをはじめ、深い峡谷が数多く存在しています。南側にはミューリー・ポイントと呼ばれる岬があり、ここからサンファン川やバレー・オブ・ザ・ゴッズ、モニュメント・バレー、ナバホ・マウンテンといった素晴らしい景観を一望できます。また、シーダーメサの向こうには 2 つの丘がそびえており、これがクマの耳（ベアーズイヤーズ）に似ていることが、公園の名前の由来となっています。",
-        "maplink": "37.433414,-109.916978"
-    },
-    {
-        "fullstartdate": "202609241500",
-        "date": "20260925",
-        "url": "https://www.bing.com/th?id=OHR.MidAutumn2026_JA-JP8034446964_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MidAutumn2026_JA-JP8034446964",
-        "copyright": "中秋節用の中国提灯 (© LeeYiuTung/Getty Images)",
-        "copyrightKeyword": "中秋の名月",
-        "hsh": "2400455042f1fe3d285595fea6e4c432"
+        "hsh": "8eae43ec94cc824ae18fd5e9534a887a"
     }
 ]

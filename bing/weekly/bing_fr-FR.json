@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202610022200",
+        "date": "20261003",
+        "url": "https://www.bing.com/th?id=OHR.GrizzlySwim_FR-FR9368655618_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GrizzlySwim_FR-FR9368655618",
+        "copyright": "Ours brun à Silver Salmon Creek, parc national et réserve de Lake Clark, Alaska, États-Unis (© Danny Green/Nature Picture Library)",
+        "copyrightKeyword": "ours brun animal",
+        "hsh": "5d6ee81732ddb7d68a43d5b28ac1a8fc",
+        "description": "En octobre, dans le parc national de Lake Clark en Alaska, aux États-Unis, les ours bruns vivent leurs semaines les plus précieuses. Silver Salmon Creek devient un véritable buffet sauvage : poissons, baies, racines, palourdes — ils mangent sans relâche, accumulant les réserves de graisse qui leur permettront de traverser l'hiver sans manger ni boire. Certains atteignent plus de 450 kilos avant de rejoindre leur tanière.",
+        "maplink": "61.147081,-153.734242"
+    },
+    {
         "fullstartdate": "202610012200",
         "date": "20261002",
         "url": "https://www.bing.com/th?id=OHR.AutumnPeatBog_FR-FR3286332172_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BoriesPoppies_FR-FR9955316118",
         "copyright": "Village des Bories, Gordes, Provence-Alpes-Côte d’Azur (© AGUILAR PATRICE/Alamy)",
         "copyrightKeyword": "Village des Bories",
-        "hsh": "afc824de1be9f7026b5ec93516db6e92",
-        "description": "Aux premiers jours de l’automne, le Village des Bories se pare d’une lumière dorée qui sublime les pierres sèches du Luberon. Sous un ciel encore lumineux, les chênes verts se mêlent aux premiers feuillages mordorés, tandis que les senteurs de thym et de romarin se fondent dans l’air plus frais de la saison.",
-        "maplink": "43.907041,5.180164"
-    },
-    {
-        "fullstartdate": "202609242200",
-        "date": "20260925",
-        "url": "https://www.bing.com/th?id=OHR.MidAutumn2026_FR-FR8607088238_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MidAutumn2026_FR-FR8607088238",
-        "copyright": "Lanternes chinoises lors de la Fête de la Mi-Automne (© LeeYiuTung/Getty Images)",
-        "copyrightKeyword": "Fête de la Mi-Automne",
-        "hsh": "ebbba634b245e4d015bf19b385428514"
+        "hsh": "afc824de1be9f7026b5ec93516db6e92"
     }
 ]
