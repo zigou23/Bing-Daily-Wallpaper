@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202610032200",
+        "date": "20261004",
+        "url": "https://www.bing.com/th?id=OHR.ArtemisRocket_DE-DE4474155042_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ArtemisRocket_DE-DE4474155042",
+        "copyright": "Artemis-I-Mondrakete am Startkomplex 39B, Kennedy Space Center, Florida, USA, 15. Juni 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
+        "copyrightKeyword": "Weltraumwoche",
+        "hsh": "98687272e8caa05379b54795184389b3",
+        "description": "Am 15. Juni 2022 stand die Artemis‑I-Mondrakete am Startkomplex 39B des Kennedy Space Center in Florida bereit. Wenige Monate später, am 16. November, begann dort ihre Reise zum Mond. An Bord des Space Launch Systems befand sich die unbemannte Orion-Raumkapsel. In 25,5 Tagen legte sie rund 1,4 Millionen Meilen zurück, umrundete den Mond und kehrte sicher zur Erde zurück. Die Mission sollte zeigen, dass Rakete, Raumkapsel und Bodensysteme für künftige bemannte Mondmissionen bereit sind.",
+        "maplink": "28.522254,-80.68167"
+    },
+    {
         "fullstartdate": "202610022200",
         "date": "20261003",
         "url": "https://www.bing.com/th?id=OHR.BrandenburgGateFireworks_DE-DE4410403528_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DecoCrab_DE-DE3687547943",
         "copyright": "Dekorateurkrabbe auf einer Seefeder, Nationalpark Komodo, Indonesien (© Alex Mustard/Nature Picture Library)",
         "copyrightKeyword": "Nationalpark Komodo",
-        "hsh": "67c8d4b15fa1735ae085b388b6440c23",
-        "description": "Im heutigen Bild spielt sich ein stilles Versteckspiel unter Wasser ab. Eine Dekorateurkrabbe sitzt auf einer Seefeder und verschmilzt beinahe mit ihrer Umgebung. Die Aufnahme entstand im Nationalpark Komodo in Indonesien, einem Schutzgebiet, das 1980 eingerichtet wurde und nach dem Komodowaran benannt ist. Zwischen dem Pazifischen und dem Indischen Ozean gelegen, umfasst der Park Inseln, Mangrovenwälder, Seegraswiesen und farbenreiche Korallenriffe. Starke Meeresströmungen fördern hier eine außergewöhnliche Vielfalt an Tieren und Pflanzen.",
-        "maplink": "-8.527705,119.483323"
-    },
-    {
-        "fullstartdate": "202609252200",
-        "date": "20260926",
-        "url": "https://www.bing.com/th?id=OHR.StarnbergerseeAutumn_DE-DE3476819754_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.StarnbergerseeAutumn_DE-DE3476819754",
-        "copyright": "Luftaufnahme des Starnberger Sees im Herbst, Bayern (© Mystockimages/Getty Images)",
-        "copyrightKeyword": "Starnberger See",
-        "hsh": "8795d38f37697904532f0defdf955ff9"
+        "hsh": "67c8d4b15fa1735ae085b388b6440c23"
     }
 ]

@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202610031830",
+        "date": "20261004",
+        "url": "https://www.bing.com/th?id=OHR.ArtemisRocket_EN-IN7247754075_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ArtemisRocket_EN-IN7247754075",
+        "copyright": "Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, United States (© EVA MARIE UZCATEGUI/Getty Images)",
+        "copyrightKeyword": "World Space Week",
+        "hsh": "b4a6a18fa36ef241952ad8d389973561",
+        "description": "First, you build a rocket. Then you ask it to leave Earth, fly to the moon, survive the trip and bring its spacecraft home. Simple, right? Well, not quite. World Space Week, observed every 4-10 October, celebrates the science that makes missions like this possible. The United Nations established the observance in 1999 to commemorate Sputnik 1's launch on 4 October 1957, and the entry into force of the Outer Space Treaty on 10 October 1967. This year's theme, 'Rocket Revolution,' focuses on the evolving technology driving space exploration.",
+        "maplink": "28.522254,-80.68167"
+    },
+    {
         "fullstartdate": "202610021830",
         "date": "20261003",
         "url": "https://www.bing.com/th?id=OHR.GrizzlySwim_EN-IN7120112042_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DecoCrab_EN-IN8596521807",
         "copyright": "Decorator crab on a sea pen, Komodo National Park, Indonesia (© Alex Mustard/Nature Picture Library)",
         "copyrightKeyword": "Komodo National Park",
-        "hsh": "0907ca65555838b7967a1a85df9ba651",
-        "description": "Think of this as underwater hide-and-seek: the sea pen stands out while the crab blends in. Today's image comes from the waters surrounding Komodo National Park in Indonesia, established in 1980 and named after the Komodo dragon, the world's largest living lizard. The protected area includes islands, mangroves, seagrass beds and coral reefs. Located between the Pacific and Indian Oceans, the park is shaped by powerful currents that support a rich diversity of marine life, including species that rely on camouflage to survive.",
-        "maplink": "-8.527705,119.483323"
-    },
-    {
-        "fullstartdate": "202609251830",
-        "date": "20260926",
-        "url": "https://www.bing.com/th?id=OHR.BearsEars_EN-IN8507636618_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BearsEars_EN-IN8507636618",
-        "copyright": "Cedar Mesa and Muley Point near Bears Ears National Monument, Utah, United States (© Jeff Clay/Tandem Stills + Motion)",
-        "copyrightKeyword": "Bears Ears National Monument",
-        "hsh": "ee47005777fd384984ad7a264e9307da"
+        "hsh": "0907ca65555838b7967a1a85df9ba651"
     }
 ]
