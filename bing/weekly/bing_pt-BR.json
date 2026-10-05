@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202610040300",
+        "date": "20261004",
+        "url": "https://www.bing.com/th?id=OHR.ArtemisRocket_PT-BR6940961892_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ArtemisRocket_PT-BR6940961892",
+        "copyright": "Foguete Artemis I no Complexo de Lançamento 39B, Centro Espacial Kennedy, Flórida, EUA (© EVA MARIE UZCATEGUI/Getty Images)",
+        "copyrightKeyword": "Semana Mundial do Espaço",
+        "hsh": "b71730d6491bbd1e1c91d6eed4356f22",
+        "description": "Viajar até a lua está longe de ser simples. É preciso lançar uma espaçonave, chegar até lá, enfrentar temperaturas e radiação extremas e voltar em segurança. A Semana Mundial do Espaço, de 4 a 10 de outubro, celebra a ciência que torna isso possível. Criada pela ONU em 1999, a comemoração começa na data do lançamento do Sputnik 1, em 1957, e termina no aniversário da entrada em vigor do Tratado do Espaço Sideral, em 1967. Em 2026, o tema “Revolução dos Foguetes” destaca tecnologias que estão mudando a exploração espacial."
+    },
+    {
         "fullstartdate": "202610030300",
         "date": "20261003",
         "url": "https://www.bing.com/th?id=OHR.GrizzlySwim_PT-BR4132076191_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DecoCrab_PT-BR1863827080",
         "copyright": "Caranguejo-decorador em pena-do-mar, Parque Nacional de Komodo, Indonésia (© Alex Mustard/Nature Picture Library)",
         "copyrightKeyword": "Parque Nacional de Komodo na Indonésia",
-        "hsh": "5b3c42ec1074ea923b2f94815f52153f",
-        "description": "O desafio desta foto parece simples: encontre o caranguejo. Ele está ali, entre os ramos de uma pena-do-mar, um parente dos corais, nas águas do Parque Nacional de Komodo, na Indonésia. O caranguejo-decorador transforma a própria carapaça em um esconderijo móvel: cerdas curvadas funcionam como pequenos ganchos que prendem algas, esponjas e outros materiais ao corpo, quebrando seu contorno diante dos predadores."
-    },
-    {
-        "fullstartdate": "202609260300",
-        "date": "20260926",
-        "url": "https://www.bing.com/th?id=OHR.ElGolfo_PT-BR1964322549_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ElGolfo_PT-BR1964322549",
-        "copyright": "Vista aérea da praia de lava negra, El Golfo, Lanzarote, Ilhas Canárias, Espanha (© Westend61/Adobe Stock)",
-        "copyrightKeyword": "Lanzarote",
-        "hsh": "690f74097a5341e0628275900add782f"
+        "hsh": "5b3c42ec1074ea923b2f94815f52153f"
     }
 ]

@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202610041500",
+        "date": "20261005",
+        "url": "https://www.bing.com/th?id=OHR.AdelieTeacher_JA-JP9090254921_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AdelieTeacher_JA-JP9090254921",
+        "copyright": "アデリーペンギンのグループ, 南極大陸 (© Otto Plantema/Minden Pictures)",
+        "copyrightKeyword": "アデリーペンギン",
+        "hsh": "a8f683f0ee91c40cd0658207e3dbb53a",
+        "description": "今日の画像は、南極大陸周辺に生息するアデリーペンギンのグループ。アデリーペンギンは、体長 60 ～ 70cm、体重約 5kg という中型のペンギンです。海中を時速約 14kmで泳ぎ回りながら、餌を捕まえたり、捕食者から逃れたりします。地上の雪原を移動する際は、他のペンギン同様腹ばいになって氷上を滑って移動することがあります。この移動方法は「トボガン」と呼ばれており、北米の先住民が用いていたソリを意味する言葉にちなんで名づけられました。"
+    },
+    {
         "fullstartdate": "202610031500",
         "date": "20261004",
         "url": "https://www.bing.com/th?id=OHR.ArtemisRocket_JA-JP8925094178_1920x1080.jpg",
@@ -71,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AmberHall_JA-JP9172458689",
         "copyright": "アンベール城, インド (© R.M. Nunes/Getty Images)",
         "copyrightKeyword": "アンベール城",
-        "hsh": "236a639b14aaf44431a4cca2ef630f89",
-        "description": "アンベール城は、インドのラージャスターン州ジャイプル郊外にある宮殿要塞です。1592年、ラージャ・マーン・シング 1 世が築城を始め、以後、カッチワハ朝の歴代統治者によって拡張されていきました。1727 年に王族はジャイプルへと移りましたが、アンベール城はその後も儀礼の場として使用されていました。ヒンドゥー、ラージプート、ムガルの建築様式が融合した壮麗な城で、現在はジャイプルを代表する観光名所の一つとして知られています。そして、今日の画像は城内にあるサッタイス・カチェリで、「 27 本の柱の宮殿」を意味する建造物です。",
-        "maplink": "26.986382,75.851341"
-    },
-    {
-        "fullstartdate": "202609261500",
-        "date": "20260927",
-        "url": "https://www.bing.com/th?id=OHR.YokohamaBayBridge_JA-JP8812921625_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.YokohamaBayBridge_JA-JP8812921625",
-        "copyright": "横浜ベイブリッジ, 神奈川県 横浜市 (© Yuga Kurita/Getty Images)",
-        "copyrightKeyword": "横浜ベイブリッジ開通日",
-        "hsh": "88c5d47af5133c32b6344ba74a0d0fdc"
+        "hsh": "236a639b14aaf44431a4cca2ef630f89"
     }
 ]
