@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202610052200",
+        "date": "20261006",
+        "url": "https://www.bing.com/th?id=OHR.DanxiaLandform_IT-IT8922583550_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.DanxiaLandform_IT-IT8922583550",
+        "copyright": "Rilievi Danxia, Geoparco nazionale di Zhangye, Gansu, Cina (© Weiquan Lin/Getty Images)",
+        "copyrightKeyword": "Giornata internazionale della geodiversità",
+        "hsh": "6e67cc282ce2e4d30b48d3f4e7c9379e",
+        "description": "Nel Geoparco nazionale di Zhangye, nel Gansu (Cina), le montagne raccontano la propria storia geologica a strisce: le colline si susseguono in bande rosse, arancioni, gialle e ocra. È il rilievo Danxia, formato da strati sedimentari che i movimenti tettonici hanno sollevato e piegato e che l'erosione ha poi scolpito in creste, calanchi e pareti.",
+        "maplink": "38.966774,100.04408"
+    },
+    {
         "fullstartdate": "202610042200",
         "date": "20261005",
         "url": "https://www.bing.com/th?id=OHR.AdelieTeacher_IT-IT0908380283_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.KasilofRiver_IT-IT8693387372",
         "copyright": "Le acque blu alimentate dai ghiacciai del fiume Kasilof, Alaska, USA (© jared lloyd/Getty Images)",
         "copyrightKeyword": "Il Fiume Kasilof Alaska",
-        "hsh": "fd3d8786f1b0925d3acf353e425d2b60",
-        "description": "Visto dall'alto, il fiume Kasilof disegna un nastro turchese sulla penisola di Kenai, in Alaska (USA). Quel colore non è un gioco di luce: viene dal limo glaciale in sospensione che scende dal lago Tustumena, uno dei più grandi bacini d'acqua dolce dello stato, alimentato a sua volta da un ghiacciaio.",
-        "maplink": "60.386498454,-151.301832126"
-    },
-    {
-        "fullstartdate": "202609272200",
-        "date": "20260928",
-        "url": "https://www.bing.com/th?id=OHR.AmberHall_IT-IT8621021328_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AmberHall_IT-IT8621021328",
-        "copyright": "Sattais Katcheri, Forte Amber vicino a Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)",
-        "copyrightKeyword": "Forte Amber Jaipur",
-        "hsh": "15d1ea4c0fde654cfae93a0ab6f7f20d"
+        "hsh": "fd3d8786f1b0925d3acf353e425d2b60"
     }
 ]

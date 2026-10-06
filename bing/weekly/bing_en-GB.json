@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202610052300",
+        "date": "20261006",
+        "url": "https://www.bing.com/th?id=OHR.DanxiaLandform_EN-GB2873051697_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.DanxiaLandform_EN-GB2873051697",
+        "copyright": "Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)",
+        "copyrightKeyword": "International Geodiversity Day",
+        "hsh": "4a1120f6229d4ac98992b8b04079160f",
+        "description": "What if a mountain range could show you its geological history in stripes? At Zhangye National Geopark in China, the rocks do exactly that. Ridges roll across the landscape in bands of red, orange, yellow, brown and other earthy tones. Known as the Danxia landform, this striking landscape was shaped by layers of sedimentary rock deposited over geological time. Tectonic forces later lifted and folded the rocks, while weathering and erosion carved them into ridges, cliffs, gullies and peaks.",
+        "maplink": "38.966774,100.04408"
+    },
+    {
         "fullstartdate": "202610042300",
         "date": "20261005",
         "url": "https://www.bing.com/th?id=OHR.AdelieTeacher_EN-GB2790518533_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.KasilofRiver_EN-GB9796874794",
         "copyright": "The blue, glacier-fed waters of the Kasilof River, Alaska, United States (© jared lloyd/Getty Images)",
         "copyrightKeyword": "Kasilof River Alaska",
-        "hsh": "d68af21c6c0dfc91aadee95fd2327c0b",
-        "description": "Seen from above, the Kasilof River winds like a ribbon of turquoise through Alaska's Kenai Peninsula in the United States. The vivid blue water comes from glacial silt carried downstream from Tustumena Lake, one of the largest freshwater lakes in the state. Flowing about 17 miles before emptying into Cook Inlet, the river is shorter than its famous neighbour, the Kenai, but no less remarkable.",
-        "maplink": "60.386498454,-151.301832126"
-    },
-    {
-        "fullstartdate": "202609272300",
-        "date": "20260928",
-        "url": "https://www.bing.com/th?id=OHR.AmberHall_EN-GB9719100676_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AmberHall_EN-GB9719100676",
-        "copyright": "Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)",
-        "copyrightKeyword": "Amber Fort Jaipur Rajasthan",
-        "hsh": "74776d199b79d0ca732bb8686cf75fcf"
+        "hsh": "d68af21c6c0dfc91aadee95fd2327c0b"
     }
 ]
