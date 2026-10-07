@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202610062300",
+        "date": "20261007",
+        "url": "https://www.bing.com/th?id=OHR.ForestofDean_EN-GB3000076093_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ForestofDean_EN-GB3000076093",
+        "copyright": "Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)",
+        "copyrightKeyword": "Puzzlewood England",
+        "hsh": "79a9a79a4359c7da5a2ce5686aa2384d",
+        "description": "What if a forest could keep you guessing at every turn? At Puzzlewood, near Coleford in the Forest of Dean, England, winding paths lead through twisted trees, moss-covered rocks and deep stone ravines. Its unusual rock formations, known as scowles, are natural geological features that were exposed and modified over time and later exploited for iron ore mining during the Roman period and possibly earlier. In 1848, a worker discovered more than 3,000 Roman-era coins hidden in earthenware jars inside a rock cavity, turning the woodland into a real-life treasure hunt.",
+        "maplink": "51.812183,-2.516615"
+    },
+    {
         "fullstartdate": "202610052300",
         "date": "20261006",
         "url": "https://www.bing.com/th?id=OHR.DanxiaLandform_EN-GB2873051697_1920x1080.jpg",
@@ -71,16 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BeardReedling_EN-GB9865111388",
         "copyright": "Male bearded reedling, Norfolk, England (© Andrew Sproule/Shutterstock)",
         "copyrightKeyword": "Bearded reedling",
-        "hsh": "768a28a1c95819b7605acff718ab3082",
-        "description": "Balanced on a slender stalk in Norfolk, England, the male bearded reedling in today's image stands out with a pale blue-grey head, a bright orange bill and the black facial markings that give the species its name. Despite its striking appearance, this small bird spends much of its life hidden among the dense wetland vegetation of marshes, lakeshores and reed beds."
-    },
-    {
-        "fullstartdate": "202609282300",
-        "date": "20260929",
-        "url": "https://www.bing.com/th?id=OHR.KasilofRiver_EN-GB9796874794_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.KasilofRiver_EN-GB9796874794",
-        "copyright": "The blue, glacier-fed waters of the Kasilof River, Alaska, United States (© jared lloyd/Getty Images)",
-        "copyrightKeyword": "Kasilof River Alaska",
-        "hsh": "d68af21c6c0dfc91aadee95fd2327c0b"
+        "hsh": "768a28a1c95819b7605acff718ab3082"
     }
 ]

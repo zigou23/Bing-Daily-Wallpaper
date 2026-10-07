@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202610060400",
+        "date": "20261006",
+        "url": "https://www.bing.com/th?id=OHR.DanxiaLandform_FR-CA2247822289_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.DanxiaLandform_FR-CA2247822289",
+        "copyright": "Relief Danxia, géoparc national de Zhangye, Gansu, Chine (© Weiquan Lin/Getty Images)",
+        "copyrightKeyword": "journée internationale de la géodiversité",
+        "hsh": "cc92be34cf500c1abbf5a3e6615fd793",
+        "description": "Et si une chaîne de montagnes pouvait vous raconter son histoire à travers ses couleurs? Au parc géologique national de Zhangye, dans la province du Gansu en Chine, c'est exactement ce que font les roches. Des crêtes ondulent à perte de vue, striées de rouge, d'orange, d'ocre et de brun — une palette que nul artiste n'aurait osé inventer.",
+        "maplink": "38.966774,100.04408"
+    },
+    {
         "fullstartdate": "202610050400",
         "date": "20261005",
         "url": "https://www.bing.com/th?id=OHR.AdelieTeacher_FR-CA2651914460_1920x1080.jpg",
@@ -69,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.KasilofRiver_FR-CA9696942647",
         "copyright": "Les eaux bleues de la rivière Kasilof, Alaska, États-Unis (© jared lloyd/Getty Images)",
         "copyrightKeyword": "rivière Kasilof Alaska",
-        "hsh": "cabed7e0c63c6b940a9eed1326e03b7e",
-        "description": "Vue du ciel, la rivière Kasilof dessine un ruban turquoise à travers la péninsule de Kenai, en Alaska (États-Unis). Cette teinte saisissante provient des fines particules glaciaires transportées depuis le lac Tustumena, l’un des plus vastes lacs d’eau douce de l’État. Sur environ 27 kilomètres avant de rejoindre le Cook Inlet, le cours d’eau traverse un décor façonné par les glaces depuis des millénaires. À chaque méandre, les reflets sur l’eau laiteuse révèlent un paysage où montagnes, forêts boréales et zones humides composent une remarquable mosaïque naturelle.",
-        "maplink": "60.386498454,-151.301832126"
-    },
-    {
-        "fullstartdate": "202609280400",
-        "date": "20260928",
-        "url": "https://www.bing.com/th?id=OHR.AmberHall_FR-CA5187503259_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AmberHall_FR-CA5187503259",
-        "copyright": "La salle Sattais Katcheri dans le fort d’Amber près de Jaipur, Rajasthan, Inde (© R.M. Nunes/Getty Images)",
-        "copyrightKeyword": "fort d’Amber Jaipur Rajasthan",
-        "hsh": "a8189a21d0d852e23ebfdc98f08edbef"
+        "hsh": "cabed7e0c63c6b940a9eed1326e03b7e"
     }
 ]
