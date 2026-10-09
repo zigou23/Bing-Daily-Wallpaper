@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202610082200",
+        "date": "20261009",
+        "url": "https://www.bing.com/th?id=OHR.IlesSanguinaires_DE-DE5457015089_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.IlesSanguinaires_DE-DE5457015089",
+        "copyright": "Blick auf die Îles Sanguinaires vor Korsika, Frankreich (© Francesco Riccardo Iacomino/Getty Images)",
+        "copyrightKeyword": "Îles Sanguinaires Frankreich",
+        "hsh": "4d8b1df31f0b6f0787362452051fc510",
+        "description": "Die Îles Sanguinaires sind eine kleine Inselgruppe vor der Westküste Korsikas in Frankreich. Am Eingang des Golfs von Ajaccio ragen vier markante Felseninseln aus dem Mittelmeer empor. Von der Küste aus bieten sie ein eindrucksvolles Panorama, das von den kräftigen Farben des Meeres und den dunklen Granitfelsen geprägt wird.",
+        "maplink": "41.88166,8.59779"
+    },
+    {
         "fullstartdate": "202610072200",
         "date": "20261008",
         "url": "https://www.bing.com/th?id=OHR.MayotteOctopus_DE-DE5307771405_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.GrizzlySwim_DE-DE4187515695",
         "copyright": "Braunbär am Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, USA (© Danny Green/Nature Picture Library)",
         "copyrightKeyword": "Braunbär",
-        "hsh": "0534e2ebbae494298a3d768906bd6cbc",
-        "description": "Im Lake Clark National Park and Preserve im US-Bundesstaat Alaska gehört der Silver Salmon Creek zu den besten Orten, um Braunbären in ihrer natürlichen Umgebung zu beobachten. Während der Lachswanderung versammeln sich die Tiere an Flussufern und in flachen Gewässern, wo sie geduldig auf vorbeiziehende Fische warten. Die weitläufige Landschaft aus Bergen, Feuchtgebieten und Küstenebenen bietet ihnen reichlich Nahrung und Rückzugsorte. Da große Teile des Schutzgebiets nur per Boot oder Wasserflugzeug erreichbar sind, wirkt die Region bis heute außergewöhnlich ursprünglich.",
-        "maplink": "61.147081,-153.734242"
-    },
-    {
-        "fullstartdate": "202609302200",
-        "date": "20261001",
-        "url": "https://www.bing.com/th?id=OHR.BeardReedling_DE-DE4310310403_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BeardReedling_DE-DE4310310403",
-        "copyright": "Bartmeisenmännchen, Norfolk, England (© Andrew Sproule/Shutterstock)",
-        "copyrightKeyword": "Bartmeise",
-        "hsh": "e58cf741d67d07d9425e15fb54db0a6a"
+        "hsh": "0534e2ebbae494298a3d768906bd6cbc"
     }
 ]
