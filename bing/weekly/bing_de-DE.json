@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202610112200",
+        "date": "20261012",
+        "url": "https://www.bing.com/th?id=OHR.MumblesSwansea2026_DE-DE6402348082_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MumblesSwansea2026_DE-DE6402348082",
+        "copyright": "Mumbles Pier, Swansea, Wales (© Helen Hotson/Shutterstock)",
+        "copyrightKeyword": "Mumbles Pier Informationen",
+        "hsh": "48c1e276b1d7a71006f66b5d1c901634",
+        "description": "Was haben eine historische Eisenbahn, eine Seenotrettungsstation und ein Ausflug ans Meer gemeinsam? Am Mumbles Pier treffen sie alle aufeinander. Der 255 Meter lange Pier ragt in die Swansea Bay und wurde am 10. Mai 1898 eröffnet. Seitdem prägt er die Küste von Wales. Einst war er die westliche Endstation der Swansea and Mumbles Railway, deren Ursprünge auf den weltweit ersten regelmäßigen Personenverkehr auf Schienen zurückgehen. Heute ist die Bahn verschwunden, doch der denkmalgeschützte Pier erinnert weiterhin an diese besondere Vergangenheit.",
+        "maplink": "51.5755,-4.001746"
+    },
+    {
         "fullstartdate": "202610102200",
         "date": "20261011",
         "url": "https://www.bing.com/th?id=OHR.MouflonAutumn_DE-DE6144771164_1920x1080.jpg",
@@ -70,16 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AdelieTeacher_DE-DE4553591722",
         "copyright": "Adeliepinguine, Antarktis (© Otto Plantema/Minden Pictures)",
         "copyrightKeyword": "Tag des Lehrers",
-        "hsh": "26cc4205435d22e93083346563ef633b",
-        "description": "Am 5. Oktober rückt der Tag der Lehrer die Bedeutung von Wissen, Zusammenarbeit und gegenseitiger Unterstützung in den Mittelpunkt. Auch in der Natur finden sich spannende Beispiele dafür, wie Gemeinschaft zum Erfolg beitragen kann. Adeliepinguine leben in großen Kolonien an den Küsten der Antarktis und meistern ihren Alltag in einer Umgebung, die zu den lebensfeindlichsten der Erde zählt. Dabei profitieren sie von ihrem Zusammenhalt und ihrer Fähigkeit, sich an extreme Bedingungen anzupassen."
-    },
-    {
-        "fullstartdate": "202610032200",
-        "date": "20261004",
-        "url": "https://www.bing.com/th?id=OHR.ArtemisRocket_DE-DE4474155042_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ArtemisRocket_DE-DE4474155042",
-        "copyright": "Artemis-I-Mondrakete am Startkomplex 39B, Kennedy Space Center, Florida, USA, 15. Juni 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
-        "copyrightKeyword": "Weltraumwoche",
-        "hsh": "98687272e8caa05379b54795184389b3"
+        "hsh": "26cc4205435d22e93083346563ef633b"
     }
 ]

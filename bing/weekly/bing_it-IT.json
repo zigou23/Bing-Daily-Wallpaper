@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202610112200",
+        "date": "20261012",
+        "url": "https://www.bing.com/th?id=OHR.MumblesSwansea2026_IT-IT0315747519_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MumblesSwansea2026_IT-IT0315747519",
+        "copyright": "Il pontile di Mumbles, Swansea, Galles (© Helen Hotson/Shutterstock)",
+        "copyrightKeyword": "Galles",
+        "hsh": "96b482f6e06375a0592c7e562363f847",
+        "description": "Il pontile di Mumbles si allunga sul mare a Swansea, in Galles, ed è una di quelle strutture vittoriane in ferro che raccontano un'epoca intera. Inaugurato nel 1898 e lungo circa 255 metri, fu costruito per attirare i turisti al capolinea di una ferrovia che detiene un piccolo record mondiale: la linea Swansea-Mumbles trasportò passeggeri paganti già dal 1807, trainata da cavalli, e chiuse solo nel 1960.",
+        "maplink": "51.56909,-3.985958"
+    },
+    {
         "fullstartdate": "202610102200",
         "date": "20261011",
         "url": "https://www.bing.com/th?id=OHR.BarcolanaBoats_IT-IT7828341555_1920x1080.jpg",
@@ -71,16 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AdelieTeacher_IT-IT0908380283",
         "copyright": "Pinguini di Adelia, Antartide (© Otto Plantema/Minden Pictures)",
         "copyrightKeyword": "Giornata mondiale degli insegnanti",
-        "hsh": "c542581dfb469c7ab558313a84fa2e71",
-        "description": "Che cosa può insegnarci un pinguino di Adelia, un uccello di appena settanta centimetri? Parecchio. Nella Giornata mondiale degli insegnanti, questa specie delle coste antartiche offre una lezione di ingegno, resistenza e un pizzico di furbizia. Deve il suo nome ad Adèle, moglie dell'esploratore francese Jules Dumont d'Urville, che la scoprì durante la spedizione del 1840."
-    },
-    {
-        "fullstartdate": "202610032200",
-        "date": "20261004",
-        "url": "https://www.bing.com/th?id=OHR.ArtemisRocket_IT-IT8266299733_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ArtemisRocket_IT-IT8266299733",
-        "copyright": "Il razzo lunare Artemis I al Launch Complex 39B, Kennedy Space Center, Florida, Stati Uniti, 15 giugno 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
-        "copyrightKeyword": "Settimana mondiale dello spazio",
-        "hsh": "6cb29df544e3a6a1dd8b993946210a09"
+        "hsh": "c542581dfb469c7ab558313a84fa2e71"
     }
 ]

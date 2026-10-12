@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202610112300",
+        "date": "20261012",
+        "url": "https://www.bing.com/th?id=OHR.MumblesSwansea2026_EN-GB4411542970_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MumblesSwansea2026_EN-GB4411542970",
+        "copyright": "Mumbles Pier, Swansea, Wales (© Helen Hotson/Shutterstock)",
+        "copyrightKeyword": "Mumbles Pier Wales",
+        "hsh": "b9fa2760106d250874b21f6f5249f87e",
+        "description": "What do you get when a railway, a lifeboat station and a seaside day out meet at the water's edge? Mumbles Pier. Stretching 255 metres into Swansea Bay, this Victorian landmark opened on 10 May 1898 and has been part of the Welsh coast ever since.",
+        "maplink": "51.5755,-4.001746"
+    },
+    {
         "fullstartdate": "202610102300",
         "date": "20261011",
         "url": "https://www.bing.com/th?id=OHR.BabcockSP_EN-GB3870597164_1920x1080.jpg",
@@ -71,16 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AdelieTeacher_EN-GB2790518533",
         "copyright": "Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)",
         "copyrightKeyword": "World Teachers Day",
-        "hsh": "e06729d9a4d67f30b1f8149f5b93520d",
-        "description": "What can a 70-centimetre-tall bird teach us about life? Quite a lot. On World Teachers' Day, the Adélie penguin offers a lesson plan packed with resourcefulness, resilience and a little mischief. Found along the Antarctic coast, the species was named after Adèle, the wife of French explorer Jules Dumont d'Urville, during the expedition that encountered the penguins in 1840."
-    },
-    {
-        "fullstartdate": "202610032300",
-        "date": "20261004",
-        "url": "https://www.bing.com/th?id=OHR.ArtemisRocket_EN-GB2659306567_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ArtemisRocket_EN-GB2659306567",
-        "copyright": "Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, United States (© EVA MARIE UZCATEGUI/Getty Images)",
-        "copyrightKeyword": "World Space Week",
-        "hsh": "c9561e159ae38e433f41877093219259"
+        "hsh": "e06729d9a4d67f30b1f8149f5b93520d"
     }
 ]
