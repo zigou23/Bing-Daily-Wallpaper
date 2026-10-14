@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202610132300",
+        "date": "20261014",
+        "url": "https://www.bing.com/th?id=OHR.AmmoniteFossils_EN-GB4546470412_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AmmoniteFossils_EN-GB4546470412",
+        "copyright": "Ammonite fossils from the Jurassic Period (© J Nemchinova/Getty Images)",
+        "copyrightKeyword": "Ammonite fossils",
+        "hsh": "48876687d5f561aabe26e9ec2633eefa",
+        "description": "How do we know what Earth looked like long before humans appeared? Fossils provide many clues. From dinosaurs to tiny marine organisms, these remnants of the past preserve snapshots of ancient worlds that no longer exist."
+    },
+    {
         "fullstartdate": "202610122300",
         "date": "20261013",
         "url": "https://www.bing.com/th?id=OHR.PlitviceAutumn_EN-GB4470740504_1920x1080.jpg",
@@ -71,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ForestofDean_EN-GB3000076093",
         "copyright": "Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)",
         "copyrightKeyword": "Puzzlewood England",
-        "hsh": "79a9a79a4359c7da5a2ce5686aa2384d",
-        "description": "What if a forest could keep you guessing at every turn? At Puzzlewood, near Coleford in the Forest of Dean, England, winding paths lead through twisted trees, moss-covered rocks and deep stone ravines. Its unusual rock formations, known as scowles, are natural geological features that were exposed and modified over time and later exploited for iron ore mining during the Roman period and possibly earlier. In 1848, a worker discovered more than 3,000 Roman-era coins hidden in earthenware jars inside a rock cavity, turning the woodland into a real-life treasure hunt.",
-        "maplink": "51.812183,-2.516615"
-    },
-    {
-        "fullstartdate": "202610052300",
-        "date": "20261006",
-        "url": "https://www.bing.com/th?id=OHR.DanxiaLandform_EN-GB2873051697_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DanxiaLandform_EN-GB2873051697",
-        "copyright": "Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)",
-        "copyrightKeyword": "International Geodiversity Day",
-        "hsh": "4a1120f6229d4ac98992b8b04079160f"
+        "hsh": "79a9a79a4359c7da5a2ce5686aa2384d"
     }
 ]

@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202610132200",
+        "date": "20261014",
+        "url": "https://www.bing.com/th?id=OHR.AmmoniteFossils_FR-FR7395830779_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AmmoniteFossils_FR-FR7395830779",
+        "copyright": "Fossiles d'ammonites du Jurassique (© J Nemchinova/Getty Images)",
+        "copyrightKeyword": "le Jurassique",
+        "hsh": "a9154add3ed0cc86f974613da99d1cf9",
+        "description": "Comment savoir à quoi ressemblait la Terre bien avant l'apparition des humains ? Les fossiles nous répondent. Ces fragments du passé préservent des instantanés de mondes disparus — des dinosaures aux minuscules organismes marins — et permettent aux scientifiques de reconstituer des environnements vieux de millions d'années."
+    },
+    {
         "fullstartdate": "202610122200",
         "date": "20261013",
         "url": "https://www.bing.com/th?id=OHR.PlitviceAutumn_FR-FR7127723381_1920x1080.jpg",
@@ -72,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ForestofDean_FR-FR4745623763",
         "copyright": "Roches couvertes de mousse à Puzzlewood, forêt de Dean, Gloucestershire, Angleterre (© Fulcanelli_AOS/Getty Images)",
         "copyrightKeyword": "Puzzlewood Angleterre",
-        "hsh": "7478f5655058965936873d9e495a7539",
-        "description": "À Puzzlewood, près de Coleford dans la forêt de Dean en Angleterre, les sentiers ne mènent nulle part — et c'est précisément leur charme. Sous une épaisse couverture de mousse, des roches tourmentées surgissent du sol, creusées de ravins et de cavités mystérieuses que les Romains exploitaient déjà pour leur minerai de fer, il y a plus de deux mille ans.",
-        "maplink": "51.812183,-2.516615"
-    },
-    {
-        "fullstartdate": "202610052200",
-        "date": "20261006",
-        "url": "https://www.bing.com/th?id=OHR.DanxiaLandform_FR-FR1547265147_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DanxiaLandform_FR-FR1547265147",
-        "copyright": "Relief Danxia, géoparc national de Zhangye, Gansu, Chine (© Weiquan Lin/Getty Images)",
-        "copyrightKeyword": "journée internationale de la géodiversité",
-        "hsh": "5113e9a16f7852f9b720becc0cf7abb9"
+        "hsh": "7478f5655058965936873d9e495a7539"
     }
 ]

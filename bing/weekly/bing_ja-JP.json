@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202610131500",
+        "date": "20261014",
+        "url": "https://www.bing.com/th?id=OHR.RailwayDay2026_JA-JP4058067313_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.RailwayDay2026_JA-JP4058067313",
+        "copyright": "嵯峨野トロッコ列車, 京都府京都市 (© giggsy25/Shutterstock)",
+        "copyrightKeyword": "鉄道の日",
+        "hsh": "1aa3c70c5be0889e269a0cafaf1986e1",
+        "description": "10 月 14 日は「鉄道の日」。1872年の今日、初代新橋駅〜横浜駅（現 桜木町駅）間で日本初の鉄道が正式に開業したことにちなみ、1994 年に運輸省（現 国土交通省）が定めました。そして、今日の画像は京都・嵐山を走るトロッコ列車。秋の嵐山では、色づいた山々の間を嵯峨野トロッコ列車がゆっくりと走り抜けます。渓谷を流れる保津川と紅葉が織りなす風景は、多くの人々を魅了する秋の風物詩となっています。",
+        "maplink": "35.009881,135.666763"
+    },
+    {
         "fullstartdate": "202610121500",
         "date": "20261013",
         "url": "https://www.bing.com/th?id=OHR.PlitviceAutumn_JA-JP3930294400_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ForestofDean_JA-JP0675230191",
         "copyright": "パズルウッド, イングランド (© Fulcanelli_AOS/Getty Images)",
         "copyrightKeyword": "ディーンの森のパズルウッド",
-        "hsh": "ffe031232e556cb803f265788846a969",
-        "description": "ここはパズルウッド。イングランドのグロスターシャー州にある「ディーンの森」に広がる古代森林地帯です。苔むした岩や「スカウル」と呼ばれる独特の地形で知られています。不規則で迷路状な窪みが特徴のスカウルは、数百万年にわたり、石灰岩にできた地下洞窟が隆起や浸食によって地表に現れることで形成されました。その後、鉄器時代からローマ時代にかけて、鉄鉱石の採掘に利用されたと考えられています。森の中には、約 1.6km の小道が張り巡らされ、奇岩や洞窟、古木が織りなす幻想的な景観が広がります。その神秘的な雰囲気から、「スター・ウォーズ／フォースの覚醒」をはじめ、さまざまな映画のロケ地としても使用されています。",
-        "maplink": "51.812183,-2.516615"
-    },
-    {
-        "fullstartdate": "202610051500",
-        "date": "20261006",
-        "url": "https://www.bing.com/th?id=OHR.DanxiaLandform_JA-JP9811731742_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DanxiaLandform_JA-JP9811731742",
-        "copyright": "張掖国家地質公園, 中国 (© Weiquan Lin/Getty Images)",
-        "copyrightKeyword": "国際ジオダイバーシティデー",
-        "hsh": "ce2897b207a1db512235ca75d4dcf50e"
+        "hsh": "ffe031232e556cb803f265788846a969"
     }
 ]

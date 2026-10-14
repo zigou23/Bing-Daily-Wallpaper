@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202610130400",
+        "date": "20261013",
+        "url": "https://www.bing.com/th?id=OHR.PlitviceAutumn_EN-CA2443117103_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PlitviceAutumn_EN-CA2443117103",
+        "copyright": "Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)",
+        "copyrightKeyword": "Plitvice Lakes National Park",
+        "hsh": "7d2f9adc0b3ad965a969704bbd484905",
+        "description": "Water seems to be everywhere at Plitvice Lakes National Park in Croatia. Sixteen terraced lakes are linked by a network of waterfalls, streams and cascades that wind through forested limestone canyons. The constantly changing colours of the water, ranging from emerald green to deep blue, are shaped by minerals, sunlight and ever-changing reflections. Established in 1949, Plitvice Lakes is Croatia's oldest and largest national park. The landscape is famous for its tufa barriers, natural limestone formations created as mineral-rich water deposits calcium carbonate over centuries. These barriers continue to grow and change, gradually transforming the park's waterfalls and lakes.",
+        "maplink": "44.866465,15.581867"
+    },
+    {
         "fullstartdate": "202610120400",
         "date": "20261012",
         "url": "https://www.bing.com/th?id=OHR.HeartLakeTG_EN-CA2157233427_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DanxiaLandform_EN-CA0294271100",
         "copyright": "Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)",
         "copyrightKeyword": "International Geodiversity Day",
-        "hsh": "8ede4cd8d9c6833707040823571b88a4",
-        "description": "What if a mountain range could show you its geological history in stripes? At Zhangye National Geopark in China, the rocks do exactly that. Ridges roll across the landscape in bands of red, orange, yellow, brown and other earthy tones. Known as the Danxia landform, this striking landscape was shaped by layers of sedimentary rock deposited over geological time. Tectonic forces later lifted and folded the rocks, while weathering and erosion carved them into ridges, cliffs, gullies and peaks.",
-        "maplink": "38.966774,100.04408"
-    },
-    {
-        "fullstartdate": "202610050400",
-        "date": "20261005",
-        "url": "https://www.bing.com/th?id=OHR.AdelieTeacher_EN-CA9613439676_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AdelieTeacher_EN-CA9613439676",
-        "copyright": "Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)",
-        "copyrightKeyword": "World Teachers Day",
-        "hsh": "d9bf5c3ebade087c658d306b1f9d52b1"
+        "hsh": "8ede4cd8d9c6833707040823571b88a4"
     }
 ]

@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202610132200",
+        "date": "20261014",
+        "url": "https://www.bing.com/th?id=OHR.AmmoniteFossils_ES-ES5982555890_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AmmoniteFossils_ES-ES5982555890",
+        "copyright": "Fósiles de amonites del Jurásico (© J Nemchinova/Getty Images)",
+        "copyrightKeyword": "Fósiles de amonites",
+        "hsh": "9bc707f8937f8ea3790b92f9d1ae9799",
+        "description": "Las conchas enrolladas de la imagen pertenecen a amonites del Jurásico, unos moluscos marinos que poblaban los océanos cuando los dinosaurios dominaban la tierra firme. Se parecían a los nautilos actuales, pero estaban más emparentados con los calamares y los pulpos, y sus conchas tabicadas formaron esas espirales que hoy reconocemos al instante."
+    },
+    {
         "fullstartdate": "202610122200",
         "date": "20261013",
         "url": "https://www.bing.com/th?id=OHR.PlitviceAutumn_ES-ES5332185237_1920x1080.jpg",
@@ -72,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ForestofDean_ES-ES3526600939",
         "copyright": "Rocas cubiertas de musgo en Puzzlewood, Bosque de Dean, Gloucestershire, Inglaterra (© Fulcanelli_AOS/Getty Images)",
         "copyrightKeyword": "Puzzlewood Bosque de Dean",
-        "hsh": "94cdc8fe1c46665c697f56451e1dea20",
-        "description": "En Puzzlewood, junto a Coleford, en el Bosque de Dean (Inglaterra), los senderos serpentean entre árboles retorcidos, rocas tapizadas de musgo y gargantas de piedra que hacen dudar en cada curva. Esas formaciones tan raras se llaman scowles: cavidades naturales que quedaron al descubierto con el tiempo y que después se explotaron para extraer hierro, ya en época romana o incluso antes. En 1848, un trabajador encontró más de 3.000 monedas romanas escondidas en vasijas dentro de una grieta.",
-        "maplink": "51.812183,-2.516615"
-    },
-    {
-        "fullstartdate": "202610052200",
-        "date": "20261006",
-        "url": "https://www.bing.com/th?id=OHR.DanxiaLandform_ES-ES4557489111_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DanxiaLandform_ES-ES4557489111",
-        "copyright": "Relieve Danxia, Geoparque Nacional de Zhangye, Gansu, China (© Weiquan Lin/Getty Images)",
-        "copyrightKeyword": "Día Internacional de la Geodiversidad",
-        "hsh": "5e3ee9368fad8cf9e949ab9fe49f0d79"
+        "hsh": "94cdc8fe1c46665c697f56451e1dea20"
     }
 ]
