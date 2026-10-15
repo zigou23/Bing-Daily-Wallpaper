@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202610141830",
+        "date": "20261015",
+        "url": "https://www.bing.com/th?id=OHR.WroclawPoland_EN-IN8643220357_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WroclawPoland_EN-IN8643220357",
+        "copyright": "View of the Wroclaw Market Square from the Witches' Bridge in Wroclaw, Poland (© Piotr Mitelski/Shutterstock)",
+        "copyrightKeyword": "Wroclaw",
+        "hsh": "219c00e8e6d27397d994fef24416785c",
+        "description": "As twilight settles over Wroclaw, golden light spills across rooftops, church towers and one of Central Europe's most striking historic centres. This southwestern Polish city spans islands and waterways linked by more than 100 bridges, blending medieval architecture with vibrant modern life. At its heart is Rynek, a lively Market Square established in the 13th century and home to the Gothic Old Town Hall, one of Wroclaw's most recognisable landmarks.",
+        "maplink": "51.10977,17.034634"
+    },
+    {
         "fullstartdate": "202610131830",
         "date": "20261014",
         "url": "https://www.bing.com/th?id=OHR.AmmoniteFossils_EN-IN8565946131_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MayotteOctopus_EN-IN7698524475",
         "copyright": "Octopus in defensive posture, Mayotte, Indian Ocean (© Gabriel Barathieu/Minden Pictures)",
         "copyrightKeyword": "World Octopus Day",
-        "hsh": "ceffdfedc1b0a3d62a62cfbfe19f8172",
-        "description": "Something has clearly crossed a line. Off the coast of Mayotte in the Indian Ocean, this octopus has adopted a defensive posture that says: whatever is approaching should reconsider its life choices.",
-        "maplink": "-12.822125,45.148273"
-    },
-    {
-        "fullstartdate": "202610061830",
-        "date": "20261007",
-        "url": "https://www.bing.com/th?id=OHR.ForestofDean_EN-IN7618980046_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ForestofDean_EN-IN7618980046",
-        "copyright": "Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)",
-        "copyrightKeyword": "Puzzlewood England",
-        "hsh": "4ce1e9cbc4d7a80df46d2e41915fe958"
+        "hsh": "ceffdfedc1b0a3d62a62cfbfe19f8172"
     }
 ]

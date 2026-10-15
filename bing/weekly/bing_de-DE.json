@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202610142200",
+        "date": "20261015",
+        "url": "https://www.bing.com/th?id=OHR.WroclawPoland_DE-DE7177247783_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WroclawPoland_DE-DE7177247783",
+        "copyright": "Blick auf den Breslauer Marktplatz von der Hexenbrücke in Breslau, Polen (© Piotr Mitelski/Shutterstock)",
+        "copyrightKeyword": "Breslau",
+        "hsh": "e76714f129ecbdaf006276a8be080253",
+        "description": "Wenn in Breslau die Dämmerung einsetzt, legt sich ein warmes Licht über die roten Dächer, die Kirchtürme und die Fassaden der Altstadt. Die Stadt im Südwesten Polens erstreckt sich über mehrere Inseln an der Oder, die durch zahlreiche Brücken miteinander verbunden sind. Im Mittelpunkt steht der Marktplatz, dessen Ursprünge bis ins 13. Jahrhundert zurückreichen. Rund um den Rynek prägen restaurierte Bürgerhäuser und das gotische Rathaus eines der eindrucksvollsten Stadtbilder Mitteleuropas. Zwischen historischen Bauwerken und belebten Straßencafés begegnen sich hier Geschichte und modernes Stadtleben auf besonders reizvolle Weise.",
+        "maplink": "51.10977,17.034634"
+    },
+    {
         "fullstartdate": "202610132200",
         "date": "20261014",
         "url": "https://www.bing.com/th?id=OHR.AmmoniteFossils_DE-DE6773160072_1920x1080.jpg",
@@ -69,17 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MayotteOctopus_DE-DE5307771405",
         "copyright": "Krake in Abwehrhaltung, Mayotte, Indischer Ozean (© Gabriel Barathieu/Minden Pictures)",
         "copyrightKeyword": "Welttag der Kraken",
-        "hsh": "f5712c5752985b79a7442914d84a9942",
-        "description": "Am 8. Oktober wird der Welttag der Kraken gefeiert. Der Aktionstag lenkt die Aufmerksamkeit auf eine faszinierende Tiergruppe, die für ihre Intelligenz, ihre Anpassungsfähigkeit und ihre erstaunlichen Überlebensstrategien bekannt ist. Kraken leben in nahezu allen Ozeanen der Erde und begeistern Forschende ebenso wie Naturfreunde mit ihrem komplexen Verhalten.",
-        "maplink": "-12.822125,45.148273"
-    },
-    {
-        "fullstartdate": "202610062200",
-        "date": "20261007",
-        "url": "https://www.bing.com/th?id=OHR.ForestofDean_DE-DE4809664679_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ForestofDean_DE-DE4809664679",
-        "copyright": "Moosbedeckte Felsen im Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)",
-        "copyrightKeyword": "Puzzlewood England Informationen",
-        "hsh": "ce7d6ee614d0c66343c9d5c79dd1927b"
+        "hsh": "f5712c5752985b79a7442914d84a9942"
     }
 ]

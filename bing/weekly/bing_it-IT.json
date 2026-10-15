@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202610142200",
+        "date": "20261015",
+        "url": "https://www.bing.com/th?id=OHR.WroclawPoland_IT-IT1033829565_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WroclawPoland_IT-IT1033829565",
+        "copyright": "Veduta della piazza del Mercato di Breslavia dal Ponte delle Streghe, Breslavia, Polonia (© Piotr Mitelski/Shutterstock)",
+        "copyrightKeyword": "Breslavia",
+        "hsh": "87d49315333027ebc00787aeda7a1420",
+        "description": "Quando la sera scende su Breslavia (Polonia), la luce dorata si posa sui tetti, sulle torri delle chiese e su uno dei centri storici più sorprendenti dell'Europa centrale. La città si distribuisce tra isole e canali collegati da oltre 100 ponti, e mescola architettura medievale a una vita urbana molto vivace. Il suo cuore è il Rynek, la piazza del Mercato nata nel Duecento, dominata dal vecchio municipio gotico.",
+        "maplink": "51.10977,17.034634"
+    },
+    {
         "fullstartdate": "202610132200",
         "date": "20261014",
         "url": "https://www.bing.com/th?id=OHR.AmmoniteFossils_IT-IT0745512844_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MayotteOctopus_IT-IT1227542362",
         "copyright": "Polpo in posizione difensiva, Mayotte, Francia, Oceano Indiano (© Gabriel Barathieu/Minden Pictures)",
         "copyrightKeyword": "Giornata mondiale del polpo",
-        "hsh": "88d043e1c8c554ab3785d932a2bd0777",
-        "description": "Davanti alle coste di Mayotte (Francia), nell'Oceano Indiano, questo polpo ha assunto una posizione difensiva che significa più o meno: chi si avvicina, ci pensi due volte. È un avvertimento con stile, perché al posto della corazza punta tutto sulla trasformazione.",
-        "maplink": "-12.822125,45.148273"
-    },
-    {
-        "fullstartdate": "202610062200",
-        "date": "20261007",
-        "url": "https://www.bing.com/th?id=OHR.ForestofDean_IT-IT9133753492_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ForestofDean_IT-IT9133753492",
-        "copyright": "Rocce coperte di muschio a Puzzlewood, Foresta di Dean, Gloucestershire, Inghilterra (© Fulcanelli_AOS/Getty Images)",
-        "copyrightKeyword": "Puzzlewood Foresta di Dean",
-        "hsh": "c787bbb90ab1cb70be5ef37899951011"
+        "hsh": "88d043e1c8c554ab3785d932a2bd0777"
     }
 ]
