@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202610152200",
+        "date": "20261016",
+        "url": "https://www.bing.com/th?id=OHR.SneffelsAutumn_ES-ES3631909168_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SneffelsAutumn_ES-ES3631909168",
+        "copyright": "Monte Sneffels, montañas San Juan, cerca de Ridgway, Colorado, EE. UU. (© lightphoto/Getty Images)",
+        "copyrightKeyword": "Monte Sneffels",
+        "hsh": "e4696c64aa954d2db6f3c05b1e2b325e",
+        "description": "El monte Sneffels se alza sobre las montañas San Juan, cerca de Ridgway, en Colorado (Estados Unidos), y supera los 4.300 metros de altitud. Pertenece al club de los llamados «catorcemiles», los picos que rebasan los 14.000 pies (4.270 m), y en octubre protagoniza uno de los espectáculos más buscados del oeste americano: las laderas se llenan de álamos temblones dorados justo cuando la nieve empieza a asentarse en las cumbres.",
+        "maplink": "38.003941,-107.792358"
+    },
+    {
         "fullstartdate": "202610142200",
         "date": "20261015",
         "url": "https://www.bing.com/th?id=OHR.WroclawPoland_ES-ES6249915839_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.IlesSanguinaires_ES-ES4266688471",
         "copyright": "Vista de las islas Sanguinarias desde Córcega, Francia (© Francesco Riccardo Iacomino/Getty Images)",
         "copyrightKeyword": "islas Sanguinarias",
-        "hsh": "8de5c067c5a54d618bcb72d0f077f467",
-        "description": "Frente a la costa de Córcega (Francia), las islas Sanguinarias emergen del Mediterráneo como un pequeño archipiélago de cuatro islotes rocosos y escarpados. Vistos desde una antigua torre de vigilancia, custodian la entrada del golfo de Ajaccio, y aunque el más alejado queda a menos de dos kilómetros de tierra firme, el conjunto transmite un aislamiento sorprendente, moldeado por el viento, las olas y el salitre.",
-        "maplink": "41.88166,8.59779"
-    },
-    {
-        "fullstartdate": "202610072200",
-        "date": "20261008",
-        "url": "https://www.bing.com/th?id=OHR.MayotteOctopus_ES-ES3892391318_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MayotteOctopus_ES-ES3892391318",
-        "copyright": "Pulpo en postura defensiva, Mayotte, Francia, océano Índico (© Gabriel Barathieu/Minden Pictures)",
-        "copyrightKeyword": "Día Mundial del Pulpo",
-        "hsh": "33eb21bdf663e675d0fa6c076e2a9a90"
+        "hsh": "8de5c067c5a54d618bcb72d0f077f467"
     }
 ]
