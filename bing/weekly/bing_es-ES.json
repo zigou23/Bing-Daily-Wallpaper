@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202610162200",
+        "date": "20261017",
+        "url": "https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_ES-ES5871821224_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_ES-ES5871821224",
+        "copyright": "Reproducción a tamaño real de las pinturas de la cueva de Chauvet, Vallon-Pont-d'Arc, Francia (© Audrey Poree/Alamy)",
+        "copyrightKeyword": "cueva de Chauvet",
+        "hsh": "5bbf2653e0358afa397bc48c1c9a8fc2",
+        "description": "Estos caballos, leones y rinocerontes se pintaron hace unos 36.000 años en la cueva de Chauvet, en Vallon-Pont-d'Arc (Francia), aunque lo que muestra la imagen es una copia. La cueva original, descubierta en 1994, permaneció sellada durante milenios y conserva más de 400 pinturas y grabados; para protegerla del deterioro que provoca la presencia humana, nunca se abrió al público."
+    },
+    {
         "fullstartdate": "202610152200",
         "date": "20261016",
         "url": "https://www.bing.com/th?id=OHR.SneffelsAutumn_ES-ES3631909168_1920x1080.jpg",
@@ -71,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ZaragozaBasilica_ES-ES1990532240",
         "copyright": "Catedral-Basílica de Nuestra Señora del Pilar, Zaragoza, Aragón, España (© frantic00/Getty Images)",
         "copyrightKeyword": "Fiestas del Pilar",
-        "hsh": "e2d49212b774b160c4bd8e145be22ea2",
-        "description": "La Catedral-Basílica de Nuestra Señora del Pilar se asoma al Ebro en Zaragoza (Aragón, España), y hoy arranca a su alrededor la semana grande de la ciudad: el pregón abre unas Fiestas del Pilar que se prolongan hasta el domingo 18 de octubre.",
-        "maplink": "41.656992,-0.878791"
-    },
-    {
-        "fullstartdate": "202610082200",
-        "date": "20261009",
-        "url": "https://www.bing.com/th?id=OHR.IlesSanguinaires_ES-ES4266688471_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.IlesSanguinaires_ES-ES4266688471",
-        "copyright": "Vista de las islas Sanguinarias desde Córcega, Francia (© Francesco Riccardo Iacomino/Getty Images)",
-        "copyrightKeyword": "islas Sanguinarias",
-        "hsh": "8de5c067c5a54d618bcb72d0f077f467"
+        "hsh": "e2d49212b774b160c4bd8e145be22ea2"
     }
 ]

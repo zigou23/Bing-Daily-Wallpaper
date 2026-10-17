@@ -1,12 +1,22 @@
 [
     {
+        "fullstartdate": "202610162300",
+        "date": "20261017",
+        "url": "https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_EN-GB4836767874_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_EN-GB4836767874",
+        "copyright": "Life-size replica of Chauvet cave art in Vallon-Pont-d'Arc, France (© Audrey Poree/Alamy)",
+        "copyrightKeyword": "International Archaeology Day",
+        "hsh": "00baa16a7b60b05b3f8a69d18d4e1f6f",
+        "description": "Some discoveries start with a shovel. Others start with a drawing on a cave wall. International Archaeology Day celebrates both the detective work and the evidence behind them. Organised by the Archaeological Institute of America, this annual event began in 2011 and became International Archaeology Day in 2013 as participation expanded worldwide. Today, it brings archaeology closer to the public through talks, museum programmes, site visits, simulated digs and hands-on activities."
+    },
+    {
         "fullstartdate": "202610152300",
         "date": "20261016",
         "url": "https://www.bing.com/th?id=OHR.SneffelsAutumn_EN-GB4713580034_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.SneffelsAutumn_EN-GB4713580034",
         "copyright": "Mount Sneffels in the San Juan Mountains near Ridgway, Colorado, United States (© lightphoto/Getty Images)",
         "copyrightKeyword": "Mount Sneffels",
-        "hsh": "9a40da48f91201e20c848ab31a32f7dd",
+        "hsh": "0d41206b55adb701f99e70a1a6d3b0ee",
         "description": "Some mountains make you work for the view. Mount Sneffels makes you work for the last few hundred feet. Rising to 4,313 metres in Colorado's San Juan Mountains in the United States, this fourteener is a familiar sight around Ridgway, Ouray and Telluride. It sits within the 16,587-acre (6,713-hectare) Mount Sneffels Wilderness, a protected area designated in 1980. Hikers can reach the mountain from several approaches, including the Yankee Boy Basin and the Blue Lakes area.",
         "maplink": "38.00354,-107.792695"
     },
@@ -71,16 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.CormorantsFlight_EN-GB3315477514",
         "copyright": "Double-crested cormorants over Monterey Bay, California, United States (© Hiroya Minakuchi/Minden Pictures)",
         "copyrightKeyword": "World Migratory Bird Day",
-        "hsh": "63f4bcee2fe3d9c139510b1208b26934",
-        "description": "World Migratory Bird Day celebrates one of nature's greatest journeys. Observed each year in May and October, the global campaign reflects migration patterns around the world and highlights the importance of protecting the habitats and flyways that birds depend on. 'Every Bird Counts—Your Observations Matter!' is the 2026 theme, emphasising how observations by individuals and communities can contribute to bird research, monitoring and conservation, helping scientists better understand migration."
-    },
-    {
-        "fullstartdate": "202610082300",
-        "date": "20261009",
-        "url": "https://www.bing.com/th?id=OHR.IlesSanguinaires_EN-GB3151593517_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.IlesSanguinaires_EN-GB3151593517",
-        "copyright": "View of the Sanguinaires Islands from Corsica, France (© Francesco Riccardo Iacomino/Getty Images)",
-        "copyrightKeyword": "Sanguinaires Islands Corsica",
-        "hsh": "7d93c88fa5aa2c251f41366ab57b8b5e"
+        "hsh": "63f4bcee2fe3d9c139510b1208b26934"
     }
 ]

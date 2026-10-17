@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202610160400",
+        "date": "20261016",
+        "url": "https://www.bing.com/th?id=OHR.MaligneFest_EN-CA6755477171_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MaligneFest_EN-CA6755477171",
+        "copyright": "Maligne Lake, Jasper National Park, Alberta (© Andrey Popov/Getty Images)",
+        "copyrightKeyword": "Jasper Dark Sky Festival",
+        "hsh": "8ff465b834b0c8483ec62cd479bc4e7d",
+        "description": "Why settle for a planetarium ceiling when Jasper can give you the real thing? That's rather the point of the Jasper Dark Sky Festival, which kicks off today and runs until October 25. The annual event grew from celebrations surrounding Jasper National Park's 2011 designation as a Dark Sky Preserve. The idea is simple: protect natural darkness, then give people plenty of reasons to appreciate it.",
+        "maplink": "54.358091,-117.849547"
+    },
+    {
         "fullstartdate": "202610150400",
         "date": "20261015",
         "url": "https://www.bing.com/th?id=OHR.WroclawPoland_EN-CA2941585195_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.IlesSanguinaires_EN-CA1335462039",
         "copyright": "View of the Sanguinaires Islands from Corsica, France (© Francesco Riccardo Iacomino/Getty Images)",
         "copyrightKeyword": "Sanguinaires Islands Corsica",
-        "hsh": "170cbc9110c767ee4b0f5f025ef3e8a1",
-        "description": "Just off the coast of Corsica, France, the Sanguinaires Islands rise from the Mediterranean as a small archipelago of four rugged, rocky islands. Viewed from a historic watchtower, they sit at the entrance to the Gulf of Ajaccio. Steep cliffs, centuries-old landmarks and sweeping sea views have drawn visitors to the area for generations. Though the farthest island lies only about 1.9 kilometres from shore, the archipelago feels surprisingly remote, surrounded by open water and shaped by wind, waves and salt spray.",
-        "maplink": "41.88166,8.59779"
-    },
-    {
-        "fullstartdate": "202610080400",
-        "date": "20261008",
-        "url": "https://www.bing.com/th?id=OHR.MayotteOctopus_EN-CA1051460797_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MayotteOctopus_EN-CA1051460797",
-        "copyright": "Octopus in defensive posture, Mayotte, Indian Ocean (© Gabriel Barathieu/Minden Pictures)",
-        "copyrightKeyword": "World Octopus Day",
-        "hsh": "bd11d0cb4ef4e17378d1b2034eb256e1"
+        "hsh": "170cbc9110c767ee4b0f5f025ef3e8a1"
     }
 ]
