@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202610172200",
+        "date": "20261018",
+        "url": "https://www.bing.com/th?id=OHR.ValdiFunesDolomite_IT-IT2572646672_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ValdiFunesDolomite_IT-IT2572646672",
+        "copyright": "La Val di Funes, Bolzano, Trentino-Alto Adige, Italia (© Achim Thomae/Getty Images)",
+        "copyrightKeyword": "La Val di Funes",
+        "hsh": "64e72ee29240810c745ab206a0b7b8d2",
+        "description": "La Val di Funes, in provincia di Bolzano (Trentino-Alto Adige, Italia), è una di quelle valli che si nascondono bene: si stacca dalla Valle Isarco attraverso una gola strettissima e si apre solo dopo, per ventiquattro chilometri di prati, boschi e masi appesi ai versanti.",
+        "maplink": "46.657829,11.92385"
+    },
+    {
         "fullstartdate": "202610162200",
         "date": "20261017",
         "url": "https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_IT-IT2139803809_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BarcolanaBoats_IT-IT7828341555",
         "copyright": "La regata della Barcolana nel Golfo di Trieste, Friuli-Venezia Giulia, Italia (© Marco Saracco/Getty Images)",
         "copyrightKeyword": "La Barcolana di Trieste",
-        "hsh": "a62535a6c85d1e35ce8cb0455acdfc08",
-        "description": "Il Golfo di Trieste, in Friuli-Venezia Giulia (Italia), oggi si riempie di vele: alle 10.30 un colpo di cannone dà il via alla Barcolana, la regata velica più partecipata del pianeta, che chiude una settimana di prove ed eventi sulle Rive.",
-        "maplink": "45.708254,13.785912"
-    },
-    {
-        "fullstartdate": "202610092200",
-        "date": "20261010",
-        "url": "https://www.bing.com/th?id=OHR.CormorantsFlight_IT-IT0012209213_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.CormorantsFlight_IT-IT0012209213",
-        "copyright": "Cormorani crestati americani sopra la baia di Monterey, California, Stati Uniti (© Hiroya Minakuchi/Minden Pictures)",
-        "copyrightKeyword": "Giornata mondiale degli uccelli migratori",
-        "hsh": "43a9b6fb8ad9eacba98733d26a6b4707"
+        "hsh": "a62535a6c85d1e35ce8cb0455acdfc08"
     }
 ]
