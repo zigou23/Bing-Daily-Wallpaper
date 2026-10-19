@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202610182200",
+        "date": "20261019",
+        "url": "https://www.bing.com/th?id=OHR.VeniceSunrise_IT-IT2943629456_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.VeniceSunrise_IT-IT2943629456",
+        "copyright": "Alba sul Canal Grande, Venezia, Veneto, Italia (© Juan Romero/Cavan Images)",
+        "copyrightKeyword": "Canal Grande Venezia",
+        "hsh": "0854300561b1e6804c3cedf98ce80655",
+        "description": "All'alba il Canal Grande di Venezia (Veneto, Italia) è un'altra città. Senza il traffico del giorno, la via principale resta in silenzio e la attraversano soltanto qualche barca di consegne e i primi vaporetti, mentre la luce bassa accende le facciate dei palazzi.",
+        "maplink": "45.435337,12.32783"
+    },
+    {
         "fullstartdate": "202610172200",
         "date": "20261018",
         "url": "https://www.bing.com/th?id=OHR.ValdiFunesDolomite_IT-IT2572646672_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MumblesSwansea2026_IT-IT0315747519",
         "copyright": "Il pontile di Mumbles, Swansea, Galles (© Helen Hotson/Shutterstock)",
         "copyrightKeyword": "Galles",
-        "hsh": "96b482f6e06375a0592c7e562363f847",
-        "description": "Il pontile di Mumbles si allunga sul mare a Swansea, in Galles, ed è una di quelle strutture vittoriane in ferro che raccontano un'epoca intera. Inaugurato nel 1898 e lungo circa 255 metri, fu costruito per attirare i turisti al capolinea di una ferrovia che detiene un piccolo record mondiale: la linea Swansea-Mumbles trasportò passeggeri paganti già dal 1807, trainata da cavalli, e chiuse solo nel 1960.",
-        "maplink": "51.56909,-3.985958"
-    },
-    {
-        "fullstartdate": "202610102200",
-        "date": "20261011",
-        "url": "https://www.bing.com/th?id=OHR.BarcolanaBoats_IT-IT7828341555_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BarcolanaBoats_IT-IT7828341555",
-        "copyright": "La regata della Barcolana nel Golfo di Trieste, Friuli-Venezia Giulia, Italia (© Marco Saracco/Getty Images)",
-        "copyrightKeyword": "La Barcolana di Trieste",
-        "hsh": "a62535a6c85d1e35ce8cb0455acdfc08"
+        "hsh": "96b482f6e06375a0592c7e562363f847"
     }
 ]
