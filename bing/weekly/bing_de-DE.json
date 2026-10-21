@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202610202200",
+        "date": "20261021",
+        "url": "https://www.bing.com/th?id=OHR.VietnamBridge_DE-DE1735618070_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.VietnamBridge_DE-DE1735618070",
+        "copyright": "Nguyen-Hoang-Brücke über den Parfümfluss, Huế, Vietnam (© VU PHAM VAN/Getty Images)",
+        "copyrightKeyword": "Huế",
+        "hsh": "ce6088b3f21dd4859d761f672b5d6049",
+        "description": "Die Nguyen-Hoang-Brücke schafft im Stadtbild von Huế, Vietnam, eine moderne Verbindung zwischen Vergangenheit und Gegenwart. Seit dem 26. März 2025 führt sie über den Parfümfluss und verbindet zeitgemäße Ingenieurskunst mit der Geschichte der ehemaligen Kaiserstadt. Ihr Entwurf trägt den Namen „Der Kranich mit Blick auf Thien Mu“ und ist von einer lokalen Legende sowie der nahe gelegenen Thien-Mu-Pagode inspiriert. Die Stahlbögen erinnern an die ausgebreiteten Flügel eines Kranichs, während die V-förmigen Pfeiler friedlich am Fluss versammelte Vögel darstellen.",
+        "maplink": "16.455292,107.55998"
+    },
+    {
         "fullstartdate": "202610192200",
         "date": "20261020",
         "url": "https://www.bing.com/th?id=OHR.BrownSloth_DE-DE1394372620_1920x1080.jpg",
@@ -71,16 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AmmoniteFossils_DE-DE6773160072",
         "copyright": "Ammonitenfossilien aus der Jurazeit (© J Nemchinova/Getty Images)",
         "copyrightKeyword": "Fossilien",
-        "hsh": "901eef751bec2f1ad45708c53d06529f",
-        "description": "Ammoniten gehören zu den faszinierendsten Fossilien der Jurazeit. Die ausgestorbenen Meerestiere entwickelten eine erstaunliche Vielfalt an Formen und Größen. Heute sind ihre versteinerten Schalen wichtige Zeugen einer längst vergangenen Welt. Für die Wissenschaft sind sie besonders wertvoll, da bestimmte Arten als Leitfossilien dienen und dabei helfen, Gesteinsschichten zeitlich einzuordnen."
-    },
-    {
-        "fullstartdate": "202610122200",
-        "date": "20261013",
-        "url": "https://www.bing.com/th?id=OHR.PlitviceAutumn_DE-DE7625110895_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PlitviceAutumn_DE-DE7625110895",
-        "copyright": "Nationalpark Plitvicer Seen, Kroatien (© Jan Wlodarczyk/Alamy)",
-        "copyrightKeyword": "Nationalpark Plitvicer Seen Kroatien",
-        "hsh": "d2660d70a47e1e66596b1949385dc859"
+        "hsh": "901eef751bec2f1ad45708c53d06529f"
     }
 ]

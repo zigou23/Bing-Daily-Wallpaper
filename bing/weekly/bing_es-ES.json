@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202610202200",
+        "date": "20261021",
+        "url": "https://www.bing.com/th?id=OHR.VietnamBridge_ES-ES2577546493_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.VietnamBridge_ES-ES2577546493",
+        "copyright": "Puente Nguyễn Hoàng sobre el río de los Perfumes, Hue, Vietnam (© VU PHAM VAN/Getty Images)",
+        "copyrightKeyword": "Hue, Vietnam",
+        "hsh": "e377fd0eff63568a185179939cede7f5",
+        "description": "El puente Nguyễn Hoàng cruza el río de los Perfumes en Hue (Vietnam), y es una incorporación muy reciente al paisaje: se abrió al tráfico en marzo de 2025. Mide 380 metros de largo y más de 40 de ancho, y su diseño es obra del finlandés Antti Karjalainen, especialista en puentes.",
+        "maplink": "16.455292,107.55998"
+    },
+    {
         "fullstartdate": "202610192200",
         "date": "20261020",
         "url": "https://www.bing.com/th?id=OHR.BrownSloth_ES-ES6810824751_1920x1080.jpg",
@@ -71,16 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AmmoniteFossils_ES-ES5982555890",
         "copyright": "Fósiles de amonites del Jurásico (© J Nemchinova/Getty Images)",
         "copyrightKeyword": "Fósiles de amonites",
-        "hsh": "9bc707f8937f8ea3790b92f9d1ae9799",
-        "description": "Las conchas enrolladas de la imagen pertenecen a amonites del Jurásico, unos moluscos marinos que poblaban los océanos cuando los dinosaurios dominaban la tierra firme. Se parecían a los nautilos actuales, pero estaban más emparentados con los calamares y los pulpos, y sus conchas tabicadas formaron esas espirales que hoy reconocemos al instante."
-    },
-    {
-        "fullstartdate": "202610122200",
-        "date": "20261013",
-        "url": "https://www.bing.com/th?id=OHR.PlitviceAutumn_ES-ES5332185237_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PlitviceAutumn_ES-ES5332185237",
-        "copyright": "Parque Nacional de los Lagos de Plitvice, Croacia (© Jan Wlodarczyk/Alamy)",
-        "copyrightKeyword": "Parque Nacional de los Lagos de Plitvice",
-        "hsh": "2b3c30011b787fa0468743c92360505b"
+        "hsh": "9bc707f8937f8ea3790b92f9d1ae9799"
     }
 ]
