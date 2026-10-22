@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202610210700",
+        "date": "20261021",
+        "url": "https://www.bing.com/th?id=OHR.VietnamBridge_EN-US6907946681_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.VietnamBridge_EN-US6907946681",
+        "copyright": "Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam (© VU PHAM VAN/Getty Images)",
+        "copyrightKeyword": "Hue Vietnam",
+        "hsh": "8f0294e98273a80924fc03f029d9ba38",
+        "description": "Bridging the gap between old and new, Nguyen Hoang Bridge gives Hue's skyline a fresh connection. Spanning the Perfume River in Vietnam, the modern steel-arch landmark opened to traffic on March 26, 2025. Its design, called 'The Crane Facing Thien Mu,' draws inspiration from a local legend and nearby Thien Mu Pagoda.",
+        "maplink": "16.455292,107.55998"
+    },
+    {
         "fullstartdate": "202610200700",
         "date": "20261020",
         "url": "https://www.bing.com/th?id=OHR.BrownSloth_EN-US6816754257_1920x1080.jpg",
@@ -71,16 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AmmoniteFossils_EN-US6354038755",
         "copyright": "Ammonite fossils from the Jurassic Period (© J Nemchinova/Getty Images)",
         "copyrightKeyword": "National Fossil Day",
-        "hsh": "26b82fcc80f37a7b150ffcb5eda97dbb",
-        "description": "How do we know what Earth looked like long before humans appeared? Fossils provide many clues. National Fossil Day celebrates paleontology and the discoveries that help scientists reconstruct past environments, trace the evolution of life, and learn about creatures that vanished millions of years ago. From dinosaurs to tiny marine organisms, these remnants of the past preserve snapshots of ancient worlds that no longer exist."
-    },
-    {
-        "fullstartdate": "202610130700",
-        "date": "20261013",
-        "url": "https://www.bing.com/th?id=OHR.PlitviceAutumn_EN-US6255909048_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PlitviceAutumn_EN-US6255909048",
-        "copyright": "Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)",
-        "copyrightKeyword": "Plitvice Lakes National Park",
-        "hsh": "7094c3af770dc83743e89e07376eaa13"
+        "hsh": "26b82fcc80f37a7b150ffcb5eda97dbb"
     }
 ]

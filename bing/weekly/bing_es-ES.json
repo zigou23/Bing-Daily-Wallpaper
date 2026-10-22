@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202610212200",
+        "date": "20261022",
+        "url": "https://www.bing.com/th?id=OHR.CordobaPatios_ES-ES7294783560_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.CordobaPatios_ES-ES7294783560",
+        "copyright": "Patio interior tradicional cordobés, Córdoba, Andalucía, España (© Martinez Studio/ShutterStock)",
+        "copyrightKeyword": "Festival Internacional de las Flores de Córdoba",
+        "hsh": "0a2f348e5d360b58fda993586464646d",
+        "description": "Córdoba (Andalucía, España) guarda su tesoro puertas adentro: patios encalados, macetas colgadas, una fuente y sombra fresca en el centro de la casa. Un modelo heredado de las casas romanas y andalusíes, tan arraigado que la Fiesta de los Patios es Patrimonio Cultural Inmaterial de la Unesco desde 2012.",
+        "maplink": "37.884866,-4.779156"
+    },
+    {
         "fullstartdate": "202610202200",
         "date": "20261021",
         "url": "https://www.bing.com/th?id=OHR.VietnamBridge_ES-ES2577546493_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.WroclawPoland_ES-ES6249915839",
         "copyright": "Vista de la plaza del Mercado de Breslavia desde el Puente de las Brujas, Breslavia, Polonia (© Piotr Mitelski/Shutterstock)",
         "copyrightKeyword": "Breslavia",
-        "hsh": "d808713e87a9485ee6862ba9c4e144ab",
-        "description": "Cuando cae la tarde sobre Breslavia (Polonia), la luz dorada se derrama por los tejados, las torres de las iglesias y uno de los centros históricos más llamativos de Europa central. La ciudad se reparte entre islas y canales unidos por más de 100 puentes, y combina arquitectura medieval con una vida urbana muy animada. Su corazón es el Rynek, la plaza del Mercado nacida en el siglo XIII, presidida por el ayuntamiento viejo, de estilo gótico.",
-        "maplink": "51.10977,17.034634"
-    },
-    {
-        "fullstartdate": "202610132200",
-        "date": "20261014",
-        "url": "https://www.bing.com/th?id=OHR.AmmoniteFossils_ES-ES5982555890_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AmmoniteFossils_ES-ES5982555890",
-        "copyright": "Fósiles de amonites del Jurásico (© J Nemchinova/Getty Images)",
-        "copyrightKeyword": "Fósiles de amonites",
-        "hsh": "9bc707f8937f8ea3790b92f9d1ae9799"
+        "hsh": "d808713e87a9485ee6862ba9c4e144ab"
     }
 ]

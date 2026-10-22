@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202610212200",
+        "date": "20261022",
+        "url": "https://www.bing.com/th?id=OHR.NaejangsanNP_DE-DE1873468197_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.NaejangsanNP_DE-DE1873468197",
+        "copyright": "Herbst im Naejangsan-Nationalpark, Südkorea (© Twenty47studio/Getty Images)",
+        "copyrightKeyword": "Naejangsan-Nationalpark",
+        "hsh": "b7718fca32e311c95955a0eec6319c7d",
+        "description": "Ein Herbst wie aus dem Bilderbuch: Im Naejangsan-Nationalpark leuchten die Berghänge in kräftigem Rot, Orange, Gelb und Gold. Der im Südwesten Südkoreas gelegene Park ist vor allem für seine spektakulären Ahornfarben bekannt. Kein Wunder, dass er zu den beliebtesten Reisezielen des Landes zu dieser Jahreszeit zählt. Sein Name bedeutet „viele Geheimnisse in den Bergen“ und passt gut zur abwechslungsreichen Umgebung.",
+        "maplink": "35.481191,126.889374"
+    },
+    {
         "fullstartdate": "202610202200",
         "date": "20261021",
         "url": "https://www.bing.com/th?id=OHR.VietnamBridge_DE-DE1735618070_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.WroclawPoland_DE-DE7177247783",
         "copyright": "Blick auf den Breslauer Marktplatz von der Hexenbrücke in Breslau, Polen (© Piotr Mitelski/Shutterstock)",
         "copyrightKeyword": "Breslau",
-        "hsh": "e76714f129ecbdaf006276a8be080253",
-        "description": "Wenn in Breslau die Dämmerung einsetzt, legt sich ein warmes Licht über die roten Dächer, die Kirchtürme und die Fassaden der Altstadt. Die Stadt im Südwesten Polens erstreckt sich über mehrere Inseln an der Oder, die durch zahlreiche Brücken miteinander verbunden sind. Im Mittelpunkt steht der Marktplatz, dessen Ursprünge bis ins 13. Jahrhundert zurückreichen. Rund um den Rynek prägen restaurierte Bürgerhäuser und das gotische Rathaus eines der eindrucksvollsten Stadtbilder Mitteleuropas. Zwischen historischen Bauwerken und belebten Straßencafés begegnen sich hier Geschichte und modernes Stadtleben auf besonders reizvolle Weise.",
-        "maplink": "51.10977,17.034634"
-    },
-    {
-        "fullstartdate": "202610132200",
-        "date": "20261014",
-        "url": "https://www.bing.com/th?id=OHR.AmmoniteFossils_DE-DE6773160072_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AmmoniteFossils_DE-DE6773160072",
-        "copyright": "Ammonitenfossilien aus der Jurazeit (© J Nemchinova/Getty Images)",
-        "copyrightKeyword": "Fossilien",
-        "hsh": "901eef751bec2f1ad45708c53d06529f"
+        "hsh": "e76714f129ecbdaf006276a8be080253"
     }
 ]

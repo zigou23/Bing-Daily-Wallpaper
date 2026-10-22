@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202610210400",
+        "date": "20261021",
+        "url": "https://www.bing.com/th?id=OHR.VietnamBridge_EN-CA8865714729_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.VietnamBridge_EN-CA8865714729",
+        "copyright": "Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam (© VU PHAM VAN/Getty Images)",
+        "copyrightKeyword": "Hue Vietnam",
+        "hsh": "86d5dd8aaa6b349654358ce48d427ae4",
+        "description": "Bridging the gap between old and new, Nguyen Hoang Bridge gives Hue's skyline a fresh connection. Spanning the Perfume River in Vietnam, the modern steel-arch landmark opened to traffic on March 26, 2025. Its design, called 'The Crane Facing Thien Mu,' draws inspiration from a local legend and nearby Thien Mu Pagoda.",
+        "maplink": "16.455292,107.55998"
+    },
+    {
         "fullstartdate": "202610200400",
         "date": "20261020",
         "url": "https://www.bing.com/th?id=OHR.BrownSloth_EN-CA8530499250_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.GrizzlySwim_EN-CA2710630781",
         "copyright": "Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, United States (© Danny Green/Nature Picture Library)",
         "copyrightKeyword": "Brown bear",
-        "hsh": "9e6b649886ab9a96b2608da1b9ecec99",
-        "description": "The season of big meals, bigger bellies and stocking up for winter is here. In Alaska, brown bears at Lake Clark National Park and Preserve make the most of the food still available in October. They feed on fish, sedges, berries, roots, clams and other foods to build up fat reserves. Some can weigh more than 450 kilograms before entering their dens for hibernation. That stored fat helps them survive the winter, when they do not eat or drink.",
-        "maplink": "61.147081,-153.734242"
-    },
-    {
-        "fullstartdate": "202610130400",
-        "date": "20261013",
-        "url": "https://www.bing.com/th?id=OHR.PlitviceAutumn_EN-CA2443117103_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PlitviceAutumn_EN-CA2443117103",
-        "copyright": "Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)",
-        "copyrightKeyword": "Plitvice Lakes National Park",
-        "hsh": "7d2f9adc0b3ad965a969704bbd484905"
+        "hsh": "9e6b649886ab9a96b2608da1b9ecec99"
     }
 ]
