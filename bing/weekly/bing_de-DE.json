@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202610232200",
+        "date": "20261024",
+        "url": "https://www.bing.com/th?id=OHR.BerlinLibrary_DE-DE5145605761_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BerlinLibrary_DE-DE5145605761",
+        "copyright": "Philologische Bibliothek der Freien Universität Berlin, Berlin (© ullstein bild/Getty Images)",
+        "copyrightKeyword": "Tag der Bibliotheken",
+        "hsh": "9c5b9f920b4fb3d0b584940791a948d7",
+        "description": "Am heutigen Tag der Bibliotheken dreht sich alles um Bücher, Wissen und die Orte, die beides zugänglich machen. Seit 1995 macht der bundesweite Aktionstag am 24. Oktober auf die Bedeutung von Bibliotheken als Kultur- und Bildungseinrichtungen aufmerksam. Ins Leben gerufen wurde er von der Deutschen Literaturkonferenz unter der Schirmherrschaft des damaligen Bundespräsidenten Richard von Weizsäcker. Auch 2026 beteiligen sich Bibliotheken in ganz Deutschland mit analogen und digitalen Aktionen und Veranstaltungen. Lesungen, Ausstellungen und Führungen laden dazu ein, ihre vielfältigen Angebote neu zu entdecken.",
+        "maplink": "52.451914,13.288265"
+    },
+    {
         "fullstartdate": "202610222200",
         "date": "20261023",
         "url": "https://www.bing.com/th?id=OHR.YellowstoneWolves_DE-DE2017697752_1920x1080.jpg",
@@ -71,16 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_DE-DE0392727746",
         "copyright": "Lebensgroße Nachbildung der Chauvet-Höhlenmalereien in Vallon-Pont-d'Arc, Frankreich (© Audrey Poree/Alamy)",
         "copyrightKeyword": "Chauvet-Höhle",
-        "hsh": "8f6cbd8199954f5f684a4b43f6e415f2",
-        "description": "Die Chauvet-Höhle bei Vallon-Pont-d’Arc in Südfrankreich zählt zu den bedeutendsten Fundstätten prähistorischer Höhlenkunst. An ihren Wänden finden sich mehr als 1000 Zeichnungen, vor allem eindrucksvolle Darstellungen von Tieren wie Löwen, Nashörnern, Pferden und Mammuts. Die außergewöhnlich gut erhaltenen Kunstwerke geben faszinierende Einblicke in die kreative Welt der Menschen der Altsteinzeit. Um die empfindlichen Originale zu schützen, wurde in der Nähe eine lebensgroße Nachbildung geschaffen, in der Besucher die Höhlenmalereien in einer möglichst authentischen Umgebung erleben können."
-    },
-    {
-        "fullstartdate": "202610152200",
-        "date": "20261016",
-        "url": "https://www.bing.com/th?id=OHR.AndechsAbbey_DE-DE4997798666_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AndechsAbbey_DE-DE4997798666",
-        "copyright": "Kloster Andechs bei Sonnenuntergang, Andechs, Bayern (© imageBROKER/Martin Moxter)",
-        "copyrightKeyword": "Kloster Andechs",
-        "hsh": "9d4c63d95790927e9c82119094eca7c6"
+        "hsh": "8f6cbd8199954f5f684a4b43f6e415f2"
     }
 ]

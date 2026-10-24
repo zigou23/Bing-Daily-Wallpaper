@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202610230400",
+        "date": "20261023",
+        "url": "https://www.bing.com/th?id=OHR.YellowstoneWolves_EN-CA9692259331_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.YellowstoneWolves_EN-CA9692259331",
+        "copyright": "Two grey wolves Yellowstone National Park, Wyoming, United States (© John Morrison/Getty Images)",
+        "copyrightKeyword": "Wolf Awareness Week",
+        "hsh": "2f96f76ed23b59a696c2caba59b2fcd4",
+        "description": "Two grey wolves move through the sagebrush of Yellowstone National Park in Wyoming, home to some of North America's most closely watched wolf packs. Their thick coats help them withstand harsh winters, and their keen senses make them skilled hunters and communicators."
+    },
+    {
         "fullstartdate": "202610220400",
         "date": "20261022",
         "url": "https://www.bing.com/th?id=OHR.NaejangsanNP_EN-CA9328142735_1920x1080.jpg",
@@ -71,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MaligneFest_EN-CA6755477171",
         "copyright": "Maligne Lake, Jasper National Park, Alberta (© Andrey Popov/Getty Images)",
         "copyrightKeyword": "Jasper Dark Sky Festival",
-        "hsh": "8ff465b834b0c8483ec62cd479bc4e7d",
-        "description": "Why settle for a planetarium ceiling when Jasper can give you the real thing? That's rather the point of the Jasper Dark Sky Festival, which kicks off today and runs until October 25. The annual event grew from celebrations surrounding Jasper National Park's 2011 designation as a Dark Sky Preserve. The idea is simple: protect natural darkness, then give people plenty of reasons to appreciate it.",
-        "maplink": "54.358091,-117.849547"
-    },
-    {
-        "fullstartdate": "202610150400",
-        "date": "20261015",
-        "url": "https://www.bing.com/th?id=OHR.WroclawPoland_EN-CA2941585195_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WroclawPoland_EN-CA2941585195",
-        "copyright": "View of the Wroclaw Market Square from the Witches' Bridge in Wroclaw, Poland (© Piotr Mitelski/Shutterstock)",
-        "copyrightKeyword": "Wroclaw",
-        "hsh": "5644902e8004489c2e35160ce33b80fe"
+        "hsh": "8ff465b834b0c8483ec62cd479bc4e7d"
     }
 ]

@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202610230700",
+        "date": "20261023",
+        "url": "https://www.bing.com/th?id=OHR.YellowstoneWolves_EN-US7105521535_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.YellowstoneWolves_EN-US7105521535",
+        "copyright": "Two gray wolves, Yellowstone National Park, Wyoming (© John Morrison/Getty Images)",
+        "copyrightKeyword": "Wolf Awareness Week",
+        "hsh": "8abec359cbf3a5980614a3263fd4fc4f",
+        "description": "Two gray wolves move through the sagebrush of Yellowstone National Park in Wyoming, home to some of North America's most closely watched wolf packs. Their thick coats help them withstand harsh winters, and their keen senses make them skilled hunters and communicators."
+    },
+    {
         "fullstartdate": "202610220700",
         "date": "20261022",
         "url": "https://www.bing.com/th?id=OHR.NaejangsanNP_EN-US7010419904_1920x1080.jpg",
@@ -71,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SneffelsAutumn_EN-US3953128777",
         "copyright": "Mount Sneffels in the San Juan Mountains near Ridgway, Colorado (© lightphoto/Getty Images)",
         "copyrightKeyword": "Mount Sneffels",
-        "hsh": "1fbd6203de00eef691ca704a9a7b1048",
-        "description": "Some mountains make you work for the view. Mount Sneffels makes you work for the last few hundred feet. Rising to 14,150 feet in Colorado's San Juan Mountains, this fourteener is a familiar sight around Ridgway, Ouray, and Telluride. It sits within the 16,587-acre Mount Sneffels Wilderness, a protected area designated in 1980. Hikers can reach the mountain from several approaches, including the Yankee Boy Basin and the Blue Lakes area.",
-        "maplink": "38.00354,-107.792695"
-    },
-    {
-        "fullstartdate": "202610150700",
-        "date": "20261015",
-        "url": "https://www.bing.com/th?id=OHR.WroclawPoland_EN-US7757698922_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WroclawPoland_EN-US7757698922",
-        "copyright": "View of the Wroclaw Market Square from the Witches' Bridge in Wroclaw, Poland (© Piotr Mitelski/Shutterstock)",
-        "copyrightKeyword": "Wroclaw",
-        "hsh": "3c3036aa49e2c82e4c442fee970ad2d1"
+        "hsh": "1fbd6203de00eef691ca704a9a7b1048"
     }
 ]

@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202610232200",
+        "date": "20261024",
+        "url": "https://www.bing.com/th?id=OHR.PortugueseLibrary_ES-ES7866547666_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PortugueseLibrary_ES-ES7866547666",
+        "copyright": "Real Gabinete Portugués de Lectura, Río de Janeiro, Brasil (© Antonio Salaverry/Shutterstock)",
+        "copyrightKeyword": "Real Gabinete Portugués de Lectura",
+        "hsh": "3f44f50aa3c6a0d8097ce4235c9af85e",
+        "description": "El Real Gabinete Portugués de Lectura, en Río de Janeiro (Brasil), es una de esas bibliotecas que se visitan con la boca abierta. Tres alturas de estanterías de madera oscura cubren las paredes de suelo a techo, cargadas de volúmenes encuadernados, y desde arriba una gran claraboya de vidrio de colores deja caer la luz sobre la sala de lectura.",
+        "maplink": "-22.905431,-43.182116"
+    },
+    {
         "fullstartdate": "202610222200",
         "date": "20261023",
         "url": "https://www.bing.com/th?id=OHR.YellowstoneWolves_ES-ES1877782674_1920x1080.jpg",
@@ -71,16 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_ES-ES5871821224",
         "copyright": "Reproducción a tamaño real de las pinturas de la cueva de Chauvet, Vallon-Pont-d'Arc, Francia (© Audrey Poree/Alamy)",
         "copyrightKeyword": "cueva de Chauvet",
-        "hsh": "5bbf2653e0358afa397bc48c1c9a8fc2",
-        "description": "Estos caballos, leones y rinocerontes se pintaron hace unos 36.000 años en la cueva de Chauvet, en Vallon-Pont-d'Arc (Francia), aunque lo que muestra la imagen es una copia. La cueva original, descubierta en 1994, permaneció sellada durante milenios y conserva más de 400 pinturas y grabados; para protegerla del deterioro que provoca la presencia humana, nunca se abrió al público."
-    },
-    {
-        "fullstartdate": "202610152200",
-        "date": "20261016",
-        "url": "https://www.bing.com/th?id=OHR.SneffelsAutumn_ES-ES3631909168_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SneffelsAutumn_ES-ES3631909168",
-        "copyright": "Monte Sneffels, montañas San Juan, cerca de Ridgway, Colorado, EE. UU. (© lightphoto/Getty Images)",
-        "copyrightKeyword": "Monte Sneffels",
-        "hsh": "e4696c64aa954d2db6f3c05b1e2b325e"
+        "hsh": "5bbf2653e0358afa397bc48c1c9a8fc2"
     }
 ]
