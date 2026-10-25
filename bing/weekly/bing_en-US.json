@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202610240700",
+        "date": "20261024",
+        "url": "https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-US7519268149_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-US7519268149",
+        "copyright": "Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock)",
+        "copyrightKeyword": "Royal Portuguese Cabinet of Reading",
+        "hsh": "3057fa6ba3981b84f32ee198891d6232",
+        "description": "Today we're inside the Royal Portuguese Cabinet of Reading in Rio de Janeiro, Brazil, where the humble act of opening a book took on grand architectural ambitions. Founded in 1837 by 43 Portuguese immigrants, just 15 years after Brazil's independence, the institution eventually moved into the building seen here, completed half a century later in a lavish Neo-Manueline style. Shelves soar over 70 feet around a vast reading room, crowned by a monumental stained-glass skylight that makes daylight part of the design.",
+        "maplink": "-22.905431,-43.182116"
+    },
+    {
         "fullstartdate": "202610230700",
         "date": "20261023",
         "url": "https://www.bing.com/th?id=OHR.YellowstoneWolves_EN-US7105521535_1920x1080.jpg",
@@ -71,16 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_EN-US6137200151",
         "copyright": "Life-size replica of Chauvet  cave art in Vallon-Pont-d'Arc, France (© Audrey Poree/Alamy)",
         "copyrightKeyword": "International Archaeology Day",
-        "hsh": "b446a1745d30d372bc3f367affdcb648",
-        "description": "Some discoveries start with a shovel. Others start with a drawing on a cave wall. International Archaeology Day celebrates both the detective work and the evidence behind them. Organized by the Archaeological Institute of America, this annual event began in 2011 and became International Archaeology Day in 2013 as participation expanded worldwide. Today, it brings archaeology closer to the public through talks, museum programs, site visits, simulated digs, and hands-on activities."
-    },
-    {
-        "fullstartdate": "202610160700",
-        "date": "20261016",
-        "url": "https://www.bing.com/th?id=OHR.SneffelsAutumn_EN-US3953128777_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SneffelsAutumn_EN-US3953128777",
-        "copyright": "Mount Sneffels in the San Juan Mountains near Ridgway, Colorado (© lightphoto/Getty Images)",
-        "copyrightKeyword": "Mount Sneffels",
-        "hsh": "1fbd6203de00eef691ca704a9a7b1048"
+        "hsh": "b446a1745d30d372bc3f367affdcb648"
     }
 ]

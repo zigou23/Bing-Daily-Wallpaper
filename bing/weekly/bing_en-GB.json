@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202610242300",
+        "date": "20261026",
+        "url": "https://www.bing.com/th?id=OHR.BSTEnds2026_EN-GB5502884225_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BSTEnds2026_EN-GB5502884225",
+        "copyright": "The Eastgate Clock, Chester, England (© Alexey_Fedoren/iStock/Getty Images)",
+        "copyrightKeyword": "British Summer Time",
+        "hsh": "6c844eb5517f3c2803ccb1670c3c67e0",
+        "description": "Ready to turn back time? Britain does it every autumn, no time machine required. Today, British Summer Time (BST) ends as clocks go back one hour from 2 am BST to 1 am GMT, giving you an extra hour in bed.",
+        "maplink": "53.190205,-2.891644"
+    },
+    {
         "fullstartdate": "202610232300",
         "date": "20261024",
         "url": "https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-GB5432733315_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DolbadarnWales_EN-GB4918405829",
         "copyright": "Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images)",
         "copyrightKeyword": "Eryri National Park Wales",
-        "hsh": "2256e4ce3390847ee1c800df252e3e09",
-        "description": "If parks could keep birthday diaries, Eryri National Park (Snowdonia) in Wales would have quite the story to tell. The park turns 75 today, marking the anniversary of its designation in 1951. Eryri stretches across 823 square miles, with nine mountain ranges, 74 miles of coastline and habitats ranging from peatlands and native woodlands to upland landscapes. At more than 1,000 metres, Yr Wyddfa is Eryri's highest point. Nearby, the Carneddau and Glyderau add their own peaks, while Cadair Idris rises in the south. These protected landscapes provide habitats for wildlife and include 17 National Nature Reserves and 56 Sites of Special Scientific Interest.",
-        "maplink": "52.927253,-4.077652"
-    },
-    {
-        "fullstartdate": "202610162300",
-        "date": "20261017",
-        "url": "https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_EN-GB4836767874_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_EN-GB4836767874",
-        "copyright": "Life-size replica of Chauvet cave art in Vallon-Pont-d'Arc, France (© Audrey Poree/Alamy)",
-        "copyrightKeyword": "International Archaeology Day",
-        "hsh": "00baa16a7b60b05b3f8a69d18d4e1f6f"
+        "hsh": "2256e4ce3390847ee1c800df252e3e09"
     }
 ]

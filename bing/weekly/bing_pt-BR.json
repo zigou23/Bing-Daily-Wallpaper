@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202610240300",
+        "date": "20261024",
+        "url": "https://www.bing.com/th?id=OHR.PortugueseLibrary_PT-BR6869331212_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PortugueseLibrary_PT-BR6869331212",
+        "copyright": "Real Gabinete Português de Leitura, Rio de Janeiro (© Antonio Salaverry/Shutterstock)",
+        "copyrightKeyword": "Real Gabinete Portugues de Leitura",
+        "hsh": "17a5e45558ed23051bdd2fd31eb1c991",
+        "description": "O endereço é carioca, mas a fachada fez check-in na Europa antes de chegar aqui. O Real Gabinete Português de Leitura nasceu em 1837, 15 anos depois da Independência do Brasil, quando 43 imigrantes portugueses criaram uma instituição dedicada aos livros. Sua fachada foi esculpida em Lisboa, transportada de navio pelo Atlântico e montada no Rio de Janeiro."
+    },
+    {
         "fullstartdate": "202610230300",
         "date": "20261023",
         "url": "https://www.bing.com/th?id=OHR.YellowstoneWolves_PT-BR5538259597_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_PT-BR7808142972",
         "copyright": "Réplica em tamanho real das pinturas rupestres da Caverna de Chauvet, Vallon-Pont-d'Arc, França (© Audrey Poree/Alamy)",
         "copyrightKeyword": "Caverna de Chauvet",
-        "hsh": "388c3f7e01da8f2b6ca14c05cfe3ae73",
-        "description": "Imagine encontrar uma caverna e descobrir que alguém preencheu suas paredes com mamutes, rinocerontes e bisões há milhares de anos. Foi assim que a Caverna de Chauvet, no sul da França, entrou para a história. Descoberta em 1994, ela guarda mais de mil desenhos e gravuras, alguns com cerca de 36 mil anos."
-    },
-    {
-        "fullstartdate": "202610160300",
-        "date": "20261016",
-        "url": "https://www.bing.com/th?id=OHR.Veadeiros_PT-BR0644976929_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.Veadeiros_PT-BR0644976929",
-        "copyright": "Chapada dos Veadeiros, Goiás (© Roberto Kenji/Shutterstock)",
-        "copyrightKeyword": "Chapada dos Veadeiros",
-        "hsh": "041225b55123df1dec674ba18ef5ccf2"
+        "hsh": "388c3f7e01da8f2b6ca14c05cfe3ae73"
     }
 ]

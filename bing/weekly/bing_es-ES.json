@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202610242200",
+        "date": "20261025",
+        "url": "https://www.bing.com/th?id=OHR.GernikaPaisVasco_ES-ES5108223011_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GernikaPaisVasco_ES-ES5108223011",
+        "copyright": "Entrada a la Iglesia de Santa María, Gernika-Lumo, Vizcaya, País Vasco, España (© tichr/ShutterStock)",
+        "copyrightKeyword": "Iglesia de Santa María Gernika-Lumo",
+        "hsh": "47440825f5a31fca30202c09e6c9e317",
+        "description": "La portada gótica de la imagen pertenece a la iglesia de Santa María, en Gernika-Lumo (Vizcaya, País Vasco, España), el edificio más antiguo de la villa. Se empezó a mediados del siglo XV y las obras se alargaron dos siglos, de ahí su mezcla de estilos: arco ojival en la puerta y un interior renacentista de planta de salón, con las bóvedas cerradas hacia 1660.",
+        "maplink": "43.317001,-2.678954"
+    },
+    {
         "fullstartdate": "202610232200",
         "date": "20261024",
         "url": "https://www.bing.com/th?id=OHR.PortugueseLibrary_ES-ES7866547666_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DolbadarnWales_ES-ES3329263701",
         "copyright": "Castillo de Dolbadarn, Llanberis, Parque Nacional de Eryri (Snowdonia), Gales (© joe daniel price/Getty Images)",
         "copyrightKeyword": "Castillo de Dolbadarn",
-        "hsh": "67a4956bdc832b3d8475cfcc95dfaa41",
-        "description": "El castillo de Dolbadarn vigila el paso de Llanberis, en el Parque Nacional de Eryri (Snowdonia), en Gales, encajado entre los lagos Padarn y Peris. Lo levantó a comienzos del siglo XIII Llywelyn el Grande, príncipe de Gwynedd, y no era una fortaleza cualquiera: controlaba la ruta interior que unía la costa con el corazón del reino galés.",
-        "maplink": "53.121674,-4.127404"
-    },
-    {
-        "fullstartdate": "202610162200",
-        "date": "20261017",
-        "url": "https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_ES-ES5871821224_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_ES-ES5871821224",
-        "copyright": "Reproducción a tamaño real de las pinturas de la cueva de Chauvet, Vallon-Pont-d'Arc, Francia (© Audrey Poree/Alamy)",
-        "copyrightKeyword": "cueva de Chauvet",
-        "hsh": "5bbf2653e0358afa397bc48c1c9a8fc2"
+        "hsh": "67a4956bdc832b3d8475cfcc95dfaa41"
     }
 ]
