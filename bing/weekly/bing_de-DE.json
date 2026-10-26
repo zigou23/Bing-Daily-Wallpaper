@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202610252300",
+        "date": "20261026",
+        "url": "https://www.bing.com/th?id=OHR.SitovoWaterfall_DE-DE2533514641_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SitovoWaterfall_DE-DE2533514641",
+        "copyright": "Wasserfälle bei Sitovo im Herbst, Plowdiw, Bulgarien (© Nadya85/Getty Images)",
+        "copyrightKeyword": "Sitowo Plowdiw Bulgarien",
+        "hsh": "0d8ec5b2bae100151aea47665ab19e36",
+        "description": "Ein Steinbogen, rauschendes Wasser und leuchtendes Herbstlaub: Der Sitovo-Wasserfall in den westlichen Rhodopen Bulgariens scheint wie für eine Märchenszene geschaffen. Nahe dem Dorf Sitovo, südwestlich von Plowdiw, fällt das Wasser unter einer alten Steinbrücke hindurch. Moosbewachsene Felsen und Kiefern bringen kräftiges Grün in die herbstliche Landschaft, während gefallene Blätter das Ufer bedecken oder durch die kleinen Becken treiben. Nach Regen und während der Schneeschmelze im Frühjahr führt der Wasserfall besonders viel Wasser und sein Rauschen erfüllt den umliegenden Wald.",
+        "maplink": "41.926863,24.615841"
+    },
+    {
         "fullstartdate": "202610242200",
         "date": "20261025",
         "url": "https://www.bing.com/th?id=OHR.MaligneFest_DE-DE5179640958_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.VeniceSunrise_DE-DE1204445748",
         "copyright": "Canal Grande in Venedig, Italien (© Juan Romero/Cavan Images)",
         "copyrightKeyword": "Canal Grande",
-        "hsh": "229cacb2c24c62e5b3cef560d50a0a14",
-        "description": "Mitten durch Venedig zieht sich eine Wasserstraße, auf der das Leben niemals stillsteht. Der rund 3,8 Kilometer lange Canal Grande schlängelt sich in Form eines umgekehrten S durch die Lagunenstadt. Von den Venezianern auch Canalazzo genannt, dient er als wichtigste Verkehrsader. Vaporetti, Wassertaxis, Gondeln, Polizeiboote und viele weitere Boote sind hier täglich unterwegs.",
-        "maplink": "45.435337,12.32783"
-    },
-    {
-        "fullstartdate": "202610172200",
-        "date": "20261018",
-        "url": "https://www.bing.com/th?id=OHR.DolbadarnWales_DE-DE0565954250_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DolbadarnWales_DE-DE0565954250",
-        "copyright": "Dolbadarn Castle, Llanberis, Eryri-Nationalpark (Snowdonia), Wales (© joe daniel price/Getty Images)",
-        "copyrightKeyword": "Eryri-Nationalpark Informationen",
-        "hsh": "4bac911651f59d4ed496670e18b40348"
+        "hsh": "229cacb2c24c62e5b3cef560d50a0a14"
     }
 ]
