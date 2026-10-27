@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202610260700",
+        "date": "20261026",
+        "url": "https://www.bing.com/th?id=OHR.HangingBat_EN-US7714746725_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.HangingBat_EN-US7714746725",
+        "copyright": "Gray-headed flying fox, Victoria, Australia (© Doug Gimesy/Nature Picture Library)",
+        "copyrightKeyword": "Bat Week",
+        "hsh": "a7c299adafaab46a527c467155126330",
+        "description": "Bat Week shines a spotlight on some of the world's most important and often misunderstood mammals. Observed each October, the event celebrates the vital role bats play in healthy ecosystems across the globe. As pollinators, seed dispersers, and natural pest controllers, they support forests, farms, and food supplies. Some can consume thousands of insects in a single night, helping reduce the need for pesticides. With more than 1,500 species found worldwide, bats are the only mammals capable of sustained flight, making them one of nature's most impressive success stories.",
+        "maplink": "-36.850086,144.304291"
+    },
+    {
         "fullstartdate": "202610250700",
         "date": "20261025",
         "url": "https://www.bing.com/th?id=OHR.SitovoWaterfall_EN-US7626867890_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.VeniceSunrise_EN-US6714393168",
         "copyright": "Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)",
         "copyrightKeyword": "Grand Canal Venice",
-        "hsh": "726e7020a29b1793f29d81fa4457a0a6",
-        "description": "What if a city's busiest street had no road? In Venice, Italy, traffic flows along the Grand Canal, a 2.4-mile waterway that winds through the city in a giant reverse S-shape. Known to locals as the Canalazzo, it is Venice's main water-traffic corridor, carrying vaporetti, water taxis, gondolas, police boats, and other vessels. The canal follows the course of an ancient river that once flowed into the Venetian Lagoon.",
-        "maplink": "45.435337,12.32783"
-    },
-    {
-        "fullstartdate": "202610180700",
-        "date": "20261018",
-        "url": "https://www.bing.com/th?id=OHR.DolbadarnWales_EN-US6620614213_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DolbadarnWales_EN-US6620614213",
-        "copyright": "Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images)",
-        "copyrightKeyword": "Eryri National Park Wales",
-        "hsh": "5e751a9ace0e95ca2c6ab70145f17579"
+        "hsh": "726e7020a29b1793f29d81fa4457a0a6"
     }
 ]
