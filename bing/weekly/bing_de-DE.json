@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202610272300",
+        "date": "20261028",
+        "url": "https://www.bing.com/th?id=OHR.KuneticeCastle_DE-DE2818546067_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.KuneticeCastle_DE-DE2818546067",
+        "copyright": "Burg Kunětická hora, Böhmen, Tschechien (© Marek Saroch/Alamy)",
+        "copyrightKeyword": "Burg Kunětická hora",
+        "hsh": "b022ff279d9c09b3db06bb2fce9ea3ca",
+        "description": "Was könnten diese Mauern wohl alles erzählen? Hoch über der ostböhmischen Landschaft thront die Burg Kunětická hora, die im Deutschen auch als Kunburg bekannt ist. Bereits in der zweiten Hälfte des 14. Jahrhunderts stand an dieser Stelle eine ausgedehnte Burganlage. Ihre erhöhte Lage machte sie weithin sichtbar und zu einem wichtigen strategischen Stützpunkt.",
+        "maplink": "50.080287,15.811615"
+    },
+    {
         "fullstartdate": "202610262300",
         "date": "20261027",
         "url": "https://www.bing.com/th?id=OHR.PondCypress_DE-DE2656375905_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.VietnamBridge_DE-DE1735618070",
         "copyright": "Nguyen-Hoang-Brücke über den Parfümfluss, Huế, Vietnam (© VU PHAM VAN/Getty Images)",
         "copyrightKeyword": "Huế",
-        "hsh": "ce6088b3f21dd4859d761f672b5d6049",
-        "description": "Die Nguyen-Hoang-Brücke schafft im Stadtbild von Huế, Vietnam, eine moderne Verbindung zwischen Vergangenheit und Gegenwart. Seit dem 26. März 2025 führt sie über den Parfümfluss und verbindet zeitgemäße Ingenieurskunst mit der Geschichte der ehemaligen Kaiserstadt. Ihr Entwurf trägt den Namen „Der Kranich mit Blick auf Thien Mu“ und ist von einer lokalen Legende sowie der nahe gelegenen Thien-Mu-Pagode inspiriert. Die Stahlbögen erinnern an die ausgebreiteten Flügel eines Kranichs, während die V-förmigen Pfeiler friedlich am Fluss versammelte Vögel darstellen.",
-        "maplink": "16.455292,107.55998"
-    },
-    {
-        "fullstartdate": "202610192200",
-        "date": "20261020",
-        "url": "https://www.bing.com/th?id=OHR.BrownSloth_DE-DE1394372620_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BrownSloth_DE-DE1394372620",
-        "copyright": "Braunkehl-Faultier, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)",
-        "copyrightKeyword": "Internationaler Tag des Faultiers",
-        "hsh": "f577862db4826918e95331b413d2f49e"
+        "hsh": "ce6088b3f21dd4859d761f672b5d6049"
     }
 ]

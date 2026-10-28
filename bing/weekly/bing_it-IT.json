@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202610272300",
+        "date": "20261028",
+        "url": "https://www.bing.com/th?id=OHR.KuneticeCastle_IT-IT9181989032_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.KuneticeCastle_IT-IT9181989032",
+        "copyright": "Castello di Kunětická hora, Boemia, Cechia (© Marek Saroch/Alamy)",
+        "copyrightKeyword": "Castello di Kunětická hora",
+        "hsh": "7405ae1fdbc18910e8540433c86769ac",
+        "description": "Che storie racconterebbero queste mura? Il castello di Kunětická hora si alza su un colle isolato nella Boemia orientale, in Cechia, e da secoli tiene d'occhio la pianura dell'Elba. Alla fine del Trecento sulla collina esisteva già una fortezza, e la sua posizione elevata, che permetteva di controllare tutto il territorio intorno, la rese una piazza ambita.",
+        "maplink": "50.080287,15.811615"
+    },
+    {
         "fullstartdate": "202610262300",
         "date": "20261027",
         "url": "https://www.bing.com/th?id=OHR.PondCypress_IT-IT6320902214_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.VietnamBridge_IT-IT3479546401",
         "copyright": "Ponte Nguyễn Hoàng sul fiume dei Profumi, Hue, Vietnam (© VU PHAM VAN/Getty Images)",
         "copyrightKeyword": "fiume dei Profumi Hue",
-        "hsh": "b6fe30f333fe17f29dae7aafd3bbf255",
-        "description": "Il ponte Nguyễn Hoàng attraversa il fiume dei Profumi a Hue, in Vietnam, ed è un'aggiunta molto recente al paesaggio: è stato aperto al traffico nel marzo del 2025. Misura 380 metri di lunghezza e 43 di larghezza, e il suo progetto è uscito da un concorso internazionale vinto da un architetto finlandese.",
-        "maplink": "16.455292,107.55998"
-    },
-    {
-        "fullstartdate": "202610192200",
-        "date": "20261020",
-        "url": "https://www.bing.com/th?id=OHR.BrownSloth_IT-IT3225849910_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BrownSloth_IT-IT3225849910",
-        "copyright": "Giovane bradipo tridattilo dalla gola bruna, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)",
-        "copyrightKeyword": "bradipo tridattilo",
-        "hsh": "c3ab380f7a8a70b2ee261948a154deaf"
+        "hsh": "b6fe30f333fe17f29dae7aafd3bbf255"
     }
 ]
