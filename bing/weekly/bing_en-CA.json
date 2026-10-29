@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202610280400",
+        "date": "20261028",
+        "url": "https://www.bing.com/th?id=OHR.KuneticeCastle_EN-CA2792060952_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.KuneticeCastle_EN-CA2792060952",
+        "copyright": "Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy)",
+        "copyrightKeyword": "Kunětická hora Castle",
+        "hsh": "a2c4b4664322e2ada8a8c19432246d40",
+        "description": "What stories could these walls tell? Rising above eastern Bohemia in Czechia, Kunětická hora Castle has witnessed centuries of history. Dating to the late 14th century, the castle gradually evolved into an impressive fortress and noble residence. Its elevated position offered commanding views of the surrounding countryside and helped make it an important stronghold.",
+        "maplink": "50.080287,15.811615"
+    },
+    {
         "fullstartdate": "202610270400",
         "date": "20261027",
         "url": "https://www.bing.com/th?id=OHR.PondCypress_EN-CA4795569261_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.VietnamBridge_EN-CA8865714729",
         "copyright": "Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam (© VU PHAM VAN/Getty Images)",
         "copyrightKeyword": "Hue Vietnam",
-        "hsh": "86d5dd8aaa6b349654358ce48d427ae4",
-        "description": "Bridging the gap between old and new, Nguyen Hoang Bridge gives Hue's skyline a fresh connection. Spanning the Perfume River in Vietnam, the modern steel-arch landmark opened to traffic on March 26, 2025. Its design, called 'The Crane Facing Thien Mu,' draws inspiration from a local legend and nearby Thien Mu Pagoda.",
-        "maplink": "16.455292,107.55998"
-    },
-    {
-        "fullstartdate": "202610200400",
-        "date": "20261020",
-        "url": "https://www.bing.com/th?id=OHR.BrownSloth_EN-CA8530499250_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BrownSloth_EN-CA8530499250",
-        "copyright": "Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)",
-        "copyrightKeyword": "International Sloth Day",
-        "hsh": "145e2f306cfbaca6d71960f1d1512583"
+        "hsh": "86d5dd8aaa6b349654358ce48d427ae4"
     }
 ]

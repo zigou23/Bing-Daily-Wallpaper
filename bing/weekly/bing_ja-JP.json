@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202610281500",
+        "date": "20261029",
+        "url": "https://www.bing.com/th?id=OHR.AveburyStones_JA-JP4031336786_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AveburyStones_JA-JP4031336786",
+        "copyright": "エーヴベリー 巨石群, イングランド (© George W Johnson/Getty Images)",
+        "copyrightKeyword": "エーヴベリー 巨石群",
+        "hsh": "d6e319715f7572177def89ba9f8da2ca",
+        "description": "イングランド南西部ウィルトシャーにあるエーヴベリー。朝霧に包まれた巨石群は、約 4500 年前の新石器時代に築かれた遺跡の一部です。世界最大の先史時代の環状列石をはじめ、巨大な環状遺構や列石が残されており、シルベリー・ヒルなど周辺の遺跡とともに広大な遺跡群を形成し、ユネスコ世界遺産にも登録されています。訪れる人は巨石の間を歩くことで、現代の田園風景に溶け込む古代遺跡を間近に体感することができます。",
+        "maplink": "51.42898,-1.854909"
+    },
+    {
         "fullstartdate": "202610271500",
         "date": "20261028",
         "url": "https://www.bing.com/th?id=OHR.KuneticeCastle_JA-JP3914699688_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.NaejangsanNP_JA-JP7092803320",
         "copyright": "内蔵山国立公園, 韓国 (© Twenty47studio/Getty Images)",
         "copyrightKeyword": "内蔵山国立公園",
-        "hsh": "b98333ed9cc7fda9e958bf351e624a0d",
-        "description": "ここは韓国南西部に位置する内蔵山（ネジャンサン）国立公園です。内蔵山は「内蔵九峰」と呼ばれる 9 つの峰からなり、その最高峰は標高 763m の神仙峰（シンソンボン）です。公園は韓国を代表する紅葉の名所として知られ、秋には山々が鮮やかに色づきます。「内蔵山」という名前には、「山の中に尽きることのない宝が隠されている」という意味が込められています。画像は、公園を象徴する風景のひとつとして親しまれている東屋、羽化亭（ウファジョン）です。",
-        "maplink": "35.481191,126.889374"
-    },
-    {
-        "fullstartdate": "202610201500",
-        "date": "20261021",
-        "url": "https://www.bing.com/th?id=OHR.VietnamBridge_JA-JP2833280767_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.VietnamBridge_JA-JP2833280767",
-        "copyright": "グエン・ホアン橋, ベトナム (© VU PHAM VAN/Getty Images)",
-        "copyrightKeyword": "グエン・ホアン橋",
-        "hsh": "7f1ddbc0e86dcb41de3c9d13610bbbce"
+        "hsh": "b98333ed9cc7fda9e958bf351e624a0d"
     }
 ]
