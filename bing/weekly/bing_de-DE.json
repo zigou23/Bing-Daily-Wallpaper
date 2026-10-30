@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202610292300",
+        "date": "20261030",
+        "url": "https://www.bing.com/th?id=OHR.AutumnCranes_DE-DE0229834342_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AutumnCranes_DE-DE0229834342",
+        "copyright": "Kanadakraniche, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)",
+        "copyrightKeyword": "Kanadakranich",
+        "hsh": "841ba314371c7bc580068cd37aca730c",
+        "description": "Der Winter bringt einen vertrauten Rhythmus in das Bosque del Apache National Wildlife Refuge in New Mexico. Die Kraniche treffen ein, die Feuchtgebiete füllen sich mit Vögeln und das Gebiet wird zu einem Knotenpunkt für saisonale Wildtiere. Das 1939 gegründete, 23.000 Hektar große Schutzgebiet wurde geschaffen, um Zugvögeln einen geschützten Rastplatz zu bieten. Seine Feuchtgebiete, Felder und Wasserwege sind heute das ganze Jahr über Rückzugsort für Wildtiere. Kanadakraniche, die auf dem heutigen Bild zu sehen sind, sind besonders im Winter häufig in diesem Schutzgebiet anzutreffen.",
+        "maplink": "34.384147,-106.900263"
+    },
+    {
         "fullstartdate": "202610282300",
         "date": "20261029",
         "url": "https://www.bing.com/th?id=OHR.AveburyStones_DE-DE3052154737_1920x1080.jpg",
@@ -71,16 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.YellowstoneWolves_DE-DE2017697752",
         "copyright": "Wölfe im Yellowstone-Nationalpark, Wyoming, USA (© John Morrison/Getty Images)",
         "copyrightKeyword": "Wolf Tier",
-        "hsh": "95a05e174a85c811538bc0ce91bb7939",
-        "description": "Im Yellowstone-Nationalpark im US-Bundesstaat Wyoming gehören Wölfe zu den faszinierendsten Bewohnern der weitläufigen Wildnis. Nachdem sie dort im frühen 20. Jahrhundert verschwunden waren, wurden zwischen 1995 und 1997 insgesamt 41 Tiere aus Kanada und dem Nordwesten Montanas im Park ausgesetzt. Seitdem leben wieder mehrere Rudel in dieser beeindruckenden Landschaft."
-    },
-    {
-        "fullstartdate": "202610212200",
-        "date": "20261022",
-        "url": "https://www.bing.com/th?id=OHR.NaejangsanNP_DE-DE1873468197_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.NaejangsanNP_DE-DE1873468197",
-        "copyright": "Herbst im Naejangsan-Nationalpark, Südkorea (© Twenty47studio/Getty Images)",
-        "copyrightKeyword": "Naejangsan-Nationalpark",
-        "hsh": "b7718fca32e311c95955a0eec6319c7d"
+        "hsh": "95a05e174a85c811538bc0ce91bb7939"
     }
 ]
