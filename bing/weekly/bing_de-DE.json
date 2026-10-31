@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202610302300",
+        "date": "20261031",
+        "url": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_DE-DE2172526536_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_DE-DE2172526536",
+        "copyright": "Kaiserdom St. Bartholomäus in Frankfurt am Main, Deutschland (© AlxeyPnferov/Getty Images)",
+        "copyrightKeyword": "Halloween",
+        "hsh": "ead7a5128f2dac8473d3b22c72a6d9d4",
+        "description": "Vergessen Sie die Nebelmaschine. Frankfurt am Main hat etwas weitaus Wirkungsvolleres zu bieten: eine gotische Kathedrale mit einem Turm, wie geschaffen für eine Mitternachts-Séance. Der hier abgebildete Kaiserdom St. Bartholomäus bietet die perfekte mittelalterliche Kulisse für Halloween. Doch die Geschichte dieses Feiertags ist noch gruseliger als das Foto.",
+        "maplink": "50.110766,8.68539"
+    },
+    {
         "fullstartdate": "202610292300",
         "date": "20261030",
         "url": "https://www.bing.com/th?id=OHR.AutumnCranes_DE-DE0229834342_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BerlinLibrary_DE-DE5145605761",
         "copyright": "Philologische Bibliothek der Freien Universität Berlin, Berlin (© ullstein bild/Getty Images)",
         "copyrightKeyword": "Tag der Bibliotheken",
-        "hsh": "9c5b9f920b4fb3d0b584940791a948d7",
-        "description": "Am heutigen Tag der Bibliotheken dreht sich alles um Bücher, Wissen und die Orte, die beides zugänglich machen. Seit 1995 macht der bundesweite Aktionstag am 24. Oktober auf die Bedeutung von Bibliotheken als Kultur- und Bildungseinrichtungen aufmerksam. Ins Leben gerufen wurde er von der Deutschen Literaturkonferenz unter der Schirmherrschaft des damaligen Bundespräsidenten Richard von Weizsäcker. Auch 2026 beteiligen sich Bibliotheken in ganz Deutschland mit analogen und digitalen Aktionen und Veranstaltungen. Lesungen, Ausstellungen und Führungen laden dazu ein, ihre vielfältigen Angebote neu zu entdecken.",
-        "maplink": "52.451914,13.288265"
-    },
-    {
-        "fullstartdate": "202610222200",
-        "date": "20261023",
-        "url": "https://www.bing.com/th?id=OHR.YellowstoneWolves_DE-DE2017697752_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.YellowstoneWolves_DE-DE2017697752",
-        "copyright": "Wölfe im Yellowstone-Nationalpark, Wyoming, USA (© John Morrison/Getty Images)",
-        "copyrightKeyword": "Wolf Tier",
-        "hsh": "95a05e174a85c811538bc0ce91bb7939"
+        "hsh": "9c5b9f920b4fb3d0b584940791a948d7"
     }
 ]

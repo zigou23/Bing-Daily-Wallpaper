@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202610302300",
+        "date": "20261031",
+        "url": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_IT-IT1676201038_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_IT-IT1676201038",
+        "copyright": "Duomo Imperiale di Francoforte, Germania (© AlxeyPnferov/Getty Images)",
+        "copyrightKeyword": "Halloween",
+        "hsh": "bb0b4ad01fab93dec40cdca57bb988eb",
+        "description": "A Francoforte, in Germania, il Duomo Imperiale di San Bartolomeo, con la sua imponente architettura gotica, offre lo scenario perfetto per Halloween, una festa dalle origini avvolte nel mistero. Alcune delle sue tradizioni vengono associate a Samhain, un’antica festività celtica che segnava la fine del raccolto e l’inizio dell’inverno, quando si credeva che il confine tra il mondo dei vivi e quello dei morti si assottigliasse. In seguito, la vigilia di Ognissanti divenne “All Hallows’ Eve”, da cui deriva Halloween. Tra fantasmi, falò, travestimenti e suggestioni soprannaturali, non manca proprio nulla per una notte da brividi.",
+        "maplink": "50.110766,8.68539"
+    },
+    {
         "fullstartdate": "202610292300",
         "date": "20261030",
         "url": "https://www.bing.com/th?id=OHR.AutumnCranes_IT-IT0637151336_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PortugueseLibrary_IT-IT4308985837",
         "copyright": "Real Gabinete Portoghese di Lettura, Rio de Janeiro, Brasile (© Antonio Salaverry/Shutterstock)",
         "copyrightKeyword": "Real Gabinete Portoghese di Lettura",
-        "hsh": "5ef1d0c74f215e32ad83d1bbc407a189",
-        "description": "Il Real Gabinete Portoghese di Lettura, a Rio de Janeiro (Brasile), è una di quelle biblioteche che si visitano a bocca aperta. Tre livelli di scaffali in legno scuro coprono le pareti da terra al soffitto, carichi di volumi rilegati, e dall'alto un grande lucernario di vetri colorati lascia cadere la luce sulla sala di lettura.",
-        "maplink": "-22.905431,-43.182116"
-    },
-    {
-        "fullstartdate": "202610222200",
-        "date": "20261023",
-        "url": "https://www.bing.com/th?id=OHR.YellowstoneWolves_IT-IT3969091116_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.YellowstoneWolves_IT-IT3969091116",
-        "copyright": "Due lupi grigi, Parco nazionale di Yellowstone, Wyoming, USA (© John Morrison/Getty Images)",
-        "copyrightKeyword": "parco nazionale di yellowstone",
-        "hsh": "ccd5ba3c93eecf10148c17232e8b0854"
+        "hsh": "5ef1d0c74f215e32ad83d1bbc407a189"
     }
 ]
