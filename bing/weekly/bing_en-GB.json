@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611010000",
+        "date": "20261102",
+        "url": "https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_EN-GB3893624438_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_EN-GB3893624438",
+        "copyright": "Black Forest, Baden-Württemberg, Germany (© Britus/Getty Images)",
+        "copyrightKeyword": "Black Forest Germany",
+        "hsh": "e423e524d1e69cf9525a2dc013aca79e",
+        "description": "Today we're enjoying the misty views sweeping across the Black Forest, which stretches for around 160 kilometres across south-west Germany, bringing together wooded hills, deep valleys, lakes and charming towns. Its highest point, Feldberg, rises to 1,493 metres, while the Black Forest is also the starting point for the Danube and Neckar rivers. There's plenty of history and tradition here too. Forestry has long played an important role in the region, while its centuries-old clockmaking heritage helped make the distinctive cuckoo clock famous far beyond Germany.",
+        "maplink": "48.286722,8.215281"
+    },
+    {
         "fullstartdate": "202610310000",
         "date": "20261101",
         "url": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_EN-GB3041218795_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BSTEnds2026_EN-GB5502884225",
         "copyright": "The Eastgate Clock, Chester, England (© Alexey_Fedoren/iStock/Getty Images)",
         "copyrightKeyword": "British Summer Time",
-        "hsh": "6c844eb5517f3c2803ccb1670c3c67e0",
-        "description": "Ready to turn back time? Britain does it every autumn, no time machine required. Today, British Summer Time (BST) ends as clocks go back one hour from 2 am BST to 1 am GMT, giving you an extra hour in bed.",
-        "maplink": "53.190205,-2.891644"
-    },
-    {
-        "fullstartdate": "202610232300",
-        "date": "20261024",
-        "url": "https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-GB5432733315_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-GB5432733315",
-        "copyright": "Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock)",
-        "copyrightKeyword": "Royal Portuguese Cabinet of Reading",
-        "hsh": "9f84efd352828feebad945fcb3b9b204"
+        "hsh": "6c844eb5517f3c2803ccb1670c3c67e0"
     }
 ]

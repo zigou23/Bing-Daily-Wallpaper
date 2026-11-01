@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202610310400",
+        "date": "20261031",
+        "url": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_EN-CA9657628051_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_EN-CA9657628051",
+        "copyright": "St. Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images)",
+        "copyrightKeyword": "Halloween",
+        "hsh": "1ff4ecade2163f4bb679b756829743d8",
+        "description": "Frankfurt, Germany, provides a fitting backdrop for Halloween with St. Bartholomew's Cathedral and its striking Gothic tower. Yet the holiday's origins are even more intriguing. Many Halloween traditions are linked to Samhain, an ancient Celtic festival marking the end of the harvest season and the start of winter. People believed the boundary between the living and the dead grew thin, prompting bonfires, offerings and disguises to ward off wandering spirits. Later, the Christian observances of All Saints' Day and All Souls' Day helped shape Halloween as we know it today. St. Bartholomew's may set the scene, but Halloween brings the ghosts, legends and mystery.",
+        "maplink": "50.110766,8.68539"
+    },
+    {
         "fullstartdate": "202610300400",
         "date": "20261030",
         "url": "https://www.bing.com/th?id=OHR.AutumnCranes_EN-CA4395405990_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-CA0206045106",
         "copyright": "Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock)",
         "copyrightKeyword": "Royal Portuguese Cabinet of Reading",
-        "hsh": "13f12daaeb841ec0fa57eef5ba6e8eef",
-        "description": "Today we're inside the Royal Portuguese Cabinet of Reading in Rio de Janeiro, Brazil, where the humble act of opening a book took on grand architectural ambitions. Founded in 1837 by 43 Portuguese immigrants, just 15 years after Brazil's independence, the institution eventually moved into the building seen here, completed half a century later in a lavish Neo-Manueline style. Shelves soar over 20 metres around a vast reading room, crowned by a monumental stained-glass skylight that makes daylight part of the design.",
-        "maplink": "-22.905431,-43.182116"
-    },
-    {
-        "fullstartdate": "202610230400",
-        "date": "20261023",
-        "url": "https://www.bing.com/th?id=OHR.YellowstoneWolves_EN-CA9692259331_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.YellowstoneWolves_EN-CA9692259331",
-        "copyright": "Two grey wolves Yellowstone National Park, Wyoming, United States (© John Morrison/Getty Images)",
-        "copyrightKeyword": "Wolf Awareness Week",
-        "hsh": "2f96f76ed23b59a696c2caba59b2fcd4"
+        "hsh": "13f12daaeb841ec0fa57eef5ba6e8eef"
     }
 ]

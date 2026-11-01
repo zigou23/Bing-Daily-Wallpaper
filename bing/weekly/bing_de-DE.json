@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202610312300",
+        "date": "20261101",
+        "url": "https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_DE-DE2707949453_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_DE-DE2707949453",
+        "copyright": "Schwarzwald, Baden-Württemberg (© Britus/Getty Images)",
+        "copyrightKeyword": "Schwarzwald Deutschland",
+        "hsh": "8d708799fc049d1f4a9cb7098e3a5214",
+        "description": "Heute lassen wir den Blick über die nebelverhangene Landschaft des Schwarzwaldes schweifen, der sich über rund 160 Kilometer durch den Südwesten Deutschlands erstreckt und bewaldete Hügel, tiefe Täler, Seen und charmante Städtchen umfasst. Sein höchster Gipfel, der Feldberg, ist 1.493 Meter hoch. Der Schwarzwald ist der Ursprung der Flüsse Donau und Neckar und die Region ist reich an Geschichte und Tradition. Die Forstwirtschaft spielt hier seit jeher eine wichtige Rolle und die jahrhundertealte Uhrmachertradition hat dazu beigetragen, dass die unverwechselbare Kuckucksuhr weit über die Grenzen Deutschlands hinaus berühmt wurde.",
+        "maplink": "48.286722,8.215281"
+    },
+    {
         "fullstartdate": "202610302300",
         "date": "20261031",
         "url": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_DE-DE2172526536_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MaligneFest_DE-DE5179640958",
         "copyright": "Maligne Lake, Jasper-Nationalpark, Alberta, Kanada (© Andrey Popov/Getty Images)",
         "copyrightKeyword": "Jasper-Nationalpark Kanada",
-        "hsh": "67376e6c1a7c1c43865a6191537b8331",
-        "description": "Türkisfarbenes Wasser, schroffe Berggipfel und dichte Wälder prägen das Bild des Maligne Lake im Jasper-Nationalpark. Der von Gletschern gespeiste See erstreckt sich über rund 22 Kilometer durch die kanadischen Rocky Mountains. Sein Wasser bleibt selbst an warmen Sommertagen ausgesprochen kalt. Wanderwege eröffnen unterschiedliche Perspektiven auf die umliegende Bergwelt, während sich vom Kanu aus die lange, weitgehend unberührte Uferlandschaft entdecken lässt.",
-        "maplink": "53.634595,-118.149918"
-    },
-    {
-        "fullstartdate": "202610232200",
-        "date": "20261024",
-        "url": "https://www.bing.com/th?id=OHR.BerlinLibrary_DE-DE5145605761_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BerlinLibrary_DE-DE5145605761",
-        "copyright": "Philologische Bibliothek der Freien Universität Berlin, Berlin (© ullstein bild/Getty Images)",
-        "copyrightKeyword": "Tag der Bibliotheken",
-        "hsh": "9c5b9f920b4fb3d0b584940791a948d7"
+        "hsh": "67376e6c1a7c1c43865a6191537b8331"
     }
 ]

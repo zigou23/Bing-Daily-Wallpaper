@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202610310300",
+        "date": "20261031",
+        "url": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_PT-BR9368321413_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_PT-BR9368321413",
+        "copyright": "Catedral de São Bartolomeu, em Frankfurt, Alemanha (© AlxeyPnferov/Getty Images)",
+        "copyrightKeyword": "Halloween",
+        "hsh": "1c0f179f338d65aa725d5875e045ad52",
+        "description": "Esqueça a máquina de fumaça. Frankfurt, na Alemanha, tem algo muito mais eficaz: uma catedral gótica com uma torre que parece pronta para uma sessão espírita à meia-noite. A Catedral de São Bartolomeu, vista aqui, tem uma silhueta medieval que parece ter sido feita sob medida para o Halloween. Mas a própria história da data é ainda mais estranha.",
+        "maplink": "50.110766,8.68539"
+    },
+    {
         "fullstartdate": "202610300300",
         "date": "20261030",
         "url": "https://www.bing.com/th?id=OHR.AutumnCranes_PT-BR8749482923_1920x1080.jpg",
@@ -67,16 +78,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PortugueseLibrary_PT-BR6869331212",
         "copyright": "Real Gabinete Português de Leitura, Rio de Janeiro (© Antonio Salaverry/Shutterstock)",
         "copyrightKeyword": "Real Gabinete Portugues de Leitura",
-        "hsh": "17a5e45558ed23051bdd2fd31eb1c991",
-        "description": "O endereço é carioca, mas a fachada fez check-in na Europa antes de chegar aqui. O Real Gabinete Português de Leitura nasceu em 1837, 15 anos depois da Independência do Brasil, quando 43 imigrantes portugueses criaram uma instituição dedicada aos livros. Sua fachada foi esculpida em Lisboa, transportada de navio pelo Atlântico e montada no Rio de Janeiro."
-    },
-    {
-        "fullstartdate": "202610230300",
-        "date": "20261023",
-        "url": "https://www.bing.com/th?id=OHR.YellowstoneWolves_PT-BR5538259597_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.YellowstoneWolves_PT-BR5538259597",
-        "copyright": "Dois lobos-cinzentos no Parque Nacional de Yellowstone, Wyoming, EUA (© John Morrison/Getty Images)",
-        "copyrightKeyword": "lobo cinzento",
-        "hsh": "e7d215767627c8e501a452251650a31f"
+        "hsh": "17a5e45558ed23051bdd2fd31eb1c991"
     }
 ]

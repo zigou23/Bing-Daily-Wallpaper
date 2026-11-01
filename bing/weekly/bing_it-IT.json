@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202610312300",
+        "date": "20261101",
+        "url": "https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_IT-IT2276159599_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_IT-IT2276159599",
+        "copyright": "Foresta Nera, Baden-Württemberg, Germania (© Britus/Getty Images)",
+        "copyrightKeyword": "Foresta Nera Germania",
+        "hsh": "4b219b5015349f11fb7d3fe19b9b97aa",
+        "description": "Lasciati avvolgere dai panorami nebbiosi della Foresta Nera, che si estende per circa 160 km nella Germania sudoccidentale. Tra colline boscose, profonde vallate, laghi e incantevoli cittadine svetta il Feldberg, la cima più alta della regione, con i suoi 1.493 metri. Qui nascono anche i fiumi Danubio e Neckar e sopravvivono tradizioni secolari: la silvicoltura svolge da sempre un ruolo importante, mentre l’antica arte orologiaia ha contribuito a rendere il caratteristico orologio a cucù famoso ben oltre i confini della Germania.",
+        "maplink": "48.286722,8.215281"
+    },
+    {
         "fullstartdate": "202610302300",
         "date": "20261031",
         "url": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_IT-IT1676201038_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.CarbonaraRomeMarket_IT-IT4675824754",
         "copyright": "Chiesa di Santa Barbara in Largo dei Librari, vicino al mercato di Campo de' Fiori a Roma, Italia (© Alexander Spatari/Getty Images)",
         "copyrightKeyword": "Festa del Cinema di Roma",
-        "hsh": "ebc4b355ad017454d5c2026d4cfe3003",
-        "description": "Largo dei Librari, a due passi dal mercato di Campo de' Fiori, è uno degli angoli più fotogenici di Roma (Italia): una piazzetta trapezoidale chiusa dalla facciata tardobarocca della chiesa di Santa Barbara. Il nome arriva dai librai, ai quali papa Clemente VIII affidò la chiesa nel 1601, e le fondamenta poggiano sui resti del teatro di Pompeo. Sconsacrata nell'Ottocento e restaurata negli anni Novanta, oggi ospita concerti e attività culturali.",
-        "maplink": "41.895235,12.47369"
-    },
-    {
-        "fullstartdate": "202610232200",
-        "date": "20261024",
-        "url": "https://www.bing.com/th?id=OHR.PortugueseLibrary_IT-IT4308985837_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PortugueseLibrary_IT-IT4308985837",
-        "copyright": "Real Gabinete Portoghese di Lettura, Rio de Janeiro, Brasile (© Antonio Salaverry/Shutterstock)",
-        "copyrightKeyword": "Real Gabinete Portoghese di Lettura",
-        "hsh": "5ef1d0c74f215e32ad83d1bbc407a189"
+        "hsh": "ebc4b355ad017454d5c2026d4cfe3003"
     }
 ]
