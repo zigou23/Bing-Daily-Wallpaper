@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611010700",
+        "date": "20261101",
+        "url": "https://www.bing.com/th?id=OHR.NativeBaskets_EN-US0205712064_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.NativeBaskets_EN-US0205712064",
+        "copyright": "Handmade baskets, Santa Fe, New Mexico (© Patrick Lane/Getty Images)",
+        "copyrightKeyword": "Native American Heritage Month",
+        "hsh": "cbbf95e19ef284f39a83ac650e836604",
+        "description": "A basket can carry far more than its contents. The Native American basketry seen here in Santa Fe, New Mexico, points to a much bigger story: a rich variety of techniques and designs developed by communities across the country. Their materials, patterns, and styles reflect their places of origin, turning everyday objects into records of local knowledge and identity.",
+        "maplink": "35.662783,-105.974807"
+    },
+    {
         "fullstartdate": "202610310700",
         "date": "20261031",
         "url": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_EN-US0115213682_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SitovoWaterfall_EN-US7626867890",
         "copyright": "Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images)",
         "copyrightKeyword": "Sitovo Plovdiv Bulgaria",
-        "hsh": "f64493809c164c7be4fb02e2be9cec09",
-        "description": "In Bulgaria's Western Rhodope Mountains, autumn leaves gather beside the rushing waters of Sitovo Waterfall. Near the village of Sitovo, southwest of Plovdiv, the falls tumble beneath an old stone bridge whose arch frames the cascades like a storybook scene. Moss-covered stones and pine trees add shades of green to the autumn landscape, while fallen leaves gather along the water's edge or drift through its pools. The falls become especially lively after rain and during spring snowmelt, when the surrounding woodland echoes with the sound of rushing water.",
-        "maplink": "41.926863,24.615841"
-    },
-    {
-        "fullstartdate": "202610240700",
-        "date": "20261024",
-        "url": "https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-US7519268149_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-US7519268149",
-        "copyright": "Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock)",
-        "copyrightKeyword": "Royal Portuguese Cabinet of Reading",
-        "hsh": "3057fa6ba3981b84f32ee198891d6232"
+        "hsh": "f64493809c164c7be4fb02e2be9cec09"
     }
 ]

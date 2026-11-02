@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202611012300",
+        "date": "20261102",
+        "url": "https://www.bing.com/th?id=OHR.HudsonBear_ES-ES0469501883_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.HudsonBear_ES-ES0469501883",
+        "copyright": "Osa polar con sus cachorros cerca de la bahía de Hudson, Manitoba, Canadá (© Danita Delimont/Adobe Stock)",
+        "copyrightKeyword": "Polar Bear Week",
+        "hsh": "86189092d068b691871e539091f7f3e5",
+        "description": "Aunque noviembre nos acerca un poco más a la época navideña, los osos polares tienen otros planes. Se reúnen en las costas de la bahía de Hudson, en Manitoba, Canadá, a la espera de que se forme el hielo marino para volver a salir en busca de focas. Este espectáculo anual inspiró la Semana del Oso Polar, que se celebra durante la primera semana de noviembre y rinde homenaje al mayor depredador terrestre del Ártico. Los osos polares son excelentes nadadores, hábiles cazadores y están extraordinariamente adaptados a la vida en uno de los entornos más extremos del planeta. Sin embargo, la reducción del hielo marino hace que muchos pasen más tiempo en tierra firme, lo que dificulta la búsqueda de alimento y aumenta el riesgo de encuentros con personas."
+    },
+    {
         "fullstartdate": "202610312300",
         "date": "20261101",
         "url": "https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_ES-ES0251623557_1920x1080.jpg",
@@ -71,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SitovoWaterfall_ES-ES1073935690",
         "copyright": "Cascadas otoñales cerca de Sitovo, provincia de Plovdiv, Bulgaria (© Nadya85/Getty Images)",
         "copyrightKeyword": "Sitovo Plovdiv Bulgaria",
-        "hsh": "7f763dc660d5be82d44c5f005fe0cf52",
-        "description": "En la parte occidental de los montes Ródope, en Bulgaria, las hojas otoñales se acumulan junto a las aguas turbulentas de la cascada de Sitovo. Cerca del pueblo de Sitovo, al suroeste de Plovdiv, las cataratas caen en cascada sobre salientes rocosos bajo un puente de piedra, cuyo arco enmarca la cascada como una escena sacada de un cuento de hadas.",
-        "maplink": "41.926863,24.615841"
-    },
-    {
-        "fullstartdate": "202610242200",
-        "date": "20261025",
-        "url": "https://www.bing.com/th?id=OHR.GernikaPaisVasco_ES-ES5108223011_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.GernikaPaisVasco_ES-ES5108223011",
-        "copyright": "Entrada a la Iglesia de Santa María, Gernika-Lumo, Vizcaya, País Vasco, España (© tichr/ShutterStock)",
-        "copyrightKeyword": "Iglesia de Santa María Gernika-Lumo",
-        "hsh": "47440825f5a31fca30202c09e6c9e317"
+        "hsh": "7f763dc660d5be82d44c5f005fe0cf52"
     }
 ]

@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611010300",
+        "date": "20261101",
+        "url": "https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_PT-BR1065721767_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_PT-BR1065721767",
+        "copyright": "Floresta Negra, Baden-Württemberg, Alemanha (© Britus/Getty Images)",
+        "copyrightKeyword": "Floresta Negra na Alemanha",
+        "hsh": "26f439c40043d38127b8063ada3b62f6",
+        "description": "Hoje, estamos apreciando as paisagens cobertas de névoa da Floresta Negra, que se estende por cerca de 160 quilômetros pelo sudoeste da Alemanha, reunindo colinas arborizadas, vales profundos, lagos e cidades encantadoras. Seu ponto mais alto, o Feldberg, chega a 1.493 metros de altitude. A Floresta Negra também abriga as nascentes dos rios Danúbio e Neckar. História e tradição não faltam por aqui. A atividade florestal tem um papel importante na região há muito tempo, e a tradição secular de fabricar relógios ajudou a tornar o característico relógio de cuco famoso muito além da Alemanha.",
+        "maplink": "48.286722,8.215281"
+    },
+    {
         "fullstartdate": "202610310300",
         "date": "20261031",
         "url": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_PT-BR9368321413_1920x1080.jpg",
@@ -68,16 +79,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MaligneFest_PT-BR7307872506",
         "copyright": "Lago Maligne, Parque Nacional de Jasper, Alberta, Canadá (© Andrey Popov/Getty Images)",
         "copyrightKeyword": "Parque Nacional de Jasper Canadá",
-        "hsh": "73390f7f0f35cc4fae5218227436f92c",
-        "description": "O Parque Nacional de Jasper, em Alberta, Canadá, trabalha em turnos: de dia, grandes mamíferos dominam as montanhas; à noite, o céu entra em cena. Reconhecido como Reserva de Céu Escuro em 2011, o parque ocupa mais de 11 mil km² e adota medidas para reduzir a poluição luminosa. Com pouca interferência das luzes artificiais, estrelas, planetas e a Via Láctea ganham condições privilegiadas para aparecer."
-    },
-    {
-        "fullstartdate": "202610240300",
-        "date": "20261024",
-        "url": "https://www.bing.com/th?id=OHR.PortugueseLibrary_PT-BR6869331212_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PortugueseLibrary_PT-BR6869331212",
-        "copyright": "Real Gabinete Português de Leitura, Rio de Janeiro (© Antonio Salaverry/Shutterstock)",
-        "copyrightKeyword": "Real Gabinete Portugues de Leitura",
-        "hsh": "17a5e45558ed23051bdd2fd31eb1c991"
+        "hsh": "73390f7f0f35cc4fae5218227436f92c"
     }
 ]
