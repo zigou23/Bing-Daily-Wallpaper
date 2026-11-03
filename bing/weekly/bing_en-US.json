@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202611020800",
+        "date": "20261102",
+        "url": "https://www.bing.com/th?id=OHR.HudsonBear_EN-US0297833232_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.HudsonBear_EN-US0297833232",
+        "copyright": "Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont/Adobe Stock)",
+        "copyrightKeyword": "Polar Bear Week",
+        "hsh": "ffd667463af0d9f224c644a4e59629fb",
+        "description": "While November might bring us a step closer to the holiday season, polar bears have other plans. They gather along the shores of Hudson Bay in Manitoba, Canada, waiting for sea ice to form so they can head back out to hunt seals. That annual spectacle inspired Polar Bear Week, observed during the first week of November, a celebration of the Arctic's largest land predator. Polar bears are powerful swimmers, expert hunters, and remarkably adapted to life in one of Earth's harshest environments. Yet shrinking sea ice means many spend longer on land, making it harder to find food and raising the risk of encounters with people."
+    },
+    {
         "fullstartdate": "202611010700",
         "date": "20261101",
         "url": "https://www.bing.com/th?id=OHR.NativeBaskets_EN-US0205712064_1920x1080.jpg",
@@ -71,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.HangingBat_EN-US7714746725",
         "copyright": "Gray-headed flying fox, Victoria, Australia (© Doug Gimesy/Nature Picture Library)",
         "copyrightKeyword": "Bat Week",
-        "hsh": "a7c299adafaab46a527c467155126330",
-        "description": "Bat Week shines a spotlight on some of the world's most important and often misunderstood mammals. Observed each October, the event celebrates the vital role bats play in healthy ecosystems across the globe. As pollinators, seed dispersers, and natural pest controllers, they support forests, farms, and food supplies. Some can consume thousands of insects in a single night, helping reduce the need for pesticides. With more than 1,500 species found worldwide, bats are the only mammals capable of sustained flight, making them one of nature's most impressive success stories.",
-        "maplink": "-36.850086,144.304291"
-    },
-    {
-        "fullstartdate": "202610250700",
-        "date": "20261025",
-        "url": "https://www.bing.com/th?id=OHR.SitovoWaterfall_EN-US7626867890_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SitovoWaterfall_EN-US7626867890",
-        "copyright": "Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images)",
-        "copyrightKeyword": "Sitovo Plovdiv Bulgaria",
-        "hsh": "f64493809c164c7be4fb02e2be9cec09"
+        "hsh": "a7c299adafaab46a527c467155126330"
     }
 ]

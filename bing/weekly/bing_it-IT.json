@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611022300",
+        "date": "20261103",
+        "url": "https://www.bing.com/th?id=OHR.AlpineBraies_IT-IT4890299611_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AlpineBraies_IT-IT4890299611",
+        "copyright": "Lago di Braies, Parco Naturale Fanes‑Sennes‑Braies, Dolomiti (© leonid_tit/Getty Images)",
+        "copyrightKeyword": "Lago di Braies Dolomiti",
+        "hsh": "85a1fe38450219142cb97cd3179acdb6",
+        "description": "Adagiato a quasi 1.500 metri di altitudine, nel cuore delle Dolomiti dell’Alto Adige, il lago di Braies è circondato dai boschi e dalle spettacolari vette del Parco Naturale Fanes-Senes-Braies. Famoso per le acque dalle intense sfumature di verde e blu, è costeggiato da un sentiero panoramico di 3,5 km. Il paesaggio può essere ammirato anche da una prospettiva diversa, a bordo di una delle tradizionali barche a remi di legno. Dal lago partono numerosi itinerari escursionistici, tra cui la celebre Alta Via 1 delle Dolomiti.",
+        "maplink": "46.693566,12.084606"
+    },
+    {
         "fullstartdate": "202611012300",
         "date": "20261102",
         "url": "https://www.bing.com/th?id=OHR.HudsonBear_IT-IT6232079426_1920x1080.jpg",
@@ -71,16 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PondCypress_IT-IT6320902214",
         "copyright": "Boschetto di cipressi delle paludi con colori autunnali, Georgia, USA (© Chris Moore/Getty Images)",
         "copyrightKeyword": "cipressi delle paludi",
-        "hsh": "dd7e22cb0e0f990f654257e413b7bbeb",
-        "description": "Riflesso in un'acqua senza una piega e illuminato dall'ultima luce del giorno, questo boschetto di cipressi compone una scena di simmetria quasi perfetta. La specie è tipica del sud-est degli Stati Uniti e l'immagine è stata scattata in Georgia, dove cresce in luoghi come la grande palude di Okefenokee e altre zone umide di pianura."
-    },
-    {
-        "fullstartdate": "202610252300",
-        "date": "20261026",
-        "url": "https://www.bing.com/th?id=OHR.SitovoWaterfall_IT-IT4859902057_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SitovoWaterfall_IT-IT4859902057",
-        "copyright": "Cascate autunnali vicino a Sitovo, provincia di Plovdiv, Bulgaria (© Nadya85/Getty Images)",
-        "copyrightKeyword": "Sitovo provincia di Plovdiv",
-        "hsh": "fc691401a30b2c8ce7383a3792032836"
+        "hsh": "dd7e22cb0e0f990f654257e413b7bbeb"
     }
 ]

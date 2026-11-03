@@ -1,5 +1,26 @@
 [
     {
+        "fullstartdate": "202611030300",
+        "date": "20261103",
+        "url": "https://www.bing.com/th?id=OHR.AlpineBraies_PT-BR2922400118_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AlpineBraies_PT-BR2922400118",
+        "copyright": "Lago di Braies, Parque Natural Fanes-Sennes-Braies, Dolomitas, Itália (© leonid_tit/Getty Images)",
+        "copyrightKeyword": "Lago di Braies Dolomitas",
+        "hsh": "e5d774737f379093901ca023cb6416e3",
+        "description": "O Lago di Braies fica a quase 1.500 metros acima do nível do mar, nas Dolomitas do Tirol do Sul, no norte da Itália. Cercado por florestas e pelos picos imponentes do Parque Natural Fanes-Sennes-Braies, o lago é conhecido por suas águas em tons intensos de verde e azul. Uma trilha de 3,5 quilômetros contorna suas margens, enquanto os tradicionais barcos de madeira a remo oferecem outra forma de apreciar a paisagem. O lago também é ponto de partida para várias caminhadas pelas montanhas, incluindo a famosa Alta Via 1 das Dolomitas.",
+        "maplink": "46.693566,12.084606"
+    },
+    {
+        "fullstartdate": "202611020300",
+        "date": "20261102",
+        "url": "https://www.bing.com/th?id=OHR.HudsonBear_PT-BR1375226804_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.HudsonBear_PT-BR1375226804",
+        "copyright": "Urso-polar e filhotes na Baía de Hudson, Manitoba, Canadá (© Danita Delimont/Adobe Stock)",
+        "copyrightKeyword": "Urso polar",
+        "hsh": "c202c0a26c9cbac1294c7ee36f6fdc88",
+        "description": "Novembro nos aproxima das festas de fim de ano, mas os ursos-polares têm outros planos. Eles se reúnem às margens da Baía de Hudson, em Manitoba, no Canadá, esperando que o gelo marinho se forme para voltar a caçar focas. Excelentes nadadores e caçadores habilidosos, os ursos-polares são muito bem adaptados à vida em um dos ambientes mais hostis da Terra. No entanto, a redução do gelo marinho faz com que muitos passem mais tempo em terra firme, dificultando a busca por alimento e aumentando o risco de encontros com pessoas."
+    },
+    {
         "fullstartdate": "202611010300",
         "date": "20261101",
         "url": "https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_PT-BR1065721767_1920x1080.jpg",
@@ -59,26 +80,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PondCypress_PT-BR8608067056",
         "copyright": "Bosque de ciprestes-dos-pântanos com folhagem de outono, Geórgia, EUA (© Chris Moore/Getty Images)",
         "copyrightKeyword": "cipreste dos pantanos",
-        "hsh": "f24b7a2d83c02caeb7786d497a4db885",
-        "description": "Olhando esta paisagem, dá para jurar que o outono resolveu trocar as montanhas por um pântano. Quase. O cenário está na Geórgia, nos Estados Unidos, onde o cipreste-dos-pântanos forma extensos bosques em águas rasas e terrenos encharcados."
-    },
-    {
-        "fullstartdate": "202610260300",
-        "date": "20261026",
-        "url": "https://www.bing.com/th?id=OHR.Nazare_PT-BR0405066219_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.Nazare_PT-BR0405066219",
-        "copyright": "Basílica Santuário de Nossa Senhora de Nazaré, Belém, Pará (© filipefrazao/Getty Images)",
-        "copyrightKeyword": "Cirio Nazare",
-        "hsh": "b34f0fa9796cea4cfa6b22bfbef412bb",
-        "description": "Belém, no Pará, pode até guardar as fitas e devolver as ruas ao trânsito. Mas convencer o Círio de Nazaré a ir embora é outra história. Romarias, brinquedos de miriti, almoços em família e reencontros têm seu auge no segundo domingo de outubro, quando mais de dois milhões ocupam as ruas. Não à toa, o Círio virou Patrimônio Cultural do Brasil pelo IPHAN em 2004 e Patrimônio Cultural Imaterial da Humanidade pela UNESCO em 2013."
-    },
-    {
-        "fullstartdate": "202610250300",
-        "date": "20261025",
-        "url": "https://www.bing.com/th?id=OHR.MaligneFest_PT-BR7307872506_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MaligneFest_PT-BR7307872506",
-        "copyright": "Lago Maligne, Parque Nacional de Jasper, Alberta, Canadá (© Andrey Popov/Getty Images)",
-        "copyrightKeyword": "Parque Nacional de Jasper Canadá",
-        "hsh": "73390f7f0f35cc4fae5218227436f92c"
+        "hsh": "f24b7a2d83c02caeb7786d497a4db885"
     }
 ]

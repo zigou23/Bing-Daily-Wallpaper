@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611030000",
+        "date": "20261104",
+        "url": "https://www.bing.com/th?id=OHR.AlpineBraies_EN-GB4055015386_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AlpineBraies_EN-GB4055015386",
+        "copyright": "Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images)",
+        "copyrightKeyword": "Lake Braies Dolomites",
+        "hsh": "52e9e6a9883e4205d5e36872921c0479",
+        "description": "Lake Braies sits almost 1,500 metres above sea level in the Dolomites of South Tyrol, northern Italy. Surrounded by forest and the dramatic peaks of the Fanes-Sennes-Braies Nature Park, the lake is known for its striking green and blue waters. A 3.5-kilometre trail circles the shore, while traditional wooden rowing boats offer another way to take in the scenery. The lake is also a starting point for several mountain walks, including the Dolomites' famous Alta Via 1.",
+        "maplink": "46.693566,12.084606"
+    },
+    {
         "fullstartdate": "202611020000",
         "date": "20261103",
         "url": "https://www.bing.com/th?id=OHR.HudsonBear_EN-GB3657065728_1920x1080.jpg",
@@ -71,16 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PondCypress_EN-GB5711949030",
         "copyright": "A grove of pond cypress trees with autumn foliage, Georgia, United States (© Chris Moore/Getty Images)",
         "copyrightKeyword": "Pond cypress",
-        "hsh": "ecdc5bcdc9c455ad1f695565d10e68db",
-        "description": "Reflected in calm water and glowing in the light of the setting sun, this grove of pond cypress creates a striking display of colour and symmetry. Native to the southeastern United States, the species is associated with shallow ponds, depressions and wetland habitats. This image was captured in Georgia, where these trees can be found in places such as the Okefenokee Swamp and other low-lying wetlands."
-    },
-    {
-        "fullstartdate": "202610260000",
-        "date": "20261027",
-        "url": "https://www.bing.com/th?id=OHR.SitovoWaterfall_EN-GB5626792550_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SitovoWaterfall_EN-GB5626792550",
-        "copyright": "Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images)",
-        "copyrightKeyword": "Sitovo Plovdiv Bulgaria",
-        "hsh": "a77243cea00cacb321bdd1edac434faa"
+        "hsh": "ecdc5bcdc9c455ad1f695565d10e68db"
     }
 ]
