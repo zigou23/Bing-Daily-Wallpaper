@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611032300",
+        "date": "20261104",
+        "url": "https://www.bing.com/th?id=OHR.AutumnChina_ES-ES1074193696_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AutumnChina_ES-ES1074193696",
+        "copyright": "Personas remando entre coloridos cipreses calvos, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)",
+        "copyrightKeyword": "cipreses calvos",
+        "hsh": "a82d5eb89aa0be10c57a6f69eaa0094e",
+        "description": "En Xuancheng, Anhui, varias personas reman por un resplandeciente laberinto de cipreses calvos, donde el otoño transforma los bosques inundados en un mosaico de tonos ámbar, cobre y rojizos. Conocido científicamente como Taxodium distichum, el ciprés calvo es una conífera poco común, ya que cada otoño pierde sus suaves hojas en forma de aguja, que adquieren un tono marrón rojizo antes de caer. En Norteamérica, es conocido por prosperar en pantanos, llanuras aluviales y otros hábitats húmedos, donde suele desarrollar unas peculiares protuberancias de las raíces, conocidas como “rodillas”, que sobresalen del suelo y del agua.",
+        "maplink": "30.9525,118.75528"
+    },
+    {
         "fullstartdate": "202611022300",
         "date": "20261103",
         "url": "https://www.bing.com/th?id=OHR.AlpineBraies_ES-ES0997130535_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.KuneticeCastle_ES-ES0637644398",
         "copyright": "Castillo de Kunětická hora, Bohemia, Chequia (© Marek Saroch/Alamy)",
         "copyrightKeyword": "Castillo de Kunětická hora",
-        "hsh": "6f23e12c923c4139936139d88c196c21",
-        "description": "¿Qué historias contarían estos muros? El castillo de Kunětická hora se alza sobre un cerro solitario en el este de Bohemia, en en Chequia, y lleva siglos vigilando la llanura del Elba. A finales del siglo XIV ya había una fortaleza en esta colina, y su posición elevada, que permitía controlar todo el territorio circundante, la convirtió en una plaza codiciada.",
-        "maplink": "50.080287,15.811615"
-    },
-    {
-        "fullstartdate": "202610262300",
-        "date": "20261027",
-        "url": "https://www.bing.com/th?id=OHR.PondCypress_ES-ES5888685254_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PondCypress_ES-ES5888685254",
-        "copyright": "Bosque de cipreses de estanque, Georgia, EE. UU. (© Chris Moore/Getty Images)",
-        "copyrightKeyword": "cipres estanque",
-        "hsh": "d3e6a7b04c1997d67eff7d7a39fc3344"
+        "hsh": "6f23e12c923c4139936139d88c196c21"
     }
 ]

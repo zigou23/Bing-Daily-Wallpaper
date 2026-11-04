@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611040000",
+        "date": "20261105",
+        "url": "https://www.bing.com/th?id=OHR.AutumnChina_EN-GB4167994080_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AutumnChina_EN-GB4167994080",
+        "copyright": "People rowing among colourful bald cypress, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)",
+        "copyrightKeyword": "bald cypress",
+        "hsh": "c2aa9f53a87aca6325c8b9f84d8bd725",
+        "description": "People paddle through a glowing maze of bald cypress in Xuancheng, Anhui, where autumn transforms flooded woodlands into a tapestry of amber, copper and deep rust. Known scientifically as 'Taxodium distichum', bald cypress is unusual among conifers because it sheds its soft, feathery needles each fall, turning reddish-brown before they drop.",
+        "maplink": "30.9525,118.75528"
+    },
+    {
         "fullstartdate": "202611030000",
         "date": "20261104",
         "url": "https://www.bing.com/th?id=OHR.AlpineBraies_EN-GB4055015386_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.KuneticeCastle_EN-GB5805400783",
         "copyright": "Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy)",
         "copyrightKeyword": "Kuneticka hora Castle",
-        "hsh": "8307557c749beb152b633151e27d871b",
-        "description": "What stories could these walls tell? Rising above eastern Bohemia in Czechia, Kunětická hora Castle has witnessed centuries of history. Dating to the late 14th century, the castle gradually evolved into an impressive fortress and noble residence. Its elevated position offered commanding views of the surrounding countryside and helped make it an important stronghold.",
-        "maplink": "50.080287,15.811615"
-    },
-    {
-        "fullstartdate": "202610270000",
-        "date": "20261028",
-        "url": "https://www.bing.com/th?id=OHR.PondCypress_EN-GB5711949030_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PondCypress_EN-GB5711949030",
-        "copyright": "A grove of pond cypress trees with autumn foliage, Georgia, United States (© Chris Moore/Getty Images)",
-        "copyrightKeyword": "Pond cypress",
-        "hsh": "ecdc5bcdc9c455ad1f695565d10e68db"
+        "hsh": "8307557c749beb152b633151e27d871b"
     }
 ]

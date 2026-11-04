@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611032300",
+        "date": "20261104",
+        "url": "https://www.bing.com/th?id=OHR.AutumnChina_DE-DE5410503674_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AutumnChina_DE-DE5410503674",
+        "copyright": "Paddler zwischen farbenprächtigen Sumpfzypressen, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)",
+        "copyrightKeyword": "Sumpfzypressen",
+        "hsh": "4628563faa3a2dea18938b0a26f409bc",
+        "description": "In Xuancheng in der Provinz Anhui paddeln Menschen durch ein leuchtendes Labyrinth aus Sumpfzypressen, wo der Herbst die überfluteten Wälder in ein Farbenspiel aus Bernstein, Kupfer und tiefem Rost verwandelt. Die wissenschaftlich als „Taxodium distichum“ bezeichnete Sumpfzypresse ist unter den Nadelbäumen ungewöhnlich, da sie jeden Herbst ihre weichen, federartigen Nadeln abwirft, die sich vor dem Abfallen rotbraun färben.",
+        "maplink": "30.9525,118.75528"
+    },
+    {
         "fullstartdate": "202611022300",
         "date": "20261103",
         "url": "https://www.bing.com/th?id=OHR.AlpineBraies_DE-DE4176036164_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.KuneticeCastle_DE-DE2818546067",
         "copyright": "Burg Kunětická hora, Böhmen, Tschechien (© Marek Saroch/Alamy)",
         "copyrightKeyword": "Burg Kunětická hora",
-        "hsh": "b022ff279d9c09b3db06bb2fce9ea3ca",
-        "description": "Was könnten diese Mauern wohl alles erzählen? Hoch über der ostböhmischen Landschaft thront die Burg Kunětická hora, die im Deutschen auch als Kunburg bekannt ist. Bereits in der zweiten Hälfte des 14. Jahrhunderts stand an dieser Stelle eine ausgedehnte Burganlage. Ihre erhöhte Lage machte sie weithin sichtbar und zu einem wichtigen strategischen Stützpunkt.",
-        "maplink": "50.080287,15.811615"
-    },
-    {
-        "fullstartdate": "202610262300",
-        "date": "20261027",
-        "url": "https://www.bing.com/th?id=OHR.PondCypress_DE-DE2656375905_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PondCypress_DE-DE2656375905",
-        "copyright": "Teichzypressen in herbstlicher Färbung, Georgia, USA (© Chris Moore/Getty Images)",
-        "copyrightKeyword": "Sumpfzypressen",
-        "hsh": "c0e571b79e9ba6a7c234e5dcfa84d91c"
+        "hsh": "b022ff279d9c09b3db06bb2fce9ea3ca"
     }
 ]

@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611032300",
+        "date": "20261104",
+        "url": "https://www.bing.com/th?id=OHR.AutumnChina_FR-FR8803814320_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AutumnChina_FR-FR8803814320",
+        "copyright": "Kayak dans une forêt de cyprès, Xuancheng, Anhui, Chine (© Jackal Pan/Getty Images)",
+        "copyrightKeyword": "cyprès chauve",
+        "hsh": "f871f5d11c264b35ee9f041da09ed3f2",
+        "description": "Dans ce labyrinthe lumineux de cyprès chauves à Xuancheng, dans la province de l'Anhui, l’automne métamorphose les zones boisées inondées en une mosaïque aux teintes ambre, cuivre et rouille profond. Le cyprès chauve se distingue des autres conifères par sa particularité de perdre ses aiguilles souples et plumeuses chaque automne. Celles-ci virent au brun rougeâtre avant de tomber.",
+        "maplink": "30.9525,118.75528"
+    },
+    {
         "fullstartdate": "202611022300",
         "date": "20261103",
         "url": "https://www.bing.com/th?id=OHR.AlpineBraies_FR-FR8651963330_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.KuneticeCastle_FR-FR0560907896",
         "copyright": "Château de Kunětická hora, Bohême, Tchéquie (© Marek Saroch/Alamy)",
         "copyrightKeyword": "château de Kunětická hora",
-        "hsh": "9a99f44925295cf630280c1d324da1c0",
-        "description": "Quelles histoires ces murailles pourraient-elles raconter ? Dominant la Bohême orientale, en Tchéquie, le château de Kunětická hora veille sur la campagne depuis la fin du XIVᵉ siècle. Progressivement agrandi, il devint à la fois une imposante forteresse et une résidence aristocratique. Sa position élevée offrait un vaste panorama sur les plaines environnantes et faisait du château un bastion stratégique.",
-        "maplink": "50.080287,15.811615"
-    },
-    {
-        "fullstartdate": "202610262300",
-        "date": "20261027",
-        "url": "https://www.bing.com/th?id=OHR.PondCypress_FR-FR3578297716_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PondCypress_FR-FR3578297716",
-        "copyright": "Un bosquet de cyprès des étangs aux couleurs automnales, Géorgie, États-Unis (© Chris Moore/Getty Images)",
-        "copyrightKeyword": "cyprès des étangs",
-        "hsh": "b861b8207975be95946c47f039c354dc"
+        "hsh": "9a99f44925295cf630280c1d324da1c0"
     }
 ]

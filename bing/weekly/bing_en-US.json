@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611030800",
+        "date": "20261103",
+        "url": "https://www.bing.com/th?id=OHR.AlpineBraies_EN-US6636326357_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AlpineBraies_EN-US6636326357",
+        "copyright": "Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images)",
+        "copyrightKeyword": "Lake Braies Dolomites",
+        "hsh": "fac06918b8a8697c857ecbd3624bccd5",
+        "description": "Tucked among the peaks of the Dolomites, Lake Braies sits nearly 5,000 feet above sea level in northern Italy. Its green and blue waters are framed by forest and the mountains of Fanes-Sennes-Braies Nature Park. Visitors can follow a two-mile trail around the shore or head out onto the water in one of the lake's traditional wooden rowboats. It's also a great place to begin exploring the surrounding mountains, with several hiking routes starting here, including the famous Alta Via 1.",
+        "maplink": "46.693566,12.084606"
+    },
+    {
         "fullstartdate": "202611020800",
         "date": "20261102",
         "url": "https://www.bing.com/th?id=OHR.HudsonBear_EN-US0297833232_1920x1080.jpg",
@@ -71,16 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PondCypress_EN-US0123444779",
         "copyright": "A grove of pond cypress trees with fall foliage, Georgia, USA (© Chris Moore/Getty Images)",
         "copyrightKeyword": "pond cypress",
-        "hsh": "8c3480019357ff01bd574a7e13966224",
-        "description": "Reflected in calm water and glowing in the light of the setting sun, this grove of pond cypress creates a striking display of color and symmetry. Native to the southeastern United States, the species is associated with shallow ponds, depressions, and wetland habitats. This image was captured in Georgia, where these trees can be found in places such as the Okefenokee Swamp and other low-lying wetlands."
-    },
-    {
-        "fullstartdate": "202610260700",
-        "date": "20261026",
-        "url": "https://www.bing.com/th?id=OHR.HangingBat_EN-US7714746725_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.HangingBat_EN-US7714746725",
-        "copyright": "Gray-headed flying fox, Victoria, Australia (© Doug Gimesy/Nature Picture Library)",
-        "copyrightKeyword": "Bat Week",
-        "hsh": "a7c299adafaab46a527c467155126330"
+        "hsh": "8c3480019357ff01bd574a7e13966224"
     }
 ]
