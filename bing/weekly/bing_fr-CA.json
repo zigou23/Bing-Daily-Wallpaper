@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611040500",
+        "date": "20261104",
+        "url": "https://www.bing.com/th?id=OHR.AutumnChina_FR-CA1700914335_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AutumnChina_FR-CA1700914335",
+        "copyright": "Personnes ramant au milieu de cyprès chauves aux couleurs automnales, Xuancheng, Anhui, Chine (© Jackal Pan/Getty Images)",
+        "copyrightKeyword": "cyprès chauves",
+        "hsh": "e8b617f2e39f539b47f2a7791b407b51",
+        "description": "À Xuancheng, dans la province chinoise de l’Anhui, des visiteurs pagaient au cœur d’une forêt inondée de cyprès chauves aux couleurs éclatantes. À l’automne, ces conifères uniques prennent des teintes cuivrées, ambrées et rouge brun avant de perdre leurs aiguilles, un phénomène rare chez les conifères. Adaptés aux milieux humides, ils prospèrent dans les zones marécageuses et inondées. Certains spécimens peuvent vivre plusieurs siècles. Lorsque leurs reflets colorés se mêlent aux eaux calmes, le paysage se transforme en un véritable tableau naturel. La fin de l’automne est particulièrement spectaculaire, lorsque la forêt se pare de ses plus belles couleurs flamboyantes.",
+        "maplink": "30.9525,118.75528"
+    },
+    {
         "fullstartdate": "202611030500",
         "date": "20261103",
         "url": "https://www.bing.com/th?id=OHR.AlpineBraies_FR-CA1379569003_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.KuneticeCastle_FR-CA2795771167",
         "copyright": "Château de Kunětická hora, Bohême, Tchéquie (© Marek Saroch/Alamy)",
         "copyrightKeyword": "château de Kunětická hora",
-        "hsh": "cb7a7cddc9bbcd46becc78897e422ad4",
-        "description": "Quelles histoires ces murailles pourraient-elles raconter ? Dominant la Bohême orientale, en Tchéquie, le château de Kunětická hora veille sur la campagne depuis la fin du XIVᵉ siècle. Progressivement agrandi, il devint à la fois une imposante forteresse et une résidence aristocratique. Sa position élevée offrait un vaste panorama sur les plaines environnantes et faisait du château un bastion stratégique.",
-        "maplink": "50.080287,15.811615"
-    },
-    {
-        "fullstartdate": "202610270400",
-        "date": "20261027",
-        "url": "https://www.bing.com/th?id=OHR.PondCypress_FR-CA2583133681_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PondCypress_FR-CA2583133681",
-        "copyright": "Un bosquet de cyprès des étangs aux couleurs automnales, Géorgie, États-Unis (© Chris Moore/Getty Images)",
-        "copyrightKeyword": "cyprès des étangs",
-        "hsh": "febd763c5f99728e9b5384e6728ec5c8"
+        "hsh": "cb7a7cddc9bbcd46becc78897e422ad4"
     }
 ]

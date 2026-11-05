@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611042300",
+        "date": "20261105",
+        "url": "https://www.bing.com/th?id=OHR.StileCrossing_DE-DE6131632165_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.StileCrossing_DE-DE6131632165",
+        "copyright": "Holzsteg an einer Steinmauer, Black Crag, Lake District, England (© Alex Treadway/Getty Images)",
+        "copyrightKeyword": "Lake District Vereinigtes Königreich",
+        "hsh": "c8b29159a3efaa56ffa39521c753aec3",
+        "description": "Ein einfacher Holzsteg führt in eine der berühmtesten Landschaften Englands. Der Lake District, ein UNESCO-Weltkulturerbe, ist ein Flickenteppich aus schimmernden Seen, schroffen Hügeln und jahrhundertealten Steinmauern.",
+        "maplink": "54.460861,-3.08875"
+    },
+    {
         "fullstartdate": "202611032300",
         "date": "20261104",
         "url": "https://www.bing.com/th?id=OHR.AutumnChina_DE-DE5410503674_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AveburyStones_DE-DE3052154737",
         "copyright": "Stehende Steine in Avebury, Wiltshire, England (© George W Johnson/Getty Images)",
         "copyrightKeyword": "Avebury Steinkreis",
-        "hsh": "df03be9860d30f7dd45b7ff03b5fbd29",
-        "description": "Das englische Avebury in der Grafschaft Wiltshire bildet das Zentrum einer außergewöhnlichen prähistorischen Landschaft. Vor rund 4.500 Jahren entstand hier ein weitläufiger jungsteinzeitlicher Monumentalkomplex, zu dem der größte prähistorische Steinkreis der Welt, ein mächtiger Henge und mehrere Steinalleen gehören. Diese reichen weit in die umliegende Landschaft hinein und verbinden Avebury mit weiteren bedeutenden Monumenten. Zur Landschaft zählen auch Silbury Hill und die West Kennet Avenue. Bis heute faszinieren diese Zeugnisse der Jungsteinzeit Besucher, Forschende und Archäologen gleichermaßen.",
-        "maplink": "51.42898,-1.854909"
-    },
-    {
-        "fullstartdate": "202610272300",
-        "date": "20261028",
-        "url": "https://www.bing.com/th?id=OHR.KuneticeCastle_DE-DE2818546067_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.KuneticeCastle_DE-DE2818546067",
-        "copyright": "Burg Kunětická hora, Böhmen, Tschechien (© Marek Saroch/Alamy)",
-        "copyrightKeyword": "Burg Kunětická hora",
-        "hsh": "b022ff279d9c09b3db06bb2fce9ea3ca"
+        "hsh": "df03be9860d30f7dd45b7ff03b5fbd29"
     }
 ]

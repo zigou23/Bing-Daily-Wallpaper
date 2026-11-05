@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611040500",
+        "date": "20261104",
+        "url": "https://www.bing.com/th?id=OHR.AutumnChina_EN-CA6335982294_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AutumnChina_EN-CA6335982294",
+        "copyright": "People rowing among colourful bald cypress, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)",
+        "copyrightKeyword": "bald cypress",
+        "hsh": "74cc70210e66804d79b028d86a039316",
+        "description": "People paddle through flooded woodlands in Xuancheng, Anhui, where fall transforms bald cypress forests into a striking display of amber, copper and rust-coloured foliage. Unlike most conifers, bald cypress sheds its soft needles each fall after they turn reddish-brown. Native to North America, these trees thrive in wetlands, swamps and floodplains, often developing distinctive root \"knees\" that rise above the water. Some specimens have lived for more than 1,000 years. In late fall, the still water reflects the colourful canopy above, creating a remarkable landscape that highlights the bald cypress's natural connection to wetland environments.",
+        "maplink": "30.9525,118.75528"
+    },
+    {
         "fullstartdate": "202611030500",
         "date": "20261103",
         "url": "https://www.bing.com/th?id=OHR.AlpineBraies_EN-CA5888574678_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.KuneticeCastle_EN-CA2792060952",
         "copyright": "Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy)",
         "copyrightKeyword": "Kunětická hora Castle",
-        "hsh": "a2c4b4664322e2ada8a8c19432246d40",
-        "description": "What stories could these walls tell? Rising above eastern Bohemia in Czechia, Kunětická hora Castle has witnessed centuries of history. Dating to the late 14th century, the castle gradually evolved into an impressive fortress and noble residence. Its elevated position offered commanding views of the surrounding countryside and helped make it an important stronghold.",
-        "maplink": "50.080287,15.811615"
-    },
-    {
-        "fullstartdate": "202610270400",
-        "date": "20261027",
-        "url": "https://www.bing.com/th?id=OHR.PondCypress_EN-CA4795569261_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PondCypress_EN-CA4795569261",
-        "copyright": "A grove of pond cypress trees with fall foliage, Georgia, United States (© Chris Moore/Getty Images)",
-        "copyrightKeyword": "Pond cypress",
-        "hsh": "8c72acb7da1795e9aa2c8f42264dfe21"
+        "hsh": "a2c4b4664322e2ada8a8c19432246d40"
     }
 ]
