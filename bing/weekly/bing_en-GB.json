@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611060000",
+        "date": "20261107",
+        "url": "https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-GB4651327269_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-GB4651327269",
+        "copyright": "Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii, USA (© MNStudio/Getty Images)",
+        "copyrightKeyword": "Haleakala National Park",
+        "hsh": "98603fa774d61754cd70bac4db684eb8",
+        "description": "A volcano, a rainforest and a bamboo grove? Haleakalā National Park on Maui has all three. Spanning Maui from its 3,055-metre summit to the coast, the park protects landscapes that change dramatically with elevation, rainfall and temperature. It was established in 1916 as part of Hawaii National Park and became its own national park in 1961. The name Haleakalā translates to 'House of the Sun', reflecting the Hawaiian mo'olelo of Māui capturing the Sun to lengthen the day.",
+        "maplink": "20.760987,-156.155095"
+    },
+    {
         "fullstartdate": "202611050000",
         "date": "20261106",
         "url": "https://www.bing.com/th?id=OHR.FireworksBattersea_EN-GB4505786809_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AutumnCranes_EN-GB1528709848",
         "copyright": "Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)",
         "copyrightKeyword": "Sandhill Cranes",
-        "hsh": "e521f4d6b31d9c941d78f54fb015f1bb",
-        "description": "Winter brings a familiar rhythm to Bosque del Apache National Wildlife Refuge in New Mexico. The cranes arrive, wetlands fill with birds, and this area becomes a hub for seasonal wildlife. Established in 1939, the 57,331-acre sanctuary was created to provide a protected stopover for migrating waterfowl. Its wetlands, fields and waterways now support wildlife throughout the year. Sandhill cranes, seen in today's image, are especially associated with the refuge during winter.",
-        "maplink": "34.384147,-106.900263"
-    },
-    {
-        "fullstartdate": "202610290000",
-        "date": "20261030",
-        "url": "https://www.bing.com/th?id=OHR.AveburyStones_EN-GB5895980350_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AveburyStones_EN-GB5895980350",
-        "copyright": "Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images)",
-        "copyrightKeyword": "Avebury henge Wiltshire",
-        "hsh": "e90cf6cc06e6c0c65e26b4f3d6bd2830"
+        "hsh": "e521f4d6b31d9c941d78f54fb015f1bb"
     }
 ]

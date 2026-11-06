@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611051500",
+        "date": "20261106",
+        "url": "https://www.bing.com/th?id=OHR.PipiwaiTrail_JA-JP1383562325_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PipiwaiTrail_JA-JP1383562325",
+        "copyright": "ピピワイ・トレイルの竹林、ハレアカラ国立公園、マウイ島、ハワイ、アメリカ (© MNStudio/Getty Images)",
+        "copyrightKeyword": "ハレアカラ国立公園",
+        "hsh": "7b6fdd76655e9b844daf6317f3d1bb20",
+        "description": "マウイ島のハレアカラ国立公園は、標高約3,055メートルの山頂から海岸まで、火山や熱帯雨林など変化に富んだ自然が広がっています。キパフル地区にあるピピワイ・トレイルをたどると、緑豊かな森の先に見事な竹林が現れます。歩き始めて約1.6キロ進むと、頭上を覆うように竹が生い茂り、まるで緑のトンネルの中を歩いているようです。風が吹くと竹同士が触れ合い、独特の音が辺りに響きます。",
+        "maplink": "20.760987,-156.155095"
+    },
+    {
         "fullstartdate": "202611041500",
         "date": "20261105",
         "url": "https://www.bing.com/th?id=OHR.StileCrossing_JA-JP3443452365_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AutumnCranes_JA-JP2456396404",
         "copyright": "カナダヅル、ボスケ・デル・アパッチ国立野生動物保護区、ニューメキシコ州、アメリカ (© Terry St.Louis/Getty Images)",
         "copyrightKeyword": "カナダヅル",
-        "hsh": "e939c4726f32f3cea26967b674bcf87a",
-        "description": "冬を迎えるニューメキシコ州のボスケ・デル・アパッチ国立野生動物保護区には、多くの渡り鳥が飛来します。この保護区は1939年に、渡り鳥の重要な中継地として設立されました。約232平方キロメートルに及ぶこの地域には、湿地や草地、水辺が広がり、一年を通して多様な野生動物が暮らしています。写真のカナダヅルは例年10月下旬ごろから姿を見せ、冬の間、ここで過ごします。夜は浅瀬で休み、日の出ごろになると餌を求めて近くの野原へと飛び立ちます。",
-        "maplink": "34.384147,-106.900263"
-    },
-    {
-        "fullstartdate": "202610281500",
-        "date": "20261029",
-        "url": "https://www.bing.com/th?id=OHR.AveburyStones_JA-JP4031336786_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AveburyStones_JA-JP4031336786",
-        "copyright": "エーヴベリー 巨石群, イングランド (© George W Johnson/Getty Images)",
-        "copyrightKeyword": "エーヴベリー 巨石群",
-        "hsh": "d6e319715f7572177def89ba9f8da2ca"
+        "hsh": "e939c4726f32f3cea26967b674bcf87a"
     }
 ]
