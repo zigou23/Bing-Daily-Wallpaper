@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611060500",
+        "date": "20261106",
+        "url": "https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-CA6167003961_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-CA6167003961",
+        "copyright": "Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii, USA (© MNStudio/Getty Images)",
+        "copyrightKeyword": "Haleakala National Park",
+        "hsh": "276a97f6219d91a91fbc04ce1ad3c9fb",
+        "description": "Haleakalā National Park on Maui is home to an extraordinary mix of landscapes, from volcanic slopes and rainforest to towering bamboo forests. The park stretches from the summit of Haleakalā, which rises 3,055 metres above sea level, to the Pacific coast. More than 850 plant species grow here, including some found nowhere else on Earth, alongside native Hawaiian wildlife. One of the park's most popular walks is the Pīpīwai Trail, which winds through lush forest before reaching a remarkable bamboo grove. As the bamboo sways in the breeze, its tall stalks create distinctive sounds that add to the unique experience.",
+        "maplink": "20.760987,-156.155095"
+    },
+    {
         "fullstartdate": "202611050500",
         "date": "20261105",
         "url": "https://www.bing.com/th?id=OHR.StileCrossing_EN-CA6257654888_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AutumnCranes_EN-CA4395405990",
         "copyright": "Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)",
         "copyrightKeyword": "Sandhill Cranes",
-        "hsh": "dcba751adcc21850855e0362e9687ed9",
-        "description": "Winter transforms Bosque del Apache National Wildlife Refuge in New Mexico into a haven for wildlife. Established in 1939, the 57,331-acre sanctuary provides an important stopover for migrating waterfowl and supports wildlife year-round. Sandhill cranes, featured in today's image, arrive in late October and spend the winter here, roosting in shallow water at night and feeding in nearby fields at sunrise. The refuge is a key wintering ground for the Rocky Mountain population of sandhill cranes. Other seasonal visitors include snow geese, northern pintails, hawks and eagles, while mule deer, coyotes and other mammals inhabit its diverse habitats.",
-        "maplink": "34.384147,-106.900263"
-    },
-    {
-        "fullstartdate": "202610290400",
-        "date": "20261029",
-        "url": "https://www.bing.com/th?id=OHR.AveburyStones_EN-CA3104504656_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AveburyStones_EN-CA3104504656",
-        "copyright": "Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images)",
-        "copyrightKeyword": "Avebury henge Wiltshire",
-        "hsh": "36cef46d8a8305ffa53339d0aea8e423"
+        "hsh": "dcba751adcc21850855e0362e9687ed9"
     }
 ]

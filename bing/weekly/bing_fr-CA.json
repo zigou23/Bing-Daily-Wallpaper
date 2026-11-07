@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611060500",
+        "date": "20261106",
+        "url": "https://www.bing.com/th?id=OHR.PipiwaiTrail_FR-CA2178065377_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PipiwaiTrail_FR-CA2178065377",
+        "copyright": "Forêt de bambous, sentier Pīpīwai, parc national de Haleakalā, Maui, Hawaï, États-Unis (© MNStudio/Getty Images)",
+        "copyrightKeyword": "Parc National Haleakala",
+        "hsh": "64ada662fa0d6cf430614948680ea54c",
+        "description": "Le parc national de Haleakalā, sur l’île de Maui, réunit volcans, forêts tropicales et bambouseraies dans un même paysage spectaculaire. S’étendant du sommet du volcan Haleakalā jusqu’à la côte, il abrite une grande diversité d’écosystèmes façonnés par l’altitude et le climat. Créé en 1961, le parc tire son nom de l’expression hawaïenne signifiant « maison du Soleil ». Il protège plus de 850 espèces végétales, dont la rare silversword de Haleakalā, ainsi que plusieurs oiseaux indigènes. Dans le district de Kīpahulu, le sentier Pīpīwai traverse une forêt humide et mène à une impressionnante bambouseraie dont les tiges bruissement au rythme du vent.",
+        "maplink": "20.760987,-156.155095"
+    },
+    {
         "fullstartdate": "202611050500",
         "date": "20261105",
         "url": "https://www.bing.com/th?id=OHR.StileCrossing_FR-CA1954728536_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AutumnCranes_FR-CA9805393789",
         "copyright": "Grues du Canada, Réserve faunique nationale de Bosque del Apache, Nouveau-Mexique, États-Unis (© Terry St.Louis/Getty Images)",
         "copyrightKeyword": "Grues Canada",
-        "hsh": "f5c6017143b5e9976d947cdf610f0c79",
-        "description": "Chaque hiver, la réserve faunique nationale de Bosque del Apache, au Nouveau-Mexique, devient un refuge majeur pour les oiseaux migrateurs. Créé en 1939, ce sanctuaire de 57 331 acres abrite marais, champs et cours d’eau favorisant une riche biodiversité. Les grues du Canada, emblématiques du site, arrivent généralement à la fin d’octobre et y passent l’hiver, se reposant dans les eaux peu profondes avant de se nourrir dans les champs voisins. Le refuge accueille aussi des oies des neiges, des oies de Ross, diverses espèces de canards, ainsi que des faucons et des aigles. Des mammifères comme le coyote et le cerf mulet y vivent également.",
-        "maplink": "34.384147,-106.900263"
-    },
-    {
-        "fullstartdate": "202610290400",
-        "date": "20261029",
-        "url": "https://www.bing.com/th?id=OHR.AveburyStones_FR-CA3077210347_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AveburyStones_FR-CA3077210347",
-        "copyright": "Pierres dressées à Avebury dans le Wiltshire, Angleterre (© George W Johnson/Getty Images)",
-        "copyrightKeyword": "cercle de pierres Avebury Wiltshire",
-        "hsh": "2808e90b92555b55b586cc5f060fcc97"
+        "hsh": "f5c6017143b5e9976d947cdf610f0c79"
     }
 ]

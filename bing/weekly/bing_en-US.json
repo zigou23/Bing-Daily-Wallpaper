@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611060800",
+        "date": "20261106",
+        "url": "https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-US0631882545_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-US0631882545",
+        "copyright": "Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii (© MNStudio/Getty Images)",
+        "copyrightKeyword": "Haleakala National Park",
+        "hsh": "2b8827c13484500ffaf00dd7575ed652",
+        "description": "A volcano, a rainforest, and a bamboo grove? Haleakalā National Park on Maui has all three. Spanning Maui from its 10,023-foot summit to the coast, the park protects landscapes that change dramatically with elevation, rainfall, and temperature. It was established in 1916 as part of Hawaii National Park and became its own national park in 1961. The name Haleakalā translates to 'House of the Sun,' reflecting the Hawaiian mo'olelo of Māui capturing the sun to lengthen the day.",
+        "maplink": "20.760987,-156.155095"
+    },
+    {
         "fullstartdate": "202611050800",
         "date": "20261105",
         "url": "https://www.bing.com/th?id=OHR.StileCrossing_EN-US9052435517_1920x1080.jpg",
@@ -17,7 +28,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AutumnChina_EN-US0467722422",
         "copyright": "People rowing among colorful bald cypress, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)",
         "copyrightKeyword": "bald cypress",
-        "hsh": "e8c4754f441cfc007f83f56b14a81590",
+        "hsh": "3164f14d7f23d4243074bbc423cde445",
         "description": "People paddle through a glowing maze of bald cypress in Xuancheng, Anhui, where autumn transforms flooded woodlands into a tapestry of amber, copper, and deep rust. Known scientifically as 'Taxodium distichum,' bald cypress is unusual among conifers because it sheds its soft, feathery needles each fall, turning reddish-brown before they drop. In North America, it is famous for thriving in swamps, floodplains, and other wet habitats, often developing knobby root projections called 'knees' that rise above the surrounding soil and water.",
         "maplink": "30.9525,118.75528"
     },
@@ -28,7 +39,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AlpineBraies_EN-US6636326357",
         "copyright": "Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images)",
         "copyrightKeyword": "Lake Braies Dolomites",
-        "hsh": "fac06918b8a8697c857ecbd3624bccd5",
+        "hsh": "0a3c7ac758bfe85c0041f5e78f55865b",
         "description": "Tucked among the peaks of the Dolomites, Lake Braies sits nearly 5,000 feet above sea level in northern Italy. Its green and blue waters are framed by forest and the mountains of Fanes-Sennes-Braies Nature Park. Visitors can follow a two-mile trail around the shore or head out onto the water in one of the lake's traditional wooden rowboats. It's also a great place to begin exploring the surrounding mountains, with several hiking routes starting here, including the famous Alta Via 1.",
         "maplink": "46.693566,12.084606"
     },
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AutumnCranes_EN-US9795571462",
         "copyright": "Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)",
         "copyrightKeyword": "Sandhill Cranes",
-        "hsh": "5d23d8ca2501c88990d08bf23b12dd87",
-        "description": "Winter brings a familiar rhythm to Bosque del Apache National Wildlife Refuge in New Mexico. The cranes arrive, wetlands fill with birds, and this area becomes a hub for seasonal wildlife. Established in 1939, the 57,331-acre sanctuary was created to provide a protected stopover for migrating waterfowl. Its wetlands, fields, and waterways now support wildlife throughout the year. Sandhill cranes, seen in today's image, are especially associated with the refuge during winter.",
-        "maplink": "34.384147,-106.900263"
-    },
-    {
-        "fullstartdate": "202610290700",
-        "date": "20261029",
-        "url": "https://www.bing.com/th?id=OHR.AveburyStones_EN-US9568662876_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AveburyStones_EN-US9568662876",
-        "copyright": "Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images)",
-        "copyrightKeyword": "Avebury henge Wiltshire",
-        "hsh": "338d41a1a4b047131c218e34862ea766"
+        "hsh": "5d23d8ca2501c88990d08bf23b12dd87"
     }
 ]
