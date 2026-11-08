@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611070500",
+        "date": "20261107",
+        "url": "https://www.bing.com/th?id=OHR.DakotaBison_EN-CA6055061732_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.DakotaBison_EN-CA6055061732",
+        "copyright": "A bison in the grasslands of Theodore Roosevelt National Park, North Dakota, USA (© Tandem Stock/Adobe Stock)",
+        "copyrightKeyword": "Bison",
+        "hsh": "06c00699e357cde481950b98c1145147",
+        "description": "One of North America's most remarkable animals, the bison is a powerful symbol of strength, resilience and conservation. Weighing as much as 900 kilograms (2,000 pounds) and capable of running up to 55 km/h (35 mph), bison are surprisingly agile. Despite being commonly called buffalo, American bison are a distinct species known for their massive shoulder hump, curved horns and shaggy coats that help them thrive through harsh winters. Once pushed to the brink of extinction, bison have made an inspiring comeback thanks to conservation efforts across Canada and the United States, making them a powerful example of successful wildlife recovery.",
+        "maplink": "47.275714,-103.463282"
+    },
+    {
         "fullstartdate": "202611060500",
         "date": "20261106",
         "url": "https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-CA6167003961_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_EN-CA9657628051",
         "copyright": "St. Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images)",
         "copyrightKeyword": "Halloween",
-        "hsh": "1ff4ecade2163f4bb679b756829743d8",
-        "description": "Frankfurt, Germany, provides a fitting backdrop for Halloween with St. Bartholomew's Cathedral and its striking Gothic tower. Yet the holiday's origins are even more intriguing. Many Halloween traditions are linked to Samhain, an ancient Celtic festival marking the end of the harvest season and the start of winter. People believed the boundary between the living and the dead grew thin, prompting bonfires, offerings and disguises to ward off wandering spirits. Later, the Christian observances of All Saints' Day and All Souls' Day helped shape Halloween as we know it today. St. Bartholomew's may set the scene, but Halloween brings the ghosts, legends and mystery.",
-        "maplink": "50.110766,8.68539"
-    },
-    {
-        "fullstartdate": "202610300400",
-        "date": "20261030",
-        "url": "https://www.bing.com/th?id=OHR.AutumnCranes_EN-CA4395405990_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AutumnCranes_EN-CA4395405990",
-        "copyright": "Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)",
-        "copyrightKeyword": "Sandhill Cranes",
-        "hsh": "dcba751adcc21850855e0362e9687ed9"
+        "hsh": "1ff4ecade2163f4bb679b756829743d8"
     }
 ]

@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611070500",
+        "date": "20261107",
+        "url": "https://www.bing.com/th?id=OHR.DakotaBison_FR-CA7354389540_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.DakotaBison_FR-CA7354389540",
+        "copyright": "Bison dans les prairies du parc national Theodore Roosevelt, Dakota du Nord, États-Unis (© Tandem Stock/Adobe Stock)",
+        "copyrightKeyword": "Bison",
+        "hsh": "d62e2acee9680d0cc460449168a6c1af",
+        "description": "Pouvant peser jusqu’à 900 kg et courir à plus de 55 km/h, le bison est devenu le mammifère national des États-Unis en 2016. Malgré son surnom fréquent de « buffle », il appartient à une espèce distincte. Adapté aux hivers rigoureux, il utilise sa puissante tête pour dégager la neige et atteindre l’herbe. Autrefois au bord de l’extinction, le bison a réalisé un remarquable retour grâce aux efforts de conservation, devenant aujourd’hui un symbole de résilience et de préservation de la faune.",
+        "maplink": "47.275714,-103.463282"
+    },
+    {
         "fullstartdate": "202611060500",
         "date": "20261106",
         "url": "https://www.bing.com/th?id=OHR.PipiwaiTrail_FR-CA2178065377_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_FR-CA0091510299",
         "copyright": "Cathédrale Saint-Barthélemy de Francfort, Allemagne (© AlxeyPnferov/Getty Images)",
         "copyrightKeyword": "Halloween",
-        "hsh": "7a4baebf67a8f8bd58f950553c84075e",
-        "description": "À Francfort, en Allemagne, la cathédrale Saint-Barthélemy offre un décor gothique digne d’Halloween. Pourtant, l’histoire de cette fête remonte bien plus loin. Certaines traditions sont liées à Samhain, une ancienne célébration celtique marquant la fin des récoltes et le début de l’hiver. Selon la croyance, la frontière entre le monde des vivants et celui des morts s’estompait alors, favorisant le passage d’êtres surnaturels. Feux de joie, offrandes et déguisements étaient utilisés pour les éloigner ou se fondre parmi eux. Plus tard, la tradition chrétienne a intégré la Toussaint, donnant naissance à Halloween, telle que nous la connaissons aujourd’hui.",
-        "maplink": "50.110766,8.68539"
-    },
-    {
-        "fullstartdate": "202610300400",
-        "date": "20261030",
-        "url": "https://www.bing.com/th?id=OHR.AutumnCranes_FR-CA9805393789_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AutumnCranes_FR-CA9805393789",
-        "copyright": "Grues du Canada, Réserve faunique nationale de Bosque del Apache, Nouveau-Mexique, États-Unis (© Terry St.Louis/Getty Images)",
-        "copyrightKeyword": "Grues Canada",
-        "hsh": "f5c6017143b5e9976d947cdf610f0c79"
+        "hsh": "7a4baebf67a8f8bd58f950553c84075e"
     }
 ]

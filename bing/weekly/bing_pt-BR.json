@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611070300",
+        "date": "20261107",
+        "url": "https://www.bing.com/th?id=OHR.DakotaBison_PT-BR6015279362_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.DakotaBison_PT-BR6015279362",
+        "copyright": "Um bisão nas pastagens do Parque Nacional Theodore Roosevelt, Dakota do Norte, EUA. (© Tandem Stock/Adobe Stock)",
+        "copyrightKeyword": "Bisão americano",
+        "hsh": "90427e7ba74fe2b5be8bff3f6abf882e",
+        "description": "Um bisão no Parque Nacional Theodore Roosevelt, EUA. Os bisões estão entre os maiores mamíferos terrestres do mundo; podem pesar até 900 quilos e atingir velocidades de 65 quilômetros por hora, apesar do grande porte.",
+        "maplink": "47.275714,-103.463282"
+    },
+    {
         "fullstartdate": "202611060300",
         "date": "20261106",
         "url": "https://www.bing.com/th?id=OHR.PipiwaiTrail_PT-BR4772010381_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_PT-BR9368321413",
         "copyright": "Catedral de São Bartolomeu, em Frankfurt, Alemanha (© AlxeyPnferov/Getty Images)",
         "copyrightKeyword": "Halloween",
-        "hsh": "1c0f179f338d65aa725d5875e045ad52",
-        "description": "Esqueça a máquina de fumaça. Frankfurt, na Alemanha, tem algo muito mais eficaz: uma catedral gótica com uma torre que parece pronta para uma sessão espírita à meia-noite. A Catedral de São Bartolomeu, vista aqui, tem uma silhueta medieval que parece ter sido feita sob medida para o Halloween. Mas a própria história da data é ainda mais estranha.",
-        "maplink": "50.110766,8.68539"
-    },
-    {
-        "fullstartdate": "202610300300",
-        "date": "20261030",
-        "url": "https://www.bing.com/th?id=OHR.AutumnCranes_PT-BR8749482923_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AutumnCranes_PT-BR8749482923",
-        "copyright": "Grous-canadenses, Refúgio Nacional de Vida Selvagem Bosque del Apache, Novo México, Estados Unidos (© Terry St.Louis/Getty Images)",
-        "copyrightKeyword": "Grous-canadenses",
-        "hsh": "f6ed884a2616a01312d9898d4403e6a2"
+        "hsh": "1c0f179f338d65aa725d5875e045ad52"
     }
 ]
