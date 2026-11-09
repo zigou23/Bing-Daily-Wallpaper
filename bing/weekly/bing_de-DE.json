@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611082300",
+        "date": "20261109",
+        "url": "https://www.bing.com/th?id=OHR.MauerBerlin_DE-DE4395338070_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MauerBerlin_DE-DE4395338070",
+        "copyright": "Schüler spähen durch einen Spalt in einem noch erhaltenen Abschnitt der Berliner Mauer (© Sean Gallup/Getty Images)",
+        "copyrightKeyword": "Fall der Berliner Mauer",
+        "hsh": "5ab29176d5f89173d90f9cba5fbc7bbd",
+        "description": "Der 9. November 1989 war ein historischer Tag für Berlin und Deutschland. Am Abend verkündete der DDR-Politiker Günter Schabowski auf einer Pressekonferenz neue Reiseregelungen. Auf die Frage, wann diese gelten sollten, antwortete er voreilig und versehentlich, dies sei „sofort“ und „unverzüglich“ der Fall. Daraufhin strömten Tausende Menschen zu den Grenzübergängen in Berlin. Die Grenzsoldaten waren auf den großen Andrang nicht vorbereitet und öffneten schließlich die Übergänge.",
+        "maplink": "52.520008,13.404954"
+    },
+    {
         "fullstartdate": "202611072300",
         "date": "20261108",
         "url": "https://www.bing.com/th?id=OHR.DiwaliLamps_DE-DE0703233561_1920x1080.jpg",
@@ -72,16 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.HudsonBear_DE-DE3504338986",
         "copyright": "Eisbär mit Jungen, Hudson Bay, Manitoba, Kanada (© Danita Delimont/Adobe Stock)",
         "copyrightKeyword": "Eisbären",
-        "hsh": "bf8891f81fe007be6cb02cf43de9a9bd",
-        "description": "Auch wenn uns der November der Weihnachtszeit einen Schritt näherbringt, haben Eisbären andere Pläne. Sie versammeln sich an den Ufern der Hudson Bay in Manitoba, Kanada, und warten darauf, dass sich Meereis bildet, damit sie wieder auf Robbenjagd gehen können."
-    },
-    {
-        "fullstartdate": "202610312300",
-        "date": "20261101",
-        "url": "https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_DE-DE2707949453_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_DE-DE2707949453",
-        "copyright": "Schwarzwald, Baden-Württemberg (© Britus/Getty Images)",
-        "copyrightKeyword": "Schwarzwald Deutschland",
-        "hsh": "8d708799fc049d1f4a9cb7098e3a5214"
+        "hsh": "bf8891f81fe007be6cb02cf43de9a9bd"
     }
 ]
