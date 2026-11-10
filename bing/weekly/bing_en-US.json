@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611090800",
+        "date": "20261109",
+        "url": "https://www.bing.com/th?id=OHR.TrianaSpain_EN-US0872031458_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TrianaSpain_EN-US0872031458",
+        "copyright": "Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images)",
+        "copyrightKeyword": "Seville Spain",
+        "hsh": "24e7edf576b87093c4290a3e8eb157c3",
+        "description": "Cross the Guadalquivir River in Seville, the capital of Spain's Andalusia region, and the city's rhythm seems to change. On the other side lies Triana, a colorful neighborhood where ceramics, flamenco, and local traditions are woven into everyday life. Since the 19th century, the Isabel II Bridge, also known as the Triana Bridge, has connected the neighborhood to Seville's historic center.",
+        "maplink": "37.382904,-6.006341"
+    },
+    {
         "fullstartdate": "202611080800",
         "date": "20261108",
         "url": "https://www.bing.com/th?id=OHR.DiwaliLamps_EN-US0788074051_1920x1080.jpg",
@@ -72,16 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.HudsonBear_EN-US0297833232",
         "copyright": "Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont/Adobe Stock)",
         "copyrightKeyword": "Polar Bear Week",
-        "hsh": "ffd667463af0d9f224c644a4e59629fb",
-        "description": "While November might bring us a step closer to the holiday season, polar bears have other plans. They gather along the shores of Hudson Bay in Manitoba, Canada, waiting for sea ice to form so they can head back out to hunt seals. That annual spectacle inspired Polar Bear Week, observed during the first week of November, a celebration of the Arctic's largest land predator. Polar bears are powerful swimmers, expert hunters, and remarkably adapted to life in one of Earth's harshest environments. Yet shrinking sea ice means many spend longer on land, making it harder to find food and raising the risk of encounters with people."
-    },
-    {
-        "fullstartdate": "202611010700",
-        "date": "20261101",
-        "url": "https://www.bing.com/th?id=OHR.NativeBaskets_EN-US0205712064_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.NativeBaskets_EN-US0205712064",
-        "copyright": "Handmade baskets, Santa Fe, New Mexico (© Patrick Lane/Getty Images)",
-        "copyrightKeyword": "Native American Heritage Month",
-        "hsh": "cbbf95e19ef284f39a83ac650e836604"
+        "hsh": "ffd667463af0d9f224c644a4e59629fb"
     }
 ]

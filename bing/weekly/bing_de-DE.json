@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611092300",
+        "date": "20261110",
+        "url": "https://www.bing.com/th?id=OHR.RoseIsland_DE-DE1760101963_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.RoseIsland_DE-DE1760101963",
+        "copyright": "Luftaufnahme von Rose Island, Bahamas (© Abstract Aerial Art/Getty Images)",
+        "copyrightKeyword": "Rose Island Bahamas",
+        "hsh": "a08e0aed2e9f3bc0745aab041a1b7774",
+        "description": "Von oben betrachtet wirkt Rose Island wie ein grüner Pinselstrich, umgeben von allen erdenklichen Blauschattierungen. Nur fünf Kilometer östlich von Paradise Island auf den Bahamas, bietet diese schlanke Insel weniger belebte Straßen und Stadtviertel, aber dafür mehr Sandstrände, seichtes Wasser und eine Lagune im Landesinneren. Ihr friedliches Erscheinungsbild wird von einer Prise filmischer Dramatik unterstrichen: Rose Island diente als Drehort für das James-Bond-Abenteuer „Thunderball“ aus dem Jahr 1965, einschließlich der explosiven Zerstörung der „Disco Volante“.",
+        "maplink": "25.088243,-77.225304"
+    },
+    {
         "fullstartdate": "202611082300",
         "date": "20261109",
         "url": "https://www.bing.com/th?id=OHR.MauerBerlin_DE-DE4395338070_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AlpineBraies_DE-DE4176036164",
         "copyright": "Pragser Wildsee, Naturpark Fanes‑Sennes‑Prags, Dolomiten, Italien (© leonid_tit/Getty Images)",
         "copyrightKeyword": "Pragser Wildsee Dolomiten",
-        "hsh": "5d09031a93a455e4cca7225082b52406",
-        "description": "Der Pragser Wildsee liegt auf fast 1.500 Metern Höhe in den Südtiroler Dolomiten. Umgeben von Wäldern und den imposanten Gipfeln des Naturparks Fanes-Sennes-Prags, ist der See für sein auffallend grün-blaues Wasser bekannt. Ein 3,5 Kilometer langer Wanderweg führt um das Ufer herum, aber der Wildsee lässt sich auch mit traditionellen Holzruderbooten erkunden. Der See ist zudem Ausgangspunkt für mehrere Bergwanderungen, darunter der berühmte Alta Via 1 Höhenweg der Dolomiten.",
-        "maplink": "46.693566,12.084606"
-    },
-    {
-        "fullstartdate": "202611012300",
-        "date": "20261102",
-        "url": "https://www.bing.com/th?id=OHR.HudsonBear_DE-DE3504338986_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.HudsonBear_DE-DE3504338986",
-        "copyright": "Eisbär mit Jungen, Hudson Bay, Manitoba, Kanada (© Danita Delimont/Adobe Stock)",
-        "copyrightKeyword": "Eisbären",
-        "hsh": "bf8891f81fe007be6cb02cf43de9a9bd"
+        "hsh": "5d09031a93a455e4cca7225082b52406"
     }
 ]

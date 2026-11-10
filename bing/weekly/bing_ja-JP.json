@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611091500",
+        "date": "20261110",
+        "url": "https://www.bing.com/th?id=OHR.RoseIsland_JA-JP3257968381_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.RoseIsland_JA-JP3257968381",
+        "copyright": "ローズ島の空撮、バハマ (© Abstract Aerial Art/Getty Images)",
+        "copyrightKeyword": "ローズ島 バハマ",
+        "hsh": "f5743d1d23a5574d4186f2dd4e6d140a",
+        "description": "上空から眺めるローズ島は、さまざまな青に囲まれた緑のひと筆のように見えます。バハマのパラダイス島から東へ約5キロの場所にある細長い島で、砂浜や浅瀬、島内のラグーンが広がっています。この穏やかな島は、1965年のジェームズ・ボンド映画「007 サンダーボール作戦」のロケ地として使われたほか、泳ぐ豚でも知られています。透明な海と白い砂が織りなすターコイズブルーや深い青のグラデーションは、真上から見下ろすといっそう鮮やかです。",
+        "maplink": "25.088243,-77.225304"
+    },
+    {
         "fullstartdate": "202611081500",
         "date": "20261109",
         "url": "https://www.bing.com/th?id=OHR.TrianaSpain_JA-JP2076026093_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AlpineBraies_JA-JP1334653956",
         "copyright": "ブライエス湖、ファネス・セネス・ブラーイエス自然公園、ドロミテ、イタリア (© leonid_tit/Getty Images)",
         "copyrightKeyword": "ブライエス湖 ドロミテ",
-        "hsh": "3bc8086058cd73ed30c6845da455577d",
-        "description": "イタリア北部、南チロル地方のドロミテにあるブライエス湖は、標高約1,500メートルに位置しています。ファネス・セネス・ブライエス自然公園の森と雄大な山々に囲まれ、緑と青が織りなす美しい湖面が魅力です。湖畔には約3.5キロメートルの遊歩道があり、伝統的な木造ボートに乗って景色を楽しむこともできます。また、ドロミテの有名なトレイル「アルタ・ヴィア1」をはじめ、さまざまなハイキングコースの出発点にもなっています。",
-        "maplink": "46.693566,12.084606"
-    },
-    {
-        "fullstartdate": "202611011500",
-        "date": "20261102",
-        "url": "https://www.bing.com/th?id=OHR.HudsonBear_JA-JP9155678647_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.HudsonBear_JA-JP9155678647",
-        "copyright": "ホッキョクグマの親子、ハドソン湾、マニトバ州、カナダ (© Danita Delimont/Adobe Stock)",
-        "copyrightKeyword": "ホッキョクグマ週間",
-        "hsh": "0960b68acb12cc5637d49b762a871631"
+        "hsh": "3bc8086058cd73ed30c6845da455577d"
     }
 ]

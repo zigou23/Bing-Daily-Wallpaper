@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611092300",
+        "date": "20261110",
+        "url": "https://www.bing.com/th?id=OHR.RoseIsland_IT-IT6994665330_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.RoseIsland_IT-IT6994665330",
+        "copyright": "Vista aerea di Rose Island, Bahamas (© Abstract Aerial Art/Getty Images)",
+        "copyrightKeyword": "Rose Island Bahamas",
+        "hsh": "4b03ad372dbd965e74eff5eae383b341",
+        "description": "Vista dall’alto, Rose Island sembra una pennellata di verde immersa nelle mille sfumature di blu delle Bahamas. A pochi chilometri da Paradise Island, l’isola è circondata da spiagge sabbiose, bassi fondali e acque cristalline, e racchiude al suo interno una tranquilla laguna. Nel 1965 fu scelta come location per alcune riprese del film di James Bond “Thunderball”, ma oggi è conosciuta anche per i suoi simpatici maialini nuotatori. Tra spiagge bianche, barriere coralline e acque dai colori spettacolari, Rose Island regala dall’alto un panorama paradisiaco.",
+        "maplink": "25.088243,-77.225304"
+    },
+    {
         "fullstartdate": "202611082300",
         "date": "20261109",
         "url": "https://www.bing.com/th?id=OHR.TrianaSpain_IT-IT6419651277_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AlpineBraies_IT-IT4890299611",
         "copyright": "Lago di Braies, Parco Naturale Fanes‑Sennes‑Braies, Dolomiti (© leonid_tit/Getty Images)",
         "copyrightKeyword": "Lago di Braies Dolomiti",
-        "hsh": "dbb5e894e4ca7de68330689261f4fc91",
-        "description": "Adagiato a quasi 1.500 metri di altitudine, nel cuore delle Dolomiti dell’Alto Adige, il lago di Braies è circondato dai boschi e dalle spettacolari vette del Parco Naturale Fanes-Senes-Braies. Famoso per le acque dalle intense sfumature di verde e blu, è costeggiato da un sentiero panoramico di 3,5 km. Il paesaggio può essere ammirato anche da una prospettiva diversa, a bordo di una delle tradizionali barche a remi di legno. Dal lago partono numerosi itinerari escursionistici, tra cui la celebre Alta Via 1 delle Dolomiti.",
-        "maplink": "46.693566,12.084606"
-    },
-    {
-        "fullstartdate": "202611012300",
-        "date": "20261102",
-        "url": "https://www.bing.com/th?id=OHR.HudsonBear_IT-IT6232079426_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.HudsonBear_IT-IT6232079426",
-        "copyright": "Un orso polare con i suoi cuccioli, baia di Hudson, Manitoba, Canada (© Danita Delimont/Adobe Stock)",
-        "copyrightKeyword": "Orso Polare",
-        "hsh": "5b2c0f4c02bd92bf04dbb0d030fda4d9"
+        "hsh": "dbb5e894e4ca7de68330689261f4fc91"
     }
 ]
