@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611100800",
+        "date": "20261110",
+        "url": "https://www.bing.com/th?id=OHR.RoseIsland_EN-US0952497192_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.RoseIsland_EN-US0952497192",
+        "copyright": "Aerial view of Rose Island, The Bahamas (© Abstract Aerial Art/Getty Images)",
+        "copyrightKeyword": "Rose Island Bahamas",
+        "hsh": "906a7ee004b4d01b78739ea1b8884d87",
+        "description": "From above, Rose Island looks like a brushstroke of green surrounded by every shade of blue. Just three miles east of Paradise Island in The Bahamas, this slender cay trades busy roads and city blocks for sandy shores, shallow waters, and an inland lagoon. Its peaceful appearance comes with a touch of movie drama. Rose Island was used as a filming location for the 1965 James Bond adventure 'Thunderball,' including the explosive destruction of the Disco Volante.",
+        "maplink": "25.088243,-77.225304"
+    },
+    {
         "fullstartdate": "202611090800",
         "date": "20261109",
         "url": "https://www.bing.com/th?id=OHR.TrianaSpain_EN-US0872031458_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AlpineBraies_EN-US6636326357",
         "copyright": "Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images)",
         "copyrightKeyword": "Lake Braies Dolomites",
-        "hsh": "0a3c7ac758bfe85c0041f5e78f55865b",
-        "description": "Tucked among the peaks of the Dolomites, Lake Braies sits nearly 5,000 feet above sea level in northern Italy. Its green and blue waters are framed by forest and the mountains of Fanes-Sennes-Braies Nature Park. Visitors can follow a two-mile trail around the shore or head out onto the water in one of the lake's traditional wooden rowboats. It's also a great place to begin exploring the surrounding mountains, with several hiking routes starting here, including the famous Alta Via 1.",
-        "maplink": "46.693566,12.084606"
-    },
-    {
-        "fullstartdate": "202611020800",
-        "date": "20261102",
-        "url": "https://www.bing.com/th?id=OHR.HudsonBear_EN-US0297833232_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.HudsonBear_EN-US0297833232",
-        "copyright": "Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont/Adobe Stock)",
-        "copyrightKeyword": "Polar Bear Week",
-        "hsh": "ffd667463af0d9f224c644a4e59629fb"
+        "hsh": "0a3c7ac758bfe85c0041f5e78f55865b"
     }
 ]

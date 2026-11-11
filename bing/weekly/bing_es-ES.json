@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202611102300",
+        "date": "20261111",
+        "url": "https://www.bing.com/th?id=OHR.Atlantica_ES-ES2909750092_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.Atlantica_ES-ES2909750092",
+        "copyright": "Selva Atlántica, Brasil (© FG Trade/Getty Images)",
+        "copyrightKeyword": "Selva Atlántica Brasil",
+        "hsh": "f2b0b1383fa83edc0ccae163671b2b7b",
+        "description": "La Selva Atlántica es uno de los grandes puntos críticos de biodiversidad del mundo. Se extiende a lo largo de buena parte de la costa atlántica de Brasil y llega hasta Argentina y Paraguay. Su paisaje comprende bosques tropicales y subtropicales, manglares y hábitats costeros, y alberga alrededor de 20.000 especies de plantas y una extraordinaria variedad de fauna, incluidos jaguares y tamarinos león dorados. Gran parte la selva ha desaparecido a lo largo de los siglos, pero aún desempeña un papel importante al almacenar carbono y abastecer de agua dulce a millones de personas en toda la región."
+    },
+    {
         "fullstartdate": "202611092300",
         "date": "20261110",
         "url": "https://www.bing.com/th?id=OHR.RoseIsland_ES-ES2836865726_1920x1080.jpg",
@@ -72,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AutumnChina_ES-ES1074193696",
         "copyright": "Personas remando entre coloridos cipreses calvos, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)",
         "copyrightKeyword": "cipreses calvos",
-        "hsh": "a82d5eb89aa0be10c57a6f69eaa0094e",
-        "description": "En Xuancheng, Anhui, varias personas reman por un resplandeciente laberinto de cipreses calvos, donde el otoño transforma los bosques inundados en un mosaico de tonos ámbar, cobre y rojizos. Conocido científicamente como Taxodium distichum, el ciprés calvo es una conífera poco común, ya que cada otoño pierde sus suaves hojas en forma de aguja, que adquieren un tono marrón rojizo antes de caer. En Norteamérica, es conocido por prosperar en pantanos, llanuras aluviales y otros hábitats húmedos, donde suele desarrollar unas peculiares protuberancias de las raíces, conocidas como “rodillas”, que sobresalen del suelo y del agua.",
-        "maplink": "30.9525,118.75528"
-    },
-    {
-        "fullstartdate": "202611022300",
-        "date": "20261103",
-        "url": "https://www.bing.com/th?id=OHR.AlpineBraies_ES-ES0997130535_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AlpineBraies_ES-ES0997130535",
-        "copyright": "Lago Braies, Parque Natural Fanes‑Sennes‑Braies, Los Dolomitas, Italia (© leonid_tit/Getty Images)",
-        "copyrightKeyword": "Lago Braies Dolomitas",
-        "hsh": "6a51531a0e9bbc0832f8c3a7f5228bf3"
+        "hsh": "a82d5eb89aa0be10c57a6f69eaa0094e"
     }
 ]

@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611100500",
+        "date": "20261110",
+        "url": "https://www.bing.com/th?id=OHR.RoseIsland_EN-CA5604124548_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.RoseIsland_EN-CA5604124548",
+        "copyright": "Aerial view of Rose Island, The Bahamas (© Abstract Aerial Art/Getty Images)",
+        "copyrightKeyword": "Rose Island Bahamas",
+        "hsh": "c72c17d84f0b942dbfd2aca767448c43",
+        "description": "Rose Island is a picture-perfect escape in The Bahamas, where lush greenery meets some of the most vibrant blue waters in the Caribbean. Located just a short boat ride from Nassau, this peaceful cay is known for its pristine beaches, crystal-clear shallows and relaxed island atmosphere. Movie fans may recognize it as a filming location from the 1965 James Bond adventure Thunderball, but today Rose Island's biggest attractions are its natural beauty and unique wildlife, including its famous swimming pigs. Viewed from above, the island showcases the dazzling colours that make The Bahamas world-renowned, with turquoise lagoons, sandy shoals and clear waters creating a breathtaking tropical landscape.",
+        "maplink": "25.088243,-77.225304"
+    },
+    {
         "fullstartdate": "202611090500",
         "date": "20261109",
         "url": "https://www.bing.com/th?id=OHR.TrianaSpain_EN-CA5715664258_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AlpineBraies_EN-CA5888574678",
         "copyright": "Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images)",
         "copyrightKeyword": "Lake Braies Dolomites",
-        "hsh": "553536b712c4a3a336806716218e741b",
-        "description": "Lake Braies sits almost 1,500 metres above sea level in the Dolomites of South Tyrol, northern Italy. Surrounded by forest and the dramatic peaks of the Fanes-Sennes-Braies Nature Park, the lake is known for its striking green and blue waters. A 3.5-kilometre trail circles the shore, while traditional wooden rowing boats offer another way to take in the scenery. The lake is also a starting point for several mountain walks, including the Dolomites' famous Alta Via 1.",
-        "maplink": "46.693566,12.084606"
-    },
-    {
-        "fullstartdate": "202611020500",
-        "date": "20261102",
-        "url": "https://www.bing.com/th?id=OHR.HudsonBear_EN-CA5688581864_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.HudsonBear_EN-CA5688581864",
-        "copyright": "Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont/Adobe Stock)",
-        "copyrightKeyword": "Polar Bear Week",
-        "hsh": "f1876a9a193cbbaa54f21f034dd6a8c1"
+        "hsh": "553536b712c4a3a336806716218e741b"
     }
 ]

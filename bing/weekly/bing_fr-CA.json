@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611100500",
+        "date": "20261110",
+        "url": "https://www.bing.com/th?id=OHR.RoseIsland_FR-CA3401287918_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.RoseIsland_FR-CA3401287918",
+        "copyright": "Vue aérienne de Rose Island, aux Bahamas (© Abstract Aerial Art/Getty Images)",
+        "copyrightKeyword": "Rose Island Bahamas",
+        "hsh": "d1ea1eb024be17c0cff125fdf4ad516a",
+        "description": "Vue du ciel, Rose Island apparaît comme un fin ruban de verdure entouré de nuances infinies de bleu. Située à seulement quelques kilomètres de Paradise Island, aux Bahamas, cette île paisible séduit par ses plages de sable blanc, ses eaux cristallines et son lagon intérieur. Elle a même servi de décor au film de James Bond Opération Tonnerre en 1965. Connue aujourd’hui pour ses célèbres cochons nageurs, Rose Island illustre parfaitement la beauté de l’archipel bahaméen. Depuis les airs, bancs de sable, récifs et lagons dessinent une mosaïque turquoise spectaculaire, où la frontière entre terre et mer semble presque disparaître.",
+        "maplink": "25.088243,-77.225304"
+    },
+    {
         "fullstartdate": "202611090500",
         "date": "20261109",
         "url": "https://www.bing.com/th?id=OHR.TrianaSpain_FR-CA2924730216_1920x1080.jpg",
@@ -72,17 +83,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AlpineBraies_FR-CA1379569003",
         "copyright": "Lac de Braies, parc naturel Fanes-Sennes-Braies, Dolomites, Italie (© leonid_tit/Getty Images)",
         "copyrightKeyword": "Lac Braies Dolomites",
-        "hsh": "5c731c6d7b71d5659b0381fc7c1307df",
-        "description": "Le lac de Braies se situe à près de 1 500 mètres d’altitude dans les Dolomites, au Tyrol du Sud, dans le nord de l’Italie. Entouré de forêts et des impressionnants sommets du parc naturel Fanes-Sennes-Braies, il est réputé pour ses eaux aux teintes vertes et bleues éclatantes. Un sentier de 3,5 kilomètres en fait le tour, tandis que des barques en bois traditionnelles permettent d’admirer le paysage depuis l’eau. Le lac constitue également le point de départ de plusieurs randonnées de montagne, dont la célèbre Alta Via 1 des Dolomites.",
-        "maplink": "46.693566,12.084606"
-    },
-    {
-        "fullstartdate": "202611020500",
-        "date": "20261102",
-        "url": "https://www.bing.com/th?id=OHR.HudsonBear_FR-CA1124184910_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.HudsonBear_FR-CA1124184910",
-        "copyright": "Ours polaire et ses petits, baie d'Hudson, Manitoba, Canada (© Danita Delimont/Adobe Stock)",
-        "copyrightKeyword": "Semaine Ours Polaire",
-        "hsh": "13acf8474ff6ec93488bf4a1ea245992"
+        "hsh": "5c731c6d7b71d5659b0381fc7c1307df"
     }
 ]

@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202611110000",
+        "date": "20261112",
+        "url": "https://www.bing.com/th?id=OHR.PoppiesField_EN-GB3947926925_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PoppiesField_EN-GB3947926925",
+        "copyright": "A field of poppies (© lloyd-horgan/Getty Images)",
+        "copyrightKeyword": "Remembrance Day",
+        "hsh": "619a4c70134a3ad316bf43bf19c93233",
+        "description": "For Remembrance Day, we are looking out over a field of poppies, recognised as symbols of remembrance for more than a century."
+    },
+    {
         "fullstartdate": "202611100000",
         "date": "20261111",
         "url": "https://www.bing.com/th?id=OHR.RoseIsland_EN-GB4222638797_1920x1080.jpg",
@@ -72,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AutumnChina_EN-GB4167994080",
         "copyright": "People rowing among colourful bald cypress, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)",
         "copyrightKeyword": "bald cypress",
-        "hsh": "c2aa9f53a87aca6325c8b9f84d8bd725",
-        "description": "People paddle through a glowing maze of bald cypress in Xuancheng, Anhui, where autumn transforms flooded woodlands into a tapestry of amber, copper and deep rust. Known scientifically as 'Taxodium distichum', bald cypress is unusual among conifers because it sheds its soft, feathery needles each fall, turning reddish-brown before they drop.",
-        "maplink": "30.9525,118.75528"
-    },
-    {
-        "fullstartdate": "202611030000",
-        "date": "20261104",
-        "url": "https://www.bing.com/th?id=OHR.AlpineBraies_EN-GB4055015386_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AlpineBraies_EN-GB4055015386",
-        "copyright": "Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images)",
-        "copyrightKeyword": "Lake Braies Dolomites",
-        "hsh": "52e9e6a9883e4205d5e36872921c0479"
+        "hsh": "c2aa9f53a87aca6325c8b9f84d8bd725"
     }
 ]

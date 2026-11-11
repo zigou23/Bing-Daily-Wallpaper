@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202611102300",
+        "date": "20261111",
+        "url": "https://www.bing.com/th?id=OHR.Atlantica_DE-DE2362030432_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.Atlantica_DE-DE2362030432",
+        "copyright": "Der Atlantische Regenwald, Brasilien (© FG Trade/Getty Images)",
+        "copyrightKeyword": "Atlantischer Regenwald Brasilien",
+        "hsh": "86afca30b4aa01be4f193f4efe0adb61",
+        "description": "Der Atlantische Regenwald ist einer der weltweit bedeutendsten Hotspots der Artenvielfalt und erstreckt sich über einen Großteil der brasilianischen Atlantikküste bis nach Argentinien und Paraguay. Seine Landschaft umfasst tropische und subtropische Wälder, Mangroven und küstennahe Lebensräume und bietet rund 20.000 Pflanzenarten sowie einer außergewöhnlichen Vielfalt an Wildtieren, darunter Jaguare und Goldlöwenäffchen, eine Heimat. Ein Großteil des Waldes ist im Laufe der Jahrhunderte verschwunden, doch er spielt weiterhin eine wichtige Rolle bei der Speicherung von Kohlenstoff und der Versorgung von Millionen von Menschen in der gesamten Region mit Süßwasser."
+    },
+    {
         "fullstartdate": "202611092300",
         "date": "20261110",
         "url": "https://www.bing.com/th?id=OHR.RoseIsland_DE-DE1760101963_1920x1080.jpg",
@@ -72,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AutumnChina_DE-DE5410503674",
         "copyright": "Paddler zwischen farbenprächtigen Sumpfzypressen, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)",
         "copyrightKeyword": "Sumpfzypressen",
-        "hsh": "4628563faa3a2dea18938b0a26f409bc",
-        "description": "In Xuancheng in der Provinz Anhui paddeln Menschen durch ein leuchtendes Labyrinth aus Sumpfzypressen, wo der Herbst die überfluteten Wälder in ein Farbenspiel aus Bernstein, Kupfer und tiefem Rost verwandelt. Die wissenschaftlich als „Taxodium distichum“ bezeichnete Sumpfzypresse ist unter den Nadelbäumen ungewöhnlich, da sie jeden Herbst ihre weichen, federartigen Nadeln abwirft, die sich vor dem Abfallen rotbraun färben.",
-        "maplink": "30.9525,118.75528"
-    },
-    {
-        "fullstartdate": "202611022300",
-        "date": "20261103",
-        "url": "https://www.bing.com/th?id=OHR.AlpineBraies_DE-DE4176036164_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AlpineBraies_DE-DE4176036164",
-        "copyright": "Pragser Wildsee, Naturpark Fanes‑Sennes‑Prags, Dolomiten, Italien (© leonid_tit/Getty Images)",
-        "copyrightKeyword": "Pragser Wildsee Dolomiten",
-        "hsh": "5d09031a93a455e4cca7225082b52406"
+        "hsh": "4628563faa3a2dea18938b0a26f409bc"
     }
 ]
