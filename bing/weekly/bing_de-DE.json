@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611112300",
+        "date": "20261112",
+        "url": "https://www.bing.com/th?id=OHR.NorthWindow_DE-DE3364064033_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.NorthWindow_DE-DE3364064033",
+        "copyright": "North Window, Arches-Nationalpark, Moab, Utah, USA (© lightphoto/Getty Images)",
+        "copyrightKeyword": "Arches-Nationalpark Utah",
+        "hsh": "f251956f8a79db88089b04f77c5aebb7",
+        "description": "Der nördlich von Moab gelegene Arches-Nationalpark in der Wüste von Utah beherbergt mehr als 2.000 natürliche Sandsteinbögen – die weltweit größte Konzentration solcher Felsformationen. Das heutige Bild zeigt das „North Window“, eine der bekanntesten Formen in der „Windows Section“ des Parks, wo hoch aufragende Felsrippen, Durchbrüche und geformter Sandstein eine Landschaft schaffen, die fast schon architektonisch anmutet",
+        "maplink": "38.6857117,-109.5328291"
+    },
+    {
         "fullstartdate": "202611102300",
         "date": "20261111",
         "url": "https://www.bing.com/th?id=OHR.Atlantica_DE-DE2362030432_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.StileCrossing_DE-DE6131632165",
         "copyright": "Holzsteg an einer Steinmauer, Black Crag, Lake District, England (© Alex Treadway/Getty Images)",
         "copyrightKeyword": "Lake District Vereinigtes Königreich",
-        "hsh": "c8b29159a3efaa56ffa39521c753aec3",
-        "description": "Ein einfacher Holzsteg führt in eine der berühmtesten Landschaften Englands. Der Lake District, ein UNESCO-Weltkulturerbe, ist ein Flickenteppich aus schimmernden Seen, schroffen Hügeln und jahrhundertealten Steinmauern.",
-        "maplink": "54.460861,-3.08875"
-    },
-    {
-        "fullstartdate": "202611032300",
-        "date": "20261104",
-        "url": "https://www.bing.com/th?id=OHR.AutumnChina_DE-DE5410503674_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AutumnChina_DE-DE5410503674",
-        "copyright": "Paddler zwischen farbenprächtigen Sumpfzypressen, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)",
-        "copyrightKeyword": "Sumpfzypressen",
-        "hsh": "4628563faa3a2dea18938b0a26f409bc"
+        "hsh": "c8b29159a3efaa56ffa39521c753aec3"
     }
 ]

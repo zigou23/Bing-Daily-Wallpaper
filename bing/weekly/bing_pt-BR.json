@@ -1,5 +1,26 @@
 [
     {
+        "fullstartdate": "202611120300",
+        "date": "20261112",
+        "url": "https://www.bing.com/th?id=OHR.NorthWindow_PT-BR8858044565_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.NorthWindow_PT-BR8858044565",
+        "copyright": "Arco da Janela Norte, Parque Nacional dos Arcos, Moab, Utah, EUA (© lightphoto/Getty Images)",
+        "copyrightKeyword": "Parque Nacional dos Arcos",
+        "hsh": "aeb7613ed149741ccfc6cc01d5f48e22",
+        "description": "Em 12 de novembro, o Parque Nacional dos Arcos celebra o aniversário de sua designação como parque nacional, em 1971. Localizado ao norte de Moab, em Utah, o parque ocupa uma região desértica de altitude e abriga mais de 2.000 arcos naturais de arenito, a maior concentração de arcos do mundo. A imagem de hoje, o Arco da Janela Norte, realmente lembra um enorme portal de pedra, emoldurando penhascos distantes e um céu em constante mudança. Mas não houve projeto, arquiteto ou equipe de construção envolvidos. Em vez disso, a água, o gelo, as variações de temperatura e a gravidade foram desgastando gradualmente as rochas mais macias, deixando para trás as camadas mais resistentes.",
+        "maplink": "38.6857117,-109.5328291"
+    },
+    {
+        "fullstartdate": "202611110300",
+        "date": "20261111",
+        "url": "https://www.bing.com/th?id=OHR.Atlantica_PT-BR8667026625_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.Atlantica_PT-BR8667026625",
+        "copyright": "Mata Atlântica, Brasil (© FG Trade/Getty Images)",
+        "copyrightKeyword": "Mata Atlântica Brasil",
+        "hsh": "c4e07947c23d5694fa7d99ae9c53c1d8",
+        "description": "A Mata Atlântica é um dos grandes hotspots de biodiversidade do mundo, estendendo-se por grande parte da costa atlântica do Brasil e também por áreas da Argentina e do Paraguai. Sua paisagem inclui florestas tropicais e subtropicais, manguezais e habitats costeiros, que abrigam cerca de 20 mil espécies de plantas e uma extraordinária variedade de fauna, incluindo onças-pintadas e micos-leões-dourados. Grande parte da floresta desapareceu ao longo dos séculos, mas ela continua desempenhando um papel importante no armazenamento de carbono e no fornecimento de água doce para milhões de pessoas em toda a região."
+    },
+    {
         "fullstartdate": "202611100300",
         "date": "20261110",
         "url": "https://www.bing.com/th?id=OHR.RoseIsland_PT-BR8484348763_1920x1080.jpg",
@@ -61,28 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.StileCrossing_PT-BR3493884309",
         "copyright": "Escada de madeira sobre um muro de pedra, Black Crag, Lake District, Inglaterra (© Alex Treadway/Getty Images)",
         "copyrightKeyword": "Lake District Inglaterra",
-        "hsh": "a40820ce336739829afd0c4ee6ee097f",
-        "description": "Uma simples escada de madeira para transpor um muro dá acesso a uma das paisagens mais famosas da Inglaterra. O Lake District, reconhecido como Patrimônio Mundial pela UNESCO, é um mosaico de lagos cintilantes, elevações de relevo acidentado e muros de pedra centenários, moldado tanto pela natureza quanto pelas tradições agrícolas.",
-        "maplink": "54.460861,-3.08875"
-    },
-    {
-        "fullstartdate": "202611040300",
-        "date": "20261104",
-        "url": "https://www.bing.com/th?id=OHR.AutumnChina_PT-BR3147584224_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AutumnChina_PT-BR3147584224",
-        "copyright": "Pessoas remando entre ciprestes-calvos coloridos, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)",
-        "copyrightKeyword": "cipreste-calvo",
-        "hsh": "66b20ab0d8dfe5000a37bae464ab39de",
-        "description": "Pessoas remam por um labirinto de ciprestes-calvos de cores vibrantes em Xuancheng, Anhui, onde o outono transforma a floresta alagada em um mosaico de tons de âmbar, cobre e ferrugem escuro. Conhecido cientificamente como Taxodium distichum, o cipreste-calvo é incomum entre as coníferas por perder suas folhas finas e macias, semelhantes a penas, a cada outono. Antes de cair, elas adquirem uma coloração marrom-avermelhada. Na América do Norte, a espécie é conhecida por prosperar em pântanos, planícies de inundação e outros ambientes úmidos, muitas vezes desenvolvendo projeções das raízes em forma de nódulos chamadas de “joelhos”, que se projetam acima do solo e da água ao redor.",
-        "maplink": "30.9525,118.75528"
-    },
-    {
-        "fullstartdate": "202611030300",
-        "date": "20261103",
-        "url": "https://www.bing.com/th?id=OHR.AlpineBraies_PT-BR2922400118_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AlpineBraies_PT-BR2922400118",
-        "copyright": "Lago di Braies, Parque Natural Fanes-Sennes-Braies, Dolomitas, Itália (© leonid_tit/Getty Images)",
-        "copyrightKeyword": "Lago di Braies Dolomitas",
-        "hsh": "e5d774737f379093901ca023cb6416e3"
+        "hsh": "a40820ce336739829afd0c4ee6ee097f"
     }
 ]

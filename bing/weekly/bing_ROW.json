@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202611110800",
+        "date": "20261111",
+        "url": "https://www.bing.com/th?id=OHR.Atlantica_ROW8494593651_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.Atlantica_ROW8494593651",
+        "copyright": "The Atlantic Forest, Brazil (© FG Trade/Getty Images)",
+        "copyrightKeyword": "Atlantic Forest Brazil",
+        "hsh": "66b7462b84e82585b9022c7ef84ccc29",
+        "description": "The Atlantic Forest is one of the world's great biodiversity hotspots, stretching along much of Brazil's Atlantic coast and into Argentina and Paraguay. Its landscape includes tropical and subtropical forests, mangroves and coastal habitats, providing a home for around 20,000 plant species and an extraordinary variety of wildlife, including jaguars and golden lion tamarins. Much of the forest has disappeared over the centuries, but it continues to play an important role in storing carbon and providing fresh water for millions of people across the region."
+    },
+    {
         "fullstartdate": "202611100800",
         "date": "20261110",
         "url": "https://www.bing.com/th?id=OHR.RoseIsland_ROW8217613794_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AutumnChina_ROW6919148725",
         "copyright": "People rowing among colourful bald cypress, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)",
         "copyrightKeyword": "bald cypress",
-        "hsh": "fecc232eacc153b1e0bbf74c0ce9b1f8",
-        "description": "People paddle through a glowing maze of bald cypress in Xuancheng, Anhui, where autumn transforms flooded woodlands into a tapestry of amber, copper and deep rust. Known scientifically as 'Taxodium distichum', bald cypress is unusual among conifers because it sheds its soft, feathery needles each fall, turning reddish-brown before they drop."
-    },
-    {
-        "fullstartdate": "202611030800",
-        "date": "20261103",
-        "url": "https://www.bing.com/th?id=OHR.Camburiu_ROW3589076688_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.Camburiu_ROW3589076688",
-        "copyright": "Taquaras Beach, Balneário Camboriú, Brazil (© MaRabelo/Getty Images)",
-        "copyrightKeyword": "Balneário Camboriú",
-        "hsh": "bafd67bab8148420cb744f5abd71398d"
+        "hsh": "fecc232eacc153b1e0bbf74c0ce9b1f8"
     }
 ]

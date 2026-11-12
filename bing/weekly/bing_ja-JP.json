@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611111500",
+        "date": "20261112",
+        "url": "https://www.bing.com/th?id=OHR.NorthWindow_JA-JP8307735119_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.NorthWindow_JA-JP8307735119",
+        "copyright": "ノース・ウィンドウ、アーチーズ国立公園、モアブ、ユタ州、アメリカ (© lightphoto/Getty Images)",
+        "copyrightKeyword": "アーチーズ国立公園",
+        "hsh": "0f7096f63d1544ad6348e05db0b3a39e",
+        "description": "ユタ州モアブの北に広がるアーチーズ国立公園には、2,000を超える天然の砂岩アーチがあり、世界でもっともアーチが集まっている場所として知られています。写真のノース・ウィンドウは、巨大な石の門のような姿で知られる、園内を代表する景観の一つです。しかし、この壮大な造形を手がけたのは建築家ではありません。水や氷、気温の変化、重力が長い年月をかけてやわらかい岩を削り、自然ならではの建築美をつくり上げました。",
+        "maplink": "38.6857117,-109.5328291"
+    },
+    {
         "fullstartdate": "202611101500",
         "date": "20261111",
         "url": "https://www.bing.com/th?id=OHR.Atlantica_JA-JP3902829738_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.StileCrossing_JA-JP3443452365",
         "copyright": "石垣に設けられた木製の踏み越し段、ブラック・クラッグ、湖水地方、イギリス (© Alex Treadway/Getty Images)",
         "copyrightKeyword": "湖水地方",
-        "hsh": "0ea8942b14de59feb101818f8b8e127c",
-        "description": "木製の踏み越し段の先に広がるのは、ユネスコ世界遺産に登録されたイングランド屈指の景勝地、湖水地方です。ブラック・フェルの岩山の山頂「ブラック・クラッグ」は、標高約323メートルとそれほど高くはありませんが、ウィンダミア湖やコニストン・ウォーター、ラングデール・パイクスを見渡せる絶景スポットです。風光明媚なターン・ハウズをめぐって山頂を目指すルートのほか、トム・ギル経由なら森の中を流れ落ちる滝にも出会えます。",
-        "maplink": "54.460861,-3.08875"
-    },
-    {
-        "fullstartdate": "202611031500",
-        "date": "20261104",
-        "url": "https://www.bing.com/th?id=OHR.AutumnChina_JA-JP2275105446_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AutumnChina_JA-JP2275105446",
-        "copyright": "色鮮やかなラクウショウの森をボートで進む人々、安徽省宣城市、中国 (© Jackal Pan/Getty Images)",
-        "copyrightKeyword": "ラクウショウ",
-        "hsh": "75eefaf78810c15b2afe6d6173bb6bc1"
+        "hsh": "0ea8942b14de59feb101818f8b8e127c"
     }
 ]
