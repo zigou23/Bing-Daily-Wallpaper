@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611122300",
+        "date": "20261113",
+        "url": "https://www.bing.com/th?id=OHR.AbrahamCanada_DE-DE1158881043_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AbrahamCanada_DE-DE1158881043",
+        "copyright": "Abraham Lake in Alberta, Kanada (© Guang Cao/Getty Images)",
+        "copyrightKeyword": "Abraham Lake Stausee Kanada",
+        "hsh": "9e64cc7d2daae700b94079ffb9a177ef",
+        "description": "Das erste Licht der Morgendämmerung spiegelt sich auf dem vereisten Abraham Lake, eingerahmt von den Gipfeln der Rocky Mountains. Im Winter ist dieser malerische See in Alberta berühmt für seine gefrorenen Blasen aus Methangas, die unter dem Eis eingeschlossen sind. Starke Winde halten die Oberfläche schneefrei und sorgen so den ganzen Winter über für einen freien Blick. Im Frühling, wenn das Eis schmilzt, entweicht das Gas in die Atmosphäre.",
+        "maplink": "52.1392,-116.4355"
+    },
+    {
         "fullstartdate": "202611112300",
         "date": "20261112",
         "url": "https://www.bing.com/th?id=OHR.NorthWindow_DE-DE3364064033_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PipiwaiTrail_DE-DE9691097479",
         "copyright": "Bambuswald, Pīpīwai Trail, Haleakalā-Nationalpark, Maui, Hawaii, USA (© MNStudio/Getty Images)",
         "copyrightKeyword": "Haleakala-Nationalpark Hawaii",
-        "hsh": "810b899ff51c2cd8b235520b75a69105",
-        "description": "Ein Vulkan, ein Regenwald und ein Bambushain? Der Haleakalā-Nationalpark auf Maui bietet all das. Der Park erstreckt sich über die gesamte Insel Maui, vom 3.055 Meter hohen Gipfel bis zur Küste, und schützt Landschaften, die sich je nach Höhe, Niederschlagsmenge und Temperatur dramatisch verändern. Er wurde 1916 als Teil des Hawaii-Nationalparks gegründet und 1961 zu einem eigenständigen Nationalpark erklärt. Der Name Haleakalā bedeutet übersetzt „Haus der Sonne“ und spiegelt die hawaiianische Legende (mo’olelo) wider, wonach Māui die Sonne einfing, um den Tag zu verlängern.",
-        "maplink": "20.760987,-156.155095"
-    },
-    {
-        "fullstartdate": "202611042300",
-        "date": "20261105",
-        "url": "https://www.bing.com/th?id=OHR.StileCrossing_DE-DE6131632165_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.StileCrossing_DE-DE6131632165",
-        "copyright": "Holzsteg an einer Steinmauer, Black Crag, Lake District, England (© Alex Treadway/Getty Images)",
-        "copyrightKeyword": "Lake District Vereinigtes Königreich",
-        "hsh": "c8b29159a3efaa56ffa39521c753aec3"
+        "hsh": "810b899ff51c2cd8b235520b75a69105"
     }
 ]

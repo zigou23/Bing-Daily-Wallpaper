@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611122300",
+        "date": "20261113",
+        "url": "https://www.bing.com/th?id=OHR.AbrahamCanada_ES-ES6587136379_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AbrahamCanada_ES-ES6587136379",
+        "copyright": "Hielo en el lago Abraham, Alberta, Canadá (© Guang Cao/Getty Images)",
+        "copyrightKeyword": "LagoAbraham Alberta",
+        "hsh": "2a86c98b4067a510959542362ae5fdfa",
+        "description": "La primera luz del amanecer se refleja en la superficie helada del lago Abraham, enmarcada por las cumbres de las Montañas Rocosas. En invierno, este pintoresco lago de Alberta es famoso por las burbujas de metano congeladas que quedan atrapadas bajo el hielo. Los fuertes vientos mantienen la superficie despejada de nieve y permiten contemplarlas durante todo el invierno. En primavera, cuando el hielo se derrite, el gas escapa a la atmósfera.",
+        "maplink": "52.1392,-116.4355"
+    },
+    {
         "fullstartdate": "202611112300",
         "date": "20261112",
         "url": "https://www.bing.com/th?id=OHR.NorthWindow_ES-ES3025809521_1920x1080.jpg",
@@ -38,7 +49,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.TrianaSpain_ES-ES2622392783",
         "copyright": "Distrito histórico de Triana, Sevilla, España (© Andrzej Rostek/Getty Images)",
         "copyrightKeyword": "Sevilla España",
-        "hsh": "a38b6068f0ca1bccae596593996c5678",
+        "hsh": "22609edbd002fda459162439ef8d4994",
         "description": "Cross the Guadalquivir River in Seville, the capital of Spain's Andalusia region, and the city's rhythm seems to change. On the other side lies Triana, a colorful neighborhood where ceramics, flamenco, and local traditions are woven into everyday life. Since the 19th century, the Isabel II Bridge, also known as the Triana Bridge, has connected the neighborhood to Seville's historic center.",
         "maplink": "37.382904,-6.006341"
     },
@@ -49,7 +60,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DiwaliLamps_ES-ES3505917135",
         "copyright": "Linternas del Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)",
         "copyrightKeyword": "Diwali",
-        "hsh": "8ae2a6f7e961ebfb173b00ae38f687c8",
+        "hsh": "666cb39558c08a5cffa7f216fb4bd9b1",
         "description": "¿Qué sucede cuando la noche más oscura se llena de luz? Llega Diwali. El Festival de las Luces es celebrado por millones de personas en todo el mundo y reúne diyas, linternas, rangoli, oraciones, dulces y encuentros familiares.",
         "maplink": "18.969048,72.821182"
     },
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PipiwaiTrail_ES-ES2022669562",
         "copyright": "Bosque de Bambú, Sendero Pīpīwai, Parque Nacional Haleakalā, Maui, Hawái, EE. UU. (© MNStudio/Getty Images)",
         "copyrightKeyword": "Parque Nacional Haleakala ",
-        "hsh": "87d90f329e6f469ec432af98a19b6fdf",
-        "description": "¿Un volcán, una selva tropical y un bosque de bambú? El Parque Nacional Haleakalā, en Maui, tiene los tres. El parque se extiende desde la cumbre de Maui, a 3.055 metros de altura, hasta la costa, y protege paisajes que cambian radicalmente según la altitud, las precipitaciones y la temperatura. Fue establecido en 1916 como parte del Parque Nacional de Hawái y se convirtió en un parque nacional independiente en 1961. El nombre Haleakalā significa “Casa del Sol” y hace referencia al mo'olelo hawaiano en el que Māui atrapa al sol para prolongar el día.",
-        "maplink": "20.760987,-156.155095"
-    },
-    {
-        "fullstartdate": "202611042300",
-        "date": "20261105",
-        "url": "https://www.bing.com/th?id=OHR.StileCrossing_ES-ES1149628904_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.StileCrossing_ES-ES1149628904",
-        "copyright": "Escalera de madera, Black Crag, Distrito de los Lagos, Inglaterra (© Alex Treadway/Getty Images)",
-        "copyrightKeyword": "Lake District Inglaterra",
-        "hsh": "48966e88a4bf12a395ea553a2195081f"
+        "hsh": "87d90f329e6f469ec432af98a19b6fdf"
     }
 ]
