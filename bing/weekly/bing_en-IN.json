@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611131830",
+        "date": "20261114",
+        "url": "https://www.bing.com/th?id=OHR.BlueHK_EN-IN1948913499_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BlueHK_EN-IN1948913499",
+        "copyright": "Victoria Harbour, Hong Kong, China (© Juan Romero/Cavan Images)",
+        "copyrightKeyword": "Victoria Harbour Hong Kong",
+        "hsh": "6216f981c05c9a2ac3b95a399cbb4d34",
+        "description": "Welcome to Hong Kong, home to the world's largest collection of skyscrapers. Those pictured here tower above Victoria Harbour, whose deep waters allowed the island to develop as a busy trading port. Ships carrying tea, silk and other goods have passed through since the 1840s, but growth rocketed in the decades after World War II, fuelling a construction boom. With little flat land available between the harbour and the hills, developers had to build upwards, creating this distinctive skyline. In 2026, Hong Kong has 569 buildings above 150 metres high – more than any other city.",
+        "maplink": "22.285,114.165"
+    },
+    {
         "fullstartdate": "202611121830",
         "date": "20261113",
         "url": "https://www.bing.com/th?id=OHR.ChhathPuja2026_EN-IN1437573581_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DakotaBison_EN-IN0635434875",
         "copyright": "A bison in the grasslands of Theodore Roosevelt National Park, North Dakota, USA (© Tandem Stock/Adobe Stock)",
         "copyrightKeyword": "American bison",
-        "hsh": "104db1a5f49c342b06a2db1b9e3a2e72",
-        "description": "Bison are among the largest land mammals in the world, capable of weighing up to 900 kilograms and reaching speeds of 65 kilometres per hour despite their massive size. Despite often being called a buffalo, the American bison is not one of the true buffaloes, which are native to Africa and Asia. Its scientific name, Bison bison, leaves little room for confusion.",
-        "maplink": "47.275714,-103.463282"
-    },
-    {
-        "fullstartdate": "202611051830",
-        "date": "20261106",
-        "url": "https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-IN0566152296_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-IN0566152296",
-        "copyright": "Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii, USA (© MNStudio/Getty Images)",
-        "copyrightKeyword": "Haleakala National Park",
-        "hsh": "484ab361241da170d44716f17db6f7a7"
+        "hsh": "104db1a5f49c342b06a2db1b9e3a2e72"
     }
 ]

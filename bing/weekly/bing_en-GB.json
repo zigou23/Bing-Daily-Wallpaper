@@ -1,12 +1,23 @@
 [
     {
+        "fullstartdate": "202611140000",
+        "date": "20261115",
+        "url": "https://www.bing.com/th?id=OHR.BlueHK_EN-GB3274323919_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BlueHK_EN-GB3274323919",
+        "copyright": "Victoria Harbour, Hong Kong, China (© Juan Romero/Cavan Images)",
+        "copyrightKeyword": "Victoria Harbour Hong Kong",
+        "hsh": "cb02cec0bcd7cb6bf676dfddda27fa2e",
+        "description": "Welcome to Hong Kong, home to more skyscrapers than any other city in the world. Those pictured here tower above Victoria Harbour, whose deep waters helped the island develop into a busy trading port. Ships carrying tea, silk and other goods have passed through since the 1840s, but growth accelerated in the decades after the Second World War, fuelling a construction boom. With little flat land available between the harbour and the hills, developers had to build upwards, creating this distinctive skyline. As of 2026, Hong Kong has 569 completed buildings at least 150 metres tall — more than any other city in the world.",
+        "maplink": "22.285,114.165"
+    },
+    {
         "fullstartdate": "202611130000",
         "date": "20261114",
         "url": "https://www.bing.com/th?id=OHR.AbrahamCanada_EN-GB1908527515_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.AbrahamCanada_EN-GB1908527515",
         "copyright": "Abraham Lake in Alberta, Canada (© Guang Cao/Getty Images)",
         "copyrightKeyword": "Abraham Lake Alberta",
-        "hsh": "6b44e80fb5b3057b9733d0d2b540fb93",
+        "hsh": "3e53ed9f027f9f2ab8185b617cbbad8d",
         "description": "Dawn's first light reflects off the frozen surface of Abraham Lake, framed by the peaks of the Rocky Mountains. In winter, this picturesque lake in Alberta is famous for its frozen methane bubbles, trapped beneath the ice. Strong winds keep the ice largely clear of snow, revealing the bubbles below throughout the winter. As spring arrives and the ice thaws, the trapped gas can escape into the atmosphere.",
         "maplink": "52.1392,-116.4355"
     },
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DakotaBison_EN-GB4535875354",
         "copyright": "A bison in the grasslands of Theodore Roosevelt National Park, North Dakota, USA (© Tandem Stock/Adobe Stock)",
         "copyrightKeyword": "American bison",
-        "hsh": "2db865431ec244796c0285c213acf831",
-        "description": "Bison are among the largest land mammals in the world, capable of weighing up to 900 kilograms and reaching speeds of 65 kilometres per hour despite their massive size. Despite often being called a buffalo, the American bison is not one of the true buffaloes, which are native to Africa and Asia. Its scientific name, Bison bison, leaves little room for confusion.",
-        "maplink": "47.275714,-103.463282"
-    },
-    {
-        "fullstartdate": "202611060000",
-        "date": "20261107",
-        "url": "https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-GB4651327269_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-GB4651327269",
-        "copyright": "Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii, USA (© MNStudio/Getty Images)",
-        "copyrightKeyword": "Haleakala National Park",
-        "hsh": "98603fa774d61754cd70bac4db684eb8"
+        "hsh": "2db865431ec244796c0285c213acf831"
     }
 ]

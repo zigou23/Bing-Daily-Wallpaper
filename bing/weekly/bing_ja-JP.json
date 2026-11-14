@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611131500",
+        "date": "20261114",
+        "url": "https://www.bing.com/th?id=OHR.BlueHK_JA-JP0477081186_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BlueHK_JA-JP0477081186",
+        "copyright": "ビクトリア・ハーバー、香港、中国 (© Juan Romero/Cavan Images)",
+        "copyrightKeyword": "ビクトリア・ハーバー 香港",
+        "hsh": "5d42d27196ff90d27166fb6428d33938",
+        "description": "超高層ビルの数が世界一の街、香港へようこそ。ビクトリア・ハーバー沿いにビルがひしめくのは、港と山の間に平地がほとんどなく、戦後の建設ラッシュで上に伸びるしかなかったためです。2026年現在、高さ150m以上のビルは569棟にのぼり、世界のどの都市よりも多くなっています。",
+        "maplink": "22.285,114.165"
+    },
+    {
         "fullstartdate": "202611121500",
         "date": "20261113",
         "url": "https://www.bing.com/th?id=OHR.AbrahamCanada_JA-JP9609532400_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DakotaBison_JA-JP7700625518",
         "copyright": "セオドア・ルーズベルト国立公園の草原にいるバイソン、ノースダコタ州、アメリカ (© Tandem Stock/Adobe Stock)",
         "copyrightKeyword": "アメリカバイソン",
-        "hsh": "aa6c8953393781e63d560841ab971e2e",
-        "description": "北米の草原に暮らすアメリカバイソンは、世界でも最大級の陸上哺乳類です。体重は900キロほどにもなりますが、時速約65キロで走ることができます。「バッファロー」と呼ばれることもありますが、アフリカやアジアにすむ本来のバッファローとは別の動物です。肩の大きなこぶは発達した筋肉で、冬は頭を左右に振って雪をかき分け、その下の草を探します。しっぽを見れば気分もわかり、ゆったり揺れていれば落ち着いているサイン、ピンと立っていたら興奮しているのかもしれません。一時は絶滅寸前まで追い込まれましたが、保護活動によって少しずつ数を取り戻してきました。",
-        "maplink": "47.275714,-103.463282"
-    },
-    {
-        "fullstartdate": "202611051500",
-        "date": "20261106",
-        "url": "https://www.bing.com/th?id=OHR.PipiwaiTrail_JA-JP1383562325_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PipiwaiTrail_JA-JP1383562325",
-        "copyright": "ピピワイ・トレイルの竹林、ハレアカラ国立公園、マウイ島、ハワイ、アメリカ (© MNStudio/Getty Images)",
-        "copyrightKeyword": "ハレアカラ国立公園",
-        "hsh": "7b6fdd76655e9b844daf6317f3d1bb20"
+        "hsh": "aa6c8953393781e63d560841ab971e2e"
     }
 ]
