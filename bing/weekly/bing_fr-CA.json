@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611140500",
+        "date": "20261114",
+        "url": "https://www.bing.com/th?id=OHR.BlueHK_FR-CA9031313187_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BlueHK_FR-CA9031313187",
+        "copyright": "Port Victoria, Hong Kong, Chine (© Juan Romero/Cavan Images)",
+        "copyrightKeyword": "Port Victoria Hong Kong",
+        "hsh": "b42e5675482225fe72b42a90c17d4e10",
+        "description": "Bienvenue à Hong Kong, qui abrite la plus forte concentration de gratte-ciel au monde. Ceux que l'on voit ici dominent le port Victoria, dont les eaux profondes ont favorisé le développement de l'île comme important carrefour commercial. Depuis les années 1840, des navires transportant du thé, de la soie et d'autres marchandises y transitent. Après la Seconde Guerre mondiale, la croissance économique a toutefois accéléré le rythme des constructions. Avec peu de terrains plats disponibles entre le port et les collines, la ville s'est développée vers le haut, façonnant un panorama urbain unique. En 2026, Hong Kong compte 569 immeubles de plus de 150 mètres de hauteur, soit davantage que toute autre ville du monde.",
+        "maplink": "22.285,114.165"
+    },
+    {
         "fullstartdate": "202611130500",
         "date": "20261113",
         "url": "https://www.bing.com/th?id=OHR.AbrahamCanada_FR-CA8820127726_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DakotaBison_FR-CA7354389540",
         "copyright": "Bison dans les prairies du parc national Theodore Roosevelt, Dakota du Nord, États-Unis (© Tandem Stock/Adobe Stock)",
         "copyrightKeyword": "Bison",
-        "hsh": "d62e2acee9680d0cc460449168a6c1af",
-        "description": "Pouvant peser jusqu’à 900 kg et courir à plus de 55 km/h, le bison est devenu le mammifère national des États-Unis en 2016. Malgré son surnom fréquent de « buffle », il appartient à une espèce distincte. Adapté aux hivers rigoureux, il utilise sa puissante tête pour dégager la neige et atteindre l’herbe. Autrefois au bord de l’extinction, le bison a réalisé un remarquable retour grâce aux efforts de conservation, devenant aujourd’hui un symbole de résilience et de préservation de la faune.",
-        "maplink": "47.275714,-103.463282"
-    },
-    {
-        "fullstartdate": "202611060500",
-        "date": "20261106",
-        "url": "https://www.bing.com/th?id=OHR.PipiwaiTrail_FR-CA2178065377_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PipiwaiTrail_FR-CA2178065377",
-        "copyright": "Forêt de bambous, sentier Pīpīwai, parc national de Haleakalā, Maui, Hawaï, États-Unis (© MNStudio/Getty Images)",
-        "copyrightKeyword": "Parc National Haleakala",
-        "hsh": "64ada662fa0d6cf430614948680ea54c"
+        "hsh": "d62e2acee9680d0cc460449168a6c1af"
     }
 ]

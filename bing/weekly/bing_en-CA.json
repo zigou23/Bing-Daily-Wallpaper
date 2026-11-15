@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611140500",
+        "date": "20261114",
+        "url": "https://www.bing.com/th?id=OHR.BlueHK_EN-CA2709774125_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BlueHK_EN-CA2709774125",
+        "copyright": "Victoria Harbour, Hong Kong, China (© Juan Romero/Cavan Images)",
+        "copyrightKeyword": "Victoria Harbour Hong Kong",
+        "hsh": "1804cd7664a077659cead19027dc1d15",
+        "description": "Welcome to Hong Kong, home to the world's largest collection of skyscrapers. Those pictured here tower above Victoria Harbour, whose deep waters allowed the island to develop as a busy trading port. Ships carrying tea, silk and other goods have passed through since the 1840s, but growth rocketed in the decades after World War II, fuelling a construction boom. With little flat land available between the harbour and the hills, developers had to build upward, creating this distinctive skyline. In 2026, Hong Kong has 569 completed buildings at least 150 metres tall — more than any other city.",
+        "maplink": "22.285,114.165"
+    },
+    {
         "fullstartdate": "202611130500",
         "date": "20261113",
         "url": "https://www.bing.com/th?id=OHR.AbrahamCanada_EN-CA3327574008_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DakotaBison_EN-CA6055061732",
         "copyright": "A bison in the grasslands of Theodore Roosevelt National Park, North Dakota, USA (© Tandem Stock/Adobe Stock)",
         "copyrightKeyword": "Bison",
-        "hsh": "06c00699e357cde481950b98c1145147",
-        "description": "One of North America's most remarkable animals, the bison is a powerful symbol of strength, resilience and conservation. Weighing as much as 900 kilograms (2,000 pounds) and capable of running up to 55 km/h (35 mph), bison are surprisingly agile. Despite being commonly called buffalo, American bison are a distinct species known for their massive shoulder hump, curved horns and shaggy coats that help them thrive through harsh winters. Once pushed to the brink of extinction, bison have made an inspiring comeback thanks to conservation efforts across Canada and the United States, making them a powerful example of successful wildlife recovery.",
-        "maplink": "47.275714,-103.463282"
-    },
-    {
-        "fullstartdate": "202611060500",
-        "date": "20261106",
-        "url": "https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-CA6167003961_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-CA6167003961",
-        "copyright": "Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii, USA (© MNStudio/Getty Images)",
-        "copyrightKeyword": "Haleakala National Park",
-        "hsh": "276a97f6219d91a91fbc04ce1ad3c9fb"
+        "hsh": "06c00699e357cde481950b98c1145147"
     }
 ]

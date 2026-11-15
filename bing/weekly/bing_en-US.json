@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611140800",
+        "date": "20261114",
+        "url": "https://www.bing.com/th?id=OHR.BlueHK_EN-US7870996687_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BlueHK_EN-US7870996687",
+        "copyright": "Victoria Harbour, Hong Kong, China (© Juan Romero/Cavan Images)",
+        "copyrightKeyword": "Victoria Harbour Hong Kong",
+        "hsh": "33e79839f41e9f007d5d05fb55d905b4",
+        "description": "Welcome to Hong Kong, home to the world's largest collection of skyscrapers. Those pictured here tower above Victoria Harbour, whose deep waters allowed the island to develop as a busy trading port. Ships carrying tea, silk, and other goods have passed through since the 1840s, but growth rocketed in the decades after World War II, fueling a construction boom. With little flat land available between the harbor and the hills, developers had to build upward, creating this distinctive skyline. In 2026, Hong Kong has 569 buildings above 492 feet high—more than any other city.",
+        "maplink": "22.285,114.165"
+    },
+    {
         "fullstartdate": "202611130800",
         "date": "20261113",
         "url": "https://www.bing.com/th?id=OHR.AbrahamCanada_EN-US3455540217_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DakotaBison_EN-US0710175615",
         "copyright": "A bison in the grasslands of Theodore Roosevelt National Park, North Dakota (© Tandem Stock/Adobe Stock)",
         "copyrightKeyword": "National Bison Day",
-        "hsh": "14f52a3cfe0e742954ce9e56d6b1dc46",
-        "description": "When the going gets tough, the bison gets grazing. National Bison Day celebrates the North American mammal that can weigh up to 2,000 pounds yet sprint at 35 mph. Observed on the first Saturday of November, the day honors the bovine that became the United States' national mammal in 2016.",
-        "maplink": "47.275714,-103.463282"
-    },
-    {
-        "fullstartdate": "202611060800",
-        "date": "20261106",
-        "url": "https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-US0631882545_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-US0631882545",
-        "copyright": "Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii (© MNStudio/Getty Images)",
-        "copyrightKeyword": "Haleakala National Park",
-        "hsh": "2b8827c13484500ffaf00dd7575ed652"
+        "hsh": "14f52a3cfe0e742954ce9e56d6b1dc46"
     }
 ]

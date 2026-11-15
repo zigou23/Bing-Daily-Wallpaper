@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202611141500",
+        "date": "20261115",
+        "url": "https://www.bing.com/th?id=OHR.FirstFrost_JA-JP1519167944_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FirstFrost_JA-JP1519167944",
+        "copyright": "赤い葉に霜が降りたツツジ (© avoferten/Shutterstock)",
+        "copyrightKeyword": "ツツジ",
+        "hsh": "5e077c3194efc7e1671b302c5c8a4e62",
+        "description": "初霜が降りると、常緑低木のツツジの葉に氷の結晶ができます。気温が下がると、緑の葉は赤や紫に色づきます。このときつくられる新しい色素が、葉を寒さから守っているのです。白い霜をまとった赤い葉は、秋の庭をひときわ鮮やかに彩ります。春になれば新しい葉が出て、また緑に包まれます。"
+    },
+    {
         "fullstartdate": "202611131500",
         "date": "20261114",
         "url": "https://www.bing.com/th?id=OHR.BlueHK_JA-JP0477081186_1920x1080.jpg",
@@ -71,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DiwaliLamps_JA-JP0443643151",
         "copyright": "ディーワーリーを彩るランタン、ムンバイ、マハーラーシュトラ州、インド (© Dinodia Photo/Getty Images)",
         "copyrightKeyword": "ディーワーリー",
-        "hsh": "3b1dc83674b44bbb86e3e998fb56169b",
-        "description": "ディーワーリーは、新月の暗い夜を明るく照らす「光の祭典」です。世界中で多くの人々が祝い、ディヤーと呼ばれる小さな灯明やランタンをともし、色鮮やかなランゴーリーで辺りを飾り、家族でお菓子を分け合います。ヒンドゥー教をはじめ、ジャイナ教やシク教でも大切にされている祝祭で、名前はサンスクリット語で「光の列」を意味する「ディーパーヴァリ」に由来します。",
-        "maplink": "18.969048,72.821182"
-    },
-    {
-        "fullstartdate": "202611061500",
-        "date": "20261107",
-        "url": "https://www.bing.com/th?id=OHR.DakotaBison_JA-JP7700625518_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DakotaBison_JA-JP7700625518",
-        "copyright": "セオドア・ルーズベルト国立公園の草原にいるバイソン、ノースダコタ州、アメリカ (© Tandem Stock/Adobe Stock)",
-        "copyrightKeyword": "アメリカバイソン",
-        "hsh": "aa6c8953393781e63d560841ab971e2e"
+        "hsh": "3b1dc83674b44bbb86e3e998fb56169b"
     }
 ]
