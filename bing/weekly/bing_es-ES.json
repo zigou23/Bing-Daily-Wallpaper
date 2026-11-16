@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611152300",
+        "date": "20261116",
+        "url": "https://www.bing.com/th?id=OHR.GilaCliff_ES-ES3316486595_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GilaCliff_ES-ES3316486595",
+        "copyright": "Monumento de las Viviendas en los Acantilados de Gila (© Chiara Salvadori/Getty Images)",
+        "copyrightKeyword": "Monumento Nacional Casas Acantilado Gila",
+        "hsh": "fe2edfdd6f163d356412f0f545da4fff",
+        "description": "Unas vistas impresionantes y unos cimientos sólidos forman parte del encanto de estas antiguas viviendas excavadas en un acantilado de Nuevo México. Los nómadas utilizaban desde hacía tiempo las cuevas naturales sobre el arroyo Cliff Dweller como refugio temporal, pero fue el pueblo indígena mogollón quien las convirtió en su hogar.",
+        "maplink": "33.254028,-108.272634"
+    },
+    {
         "fullstartdate": "202611142300",
         "date": "20261115",
         "url": "https://www.bing.com/th?id=OHR.FirstFrost_ES-ES3306321438_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.TrianaSpain_ES-ES2622392783",
         "copyright": "Distrito histórico de Triana, Sevilla, España (© Andrzej Rostek/Getty Images)",
         "copyrightKeyword": "Sevilla España",
-        "hsh": "22609edbd002fda459162439ef8d4994",
-        "description": "Cross the Guadalquivir River in Seville, the capital of Spain's Andalusia region, and the city's rhythm seems to change. On the other side lies Triana, a colorful neighborhood where ceramics, flamenco, and local traditions are woven into everyday life. Since the 19th century, the Isabel II Bridge, also known as the Triana Bridge, has connected the neighborhood to Seville's historic center.",
-        "maplink": "37.382904,-6.006341"
-    },
-    {
-        "fullstartdate": "202611072300",
-        "date": "20261108",
-        "url": "https://www.bing.com/th?id=OHR.DiwaliLamps_ES-ES3505917135_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DiwaliLamps_ES-ES3505917135",
-        "copyright": "Linternas del Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)",
-        "copyrightKeyword": "Diwali",
-        "hsh": "666cb39558c08a5cffa7f216fb4bd9b1"
+        "hsh": "22609edbd002fda459162439ef8d4994"
     }
 ]
