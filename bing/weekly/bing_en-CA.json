@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611160500",
+        "date": "20261116",
+        "url": "https://www.bing.com/th?id=OHR.GilaCliff_EN-CA1952203135_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GilaCliff_EN-CA1952203135",
+        "copyright": "Gila Cliff Dwellings National Monument, New Mexico, USA (© Chiara Salvadori/Getty Images)",
+        "copyrightKeyword": "Gila Cliff Dwellings National Monument",
+        "hsh": "eeaf1e61696187fd035aa4d11d8742ad",
+        "description": "Incredible views and rock-solid foundations are part of the charm of these ancient dwellings, set into the cliffside in New Mexico. Nomads had long used the natural caves above Cliff Dweller Creek as temporary shelter, but it was the Native American Mogollon people who made them their home. Archaeologists believe they created dozens of rooms inside five alcoves in the 1270s and 1280s. Up to 15 families lived here at any one time, raising children, making pottery and overlooking the fertile Gila River valley where they grew crops and hunted wildlife. For reasons unknown, the Mogollon people moved on around 1300, leaving behind one of the American Southwest's most important archaeological sites.",
+        "maplink": "33.254028,-108.272634"
+    },
+    {
         "fullstartdate": "202611150500",
         "date": "20261115",
         "url": "https://www.bing.com/th?id=OHR.FirstFrost_EN-CA1501787869_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.TrianaSpain_EN-CA5715664258",
         "copyright": "Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images)",
         "copyrightKeyword": "Seville Spain",
-        "hsh": "6b946af758fdf23b64d7e2851527ccb1",
-        "description": "Cross the Guadalquivir River and discover Triana, one of Seville’s most vibrant neighbourhoods. Connected to the city’s historic centre by the iconic Triana Bridge since the 19th century, this riverside district is known for its colourful ceramics, flamenco heritage and lively local culture. Brightly decorated buildings, traditional tile workshops and bustling markets give Triana a character all its own. Stroll along Calle Betis for scenic river views, explore streets lined with artisan studios, or simply soak up the neighbourhood’s welcoming atmosphere. While Seville’s famous landmarks are just steps away, Triana offers a unique glimpse into the traditions, creativity and everyday life that help define Andalusia.",
-        "maplink": "37.382904,-6.006341"
-    },
-    {
-        "fullstartdate": "202611080500",
-        "date": "20261108",
-        "url": "https://www.bing.com/th?id=OHR.DiwaliLamps_EN-CA5815375040_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DiwaliLamps_EN-CA5815375040",
-        "copyright": "Lanterns for Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)",
-        "copyrightKeyword": "Diwali",
-        "hsh": "1eb56b66ed63af9a94d83beba22ae8de"
+        "hsh": "6b946af758fdf23b64d7e2851527ccb1"
     }
 ]

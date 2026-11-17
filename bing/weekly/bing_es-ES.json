@@ -1,12 +1,23 @@
 [
     {
+        "fullstartdate": "202611162300",
+        "date": "20261117",
+        "url": "https://www.bing.com/th?id=OHR.TrailCedars_ES-ES7366091421_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TrailCedars_ES-ES7366091421",
+        "copyright": "Sendero de los Cedros, Montana, EE. UU. (© DBushue Photography/Getty Images)",
+        "copyrightKeyword": "Sendero de los cedros Montana",
+        "hsh": "09ee5f5a7f31803b22ecca0e29bbf10d",
+        "description": "¡Hora de practicar senderismo! Es el momento de respirar el aire fresco del otoño y adentrarse en plena naturaleza. La imagen muestra el Sendero de los Cedros, uno de los más de 1.125 kilómetros de rutas del Parque Nacional de los Glaciares, en Montana. Su circuito de 1,4 kilómetros incluye una pasarela elevada entre cedros rojos occidentales y tsugas.",
+        "maplink": "48.706957,-113.817235"
+    },
+    {
         "fullstartdate": "202611152300",
         "date": "20261116",
         "url": "https://www.bing.com/th?id=OHR.GilaCliff_ES-ES3316486595_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.GilaCliff_ES-ES3316486595",
         "copyright": "Monumento de las Viviendas en los Acantilados de Gila (© Chiara Salvadori/Getty Images)",
         "copyrightKeyword": "Monumento Nacional Casas Acantilado Gila",
-        "hsh": "fe2edfdd6f163d356412f0f545da4fff",
+        "hsh": "3ae2db35ca98900ca012f4c0b2d63fd3",
         "description": "Unas vistas impresionantes y unos cimientos sólidos forman parte del encanto de estas antiguas viviendas excavadas en un acantilado de Nuevo México. Los nómadas utilizaban desde hacía tiempo las cuevas naturales sobre el arroyo Cliff Dweller como refugio temporal, pero fue el pueblo indígena mogollón quien las convirtió en su hogar.",
         "maplink": "33.254028,-108.272634"
     },
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.RoseIsland_ES-ES2836865726",
         "copyright": "Vista aérea de Rose Island, Bahamas (© Abstract Aerial Art/Getty Images)",
         "copyrightKeyword": "Rose Island Bahamas",
-        "hsh": "1bafa4a35ee415536da828f6e7234b55",
-        "description": "Vista desde arriba, Rose Island parece una pincelada verde rodeada por todos los matices del azul. A solo 4,8 kilómetros al este de Paradise Island, en las Bahamas, este estrecho cayo cambia las carreteras transitadas y las manzanas urbanas por costas arenosas, aguas poco profundas y una laguna interior. Su apacible apariencia también guarda un toque de dramatismo cinematográfico. Rose Island sirvió como localización para la película de James Bond.",
-        "maplink": "25.088243,-77.225304"
-    },
-    {
-        "fullstartdate": "202611082300",
-        "date": "20261109",
-        "url": "https://www.bing.com/th?id=OHR.TrianaSpain_ES-ES2622392783_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.TrianaSpain_ES-ES2622392783",
-        "copyright": "Distrito histórico de Triana, Sevilla, España (© Andrzej Rostek/Getty Images)",
-        "copyrightKeyword": "Sevilla España",
-        "hsh": "22609edbd002fda459162439ef8d4994"
+        "hsh": "1bafa4a35ee415536da828f6e7234b55"
     }
 ]

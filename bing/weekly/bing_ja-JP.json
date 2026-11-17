@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611161500",
+        "date": "20261117",
+        "url": "https://www.bing.com/th?id=OHR.TrailCedars_JA-JP3850490248_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TrailCedars_JA-JP3850490248",
+        "copyright": "トレイル・オブ・ザ・シーダーズ、グレイシャー国立公園、モンタナ州、アメリカ (© DBushue Photography/Getty Images)",
+        "copyrightKeyword": "グレイシャー国立公園",
+        "hsh": "998c7088d9dae51caea9124444aeb958",
+        "description": "モンタナ州のグレイシャー国立公園にある「トレイル・オブ・ザ・シーダーズ」は、約1.4kmの周回コースです。ベイスギやベイツガの原生林の中を木道が通り、樹齢500年を超える巨木も見られます。コースの中ほどにある橋からは、アバランチ・クリークが削った渓谷を見下ろせます。短くて歩きやすく、車いすでも楽しめるので、気軽に森の空気を味わいたいときにぴったりです。",
+        "maplink": "48.706957,-113.817235"
+    },
+    {
         "fullstartdate": "202611151500",
         "date": "20261116",
         "url": "https://www.bing.com/th?id=OHR.GilaCliff_JA-JP2766300250_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.RoseIsland_JA-JP3257968381",
         "copyright": "ローズ島の空撮、バハマ (© Abstract Aerial Art/Getty Images)",
         "copyrightKeyword": "ローズ島 バハマ",
-        "hsh": "f5743d1d23a5574d4186f2dd4e6d140a",
-        "description": "上空から眺めるローズ島は、さまざまな青に囲まれた緑のひと筆のように見えます。バハマのパラダイス島から東へ約5キロの場所にある細長い島で、砂浜や浅瀬、島内のラグーンが広がっています。この穏やかな島は、1965年のジェームズ・ボンド映画「007 サンダーボール作戦」のロケ地として使われたほか、泳ぐ豚でも知られています。透明な海と白い砂が織りなすターコイズブルーや深い青のグラデーションは、真上から見下ろすといっそう鮮やかです。",
-        "maplink": "25.088243,-77.225304"
-    },
-    {
-        "fullstartdate": "202611081500",
-        "date": "20261109",
-        "url": "https://www.bing.com/th?id=OHR.TrianaSpain_JA-JP2076026093_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.TrianaSpain_JA-JP2076026093",
-        "copyright": "セビリアの歴史地区トリアナ、スペイン (© Andrzej Rostek/Getty Images)",
-        "copyrightKeyword": "セビリア スペイン",
-        "hsh": "1c2d1936e9790d9e76b67d6a45d2ce6e"
+        "hsh": "f5743d1d23a5574d4186f2dd4e6d140a"
     }
 ]
