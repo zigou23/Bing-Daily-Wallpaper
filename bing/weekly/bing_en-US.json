@@ -1,12 +1,23 @@
 [
     {
+        "fullstartdate": "202611170800",
+        "date": "20261117",
+        "url": "https://www.bing.com/th?id=OHR.TrailCedars_EN-US2240500417_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TrailCedars_EN-US2240500417",
+        "copyright": "Trail of the Cedars, Glacier National Park, Montana (© DBushue Photography/Getty Images)",
+        "copyrightKeyword": "Take a Hike Day",
+        "hsh": "26808cee991f9a84e7d473324ca022b6",
+        "description": "Happy National Take a Hike Day! It's time to breathe in that crisp fall air and step into the great outdoors. Today's image features the Trail of the Cedars, one of 700 miles of hiking trails in Glacier National Park, Montana. Its 0.9-mile-long loop includes a raised boardwalk which cuts a path through western red cedars and hemlock trees. The park boasts routes for all abilities, taking in alpine lakes, wildflower meadows, mountain passes, and wilderness stretching to the Canadian border. But if you don't have spectacular scenery on your doorstep, a short stroll along a tree-lined street is an easy way to celebrate and enjoy the benefits of getting out, as the days draw in.",
+        "maplink": "48.706957,-113.817235"
+    },
+    {
         "fullstartdate": "202611160800",
         "date": "20261116",
         "url": "https://www.bing.com/th?id=OHR.GilaCliff_EN-US2139490645_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.GilaCliff_EN-US2139490645",
         "copyright": "Gila Cliff Dwellings National Monument, New Mexico (© Chiara Salvadori/Getty Images)",
         "copyrightKeyword": "Gila Cliff Dwellings National Monument",
-        "hsh": "7fbc94216ff3700401f38338309c7e7a",
+        "hsh": "95388ad7c36f2013e54c9accd7993cfa",
         "description": "Incredible views and rock-solid foundations are part of the charm of these ancient dwellings, set into the cliffside in New Mexico. Nomads had long used the natural caves above Cliff Dweller Creek as temporary shelter, but it was the Native American Mogollon people who made them their home. Archaeologists believe they created dozens of rooms inside five alcoves in the 1270s and 1280s. Up to 15 families lived here at any one time, raising children, making pottery, and overlooking the fertile Gila River valley where they grew crops and hunted wildlife. For reasons unknown, the Mogollon people moved on around 1300, leaving behind one of the American Southwest's most important archaeological sites. On November 16, 1907, President Theodore Roosevelt designated the area as Gila Cliff Dwellings National Monument, helping to ensure its preservation for future generations.",
         "maplink": "33.254028,-108.272634"
     },
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.RoseIsland_EN-US0952497192",
         "copyright": "Aerial view of Rose Island, The Bahamas (© Abstract Aerial Art/Getty Images)",
         "copyrightKeyword": "Rose Island Bahamas",
-        "hsh": "906a7ee004b4d01b78739ea1b8884d87",
-        "description": "From above, Rose Island looks like a brushstroke of green surrounded by every shade of blue. Just three miles east of Paradise Island in The Bahamas, this slender cay trades busy roads and city blocks for sandy shores, shallow waters, and an inland lagoon. Its peaceful appearance comes with a touch of movie drama. Rose Island was used as a filming location for the 1965 James Bond adventure 'Thunderball,' including the explosive destruction of the Disco Volante.",
-        "maplink": "25.088243,-77.225304"
-    },
-    {
-        "fullstartdate": "202611090800",
-        "date": "20261109",
-        "url": "https://www.bing.com/th?id=OHR.TrianaSpain_EN-US0872031458_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.TrianaSpain_EN-US0872031458",
-        "copyright": "Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images)",
-        "copyrightKeyword": "Seville Spain",
-        "hsh": "24e7edf576b87093c4290a3e8eb157c3"
+        "hsh": "906a7ee004b4d01b78739ea1b8884d87"
     }
 ]
