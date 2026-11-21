@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611202300",
+        "date": "20261121",
+        "url": "https://www.bing.com/th?id=OHR.RedNice_DE-DE7638538750_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.RedNice_DE-DE7638538750",
+        "copyright": "Nizza, Provence-Alpes-Côte d'Azur, Frankreich (© Siripong Kaewla-iad/Getty Images)",
+        "copyrightKeyword": "Nizza Frankreich",
+        "hsh": "d5dc30910e6b80aa335160825890c0a2",
+        "description": "In sanftes Sonnenlicht getaucht, präsentiert sich die Altstadt von Nizza auf dem heutigen Bild als ein Mosaik aus mediterranen Terrakotta-Dächern, alten Kirchtürmen und Häuserfassaden in Pastelltönen entlang der französischen Riviera. Von den alten Griechen gegründet und lange Zeit mit dem italienischen Königshaus Savoyen verbunden, wurde Nizza 1860 offiziell Teil Frankreichs. Bis heute ist diese facettenreiche Vergangenheit in der südfranzösischen Küstenstadt sichtbar, wo Architektur der alten Welt auf das Blau des Mittelmeers und die sonnigen Hügel der Côte d’Azur trifft.",
+        "maplink": "43.70094,7.26839"
+    },
+    {
         "fullstartdate": "202611192300",
         "date": "20261120",
         "url": "https://www.bing.com/th?id=OHR.Megaptera_DE-DE6966438629_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BlueHK_DE-DE1662761141",
         "copyright": "Victoria Harbour, Hongkong, China (© Juan Romero/Cavan Images)",
         "copyrightKeyword": "Victoria Harbour Hongkong",
-        "hsh": "58304e0446787beabccd167e3c2262d9",
-        "description": "Willkommen in Hongkong, der Stadt mit der weltweit höchsten Anzahl an Wolkenkratzern. Die hier abgebildeten Hochhäuser überragen den Victoria Harbour, der sich dank seiner tiefen Gewässer zum geschäftigen Handelshafen der Insel entwickelt hat. Seit den 1840er Jahren laufen hier Schiffe mit Tee, Seide und anderen Waren ein und aus, doch erst in den Jahrzehnten nach dem Zweiten Weltkrieg nahm das Wachstum rasant zu und löste einen Bauboom aus. Da zwischen dem Hafen und den Hügeln nur wenig flaches Land zur Verfügung stand, mussten Bauunternehmer in die Höhe bauen und haben so diese einzigartige Skyline geschaffen. Im Jahr 2026 zählt Hongkong 569 Gebäude, die höher als 150 Meter sind – mehr als jede andere Stadt.",
-        "maplink": "22.285,114.165"
-    },
-    {
-        "fullstartdate": "202611122300",
-        "date": "20261113",
-        "url": "https://www.bing.com/th?id=OHR.AbrahamCanada_DE-DE1158881043_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AbrahamCanada_DE-DE1158881043",
-        "copyright": "Abraham Lake in Alberta, Kanada (© Guang Cao/Getty Images)",
-        "copyrightKeyword": "Abraham Lake Stausee Kanada",
-        "hsh": "9e64cc7d2daae700b94079ffb9a177ef"
+        "hsh": "58304e0446787beabccd167e3c2262d9"
     }
 ]

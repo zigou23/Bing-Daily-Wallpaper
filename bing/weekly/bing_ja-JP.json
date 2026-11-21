@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611201500",
+        "date": "20261121",
+        "url": "https://www.bing.com/th?id=OHR.RedNice_JA-JP4725682184_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.RedNice_JA-JP4725682184",
+        "copyright": "ニース、プロヴァンス＝アルプ＝コート・ダジュール地域圏、フランス (© Siripong Kaewla-iad/Getty Images)",
+        "copyrightKeyword": "ニース フランス",
+        "hsh": "672431e4846482bc1e4ba94fd8b6fa16",
+        "description": "やわらかな陽光に包まれたニースは、テラコッタ色の屋根や歴史ある教会、パステルカラーの建物が寄り集まった、まるでパッチワークのような街です。古代ギリシャ人によって築かれたこの街は、長くサヴォイア家と深い関わりを持ち、正式にフランス領となったのは1860年でした。今も旧市街にはイタリアの面影が残り、古い街並みが紺碧の地中海と陽光あふれるコート・ダジュールの丘に溶け込んでいます。",
+        "maplink": "43.70094,7.26839"
+    },
+    {
         "fullstartdate": "202611191500",
         "date": "20261120",
         "url": "https://www.bing.com/th?id=OHR.Megaptera_JA-JP4163269980_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BlueHK_JA-JP0477081186",
         "copyright": "ビクトリア・ハーバー、香港、中国 (© Juan Romero/Cavan Images)",
         "copyrightKeyword": "ビクトリア・ハーバー 香港",
-        "hsh": "5d42d27196ff90d27166fb6428d33938",
-        "description": "超高層ビルの数が世界一の街、香港へようこそ。ビクトリア・ハーバー沿いにビルがひしめくのは、港と山の間に平地がほとんどなく、戦後の建設ラッシュで上に伸びるしかなかったためです。2026年現在、高さ150m以上のビルは569棟にのぼり、世界のどの都市よりも多くなっています。",
-        "maplink": "22.285,114.165"
-    },
-    {
-        "fullstartdate": "202611121500",
-        "date": "20261113",
-        "url": "https://www.bing.com/th?id=OHR.AbrahamCanada_JA-JP9609532400_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AbrahamCanada_JA-JP9609532400",
-        "copyright": "アブラハム湖、アルバータ州、カナダ (© Guang Cao/Getty Images)",
-        "copyrightKeyword": "アブラハム湖 アルバータ州",
-        "hsh": "f2f587fb584c0f04f9af5ffe982c19d6"
+        "hsh": "5d42d27196ff90d27166fb6428d33938"
     }
 ]
