@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611210800",
+        "date": "20261121",
+        "url": "https://www.bing.com/th?id=OHR.RedNice_EN-US9978351403_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.RedNice_EN-US9978351403",
+        "copyright": "Nice, Provence-Alpes-Côte d'Azur, France (© Siripong Kaewla-iad/Getty Images)",
+        "copyrightKeyword": "Nice France",
+        "hsh": "bdbf309e7d31d6f49a3c47bf1b9d1185",
+        "description": "Bathed in a sun-kissed glow, Nice is a patchwork of terracotta rooftops, historic churches, and pastel façades along the French Riviera, as seen in today's image. Founded by ancient Greeks and long connected to the Italian royal House of Savoy, Nice officially became part of France in 1860. Today, that layered past remains visible throughout the coastal city in the south of France, where old-world architecture meets the blue Mediterranean waters and sunlit hills of the Côte d'Azur.",
+        "maplink": "43.70094,7.26839"
+    },
+    {
         "fullstartdate": "202611200800",
         "date": "20261120",
         "url": "https://www.bing.com/th?id=OHR.Megaptera_EN-US1728719939_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BlueHK_EN-US7870996687",
         "copyright": "Victoria Harbour, Hong Kong, China (© Juan Romero/Cavan Images)",
         "copyrightKeyword": "Victoria Harbour Hong Kong",
-        "hsh": "33e79839f41e9f007d5d05fb55d905b4",
-        "description": "Welcome to Hong Kong, home to the world's largest collection of skyscrapers. Those pictured here tower above Victoria Harbour, whose deep waters allowed the island to develop as a busy trading port. Ships carrying tea, silk, and other goods have passed through since the 1840s, but growth rocketed in the decades after World War II, fueling a construction boom. With little flat land available between the harbor and the hills, developers had to build upward, creating this distinctive skyline. In 2026, Hong Kong has 569 buildings above 492 feet high—more than any other city.",
-        "maplink": "22.285,114.165"
-    },
-    {
-        "fullstartdate": "202611130800",
-        "date": "20261113",
-        "url": "https://www.bing.com/th?id=OHR.AbrahamCanada_EN-US3455540217_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AbrahamCanada_EN-US3455540217",
-        "copyright": "Abraham Lake in Alberta, Canada (© Guang Cao/Getty Images)",
-        "copyrightKeyword": "Abraham Lake Alberta",
-        "hsh": "6462c5aec6bd8ae03df5c691f2e6b4fc"
+        "hsh": "33e79839f41e9f007d5d05fb55d905b4"
     }
 ]

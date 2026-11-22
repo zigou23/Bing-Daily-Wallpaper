@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611210500",
+        "date": "20261121",
+        "url": "https://www.bing.com/th?id=OHR.RedNice_EN-CA5974961332_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.RedNice_EN-CA5974961332",
+        "copyright": "Nice, Provence-Alpes-Côte d'Azur, France (© Siripong Kaewla-iad/Getty Images)",
+        "copyrightKeyword": "Nice France",
+        "hsh": "bde8dd3e9394bb7b6a2c291a1a86de1b",
+        "description": "Bathed in a sun-kissed glow, Nice is a patchwork of terracotta rooftops, historic churches and pastel façades along the French Riviera, as seen in today's image. Founded by ancient Greeks and long connected to the Italian royal House of Savoy, Nice officially became part of France in 1860. Today, that layered past remains visible throughout the coastal city in the south of France, where old-world architecture meets the blue Mediterranean waters and sunlit hills of the Côte d'Azur.",
+        "maplink": "43.70094,7.26839"
+    },
+    {
         "fullstartdate": "202611200500",
         "date": "20261120",
         "url": "https://www.bing.com/th?id=OHR.Megaptera_EN-CA5111539661_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BlueHK_EN-CA2709774125",
         "copyright": "Victoria Harbour, Hong Kong, China (© Juan Romero/Cavan Images)",
         "copyrightKeyword": "Victoria Harbour Hong Kong",
-        "hsh": "1804cd7664a077659cead19027dc1d15",
-        "description": "Welcome to Hong Kong, home to the world's largest collection of skyscrapers. Those pictured here tower above Victoria Harbour, whose deep waters allowed the island to develop as a busy trading port. Ships carrying tea, silk and other goods have passed through since the 1840s, but growth rocketed in the decades after World War II, fuelling a construction boom. With little flat land available between the harbour and the hills, developers had to build upward, creating this distinctive skyline. In 2026, Hong Kong has 569 completed buildings at least 150 metres tall — more than any other city.",
-        "maplink": "22.285,114.165"
-    },
-    {
-        "fullstartdate": "202611130500",
-        "date": "20261113",
-        "url": "https://www.bing.com/th?id=OHR.AbrahamCanada_EN-CA3327574008_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AbrahamCanada_EN-CA3327574008",
-        "copyright": "Abraham Lake in Alberta (© Guang Cao/Getty Images)",
-        "copyrightKeyword": "Abraham Lake Alberta",
-        "hsh": "238de333ff196e47d1daa4ca3a4fd2ef"
+        "hsh": "1804cd7664a077659cead19027dc1d15"
     }
 ]

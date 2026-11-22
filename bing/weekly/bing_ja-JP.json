@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611211500",
+        "date": "20261122",
+        "url": "https://www.bing.com/th?id=OHR.JustaHermitage_JA-JP5350379708_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.JustaHermitage_JA-JP5350379708",
+        "copyright": "サンタ・フスタ礼拝堂、カンタブリア州、スペイン (© Tramont_ana/Getty Images)",
+        "copyrightKeyword": "サンタ・フスタ礼拝堂",
+        "hsh": "817c1206d091c9cb5ecefc8fa151b21c",
+        "description": "スペイン北部の荒々しい海岸線には、断崖に寄り添うように建つ小さな礼拝堂があります。16世紀に造られたサンタ・フスタ礼拝堂で、建物の一部は岩をくり抜いてつくられています。聖フスタと聖ルフィナの聖遺物を祀ったことから、やがてカンタブリア海沿岸でも早くから知られる巡礼地となりました。打ち寄せる波とごつごつした岩に囲まれながらも、石壁に守られた礼拝堂の姿は、まわりの力強い自然と見事なコントラストを描いています。",
+        "maplink": "43.42595,-4.09762"
+    },
+    {
         "fullstartdate": "202611201500",
         "date": "20261121",
         "url": "https://www.bing.com/th?id=OHR.RedNice_JA-JP4725682184_1920x1080.jpg",
@@ -71,16 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.FirstFrost_JA-JP1519167944",
         "copyright": "赤い葉に霜が降りたツツジ (© avoferten/Shutterstock)",
         "copyrightKeyword": "ツツジ",
-        "hsh": "5e077c3194efc7e1671b302c5c8a4e62",
-        "description": "初霜が降りると、常緑低木のツツジの葉に氷の結晶ができます。気温が下がると、緑の葉は赤や紫に色づきます。このときつくられる新しい色素が、葉を寒さから守っているのです。白い霜をまとった赤い葉は、秋の庭をひときわ鮮やかに彩ります。春になれば新しい葉が出て、また緑に包まれます。"
-    },
-    {
-        "fullstartdate": "202611131500",
-        "date": "20261114",
-        "url": "https://www.bing.com/th?id=OHR.BlueHK_JA-JP0477081186_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BlueHK_JA-JP0477081186",
-        "copyright": "ビクトリア・ハーバー、香港、中国 (© Juan Romero/Cavan Images)",
-        "copyrightKeyword": "ビクトリア・ハーバー 香港",
-        "hsh": "5d42d27196ff90d27166fb6428d33938"
+        "hsh": "5e077c3194efc7e1671b302c5c8a4e62"
     }
 ]

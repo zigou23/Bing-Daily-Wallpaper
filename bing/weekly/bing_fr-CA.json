@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611210500",
+        "date": "20261121",
+        "url": "https://www.bing.com/th?id=OHR.RedNice_FR-CA1455374145_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.RedNice_FR-CA1455374145",
+        "copyright": "Nice, Provence-Alpes-Côte d'Azur, France (© Siripong Kaewla-iad/Getty Images)",
+        "copyrightKeyword": "Nice France",
+        "hsh": "da962d973b38c84264e08e062098d96f",
+        "description": "Baignée d’une lumière dorée, Nice dévoile un patchwork de toits en terre cuite, d’églises historiques et de façades aux teintes pastel le long de la Côte d’Azur, comme on le voit dans l’image du jour. Fondée par les Grecs de l’Antiquité et longtemps liée à la maison royale de Savoie, la ville est devenue officiellement française en 1860. Aujourd’hui, les traces de ce riche passé sont encore visibles partout dans cette ville du sud de la France, où l’architecture d’autrefois côtoie les eaux bleu azur de la Méditerranée et les collines baignées de soleil qui bordent la célèbre Riviera française.",
+        "maplink": "43.70094,7.26839"
+    },
+    {
         "fullstartdate": "202611200500",
         "date": "20261120",
         "url": "https://www.bing.com/th?id=OHR.Megaptera_FR-CA7010941954_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BlueHK_FR-CA9031313187",
         "copyright": "Port Victoria, Hong Kong, Chine (© Juan Romero/Cavan Images)",
         "copyrightKeyword": "Port Victoria Hong Kong",
-        "hsh": "b42e5675482225fe72b42a90c17d4e10",
-        "description": "Bienvenue à Hong Kong, qui abrite la plus forte concentration de gratte-ciel au monde. Ceux que l'on voit ici dominent le port Victoria, dont les eaux profondes ont favorisé le développement de l'île comme important carrefour commercial. Depuis les années 1840, des navires transportant du thé, de la soie et d'autres marchandises y transitent. Après la Seconde Guerre mondiale, la croissance économique a toutefois accéléré le rythme des constructions. Avec peu de terrains plats disponibles entre le port et les collines, la ville s'est développée vers le haut, façonnant un panorama urbain unique. En 2026, Hong Kong compte 569 immeubles de plus de 150 mètres de hauteur, soit davantage que toute autre ville du monde.",
-        "maplink": "22.285,114.165"
-    },
-    {
-        "fullstartdate": "202611130500",
-        "date": "20261113",
-        "url": "https://www.bing.com/th?id=OHR.AbrahamCanada_FR-CA8820127726_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AbrahamCanada_FR-CA8820127726",
-        "copyright": "Lac Abraham, Alberta, Canada (© Guang Cao/Getty Images)",
-        "copyrightKeyword": "Lac Abraham Alberta",
-        "hsh": "4390e3a4c82887fd2f6ee7adacd86951"
+        "hsh": "b42e5675482225fe72b42a90c17d4e10"
     }
 ]
