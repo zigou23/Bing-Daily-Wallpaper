@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202611222300",
+        "date": "20261123",
+        "url": "https://www.bing.com/th?id=OHR.FibonacciFern_ES-ES6597098315_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FibonacciFern_ES-ES6597098315",
+        "copyright": "Brote de helecho (© Reza Saputra/Getty Images)",
+        "copyrightKeyword": "Día de Fibonacci",
+        "hsh": "497330d898806c223f7a29d7b2d7be6d",
+        "description": "La imagen muestra el enrollamiento gradual del extremo de un brote de helecho, que recuerda los patrones geométricos presentes en la naturaleza. En matemáticas, la sucesión de Fibonacci sigue una progresión similar: cada número se obtiene sumando los dos anteriores: 0, 1, 1, 2, 3, 5, 8 y así sucesivamente."
+    },
+    {
         "fullstartdate": "202611212300",
         "date": "20261122",
         "url": "https://www.bing.com/th?id=OHR.JustaHermitage_ES-ES5920553602_1920x1080.jpg",
@@ -71,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.GilaCliff_ES-ES3316486595",
         "copyright": "Monumento de las Viviendas en los Acantilados de Gila (© Chiara Salvadori/Getty Images)",
         "copyrightKeyword": "Monumento Nacional Casas Acantilado Gila",
-        "hsh": "3ae2db35ca98900ca012f4c0b2d63fd3",
-        "description": "Unas vistas impresionantes y unos cimientos sólidos forman parte del encanto de estas antiguas viviendas excavadas en un acantilado de Nuevo México. Los nómadas utilizaban desde hacía tiempo las cuevas naturales sobre el arroyo Cliff Dweller como refugio temporal, pero fue el pueblo indígena mogollón quien las convirtió en su hogar.",
-        "maplink": "33.254028,-108.272634"
-    },
-    {
-        "fullstartdate": "202611142300",
-        "date": "20261115",
-        "url": "https://www.bing.com/th?id=OHR.FirstFrost_ES-ES3306321438_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FirstFrost_ES-ES3306321438",
-        "copyright": "Escarcha sobre hojas de azalea (© avoferten/Shutterstock)",
-        "copyrightKeyword": "azaleas",
-        "hsh": "04a4deb2be9a4d22c85ff8aa26cbbe1d"
+        "hsh": "3ae2db35ca98900ca012f4c0b2d63fd3"
     }
 ]

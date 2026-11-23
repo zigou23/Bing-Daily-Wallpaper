@@ -1,5 +1,26 @@
 [
     {
+        "fullstartdate": "202611230300",
+        "date": "20261123",
+        "url": "https://www.bing.com/th?id=OHR.FibonacciFern_PT-BR5976883875_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FibonacciFern_PT-BR5976883875",
+        "copyright": "Broto de samambaia (© Reza Saputra/Getty Images)",
+        "copyrightKeyword": "Dia de Fibonacci",
+        "hsh": "e6d6af942a383649629721b0764c8396",
+        "description": "A imagem de hoje mostra a ponta de uma jovem folha de samambaia se enrolando aos poucos, lembrando os padrões geométricos encontrados por toda a natureza. Na matemática, a sequência de Fibonacci segue uma progressão semelhante: cada número é a soma dos dois anteriores — 0, 1, 1, 2, 3, 5, 8 e assim por diante. Hoje é o Dia de Fibonacci, celebrado nesta data porque, no formato americano, 11/23 faz referência aos primeiros números da sequência. À medida que cresce, a jovem folha de samambaia mostrada aqui vai se desenrolar. Em outras partes do mundo vegetal, porém, a sequência continuará aparecendo nos padrões em espiral dos girassóis, das pinhas, das suculentas e dos abacaxis."
+    },
+    {
+        "fullstartdate": "202611220300",
+        "date": "20261122",
+        "url": "https://www.bing.com/th?id=OHR.JustaHermitage_PT-BR5712827780_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.JustaHermitage_PT-BR5712827780",
+        "copyright": "Ermida de Santa Justa, na Cantábria, Espanha (© Tramont_ana/Getty Images)",
+        "copyrightKeyword": "Ermida Santa Justa na Cantábria",
+        "hsh": "f336b69f568488c666786929681ce2d6",
+        "description": "Aninhada nas falésias da costa acidentada do norte da Espanha, a Ermida de Santa Justa, do século XVI e vista na imagem de hoje, debruça-se sobre as ondas que quebram no Mar Cantábrico. Construída em parte dentro da própria rocha e associada a relíquias das santas Justa e Rufina, a pequena capela acabou se tornando um local de peregrinação. Suas paredes de pedra, abrigadas pela falésia, criam um contraste impressionante com as ondas impetuosas e as falésias rochosas ao redor.",
+        "maplink": "43.42595,-4.09762"
+    },
+    {
         "fullstartdate": "202611210300",
         "date": "20261121",
         "url": "https://www.bing.com/th?id=OHR.RedNice_PT-BR5183216039_1920x1080.jpg",
@@ -60,27 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.GilaCliff_PT-BR7125417411",
         "copyright": "Monumento Nacional Gila Cliff Dwellings, Novo México, EUA (© Chiara Salvadori/Getty Images)",
         "copyrightKeyword": "o monumento nacional gila cliff dwellings",
-        "hsh": "33858f073789da95602e3aa1ed2d5564",
-        "description": "Vistas impressionantes e estruturas firmemente assentadas na rocha fazem parte do charme dessas antigas habitações, construídas na encosta de um penhasco no Novo México. Povos nômades já usavam havia muito tempo as cavernas naturais acima de Cliff Dweller Creek como abrigo temporário, mas foram os Mogollon, povo indígena da região, que fizeram delas seu lar. Arqueólogos acreditam que, nas décadas de 1270 e 1280, eles construíram dezenas de cômodos dentro de cinco reentrâncias naturais na rocha. Até 15 famílias viviam ali ao mesmo tempo, criando os filhos, produzindo cerâmica e contemplando o fértil vale do rio Gila, onde cultivavam plantações e caçavam animais selvagens.",
-        "maplink": "33.254028,-108.272634"
-    },
-    {
-        "fullstartdate": "202611150300",
-        "date": "20261115",
-        "url": "https://www.bing.com/th?id=OHR.FirstFrost_PT-BR6618538565_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FirstFrost_PT-BR6618538565",
-        "copyright": "Azaleia congelada com folhas vermelhas (© avoferten/Shutterstock)",
-        "copyrightKeyword": "azaleias",
-        "hsh": "68dd93c971579c19ad1e8a5b8bb66baf",
-        "description": "À medida que as primeiras geadas do outono avançam pelo sul, cristais de gelo se formam nas folhas de arbustos de folhagem perene, como esta azaleia. Já ficaram para trás os tons de rosa, laranja e amarelo de sua floração na primavera, mas um novo espetáculo de cores surge quando as folhas verdes ganham tonalidades de vermelho e roxo. Para as plantas, esses novos pigmentos protegem as folhas à medida que as temperaturas caem; para os jardineiros, criam um vibrante cenário de outono emoldurado pela geada branca. Quando a primavera chega, os novos brotos devolvem ao arbusto sua folhagem verde, e o ciclo de cores recomeça."
-    },
-    {
-        "fullstartdate": "202611140300",
-        "date": "20261114",
-        "url": "https://www.bing.com/th?id=OHR.BlueHK_PT-BR4557088394_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BlueHK_PT-BR4557088394",
-        "copyright": "Victoria Harbour, Hong Kong, China (© Juan Romero/Cavan Images)",
-        "copyrightKeyword": "Victoria Harbour em Hong Kong na China",
-        "hsh": "aa0ae51deb84430929e7f78d6ad9173f"
+        "hsh": "33858f073789da95602e3aa1ed2d5564"
     }
 ]

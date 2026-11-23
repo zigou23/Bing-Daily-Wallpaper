@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202611230000",
+        "date": "20261124",
+        "url": "https://www.bing.com/th?id=OHR.FibonacciFern_EN-GB6785963710_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FibonacciFern_EN-GB6785963710",
+        "copyright": "Fiddlehead fern (© Reza Saputra/Getty Images)",
+        "copyrightKeyword": "fibonacci day",
+        "hsh": "62ce3cfa7ccd557f18730a98409affe6",
+        "description": "Today's image shows the gradual coiling of a young fiddlehead's tip, echoing the geometric patterns seen throughout nature. In maths, the Fibonacci sequence follows a similar progression, each number formed by adding the two before it: 0, 1, 1, 2, 3, 5, 8 and so on. Today is Fibonacci Day, chosen for the numbers of the date (11/23) to honour the sequence. Eventually the young fern frond shown here will unfurl as it grows, but elsewhere in the plant world, the sequence will continue to appear in the spiralling arrangements of sunflower heads, pinecones, succulents and pineapples."
+    },
+    {
         "fullstartdate": "202611220000",
         "date": "20261123",
         "url": "https://www.bing.com/th?id=OHR.JustaHermitage_EN-GB3758221368_1920x1080.jpg",
@@ -71,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.GilaCliff_EN-GB1863069273",
         "copyright": "Gila Cliff Dwellings National Monument, New Mexico, USA (© Chiara Salvadori/Getty Images)",
         "copyrightKeyword": "Gila Cliff Dwellings National Monument",
-        "hsh": "ce47bb578b6e79ca7263a6f223a63ee2",
-        "description": "Incredible views and rock-solid foundations are part of the charm of these ancient dwellings, set into the cliffside in New Mexico. Nomads had long used the natural caves above Cliff Dweller Creek as temporary shelter, but it was the Native American Mogollon people who made them their home. Archaeologists believe they created dozens of rooms inside five alcoves in the 1270s and 1280s. Up to 15 families lived here at any one time, raising children, making pottery and overlooking the fertile Gila River valley where they grew crops and hunted wildlife. For reasons unknown, the Mogollon people moved on around 1300, leaving behind one of the American Southwest's most important archaeological sites.",
-        "maplink": "33.254028,108.272634"
-    },
-    {
-        "fullstartdate": "202611150000",
-        "date": "20261116",
-        "url": "https://www.bing.com/th?id=OHR.FirstFrost_EN-GB4338987849_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FirstFrost_EN-GB4338987849",
-        "copyright": "Frozen azalea with red leaves (© avoferten/Shutterstock)",
-        "copyrightKeyword": "azaleas",
-        "hsh": "15ca245456d0ff95a61ad6c6390f7788"
+        "hsh": "ce47bb578b6e79ca7263a6f223a63ee2"
     }
 ]

@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611220500",
+        "date": "20261122",
+        "url": "https://www.bing.com/th?id=OHR.JustaHermitage_FR-CA7082856922_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.JustaHermitage_FR-CA7082856922",
+        "copyright": "Chapelle et l’ermitage de Santa Justa, Cantabrie, Espagne (© Tramont_ana/Getty Images)",
+        "copyrightKeyword": "Ermita Santa Justa",
+        "hsh": "ed872f9141caa86b9877477bdd7e91f9",
+        "description": "Niché dans les falaises de la côte accidentée du nord de l’Espagne, l’ermitage de Santa Justa, visible dans l’image du jour, domine les vagues déchaînées de la mer Cantabrique. Construit en partie à même la roche et associé aux reliques des saintes Juste et Rufine, ce petit sanctuaire est devenu au fil du temps un lieu de pèlerinage. Ses murs de pierre, abrités des éléments, offrent un contraste saisissant avec la puissance de la mer et les falaises escarpées qui l’entourent. Ce site remarquable témoigne à la fois de la force de la nature et du patrimoine spirituel de la région.",
+        "maplink": "43.42595,-4.09762"
+    },
+    {
         "fullstartdate": "202611210500",
         "date": "20261121",
         "url": "https://www.bing.com/th?id=OHR.RedNice_FR-CA1455374145_1920x1080.jpg",
@@ -71,16 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.FirstFrost_FR-CA9228513518",
         "copyright": "Azalée gelée aux feuilles rouges (© avoferten/Shutterstock)",
         "copyrightKeyword": "azalée",
-        "hsh": "0355b71ba9c963591f5d2a7a786a03c0",
-        "description": "Alors que les premières gelées de l'automne s'installent dans le sud des États-Unis, des cristaux de glace se forment sur les feuilles persistantes d'arbustes comme cette azalée. Les fleurs roses, orangées et jaunes du printemps ont depuis longtemps disparu, mais un nouveau spectacle de couleurs prend le relais lorsque les feuilles vertes se parent de teintes rouges et pourpres. Pour la plante, ces pigments agissent comme une protection contre le froid; pour les jardiniers, ils offrent un magnifique décor automnal rehaussé par le blanc du givre. Au retour du printemps, une nouvelle croissance ramène le feuillage vert, et le cycle des couleurs recommence une fois de plus."
-    },
-    {
-        "fullstartdate": "202611140500",
-        "date": "20261114",
-        "url": "https://www.bing.com/th?id=OHR.BlueHK_FR-CA9031313187_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BlueHK_FR-CA9031313187",
-        "copyright": "Port Victoria, Hong Kong, Chine (© Juan Romero/Cavan Images)",
-        "copyrightKeyword": "Port Victoria Hong Kong",
-        "hsh": "b42e5675482225fe72b42a90c17d4e10"
+        "hsh": "0355b71ba9c963591f5d2a7a786a03c0"
     }
 ]

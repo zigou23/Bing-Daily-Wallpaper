@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202611222300",
+        "date": "20261123",
+        "url": "https://www.bing.com/th?id=OHR.FibonacciFern_FR-FR6204076819_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FibonacciFern_FR-FR6204076819",
+        "copyright": "Pousse de fougère (© Reza Saputra/Getty Images)",
+        "copyrightKeyword": "Journée de Fibonacci",
+        "hsh": "39a012ce6819b703c92fe3c58c2818df",
+        "description": "Aujourd'hui, c'est la Journée Fibonacci, une date choisie en référence aux chiffres qui la composent, 23/11 ou 11/23 écrit en anglais américain, pour rendre hommage à la suite établie par ce mathématicien italien. En mathématiques, la suite de Fibonacci suit une progression similaire, où chaque nombre est obtenu en additionnant les deux qui le précèdent : 0, 1, 1, 2, 3, 5, 8, et ainsi de suite."
+    },
+    {
         "fullstartdate": "202611212300",
         "date": "20261122",
         "url": "https://www.bing.com/th?id=OHR.JustaHermitage_FR-FR2303317894_1920x1080.jpg",
@@ -71,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.GilaCliff_FR-FR9544531277",
         "copyright": "Habitations troglodytes de Gila, Nouveau-Mexique, États-Unis (© Chiara Salvadori/Getty Images)",
         "copyrightKeyword": "Monument national habitations troglodytes Gila",
-        "hsh": "35f46c23c99eaac797dcaec2346b9cc6",
-        "description": "Cette vue incroyable sur Cliff Dweller Creek ajoute au charme de ces anciennes habitations troglodytes, creusées à flanc de falaise au Nouveau-Mexique. Les nomades ont longtemps utilisé ces grottes naturelles comme abris temporaires, mais ce sont les Amérindiens Mogollon qui en ont fait leur demeure. Les archéologues estiment qu’ils ont aménagé cet habitat dans les années 1270 et 1280. Jusqu’à 15 familles vivaient ici, élevant leurs enfants, fabriquant de la poterie et contemplant la fertile vallée de la Gila.",
-        "maplink": "33.254028,-108.272634"
-    },
-    {
-        "fullstartdate": "202611142300",
-        "date": "20261115",
-        "url": "https://www.bing.com/th?id=OHR.FirstFrost_FR-FR6372552822_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FirstFrost_FR-FR6372552822",
-        "copyright": "Azalée gelée aux feuilles rouges (© avoferten/Shutterstock)",
-        "copyrightKeyword": "azalée",
-        "hsh": "633d5e840157275171f9e5ef65db1f31"
+        "hsh": "35f46c23c99eaac797dcaec2346b9cc6"
     }
 ]

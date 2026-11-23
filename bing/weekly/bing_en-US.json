@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611220800",
+        "date": "20261122",
+        "url": "https://www.bing.com/th?id=OHR.JustaHermitage_EN-US0130271816_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.JustaHermitage_EN-US0130271816",
+        "copyright": "The chapel and hermitage of Santa Justa in Cantabria, Spain (© Tramont_ana/Getty Images)",
+        "copyrightKeyword": "Ermita Santa Justa chapel",
+        "hsh": "27a6577f0d2d5462fa3a35fc50bb1726",
+        "description": "Tucked into the cliffs of northern Spain's rugged coastline, the 16th-century Hermitage of Santa Justa seen in today's image overlooks the crashing waves of the Cantabrian Sea. Built partly into the rock and associated with relics of Saints Justa and Rufina, the small chapel eventually became a pilgrimage site, its sheltered stone walls creating a remarkable contrast with the powerful waves and rocky cliffs surrounding it.",
+        "maplink": "43.42595,-4.09762"
+    },
+    {
         "fullstartdate": "202611210800",
         "date": "20261121",
         "url": "https://www.bing.com/th?id=OHR.RedNice_EN-US9978351403_1920x1080.jpg",
@@ -71,16 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.FirstFrost_EN-US8881008245",
         "copyright": "Frozen azalea with red leaves (© avoferten/Shutterstock)",
         "copyrightKeyword": "azaleas",
-        "hsh": "6c1b2ebce94f441a9a12cbcfecd61ca5",
-        "description": "As fall's first frost works its way across the South, ice crystals form on the leaves of evergreen shrubs, like this azalea. Long gone are the pinks, oranges, and yellows of their spring blooms, but a new colorful display awaits, as their green leaves turn shades of red and purple. For the plants, the new pigments protect their leaves as temperatures drop, but for gardeners, they create a vibrant autumnal display, framed in white frost. When spring arrives, new growth will restore the shrub's green leaves, and the colorful cycle begins anew."
-    },
-    {
-        "fullstartdate": "202611140800",
-        "date": "20261114",
-        "url": "https://www.bing.com/th?id=OHR.BlueHK_EN-US7870996687_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BlueHK_EN-US7870996687",
-        "copyright": "Victoria Harbour, Hong Kong, China (© Juan Romero/Cavan Images)",
-        "copyrightKeyword": "Victoria Harbour Hong Kong",
-        "hsh": "33e79839f41e9f007d5d05fb55d905b4"
+        "hsh": "6c1b2ebce94f441a9a12cbcfecd61ca5"
     }
 ]
