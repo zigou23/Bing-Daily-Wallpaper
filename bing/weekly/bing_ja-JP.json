@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611231500",
+        "date": "20261124",
+        "url": "https://www.bing.com/th?id=OHR.CairngormsSquirrel_JA-JP8531667327_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.CairngormsSquirrel_JA-JP8531667327",
+        "copyright": "キタリス、ケアンゴームズ国立公園、ハイランド地方、スコットランド (© Scotland: The Big Picture/Minden Pictures)",
+        "copyrightKeyword": "キタリス",
+        "hsh": "c8ad10f4e06737f1da7820a50baa2e8c",
+        "description": "イギリスにもともとすむ唯一のリスであるキタリスは、スコットランドのケアンゴームズ国立公園で元気に暮らしています。公園には古くから残るカレドニアの松林や新しい針葉樹の森が広がり、ヨーロッパアカマツの種や木の実などの食べものが一年中豊富なため、リスたちにとって大切なすみかになっています。写真のキタリスは、オレンジや黄色に色づいた葉の中にちょこんと座り、次は何をしようかと考えているようです。",
+        "maplink": "57.0833,-3.6667"
+    },
+    {
         "fullstartdate": "202611221500",
         "date": "20261123",
         "url": "https://www.bing.com/th?id=OHR.FibonacciFern_JA-JP6039925060_1920x1080.jpg",
@@ -70,17 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.TrailCedars_JA-JP3850490248",
         "copyright": "トレイル・オブ・ザ・シーダーズ、グレイシャー国立公園、モンタナ州、アメリカ (© DBushue Photography/Getty Images)",
         "copyrightKeyword": "グレイシャー国立公園",
-        "hsh": "998c7088d9dae51caea9124444aeb958",
-        "description": "モンタナ州のグレイシャー国立公園にある「トレイル・オブ・ザ・シーダーズ」は、約1.4kmの周回コースです。ベイスギやベイツガの原生林の中を木道が通り、樹齢500年を超える巨木も見られます。コースの中ほどにある橋からは、アバランチ・クリークが削った渓谷を見下ろせます。短くて歩きやすく、車いすでも楽しめるので、気軽に森の空気を味わいたいときにぴったりです。",
-        "maplink": "48.706957,-113.817235"
-    },
-    {
-        "fullstartdate": "202611151500",
-        "date": "20261116",
-        "url": "https://www.bing.com/th?id=OHR.GilaCliff_JA-JP2766300250_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.GilaCliff_JA-JP2766300250",
-        "copyright": "ヒラ・クリフ・ドウェリングス国定記念物、ニューメキシコ州、アメリカ (© Chiara Salvadori/Getty Images)",
-        "copyrightKeyword": "ヒラ・クリフ・ドウェリングス国定記念物",
-        "hsh": "6e6c40c958c5e41ee2658c5692db4e3b"
+        "hsh": "998c7088d9dae51caea9124444aeb958"
     }
 ]

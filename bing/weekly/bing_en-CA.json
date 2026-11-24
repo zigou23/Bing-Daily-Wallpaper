@@ -1,5 +1,26 @@
 [
     {
+        "fullstartdate": "202611240500",
+        "date": "20261124",
+        "url": "https://www.bing.com/th?id=OHR.CairngormsSquirrel_EN-CA7409521257_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.CairngormsSquirrel_EN-CA7409521257",
+        "copyright": "Red squirrel in Cairngorms National Park, Highlands, Scotland (© Scotland: The Big Picture/Minden Pictures)",
+        "copyrightKeyword": "Eurasian red squirrel",
+        "hsh": "60ae6ce742796af6ef7ba9a8dfb730b4",
+        "description": "As Britain's only native squirrel species, red squirrels thrive in Scotland's Cairngorms National Park. An important refuge, the park offers ancient Caledonian pine forests and newer conifer woodlands, with plentiful habitat and food for squirrels foraging for Scots pine seeds, nuts and other tasty morsels year-round. In today's image, a red squirrel is perched amid warm orange and yellow leaves, looking right at home as it ponders its next move in the Scottish Highlands.",
+        "maplink": "57.0833,-3.6667"
+    },
+    {
+        "fullstartdate": "202611230500",
+        "date": "20261123",
+        "url": "https://www.bing.com/th?id=OHR.FibonacciFern_EN-CA6531851443_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FibonacciFern_EN-CA6531851443",
+        "copyright": "Fiddlehead fern (© Reza Saputra/Getty Images)",
+        "copyrightKeyword": "fibonacci day",
+        "hsh": "85489c967ebdb4c1179e69743a0f3fc1",
+        "description": "Today's image shows the gradual coiling of a young fiddlehead's tip, echoing the geometric patterns seen throughout nature. In math, the Fibonacci sequence follows a similar progression, each number formed by adding the two before it: 0, 1, 1, 2, 3, 5, 8 and so on. Today is Fibonacci Day, celebrated on November 23 because the date's numbers (11, 23) reflect the sequence. Eventually the young fern frond shown here will unfurl as it grows, but elsewhere in the plant world, the sequence will continue to appear in the spiralling arrangements of sunflower heads, pinecones, succulents and pineapples."
+    },
+    {
         "fullstartdate": "202611220500",
         "date": "20261122",
         "url": "https://www.bing.com/th?id=OHR.JustaHermitage_EN-CA5542255570_1920x1080.jpg",
@@ -60,28 +81,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.TrailCedars_EN-CA2369458166",
         "copyright": "Trail of the Cedars, Glacier National Park, Montana, USA (© DBushue Photography/Getty Images)",
         "copyrightKeyword": "Trail of the Cedars, Glacier National Park, Montana",
-        "hsh": "7ec1b8006004af054c4e23e20ca4bdca",
-        "description": "It's time to breathe in that crisp fall air and step into the great outdoors. Today's image features the Trail of the Cedars, part of more than 1,100 kilometres of hiking trails in Glacier National Park, Montana. Its 1.4-kilometre loop includes a raised boardwalk which cuts a path through western red cedars and hemlock trees. The park boasts routes for all abilities, taking in alpine lakes, wildflower meadows, mountain passes and wilderness stretching to the Canadian border.",
-        "maplink": "48.706957,-113.817235"
-    },
-    {
-        "fullstartdate": "202611160500",
-        "date": "20261116",
-        "url": "https://www.bing.com/th?id=OHR.GilaCliff_EN-CA1952203135_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.GilaCliff_EN-CA1952203135",
-        "copyright": "Gila Cliff Dwellings National Monument, New Mexico, USA (© Chiara Salvadori/Getty Images)",
-        "copyrightKeyword": "Gila Cliff Dwellings National Monument",
-        "hsh": "eeaf1e61696187fd035aa4d11d8742ad",
-        "description": "Incredible views and rock-solid foundations are part of the charm of these ancient dwellings, set into the cliffside in New Mexico. Nomads had long used the natural caves above Cliff Dweller Creek as temporary shelter, but it was the Native American Mogollon people who made them their home. Archaeologists believe they created dozens of rooms inside five alcoves in the 1270s and 1280s. Up to 15 families lived here at any one time, raising children, making pottery and overlooking the fertile Gila River valley where they grew crops and hunted wildlife. For reasons unknown, the Mogollon people moved on around 1300, leaving behind one of the American Southwest's most important archaeological sites.",
-        "maplink": "33.254028,-108.272634"
-    },
-    {
-        "fullstartdate": "202611150500",
-        "date": "20261115",
-        "url": "https://www.bing.com/th?id=OHR.FirstFrost_EN-CA1501787869_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FirstFrost_EN-CA1501787869",
-        "copyright": "Frozen azalea with red leaves (© avoferten/Shutterstock)",
-        "copyrightKeyword": "azaleas",
-        "hsh": "2ccef19f28c801961456847eef0ec12f"
+        "hsh": "7ec1b8006004af054c4e23e20ca4bdca"
     }
 ]
