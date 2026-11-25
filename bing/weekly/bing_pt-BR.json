@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611250300",
+        "date": "20261125",
+        "url": "https://www.bing.com/th?id=OHR.SunsetPoint_PT-BR6763339998_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SunsetPoint_PT-BR6763339998",
+        "copyright": "Sunset Point, Parque Nacional Bryce Canyon, Utah (© Colin D. Young/Alamy)",
+        "copyrightKeyword": "Parque Nacional Bryce Canyon",
+        "hsh": "550cb97071885600c58ac2e79f0f8744",
+        "description": "A neve transforma o Parque Nacional Bryce Canyon, cobrindo a paisagem de branco enquanto seus impressionantes hoodoos em tons de laranja e vermelho se elevam acima do terreno nevado. Vistas do Sunset Point, um dos mirantes mais famosos do parque, essas formações de aparência fantástica fazem parte da Formação Claron, cujo calcário foi depositado há cerca de 50 milhões de anos e, mais tarde, moldado pelo intemperismo e pela erosão. Como grande parte do parque fica a mais de 2.400 metros de altitude, a neve pode chegar já em outubro. Na imagem de hoje, ela se acumula nas cristas e nos pináculos do cânion, enquanto a névoa desliza pelos penhascos, criando uma cena de inverno emblemática no sudoeste dos Estados Unidos.",
+        "maplink": "37.623535,-112.167279"
+    },
+    {
         "fullstartdate": "202611240300",
         "date": "20261124",
         "url": "https://www.bing.com/th?id=OHR.CairngormsSquirrel_PT-BR6516004781_1920x1080.jpg",
@@ -71,16 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BarnOwlsUnite_PT-BR3615870863",
         "copyright": "Corujas-das-torres  (© Zahoor Salmi/Getty Images)",
         "copyrightKeyword": "Coruja-das-torres",
-        "hsh": "7c53aa29cd87f6f3251d0bcdf1bd84ae",
-        "description": "Estas corujas-das-torres, banhadas pela luz do entardecer, aguardam o início da caçada. Quando a noite cai, essas aves de rapina entram em ação, atentas aos menores movimentos na grama ou entre as folhas, provocados por camundongos e pequenos roedores. Seus rostos em forma de coração funcionam como funis, direcionando o som para ouvidos que estão entre os mais aguçados do reino animal. Isso permite que localizem suas presas com extrema precisão no escuro antes de mergulharem silenciosamente sobre elas, enquanto suas penas macias abafam o som da aproximação."
-    },
-    {
-        "fullstartdate": "202611170300",
-        "date": "20261117",
-        "url": "https://www.bing.com/th?id=OHR.TrailCedars_PT-BR3104230051_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.TrailCedars_PT-BR3104230051",
-        "copyright": "Trilha dos Cedros, Parque Nacional Glacier, Montana, EUA  (© DBushue Photography/Getty Images)",
-        "copyrightKeyword": "Parque Nacional Glacier Montana",
-        "hsh": "f07ed0a644787d34fd5854a5875dbc77"
+        "hsh": "7c53aa29cd87f6f3251d0bcdf1bd84ae"
     }
 ]

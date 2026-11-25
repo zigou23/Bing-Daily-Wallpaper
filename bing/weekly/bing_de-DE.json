@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611242300",
+        "date": "20261125",
+        "url": "https://www.bing.com/th?id=OHR.SunsetPoint_DE-DE0548911114_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SunsetPoint_DE-DE0548911114",
+        "copyright": "Sunset Point, Bryce-Canyon-Nationalpark, Utah (© Colin D. Young/Alamy)",
+        "copyrightKeyword": "Bryce-Canyon-Nationalpark",
+        "hsh": "0fad4c5de1561083b355c0af491b8436",
+        "description": "Schnee verwandelt den Bryce-Canyon-Nationalpark und hüllt die Landschaft in Weiß, während sich die feurig orange-roten Hoodoos über das verschneite Gelände erheben. Vom Sunset Point aus, einem der berühmtesten Aussichtspunkte des Parks, betrachtet, sind diese fantasievollen Formen Teil der Claron-Formation, deren Kalkstein vor etwa 50 Millionen Jahren abgelagert und später durch Verwitterung und Erosion geformt wurde. Da ein Großteil des Parks über 2.400 Meter hoch liegt, kann es bereits im Oktober schneien. Auf dem heutigen Bild liegt Schnee auf den Graten und Felsspitzen des Canyons, während Nebel über die Klippen zieht und so eine einzigartige Winterlandschaft im Südwesten der USA schafft.",
+        "maplink": "37.623535,-112.167279"
+    },
+    {
         "fullstartdate": "202611232300",
         "date": "20261124",
         "url": "https://www.bing.com/th?id=OHR.CairngormsSquirrel_DE-DE7485834001_1920x1080.jpg",
@@ -71,16 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BarnOwlsUnite_DE-DE3292837255",
         "copyright": "Ein Schleiereulenpaar (© Zahoor Salmi/Getty Images)",
         "copyrightKeyword": "Schleiereule",
-        "hsh": "071a839a282c27b3d19d75e24bac0a1e",
-        "description": "Diese in Abendlicht getauchten Schleiereulen warten darauf, dass die Jagd beginnt. Bei Einbruch der Dunkelheit werden diese Raubvögel aktiv und lauschen auf Geräusche kleiner Nager und Wühlmäuse im Gras oder Laub. Ihre herzförmigen Gesichter leiten den Schall zu ihren Ohren, die zu den schärfsten im Tierreich zählen. So können sie ihre Beute im Dunkeln punktgenau orten, bevor sie sich lautlos herabstürzen, gedämpft durch ihr weiches Gefieder. Im Herbst machen sich junge Schleiereulen auf den Weg, um ihr eigenes Revier zu finden. Wenn die Nächte länger werden, kann man sie schon früh am Abend dabei beobachten, wie sie auf der Suche nach ihrem Abendessen lautlos über die Felder gleiten."
-    },
-    {
-        "fullstartdate": "202611162300",
-        "date": "20261117",
-        "url": "https://www.bing.com/th?id=OHR.TrailCedars_DE-DE2756657002_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.TrailCedars_DE-DE2756657002",
-        "copyright": "Trail of the Cedars, Glacier-Nationalpark, Montana, USA (© DBushue Photography/Getty Images)",
-        "copyrightKeyword": "Glacier-Nationalpark, Montana, USA",
-        "hsh": "b0558da63542a26b7f0d93b552035c98"
+        "hsh": "071a839a282c27b3d19d75e24bac0a1e"
     }
 ]
