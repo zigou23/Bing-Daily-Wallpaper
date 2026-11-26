@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611252300",
+        "date": "20261126",
+        "url": "https://www.bing.com/th?id=OHR.RFHilo_ES-ES7516757686_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.RFHilo_ES-ES7516757686",
+        "copyright": "Rainbow Falls, río Wailuku, Hilo, Hawái, Estados Unidos (© Peter Unger/Getty Images)",
+        "copyrightKeyword": "Rainbow Falls Río Wailuku Hawái",
+        "hsh": "8ca5498caafc85f01c74332c0071256f",
+        "description": "Rainbow Falls cae unos 24 metros sobre una antigua gruta de lava en el río Wailuku, cerca de Hilo, en la isla de Hawái. Su nombre se debe a los arcoíris que suelen formarse en la bruma cuando la luz del sol alcanza la cascada durante la mañana.",
+        "maplink": "19.718779,-155.108611"
+    },
+    {
         "fullstartdate": "202611242300",
         "date": "20261125",
         "url": "https://www.bing.com/th?id=OHR.SunsetPoint_ES-ES7252349167_1920x1080.jpg",
@@ -49,7 +60,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.RedNice_ES-ES5584986553",
         "copyright": "Niza, Provenza-Alpes-Costa Azul, Francia (© Siripong Kaewla-iad/Getty Images)",
         "copyrightKeyword": "Niza Francia",
-        "hsh": "4fb9f4a43ca544a5b571508de1101c44",
+        "hsh": "6c03330bfe11ba489052cd703e4eea2e",
         "description": "Bañada por una luz dorada, Niza forma un mosaico de tejados de terracota, iglesias históricas y fachadas en tonos pastel junto a la Riviera francesa. Fundada por los antiguos griegos y vinculada durante siglos a la casa real italiana de Saboya, Niza pasó oficialmente a formar parte de Francia en 1860.",
         "maplink": "43.70094,7.26839"
     },
@@ -60,7 +71,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.Megaptera_ES-ES5370739195",
         "copyright": "Ballena jorobada (Megaptera novaeangliae) sumergiéndose, Kvaløya, Troms, norte de Noruega (© Espen Bergersen/Minden Pictures)",
         "copyrightKeyword": "ballenas jorobadas",
-        "hsh": "6ea4b353391b41114ece91f1dcbf93c0",
+        "hsh": "e25fe8ee07950340604d0d89d3fefa90",
         "description": "Frente a la costa de Kvaløya, en Troms, al norte de Noruega, las ballenas jorobadas recorren las frías aguas árticas en busca de alimento. Visitan la región durante los meses de invierno mientras siguen a los arenques que migran hacia los fiordos.",
         "maplink": "69.62389,18.53103"
     },
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.KnowledgeSculpture_ES-ES4863914751",
         "copyright": "La escultura “El cuerpo del conocimiento”, de Jaume Plensa, en la Universidad de Goethe, en Fráncfort, Alemania (© Todamo/Shutterstock)",
         "copyrightKeyword": "Día Mundial de la Filosofía",
-        "hsh": "0304b4feaadd95bcf6e14ca86b3c0b32",
-        "description": "Hoy es el Día Mundial de la Filosofía, una ocasión para debatir los grandes enigmas de la vida. La imagen muestra la escultura «El cuerpo del conocimiento», situada en la Universidad Goethe de Fráncfort, Alemania, que reúne letras de acero de ocho alfabetos distintos para formar una figura humana.",
-        "maplink": "50.127805,8.667807"
-    },
-    {
-        "fullstartdate": "202611172300",
-        "date": "20261118",
-        "url": "https://www.bing.com/th?id=OHR.BarnOwlsUnite_ES-ES4442138471_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BarnOwlsUnite_ES-ES4442138471",
-        "copyright": "Una pareja de lechuzas al anochecer (© Zahoor Salmi/Getty Images)",
-        "copyrightKeyword": "Lechuzas",
-        "hsh": "fb3d3bc8f32eba6a144af6acff869e48"
+        "hsh": "0304b4feaadd95bcf6e14ca86b3c0b32"
     }
 ]
