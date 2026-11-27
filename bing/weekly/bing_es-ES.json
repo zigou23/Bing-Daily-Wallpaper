@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611262300",
+        "date": "20261127",
+        "url": "https://www.bing.com/th?id=OHR.FaceCanyon_ES-ES7167229862_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FaceCanyon_ES-ES7167229862",
+        "copyright": "Colina aislada al atardecer, Face Canyon, Lago Powell, Utah, EE. UU. (© Jeff Foott/Minden)",
+        "copyrightKeyword": "Lago Powell",
+        "hsh": "e21f35cb4108279e15812ae29513f02d",
+        "description": "Oculto en un antiguo paisaje de arenisca, Face Canyon es uno de los 96 cañones que se extienden desde el Lago Powell, en el sur de Utah. Muchos están lejos de las carreteras y serían difíciles de alcanzar si no los hubiera inundado el lago, creado en 1963 durante la construcción de la presa de Glen Canyon. Las aguas del lago remontan unos 300 km por arroyos y cañones que se pueden explorar en barco, en kayak o en moto acuática.",
+        "maplink": "37.002262,-111.24176"
+    },
+    {
         "fullstartdate": "202611252300",
         "date": "20261126",
         "url": "https://www.bing.com/th?id=OHR.RFHilo_ES-ES7516757686_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.Megaptera_ES-ES5370739195",
         "copyright": "Ballena jorobada (Megaptera novaeangliae) sumergiéndose, Kvaløya, Troms, norte de Noruega (© Espen Bergersen/Minden Pictures)",
         "copyrightKeyword": "ballenas jorobadas",
-        "hsh": "e25fe8ee07950340604d0d89d3fefa90",
-        "description": "Frente a la costa de Kvaløya, en Troms, al norte de Noruega, las ballenas jorobadas recorren las frías aguas árticas en busca de alimento. Visitan la región durante los meses de invierno mientras siguen a los arenques que migran hacia los fiordos.",
-        "maplink": "69.62389,18.53103"
-    },
-    {
-        "fullstartdate": "202611182300",
-        "date": "20261119",
-        "url": "https://www.bing.com/th?id=OHR.KnowledgeSculpture_ES-ES4863914751_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.KnowledgeSculpture_ES-ES4863914751",
-        "copyright": "La escultura “El cuerpo del conocimiento”, de Jaume Plensa, en la Universidad de Goethe, en Fráncfort, Alemania (© Todamo/Shutterstock)",
-        "copyrightKeyword": "Día Mundial de la Filosofía",
-        "hsh": "0304b4feaadd95bcf6e14ca86b3c0b32"
+        "hsh": "e25fe8ee07950340604d0d89d3fefa90"
     }
 ]

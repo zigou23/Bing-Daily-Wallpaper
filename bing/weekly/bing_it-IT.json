@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611262300",
+        "date": "20261127",
+        "url": "https://www.bing.com/th?id=OHR.FaceCanyon_IT-IT4616461166_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FaceCanyon_IT-IT4616461166",
+        "copyright": "Butte al tramonto, Face Canyon, Lago Powell, Utah, USA (© Jeff Foott/Minden)",
+        "copyrightKeyword": "Lago Powell",
+        "hsh": "c43abc04c9e1c0682fd645673081f00d",
+        "description": "Nascosto tra secolari paesaggi di arenaria, Face Canyon è uno dei 96 valloni che si diramano dal Lago Powell, nello Utah meridionale. Le formazioni rocciose meno accessibili via terra possono essere raggiunte in barca o kayak attraversando le acque del lago, creato nel 1963 con la costruzione della diga di Glen Canyon. Riempito per 17 anni fino a raggiungere il suo massimo livello, è il secondo bacino artificiale più grande degli Stati Uniti. Tra acque blu e imponenti pareti di arenaria, il Lago Powell regala panorami spettacolari, che diventano ancora più suggestivi all’ora del tramonto.",
+        "maplink": "37.002262,-111.24176"
+    },
+    {
         "fullstartdate": "202611252300",
         "date": "20261126",
         "url": "https://www.bing.com/th?id=OHR.RFHilo_IT-IT3377596162_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.Megaptera_IT-IT1232088954",
         "copyright": "Megattera (Megaptera novaeangliae) in immersione, Kvaløya, Troms, Norvegia settentrionale (© Espen Bergersen/Minden Pictures)",
         "copyrightKeyword": "megattera",
-        "hsh": "b666832670be9ece6a3fd6f34f776e01",
-        "description": "Al largo di Kvaløya, nella Norvegia settentrionale, le megattere attraversano le acque artiche alla ricerca di un ricco banchetto. Durante l'inverno, queste enormi balene seguono i banchi di aringhe che migrano nei fiordi e, per catturarle, usano una spettacolare tecnica di caccia: soffiando anelli di bolle nel mare radunano i pesci nella stessa zona, per poi risalire verso la superficie a bocca spalancata. Nell’immagine di oggi, una megattera scivola sotto le acque gelide mentre il cielo si tinge di delicate sfumature pastello, regalando un momento di quiete nella natura selvaggia del nord della Norvegia.",
-        "maplink": "69.62389,18.53103"
-    },
-    {
-        "fullstartdate": "202611182300",
-        "date": "20261119",
-        "url": "https://www.bing.com/th?id=OHR.KnowledgeSculpture_IT-IT1368212298_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.KnowledgeSculpture_IT-IT1368212298",
-        "copyright": "\"Body of Knowledge\", scultura di Jaume Plensa, Università Goethe, Francoforte, Germania (© Todamo/Shutterstock)",
-        "copyrightKeyword": "Giornata Mondiale della Filosofia",
-        "hsh": "0754ce71dbb983b88c8f56d8cb4af6e7"
+        "hsh": "b666832670be9ece6a3fd6f34f776e01"
     }
 ]

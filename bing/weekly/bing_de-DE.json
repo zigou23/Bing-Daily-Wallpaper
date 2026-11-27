@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611262300",
+        "date": "20261127",
+        "url": "https://www.bing.com/th?id=OHR.FaceCanyon_DE-DE8985806432_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FaceCanyon_DE-DE8985806432",
+        "copyright": "Butte bei Sonnenuntergang, Face Canyon, Lake Powell, Utah, USA (© Jeff Foott/Minden)",
+        "copyrightKeyword": "Lake Powell Stausee",
+        "hsh": "9c6a7c694754fb6af48d2889cbc79067",
+        "description": "Versteckt in einer uralten Sandsteinlandschaft ist der Face Canyon einer von 96 Canyons, die sich vom Lake Powell im Süden Utahs aus erstrecken. Viele liegen weit abseits von Straßen und wären schwer zu erreichen, wären sie nicht vom See überflutet worden, der 1963 während des Baus des Glen-Canyon-Staudamms entstand. Der See erstreckt sich etwa 300 Kilometer entlang von Flussläufen und Canyons, die man mit dem Boot, Kajak oder anderen Wassersportgeräten erkunden kann.",
+        "maplink": "37.002262,-111.24176"
+    },
+    {
         "fullstartdate": "202611252300",
         "date": "20261126",
         "url": "https://www.bing.com/th?id=OHR.RFHilo_DE-DE3182652312_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.Megaptera_DE-DE6966438629",
         "copyright": "Tauchender Buckelwal (Megaptera novaeangliae) Kvaloya, Troms, Norwegen (© Espen Bergersen/Minden Pictures)",
         "copyrightKeyword": "Buckelwal",
-        "hsh": "aa9330fd7eadd41bb6e9a59d12f0cea0",
-        "description": "Vor der Küste von Kvaløya in Troms, im Norden Norwegens, durchstreifen Buckelwale die kalten arktischen Gewässer auf der Suche nach einem ausgiebigen Festmahl. Sie besuchen diese Region in den Wintermonaten und folgen dabei den wandernden Heringsschwärmen in die Fjorde. Buckelwale sind bekannt für ihre „Blasennetz-Jagd“, eine bemerkenswerte Jagdtechnik, bei der die Wale Fischschwärme mit Blasenringen einkreisen, um ihre Beute dann mit weit geöffnetem Maul aufzuschnappen. Auf dem heutigen Bild gleitet ein Buckelwal durch die eisigen Wellen unter einem leuchtenden Pastellhimmel und hält einen Moment der Ruhe im wilden Norden Norwegens fest.",
-        "maplink": "69.62389,18.53103"
-    },
-    {
-        "fullstartdate": "202611182300",
-        "date": "20261119",
-        "url": "https://www.bing.com/th?id=OHR.KnowledgeSculpture_DE-DE3802350761_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.KnowledgeSculpture_DE-DE3802350761",
-        "copyright": "Die Skulptur „Body of Knowledge“ von Jaume Plensa an der Goethe-Universität in Frankfurt am Main (© Todamo/Shutterstock)",
-        "copyrightKeyword": "Welttag der Philosophie",
-        "hsh": "07622973b3ee64cc7e79829c30d52106"
+        "hsh": "aa9330fd7eadd41bb6e9a59d12f0cea0"
     }
 ]
