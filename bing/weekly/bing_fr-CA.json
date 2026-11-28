@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611270500",
+        "date": "20261127",
+        "url": "https://www.bing.com/th?id=OHR.FaceCanyon_FR-CA8559464645_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FaceCanyon_FR-CA8559464645",
+        "copyright": "Butte au coucher du soleil, Face Canyon, Lac Powell, Utah, États-Unis (© Jeff Foott/Minden)",
+        "copyrightKeyword": "Lac Powell",
+        "hsh": "ccc212ad12241e0fcef38a98e38631c5",
+        "description": "Niché au cœur d’un ancien paysage de grès, Face Canyon est l’un des 96 canyons qui s’étendent depuis le lac Powell, dans le sud de l’Utah. Beaucoup de ces canyons reculés seraient difficiles d’accès sans les eaux du lac, créé en 1963 lors de la construction du barrage de Glen Canyon. Sur près de 300 kilomètres, ses eaux s’infiltrent dans des criques et des canyons que l’on peut explorer en bateau, en kayak ou en motomarine. Deuxième plus grand lac artificiel des États-Unis, le lac Powell séduit par ses eaux bleues bordées de falaises de grès aux teintes dorées. Atteindre ces paisibles panoramas au coucher du soleil demande parfois un peu d’effort, mais l’aventure fait partie du voyage.",
+        "maplink": "37.002262,-111.24176"
+    },
+    {
         "fullstartdate": "202611260500",
         "date": "20261126",
         "url": "https://www.bing.com/th?id=OHR.RFHilo_FR-CA2661177529_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.Megaptera_FR-CA7010941954",
         "copyright": "Baleine à bosse (Megaptera novaeangliae) en plongée, Kvaløya, Troms, nord de la Norvège (© Espen Bergersen/Minden Pictures)",
         "copyrightKeyword": "baleine à bosse",
-        "hsh": "7a599c0664d4adfb2747e3dc3464b02e",
-        "description": "Au large de Kvaløya, dans la région de Troms, au nord de la Norvège, les baleines à bosse affluent chaque hiver pour profiter de l’abondance de harengs dans les fjords. Ces géantes des mers sont connues pour leur impressionnante technique de chasse, appelée l’alimentation au filet de bulles, qui consiste à souffler des cercles de bulles pour regrouper les poissons avant de remonter à la surface pour les capturer. Sur l’image du jour, une baleine à bosse plonge sous les eaux froides de l’Arctique dans la lumière douce d’un ciel aux teintes pastel. Cette scène paisible illustre toute la beauté sauvage et majestueuse du nord de la Norvège.",
-        "maplink": "69.62389,18.53103"
-    },
-    {
-        "fullstartdate": "202611190500",
-        "date": "20261119",
-        "url": "https://www.bing.com/th?id=OHR.KnowledgeSculpture_FR-CA0844625055_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.KnowledgeSculpture_FR-CA0844625055",
-        "copyright": "La sculpture « Body of Knowledge » de Jaume Plensa à l'université Goethe de Francfort, Allemagne (© Todamo/Shutterstock)",
-        "copyrightKeyword": "Journée mondiale de la philosophie",
-        "hsh": "077ae5d7eb5beb6480356d79dd0ee8c1"
+        "hsh": "7a599c0664d4adfb2747e3dc3464b02e"
     }
 ]

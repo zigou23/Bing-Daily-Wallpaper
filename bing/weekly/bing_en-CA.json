@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611270500",
+        "date": "20261127",
+        "url": "https://www.bing.com/th?id=OHR.FaceCanyon_EN-CA9192055868_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FaceCanyon_EN-CA9192055868",
+        "copyright": "Butte at sunset, Face Canyon, Lake Powell, Utah, USA (© Jeff Foott/Minden)",
+        "copyrightKeyword": "Lake Powell",
+        "hsh": "8fa69f4dc55fd82ebdae2e166bab619f",
+        "description": "Hidden among the maze-like sandstone cliffs of southern Utah, Face Canyon offers a striking glimpse into the dramatic landscapes that define Lake Powell, one of the largest human-made lakes in North America. Formed after the construction of the Glen Canyon Dam, the lake transformed once-isolated canyons into waterways that can now be explored by boat, kayak or paddleboard. Towering red rock walls rise above deep blue waters, creating scenery that feels both rugged and serene. Whether arriving at sunset as golden light paints the canyon walls or seeking shade from the midday desert heat, visitors quickly discover that the journey through this remarkable landscape is every bit as rewarding as the destination itself.",
+        "maplink": "37.002262,-111.24176"
+    },
+    {
         "fullstartdate": "202611260500",
         "date": "20261126",
         "url": "https://www.bing.com/th?id=OHR.RFHilo_EN-CA6698357173_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.Megaptera_EN-CA5111539661",
         "copyright": "Diving humpback whale, Kvaloya, Troms, Northern Norway (© Espen Bergersen/Minden Pictures)",
         "copyrightKeyword": "humpback whales",
-        "hsh": "fd91f23173a6ca4ac58a37abc213b143",
-        "description": "Off the coast of Kvaløya in Troms, Northern Norway, humpback whales move through the cold Arctic waters in search of a proper feast. They visit this region during the winter months, following migrating herring into the fjords. Humpbacks are famous for bubble-net feeding, a remarkable hunting technique in which whales blow rings of bubbles to corral fish before lunging upward, open-mouthed, to catch their prey. In today's image, a humpback slips beneath the icy waves under a glowing pastel sky, capturing a moment of tranquility in Norway's wild north.",
-        "maplink": "69.62389,18.53103"
-    },
-    {
-        "fullstartdate": "202611190500",
-        "date": "20261119",
-        "url": "https://www.bing.com/th?id=OHR.KnowledgeSculpture_EN-CA4919138764_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.KnowledgeSculpture_EN-CA4919138764",
-        "copyright": "The \"Body of Knowledge\" sculpture by Jaume Plensa at Goethe University in Frankfurt, Germany (© Todamo/Shutterstock)",
-        "copyrightKeyword": "World Philosophy Day",
-        "hsh": "7aa74325864eeeb0ddd900ef40ec46b8"
+        "hsh": "fd91f23173a6ca4ac58a37abc213b143"
     }
 ]

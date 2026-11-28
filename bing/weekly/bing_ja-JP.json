@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611271500",
+        "date": "20261128",
+        "url": "https://www.bing.com/th?id=OHR.VltavaPrague_JA-JP5027997170_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.VltavaPrague_JA-JP5027997170",
+        "copyright": "旧市街とヴルタヴァ川、プラハ、チェコ (© Lara_Uhryn/Getty Images)",
+        "copyrightKeyword": "プラハ 橋",
+        "hsh": "d0a808c2b76ea1a25dbd3b39f79bfe0f",
+        "description": "チェコの首都プラハを流れるヴルタヴァ川には、歴史ある美しい橋がいくつも架かっています。なかでも有名なのが、1357年に建設が始まったカレル橋です。1841年までは、歩いて川を渡れる唯一の橋として人々の暮らしを支えてきました。今では橋に並ぶ彫像やゴシック様式の塔が見どころとなり、多くの観光客でにぎわっています。ゆっくり景色を楽しみたいなら、少し離れたレギー橋から眺めるのもおすすめです。",
+        "maplink": "50.089959,14.412867"
+    },
+    {
         "fullstartdate": "202611261500",
         "date": "20261127",
         "url": "https://www.bing.com/th?id=OHR.FaceCanyon_JA-JP4501981808_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.RedNice_JA-JP4725682184",
         "copyright": "ニース、プロヴァンス＝アルプ＝コート・ダジュール地域圏、フランス (© Siripong Kaewla-iad/Getty Images)",
         "copyrightKeyword": "ニース フランス",
-        "hsh": "672431e4846482bc1e4ba94fd8b6fa16",
-        "description": "やわらかな陽光に包まれたニースは、テラコッタ色の屋根や歴史ある教会、パステルカラーの建物が寄り集まった、まるでパッチワークのような街です。古代ギリシャ人によって築かれたこの街は、長くサヴォイア家と深い関わりを持ち、正式にフランス領となったのは1860年でした。今も旧市街にはイタリアの面影が残り、古い街並みが紺碧の地中海と陽光あふれるコート・ダジュールの丘に溶け込んでいます。",
-        "maplink": "43.70094,7.26839"
-    },
-    {
-        "fullstartdate": "202611191500",
-        "date": "20261120",
-        "url": "https://www.bing.com/th?id=OHR.Megaptera_JA-JP4163269980_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.Megaptera_JA-JP4163269980",
-        "copyright": "潜るザトウクジラ、クヴァロイア島、トロムス県、ノルウェー (© Espen Bergersen/Minden Pictures)",
-        "copyrightKeyword": "ザトウクジラ",
-        "hsh": "92f413ed480b839d5c27b167251faf89"
+        "hsh": "672431e4846482bc1e4ba94fd8b6fa16"
     }
 ]

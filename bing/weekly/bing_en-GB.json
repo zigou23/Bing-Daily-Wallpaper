@@ -1,5 +1,16 @@
 [
     {
+        "fullstartdate": "202611280000",
+        "date": "20261129",
+        "url": "https://www.bing.com/th?id=OHR.VltavaPrague_EN-GB9335121200_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.VltavaPrague_EN-GB9335121200",
+        "copyright": "Old town and Vltava River, Prague, Czechia (© Lara_Uhryn/Getty Images)",
+        "copyrightKeyword": "Prague bridges",
+        "hsh": "1532f33e4241308e5fc56e65260f828a",
+        "description": "This autumn view from Letná Park looks out over Prague, which was built along the banks of the Vltava River in Czechia. In today's image, the river winds its way through the historic Old Town and Malá Strana districts, beneath Mánes Bridge in the foreground. Many beautiful bridges now span the Vltava, but for centuries there was only one: Charles Bridge, pictured second from the bottom. Its first stones were laid in 1357 during the reign of Charles IV and, until 1841, it was the only way to cross the river on foot. Today, its stone arches, Gothic towers and statues lining the bridge draw large crowds, so visitors are advised to arrive by dawn for the best photographs. Alternatively, they could walk on to the next crossing, Legion Bridge, which is less crowded and offers beautiful views of the National Theatre, Prague Castle and its busier neighbour.",
+        "maplink": "50.089959,14.412867"
+    },
+    {
         "fullstartdate": "202611270000",
         "date": "20261128",
         "url": "https://www.bing.com/th?id=OHR.FaceCanyon_EN-GB5580459617_1920x1080.jpg",
@@ -71,17 +82,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.RedNice_EN-GB3371662260",
         "copyright": "Nice, Provence-Alpes-Côte d'Azur, France (© Siripong Kaewla-iad/Getty Images)",
         "copyrightKeyword": "Nice France",
-        "hsh": "13bf8a12039a156c39ec24f2ffeccbf4",
-        "description": "Bathed in a sun-kissed glow, Nice is a patchwork of terracotta rooftops, historic churches and pastel façades along the French Riviera, as seen in today's image. Founded by the ancient Greeks and long associated with the Italian House of Savoy, Nice officially became part of France in 1860. Today, its layered past remains visible throughout this coastal city in the south of France, where historic architecture meets the blue waters of the Mediterranean and the sunlit hills of the Côte d'Azur.",
-        "maplink": "43.70094,7.26839"
-    },
-    {
-        "fullstartdate": "202611200000",
-        "date": "20261121",
-        "url": "https://www.bing.com/th?id=OHR.Megaptera_EN-GB2786065203_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.Megaptera_EN-GB2786065203",
-        "copyright": "Diving humpback whale, Kvaloya, Troms, Northern Norway (© Espen Bergersen/Minden Pictures)",
-        "copyrightKeyword": "humpback whales",
-        "hsh": "606119e0d0e8ca71b542f6f26dc524cb"
+        "hsh": "13bf8a12039a156c39ec24f2ffeccbf4"
     }
 ]
